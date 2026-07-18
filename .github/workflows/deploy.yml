@@ -31,12 +31,12 @@ jobs:
       url: https://24n.cz/
     steps:
       - name: Checkout news data (this repo)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Приватный репо с генератором/дизайном и скелетом data.json (scaffold.json).
       # Нужен PAT c правом contents:read на davnozdu/24n (секрет SITE_REPO_TOKEN).
       - name: Checkout private site code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: davnozdu/24n
           ref: main
@@ -44,7 +44,7 @@ jobs:
           path: site
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -60,7 +60,7 @@ jobs:
         run: python3 site/generator/generate.py
 
       - name: Setup Node.js 24
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
 
