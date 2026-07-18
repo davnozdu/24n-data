@@ -1,0 +1,93 @@
+name: Deploy 24n from public data
+
+# Публичный репозиторий-хранилище новостей 24n.cz. Робот-автопостер пушит сюда
+# articles.json → этот Action собирает сайт и заливает по FTPS на хостинг.
+#
+# Почему CI, а не прямой FTP с робота: репо ПУБЛИЧНЫЙ → минуты GitHub Actions
+# бесплатны и безлимитны, поэтому «минуты кончались» больше не проблема, а сборку
+# держит один воспроизводимый пайплайн (тот же generate.py + lftp, что и раньше).
+#
+# Код/дизайн (generator, шаблоны, статика, generator/scaffold.json) живёт в
+# ПРИВАТНОМ репо davnozdu/24n — чекаутится сюда по секрету SITE_REPO_TOKEN.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - articles.json
+  # Ручной прогон (перезалить после правок дизайна в приватном репо).
+  workflow_dispatch: {}
+
+concurrency:
+  group: ftp-deploy-24n
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Assemble, build & upload changed files via FTPS
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://24n.cz/
+    steps:
+      - name: Checkout news data (this repo)
+        uses: actions/checkout@v4
+
+      # Приватный репо с генератором/дизайном и скелетом data.json (scaffold.json).
+      # Нужен PAT c правом contents:read на davnozdu/24n (секрет SITE_REPO_TOKEN).
+      - name: Checkout private site code
+        uses: actions/checkout@v4
+        with:
+          repository: davnozdu/24n
+          ref: main
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: site
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Pillow нужен для брендированных OG-карточек новостей без фото.
+      - name: Install Python build deps
+        run: python3 -m pip install --quiet Pillow
+
+      # data.json = приватный scaffold.json + публичный articles.json.
+      - name: Assemble data.json (scaffold + articles)
+        run: python3 .github/scripts/assemble.py site/generator/scaffold.json articles.json site/generator/data.json
+
+      - name: Build static site (data.json → site/dist/)
+        run: python3 site/generator/generate.py
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install deploy dependencies
+        run: npm install --no-audit --no-fund
+
+      # Индекс Pagefind пересобирается поверх свежего dist; изменённые чанки
+      # уйдут на сервер отдельным зеркалом (--delete) в deploy.mjs.
+      - name: Build search index (Pagefind)
+        run: npx pagefind --site site/dist
+
+      # lftp: FTPS с переиспользованием TLS-сессии (basic-ftp падал ECONNRESET).
+      - name: Install lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y lftp >/dev/null
+
+      # Заливка ТОЛЬКО изменённых файлов (mirror по размеру), архив на сервере цел.
+      - name: Upload changed files via FTPS (lftp)
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_PORT: ${{ secrets.FTP_PORT }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}
+          # FTPS по умолчанию; при простом FTP задать переменную FTP_SECURE=false.
+          FTP_SECURE: ${{ vars.FTP_SECURE || 'true' }}
+          # Разовая полная переотправка: variable DEPLOY_FORCE_FULL=true.
+          FORCE_FULL_DEPLOY: ${{ vars.DEPLOY_FORCE_FULL }}
+          # Собранный сайт лежит в site/dist (приватный репо чекаутится в site/).
+          DIST_DIR: site/dist
+        run: npm run deploy
