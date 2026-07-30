@@ -1,8 +1,115 @@
 {
- "updated_at": "2026-07-30T10:22:15+00:00",
+ "updated_at": "2026-07-30T10:39:05+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3048",
+   "slug": "salmonella-v-indeike-iz-albert-preduprezhdenie",
+   "source": "prazsky.denik.cz",
+   "original_url": "https://prazsky.denik.cz/kraj-a-okoli/inspekce-nasla-v-jednom-z-prazskych-albertu-drubezi-s-bakteriemi-salmonely/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=kraj-a-okoli",
+   "top": false,
+   "tags": [
+    "zdorovie",
+    "cesko"
+   ],
+   "published_at": "2026-07-30T12:39:04.444965+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "30 июля 2026, 12:39",
+    "uk": "30 липня 2026, 12:39"
+   },
+   "ru": {
+    "title": "Сальмонелла в индейке из Albert: предупреждение",
+    "lede": "В одном из супермаркетов Albert в городе Praha обнаружили сальмонеллу в охлажденных ломтиках индейки. Продукт уже изъяли из продажи, но он может быть в морозилках покупателей.",
+    "meta_description": "Чешская пищевая инспекция обнаружила сальмонеллу в охлажденных ломтиках индейки из Albert. Продукт снят с продажи, но мог остаться у покупателей. Подробности о ",
+    "paras": [
+     "<p>Чешская сельскохозяйственная и продовольственная инспекция (SZPI) выявила бактерии сальмонеллы в охлажденных ломтиках из индюшиных грудных филе, продававшихся в одном из супермаркетов Albert в городе Praha. Речь идет о продукте со сроком годности до 18 июня. В торговой сети его уже нет, но он мог попасть в домашние морозильники потребителей.</p>",
+     "<p>Лабораторный анализ подтвердил наличие бактерии Salmonella Saintpaul. Как пояснил представитель инспекции <b>Pavel Kopřiva</b>, это более редкий серотип для Чехии, однако он несет не меньший риск для здоровья, чем более распространенные виды сальмонелл.</p>",
+     "<blockquote>Инспекция настоятельно рекомендует не употреблять это мясо в пищу. Замораживание не уничтожает бактерии, заявил Kopřiva. Согласно данным Государственной ветеринарной администрации, сальмонелла погибает при температуре 60 градусов Цельсия и выше, но такая температура должна быть достигнута не только на поверхности, но и внутри куска мяса.</blockquote>",
+     "<p>Компания-поставщик <b>Zelenka</b>, по информации, предоставленной сетью Albert, проводит профилактические и систематические тесты продукции. Данная партия также прошла проверку в аккредитованной внешней лаборатории, и результат оказался отрицательным. Тем не менее, инспекция настаивает на потенциальной опасности.</p>",
+     "<p>Руководитель компании <b>Vladislav Bobčík</b> отметил, что бактерии сальмонеллы могут бессимптомно присутствовать в пищеварительном тракте птицы, и полностью исключить их попадание в мясо невозможно. Поэтому мясо птицы всегда следует тщательно подвергать тепловой обработке.</p>",
+     "<p>В этом году в Чехии уже зафиксировано несколько случаев заражения куриного и индюшиного мяса сальмонеллой. Продукт поступал в разные торговые сети из различных стран. По данному факту инспекция начинает административное производство о наложении штрафа на Albert.</p>"
+    ],
+    "faq": []
+   },
+   "uk": {
+    "title": "Сальмонела в індичці з Albert: попередження",
+    "lede": "В одному з супермаркетів Albert у місті Praha виявили сальмонелу в охолоджених скибочках індички. Продукт уже забрали з продажу, але він міг залишитися в морозилках покупців.",
+    "meta_description": "Чеська харчова інспекція виявила сальмонелу в охолоджених скибочках індички з Albert. Продукт знято з продажу, але він міг залишитися у покупців.",
+    "paras": [
+     "<p>Чеська сільськогосподарська та продовольча інспекція (SZPI) виявила бактерії сальмонели в охолоджених скибочках із грудних філе індички, які продавалися в одному з супермаркетів Albert у місті Praha. Йдеться про продукт із терміном придатності до 18 червня. У торговельній мережі його вже немає, але він міг потрапити в домашні морозильники споживачів.</p>",
+     "<p>Лабораторний аналіз підтвердив наявність бактерії Salmonella Saintpaul. Як пояснив представник інспекції <b}Pavel Kopřiva</b>, це рідкісний серотип для Чехії, проте він несе не менший ризик для здоров'я, ніж поширені види сальмонел.</p>",
+     "<blockquote>Інспекція наполегливо рекомендує не вживати це м'ясо в їжу. Заморожування не знищує бактерії, заявив Kopřiva. Згідно з даними Державної ветеринарної адміністрації, сальмонела гине при температурі 60 градусів Цельсія і вище, але така температура має бути досягнута не тільки на поверхні, а й усередині шматка м'яса.</blockquote>",
+     "<p>Компанія-постачальник <b}Zelenka</b>, за інформацією мережі Albert, проводить профілактичні та систематичні тести продукції. Ця партія також пройшла перевірку в акредитованій зовнішній лабораторії, і результат був негативним. Проте інспекція наполягає на потенційній небезпеці.</p>",
+     "<p>Керівник компанії <b}Vladislav Bobčík</b> зазначив, що бактерії сальмонели можуть бути в травному тракті птиці без симптомів, і повністю виключити їх потрапляння в м'ясо неможливо. Тому м'ясо птиці завжди треба ретельно піддавати тепловій обробці.</p>",
+     "<p>Цього року в Чехії вже зафіксовано кілька випадків зараження курячого та індичого м'яса сальмонелою. Продукт надходив у різні торговельні мережі з різних країн. Через цей факт інспекція розпочинає адміністративне провадження щодо накладення штрафу на Albert.</p>"
+    ],
+    "faq": []
+   },
+   "rank": 105.0,
+   "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/924/92400242-46f8-4092-bff7-dfaa00765c5e.jpeg"
+  },
+  {
+   "id": "n3047",
+   "slug": "chekhiia-na-iuge-moravy-obiavlen-vysshii-uroven-zhary",
+   "source": "novinky.cz",
+   "original_url": "https://www.novinky.cz/clanek/pocasi-extremni-zatez-meteorologove-vydali-nejvyssi-stupen-vystrahy-pro-jizni-moravu-40590478",
+   "top": false,
+   "tags": [
+    "cesko",
+    "zdorovie"
+   ],
+   "published_at": "2026-07-30T12:39:04.444965+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "30 июля 2026, 12:39",
+    "uk": "30 липня 2026, 12:39"
+   },
+   "ru": {
+    "title": "Чехия: на юге Моравы объявлен высший уровень жары",
+    "lede": "На южную Моравию в пятницу и субботу объявлено красное предупреждение о сильной жаре - максимальный уровень опасности.",
+    "meta_description": "Метеорологи выпустили предупреждение об экстремальной жаре на юге Моравы: красный уровень на пятницу и субботу, температура до 39 °C. Оранжевый и желтый уровни ",
+    "paras": [
+     "<p>Чешский гидрометцентр (ČHMÚ) объявил наивысшую степень опасности - <b>красное предупреждение</b> - для южной Моравии. Оно действует в пятницу 31 июля и субботу 1 августа. Причиной стала экстремальная тепловая нагрузка, связанная с длительным периодом жары.</p>",
+     "<p>Для большей части территории Чехии в ближайшие дни действует оранжевый уровень (высокая опасность), а желтое предупреждение (низкая опасность) распространяется на всю страну в четверг и пятницу.</p>",
+     "<blockquote>«В четверг 30 июля и пятницу 31 июля мы ожидаем сильную, а в низинах - очень сильную тепловую нагрузку. Высокие температуры в эти дни повлияют на экономику и инфраструктуру на большей части территории страны», предупреждают синоптики ČHMÚ.</blockquote>",
+     "<p>Температура воздуха в четверг может достигать <b>38 °C</b>, а в пятницу - <b>39 °C</b>. В субботу на юге Моравии всё ещё ожидается до 36 °C.</p>",
+     "<p>Метеорологи также предупреждают о риске перегрева и обезвоживания, рекомендуя избегать прямых солнечных лучей и соблюдать питьевой режим.</p>",
+     "<p>Из-за высокой температуры и засухи расширилась территория с риском возникновения и распространения пожаров. Предупреждение действует почти для всей страны, кроме севера и северо-востока. В пятницу в южной Моравии и Пльзеньском крае риск будет особенно высоким.</p>",
+     "<blockquote>«В выходные мы ожидаем ослабление волны жары с запада, хотя температуры всё равно будут высокими - выше 32 °C. Тепловая нагрузка останется высокой из-за повышенной влажности воздуха», отмечают синоптики.</blockquote>",
+     "<p>После небольшого похолодания в выходные синоптики прогнозируют новое потепление в начале следующей недели. В ČHMÚ предупреждают, что в ближайшие дни, скорее всего, будут выпущены новые предупреждения.</p>"
+    ],
+    "faq": []
+   },
+   "uk": {
+    "title": "Чехія: на півдні Моравії оголошено найвищий рівень спеки",
+    "lede": "На південну Моравію в п'ятницю та суботу оголошено червоне попередження про сильну спеку. Це максимальний рівень небезпеки.",
+    "meta_description": "Метеорологи попередили про екстремальну спеку на півдні Моравії: червоний рівень на п'ятницю та суботу, температура до 39 °C. Помаранчевий та жовтий рівні для і",
+    "paras": [
+     "<p>Чеський гідрометцентр (ČHMÚ) оголосив найвищий ступінь небезпеки, <b style=\"font-weight: normal;\">червоне попередження</b>, для південної Моравії. Воно діє в п'ятницю 31 липня та суботу 1 серпня. Причиною стало екстремальне теплове навантаження через тривалу спеку.</p>",
+     "<p>Для більшої частини території Чехії найближчими днями діє помаранчевий рівень (висока небезпека). Жовте попередження (низька небезпека) поширюється на всю країну в четвер та п'ятницю.</p>",
+     "<blockquote style=\"font-weight: normal;\">«У четвер 30 липня та п'ятницю 31 липня ми очікуємо сильну, а в низинах, дуже сильну теплову навантаження. Високі температури в ці дні вплинуть на економіку та інфраструктуру на більшій частині території країни», попереджають синоптики ČHMÚ.</blockquote>",
+     "<p>Температура повітря в четвер може досягти <b style=\"font-weight: normal;\">38 °C</b>, а в п'ятницю, <b style=\"font-weight: normal;\">39 °C</b>. У суботу на півдні Моравії все ще очікується до 36 °C.</p>",
+     "<p>Метеорологи також попереджають про ризик перегріву та зневоднення. Вони радять уникати прямих сонячних променів і пити більше води.</p>",
+     "<p>Через високу температуру та посуху зросла територія з ризиком виникнення та поширення пожеж. Попередження діє майже для всієї країни, крім півночі та північного сходу. У п'ятницю на півдні Моравії та в краї Plzeň ризик буде особливо високим.</p>",
+     "<blockquote style=\"font-weight: normal;\">«На вихідних ми очікуємо послаблення хвилі спеки із запада, хоча температури все одно будуть високими, понад 32 °C. Теплове навантаження залишиться високим через підвищену вологість повітря», зазначають синоптики.</blockquote>",
+     "<p>Після невеликого похолодання на вихідних синоптики прогнозують нове потепління на початку наступного тижня. У ČHMÚ попереджають, що найближчими днями, швидше за все, з'являться нові попередження.</p>"
+    ],
+    "faq": []
+   },
+   "rank": 115.0,
+   "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nO573v8MsN3e2PyxHWScKP/7502/pocasi-teploty-vystraha.png?fl=cro,0,8,1171,658%7Cres,1200,,1%7Cwebp,75",
+   "images": [
+    "https://d15-a.sdn.cz/d_15/c_img_qC_A/kQMlcCt5zmCni4DLZrHDolIM/b19d.jpeg?fl=cro,0,127,4096,2304%7Cres,1200,,1%7Cwebp,75"
+   ]
+  },
   {
    "id": "n3046",
    "slug": "pirati-predlagaiut-krizisnuiu-liniiu-dlia-pomoshchi-pri-zhare",
@@ -15,8 +122,8 @@
    ],
    "published_at": "2026-07-30T12:22:14.972493+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "16 минут назад",
+    "uk": "16 хвилин тому"
    },
    "date": {
     "ru": "30 июля 2026, 12:22",
@@ -73,8 +180,8 @@
    ],
    "published_at": "2026-07-30T12:22:14.972493+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "16 минут назад",
+    "uk": "16 хвилин тому"
    },
    "date": {
     "ru": "30 июля 2026, 12:22",
@@ -120,8 +227,8 @@
    ],
    "published_at": "2026-07-30T12:22:14.972493+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "16 минут назад",
+    "uk": "16 хвилин тому"
    },
    "date": {
     "ru": "30 июля 2026, 12:22",
@@ -164,8 +271,8 @@
    ],
    "published_at": "2026-07-30T12:05:46.889365+02:00",
    "time": {
-    "ru": "16 минут назад",
-    "uk": "16 хвилин тому"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "30 июля 2026, 12:05",
@@ -214,8 +321,8 @@
    ],
    "published_at": "2026-07-30T11:28:58.555235+02:00",
    "time": {
-    "ru": "53 минуты назад",
-    "uk": "53 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "30 июля 2026, 11:28",
@@ -379,8 +486,8 @@
    ],
    "published_at": "2026-07-30T09:34:06.531258+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "30 июля 2026, 09:34",
@@ -418,7 +525,7 @@
     ],
     "faq": []
    },
-   "rank": 71.0,
+   "rank": 70.915,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/07/Revolut-private-equity-Czech-Republic.jpg",
    "images": [
     "https://praguemorning.cz/wp-content/uploads/2026/07/Untitled-design-1.png"
@@ -473,7 +580,7 @@
     ],
     "faq": []
    },
-   "rank": 104.812,
+   "rank": 104.387,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/590/5903c944-1ea1-4c26-84e3-7589b5873901.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/640x426/4f9/4f90097d-0c37-4e44-8ef6-9bf2d67daf68.webp"
@@ -522,7 +629,7 @@
     ],
     "faq": []
    },
-   "rank": 98.196,
+   "rank": 97.791,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/2-2026-07-29-P-CV-Prunerov-3.jpeg"
   },
   {
@@ -582,7 +689,7 @@
     ],
     "faq": []
    },
-   "rank": 97.749,
+   "rank": 97.344,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qC_A/nO2CysqjGrCe62NXwHEw2Ox/9fc9.jpeg?fl=cro,0,182,3500,1968%7Cres,1200,,1"
   },
   {
@@ -676,7 +783,7 @@
      }
     ]
    },
-   "rank": 54.004,
+   "rank": 53.778,
    "image_url": "https://cdn.kudyznudy.cz/files/c7/c7bc711f-dc26-4f54-a857-2fdbd027c65a.jpg?v=20240827145500",
    "images": [
     "https://cdn.kudyznudy.cz/files/31/31e521e6-e53f-40c5-8b51-5de52daec806.webp?v=20240827145448",
@@ -773,7 +880,7 @@
      }
     ]
    },
-   "rank": 101.258,
+   "rank": 100.833,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/img-20251121-wa0051_251121-173320_fso.jpg"
   },
   {
@@ -789,8 +896,8 @@
    ],
    "published_at": "2026-07-30T06:33:26.583077+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "30 июля 2026, 06:33",
@@ -848,7 +955,7 @@
      }
     ]
    },
-   "rank": 67.155,
+   "rank": 66.872,
    "image_url": "https://cdn.kudyznudy.cz/files/73/73a462fd-42a8-4abd-beef-601a793f8db2.jpg?v=20250730073907",
    "images": [
     "https://cdn.kudyznudy.cz/files/d0/d0a20f0c-8590-481a-8cf2-1b7afc331fd3.webp?v=20221012112957",
@@ -936,7 +1043,7 @@
      }
     ]
    },
-   "rank": 88.451,
+   "rank": 88.077,
    "image_url": "https://cdn.kudyznudy.cz/files/c3/c32df092-3cb2-4ce3-bfbe-ffa67b2a4eb1.jpg?v=20210802224437",
    "images": [
     "https://cdn.kudyznudy.cz/files/c4/c452405a-1476-49e9-819c-b61b67d51305.webp?v=20250730121325",
@@ -1027,7 +1134,7 @@
      }
     ]
    },
-   "rank": 95.623,
+   "rank": 95.218,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/profimedia-104240070_260729-161409_jgr.jpg",
    "video": {
     "kind": "iframe",
@@ -1117,7 +1224,7 @@
      }
     ]
    },
-   "rank": 62.529,
+   "rank": 62.264,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/josef-hajicek-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560492/nebuchadnezzar-nepos-games-08-820x512-c.jpg",
@@ -1208,7 +1315,7 @@
      }
     ]
    },
-   "rank": 90.842,
+   "rank": 90.457,
    "sources": [
     {
      "domain": "sokolovsky.denik.cz",
@@ -1299,7 +1406,7 @@
      }
     ]
    },
-   "rank": 90.494,
+   "rank": 90.109,
    "sources": [
     {
      "domain": "sportyzive.cz",
@@ -1408,7 +1515,7 @@
      }
     ]
    },
-   "rank": 101.481,
+   "rank": 101.035,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/4de/4de77861-c67b-4171-af49-d6d32a2702d3.jpeg"
   },
   {
@@ -1423,8 +1530,8 @@
    ],
    "published_at": "2026-07-30T02:30:45.024678+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "30 июля 2026, 02:30",
@@ -1504,7 +1611,7 @@
      }
     ]
    },
-   "rank": 90.093,
+   "rank": 89.688,
    "sources": [
     {
      "domain": "denik.cz",
@@ -1616,7 +1723,7 @@
      }
     ]
    },
-   "rank": 62.729,
+   "rank": 62.446,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1643,8 +1750,8 @@
    ],
    "published_at": "2026-07-30T01:34:39.548131+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "30 июля 2026, 01:34",
@@ -1704,7 +1811,7 @@
      }
     ]
    },
-   "rank": 93.18,
+   "rank": 92.755,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-6-chysta-nekolik-podzimnich-vyletu-pro-seniory.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -1803,7 +1910,7 @@
      }
     ]
    },
-   "rank": 63.25,
+   "rank": 62.958,
    "sources": [
     {
      "domain": "metro.cz",
@@ -1841,8 +1948,8 @@
    ],
    "published_at": "2026-07-30T00:37:08.021281+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "30 июля 2026, 00:37",
@@ -1904,7 +2011,7 @@
      }
     ]
    },
-   "rank": 113.565,
+   "rank": 113.039,
    "sources": [
     {
      "domain": "cfotrends.cz",
@@ -1987,7 +2094,7 @@
      }
     ]
    },
-   "rank": 82.598,
+   "rank": 82.214,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-4-planuje-vystavbu-nekolika-parkovacich-nastaveb.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -2010,8 +2117,8 @@
    ],
    "published_at": "2026-07-29T23:23:44.774860+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 23:23",
@@ -2045,7 +2152,7 @@
     ],
     "faq": []
    },
-   "rank": 86.361,
+   "rank": 85.953,
    "image_url": "https://i3.cn.cz/16/1785355111_P2026072908653.jpeg",
    "images": [
     "https://i3.cn.cz/2/1785355117_P2026072908635.jpeg",
@@ -2101,7 +2208,7 @@
     ],
     "faq": []
    },
-   "rank": 88.109,
+   "rank": 87.684,
    "image_url": "https://i3.cn.cz/16/1683215955_P2023050407544.jpg",
    "video": {
     "kind": "iframe",
@@ -2155,7 +2262,7 @@
     ],
     "faq": []
    },
-   "rank": 80.11,
+   "rank": 79.721,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/aaaa-2.jpg",
    "video": {
     "kind": "iframe",
@@ -2215,7 +2322,7 @@
     ],
     "faq": []
    },
-   "rank": 87.621,
+   "rank": 87.195,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/images/686eb644e9f8caa0606d9cf6fa205ee4.jpeg"
   },
   {
@@ -2230,8 +2337,8 @@
    ],
    "published_at": "2026-07-29T21:22:27.939631+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 21:22",
@@ -2281,7 +2388,7 @@
     ],
     "faq": []
    },
-   "rank": 74.404,
+   "rank": 74.04,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/JOB62567f7822_55PrideParade_KayHalir_2.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/25/081/vidw/DYN6f420c1ec1_113356_5144829.jpg",
@@ -2337,7 +2444,7 @@
     ],
     "faq": []
    },
-   "rank": 78.161,
+   "rank": 77.776,
    "image_url": "https://1gr.cz/tempimg/fb/2023/6/MAJ148bd75e7_235642_11259957.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/041/vidw/LYSc3b1f1190c_P2026040205818.jpg",
@@ -2397,7 +2504,7 @@
     ],
     "faq": []
    },
-   "rank": 66.287,
+   "rank": 65.959,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qC_A/nO2CysqjGrCDmo6F2DGzrs21/8056.jpeg?fl=cro,0,85,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2413,8 +2520,8 @@
    ],
    "published_at": "2026-07-29T20:32:14.924886+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 20:32",
@@ -2448,7 +2555,7 @@
     ],
     "faq": []
    },
-   "rank": 57.024,
+   "rank": 56.74,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/ZAR7161059ad2_35de4760be74d75c19ad35bb.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/073/vidw/LYS6208e1a8e0_profimedia_1061335100.jpg",
@@ -2468,8 +2575,8 @@
    ],
    "published_at": "2026-07-29T20:32:14.924886+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 20:32",
@@ -2501,7 +2608,7 @@
     ],
     "faq": []
    },
-   "rank": 77.39,
+   "rank": 77.005,
    "image_url": "https://www.prazskypatriot.cz/data/images/lidem-z-ciziny-pomaha-interkulturni-pracovnik-na-urade-prahy-1.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -2555,7 +2662,7 @@
     ],
     "faq": []
    },
-   "rank": 76.859,
+   "rank": 76.473,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/447/44784084-f247-4605-8243-c3465d2dfb63.jpeg"
   },
   {
@@ -2611,7 +2718,7 @@
     ],
     "faq": []
    },
-   "rank": 44.365,
+   "rank": 44.142,
    "image_url": "https://cdn.kudyznudy.cz/files/cd/cd194eab-da9a-49d1-bca7-0cdaa448ec59.jpg?v=20240728082632",
    "images": [
     "https://cdn.kudyznudy.cz/files/da/da8151f7-d226-4db3-ba10-72b7ee341ad0.webp?v=20260729094549",
@@ -2670,7 +2777,7 @@
     ],
     "faq": []
    },
-   "rank": 64.231,
+   "rank": 63.907,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/74e/74ed1241-502f-428b-8f01-511a95ea068b.jpeg"
   },
   {
@@ -2736,7 +2843,7 @@
     ],
     "faq": []
    },
-   "rank": 92.333,
+   "rank": 91.867,
    "image_url": "https://1gr.cz/tempimg/fb/2023/12/DAV7d48b56b2c_shutterstock_2206914231.jpg"
   },
   {
@@ -2782,7 +2889,7 @@
     ],
     "faq": []
    },
-   "rank": 72.26,
+   "rank": 71.896,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/01/DSC_2618.jpg"
   },
   {
@@ -2831,7 +2938,7 @@
     ],
     "faq": []
    },
-   "rank": 44.296,
+   "rank": 44.07,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/a3_260729-141424_mkv.jpeg"
   },
   {
@@ -2885,7 +2992,7 @@
     ],
     "faq": []
    },
-   "rank": 79.069,
+   "rank": 78.664,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/391/391c5769-757e-492d-af1c-cfc238a013b1.jpeg"
   },
   {
@@ -2900,8 +3007,8 @@
    ],
    "published_at": "2026-07-29T18:37:15.205214+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 18:37",
@@ -2935,7 +3042,7 @@
     ],
     "faq": []
    },
-   "rank": 82.629,
+   "rank": 82.204,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/politici-2/husbauer-zastpko-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/politici-2/husbauer-zastpko-475.jpg",
@@ -2958,8 +3065,8 @@
    ],
    "published_at": "2026-07-29T18:37:15.205214+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 18:37",
@@ -2987,7 +3094,7 @@
     ],
     "faq": []
    },
-   "rank": 90.498,
+   "rank": 90.033,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2025/07/DSC_6137-1.jpg"
   },
   {
@@ -3001,8 +3108,8 @@
    ],
    "published_at": "2026-07-29T18:32:35.774320+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 18:32",
@@ -3044,7 +3151,7 @@
     ],
     "faq": []
    },
-   "rank": 64.437,
+   "rank": 64.105,
    "forecast": true
   },
   {
@@ -3059,8 +3166,8 @@
    ],
    "published_at": "2026-07-29T18:23:21.525343+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 18:23",
@@ -3114,7 +3221,7 @@
     ],
     "faq": []
    },
-   "rank": 90.897,
+   "rank": 90.427,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/9e8/9e845455-a830-461a-aeb5-59429dbab905.jpeg"
   },
   {
@@ -3129,8 +3236,8 @@
    ],
    "published_at": "2026-07-29T18:23:21.525343+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 июля 2026, 18:23",
@@ -3158,7 +3265,7 @@
     ],
     "faq": []
    },
-   "rank": 66.606,
+   "rank": 66.261,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/123-8.jpg"
   },
   {
@@ -3211,7 +3318,7 @@
     ],
     "faq": []
    },
-   "rank": 82.449,
+   "rank": 82.019,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/KOP938168b091_Senat_Prochazkova.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/062/vidw/KOP8d256e930c_P2026061703781.jpg",
@@ -3272,7 +3379,7 @@
     ],
     "faq": []
    },
-   "rank": 69.647,
+   "rank": 69.282,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yDwtd2kW9HUckFx/4e27/elektrokolo-elektrokolobezka-pozar.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3330,7 +3437,7 @@
     ],
     "faq": []
    },
-   "rank": 70.052,
+   "rank": 69.686,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/profimedia-109517341_260729-123900_ako.jpg"
   },
   {
@@ -3384,7 +3491,7 @@
     ],
     "faq": []
    },
-   "rank": 84.195,
+   "rank": 83.749,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/guvo59-hand-3632914_260729-145312_ako.jpg"
   },
   {
@@ -3440,7 +3547,7 @@
     ],
     "faq": []
    },
-   "rank": 84.195,
+   "rank": 83.749,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/zuj_6743_250401-113317_zuj.jpg"
   },
   {
@@ -3510,7 +3617,7 @@
     ],
     "faq": []
    },
-   "rank": 90.14,
+   "rank": 89.654,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/5e4/5e48d598-dc54-453a-a3e2-041fd9c13776.jpeg",
    "images": [
     "https://www.denik.cz/images/api/image/640x426/351/351d3e5f-5b99-4844-bbda-c33cfc93f9f0.webp",
@@ -3563,7 +3670,7 @@
     ],
     "faq": []
    },
-   "rank": 53.289,
+   "rank": 53.001,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/05/Senior-Taxi-Prague-14.jpg",
    "images": [
     "https://praguemorning.cz/wp-content/uploads/2026/07/Untitled-design-1.png"
@@ -3615,7 +3722,7 @@
     ],
     "faq": []
    },
-   "rank": 78.444,
+   "rank": 78.019,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/metro/depo-hostivar-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/metro/depo-hostivar-475.jpg",
@@ -3673,7 +3780,7 @@
     ],
     "faq": []
    },
-   "rank": 74.709,
+   "rank": 74.304,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yC3TVQLPcHVwTdV/e6bb/reeva-instantni-nudle.jpeg?fl=cro,0,0,560,315%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3741,7 +3848,7 @@
     ],
     "faq": []
    },
-   "rank": 60.362,
+   "rank": 60.034,
    "image_url": "https://i3.cn.cz/16/1785309568_P2026072902278.jpg",
    "images": [
     "https://i3.cn.cz/6/1785309601_P2026072902281.jpg",
@@ -3802,7 +3909,7 @@
     ],
     "faq": []
    },
-   "rank": 74.709,
+   "rank": 74.304,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/_zuj3526_251216-123000_zuj.jpg"
   },
   {
@@ -3818,8 +3925,8 @@
    ],
    "published_at": "2026-07-29T15:33:56.448757+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "29 июля 2026, 15:33",
@@ -3857,7 +3964,7 @@
     ],
     "faq": []
    },
-   "rank": 85.423,
+   "rank": 84.958,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/881/8818497f-992e-4b23-b8e3-64b4b560cea8.jpeg"
   },
   {
@@ -3872,8 +3979,8 @@
    ],
    "published_at": "2026-07-29T15:33:56.448757+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "29 июля 2026, 15:33",
@@ -3911,7 +4018,7 @@
     ],
     "faq": []
    },
-   "rank": 71.31,
+   "rank": 70.921,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/8485e360-c0f7-498a-b_210428-124526_pj.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260729-150337_mkm.jpeg?itok=5mPzUDT4"
@@ -3962,7 +4069,7 @@
     ],
     "faq": []
    },
-   "rank": 84.416,
+   "rank": 83.95,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/salmon_260729-143805_cen.png?itok=bTZPo__S"
   },
   {
@@ -4012,7 +4119,7 @@
     ],
     "faq": []
    },
-   "rank": 80.261,
+   "rank": 79.815,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/stavby-2/kramaova-vila-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/stavby-2/kramaova-vila-475.jpg",
@@ -4071,7 +4178,7 @@
     ],
     "faq": []
    },
-   "rank": 83.36,
+   "rank": 82.895,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZCCONkBM0HVtRC7/ae40/zena-lek-pacient.jpeg?fl=cro,0,356,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4112,7 +4219,7 @@
     ],
     "faq": []
    },
-   "rank": 82.822,
+   "rank": 82.356,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZDPeBmChpHVty7W/2d29/babis-schillerova.jpeg?fl=cro,0,134,3507,1972%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4164,7 +4271,7 @@
     ],
     "faq": []
    },
-   "rank": 52.214,
+   "rank": 51.92,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/cheifs_stadion.jpg",
    "video": {
     "kind": "iframe",
@@ -4230,7 +4337,7 @@
     ],
     "faq": []
    },
-   "rank": 71.58,
+   "rank": 71.174,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/fb0/fb05fa8a-5f5b-420e-b85a-463a81b6b01b.jpeg"
   },
   {
@@ -4279,7 +4386,7 @@
     ],
     "faq": []
    },
-   "rank": 57.979,
+   "rank": 57.651,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_F_I/wDeBOQ7.jpeg?fl=cro,0,28,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4333,7 +4440,7 @@
     ],
     "faq": []
    },
-   "rank": 66.915,
+   "rank": 66.53,
    "image_url": "https://1gr.cz/tempimg/fb/2026/4/ROW87ad411fc7_205337_8934180.jpg"
   },
   {
@@ -4381,7 +4488,7 @@
     ],
     "faq": []
    },
-   "rank": 57.051,
+   "rank": 56.723,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/08/DSC_7451.jpg"
   },
   {
@@ -4436,7 +4543,7 @@
     ],
     "faq": []
    },
-   "rank": 81.002,
+   "rank": 80.537,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/KOP62bcafc2ad_113738_28082014.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/073/vidw/HEL6a2143dfc4_Juchelka_v_senatu.jpg",
@@ -4461,8 +4568,8 @@
    ],
    "published_at": "2026-07-29T12:34:12.097731+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "29 июля 2026, 12:34",
@@ -4492,7 +4599,7 @@
     ],
     "faq": []
    },
-   "rank": 69.954,
+   "rank": 69.549,
    "image_url": "https://cdn.kudyznudy.cz/files/3f/3fca7c2a-e20d-42f7-98e4-0c31cc08ee13.jpg?v=20211005105838",
    "images": [
     "https://cdn.kudyznudy.cz/files/a2/a248ca3c-ef13-443c-9986-7483be8fe105.webp?v=20221001105714",
@@ -4544,7 +4651,7 @@
     ],
     "faq": []
    },
-   "rank": 73.743,
+   "rank": 73.314,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/a.jpg"
   },
   {
@@ -4596,7 +4703,7 @@
     ],
     "faq": []
    },
-   "rank": 79.495,
+   "rank": 79.029,
    "image_url": "https://i3.cn.cz/16/1785314890_P2026072902771.jpg",
    "images": [
     "https://i3.cn.cz/6/1785314921_P2026072902780.jpg",
@@ -4650,7 +4757,7 @@
     ],
     "faq": []
    },
-   "rank": 52.18,
+   "rank": 51.872,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/park1.jpeg"
   },
   {
@@ -4708,7 +4815,7 @@
     ],
     "faq": []
    },
-   "rank": 50.884,
+   "rank": 50.577,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yCpHP2EFMHVoz6U/14e9/urednice.jpeg?fl=cro,0,83,2560,1440%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4765,7 +4872,7 @@
     ],
     "faq": []
    },
-   "rank": 59.139,
+   "rank": 58.774,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yBVeAVE4HHVnoCZ/2f57/michalovice.jpeg?fl=cro,0,72,1400,787%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4815,7 +4922,7 @@
     ],
     "faq": []
    },
-   "rank": 74.489,
+   "rank": 74.024,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZDMeBxWeHVMQHs/8bf7/zabi-stehynka-statni-veterinarni-sprava-svs-antibiotika.png?fl=cro,0,20,586,329%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4877,7 +4984,7 @@
     ],
     "faq": []
    },
-   "rank": 60.448,
+   "rank": 60.07,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/zehnder-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560226/zehnder-7-820x512-c.jpg"
@@ -4958,7 +5065,7 @@
      }
     ]
    },
-   "rank": 50.865,
+   "rank": 50.541,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/DSC_5120-1.jpg",
    "video": {
     "kind": "iframe",
@@ -5053,7 +5160,7 @@
      }
     ]
    },
-   "rank": 78.161,
+   "rank": 77.655,
    "image_url": "https://i.iinfo.cz/images/689/technologie-a-ai-v-tovarnach.png"
   },
   {
@@ -5147,7 +5254,7 @@
      }
     ]
    },
-   "rank": 75.035,
+   "rank": 74.549,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/_zuj4401_260203-153707_zuj.jpg"
   },
   {
@@ -5229,7 +5336,7 @@
      }
     ]
    },
-   "rank": 63.992,
+   "rank": 63.567,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/fotografie-nalezeneho-elektrokola-2-rastr.jpg"
   },
   {
@@ -5303,7 +5410,7 @@
      }
     ]
    },
-   "rank": 45.709,
+   "rank": 45.405,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/nahled-38.jpg"
   },
   {
@@ -5389,7 +5496,7 @@
      }
     ]
    },
-   "rank": 59.117,
+   "rank": 58.724,
    "sources": [
     {
      "domain": "sokolovsky.denik.cz",
@@ -5485,7 +5592,7 @@
      }
     ]
    },
-   "rank": 62.768,
+   "rank": 62.351,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -5612,7 +5719,7 @@
      }
     ]
    },
-   "rank": 64.294,
+   "rank": 63.861,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -5742,7 +5849,7 @@
      }
     ]
    },
-   "rank": 58.792,
+   "rank": 58.387,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/19d/19d38c5c-18aa-449f-8702-2f1e0d1120fe.jpeg"
   },
   {
@@ -5828,7 +5935,7 @@
      }
     ]
    },
-   "rank": 49.243,
+   "rank": 48.899,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/Foto-strecha-2.png"
   },
   {
@@ -5934,7 +6041,7 @@
      }
     ]
    },
-   "rank": 73.576,
+   "rank": 73.061,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -6044,7 +6151,7 @@
      }
     ]
    },
-   "rank": 43.019,
+   "rank": 42.705,
    "image_url": "https://cdn.kudyznudy.cz/files/09/09a5396c-0ed6-47d0-ad60-348e98a51cda.jpg?v=20210705083527",
    "images": [
     "https://cdn.kudyznudy.cz/files/41/410a2686-8f35-4589-bd32-92f1ef22a03f.webp?v=20221001143927",
@@ -6135,7 +6242,7 @@
      }
     ]
    },
-   "rank": 66.095,
+   "rank": 65.609,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -6218,7 +6325,7 @@
      }
     ]
    },
-   "rank": 56.459,
+   "rank": 56.034,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/445/445a9da5-9cca-4490-867b-35997875949b.jpeg"
   },
   {
@@ -6314,7 +6421,7 @@
      }
     ]
    },
-   "rank": 50.721,
+   "rank": 50.336,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/VEN8969dec35e_81161200.jpg"
   },
   {
@@ -6402,7 +6509,7 @@
      }
     ]
    },
-   "rank": 53.545,
+   "rank": 53.136,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_oV_A/nPt0vAiT3tcD8Zn3B6wH8X/4a5e/fotovoltaika-fve-bytovy-dum.jpeg?fl=cro,0,189,3650,2053%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6498,7 +6605,7 @@
      }
     ]
    },
-   "rank": 69.403,
+   "rank": 68.868,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -6598,7 +6705,7 @@
      }
     ]
    },
-   "rank": 54.758,
+   "rank": 54.333,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/d6.jpg",
    "video": {
     "kind": "iframe",
@@ -6677,7 +6784,7 @@
      }
     ]
    },
-   "rank": 44.328,
+   "rank": 43.984,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/msk.png",
    "video": {
     "kind": "iframe",
@@ -6775,7 +6882,7 @@
      }
     ]
    },
-   "rank": 53.395,
+   "rank": 52.98,
    "sources": [
     {
      "domain": "silive.com",
@@ -6892,7 +6999,7 @@
      }
     ]
    },
-   "rank": 57.365,
+   "rank": 56.92,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -6969,7 +7076,7 @@
     ],
     "faq": []
    },
-   "rank": 63.505,
+   "rank": 62.998,
    "image_url": "https://i3.cn.cz/16/1783942092_P2026071303248.jpg",
    "images": [
     "https://i3.cn.cz/2/1784873351_P2026072401580.jpg",
@@ -7022,7 +7129,7 @@
     ],
     "faq": []
    },
-   "rank": 49.49,
+   "rank": 49.085,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QL_y/pn2T6/milan-knizak-malir-galerie-vystava.jpeg?fl=cro,0,547,5373,3022%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -7078,7 +7185,7 @@
     ],
     "faq": []
    },
-   "rank": 47.016,
+   "rank": 46.631,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/profimedia-107919945_260728-172725_ntu.jpg"
   },
   {
@@ -7131,7 +7238,7 @@
     ],
     "faq": []
    },
-   "rank": 55.896,
+   "rank": 55.43,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZDMeBxTmwHUc9a4/160c.jpeg?fl=cro,0,160,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -7186,7 +7293,7 @@
     ],
     "faq": []
    },
-   "rank": 45.824,
+   "rank": 45.439,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/images/d96b7f2c2a8ad3a2fce854d2ed33fe37.jpg",
    "video": {
     "kind": "iframe",
@@ -7243,7 +7350,7 @@
     ],
     "faq": []
    },
-   "rank": 46.642,
+   "rank": 46.247,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/images/cf3a25007be0be747b986bdede89a062.jpg"
   },
   {
@@ -7294,7 +7401,7 @@
     ],
     "faq": []
    },
-   "rank": 39.912,
+   "rank": 39.567,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yDwtd2CQAHVOEp0/9a9d/pieta-bratislava-havarie-vzpominka.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -7341,7 +7448,7 @@
     ],
     "faq": []
    },
-   "rank": 43.813,
+   "rank": 43.428,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/premium/PLUb9405b4c8c_seno_2.jpg"
   },
   {
@@ -7415,7 +7522,7 @@
     ],
     "faq": []
    },
-   "rank": 52.647,
+   "rank": 52.181,
    "image_url": "https://1gr.cz/tempimg/fb/2013/6/PET4bd68d_rakovinaplic2.jpg"
   },
   {
@@ -7473,7 +7580,7 @@
     ],
     "faq": []
    },
-   "rank": 45.78,
+   "rank": 45.375,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/kOyy3Gv43yDRXV97HHVMzRA/965b/image.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1",
    "images": [
     "https://d39-a.sdn.cz/d_39/c_img_qD_A/kOyy3Gv43yBJIAKBDeHVMpZF/708b.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
@@ -7537,7 +7644,7 @@
     ],
     "faq": []
    },
-   "rank": 53.866,
+   "rank": 53.38,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/cfb/cfbe02ba-b922-4a3f-9bdf-eb14f1b0fe43.jpeg"
   },
   {
@@ -7591,7 +7698,7 @@
     ],
     "faq": []
    },
-   "rank": 53.866,
+   "rank": 53.38,
    "image_url": "https://1gr.cz/tempimg/fb/2023/10/KOTa8de70ffc5_48MADP_3_CZECH_KRETINSKY.JPG"
   },
   {
@@ -7664,7 +7771,7 @@
     ],
     "faq": []
    },
-   "rank": 41.919,
+   "rank": 41.535,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/kOyy3Gv43yDNiHVCMnHVOltW/e3ef/madarsko.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1"
   },
   {
@@ -7711,7 +7818,7 @@
     ],
     "faq": []
    },
-   "rank": 42.914,
+   "rank": 42.509,
    "image_url": "https://1gr.cz/tempimg/fb/2021/7/LUH8c8e57_Depositphotos_377379878_xl_2015.jpg"
   },
   {
@@ -7761,7 +7868,7 @@
     ],
     "faq": []
    },
-   "rank": 42.914,
+   "rank": 42.509,
    "image_url": "https://i3.cn.cz/16/1785060233_P2026072602377.jpg",
    "images": [
     "https://i3.cn.cz/2/1785253405_P2026072805837.jpg",
@@ -7820,7 +7927,7 @@
     ],
     "faq": []
    },
-   "rank": 30.315,
+   "rank": 30.029,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/profimedia-083063733_240329-152441_gut.jpg"
   },
   {
@@ -7866,7 +7973,7 @@
     ],
     "faq": []
    },
-   "rank": 42.443,
+   "rank": 42.038,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/rv8_5493_240122-154521_vlf.jpg"
   },
   {
@@ -7910,7 +8017,7 @@
     ],
     "faq": []
    },
-   "rank": 39.572,
+   "rank": 39.187,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-14-domov-pro-seniory-bojcenkova-je-stavbou-roku-2025.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -7971,7 +8078,7 @@
     ],
     "faq": []
    },
-   "rank": 41.655,
+   "rank": 41.25,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yCpHP2BRXHVO6uB/febd/intersucho-nasyceni-pudy-pocasi-sucho.png?fl=cro,0,0,1566,880%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -8037,7 +8144,7 @@
     ],
     "faq": []
    },
-   "rank": 41.644,
+   "rank": 41.235,
    "image_url": "https://i3.cn.cz/16/1783418151_autista.jpg"
   },
   {
@@ -8099,7 +8206,7 @@
     ],
     "faq": []
    },
-   "rank": 50.394,
+   "rank": 49.887,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/65a/65a14b54-d38a-404e-9ad6-37631a0e525c.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/640x426/3a7/3a7d7268-2203-419a-9f09-31abe0bd5e0c.webp"
@@ -8156,7 +8263,7 @@
     ],
     "faq": []
    },
-   "rank": 39.484,
+   "rank": 39.079,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/708/70817186-8675-4b97-afe1-95ed63795768.jpeg"
   },
   {
@@ -8207,7 +8314,7 @@
     ],
     "faq": []
    },
-   "rank": 44.523,
+   "rank": 44.057,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/dsc_4098_170530-092535_fij.jpg"
   },
   {
@@ -8261,7 +8368,7 @@
     ],
     "faq": []
    },
-   "rank": 36.422,
+   "rank": 36.037,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZBRWuKo7rHVJndM/9a24/migrace.jpeg?fl=cro,0,8,872,490%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -8317,7 +8424,7 @@
     ],
     "faq": []
    },
-   "rank": 33.436,
+   "rank": 33.079,
    "image_url": "https://cc.cz/wp-content/uploads/2026/05/warhammer-games-workshop-praha-space-marine-3.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/545222/warhammer-games-workshop-08-820x512-c.jpg"
@@ -8383,7 +8490,7 @@
     ],
     "faq": []
    },
-   "rank": 37.87,
+   "rank": 37.465,
    "image_url": "https://1gr.cz/tempimg/fb/2025/11/KOPa5cb66419f_184406_16858804.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/25/041/vidw/DAV6adb67bc29_113928_8045644.jpg",
@@ -8442,7 +8549,7 @@
     ],
     "faq": []
    },
-   "rank": 41.657,
+   "rank": 41.212,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZDr63VcLZHVKfiZ/4c9d.jpeg?fl=cro,0,417,4000,2250%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -8505,7 +8612,7 @@
     ],
     "faq": []
    },
-   "rank": 43.84,
+   "rank": 43.366,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/images/824efa06e0027f1217959140fd916e91.jpg"
   },
   {
@@ -8560,7 +8667,7 @@
     ],
     "faq": []
    },
-   "rank": 45.713,
+   "rank": 45.207,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/730/73086453-9c78-4e94-a180-cad8b86b4b7e.jpeg"
   },
   {
@@ -8618,7 +8725,7 @@
     ],
     "faq": []
    },
-   "rank": 36.534,
+   "rank": 36.125,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kOyy3Gv43yHy5jakHVH2tx/0911/brenner-tunel.jpeg?fl=cro,0,173,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -8663,7 +8770,7 @@
     ],
     "faq": []
    },
-   "rank": 37.981,
+   "rank": 37.555,
    "image_url": "https://i3.cn.cz/16/1782480535_P2026062606932.jpg"
   },
   {
@@ -8716,7 +8823,7 @@
     ],
     "faq": []
    },
-   "rank": 48.381,
+   "rank": 47.834,
    "image_url": "https://i3.cn.cz/16/1655909413_P2022062206772.jpg"
   },
   {
@@ -8774,7 +8881,7 @@
     ],
     "faq": []
    },
-   "rank": 23.041,
+   "rank": 22.778,
    "image_url": "https://cdn.kudyznudy.cz/files/37/37acdd23-859f-4f2c-954e-25cdd8aa0b35.jpg?v=20260728112449",
    "images": [
     "https://cdn.kudyznudy.cz/files/43/43df3bb1-121c-4f3a-a5f8-902d4ae7aa1b.webp?v=20221013185251",
@@ -8833,7 +8940,7 @@
     ],
     "faq": []
    },
-   "rank": 37.221,
+   "rank": 36.795,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/zoo7/krajta-mlade-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/zoo7/krajta-mlade-475.jpg",
@@ -8902,7 +9009,7 @@
     ],
     "faq": []
    },
-   "rank": 26.586,
+   "rank": 26.282,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oa_A/nsLxLojIDjvKWOsqDYK8mK/6ce8/vlajka-evropska-unie.jpeg?fl=cro,0,214,4096,2304%7Cres,1200,,1"
   },
   {
@@ -20388,118 +20495,6 @@
    },
    "rank": 16.061,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/27a/27a72e08-aeb9-4a57-bee2-166452d2e86d.jpeg"
-  },
-  {
-   "id": "n2747",
-   "slug": "redkoe-astronomicheskoe-shou-zatmenie-i-zvezdopad-v-odin-den",
-   "source": "zpravy.aktualne.cz",
-   "original_url": "https://zpravy.aktualne.cz/domaci/vyrazne-zatmeni-slunce-i-roj-perseid-ceka-nas-nebyvala-podivana-ze-jediny-den/r~aaa29938c364e1a393dd5da43bbb1411/",
-   "top": false,
-   "tags": [
-    "cesko"
-   ],
-   "published_at": "2026-07-27T09:10:42.364642+02:00",
-   "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
-   },
-   "date": {
-    "ru": "27 июля 2026, 09:10",
-    "uk": "27 липня 2026, 09:10"
-   },
-   "ru": {
-    "title": "Редкое астрономическое шоу: затмение и звездопад в один день",
-    "lede": "В среду 12 августа жителей Чехии ждет уникальное небесное представление: днем — частичное солнечное затмение, а ночью — пик метеорного потока Персеиды.",
-    "meta_description": "12 августа в Чехии произойдет частичное солнечное затмение и наступит пик метеорного потока Персеиды. Идеальные условия для наблюдения благодаря новолунию.",
-    "paras": [
-     "<p>В среду 12 августа жителей Чехии ожидает необычное астрономическое явление: днем можно будет наблюдать частичное солнечное затмение, а ночью — пик метеорного потока Персеиды. Такое совпадение происходит крайне редко.</p>",
-     "<h3>Частичное солнечное затмение</h3>",
-     "<p>Затмение начнется около 11:00 по местному времени и продлится несколько часов. Луна закроет значительную часть солнечного диска, что сделает явление хорошо заметным. Астрономы рекомендуют использовать специальные очки для наблюдения.</p>",
-     "<h3>Персеиды: идеальные условия</h3>",
-     "<p>Ночью после захода солнца ожидается пик метеорного потока Персеиды. В этом году условия наблюдения исключительно благоприятные: Луна будет находиться в фазе новолуния, поэтому ее свет не помешает видеть даже слабые метеоры.</p>",
-     "<blockquote>«Метеоры будут видны невооруженным глазом, особенно вдали от городских огней», — отмечают астрономы.</blockquote>",
-     "<p>Ожидается до 60–100 метеоров в час. Лучшее время для наблюдения — после полуночи и до рассвета.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Рідкісне астрономічне шоу: затемнення та зорепад в один день",
-    "lede": "У середу 12 серпня мешканців Чехії чекає унікальне небесне видовище: вдень — часткове сонячне затемнення, а вночі — пік метеорного потоку Персеїди.",
-    "meta_description": "12 серпня в Чехії відбудеться часткове сонячне затемнення та настане пік метеорного потоку Персеїди. Ідеальні умови для спостереження завдяки молодику.",
-    "paras": [
-     "<p>У середу 12 серпня мешканців Чехії очікує незвичайне астрономічне явище: вдень можна буде спостерігати часткове сонячне затемнення, а вночі — пік метеорного потоку Персеїди. Такий збіг трапляється вкрай рідко.</p>",
-     "<h3>Часткове сонячне затемнення</h3>",
-     "<p>Затемнення розпочнеться близько 11:00 за місцевим часом і триватиме кілька годин. Місяць закриє значну частину сонячного диска, що зробить явище добре помітним. Астрономи рекомендують використовувати спеціальні окуляри для спостереження.</p>",
-     "<h3>Персеїди: ідеальні умови</h3>",
-     "<p>Вночі після заходу сонця очікується пік метеорного потоку Персеїди. Цього року умови спостереження винятково сприятливі: Місяць перебуватиме у фазі молодика, тому його світло не заважатиме бачити навіть слабкі метеори.</p>",
-     "<blockquote>«Метеори будуть видно неозброєним оком, особливо далеко від міських вогнів», — зазначають астрономи.</blockquote>",
-     "<p>Очікується до 60–100 метеорів на годину. Найкращий час для спостереження — після опівночі та до світанку.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 24.849,
-   "image_url": "https://media.eco-files.cz/economia/production/files/2025/11/12/01/47/21/c00633b2-8f18-49f0-9bdf-4f9667539473/a6bdd84752fe32289bb4b6664f1450ae.jpg"
-  },
-  {
-   "id": "n2746",
-   "slug": "cheshskii-teatr-spitfire-company-poluchil-nagradu-v-avinone",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/kultura/divadlo/soubor-spitfire-company-ziskal-oceneni-za-hru-antiwords-inspirovanou-havlem.A260727_083129_divadlo_ts#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "cesko",
-    "zvezdy"
-   ],
-   "published_at": "2026-07-27T09:10:42.364642+02:00",
-   "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
-   },
-   "date": {
-    "ru": "27 июля 2026, 09:10",
-    "uk": "27 липня 2026, 09:10"
-   },
-   "ru": {
-    "title": "Чешский театр Spitfire Company получил награду в Авиньоне",
-    "lede": "Международное жюри фестиваля в Авиньоне отметило спектакль Antiwords чешского театра Spitfire Company, основанный на пьесе Вацлава Гавела «Аудиенция».",
-    "meta_description": "Чешский театр Spitfire Company награждён на фестивале в Авиньоне за спектакль Antiwords по пьесе Вацлава Гавела. Постановка признана за политическую глубину и п",
-    "paras": [
-     "<p>Международная труппа Spitfire Company, работающая в Чехии, получила признание на престижном театральном фестивале в Авиньоне. Их спектакль <b>Antiwords</b>, созданный по мотивам пьесы Вацлава Гавела «Аудиенция», был отмечен жюри за выдающееся воплощение политических тем.</p>",
-     "<h3>Политика без слов</h3>",
-     "<p>В своём решении жюри подчеркнуло, что <em>Antiwords</em> удаётся передать такие сложные концепции, как власть, подчинение, надзор и компромисс, используя минимум вербального языка. Режиссура, по мнению экспертов, впечатляюще раскрывает, как власть конструируется и применяется в повседневной жизни.</p>",
-     "<blockquote>«Жюри также отметило способность постановки преодолевать языковые барьеры и общаться исключительно театральными средствами, что свидетельствует о выдающемся режиссёрском мастерстве», — передала от имени труппы Адела Брабцова.</blockquote>",
-     "<h3>Аншлаг и восторг критиков</h3>",
-     "<p>По словам Брабцовой, все восемь показов <em>Antiwords</em> были полностью распроданы. Спектакль привлёк внимание множества французских СМИ. В постановке заняты две сменяющиеся пары исполнительниц: Эва Стара с Миренкой Чеховой и Йиндржишка Крживанкова с Мишей Градецкой.</p>",
-     "<p>Режиссёр и сооснователь Spitfire Company Петр Богач отметил: <q>Французская критика заметила, что гавеловский юмор служит не просто для облегчения темы, а является инструментом познания, и что яркая стилизация не скрывает реальность, а создаёт условия для того, чтобы действительность могла внезапно и резко прорваться на поверхность.</q></p>",
-     "<p>Рецензенты из Франции и Бельгии, по словам Брабцовой, также сошлись во мнении, что <em>Antiwords</em> не подходит к Гавелу как к историческому автору, а показывает, что его темы свободы, власти и гражданского мужества остаются актуальными и сегодня.</p>",
-     "<p>Нынешний <b>Festival d’Avignon Off</b> отметил наследие Вацлава Гавела, которому в этом году исполнилось бы 90 лет, несколькими способами. Помимо <em>Antiwords</em>, в мировую премьеру был представлен спектакль <em>Perpetuum Havel</em> из репертуара Лантерны магики Национального театра. В рамках сопутствующей программы также была вручена Премия Вацлава Гавела украинскому драматургу и актёру Виктору Кирилову — награду вручил директор пражского Национального театра Ян Буриан.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Чеський театр Spitfire Company отримав нагороду в Авіньйоні",
-    "lede": "Міжнародне журі фестивалю в Авіньйоні відзначило виставу Antiwords чеського театру Spitfire Company, створену за п’єсою Вацлава Гавела «Аудієнція».",
-    "meta_description": "Чеський театр Spitfire Company нагороджений на фестивалі в Авіньйоні за виставу Antiwords за п'єсою Вацлава Гавела. Постановку визнано за політичну глибину та п",
-    "paras": [
-     "<p>Міжнародна трупа Spitfire Company, що працює в Чехії, отримала визнання на престижному театральному фестивалі в Авіньйоні. Їхня вистава <b>Antiwords</b>, створена за мотивами п'єси Вацлава Гавела «Аудієнція», була відзначена журі за видатне втілення політичних тем.</p>",
-     "<h3>Політика без слів</h3>",
-     "<p>У своєму рішенні журі підкреслило, що <em>Antiwords</em> вдається передати такі складні концепції, як влада, підпорядкування, нагляд і компроміс, використовуючи мінімум вербальної мови. Режисура, на думку експертів, вражаюче розкриває, як влада конструюється та застосовується в повсякденному житті.</p>",
-     "<blockquote>«Журі також відзначило здатність постановки долати мовні бар'єри та спілкуватися виключно театральними засобами, що свідчить про видатну режисерську майстерність», — передала від імені трупи Адела Брабцова.</blockquote>",
-     "<h3>Аншлаг і захоплення критиків</h3>",
-     "<p>За словами Брабцової, всі вісім показів <em>Antiwords</em> були повністю розпродані. Вистава привернула увагу багатьох французьких ЗМІ. У постановці задіяні дві змінні пари виконавиць: Ева Стара з Міренкою Чеховою та Їндржишка Крживанкова з Мішею Градецькою.</p>",
-     "<p>Режисер і співзасновник Spitfire Company Петр Богач зазначив: <q>Французька критика помітила, що гавелівський гумор слугує не просто для полегшення теми, а є інструментом пізнання, і що яскрава стилізація не приховує реальність, а створює умови для того, щоб дійсність могла раптово та різко прорватися на поверхню.</q></p>",
-     "<p>Рецензенти з Франції та Бельгії, за словами Брабцової, також зійшлися на думці, що <em>Antiwords</em> не підходить до Гавела як до історичного автора, а показує, що його теми свободи, влади та громадянської мужності залишаються актуальними й сьогодні.</p>",
-     "<p>Нинішній <b>Festival d’Avignon Off</b> відзначив спадщину Вацлава Гавела, якому цього року виповнилося б 90 років, кількома способами. Окрім <em>Antiwords</em>, у світову прем'єру було представлено виставу <em>Perpetuum Havel</em> з репертуару Лантерни магіки Національного театру. У межах супутньої програми також було вручено Премію Вацлава Гавела українському драматургу та актору Віктору Кирилову — нагороду вручив директор празького Національного театру Ян Буріан.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 23.096,
-   "image_url": "https://1gr.cz/tempimg/fb/2026/7/TS48b66cee4b_Antiwords_01.jpg",
-   "images": [
-    "https://1gr.cz/fotky/idnes/26/073/vidw/TS49053383af_Antiwords_04.jpg",
-    "https://1gr.cz/fotky/idnes/26/073/vidw/TS491bcdd1a4_Antiwords_06.jpg",
-    "https://1gr.cz/fotky/idnes/26/073/vidw/TS490976ddab_Antiwords_05.jpg"
-   ]
   }
  ]
 }
