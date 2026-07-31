@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-07-31T17:41:22+00:00",
+ "updated_at": "2026-07-31T17:57:30+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3152",
+   "slug": "v-brno-otskanirovali-700-letniuiu-madonnu-chto-uvideli-vrachi",
+   "source": "irozhlas.cz",
+   "original_url": "https://www.irozhlas.cz/zpravy-domov/700-let-stara-zarosicka-madona-pod-ct-skenerem-v-brnenske-nemocnici-vysetruji_2607311937_aru",
+   "top": false,
+   "tags": [
+    "cesko",
+    "it"
+   ],
+   "published_at": "2026-07-31T19:57:29.977263+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "31 июля 2026, 19:57",
+    "uk": "31 липня 2026, 19:57"
+   },
+   "ru": {
+    "title": "В Brno отсканировали 700-летнюю Мадонну: что увидели врачи",
+    "lede": "В больнице Fakultní nemocnice u svaté Anny в городе Brno провели компьютерную томографию готической статуи Žarošická Madona. Святыне более 700 лет, исследование стало первым в истории статуи.",
+    "meta_description": "В Brno в больнице u svaté Anny прошло КТ 700-летней готической статуи Žarošická Madona. Внутри нашли следы древоточца и металлические шурупы.",
+    "paras": [
+     "<p>В <b>Fakultní nemocnice u svaté Anny</b> в городе <b>Brno</b> прошло необычное исследование: на компьютерную томографию отправили статую <b>Žarošická Madona</b>. Святыне, по оценкам, более 700 лет, и это первое подобное обследование скульптуры.</p>",
+     "<p>Статуя изображает Мадонну как Королеву небес, держащую младенца Иисуса. Её передали в больницу прихожане паломнического места из <b>Žarošice</b> в регионе <b>Kyjovsko</b>. Они хотят неразрушающим способом получить максимум информации о реликвии.</p>",
+     "<p>Радиологический ассистент <b>Radim Sloboda</b> рассказал, что скульптуру сканировали практически как человека, только без контрастной жидкости. Снимки делаются слоями примерно по полмиллиметра, что позволяет строить детальные реконструкции. Рост статуи превышает 140 сантиметров, а вся процедура заняла несколько минут.</p>",
+     "<h3>Что увидели на снимках</h3>",
+     "<p>Доктор <b>Vladimír Červeňák</b> рассматривал полученные срезы. На них заметны следы древоточцев: бороздки, ходы и дефекты, оставленные насекомыми. Внутри также видны металлические элементы, например, вставленный шуруп, проходящий снаружи вглубь дерева.</p>",
+     "<p>Скульптура вырезана из липовой древесины. Судя по структуре, почти вся она сделана из одного куска, хотя встречаются и вставки, указывающие на старые ремонты. Хорошо видны годичные кольца, а 3D-реконструкции демонстрируют мельчайшие складки одежды. По словам Červeňáka, КТ позволяет рассмотреть даже такие детали.</p>",
+     "<blockquote>«Учитывая то, что ей пришлось пережить: шведы бросили её в лесу Ždánský les. Статуя была найдена только через неделю, а может, и позже. Когда шведы осаждали Brno, они совершали набеги и на паломническое место Žarošice».</blockquote>",
+     "<p>Эту историю о судьбе святыни рассказала прихожанка из Žarošice <b>Eliška Vachová</b>.</p>",
+     "<blockquote>«Всё, что выясняется, например то, что статуя целиком из одного куска дерева. Это знания, которые у нас не были подтверждены, и они проливают свет на мелочи, имеющие для нас значение».</blockquote>",
+     "<p>Так прокомментировал исследование бывший приходской священник из Žarošice <b>Marián Rudolf Kosík</b>.</p>",
+     "<p>В этой же больнице ранее уже исследовали статую Христа из костела svatého Jakuba в Brno и скульптуру Černá Madona.</p>"
+    ],
+    "faq": []
+   },
+   "uk": {
+    "title": "У Brno відсканували 700-річну Мадонну: що побачили лікарі",
+    "lede": "У лікарні Fakultní nemocnice u svaté Anny в місті Brno провели комп'ютерну томографію готичної статуї Žarošická Madona. Святині понад 700 років, і це перше таке дослідження в історії скульптури.",
+    "meta_description": "У Brno в лікарні u svaté Anny пройшла КТ 700-річної готичної статуї Žarošická Madona. Усередині знайшли сліди комах-древоточців та металеві шурупи.",
+    "paras": [
+     "<p>У <b>Fakultní nemocnice u svaté Anny</b> в місті <b>Brno</b> відбулося незвичайне дослідження: на комп'ютерну томографію відправили статую <b>Žarošická Madona</b>. Святині, за оцінками, понад 700 років, і це перше подібне обстеження скульптури.</p>",
+     "<p>Статуя зображує Мадонну як Королеву небес, що тримає немовля Ісуса. Її передали до лікарні парафіяни паломницького місця з <b>Žarošice</b> у регіоні <b>Kyjovsko</b>. Вони хотіли безпечним способом, без пошкодження предмета, отримати максимум інформації про реліквію.</p>",
+     "<p>Радіологічний асистент <b>Radim Sloboda</b> розповів, що скульптуру сканували майже як людину, тільки без контрастної рідини. Знімки роблять шарами приблизно по пів міліметра, що дозволяє створювати детальні реконструкції. Зріст статуї перевищує 140 сантиметрів, а вся процедура зайняла кілька хвилин.</p>",
+     "<h3>Що побачили на знімках</h3>",
+     "<p>Лікар <b>Vladimír Červeňák</b> розглядав отримані зрізи. На них помітні сліди комах-древоточців: борозни, ходи та дефекти, які вони залишили. Усередині також видно металеві елементи, наприклад, вставлений шуруп, що проходить зовні вглиб дерева.</p>",
+     "<p>Скульптура вирізана з липового дерева. Судячи зі структури, майже вся вона зроблена з одного шматка, хоча трапляються і вставки, що свідчать про старі ремонти. Добре видно річні кільця, а 3D-реконструкції показують найменші складки одягу. За словами Červeňáka, КТ дозволяє роздивитися навіть такі деталі.</p>",
+     "<blockquote>«Враховуючи те, що їй довелося пережити: шведи кинули її в лісі Ždánský les. Статуя була знайдена лише через тиждень, а можливо, і пізніше. Коли шведи облоговали Brno, вони здійснювали набіги й на паломницьке місце Žarošice».</blockquote>",
+     "<p>Цю історію про долю святині розповіла парафіянка з Žarošice <b>Eliška Vachová</b>.</p>",
+     "<blockquote>«Усе, що з'ясовується, наприклад те, що статуя цілком з одного шматка дерева. Це знання, які у нас не були підтверджені, і вони проливають світло на дрібниці, що мають для нас значення».</blockquote>",
+     "<p>Так прокоментував дослідження колишній парафіяльний священник із Žarošice <b>Marián Rudolf Kosík</b>.</p>",
+     "<p>У цій же лікарні раніше вже досліджували статую Христа з костелу svatého Jakuba в Brno та скульптуру Černá Madona.</p>"
+    ],
+    "faq": []
+   },
+   "rank": 81.0,
+   "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/m1_260731-134726_aru.jpeg"
+  },
   {
    "id": "n3151",
    "slug": "sotrudnik-cnb-obviniaetsia-v-krazhe-desiatkov-millionov-kron",
@@ -15,8 +75,8 @@
    ],
    "published_at": "2026-07-31T19:41:21.976337+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "16 минут назад",
+    "uk": "16 хвилин тому"
    },
    "date": {
     "ru": "31 июля 2026, 19:41",
@@ -65,8 +125,8 @@
    ],
    "published_at": "2026-07-31T19:02:49.053255+02:00",
    "time": {
-    "ru": "38 минут назад",
-    "uk": "38 хвилин тому"
+    "ru": "54 минуты назад",
+    "uk": "54 хвилини тому"
    },
    "date": {
     "ru": "31 июля 2026, 19:02",
@@ -126,8 +186,8 @@
    ],
    "published_at": "2026-07-31T19:02:49.053255+02:00",
    "time": {
-    "ru": "38 минут назад",
-    "uk": "38 хвилин тому"
+    "ru": "54 минуты назад",
+    "uk": "54 хвилини тому"
    },
    "date": {
     "ru": "31 июля 2026, 19:02",
@@ -188,8 +248,8 @@
    ],
    "published_at": "2026-07-31T18:50:18.931008+02:00",
    "time": {
-    "ru": "51 минуту назад",
-    "uk": "51 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "31 июля 2026, 18:50",
@@ -245,8 +305,8 @@
    ],
    "published_at": "2026-07-31T18:50:18.931008+02:00",
    "time": {
-    "ru": "51 минуту назад",
-    "uk": "51 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "31 июля 2026, 18:50",
@@ -519,8 +579,8 @@
    ],
    "published_at": "2026-07-31T17:47:08.271191+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "31 июля 2026, 17:47",
@@ -580,8 +640,8 @@
    ],
    "published_at": "2026-07-31T17:47:08.271191+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "31 июля 2026, 17:47",
@@ -789,8 +849,8 @@
    ],
    "published_at": "2026-07-31T16:51:37.615770+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "31 июля 2026, 16:51",
@@ -832,7 +892,7 @@
     ],
     "faq": []
    },
-   "rank": 86.0,
+   "rank": 85.878,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/nEwftpXyZCCONkDJSHV7eVY/a730/uvn.jpeg?fl=cro,0,122,1400,787%7Cres,1200,,1"
   },
   {
@@ -880,7 +940,7 @@
     ],
     "faq": []
    },
-   "rank": 104.853,
+   "rank": 104.445,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/c25/c25e3659-969d-4a6c-bfe1-b692f8ef2751.jpeg"
   },
   {
@@ -931,7 +991,7 @@
     ],
     "faq": []
    },
-   "rank": 99.86,
+   "rank": 99.472,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/untitled_design_260731-151050_neb.png",
    "video": {
     "kind": "iframe",
@@ -986,7 +1046,7 @@
     ],
     "faq": []
    },
-   "rank": 94.257,
+   "rank": 93.888,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-066810271_260731-113312_aru.jpg"
   },
   {
@@ -1001,8 +1061,8 @@
    ],
    "published_at": "2026-07-31T15:43:15.079255+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "31 июля 2026, 15:43",
@@ -1062,7 +1122,7 @@
     ],
     "faq": []
    },
-   "rank": 108.461,
+   "rank": 108.034,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/3eb/3eb026c2-5da1-475e-8a8c-a7a2678bcef2.jpeg"
   },
   {
@@ -1078,8 +1138,8 @@
    ],
    "published_at": "2026-07-31T15:43:15.079255+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "31 июля 2026, 15:43",
@@ -1117,7 +1177,7 @@
     ],
     "faq": []
    },
-   "rank": 96.629,
+   "rank": 96.248,
    "image_url": "https://1gr.cz/tempimg/fb/2021/5/LUH8bb1f8_Depositphotos_159677050_xl_2015.jpg"
   },
   {
@@ -1175,7 +1235,7 @@
     ],
     "faq": []
    },
-   "rank": 73.603,
+   "rank": 73.312,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260731-094830_aru_2.jpeg"
   },
   {
@@ -1237,7 +1297,7 @@
     ],
     "faq": []
    },
-   "rank": 98.137,
+   "rank": 97.749,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/osobnosti-1/vydech-sedivy-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/osobnosti-1/vydech-sedivy-475.jpg",
@@ -1299,7 +1359,7 @@
     ],
     "faq": []
    },
-   "rank": 99.765,
+   "rank": 99.369,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/EPFa31c6a1851_35a_s_mandlemi_slozeni.jpg"
   },
   {
@@ -1347,7 +1407,7 @@
     ],
     "faq": []
    },
-   "rank": 73.357,
+   "rank": 73.065,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/317/317c5f5b-9705-41b7-93c5-83c1e80d1769.jpeg"
   },
   {
@@ -1397,7 +1457,7 @@
     ],
     "faq": []
    },
-   "rank": 52.328,
+   "rank": 52.12,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/nike-hyperice.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/561254/nike-hyperice-1-820x512-c.jpeg",
@@ -1419,8 +1479,8 @@
    ],
    "published_at": "2026-07-31T14:49:22.557277+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 14:49",
@@ -1456,7 +1516,7 @@
     ],
     "faq": []
    },
-   "rank": 71.518,
+   "rank": 71.233,
    "image_url": "https://cdn.kudyznudy.cz/files/0b/0bf7c450-db12-47ec-9f1b-ef3477e83c98.jpg?v=20260731135311",
    "images": [
     "https://cdn.kudyznudy.cz/files/23/232cc223-dd42-442a-9ae9-5b251497ac65.webp?v=20260731135319",
@@ -1479,8 +1539,8 @@
    ],
    "published_at": "2026-07-31T14:49:22.557277+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 14:49",
@@ -1520,7 +1580,7 @@
     ],
     "faq": []
    },
-   "rank": 107.034,
+   "rank": 106.607,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv0_1566_210813-203703_vlf.jpg"
   },
   {
@@ -1568,7 +1628,7 @@
     ],
     "faq": []
    },
-   "rank": 48.5,
+   "rank": 48.305,
    "image_url": "https://1gr.cz/tempimg/fb/2019/11/ZAR7fabbb_kp5.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/072/vidw/DVO8cfc963c62_profimedia_0751716621.jpg",
@@ -1637,7 +1697,7 @@
     ],
     "faq": []
    },
-   "rank": 94.078,
+   "rank": 93.699,
    "image_url": "https://cdn.kudyznudy.cz/files/be/be393031-b09e-43d6-8ca3-cf9cf4a08d3f.jpg?v=20260731133059",
    "images": [
     "https://cdn.kudyznudy.cz/files/41/41a7d1d6-b2f7-405f-b8f2-fed488563bac.webp?v=20260731133057",
@@ -1706,7 +1766,7 @@
     ],
     "faq": []
    },
-   "rank": 96.107,
+   "rank": 95.718,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-10-2026/vrsovicka-promenada-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-10-2026/vrsovicka-promenada-475.jpg",
@@ -1770,7 +1830,7 @@
     ],
     "faq": []
    },
-   "rank": 96.107,
+   "rank": 95.718,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZCCONkBjxHVvagM/59be.jpeg?fl=cro,0,99,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1785,8 +1845,8 @@
    ],
    "published_at": "2026-07-31T13:42:45.629674+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 13:42",
@@ -1838,7 +1898,7 @@
     ],
     "faq": []
    },
-   "rank": 102.399,
+   "rank": 101.983,
    "image_url": "https://cc.cz/wp-content/uploads/2026/03/altman-amodei-mvp-x2.jpg"
   },
   {
@@ -1885,7 +1945,7 @@
     ],
     "faq": []
    },
-   "rank": 76.269,
+   "rank": 75.958,
    "image_url": "https://1gr.cz/tempimg/fb/2025/6/MAJbf64688ec_224540_17154476.jpg"
   },
   {
@@ -1945,7 +2005,7 @@
     ],
     "faq": []
    },
-   "rank": 99.98,
+   "rank": 99.573,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nO573v8MsN3e2PCsPHW4BLf/517d/d3-dalnice-silnice.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1996,7 +2056,7 @@
     ],
     "faq": []
    },
-   "rank": 85.698,
+   "rank": 85.348,
    "image_url": "https://1gr.cz/tempimg/fb/2024/5/ZAR48d89f9c96_27RTRMADP_3_USA_MET_BALL.JPG",
    "images": [
     "https://1gr.cz/fotky/idnes/26/074/vidw/JGO5cadc148a9_petal.jpg",
@@ -2061,7 +2121,7 @@
     ],
     "faq": []
    },
-   "rank": 94.749,
+   "rank": 94.36,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/BUR461e3215eb_podium2.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/074/vidw/CHA820aa19adf_PODIUM_ORIS.jpg",
@@ -2087,8 +2147,8 @@
    ],
    "published_at": "2026-07-31T12:44:44.736447+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 12:44",
@@ -2128,7 +2188,7 @@
     ],
     "faq": []
    },
-   "rank": 41.022,
+   "rank": 40.853,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/chip1.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560878/chip2-820x512-c.jpg"
@@ -2149,8 +2209,8 @@
    ],
    "published_at": "2026-07-31T12:44:44.736447+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 12:44",
@@ -2186,7 +2246,7 @@
     ],
     "faq": []
    },
-   "rank": 75.443,
+   "rank": 75.132,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/skolstvi/zs-hloubetin-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/skolstvi/zs-hloubetin-475.jpg",
@@ -2209,8 +2269,8 @@
    ],
    "published_at": "2026-07-31T12:44:44.736447+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 12:44",
@@ -2242,7 +2302,7 @@
     ],
     "faq": []
    },
-   "rank": 94.303,
+   "rank": 93.915,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/JGO65a0918207_laurin2.jpg"
   },
   {
@@ -2300,7 +2360,7 @@
     ],
     "faq": []
    },
-   "rank": 93.887,
+   "rank": 93.498,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qB_A/kO7neTVgOQD6SgjmdGsEB0O/3c65/dalesice-dukovany.jpeg?fl=cro,0,154,3000,1687%7Cres,1200,,1"
   },
   {
@@ -2348,7 +2408,7 @@
     ],
     "faq": []
    },
-   "rank": 89.192,
+   "rank": 88.823,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2025/01/DSC_5040.jpg"
   },
   {
@@ -2399,7 +2459,7 @@
     ],
     "faq": []
    },
-   "rank": 61.965,
+   "rank": 61.709,
    "image_url": "https://www.prazskypatriot.cz/data/images/street-art-fest-v-parku-gutovka.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -2422,8 +2482,8 @@
    ],
    "published_at": "2026-07-31T11:54:19.442613+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 11:54",
@@ -2467,7 +2527,7 @@
     ],
     "faq": []
    },
-   "rank": 116.362,
+   "rank": 115.876,
    "image_url": "https://i3.cn.cz/16/1280128446_A8.jpg"
   },
   {
@@ -2482,8 +2542,8 @@
    ],
    "published_at": "2026-07-31T11:41:53.466848+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 11:41",
@@ -2513,7 +2573,7 @@
     ],
     "faq": []
    },
-   "rank": 88.151,
+   "rank": 87.782,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/cxiz.jpg",
    "video": {
     "kind": "iframe",
@@ -2533,8 +2593,8 @@
    ],
    "published_at": "2026-07-31T11:41:53.466848+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 11:41",
@@ -2588,7 +2648,7 @@
     ],
     "faq": []
    },
-   "rank": 120.627,
+   "rank": 120.122,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv3_6058_230803-155633_vlf.jpg"
   },
   {
@@ -2639,7 +2699,7 @@
     ],
     "faq": []
    },
-   "rank": 93.298,
+   "rank": 92.905,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0075-1-1.jpg"
   },
   {
@@ -2688,7 +2748,7 @@
     ],
     "faq": []
    },
-   "rank": 73.438,
+   "rank": 73.127,
    "leisure": true
   },
   {
@@ -2703,8 +2763,8 @@
    ],
    "published_at": "2026-07-31T10:56:02.778406+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 10:56",
@@ -2764,7 +2824,7 @@
     ],
     "faq": []
    },
-   "rank": 75.641,
+   "rank": 75.321,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/hala_22_2.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560127/hala8-820x512-c.jpg",
@@ -2818,7 +2878,7 @@
     ],
     "faq": []
    },
-   "rank": 95.722,
+   "rank": 95.315,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/10/2-6.jpg"
   },
   {
@@ -2866,7 +2926,7 @@
     ],
     "faq": []
    },
-   "rank": 72.931,
+   "rank": 72.621,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/308/3084aecf-bc77-4ebb-9e0d-22afed8da5a0.jpeg"
   },
   {
@@ -2926,7 +2986,7 @@
     ],
     "faq": []
    },
-   "rank": 90.72,
+   "rank": 90.331,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/ropid/informacni-tabule-odjezdy-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/ropid/informacni-tabule-odjezdy-475.jpg",
@@ -2978,7 +3038,7 @@
     ],
     "faq": []
    },
-   "rank": 76.66,
+   "rank": 76.326,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0187.jpg"
   },
   {
@@ -2992,8 +3052,8 @@
    ],
    "published_at": "2026-07-31T08:48:47.856060+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 08:48",
@@ -3027,7 +3087,7 @@
     ],
     "faq": []
    },
-   "rank": 84.192,
+   "rank": 83.823,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/07/31/06/31/47/8e8a27f6-a676-4f4e-8e61-8db565a3f589/tag:reuters.com,2026:newsml_RC2UOMANQ3N5.jpg"
   },
   {
@@ -3090,7 +3150,7 @@
     ],
     "faq": []
    },
-   "rank": 96.972,
+   "rank": 96.545,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/wikimedia-commons-9/kralovske-vinohrdy-wikimedia-foto-kacir-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/wikimedia-commons-9/kralovske-vinohrdy-wikimedia-foto-kacir-475.jpg",
@@ -3166,7 +3226,7 @@
     ],
     "faq": []
    },
-   "rank": 88.157,
+   "rank": 87.768,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/martin_4_260729-102502_ako.jpg?itok=F3U-X6sf"
   },
   {
@@ -3216,7 +3276,7 @@
     ],
     "faq": []
    },
-   "rank": 81.545,
+   "rank": 81.186,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/gianni-donald.jpg"
   },
   {
@@ -3269,7 +3329,7 @@
     ],
     "faq": []
    },
-   "rank": 83.145,
+   "rank": 82.776,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/KHR5b597d4862_dvo8.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/071/vidw/KHR5b3f037ad0_dvo7.jpg",
@@ -3288,8 +3348,8 @@
    ],
    "published_at": "2026-07-31T07:47:00.352573+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 07:47",
@@ -3397,7 +3457,7 @@
      }
     ]
    },
-   "rank": 83.609,
+   "rank": 83.236,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oZ_A/kBkJRwehYQKXlCRVDGybms/0950/senior-duchodce-stary-clovek.jpeg?fl=cro,0,427,4096,2304%7Cres,1200,,1"
   },
   {
@@ -3412,8 +3472,8 @@
    ],
    "published_at": "2026-07-31T07:47:00.352573+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 07:47",
@@ -3499,7 +3559,7 @@
      }
     ]
    },
-   "rank": 88.878,
+   "rank": 88.482,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -3606,7 +3666,7 @@
      }
     ]
    },
-   "rank": 99.543,
+   "rank": 99.096,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -3722,7 +3782,7 @@
      }
     ]
    },
-   "rank": 69.042,
+   "rank": 68.731,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/obrazek_whatsapp_202_251112-192104_jkd.jpg"
   },
   {
@@ -3737,8 +3797,8 @@
    ],
    "published_at": "2026-07-31T06:54:09.217878+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 06:54",
@@ -3826,7 +3886,7 @@
      }
     ]
    },
-   "rank": 77.277,
+   "rank": 76.927,
    "sources": [
     {
      "domain": "arecenze.cz",
@@ -3934,7 +3994,7 @@
      }
     ]
    },
-   "rank": 87.515,
+   "rank": 87.117,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/mmrecap.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/561089/26-820x512-c.jpg"
@@ -4025,7 +4085,7 @@
      }
     ]
    },
-   "rank": 86.099,
+   "rank": 85.707,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -4115,7 +4175,7 @@
      }
     ]
    },
-   "rank": 83.246,
+   "rank": 82.867,
    "image_url": "https://cdn.kudyznudy.cz/files/f8/f899a2e4-22ab-476b-af53-90061b3fe084.jpg?v=20260731060056",
    "images": [
     "https://cdn.kudyznudy.cz/files/00/00499ed6-7de7-4b21-ba10-c74b2e26924c.webp?v=20260731060057",
@@ -4219,7 +4279,7 @@
      }
     ]
    },
-   "rank": 80.673,
+   "rank": 80.304,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/dsc_7565-nr_260626-171531_jar.jpg"
   },
   {
@@ -4310,7 +4370,7 @@
      }
     ]
    },
-   "rank": 95.069,
+   "rank": 94.603,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/b55/b555b847-a3c1-4b7e-aae4-733473563167.jpeg"
   },
   {
@@ -4393,7 +4453,7 @@
      }
     ]
    },
-   "rank": 96.653,
+   "rank": 96.18,
    "sources": [
     {
      "domain": "denik.cz",
@@ -4506,7 +4566,7 @@
      }
     ]
    },
-   "rank": 58.702,
+   "rank": 58.411,
    "image_url": "https://cdn.kudyznudy.cz/files/9f/9fb3a323-5b07-41a8-a268-511cb14f76ff.jpg?v=20240801104404",
    "images": [
     "https://cdn.kudyznudy.cz/files/2f/2f2c1ff2-6a81-4d49-b2a7-731ca734ee98.webp?v=20240801104708",
@@ -4528,8 +4588,8 @@
    ],
    "published_at": "2026-07-31T00:43:14.281232+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "31 июля 2026, 00:43",
@@ -4589,7 +4649,7 @@
      }
     ]
    },
-   "rank": 61.547,
+   "rank": 61.236,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/07/30/19/13/24/22d01b5f-649a-4d92-8337-b0189266856a/22_vrtulniky-systemu-h-1_ah-1-viper-a-uh-1y.jpg"
   },
   {
@@ -4634,7 +4694,7 @@
     ],
     "faq": []
    },
-   "rank": 55.835,
+   "rank": 55.544,
    "image_url": "https://www.prazskypatriot.cz/data/images/v-ulicich-prahy-5-rostou-nove-druhy-stromu.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -4694,7 +4754,7 @@
     ],
     "faq": []
    },
-   "rank": 52.525,
+   "rank": 52.249,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/07/Prague-Pride-security.jpg"
   },
   {
@@ -4740,7 +4800,7 @@
     ],
     "faq": []
    },
-   "rank": 54.607,
+   "rank": 54.312,
    "image_url": "https://1gr.cz/tempimg/fb/2018/1/OT70ab25_193049_12658777.jpg"
   },
   {
@@ -4755,8 +4815,8 @@
    ],
    "published_at": "2026-07-30T20:56:29.362549+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "30 июля 2026, 20:56",
@@ -4794,7 +4854,7 @@
     ],
     "faq": []
    },
-   "rank": 64.327,
+   "rank": 63.978,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/kO7lxrd9zlCpNXiFIzHWfFJD/914d/jiri-slama.jpeg?fl=cro,0,34,1400,787%7Cres,1200,,1"
   },
   {
@@ -4848,7 +4908,7 @@
     ],
     "faq": []
    },
-   "rank": 81.771,
+   "rank": 81.324,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-1-dalsi-verze/vaclav-vetvicka-seniori-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-1-dalsi-verze/vaclav-vetvicka-seniori-475.jpg",
@@ -4906,7 +4966,7 @@
     ],
     "faq": []
    },
-   "rank": 49.371,
+   "rank": 49.099,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/fotobanka-adobe/centrum-prahy-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/fotobanka-adobe/centrum-prahy-475.jpg",
@@ -4965,7 +5025,7 @@
     ],
     "faq": []
    },
-   "rank": 91.259,
+   "rank": 90.755,
    "image_url": "https://i3.cn.cz/16/1785427011_P2026073006902.jpg",
    "images": [
     "https://i3.cn.cz/2/1785431619_P2026073007761.jpg",
@@ -4986,8 +5046,8 @@
    ],
    "published_at": "2026-07-30T19:47:08.001504+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "30 июля 2026, 19:47",
@@ -5021,7 +5081,7 @@
     ],
     "faq": []
    },
-   "rank": 77.484,
+   "rank": 77.053,
    "image_url": "https://i3.cn.cz/16/1765884607_P2025121602854.jpg"
   },
   {
@@ -5036,8 +5096,8 @@
    ],
    "published_at": "2026-07-30T19:47:08.001504+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "30 июля 2026, 19:47",
@@ -5069,7 +5129,7 @@
     ],
     "faq": []
    },
-   "rank": 66.315,
+   "rank": 65.946,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/222-2.jpg"
   },
   {
@@ -5117,7 +5177,7 @@
     ],
     "faq": []
    },
-   "rank": 42.04,
+   "rank": 41.804,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/LUP64ed9bf603_Policie_Pariz_1910_15.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/074/vidw/HEL7aa9f6fd1a_3alu_Policie_Pariz_1910.jpg",
@@ -5179,7 +5239,7 @@
     ],
     "faq": []
    },
-   "rank": 47.95,
+   "rank": 47.678,
    "image_url": "https://i3.cn.cz/16/1785425240_P2026073006614.jpg",
    "images": [
     "https://i3.cn.cz/2/1785427766_P2026073007082.jpg",
@@ -5231,7 +5291,7 @@
     ],
     "faq": []
    },
-   "rank": 40.869,
+   "rank": 40.636,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/abc-1.jpg",
    "video": {
     "kind": "iframe",
@@ -5278,7 +5338,7 @@
     ],
     "faq": []
    },
-   "rank": 80.745,
+   "rank": 80.279,
    "image_url": "https://i3.cn.cz/16/1751259164_008-1.jpg",
    "images": [
     "https://i3.cn.cz/2/1785419403_P2026073005636.jpg",
@@ -5339,7 +5399,7 @@
     ],
     "faq": []
    },
-   "rank": 66.414,
+   "rank": 66.025,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nO573v8MsNBXDtvBLYHWW7f7/f189/vzorek-dzban-voda-hygiena-sinice.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5387,7 +5447,7 @@
     ],
     "faq": []
    },
-   "rank": 63.093,
+   "rank": 62.724,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_od_A/nO0bgvR9rXB3JbEEoqEP4fzd/5260/praha-vltava-vor-pramen-ohniste.jpeg?fl=cro,0,0,2000,1125%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5439,7 +5499,7 @@
     ],
     "faq": []
    },
-   "rank": 59.371,
+   "rank": 59.021,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/68b/68b03256-0744-484c-b7d5-e2b274272da6.jpeg"
   },
   {
@@ -5487,7 +5547,7 @@
     ],
     "faq": []
    },
-   "rank": 60.007,
+   "rank": 59.653,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260730-164714_jkd.jpeg"
   },
   {
@@ -5560,7 +5620,7 @@
     ],
     "faq": []
    },
-   "rank": 56.42,
+   "rank": 56.086,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_gW_O/poaV.jpeg?fl=cro,0,27,521,293%7Cres,1200,,1"
   },
   {
@@ -5621,7 +5681,7 @@
     ],
     "faq": []
    },
-   "rank": 53.132,
+   "rank": 52.818,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qC_A/kQMlcCt5zmD87zEMPcHEw2HZ/57bf.jpeg?fl=cro,0,182,3500,1968%7Cres,1200,,1"
   },
   {
@@ -5671,7 +5731,7 @@
     ],
     "faq": []
    },
-   "rank": 65.132,
+   "rank": 64.744,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0061-1.jpg"
   },
   {
@@ -5731,7 +5791,7 @@
     ],
     "faq": []
    },
-   "rank": 73.202,
+   "rank": 72.755,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QR_7/oFf4.jpeg?fl=cro,0,115,3000,1687%7Cres,1200,,1"
   },
   {
@@ -5780,7 +5840,7 @@
     ],
     "faq": []
    },
-   "rank": 57.288,
+   "rank": 56.939,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_p8_A/nPXMbbUsvqBj6FAGLEFr7Mh0/61b1.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5828,7 +5888,7 @@
     ],
     "faq": []
    },
-   "rank": 32.058,
+   "rank": 31.86,
    "image_url": "https://i3.cn.cz/16/1785415639_P2026073003681.jpeg",
    "images": [
     "https://i3.cn.cz/6/1785415648_P2026073003561.jpeg",
@@ -5882,7 +5942,7 @@
     ],
     "faq": []
    },
-   "rank": 44.143,
+   "rank": 43.868,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2025/12/DSC_6856.jpg"
   },
   {
@@ -5942,7 +6002,7 @@
     ],
     "faq": []
    },
-   "rank": 65.503,
+   "rank": 65.095,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/vfn_2_200401-162707_mda.jpg"
   },
   {
@@ -5997,7 +6057,7 @@
     ],
     "faq": []
    },
-   "rank": 65.099,
+   "rank": 64.691,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_p7_A/nDJ4VEZEqCemGmN1TFZUmRx/79ec/elektrina-vedeni-vysoke-napeti.jpeg?fl=cro,0,215,4096,2304%7Cres,1200,,1"
   },
   {
@@ -6045,7 +6105,7 @@
     ],
     "faq": []
    },
-   "rank": 58.899,
+   "rank": 58.53,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kO7lxrd9zlC6PMOCYPHWVals/5a96/trinec-oldrichovice-dopravni-nehody-policie.jpeg?fl=cro,0,110,1176,661%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6093,7 +6153,7 @@
     ],
     "faq": []
    },
-   "rank": 58.899,
+   "rank": 58.53,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/profimedia-022087218_190505-101026_kno.jpg"
   },
   {
@@ -6155,7 +6215,7 @@
     ],
     "faq": []
    },
-   "rank": 43.747,
+   "rank": 43.471,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/80f/80fe0c23-6832-4bee-883c-fee369d164be.jpeg"
   },
   {
@@ -6206,7 +6266,7 @@
     ],
     "faq": []
    },
-   "rank": 67.777,
+   "rank": 67.35,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qC_A/kQMlcCt5zmEA35RHJnG573lv/7ae5.jpeg?fl=cro,0,108,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6258,7 +6318,7 @@
     ],
     "faq": []
    },
-   "rank": 73.613,
+   "rank": 73.147,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/metro-d/olbrachtova_1-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/metro-d/olbrachtova_1-475.jpg",
@@ -6312,7 +6372,7 @@
     ],
     "faq": []
    },
-   "rank": 57.826,
+   "rank": 57.457,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kO7lxrd9zlCI59dBqTHWUAgP/04dc/hlucin-policie-pozar-dobrovolny-hasic-zhar-obvineni.jpeg?fl=cro,0,32,540,303%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6358,7 +6418,7 @@
     ],
     "faq": []
    },
-   "rank": 57.826,
+   "rank": 57.457,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/337387_2_img_0153.jpg"
   },
   {
@@ -6408,7 +6468,7 @@
     ],
     "faq": []
    },
-   "rank": 62.475,
+   "rank": 62.067,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/924/92400242-46f8-4092-bff7-dfaa00765c5e.jpeg"
   },
   {
@@ -6462,7 +6522,7 @@
     ],
     "faq": []
    },
-   "rank": 68.425,
+   "rank": 67.978,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nO573v8MsN3e2PyxHWScKP/7502/pocasi-teploty-vystraha.png?fl=cro,0,8,1171,658%7Cres,1200,,1%7Cwebp,75",
    "images": [
     "https://d15-a.sdn.cz/d_15/c_img_qC_A/kQMlcCt5zmCni4DLZrHDolIM/b19d.jpeg?fl=cro,0,127,4096,2304%7Cres,1200,,1%7Cwebp,75"
@@ -6515,7 +6575,7 @@
     ],
     "faq": []
    },
-   "rank": 62.05,
+   "rank": 61.642,
    "image_url": "https://www.prazskypatriot.cz/data/images/pirati-predstavili-plan-k-tropickym-vedrum-planuji-krizovou-linku.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -6569,7 +6629,7 @@
     ],
     "faq": []
    },
-   "rank": 56.14,
+   "rank": 55.771,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2025/07/DSC_1979.jpg"
   },
   {
@@ -6614,7 +6674,7 @@
     ],
     "faq": []
    },
-   "rank": 70.914,
+   "rank": 70.448,
    "image_url": "https://i3.cn.cz/16/1711085256_Save.jpg"
   },
   {
@@ -6660,7 +6720,7 @@
     ],
     "faq": []
    },
-   "rank": 61.634,
+   "rank": 61.226,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/jmk-8.jpg",
    "video": {
     "kind": "iframe",
@@ -6718,7 +6778,7 @@
     ],
     "faq": []
    },
-   "rank": 57.813,
+   "rank": 57.424,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/KOP52f15a2277_094021_19410662.jpg"
   },
   {
@@ -6777,7 +6837,7 @@
     ],
     "faq": []
    },
-   "rank": 39.867,
+   "rank": 39.595,
    "image_url": "https://1gr.cz/tempimg/fb/2019/2/KHA79201c_profimedia_0213570689.jpg"
   },
   {
@@ -6829,7 +6889,7 @@
     ],
     "faq": []
    },
-   "rank": 74.904,
+   "rank": 74.38,
    "image_url": "https://i3.cn.cz/16/1764161871_P2025112604124.jpg"
   },
   {
@@ -6883,7 +6943,7 @@
     ],
     "faq": []
    },
-   "rank": 39.084,
+   "rank": 38.808,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/07/Revolut-private-equity-Czech-Republic.jpg"
   },
   {
@@ -6935,7 +6995,7 @@
     ],
     "faq": []
    },
-   "rank": 57.312,
+   "rank": 56.905,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/590/5903c944-1ea1-4c26-84e3-7589b5873901.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/640x426/4f9/4f90097d-0c37-4e44-8ef6-9bf2d67daf68.webp"
@@ -6984,7 +7044,7 @@
     ],
     "faq": []
    },
-   "rank": 52.958,
+   "rank": 52.57,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/2-2026-07-29-P-CV-Prunerov-3.jpeg"
   },
   {
@@ -7044,7 +7104,7 @@
     ],
     "faq": []
    },
-   "rank": 52.511,
+   "rank": 52.123,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qC_A/nO2CysqjGrCe62NXwHEw2Ox/9fc9.jpeg?fl=cro,0,182,3500,1968%7Cres,1200,,1"
   },
   {
@@ -7138,7 +7198,7 @@
      }
     ]
    },
-   "rank": 28.671,
+   "rank": 28.454,
    "image_url": "https://cdn.kudyznudy.cz/files/c7/c7bc711f-dc26-4f54-a857-2fdbd027c65a.jpg?v=20240827145500",
    "images": [
     "https://cdn.kudyznudy.cz/files/31/31e521e6-e53f-40c5-8b51-5de52daec806.webp?v=20240827145448",
@@ -7235,7 +7295,7 @@
      }
     ]
    },
-   "rank": 53.758,
+   "rank": 53.351,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/img-20251121-wa0051_251121-173320_fso.jpg"
   },
   {
@@ -7310,7 +7370,7 @@
      }
     ]
    },
-   "rank": 35.489,
+   "rank": 35.217,
    "image_url": "https://cdn.kudyznudy.cz/files/73/73a462fd-42a8-4abd-beef-601a793f8db2.jpg?v=20250730073907",
    "images": [
     "https://cdn.kudyznudy.cz/files/d0/d0a20f0c-8590-481a-8cf2-1b7afc331fd3.webp?v=20221012112957",
@@ -7398,7 +7458,7 @@
      }
     ]
    },
-   "rank": 46.606,
+   "rank": 46.247,
    "image_url": "https://cdn.kudyznudy.cz/files/c3/c32df092-3cb2-4ce3-bfbe-ffa67b2a4eb1.jpg?v=20210802224437",
    "images": [
     "https://cdn.kudyznudy.cz/files/c4/c452405a-1476-49e9-819c-b61b67d51305.webp?v=20250730121325",
@@ -7489,7 +7549,7 @@
      }
     ]
    },
-   "rank": 50.385,
+   "rank": 49.997,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/profimedia-104240070_260729-161409_jgr.jpg",
    "video": {
     "kind": "iframe",
@@ -7579,7 +7639,7 @@
      }
     ]
    },
-   "rank": 32.947,
+   "rank": 32.693,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/josef-hajicek-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560492/nebuchadnezzar-nepos-games-08-820x512-c.jpg",
@@ -7670,7 +7730,7 @@
      }
     ]
    },
-   "rank": 47.866,
+   "rank": 47.497,
    "sources": [
     {
      "domain": "sokolovsky.denik.cz",
@@ -7761,7 +7821,7 @@
      }
     ]
    },
-   "rank": 47.518,
+   "rank": 47.149,
    "sources": [
     {
      "domain": "sportyzive.cz",
@@ -7870,7 +7930,7 @@
      }
     ]
    },
-   "rank": 51.719,
+   "rank": 51.291,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/4de/4de77861-c67b-4171-af49-d6d32a2702d3.jpeg"
   },
   {
@@ -7966,7 +8026,7 @@
      }
     ]
    },
-   "rank": 44.855,
+   "rank": 44.467,
    "sources": [
     {
      "domain": "denik.cz",
@@ -8078,7 +8138,7 @@
      }
     ]
    },
-   "rank": 31.063,
+   "rank": 30.791,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -8163,7 +8223,7 @@
      }
     ]
    },
-   "rank": 45.68,
+   "rank": 45.272,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-6-chysta-nekolik-podzimnich-vyletu-pro-seniory.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -8262,7 +8322,7 @@
      }
     ]
    },
-   "rank": 30.679,
+   "rank": 30.399,
    "sources": [
     {
      "domain": "metro.cz",
@@ -8363,7 +8423,7 @@
      }
     ]
    },
-   "rank": 54.756,
+   "rank": 54.251,
    "sources": [
     {
      "domain": "cfotrends.cz",
@@ -8446,7 +8506,7 @@
      }
     ]
    },
-   "rank": 39.622,
+   "rank": 39.253,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-4-planuje-vystavbu-nekolika-parkovacich-nastaveb.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -8504,7 +8564,7 @@
     ],
     "faq": []
    },
-   "rank": 40.716,
+   "rank": 40.324,
    "image_url": "https://i3.cn.cz/16/1785355111_P2026072908653.jpeg",
    "images": [
     "https://i3.cn.cz/2/1785355117_P2026072908635.jpeg",
@@ -8560,7 +8620,7 @@
     ],
     "faq": []
    },
-   "rank": 40.609,
+   "rank": 40.201,
    "image_url": "https://i3.cn.cz/16/1683215955_P2023050407544.jpg",
    "video": {
     "kind": "iframe",
@@ -8614,7 +8674,7 @@
     ],
     "faq": []
    },
-   "rank": 36.682,
+   "rank": 36.309,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/aaaa-2.jpg",
    "video": {
     "kind": "iframe",
@@ -8674,7 +8734,7 @@
     ],
     "faq": []
    },
-   "rank": 40.121,
+   "rank": 39.713,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/images/686eb644e9f8caa0606d9cf6fa205ee4.jpeg"
   },
   {
@@ -8740,7 +8800,7 @@
     ],
     "faq": []
    },
-   "rank": 33.69,
+   "rank": 33.341,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/JOB62567f7822_55PrideParade_KayHalir_2.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/25/081/vidw/DYN6f420c1ec1_113356_5144829.jpg",
@@ -8796,7 +8856,7 @@
     ],
     "faq": []
    },
-   "rank": 35.185,
+   "rank": 34.816,
    "image_url": "https://1gr.cz/tempimg/fb/2023/6/MAJ148bd75e7_235642_11259957.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/041/vidw/LYSc3b1f1190c_P2026040205818.jpg",
@@ -8856,7 +8916,7 @@
     ],
     "faq": []
    },
-   "rank": 29.672,
+   "rank": 29.358,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qC_A/nO2CysqjGrCDmo6F2DGzrs21/8056.jpeg?fl=cro,0,85,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -8907,7 +8967,7 @@
     ],
     "faq": []
    },
-   "rank": 25.357,
+   "rank": 25.085,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/ZAR7161059ad2_35de4760be74d75c19ad35bb.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/073/vidw/LYS6208e1a8e0_profimedia_1061335100.jpg",
@@ -8960,7 +9020,7 @@
     ],
     "faq": []
    },
-   "rank": 34.413,
+   "rank": 34.044,
    "image_url": "https://www.prazskypatriot.cz/data/images/lidem-z-ciziny-pomaha-interkulturni-pracovnik-na-urade-prahy-1.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -9014,7 +9074,7 @@
     ],
     "faq": []
    },
-   "rank": 33.755,
+   "rank": 33.385,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/447/44784084-f247-4605-8243-c3465d2dfb63.jpeg"
   },
   {
@@ -9070,7 +9130,7 @@
     ],
     "faq": []
    },
-   "rank": 19.484,
+   "rank": 19.271,
    "image_url": "https://cdn.kudyznudy.cz/files/cd/cd194eab-da9a-49d1-bca7-0cdaa448ec59.jpg?v=20240728082632",
    "images": [
     "https://cdn.kudyznudy.cz/files/da/da8151f7-d226-4db3-ba10-72b7ee341ad0.webp?v=20260729094549",
@@ -9094,8 +9154,8 @@
    ],
    "published_at": "2026-07-29T19:43:30.454855+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 19:43",
@@ -9129,7 +9189,7 @@
     ],
     "faq": []
    },
-   "rank": 28.041,
+   "rank": 28.0,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/74e/74ed1241-502f-428b-8f01-511a95ea068b.jpeg"
   },
   {
@@ -9144,8 +9204,8 @@
    ],
    "published_at": "2026-07-29T19:43:30.454855+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 19:43",
@@ -9195,7 +9255,7 @@
     ],
     "faq": []
    },
-   "rank": 40.309,
+   "rank": 40.25,
    "image_url": "https://1gr.cz/tempimg/fb/2023/12/DAV7d48b56b2c_shutterstock_2206914231.jpg"
   },
   {
@@ -9210,8 +9270,8 @@
    ],
    "published_at": "2026-07-29T19:43:30.454855+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 19:43",
@@ -9241,7 +9301,7 @@
     ],
     "faq": []
    },
-   "rank": 31.546,
+   "rank": 31.5,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/01/DSC_2618.jpg"
   },
   {
@@ -13752,8 +13812,8 @@
    ],
    "published_at": "2026-07-28T19:50:03.180191+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "28 июля 2026, 19:50",
@@ -13825,8 +13885,8 @@
    ],
    "published_at": "2026-07-28T19:50:03.180191+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "28 июля 2026, 19:50",
@@ -20058,80 +20118,6 @@
     "https://cdn.kudyznudy.cz/files/17/17dec679-4fdd-4800-ae1f-e6d053ba9634.webp?v=20250724191010",
     "https://cdn.kudyznudy.cz/files/17/174adb0e-dbcc-4f80-9a97-2026ebb263f6.webp?v=20221001143932"
    ]
-  },
-  {
-   "id": "n2849",
-   "slug": "mototsiklistka-vrezalas-v-volkswagen-v-chekhii-legkie-travmy",
-   "source": "tydenikpolicie.cz",
-   "original_url": "https://tydenikpolicie.cz/ridicka-motocyklu-na-ceskolipsku-nedobrzdila-jeji-stroj-skoncil-pod-volkswagenem/",
-   "top": false,
-   "tags": [
-    "kriminal",
-    "cesko"
-   ],
-   "published_at": "2026-07-28T02:24:20.734296+02:00",
-   "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
-   },
-   "date": {
-    "ru": "28 июля 2026, 02:24",
-    "uk": "28 липня 2026, 02:24"
-   },
-   "ru": {
-    "title": "Мотоциклистка врезалась в Volkswagen в Чехии: легкие травмы",
-    "lede": "В воскресенье днём в Kamenice u Zákup мотоциклистка на Honda CBF 125M не успела затормозить и врезалась в стоящий Volkswagen Passat. Женщину с лёгкими травмами доставили в больницу.",
-    "meta_description": "В Чехии в Kamenice u Zákup мотоциклистка не соблюла дистанцию и врезалась в Volkswagen Passat. Пострадавшая с лёгкими травмами госпитализирована.",
-    "paras": [
-     "<p>В воскресенье, до 15:00, на дороге третьего класса в Kamenice u Zákup (район Česká Lípa) произошло ДТП с участием мотоцикла и легкового автомобиля. Женщина за рулём мотоцикла Honda CBF 125M двигалась в направлении от Zákupy, когда перед перекрёстком не смогла вовремя среагировать на остановившийся Volkswagen Passat.</p>",
-     "<p>По данным полиции, причиной столкновения стало несоблюдение безопасной дистанции и невнимательность мотоциклистки. Мотоцикл вклинился в заднюю часть стоящего Volkswagen Passat.</p>",
-     "<h3>Последствия аварии</h3>",
-     "<p>Мотоциклистку с подозрением на лёгкие травмы забрала скорая помощь и доставила в больницу для обследования. О состоянии водителя Volkswagen Passat не сообщается.</p>",
-     "<p>Обстоятельства происшествия выясняются. Полиция напоминает о необходимости соблюдать дистанцию и быть внимательными на дороге.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Где произошло ДТП?",
-      "a": "В Kamenice u Zákup, на дороге третьего класса в направлении от Zákupy."
-     },
-     {
-      "q": "Какие травмы получила мотоциклистка?",
-      "a": "Подозрение на лёгкие травмы, доставлена в больницу."
-     },
-     {
-      "q": "Какой мотоцикл был участником аварии?",
-      "a": "Honda CBF 125M."
-     }
-    ]
-   },
-   "uk": {
-    "title": "Мотоциклістка врізалася у Volkswagen у Чехії: легкі травми",
-    "lede": "У неділю вдень у Kamenice u Zákup мотоциклістка на Honda CBF 125M не встигла загальмувати і врізалася у стоячий Volkswagen Passat. Жінку з легкими травмами доставили до лікарні.",
-    "meta_description": "У Чехії в Kamenice u Zákup мотоциклістка не дотримала дистанції і врізалася у Volkswagen Passat. Постраждалу з легкими травмами госпіталізовано.",
-    "paras": [
-     "<p>У неділю до 15:00 на дорозі третього класу в Kamenice u Zákup (район Česká Lípa) сталася ДТП за участю мотоцикла та легковика. Жінка за кермом мотоцикла Honda CBF 125M рухалася в напрямку від Zákupy, коли перед перехрестям не змогла вчасно зреагувати на зупинений Volkswagen Passat.</p>",
-     "<p>За даними поліції, причиною зіткнення стало недотримання безпечної дистанції та неуважність мотоциклістки. Мотоцикл вклинився у задню частину стоячого Volkswagen Passat.</p>",
-     "<h3>Наслідки аварії</h3>",
-     "<p>Мотоциклістку з підозрою на легкі травми забрала швидка та доставила до лікарні для обстеження. Про стан водія Volkswagen Passat не повідомляється.</p>",
-     "<p>Обставини події з’ясовуються. Поліція нагадує про необхідність дотримувати дистанцію та бути уважними на дорозі.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Де сталася ДТП?",
-      "a": "У Kamenice u Zákup, на дорозі третього класу в напрямку від Zákupy."
-     },
-     {
-      "q": "Які травми отримала мотоциклістка?",
-      "a": "Підозра на легкі травми, доставлена до лікарні."
-     },
-     {
-      "q": "Який мотоцикл був учасником аварії?",
-      "a": "Honda CBF 125M."
-     }
-    ]
-   },
-   "rank": 26.554,
-   "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/ViewImage-3-26.jpg"
   }
  ]
 }
