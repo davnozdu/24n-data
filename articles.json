@@ -1,22 +1,125 @@
 {
- "updated_at": "2026-08-01T21:42:34+00:00",
+ "updated_at": "2026-08-01T22:48:30+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3200",
+   "slug": "obnovleniia-gnome-kde-i-linux-chto-prinesla-nedelia",
+   "source": "root.cz",
+   "original_url": "https://www.root.cz/clanky/kde-rychlejsi-s-externimi-gpu-gnome-glycin-s-upravou-pro-inkscape/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+   "top": false,
+   "tags": [
+    "it"
+   ],
+   "published_at": "2026-08-02T00:48:29.296712+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "2 августа 2026, 00:48",
+    "uk": "2 серпня 2026, 00:48"
+   },
+   "ru": {
+    "title": "Обновления GNOME, KDE и Linux: что принесла неделя",
+    "lede": "Разработчики GNOME заморозили API и функции версии 51, KDE готовит Plasma 6.8 с ускорением внешних GPU, а ядро Linux 7.2-rc6 получило обход для проблемных дисков Western Digital.",
+    "meta_description": "Еженедельный обзор root.cz: GNOME 51 готовится к бете, Plasma 6.8 ускоряет внешние GPU, ядро Linux обходит SATA-диски Western Digital, MSI PRO B850-P WIFI получ",
+    "paras": [
+     "<p>Еженедельный обзор открытого ПО от root.cz собрал главные события недели в экосистемах GNOME, KDE и Linux. Среди них заморозка GNOME 51, подготовка Plasma 6.8 и исправления в ядре для дисков Western Digital.</p>",
+     "<h3>Обновления GNOME, KDE и Linux: главное за неделю</h3>",
+     "<p><b>GNOME 51.</b> Версия официально вошла в стадию заморозки API/ABI, функций и интерфейса. Теперь любые новые изменения должны согласовываться с командой разработчиков, а бета-версия ожидается на следующей неделе. В проекте также обсуждают новый RFC-процесс (Request for Comments), который должен улучшить управление экосистемой.</p>",
+     "<p><b>Инструменты GNOME.</b> Библиотека Glycin от Sophia перешла в фазу 2.2 beta. В ней появилось API для отключения автоматической конвертации текстур в sRGB при наличии ICC-профиля. Изменение сделано по запросу разработчиков векторного редактора Inkscape, которые планируют перейти с gdk-pixbuf на libglycin.</p>",
+     "<p>Приложение Decrypt It из Flathub, расшифровывающее DLC-файлы из JDownloader, исправило проблемы с дешифрованием контейнеров. Иконку программы перевели с PNG на SVG. А инструмент для цензуры PDF Censor получил «параноидальный режим»: контент заменяется, а страница сохраняется как изображение, чтобы на 110% исключить извлечение данных из файла.</p>",
+     "<p>Отдельно разработчики обратили внимание на наплыв низкокачественных расширений GNOME, сгенерированных искусственным интеллектом. В ответ появился блогпост с инструкцией, как правильно писать такие расширения.</p>",
+     "<h3>KDE: Plasma 6.8 ускоряется, Spectacle видит QR-коды</h3>",
+     "<p>В Plasma 6.7.4 окно Emoji Selector стало достаточно высоким, чтобы боковая панель помещалась без прокрутки. Приложение Spectacle в этой версии научилось распознавать QR-коды на скриншотах. В грядущей Plasma 6.8 оно получит настройку качества для графических форматов.</p>",
+     "<p>Plasma 6.8 также заметно улучшит производительность при работе с внешними GPU, о чем написано в блоге Xavera Hugla. Появится возможность менять разрешение виртуальных экранов для screencasting вместо фиксированных 1920×1080. KWin на некоторых клавиатурах распознает клавиши «Pick up phone» и «Hang up phone», их можно будет использовать как горячие клавиши.</p>",
+     "<p>Исправления разошлись по нескольким версиям: пять правок в Plasma 6.6.7, по одной в Plasma 6.7.4, Plasma 6.8 и Frameworks 6.29 для компонентов Kirigami. Также починили ошибку в ddcutil 2.2.8, из-за которой падал демон powerdevil.</p>",
+     "<h3>Ядро Linux 7.2-rc6 обходит проблемные диски Western Digital</h3>",
+     "<p>Предфинальный кандидат в ядро Linux 7.2-rc6 получил компенсации для SATA-дисков Western Digital с ошибочной реализацией Link Power Management. У моделей WD100EFGX-68CPLN0 и WD102KFBX-68M95N0, это 10-терабайтные диски Red Plus и Red Pro Plus для NAS, LPM приводила к отключению SATA-шины при установке двух таких дисков.</p>",
+     "<p>Отдельный патч отключает LPM для 480-гигабайтного 2,5-дюймового Western Digital Green. У него диск отключался через две-три минуты работы системы и исчезал до следующей перезагрузки. Цена решения, потеря энергосбережения от 0,5 до 1,5 Вт на диск.</p>",
+     "<h3>Открытая прошивка Dasharo для MSI PRO B850-P WIFI</h3>",
+     "<p>Компания 3mdeb выпустила первый полностью открытый загрузчик openSIL+Coreboot для материнской платы MSI PRO B850-P WIFI на платформе AMD AM5. Прошивка Dasharo версии 0.9 работает с процессорами Ryzen Zen 4, поддерживает UEFI Secure Boot, AMD fTPM с TPM Measured Boot и отчеты о температуре CPU. Ее протестировали с Ubuntu 26.04 LTS и Windows 11 25H2.</p>",
+     "<p>В 3mdeb отмечают, что это первая открытая прошивка для массовой платы AM5. Ранее компания выпускала подобное решение для серверной платы Gigabyte на процессорах EPYC.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Когда выйдет бета-версия GNOME 51?",
+      "a": "Ожидается на следующей неделе. Версия 51 уже заморожена по API/ABI, функциям и интерфейсу."
+     },
+     {
+      "q": "Что изменилось в Plasma 6.8 для пользователей внешних видеокарт?",
+      "a": "Значительно улучшена производительность при работе с внешними GPU, а также появилась возможность менять разрешение виртуальных экранов для screencasting."
+     },
+     {
+      "q": "Какие диски Western Digital получили исправление в ядре Linux 7.2-rc6?",
+      "a": "Модели WD100EFGX-68CPLN0 и WD102KFBX-68M95N0 (10TB Red Plus и Red Pro Plus), а также 480GB Western Digital Green. Для них отключается Link Power Management."
+     },
+     {
+      "q": "Для какой платы MSI вышла открытая прошивка Coreboot?",
+      "a": "Для материнской платы MSI PRO B850-P WIFI на платформе AMD AM5. Прошивку Dasharo 0.9 подготовила компания 3mdeb."
+     }
+    ]
+   },
+   "uk": {
+    "title": "Оновлення GNOME, KDE та Linux: що приніс тиждень",
+    "lede": "Розробники GNOME заморозили API та функції версії 51, KDE готує Plasma 6.8 з прискоренням зовнішніх GPU, а ядро Linux 7.2-rc6 отримало обхід для проблемних дисків Western Digital.",
+    "meta_description": "Щотижневий огляд root.cz: GNOME 51 готується до бети, Plasma 6.8 прискорює зовнішні GPU, ядро Linux обходить SATA-диски Western Digital, MSI PRO B850-P WIFI отр",
+    "paras": [
+     "<p>Щотижневий огляд відкритого ПЗ від root.cz зібрав головні події тижня в екосистемах GNOME, KDE та Linux. Серед них заморозка GNOME 51, підготовка Plasma 6.8 та виправлення в ядрі для дисків Western Digital.</p>",
+     "<h3>Оновлення GNOME, KDE та Linux: головне за тиждень</h3>",
+     "<p><b>GNOME 51.</b> Версія офіційно перейшла в стадію заморозки API/ABI, функцій та інтерфейсу. Тепер будь-які нові зміни мають узгоджуватися з командою розробників, а бета-версія очікується наступного тижня. У проєкті також обговорюють новий RFC-процес (Request for Comments), який має покращити управління екосистемою.</p>",
+     "<p><b>Інструменти GNOME.</b> Бібліотека Glycin від Sophia перейшла у фазу 2.2 beta. У ній з'явилося API для відключення автоматичної конвертації текстур у sRGB, якщо є ICC-профіль. Зміну зробили на запит розробників векторного редактора Inkscape, які планують перейти з gdk-pixbuf на libglycin.</p>",
+     "<p>Застосунок Decrypt It із Flathub, що розшифровує DLC-файли з JDownloader, виправив проблеми з дешифруванням контейнерів. Іконку програми замінили з PNG на SVG. А інструмент для цензури PDF Censor отримав «параноїдальний режим»: контент замінюється, а сторінка зберігається як зображення, щоб на 110% виключити вилучення даних із файлу.</p>",
+     "<p>Окремо розробники звернули увагу на наплив низькоякісних розширень GNOME, створених штучним інтелектом. У відповідь з'явився блогпост із інструкцією, як правильно писати такі розширення.</p>",
+     "<h3>KDE: Plasma 6.8 прискорюється, Spectacle бачить QR-коди</h3>",
+     "<p>У Plasma 6.7.4 вікно Emoji Selector стало достатньо високим, щоб бічна панель поміщалася без прокрутки. Застосунок Spectacle у цій версії навчився розпізнавати QR-коди на скриншотах. У майбутній Plasma 6.8 він отримає налаштування якості для графічних форматів.</p>",
+     "<p>Plasma 6.8 також помітно покращить продуктивність при роботі із зовнішніми GPU, про що написано в блозі Xavera Hugla. З'явиться можливість змінювати роздільну здатність віртуальних екранів для screencasting замість фіксованих 1920×1080. KWin на деяких клавіатурах розпізнає клавіші «Pick up phone» та «Hang up phone», їх можна буде використовувати як гарячі клавіші.</p>",
+     "<p>Виправлення розійшлися по кількох версіях: п'ять правок у Plasma 6.6.7, по одній у Plasma 6.7.4, Plasma 6.8 та Frameworks 6.29 для компонентів Kirigami. Також починили помилку в ddcutil 2.2.8, через яку падав демон powerdevil.</p>",
+     "<h3>Ядро Linux 7.2-rc6 обходить проблемні диски Western Digital</h3>",
+     "<p>Передфінальний кандидат у ядро Linux 7.2-rc6 отримав компенсації для SATA-дисків Western Digital з помилковою реалізацією Link Power Management (LPM, функція керування живленням). У моделей WD100EFGX-68CPLN0 та WD102KFBX-68M95N0, це 10-терабайтні диски Red Plus та Red Pro Plus для NAS, LPM призводила до відключення SATA-шини при встановленні двох таких дисків.</p>",
+     "<p>Окремий патч відключає LPM для 480-гігабайтного 2,5-дюймового Western Digital Green. У нього диск відключався через дві-три хвилини роботи системи й зникав до наступного перезавантаження. Ціна рішення, втрата енергозбереження від 0,5 до 1,5 Вт на диск.</p>",
+     "<h3>Відкрита прошивка Dasharo для MSI PRO B850-P WIFI</h3>",
+     "<p>Компанія 3mdeb випустила перший повністю відкритий завантажувач openSIL+Coreboot для материнської плати MSI PRO B850-P WIFI на платформі AMD AM5. Прошивка Dasharo версії 0.9 працює з процесорами Ryzen Zen 4, підтримує UEFI Secure Boot, AMD fTPM з TPM Measured Boot та звіти про температуру CPU. Її протестували з Ubuntu 26.04 LTS та Windows 11 25H2.</p>",
+     "<p>У 3mdeb зазначають, що це перша відкрита прошивка для масової плати AM5. Раніше компанія випускала схоже рішення для серверної плати Gigabyte на процесорах EPYC.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Коли вийде бета-версія GNOME 51?",
+      "a": "Очікується наступного тижня. Версія 51 вже заморожена за API/ABI, функціями та інтерфейсом."
+     },
+     {
+      "q": "Що змінилося в Plasma 6.8 для користувачів зовнішніх відеокарт?",
+      "a": "Значно покращено продуктивність при роботі із зовнішніми GPU, а також з'явилася можливість змінювати роздільну здатність віртуальних екранів для screencasting."
+     },
+     {
+      "q": "Які диски Western Digital отримали виправлення в ядрі Linux 7.2-rc6?",
+      "a": "Моделі WD100EFGX-68CPLN0 та WD102KFBX-68M95N0 (10TB Red Plus та Red Pro Plus), а також 480GB Western Digital Green. Для них відключається Link Power Management."
+     },
+     {
+      "q": "Для якої плати MSI вийшла відкрита прошивка Coreboot?",
+      "a": "Для материнської плати MSI PRO B850-P WIFI на платформі AMD AM5. Прошивку Dasharo 0.9 підготувала компанія 3mdeb."
+     }
+    ]
+   },
+   "rank": 85.978,
+   "image_url": "https://i.iinfo.cz/images/494/26tb-wd-ultrastar.jpg"
+  },
   {
    "id": "n3199",
    "slug": "cheshskie-vrachi-podbiraiut-lechenie-raka-legkikh-po-dnk-opukholi",
    "source": "irozhlas.cz",
    "original_url": "https://www.irozhlas.cz/zivotni-styl/zdravi/lekari-mohou-pacientum-s-rakovinou-plic-vybrat-lecbu-primo-na-miru-pomaha-jim_2608012239_cen",
-   "top": false,
+   "top": true,
    "tags": [
     "zdorovie",
     "cesko"
    ],
    "published_at": "2026-08-01T23:42:34.136977+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "1 августа 2026, 23:42",
@@ -76,8 +179,8 @@
    ],
    "published_at": "2026-08-01T22:35:19.456270+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "1 августа 2026, 22:35",
@@ -126,8 +229,8 @@
    ],
    "published_at": "2026-08-01T21:32:47.306549+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "1 августа 2026, 21:32",
@@ -167,7 +270,7 @@
     ],
     "faq": []
    },
-   "rank": 90.0,
+   "rank": 89.66,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/swimmers-79592_1920_250918-223231_job.jpg"
   },
   {
@@ -183,8 +286,8 @@
    ],
    "published_at": "2026-08-01T19:34:35.947231+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 19:34",
@@ -218,7 +321,7 @@
     ],
     "faq": []
    },
-   "rank": 94.429,
+   "rank": 92.905,
    "image_url": "https://1gr.cz/tempimg/fb/2023/1/AKP98b8c3_profimedia_0667737771.jpg"
   },
   {
@@ -232,8 +335,8 @@
    ],
    "published_at": "2026-08-01T19:00:03.511215+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 19:00",
@@ -267,7 +370,7 @@
     ],
     "faq": []
    },
-   "rank": 97.532,
+   "rank": 95.945,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-112001249_260801-135908_mim.jpg"
   },
   {
@@ -282,8 +385,8 @@
    ],
    "published_at": "2026-08-01T18:27:08.438894+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 18:27",
@@ -333,7 +436,7 @@
     ],
     "faq": []
    },
-   "rank": 101.576,
+   "rank": 99.91,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/4d7/4d71acaf-bb0a-4039-abd1-f117d155ae6f.jpeg"
   },
   {
@@ -348,8 +451,8 @@
    ],
    "published_at": "2026-08-01T17:52:50.598844+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 17:52",
@@ -399,7 +502,7 @@
     ],
     "faq": []
    },
-   "rank": 71.935,
+   "rank": 70.745,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/e5a/e5a57503-1a95-463f-917b-caf40a17057b.jpeg"
   },
   {
@@ -414,8 +517,8 @@
    ],
    "published_at": "2026-08-01T16:40:14.131945+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 16:40",
@@ -445,7 +548,7 @@
     ],
     "faq": []
    },
-   "rank": 80.398,
+   "rank": 79.044,
    "image_url": "https://cdn.kudyznudy.cz/files/fa/fac5e831-6177-4c32-96d2-7a76c749d2df.jpg?v=20230714013626",
    "images": [
     "https://cdn.kudyznudy.cz/files/7b/7bfdc2aa-6c30-4946-ac6b-cc51a7f51cfa.webp?v=20230714013627",
@@ -469,8 +572,8 @@
    ],
    "published_at": "2026-08-01T16:05:40.613100+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 16:05",
@@ -510,7 +613,7 @@
     ],
     "faq": []
    },
-   "rank": 93.334,
+   "rank": 91.747,
    "image_url": "https://1gr.cz/tempimg/fb/2026/5/IHA46f6d9df56_023806_10169627.jpg"
   },
   {
@@ -525,8 +628,8 @@
    ],
    "published_at": "2026-08-01T15:34:26.891640+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 15:34",
@@ -558,7 +661,7 @@
     ],
     "faq": []
    },
-   "rank": 87.953,
+   "rank": 86.445,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/prazske-sluzby/popelar-smesny-odpad-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/prazske-sluzby/popelar-smesny-odpad-475.jpg",
@@ -581,8 +684,8 @@
    ],
    "published_at": "2026-08-01T15:34:26.891640+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 15:34",
@@ -622,7 +725,7 @@
     ],
     "faq": []
    },
-   "rank": 106.469,
+   "rank": 104.644,
    "image_url": "https://i3.cn.cz/16/1750573143_F202211300044401.jpeg"
   },
   {
@@ -637,8 +740,8 @@
    ],
    "published_at": "2026-08-01T14:55:10.686718+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 14:55",
@@ -674,7 +777,7 @@
     ],
     "faq": []
    },
-   "rank": 80.182,
+   "rank": 78.793,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/zamek-2.jpg"
   },
   {
@@ -682,14 +785,14 @@
    "slug": "hornicek-v-newcastle-rekordnyi-transfer-cheshskogo-vrataria",
    "source": "denik.cz",
    "original_url": "https://www.denik.cz/ostatni-fotbal/lukas-hornicek-prestup-braga-newcastle-nejdrazsi-cesky-brankar/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=ostatni-fotbal",
-   "top": true,
+   "top": false,
    "tags": [
     "sport"
    ],
    "published_at": "2026-08-01T14:21:36.207721+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 14:21",
@@ -761,7 +864,7 @@
      }
     ]
    },
-   "rank": 113.306,
+   "rank": 111.326,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -798,8 +901,8 @@
    ],
    "published_at": "2026-08-01T14:21:36.207721+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 14:21",
@@ -865,7 +968,7 @@
      }
     ]
    },
-   "rank": 95.37,
+   "rank": 93.703,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/aaa.jpg",
    "video": {
     "kind": "iframe",
@@ -884,8 +987,8 @@
    ],
    "published_at": "2026-08-01T14:21:36.207721+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 14:21",
@@ -943,7 +1046,7 @@
     ],
     "faq": []
    },
-   "rank": 86.93,
+   "rank": 85.411,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/nEwftpXyZCL67dBBRHSwMWY/15fb.jpeg?fl=cro,0,182,3500,1968%7Cres,1200,,1"
   },
   {
@@ -958,8 +1061,8 @@
    ],
    "published_at": "2026-08-01T13:34:33.101826+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 13:34",
@@ -1027,7 +1130,7 @@
      }
     ]
    },
-   "rank": 76.789,
+   "rank": 75.431,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCpCkJK89HXZbQ0/ead3/plzen-jtekt.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1042,8 +1145,8 @@
    ],
    "published_at": "2026-08-01T13:34:33.101826+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 13:34",
@@ -1131,7 +1234,7 @@
      }
     ]
    },
-   "rank": 77.138,
+   "rank": 75.773,
    "image_url": "https://cdn.kudyznudy.cz/files/f9/f97dc1b2-cd06-4146-8e8f-af96653a9b72.jpg?v=20240718101726",
    "images": [
     "https://cdn.kudyznudy.cz/files/a5/a5626586-6ba2-4341-a196-e71d6c9345c9.webp?v=20240718095716",
@@ -1155,8 +1258,8 @@
    ],
    "published_at": "2026-08-01T13:34:33.101826+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 13:34",
@@ -1222,7 +1325,7 @@
      }
     ]
    },
-   "rank": 59.066,
+   "rank": 58.021,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/america-x-china-mvp-xyz.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/07/kimi-mvp-x-1630x1019.jpg"
@@ -1240,8 +1343,8 @@
    ],
    "published_at": "2026-08-01T13:34:33.101826+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 13:34",
@@ -1307,7 +1410,7 @@
      }
     ]
    },
-   "rank": 89.696,
+   "rank": 88.109,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/lp.jpg"
   },
   {
@@ -1321,8 +1424,8 @@
    ],
    "published_at": "2026-08-01T13:34:33.101826+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 13:34",
@@ -1396,7 +1499,7 @@
      }
     ]
    },
-   "rank": 94.18,
+   "rank": 92.514,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/28b/28bbe627-746a-45f1-8e33-f42f4b51df8a.jpeg"
   },
   {
@@ -1410,8 +1513,8 @@
    ],
    "published_at": "2026-08-01T12:39:01.608359+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 12:39",
@@ -1479,7 +1582,7 @@
      }
     ]
    },
-   "rank": 96.786,
+   "rank": 95.047,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1510,8 +1613,8 @@
    ],
    "published_at": "2026-08-01T12:39:01.608359+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 12:39",
@@ -1601,7 +1704,7 @@
      }
     ]
    },
-   "rank": 64.06,
+   "rank": 62.91,
    "image_url": "https://cdn.kudyznudy.cz/files/49/491696e6-f115-4daa-97e9-1814b79c60c0.jpg?v=20250115124935",
    "images": [
     "https://cdn.kudyznudy.cz/files/38/38a6ce32-fe86-4e35-8411-92d4f0e777a2.webp?v=20250115124945",
@@ -1623,8 +1726,8 @@
    ],
    "published_at": "2026-08-01T12:39:01.608359+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 12:39",
@@ -1700,7 +1803,7 @@
      }
     ]
    },
-   "rank": 79.523,
+   "rank": 78.095,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/muj-ai-satnik-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/559435/muj-ai-satnik-820x512-c.jpg",
@@ -1723,8 +1826,8 @@
    ],
    "published_at": "2026-08-01T12:39:01.608359+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 12:39",
@@ -1792,7 +1895,7 @@
      }
     ]
    },
-   "rank": 92.777,
+   "rank": 91.111,
    "sources": [
     {
      "domain": "pid.cz",
@@ -1815,8 +1918,8 @@
    ],
    "published_at": "2026-08-01T12:39:01.608359+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 12:39",
@@ -1882,7 +1985,7 @@
      }
     ]
    },
-   "rank": 92.777,
+   "rank": 91.111,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260731-220533_vaa.jpeg?itok=2sBFUHWY"
   },
   {
@@ -1897,8 +2000,8 @@
    ],
    "published_at": "2026-08-01T11:45:15.691055+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 11:45",
@@ -1968,7 +2071,7 @@
      }
     ]
    },
-   "rank": 91.418,
+   "rank": 89.751,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/bed271e053876ffc8f1c17e3c7c5faff.jpg"
   },
   {
@@ -1982,8 +2085,8 @@
    ],
    "published_at": "2026-08-01T10:54:32.418615+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 10:54",
@@ -2059,7 +2162,7 @@
      }
     ]
    },
-   "rank": 85.843,
+   "rank": 84.257,
    "sources": [
     {
      "domain": "abicko.cz",
@@ -2089,8 +2192,8 @@
    ],
    "published_at": "2026-08-01T10:17:27.185704+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 10:17",
@@ -2158,7 +2261,7 @@
      }
     ]
    },
-   "rank": 84.951,
+   "rank": 83.364,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260731-203602_vaa_2.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260731-203602_vaa.jpeg?itok=1HF13jle"
@@ -2175,8 +2278,8 @@
    ],
    "published_at": "2026-08-01T10:02:17.697813+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 10:02",
@@ -2214,7 +2317,7 @@
     ],
     "faq": []
    },
-   "rank": 67.669
+   "rank": 66.399
   },
   {
    "id": "n3170",
@@ -2228,8 +2331,8 @@
    ],
    "published_at": "2026-08-01T09:40:49.464924+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 09:40",
@@ -2297,7 +2400,7 @@
      }
     ]
    },
-   "rank": 79.865,
+   "rank": 78.358,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-029868259_260731-162225_mkm.jpg"
   },
   {
@@ -2312,8 +2415,8 @@
    ],
    "published_at": "2026-08-01T07:50:40.004117+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 07:50",
@@ -2395,7 +2498,7 @@
      }
     ]
    },
-   "rank": 105.842,
+   "rank": 103.779,
    "image_url": "https://i3.cn.cz/16/1759324206_P2025100105535.jpeg"
   },
   {
@@ -2411,8 +2514,8 @@
    ],
    "published_at": "2026-08-01T07:50:40.004117+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 07:50",
@@ -2508,7 +2611,7 @@
      }
     ]
    },
-   "rank": 71.647,
+   "rank": 70.25,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/vandraci-1280x800.png",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/559747/vandraci7-820x512-c.jpg"
@@ -2530,8 +2633,8 @@
    ],
    "published_at": "2026-08-01T06:53:23.495284+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 06:53",
@@ -2603,7 +2706,7 @@
      }
     ]
    },
-   "rank": 78.126,
+   "rank": 76.576,
    "sources": [
     {
      "domain": "jindrichohradecky.denik.cz",
@@ -2640,8 +2743,8 @@
    ],
    "published_at": "2026-08-01T06:53:23.495284+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 06:53",
@@ -2721,7 +2824,7 @@
      }
     ]
    },
-   "rank": 72.034,
+   "rank": 70.606,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_m1_A/kPUxThEDr8VdIthIx/salas-rozhledna-morava?fl=cro,0,184,2058,1157%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2736,8 +2839,8 @@
    ],
    "published_at": "2026-08-01T06:07:32.210156+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 06:07",
@@ -2837,7 +2940,7 @@
      }
     ]
    },
-   "rank": 74.987,
+   "rank": 73.48,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QP_3/JtAMy/senior-duchodce.jpeg?fl=cro,878,0,5137,2889%7Cres,1200,,1"
   },
   {
@@ -2851,8 +2954,8 @@
    ],
    "published_at": "2026-08-01T06:07:32.210156+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "1 августа 2026, 06:07",
@@ -2934,7 +3037,7 @@
      }
     ]
    },
-   "rank": 59.201,
+   "rank": 58.01,
    "image_url": "https://kolinsky.denik.cz/images/api/image/1366x910/bf5/bf53418b-40c4-4ff4-b048-6bd8ef5c9f8a.jpeg",
    "images": [
     "https://kolinsky.denik.cz/images/api/image/1366x910/065/065626c9-0e9d-46fc-8b32-f33cc4c00f69.webp",
@@ -2952,8 +3055,8 @@
    ],
    "published_at": "2026-08-01T03:43:13.127719+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "1 августа 2026, 03:43",
@@ -3031,7 +3134,7 @@
      }
     ]
    },
-   "rank": 93.57,
+   "rank": 91.602,
    "sources": [
     {
      "domain": "denik.cz",
@@ -3068,8 +3171,8 @@
    ],
    "published_at": "2026-08-01T02:31:18.692111+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "1 августа 2026, 02:31",
@@ -3135,7 +3238,7 @@
      }
     ]
    },
-   "rank": 70.042,
+   "rank": 68.535,
    "sources": [
     {
      "domain": "zeny.iprima.cz",
@@ -3165,8 +3268,8 @@
    ],
    "published_at": "2026-08-01T01:38:47.789821+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "1 августа 2026, 01:38",
@@ -3256,7 +3359,7 @@
      }
     ]
    },
-   "rank": 84.421,
+   "rank": 82.572,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -3288,8 +3391,8 @@
    ],
    "published_at": "2026-08-01T00:45:44.596763+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "1 августа 2026, 00:45",
@@ -3363,7 +3466,7 @@
      }
     ]
    },
-   "rank": 85.425,
+   "rank": 83.52,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -3399,8 +3502,8 @@
    ],
    "published_at": "2026-07-31T23:49:09.273977+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "31 июля 2026, 23:49",
@@ -3438,7 +3541,7 @@
     ],
     "faq": []
    },
-   "rank": 68.428,
+   "rank": 66.873,
    "image_url": "https://1gr.cz/tempimg/fb/2025/8/KRU7b0aa523b9_171130_13339712.jpg"
   },
   {
@@ -3496,7 +3599,7 @@
     ],
     "faq": []
    },
-   "rank": 48.262,
+   "rank": 47.151,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nO573v8MsNRYZhGg2HXEBQ2/4883/nykodym.jpeg?fl=cro,0,29,540,303%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3564,7 +3667,7 @@
     ],
     "faq": []
    },
-   "rank": 71.446,
+   "rank": 69.78,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/img_6501_260729-234258_jar.JPEG"
   },
   {
@@ -3622,7 +3725,7 @@
     ],
     "faq": []
    },
-   "rank": 44.105,
+   "rank": 43.058,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260731-172302_vaa_1.jpeg"
   },
   {
@@ -3672,7 +3775,7 @@
     ],
     "faq": []
    },
-   "rank": 59.857,
+   "rank": 58.429,
    "image_url": "https://cd1.incdatagate.cz/images/1ed5656b-e9d3-6b18-85c8-575dc9cded0d/w_1200x675.jpg"
   },
   {
@@ -3731,7 +3834,7 @@
     ],
     "faq": []
    },
-   "rank": 68.869,
+   "rank": 67.202,
    "image_url": "https://1gr.cz/tempimg/fb/2026/6/DAV882b1a2abb_154639_35216791.jpg"
   },
   {
@@ -3779,7 +3882,7 @@
     ],
     "faq": []
    },
-   "rank": 41.306,
+   "rank": 40.299,
    "image_url": "https://cdn.kudyznudy.cz/files/e0/e093ec9c-c53e-491b-87aa-2b3bf6fac002.jpg?v=20250308004325",
    "images": [
     "https://cdn.kudyznudy.cz/files/62/625e2b42-fe15-4f10-8321-7ffa60965e28.webp?v=20250307235049",
@@ -3847,7 +3950,7 @@
     ],
     "faq": []
    },
-   "rank": 52.041,
+   "rank": 50.756,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/m1_260731-134726_aru.jpeg"
   },
   {
@@ -3897,7 +4000,7 @@
     ],
     "faq": []
    },
-   "rank": 61.305,
+   "rank": 59.782,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/85/ViewImage-41.jpg"
   },
   {
@@ -3957,7 +4060,7 @@
     ],
     "faq": []
    },
-   "rank": 59.785,
+   "rank": 58.277,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/FOH9a31c9ce70_profimedia_0220572402.jpg"
   },
   {
@@ -4020,7 +4123,7 @@
     ],
     "faq": []
    },
-   "rank": 69.225,
+   "rank": 67.479,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/cnb_1_200709-192009_mda.jpg"
   },
   {
@@ -4078,7 +4181,7 @@
     ],
     "faq": []
    },
-   "rank": 62.631,
+   "rank": 61.044,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/c63/c633c8f7-0ba6-442e-85eb-a3666c8ee0de.jpeg"
   },
   {
@@ -4131,7 +4234,7 @@
     ],
     "faq": []
    },
-   "rank": 67.641,
+   "rank": 65.927,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kQMlcCt5zmChFvGcZOHIu8Au/0b1b.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4188,7 +4291,7 @@
     ],
     "faq": []
    },
-   "rank": 59.019,
+   "rank": 57.511,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/f8f/f8f49d38-15ea-4828-88c1-b26b296389eb.jpeg"
   },
   {
@@ -4240,7 +4343,7 @@
     ],
     "faq": []
    },
-   "rank": 64.821,
+   "rank": 63.155,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_m1_A/nOyK4m0UavBdKgVYUxZ3H/7938/xpolicie-xzachranka-zachranka-policie.mpo?fl=cro,0,384,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4294,7 +4397,7 @@
     ],
     "faq": []
    },
-   "rank": 47.618,
+   "rank": 46.388,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/04d/04dd4d69-65f9-4148-ab31-66833c00fce5.jpeg"
   },
   {
@@ -4354,7 +4457,7 @@
     ],
     "faq": []
    },
-   "rank": 67.83,
+   "rank": 66.069,
    "image_url": "https://i3.cn.cz/16/1742402602_F202203040701201.jpeg"
   },
   {
@@ -4457,7 +4560,7 @@
     ],
     "faq": []
    },
-   "rank": 64.165,
+   "rank": 62.499,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/bbe/bbe3d0e5-7fb3-49bd-9846-6b025cd2cfe7.jpeg"
   },
   {
@@ -4509,7 +4612,7 @@
     ],
     "faq": []
    },
-   "rank": 57.547,
+   "rank": 56.039,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_oe_A/nO1Ur3YPjBNaf8CBGEoB1Nu/5571/burza-burza-cennych-papiru-praha-bcpp.jpeg?fl=cro,0,238,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4564,7 +4667,7 @@
     ],
     "faq": []
    },
-   "rank": 54.852,
+   "rank": 53.415,
    "image_url": "https://1gr.cz/tempimg/fb/2024/12/JGO6e8c350a12_TheSwellSeason.jpeg"
   },
   {
@@ -4622,7 +4725,7 @@
     ],
     "faq": []
    },
-   "rank": 51.405,
+   "rank": 50.04,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/nEwftpXyZCCONkDJSHV7eVY/a730/uvn.jpeg?fl=cro,0,122,1400,787%7Cres,1200,,1"
   },
   {
@@ -4670,7 +4773,7 @@
     ],
     "faq": []
    },
-   "rank": 62.356,
+   "rank": 60.69,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/c25/c25e3659-969d-4a6c-bfe1-b692f8ef2751.jpeg"
   },
   {
@@ -4721,7 +4824,7 @@
     ],
     "faq": []
    },
-   "rank": 59.387,
+   "rank": 57.8,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/untitled_design_260731-151050_neb.png",
    "video": {
     "kind": "iframe",
@@ -4776,7 +4879,7 @@
     ],
     "faq": []
    },
-   "rank": 55.807,
+   "rank": 54.299,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-066810271_260731-113312_aru.jpg"
   },
   {
@@ -4852,7 +4955,7 @@
     ],
     "faq": []
    },
-   "rank": 63.94,
+   "rank": 62.194,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/3eb/3eb026c2-5da1-475e-8a8c-a7a2678bcef2.jpeg"
   },
   {
@@ -4907,7 +5010,7 @@
     ],
     "faq": []
    },
-   "rank": 56.965,
+   "rank": 55.41,
    "image_url": "https://1gr.cz/tempimg/fb/2021/5/LUH8bb1f8_Depositphotos_159677050_xl_2015.jpg"
   },
   {
@@ -4965,7 +5068,7 @@
     ],
     "faq": []
    },
-   "rank": 43.248,
+   "rank": 42.058,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260731-094830_aru_2.jpeg"
   },
   {
@@ -5027,7 +5130,7 @@
     ],
     "faq": []
    },
-   "rank": 57.664,
+   "rank": 56.077,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/osobnosti-1/vydech-sedivy-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/osobnosti-1/vydech-sedivy-475.jpg",
@@ -5089,7 +5192,7 @@
     ],
     "faq": []
    },
-   "rank": 58.482,
+   "rank": 56.864,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/EPFa31c6a1851_35a_s_mandlemi_slozeni.jpg"
   },
   {
@@ -5137,7 +5240,7 @@
     ],
     "faq": []
    },
-   "rank": 43.002,
+   "rank": 41.812,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/317/317c5f5b-9705-41b7-93c5-83c1e80d1769.jpeg"
   },
   {
@@ -5187,7 +5290,7 @@
     ],
     "faq": []
    },
-   "rank": 30.675,
+   "rank": 29.826,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/nike-hyperice.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/561254/nike-hyperice-1-820x512-c.jpeg",
@@ -5246,7 +5349,7 @@
     ],
     "faq": []
    },
-   "rank": 41.77,
+   "rank": 40.604,
    "image_url": "https://cdn.kudyznudy.cz/files/0b/0bf7c450-db12-47ec-9f1b-ef3477e83c98.jpg?v=20260731135311",
    "images": [
     "https://cdn.kudyznudy.cz/files/23/232cc223-dd42-442a-9ae9-5b251497ac65.webp?v=20260731135319",
@@ -5310,7 +5413,7 @@
     ],
     "faq": []
    },
-   "rank": 62.513,
+   "rank": 60.768,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv0_1566_210813-203703_vlf.jpg"
   },
   {
@@ -5358,7 +5461,7 @@
     ],
     "faq": []
    },
-   "rank": 28.263,
+   "rank": 27.469,
    "image_url": "https://1gr.cz/tempimg/fb/2019/11/ZAR7fabbb_kp5.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/072/vidw/DVO8cfc963c62_profimedia_0751716621.jpg",
@@ -5427,7 +5530,7 @@
     ],
     "faq": []
    },
-   "rank": 54.616,
+   "rank": 53.069,
    "image_url": "https://cdn.kudyznudy.cz/files/be/be393031-b09e-43d6-8ca3-cf9cf4a08d3f.jpg?v=20260731133059",
    "images": [
     "https://cdn.kudyznudy.cz/files/41/41a7d1d6-b2f7-405f-b8f2-fed488563bac.webp?v=20260731133057",
@@ -5496,7 +5599,7 @@
     ],
     "faq": []
    },
-   "rank": 55.633,
+   "rank": 54.047,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-10-2026/vrsovicka-promenada-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-10-2026/vrsovicka-promenada-475.jpg",
@@ -5560,7 +5663,7 @@
     ],
     "faq": []
    },
-   "rank": 55.633,
+   "rank": 54.047,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nEwftpXyZCCONkBjxHVvagM/59be.jpeg?fl=cro,0,99,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5628,7 +5731,7 @@
     ],
     "faq": []
    },
-   "rank": 59.092,
+   "rank": 57.394,
    "image_url": "https://cc.cz/wp-content/uploads/2026/03/altman-amodei-mvp-x2.jpg"
   },
   {
@@ -5675,7 +5778,7 @@
     ],
     "faq": []
    },
-   "rank": 43.851,
+   "rank": 42.58,
    "image_url": "https://1gr.cz/tempimg/fb/2025/6/MAJbf64688ec_224540_17154476.jpg"
   },
   {
@@ -5735,7 +5838,7 @@
     ],
     "faq": []
    },
-   "rank": 57.483,
+   "rank": 55.817,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/nO573v8MsN3e2PCsPHW4BLf/517d/d3-dalnice-silnice.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5786,7 +5889,7 @@
     ],
     "faq": []
    },
-   "rank": 49.272,
+   "rank": 47.843,
    "image_url": "https://1gr.cz/tempimg/fb/2024/5/ZAR48d89f9c96_27RTRMADP_3_USA_MET_BALL.JPG",
    "images": [
     "https://1gr.cz/fotky/idnes/26/074/vidw/JGO5cadc148a9_petal.jpg",
@@ -5851,7 +5954,7 @@
     ],
     "faq": []
    },
-   "rank": 54.275,
+   "rank": 52.688,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/BUR461e3215eb_podium2.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/074/vidw/CHA820aa19adf_PODIUM_ORIS.jpg",
@@ -5918,7 +6021,7 @@
     ],
     "faq": []
    },
-   "rank": 23.416,
+   "rank": 22.726,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/chip1.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560878/chip2-820x512-c.jpg"
@@ -5976,7 +6079,7 @@
     ],
     "faq": []
    },
-   "rank": 43.064,
+   "rank": 41.794,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/skolstvi/zs-hloubetin-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/skolstvi/zs-hloubetin-475.jpg",
@@ -6032,7 +6135,7 @@
     ],
     "faq": []
    },
-   "rank": 53.83,
+   "rank": 52.243,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/JGO65a0918207_laurin2.jpg"
   },
   {
@@ -6090,7 +6193,7 @@
     ],
     "faq": []
    },
-   "rank": 53.413,
+   "rank": 51.826,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qB_A/kO7neTVgOQD6SgjmdGsEB0O/3c65/dalesice-dukovany.jpeg?fl=cro,0,154,3000,1687%7Cres,1200,,1"
   },
   {
@@ -6138,7 +6241,7 @@
     ],
     "faq": []
    },
-   "rank": 50.743,
+   "rank": 49.235,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2025/01/DSC_5040.jpg"
   },
   {
@@ -6189,7 +6292,7 @@
     ],
     "faq": []
    },
-   "rank": 35.253,
+   "rank": 34.205,
    "image_url": "https://www.prazskypatriot.cz/data/images/street-art-fest-v-parku-gutovka.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -6257,7 +6360,7 @@
     ],
     "faq": []
    },
-   "rank": 65.77,
+   "rank": 63.786,
    "image_url": "https://i3.cn.cz/16/1280128446_A8.jpg"
   },
   {
@@ -6303,7 +6406,7 @@
     ],
     "faq": []
    },
-   "rank": 49.701,
+   "rank": 48.193,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/cxiz.jpg",
    "video": {
     "kind": "iframe",
@@ -6378,7 +6481,7 @@
     ],
     "faq": []
    },
-   "rank": 68.012,
+   "rank": 65.949,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv3_6058_230803-155633_vlf.jpg"
   },
   {
@@ -6429,7 +6532,7 @@
     ],
     "faq": []
    },
-   "rank": 52.42,
+   "rank": 50.817,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0075-1-1.jpg"
   },
   {
@@ -6478,7 +6581,7 @@
     ],
     "faq": []
    },
-   "rank": 41.059,
+   "rank": 39.789,
    "leisure": true
   },
   {
@@ -6554,7 +6657,7 @@
     ],
     "faq": []
    },
-   "rank": 42.251,
+   "rank": 40.942,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/hala_22_2.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560127/hala8-820x512-c.jpg",
@@ -6608,7 +6711,7 @@
     ],
     "faq": []
    },
-   "rank": 53.225,
+   "rank": 51.559,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/10/2-6.jpg"
   },
   {
@@ -6656,7 +6759,7 @@
     ],
     "faq": []
    },
-   "rank": 40.553,
+   "rank": 39.283,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/308/3084aecf-bc77-4ebb-9e0d-22afed8da5a0.jpeg"
   },
   {
@@ -6716,7 +6819,7 @@
     ],
     "faq": []
    },
-   "rank": 50.246,
+   "rank": 48.659,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/ropid/informacni-tabule-odjezdy-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/ropid/informacni-tabule-odjezdy-475.jpg",
@@ -6768,7 +6871,7 @@
     ],
     "faq": []
    },
-   "rank": 41.853,
+   "rank": 40.488,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0187.jpg"
   },
   {
@@ -6817,7 +6920,7 @@
     ],
     "faq": []
    },
-   "rank": 45.742,
+   "rank": 44.235,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/07/31/06/31/47/8e8a27f6-a676-4f4e-8e61-8db565a3f589/tag:reuters.com,2026:newsml_RC2UOMANQ3N5.jpg"
   },
   {
@@ -6880,7 +6983,7 @@
     ],
     "faq": []
    },
-   "rank": 52.452,
+   "rank": 50.706,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/wikimedia-commons-9/kralovske-vinohrdy-wikimedia-foto-kacir-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/wikimedia-commons-9/kralovske-vinohrdy-wikimedia-foto-kacir-475.jpg",
@@ -6956,7 +7059,7 @@
     ],
     "faq": []
    },
-   "rank": 47.683,
+   "rank": 46.096,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/martin_4_260729-102502_ako.jpg?itok=F3U-X6sf"
   },
   {
@@ -7006,7 +7109,7 @@
     ],
     "faq": []
    },
-   "rank": 44.107,
+   "rank": 42.639,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/gianni-donald.jpg"
   },
   {
@@ -7059,7 +7162,7 @@
     ],
     "faq": []
    },
-   "rank": 44.696,
+   "rank": 43.188,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/KHR5b597d4862_dvo8.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/071/vidw/KHR5b3f037ad0_dvo7.jpg",
@@ -7187,7 +7290,7 @@
      }
     ]
    },
-   "rank": 44.773,
+   "rank": 43.251,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oZ_A/kBkJRwehYQKXlCRVDGybms/0950/senior-duchodce-stary-clovek.jpeg?fl=cro,0,427,4096,2304%7Cres,1200,,1"
   },
   {
@@ -7289,7 +7392,7 @@
      }
     ]
    },
-   "rank": 47.595,
+   "rank": 45.977,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -7396,7 +7499,7 @@
      }
     ]
    },
-   "rank": 52.999,
+   "rank": 51.174,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -7512,7 +7615,7 @@
      }
     ]
    },
-   "rank": 36.663,
+   "rank": 35.393,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/obrazek_whatsapp_202_251112-192104_jkd.jpg"
   },
   {
@@ -7616,7 +7719,7 @@
      }
     ]
    },
-   "rank": 40.851,
+   "rank": 39.423,
    "sources": [
     {
      "domain": "arecenze.cz",
@@ -7724,7 +7827,7 @@
      }
     ]
    },
-   "rank": 46.03,
+   "rank": 44.403,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/mmrecap.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/561089/26-820x512-c.jpg"
@@ -7815,7 +7918,7 @@
      }
     ]
    },
-   "rank": 45.285,
+   "rank": 43.685,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -7905,7 +8008,7 @@
      }
     ]
    },
-   "rank": 43.784,
+   "rank": 42.237,
    "image_url": "https://cdn.kudyznudy.cz/files/f8/f899a2e4-22ab-476b-af53-90061b3fe084.jpg?v=20260731060056",
    "images": [
     "https://cdn.kudyznudy.cz/files/00/00499ed6-7de7-4b21-ba10-c74b2e26924c.webp?v=20260731060057",
@@ -8009,7 +8112,7 @@
      }
     ]
    },
-   "rank": 42.223,
+   "rank": 40.716,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/dsc_7565-nr_260626-171531_jar.jpg"
   },
   {
@@ -8100,7 +8203,7 @@
      }
     ]
    },
-   "rank": 46.501,
+   "rank": 44.597,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/b55/b555b847-a3c1-4b7e-aae4-733473563167.jpeg"
   },
   {
@@ -8183,7 +8286,7 @@
      }
     ]
    },
-   "rank": 47.276,
+   "rank": 45.34,
    "sources": [
     {
      "domain": "denik.cz",
@@ -8296,7 +8399,7 @@
      }
     ]
    },
-   "rank": 28.347,
+   "rank": 27.157,
    "image_url": "https://cdn.kudyznudy.cz/files/9f/9fb3a323-5b07-41a8-a268-511cb14f76ff.jpg?v=20240801104404",
    "images": [
     "https://cdn.kudyznudy.cz/files/2f/2f2c1ff2-6a81-4d49-b2a7-731ca734ee98.webp?v=20240801104708",
@@ -8318,8 +8421,8 @@
    ],
    "published_at": "2026-07-31T00:43:14.281232+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 00:43",
@@ -8379,7 +8482,7 @@
      }
     ]
    },
-   "rank": 29.168,
+   "rank": 28.0,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/07/30/19/13/24/22d01b5f-649a-4d92-8337-b0189266856a/22_vrtulniky-systemu-h-1_ah-1-viper-a-uh-1y.jpg"
   },
   {
@@ -12090,8 +12193,8 @@
    ],
    "published_at": "2026-07-30T00:37:08.021281+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "30 июля 2026, 00:37",
@@ -12177,8 +12280,8 @@
    ],
    "published_at": "2026-07-30T00:20:00.503382+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "30 июля 2026, 00:20",
@@ -16606,8 +16709,8 @@
    ],
    "published_at": "2026-07-29T00:32:25.586829+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 00:32",
@@ -16722,8 +16825,8 @@
    ],
    "published_at": "2026-07-29T00:14:39.670365+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 00:14",
@@ -16807,8 +16910,8 @@
    ],
    "published_at": "2026-07-29T00:14:39.670365+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 00:14",
@@ -16885,8 +16988,8 @@
    ],
    "published_at": "2026-07-29T00:14:39.670365+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 00:14",
@@ -17013,8 +17116,8 @@
    ],
    "published_at": "2026-07-29T00:14:39.670365+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "29 июля 2026, 00:14",
@@ -20214,56 +20317,6 @@
     "https://cdn.kudyznudy.cz/files/07/072175b2-8161-4f88-a12c-b52da12c2c59.webp?v=20230201091410",
     "https://cdn.kudyznudy.cz/files/8b/8b7e80d4-fbdb-4111-9610-421f142c3ac2.webp?v=20230201091411"
    ]
-  },
-  {
-   "id": "n2896",
-   "slug": "eks-ministr-german-sredi-piati-kandidatov-v-sovet-cht",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/zpravy/domaci/senat-verejne-slyseni-kandidati-do-rady-ceske-televize.A260728_062015_domaci_kop#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "cesko",
-    "zakon"
-   ],
-   "published_at": "2026-07-28T10:05:20.184936+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "28 июля 2026, 10:05",
-    "uk": "28 липня 2026, 10:05"
-   },
-   "ru": {
-    "title": "Экс-министр Герман среди пяти кандидатов в Совет ЧТ",
-    "lede": "Бывший министр культуры Даниэль Герман, экс-журналистка Алице Немцова Тейкалова и директор Пражской городской библиотеки Томаш Ржегак вошли в число пяти претендентов на одно вакантное место в Совете Чешского телевидения. Сенат выберет нового члена 29 июля.",
-    "meta_description": "Пять кандидатов, включая экс-министра культуры Даниэля Германа, претендуют на место в Совете Чешского телевидения. Сенат выберет нового члена 29 июля.",
-    "paras": [
-     "<p>На одно вакантное место в Совете Чешского телевидения (ČT) претендуют пять кандидатов. Среди них, бывший министр культуры от KDU-ČSL <b>Даниэль Герман</b>, экс-спортивная журналистка <b>Алице Немцова Тейкалова</b> и директор Пражской городской библиотеки <b>Томаш Ржегак</b>. Ржегак уже работал в совете три года до марта этого года, он заменил экономиста Павла Кысилку.</p>",
-     "<p>Немцова Тейкалова после завершения журналистской карьеры была деканом Факультета социальных наук Карлова университета, сейчас она заведует кафедрой журналистики на этом же факультете.</p>",
-     "<h3>Политический контекст</h3><p>Все трое уже выдвигались, когда Палата депутатов выбирала членов Совета ČT. Однако тогда правящая коалиция ANO, SPD и Motoristé sobě добилась, чтобы ни один из кандидатов, поддерживаемых оппозицией, не прошёл.</p>",
-     "<p>Среди других претендентов, историк <b>Иржи Райлих</b>, работающий в Военно-историческом институте, и основатель некоммерческой организации Portus <b>Рихард Немец</b>. Организация предоставляет социальные услуги людям с умственными нарушениями.</p>",
-     "<p>Сенат как целое будет заполнять одно свободное место в Совете ČT на заседании в среду 29 июля.</p>",
-     "<h3>Предыдущие выборы в Совете ČT</h3><p>В начале июня Палата депутатов в открытом голосовании избрала шесть членов Совета ČT. Свои посты сохранили Любомир Ксавер Веселы и Иржи Шлегр. Также были избраны бывший пресс-секретарь телеканала Nova и компании Innogy Мартин Халупски, экс-депутат ANO Станислав Берковец, учительница Люцие Плишкова (которая готовила подкаст Sorry, jako! с лидером ANO Андреем Бабишем) и предприниматель Петр Брозда, выдвинутый Алиансом за семью.</p><p>Всех их продвинула правящая коалиция, только Халупски получил поддержку также от депутатов ODS и движения STAN.</p><p>Правящая коалиция пожертвовала действующими членами Совета ČT Павлом Матохой и Романом Брадачем. «Господин Матоха и Брадач не получат нашей поддержки», заявил перед голосованием от имени всей коалиции министр по спорту, профилактике и здравоохранению за Motoristé sobě Борис Штастны. Оппозиция блокировала их переизбрание, указывая на подозрения в коррупционном поведении при выборе генерального директора ČT.</p><blockquote>Журналист Марек Волльнер опубликовал запись, на которой Матоха и Брадач якобы обсуждают задолженность в полмиллиона крон. Матоха заявил, что подаст на Волльнера в суд и уголовное заявление.</blockquote>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Екс-міністр Герман серед п'яти кандидатів до Ради ЧТ",
-    "lede": "Колишній міністр культури Даніель Герман, екс-журналістка Аліце Немцова Тейкалова та директор Празької міської бібліотеки Томаш Ржегак увійшли до числа п'яти претендентів на одне вакантне місце в Раді Чеського телебачення. Сенат обере нового члена 29 липня.",
-    "meta_description": "П'ять кандидатів, зокрема екс-міністр культури Даніель Герман, претендують на місце в Раді Чеського телебачення. Сенат обере нового члена 29 липня.",
-    "paras": [
-     "<p>На одне вакантне місце в Раді Чеського телебачення (ČT) претендують п'ять кандидатів. Серед них колишній міністр культури від KDU-ČSL <b>Даніель Герман</b>, екс-спортивна журналістка <b>Аліце Немцова Тейкалова</b> та директор Празької міської бібліотеки <b>Томаш Ржегак</b>. Ржегак уже працював у раді три роки до березня цього року, він замінив економіста Павла Кисілку.</p>",
-     "<p>Немцова Тейкалова після завершення журналістської кар'єри була деканом Факультету соціальних наук Карлового університету, зараз вона завідує кафедрою журналістики на цьому ж факультеті.</p>",
-     "<h3>Політичний контекст</h3><p>Усі троє вже висувалися, коли Палата депутатів обирала членів Ради ČT. Однак тоді правляча коаліція ANO, SPD та Motoristé sobě домоглася, щоб жоден із кандидатів, яких підтримувала опозиція, не пройшов.</p>",
-     "<p>Серед інших претендентів історик <b>Іржі Райліх</b>, який працює у Військово-історичному інституті, та засновник некомерційної організації Portus <b>Ріхард Немец</b>. Організація надає соціальні послуги людям із розумовими порушеннями.</p>",
-     "<p>Сенат як ціле заповнюватиме одне вільне місце в Раді ČT на засіданні в середу 29 липня.</p>",
-     "<h3>Попередні вибори до Ради ČT</h3><p>На початку червня Палата депутатів у відкритому голосуванні обрала шість членів Ради ČT. Свої посади зберегли Любомир Ксавер Весели та Іржі Шлегр. Також були обрані колишній прес-секретар телеканалу Nova та компанії Innogy Мартін Халупскі, екс-депутат ANO Станіслав Берковець, вчителька Люціє Плішкова (яка готувала подкаст Sorry, jako! з лідером ANO Андреєм Бабішем) та підприємець Петр Брозда, висунутий Аліансом за сім'ю.</p><p>Усіх їх просунула правляча коаліція, тільки Халупскі отримав підтримку також від депутатів ODS та руху STAN.</p><p>Правляча коаліція пожертвувала діючими членами Ради ČT Павлом Матохою та Романом Брадачем. «Пан Матоха та Брадач не отримають нашої підтримки», заявив перед голосуванням від імені всієї коаліції міністр зі спорту, профілактики та охорони здоров’я за Motoristé sobě Боріс Штастни. Опозиція блокувала їх переобрання, вказуючи на підозри в корупційній поведінці під час вибору генерального директора ČT.</p><blockquote>Журналіст Марек Волльнер опублікував запис, на якому Матоха та Брадач нібито обговорюють заборгованість у півмільйона крон. Матоха заявив, що подасть на Волльнера до суду та кримінальну заяву.</blockquote>"
-    ],
-    "faq": []
-   },
-   "rank": 19.569,
-   "image_url": "https://1gr.cz/tempimg/fb/2026/4/DAV5f551f483c_111535_9583987.jpg"
   }
  ]
 }
