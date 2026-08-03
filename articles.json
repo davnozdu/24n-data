@@ -1,8 +1,67 @@
 {
- "updated_at": "2026-08-03T13:34:46+00:00",
+ "updated_at": "2026-08-03T14:06:06+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3271",
+   "slug": "novoe-depo-v-praha-sokratit-tramvaiam-put-na-desiatki-minut",
+   "source": "novinky.cz",
+   "original_url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-nova-prazska-vozovna-zkrati-tramvajim-cestu-do-prace-40590956",
+   "top": false,
+   "tags": [
+    "praha"
+   ],
+   "published_at": "2026-08-03T16:06:05.741210+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "3 августа 2026, 16:06",
+    "uk": "3 серпня 2026, 16:06"
+   },
+   "ru": {
+    "title": "Новое депо в Praha сократит трамваям путь на десятки минут",
+    "lede": "Praha начинает подготовку к строительству нового трамвайного депо в районе Braník. Оно призвано сократить время выезда трамваев на отдаленные линии, которое сейчас достигает десятков минут.",
+    "meta_description": "Praha начинает подготовку к строительству трамвайного депо в Braník. Оно сократит время выезда трамваев и получит парковку P+R на 400 автомобилей.",
+    "paras": [
+     "<p>Praha официально приступает к подготовке строительства нового трамвайного депо в районе Braník. Это подтвердил заместитель приматора по транспорту Jaromír Beránek (Piráti).</p>",
+     "<blockquote>«Мы начинаем подготовку депо в Braník. Для дальнейшего развития трамвайных линий нам нужны не только новые трамваи, но и соответствующие современные помещения для отстоя и обслуживания вагонов».</blockquote>",
+     "<p>Так объяснил необходимость проекта Jaromír Beránek.</p>",
+     "<p>Сейчас трамваям, по словам чиновника, приходится переезжать от существующих депо до некоторых отдаленных линий десятки минут. Это неэффективно и неэкономично. Проблема касается, например, продленной линии за Braník из Modřany на Libuš и её дальнейшего продления на Nové Dvory, а также планируемой линии в Komořany.</p>",
+     "<p>К самым проблемным Jaromír Beránek относит линии в Libuš и Slivenec. Именно им депо в Braník благодаря Dvorecký most поможет значительно сократить время в пути и километраж.</p>",
+     "<h3>Многофункциональный объект</h3>",
+     "<p>Депо будет не только трамвайным. Jaromír Beránek рассказал, что его проектируют как многофункциональный объект: здесь появятся парковка P+R до 400 автомобилей, торговые помещения, пространства для обучения сотрудников DPP и жилье для работников.</p>",
+     "<p>Обязательным элементом станет безбарьерное соединение с железнодорожным вокзалом Braník. Сейчас между вокзалом и трамвайными путями есть бесплатная парковка P+R на 115 автомобилей, в будущем её должны расширить почти в четыре раза.</p>",
+     "<blockquote>«Мы действительно в самом начале всей работы. Запускаем проектную и инженерную подготовку, итогом которой станут три варианта решения депо. Я также буду добиваться, чтобы на весь объект объявили архитектурный конкурс».</blockquote>",
+     "<p>Так прокомментировал этап проекта Jaromír Beránek.</p>",
+     "<p>Сейчас городской транспортный оператор использует семь депо: Pankrác, Žižkov, Strašnice, Hloubětín, Kobylisy, Motol и Vokovice.</p>"
+    ],
+    "faq": []
+   },
+   "uk": {
+    "title": "Нове депо в Praha скоротить трамваям шлях на десятки хвилин",
+    "lede": "Praha починає підготовку до будівництва нового трамвайного депо в районі Braník. Воно має скоротити час виїзду трамваїв на віддалені лінії, який зараз сягає десятків хвилин.",
+    "meta_description": "Praha починає підготовку до будівництва трамвайного депо в Braník. Воно скоротить час виїзду трамваїв і отримає парковку P+R на 400 автомобілів.",
+    "paras": [
+     "<p>Praha офіційно розпочинає підготовку до будівництва нового трамвайного депо в районі Braník. Це підтвердив заступник приматора з транспорту Jaromír Beránek (Piráti).</p>",
+     "<blockquote style=\"border-left: 3px solid #ccc; padding-left: 10px; font-style: italic;\">«Ми починаємо підготовку депо в Braník. Для подальшого розвитку трамвайних ліній нам потрібні не тільки нові трамваї, а й відповідні сучасні приміщення для відстою та обслуговування вагонів».</blockquote>",
+     "<p>Так пояснив необхідність проєкту Jaromír Beránek.</p>",
+     "<p>Зараз трамваям, за словами чиновника, доводиться їхати від існуючих депо до деяких віддалених ліній десятками хвилин. Це неефективно і неекономічно. Проблема стосується, наприклад, продовженої лінії за Braník з Modřany на Libuš та її подальшого продовження на Nové Dvory, а також запланованої лінії в Komořany.</p>",
+     "<p>До найбільш проблемних Jaromír Beránek відносить лінії в Libuš та Slivenec. Саме їм депо в Braník завдяки Dvorecký most допоможе значно скоротити час у дорозі та кілометраж.</p>",
+     "<h3>Багатофункціональний об'єкт</h3>",
+     "<p>Депо буде не тільки трамвайним. Jaromír Beránek розповів, що його проєктують як багатофункціональний об'єкт: тут з'являться парковка P+R до 400 автомобілів, торгові приміщення, простори для навчання співробітників DPP та житло для працівників.</p>",
+     "<p>Обов'язковим елементом стане безбар'єрне з'єднання з залізничним вокзалом Braník. Зараз між вокзалом і трамвайними коліями є безкоштовна парковка P+R на 115 автомобілів, у майбутньому її мають розширити майже в чотири рази.</p>",
+     "<blockquote style=\"border-left: 3px solid #ccc; padding-left: 10px; font-style: italic;\">«Ми дійсно на самому початку всієї роботи. Запускаємо проєктну та інженерну підготовку, підсумком якої стануть три варіанти рішення депо. Я також добиватимуся, щоб на весь об'єкт оголосили архітектурний конкурс».</blockquote>",
+     "<p>Так прокоментував етап проєкту Jaromír Beránek.</p>",
+     "<p>Зараз міський транспортний оператор використовує сім депо: Pankrác, Žižkov, Strašnice, Hloubětín, Kobylisy, Motol та Vokovice.</p>"
+    ],
+    "faq": []
+   },
+   "rank": 100.0,
+   "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsN3e2PCLdHYkvia/b4c5/branicka-vozovna-praha.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
+  },
   {
    "id": "n3270",
    "slug": "adam-scheinherr-khochet-vvesti-priamye-vybory-primatora-prahy",
@@ -16,8 +75,8 @@
    ],
    "published_at": "2026-08-03T15:34:45.738023+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:34",
@@ -92,8 +151,8 @@
    ],
    "published_at": "2026-08-03T15:34:45.738023+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:34",
@@ -163,8 +222,8 @@
    ],
    "published_at": "2026-08-03T15:34:45.738023+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:34",
@@ -225,8 +284,8 @@
    ],
    "published_at": "2026-08-03T15:04:20.679632+02:00",
    "time": {
-    "ru": "30 минут назад",
-    "uk": "30 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:04",
@@ -284,8 +343,8 @@
    ],
    "published_at": "2026-08-03T15:04:20.679632+02:00",
    "time": {
-    "ru": "30 минут назад",
-    "uk": "30 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:04",
@@ -534,8 +593,8 @@
    ],
    "published_at": "2026-08-03T13:57:47.242307+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 13:57",
@@ -592,8 +651,8 @@
    ],
    "published_at": "2026-08-03T13:57:47.242307+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 13:57",
@@ -704,8 +763,8 @@
    ],
    "published_at": "2026-08-03T12:53:23.182369+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 12:53",
@@ -745,7 +804,7 @@
     ],
     "faq": []
    },
-   "rank": 80.0,
+   "rank": 79.755,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-6-rok-2025/posli-akrtovku-dal-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-6-rok-2025/posli-akrtovku-dal-475.jpg",
@@ -818,7 +877,7 @@
     ],
     "faq": []
    },
-   "rank": 89.744,
+   "rank": 89.065,
    "image_url": "https://1gr.cz/tempimg/fb/2019/6/KHA7c4f45_5c469f8d273b48ba9e99c9802e406320_0.jpg",
    "images": [
     "https://1gr.cz/u/n4/catchbox/pocasi-bnr3.png",
@@ -837,8 +896,8 @@
    ],
    "published_at": "2026-08-03T11:47:52.175408+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:47",
@@ -916,7 +975,7 @@
      }
     ]
    },
-   "rank": 85.029,
+   "rank": 84.38,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-066965987_260803-063655_brz.jpg"
   },
   {
@@ -994,7 +1053,7 @@
      }
     ]
    },
-   "rank": 100.101,
+   "rank": 99.332,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -1089,7 +1148,7 @@
      }
     ]
    },
-   "rank": 93.231,
+   "rank": 92.515,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-4-opatreni-proti-vedru.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/zoo7/komentovana-setkan-475.jpg",
@@ -1179,7 +1238,7 @@
      }
     ]
    },
-   "rank": 124.636,
+   "rank": 123.678,
    "sources": [
     {
      "domain": "reflex.cz",
@@ -1207,8 +1266,8 @@
    ],
    "published_at": "2026-08-03T10:50:02.615914+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 10:50",
@@ -1282,7 +1341,7 @@
      }
     ]
    },
-   "rank": 105.277,
+   "rank": 104.462,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/2026-8-3-931Zajisteny-exemplar-2.jpg"
   },
   {
@@ -1298,8 +1357,8 @@
    ],
    "published_at": "2026-08-03T10:50:02.615914+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 10:50",
@@ -1349,7 +1408,7 @@
      }
     ]
    },
-   "rank": 99.428,
+   "rank": 98.659,
    "sources": [
     {
      "domain": "metro.cz",
@@ -1449,7 +1508,7 @@
      }
     ]
    },
-   "rank": 86.984,
+   "rank": 86.305,
    "sources": [
     {
      "domain": "romea.cz",
@@ -1525,7 +1584,7 @@
      }
     ]
    },
-   "rank": 53.945,
+   "rank": 53.524,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/11.jpg"
   },
   {
@@ -1540,8 +1599,8 @@
    ],
    "published_at": "2026-08-03T08:38:14.932399+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 08:38",
@@ -1623,7 +1682,7 @@
      }
     ]
    },
-   "rank": 95.249,
+   "rank": 94.487,
    "image_url": "https://www.prazskypatriot.cz/data/images/letni-kino-na-fontane-strizkov.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -1646,8 +1705,8 @@
    ],
    "published_at": "2026-08-03T08:38:14.932399+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 08:38",
@@ -1729,7 +1788,7 @@
      }
     ]
    },
-   "rank": 110.338,
+   "rank": 109.455,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -1757,8 +1816,8 @@
    ],
    "published_at": "2026-08-03T08:04:30.361617+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 08:04",
@@ -1828,7 +1887,7 @@
      }
     ]
    },
-   "rank": 98.168,
+   "rank": 97.376,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/03340241.jpeg"
   },
   {
@@ -1924,7 +1983,7 @@
      }
     ]
    },
-   "rank": 88.1,
+   "rank": 87.383,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/265/265dadf6-088b-4870-bd2b-4fa2dfad1589.jpeg",
    "images": [
     "https://www.denik.cz/images/api/image/484x645/730/730e6f3f-3908-4f98-af7f-5fd648c71913.webp",
@@ -2019,7 +2078,7 @@
      }
     ]
    },
-   "rank": 111.284,
+   "rank": 110.379,
    "image_url": "https://i3.cn.cz/16/1751556882_P2025070306384.jpg",
    "images": [
     "https://i3.cn.cz/2/1785598072_P2026080103745.jpg",
@@ -2092,7 +2151,7 @@
      }
     ]
    },
-   "rank": 100.389,
+   "rank": 99.559,
    "sources": [
     {
      "domain": "info.cz",
@@ -2172,7 +2231,7 @@
      }
     ]
    },
-   "rank": 91.262,
+   "rank": 90.508,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/24/csm_auta_008_cce2c12619.jpg"
   },
   {
@@ -2262,7 +2321,7 @@
      }
     ]
    },
-   "rank": 86.699,
+   "rank": 85.983,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QI_z/WG8BPi.mpo?fl=cro,0,125,2400,1350%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2277,8 +2336,8 @@
    ],
    "published_at": "2026-08-03T04:49:22.071700+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 04:49",
@@ -2342,7 +2401,7 @@
      }
     ]
    },
-   "rank": 82.107,
+   "rank": 81.409,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -2367,8 +2426,8 @@
    ],
    "published_at": "2026-08-03T04:49:22.071700+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 04:49",
@@ -2430,7 +2489,7 @@
      }
     ]
    },
-   "rank": 79.916,
+   "rank": 79.237,
    "sources": [
     {
      "domain": "zdarsky.denik.cz",
@@ -2462,8 +2521,8 @@
    ],
    "published_at": "2026-08-03T03:44:29.362532+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 03:44",
@@ -2533,7 +2592,7 @@
      }
     ]
    },
-   "rank": 53.213,
+   "rank": 52.752,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-154044_jkd.jpeg"
   },
   {
@@ -2547,8 +2606,8 @@
    ],
    "published_at": "2026-08-03T02:04:28.147245+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 02:04",
@@ -2620,7 +2679,7 @@
      }
     ]
    },
-   "rank": 59.378,
+   "rank": 58.85,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-175637_jkd.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-175638_jkd.jpeg?itok=ziN4p0VV"
@@ -2705,7 +2764,7 @@
      }
     ]
    },
-   "rank": 84.044,
+   "rank": 83.289,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/16284e7133d1a1e7dff986ddafd920b6.jpg"
   },
   {
@@ -2720,8 +2779,8 @@
    ],
    "published_at": "2026-08-03T00:58:48.748485+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 00:58",
@@ -2791,7 +2850,7 @@
      }
     ]
    },
-   "rank": 93.235,
+   "rank": 92.39,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -2830,8 +2889,8 @@
    ],
    "published_at": "2026-08-03T00:58:48.748485+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 00:58",
@@ -2905,7 +2964,7 @@
      }
     ]
    },
-   "rank": 87.205,
+   "rank": 86.415,
    "sources": [
     {
      "domain": "denik.cz",
@@ -3010,7 +3069,7 @@
      }
     ]
    },
-   "rank": 90.721,
+   "rank": 89.891,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-111811901_260802-174000_jva.jpg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/banknote-design-prop_260802-174817_jva.jpg?itok=gfEV0Tj_",
@@ -3065,7 +3124,7 @@
     ],
     "faq": []
    },
-   "rank": 60.688,
+   "rank": 60.122,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/3dea6a682b7518e00c34aeab961caceb.jpg"
   },
   {
@@ -3125,7 +3184,7 @@
     ],
     "faq": []
    },
-   "rank": 79.371,
+   "rank": 78.617,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-001279474_191202-073052_pj.jpg",
    "video": {
     "kind": "iframe",
@@ -3191,7 +3250,7 @@
     ],
     "faq": []
    },
-   "rank": 83.34,
+   "rank": 82.548,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/833/8339bc8a-287a-4d61-90bd-00a3a9df1744.jpeg"
   },
   {
@@ -3251,7 +3310,7 @@
     ],
     "faq": []
    },
-   "rank": 73.418,
+   "rank": 72.721,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-004024961_171109-122432_haf.jpg"
   },
   {
@@ -3307,7 +3366,7 @@
     ],
     "faq": []
    },
-   "rank": 58.402,
+   "rank": 57.836,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260701-221810_mkv_0.jpeg"
   },
   {
@@ -3357,7 +3416,7 @@
     ],
     "faq": []
    },
-   "rank": 68.727,
+   "rank": 68.048,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/politicke-strany/piratska-kapela-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/politicke-strany/piratska-kapela-475.jpg",
@@ -3421,7 +3480,7 @@
     ],
     "faq": []
    },
-   "rank": 57.272,
+   "rank": 56.706,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv1_9826_210728-141229_vlf.jpg"
   },
   {
@@ -3489,7 +3548,7 @@
     ],
     "faq": []
    },
-   "rank": 74.151,
+   "rank": 73.404,
    "image_url": "https://i.iinfo.cz/images/550/cleveland-clinic.png"
   },
   {
@@ -3545,7 +3604,7 @@
     ],
     "faq": []
    },
-   "rank": 73.347,
+   "rank": 72.593,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_oW_A/nO1SBfAluiBtfltg1CRHJ62/b6bb.jpeg?fl=cro,0,304,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3561,8 +3620,8 @@
    ],
    "published_at": "2026-08-02T17:05:55.713835+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "2 августа 2026, 17:05",
@@ -3604,7 +3663,7 @@
     ],
     "faq": []
    },
-   "rank": 61.082,
+   "rank": 60.441,
    "image_url": "https://cdn.kudyznudy.cz/files/c0/c089046b-d50e-440a-8703-fc0fd76dec01.jpg?v=20250224182504",
    "images": [
     "https://cdn.kudyznudy.cz/files/da/daba1258-7c9b-4150-a3e2-5ea7bfedd461.webp?v=20250831133648",
@@ -3627,8 +3686,8 @@
    ],
    "published_at": "2026-08-02T17:05:55.713835+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "2 августа 2026, 17:05",
@@ -3668,7 +3727,7 @@
     ],
     "faq": []
    },
-   "rank": 82.64,
+   "rank": 81.773,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/f0b/f0bab881-cc9f-4197-8b69-007d5aafa470.jpeg"
   },
   {
@@ -3682,8 +3741,8 @@
    ],
    "published_at": "2026-08-02T16:01:03.139776+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "2 августа 2026, 16:01",
@@ -3753,7 +3812,7 @@
      }
     ]
    },
-   "rank": 59.754,
+   "rank": 59.113,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -3863,7 +3922,7 @@
      }
     ]
    },
-   "rank": 65.337,
+   "rank": 64.62,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/DYN77f5b812d8_brouci_polnika_jasanoveho.jpg"
   },
   {
@@ -3971,7 +4030,7 @@
      }
     ]
    },
-   "rank": 50.429,
+   "rank": 49.863,
    "image_url": "https://cdn.kudyznudy.cz/files/43/436c75ba-2486-4efb-bdc1-e86095f8e5fb.jpg?v=20250425132024",
    "images": [
     "https://cdn.kudyznudy.cz/files/20/20288993-a4bb-49ff-ab25-83df2cd2dc7c.webp?v=20221013071624",
@@ -4068,7 +4127,7 @@
      }
     ]
    },
-   "rank": 53.791,
+   "rank": 53.188,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/ai-turn-off-mvp.jpg"
   },
   {
@@ -4149,7 +4208,7 @@
      }
     ]
    },
-   "rank": 67.239,
+   "rank": 66.485,
    "sources": [
     {
      "domain": "tenisportal.cz",
@@ -4249,7 +4308,7 @@
      }
     ]
    },
-   "rank": 62.353,
+   "rank": 61.636,
    "image_url": "https://cdn.kudyznudy.cz/files/b5/b597d206-21e8-4421-b1d3-186e5182d6c3.jpg?v=20240419130300",
    "images": [
     "https://cdn.kudyznudy.cz/files/e0/e0a4b9e8-dcd0-4d23-8653-da9ccd3690fe.webp?v=20240419130911",
@@ -4333,7 +4392,7 @@
      }
     ]
    },
-   "rank": 36.738,
+   "rank": 36.315,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/4d7/4d7ecfca-fd3a-40a0-94b1-45e89ece4706.jpeg"
   },
   {
@@ -4426,7 +4485,7 @@
      }
     ]
    },
-   "rank": 75.48,
+   "rank": 74.612,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260725_215313_260802-110557_jkd.jpg"
   },
   {
@@ -4512,7 +4571,7 @@
      }
     ]
    },
-   "rank": 60.855,
+   "rank": 60.139,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-064048225_230504-214504_ara.jpg"
   },
   {
@@ -4586,7 +4645,7 @@
      }
     ]
    },
-   "rank": 43.239,
+   "rank": 42.73,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/luxfer.jpg"
   },
   {
@@ -4664,7 +4723,7 @@
      }
     ]
    },
-   "rank": 65.672,
+   "rank": 64.88,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/nahled.jpg",
    "video": {
     "kind": "iframe",
@@ -4763,7 +4822,7 @@
      }
     ]
    },
-   "rank": 67.183,
+   "rank": 66.353,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/1d1/1d14e826-b89a-49a2-9c98-087f255cb140.jpeg"
   },
   {
@@ -4863,7 +4922,7 @@
      }
     ]
    },
-   "rank": 62.603,
+   "rank": 61.829,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/kolove-napoje-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/01/jannis-1630x1019.jpg"
@@ -4956,7 +5015,7 @@
      }
     ]
    },
-   "rank": 63.57,
+   "rank": 62.763,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -5063,7 +5122,7 @@
      }
     ]
    },
-   "rank": 60.616,
+   "rank": 59.824,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_gW_y/TxBCr/igor-ivanko.jpeg?fl=cro,0,337,3024,1701%7Cres,1200,,1"
   },
   {
@@ -5148,7 +5207,7 @@
      }
     ]
    },
-   "rank": 60.616,
+   "rank": 59.824,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/martin-schmid2.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/07/equilibre-1-1630x1019.jpg"
@@ -5235,7 +5294,7 @@
      }
     ]
    },
-   "rank": 40.981,
+   "rank": 40.414,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/vys.jpg",
    "video": {
     "kind": "iframe",
@@ -5339,7 +5398,7 @@
      }
     ]
    },
-   "rank": 51.773,
+   "rank": 51.056,
    "sources": [
     {
      "domain": "strednicechy.rozhlas.cz",
@@ -5445,7 +5504,7 @@
      }
     ]
    },
-   "rank": 34.367,
+   "rank": 33.877,
    "image_url": "https://cdn.kudyznudy.cz/files/9f/9f1e914c-da9b-41fa-b79e-5bf98de1b4e4.jpg?v=20240801090332",
    "images": [
     "https://cdn.kudyznudy.cz/files/dd/dd3ae222-a138-4c38-987d-74259e42da58.webp?v=20240801090332",
@@ -5528,7 +5587,7 @@
      }
     ]
    },
-   "rank": 47.471,
+   "rank": 46.773,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -5631,7 +5690,7 @@
      }
     ]
    },
-   "rank": 37.0,
+   "rank": 36.456,
    "sources": [
     {
      "domain": "zdarsky.denik.cz",
@@ -5732,7 +5791,7 @@
      }
     ]
    },
-   "rank": 61.587,
+   "rank": 60.682,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -5850,7 +5909,7 @@
      }
     ]
    },
-   "rank": 41.554,
+   "rank": 40.905,
    "image_url": "https://i.iinfo.cz/images/494/26tb-wd-ultrastar.jpg"
   },
   {
@@ -5912,7 +5971,7 @@
     ],
     "faq": []
    },
-   "rank": 52.82,
+   "rank": 51.967,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/3e3b93c473c5a86fe10cc241f7b33d6d.jpg"
   },
   {
@@ -5961,7 +6020,7 @@
     ],
     "faq": []
    },
-   "rank": 49.637,
+   "rank": 48.807,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/3e7/3e76c8f2-437b-4b88-8079-e757519de44a.jpeg"
   },
   {
@@ -6017,7 +6076,7 @@
     ],
     "faq": []
    },
-   "rank": 39.257,
+   "rank": 38.578,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/swimmers-79592_1920_250918-223231_job.jpg"
   },
   {
@@ -6068,7 +6127,7 @@
     ],
     "faq": []
    },
-   "rank": 39.143,
+   "rank": 38.418,
    "image_url": "https://1gr.cz/tempimg/fb/2023/1/AKP98b8c3_profimedia_0667737771.jpg"
   },
   {
@@ -6117,7 +6176,7 @@
     ],
     "faq": []
    },
-   "rank": 39.942,
+   "rank": 39.188,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-112001249_260801-135908_mim.jpg"
   },
   {
@@ -6183,7 +6242,7 @@
     ],
     "faq": []
    },
-   "rank": 41.107,
+   "rank": 40.315,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/4d7/4d71acaf-bb0a-4039-abd1-f117d155ae6f.jpeg"
   },
   {
@@ -6249,7 +6308,7 @@
     ],
     "faq": []
    },
-   "rank": 28.743,
+   "rank": 28.177,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/e5a/e5a57503-1a95-463f-917b-caf40a17057b.jpeg"
   },
   {
@@ -6295,7 +6354,7 @@
     ],
     "faq": []
    },
-   "rank": 31.228,
+   "rank": 30.584,
    "image_url": "https://cdn.kudyznudy.cz/files/fa/fac5e831-6177-4c32-96d2-7a76c749d2df.jpg?v=20230714013626",
    "images": [
     "https://cdn.kudyznudy.cz/files/7b/7bfdc2aa-6c30-4946-ac6b-cc51a7f51cfa.webp?v=20230714013627",
@@ -6319,8 +6378,8 @@
    ],
    "published_at": "2026-08-01T16:05:40.613100+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "1 августа 2026, 16:05",
@@ -6360,7 +6419,7 @@
     ],
     "faq": []
    },
-   "rank": 35.744,
+   "rank": 35.0,
    "image_url": "https://1gr.cz/tempimg/fb/2026/5/IHA46f6d9df56_023806_10169627.jpg"
   },
   {
@@ -10641,8 +10700,8 @@
    ],
    "published_at": "2026-07-31T15:43:15.079255+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 15:43",
@@ -10718,8 +10777,8 @@
    ],
    "published_at": "2026-07-31T15:43:15.079255+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 15:43",
@@ -19619,8 +19678,8 @@
    ],
    "published_at": "2026-07-29T15:51:41.682737+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "29 июля 2026, 15:51",
@@ -19677,8 +19736,8 @@
    ],
    "published_at": "2026-07-29T15:51:41.682737+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "29 июля 2026, 15:51",
@@ -19727,8 +19786,8 @@
    ],
    "published_at": "2026-07-29T15:51:41.682737+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "29 июля 2026, 15:51",
@@ -19802,8 +19861,8 @@
    ],
    "published_at": "2026-07-29T15:51:41.682737+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "29 июля 2026, 15:51",
@@ -20921,88 +20980,6 @@
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/560226/zehnder-7-820x512-c.jpg"
    ]
-  },
-  {
-   "id": "n2968",
-   "slug": "politsiia-pragi-predstavila-dokumentalnyi-serial-o-svoei-rabote",
-   "source": "tydenikpolicie.cz",
-   "original_url": "https://tydenikpolicie.cz/prazska-policie-ve-spolupraci-s-televizi-prima-predstavila-na-cisarskem-ostrove-dokument-o-sve-praci/",
-   "top": false,
-   "tags": [
-    "praha",
-    "kriminal"
-   ],
-   "published_at": "2026-07-29T08:09:27.765957+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "29 июля 2026, 08:09",
-    "uk": "29 липня 2026, 08:09"
-   },
-   "ru": {
-    "title": "Полиция Праги представила документальный сериал о своей работе",
-    "lede": "Во вторник в Праге состоялась презентация документального сериала «Ve službě: Jménem zákona», созданного совместно с телеканалом Prima. Сериал из 8 эпизодов показывает повседневную работу различных подразделений столичной полиции.",
-    "meta_description": "Полиция Праги и телеканал Prima представили документальный сериал «Ve službě: Jménem zákona» на платформе Prima+. 8 эпизодов о работе разных подразделений. Перв",
-    "paras": [
-     "<p>Во вторник утром на Císařském ostrově в Праге состоялась официальная презентация документального сериала о работе столичной полиции. Проект под названием «Ve službě: Jménem zákona» создан совместно с телеканалом Prima и доступен на его платформе Prima+.</p>",
-     "<p>В мероприятии приняли участие сотрудники различных подразделений, которые фигурируют в сериале: кинологи, командиры, бойцы Специальной полицейской части (SPJ) и сотрудники отделения по делам иностранцев. Они продемонстрировали свои навыки в показательных выступлениях, включая задержание нарушителей.</p>",
-     "<p>Журналистам также дали возможность принять участие в выступлениях бок о бок с полицейскими. Одна из журналисток даже получила часть экипировки от SPJ.</p>",
-     "<h3>О сериале</h3>",
-     "<p>Документальный сериал состоит из восьми эпизодов. Каждый выпуск знакомит зрителей с работой трех отделов или подразделений пражской полиции. Первый эпизод вышел неделю назад.</p>",
-     "<p>На презентации выступили директор полиции Праги Петр Матейчек и режиссер сериала Мартина Эретова.</p>",
-     "<p>Посмотреть все серии можно на платформе Prima+.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Где можно посмотреть документальный сериал о полиции Праги?",
-      "a": "Сериал доступен на платформе Prima+."
-     },
-     {
-      "q": "Сколько серий в сериале?",
-      "a": "8 эпизодов, каждый из которых посвящен трем подразделениям."
-     },
-     {
-      "q": "Кто участвовал в презентации?",
-      "a": "Директор полиции Праги Петр Матейчек, режиссер Мартина Эретова и полицейские из разных подразделений."
-     }
-    ]
-   },
-   "uk": {
-    "title": "Поліція Праги представила документальний серіал про свою роботу",
-    "lede": "У вівторок у Празі відбулася презентація документального серіалу «Ve službě: Jménem zákona», створеного спільно з телеканалом Prima. Серіал із 8 епізодів показує повсякденну роботу різних підрозділів столичної поліції.",
-    "meta_description": "Поліція Праги та телеканал Prima представили документальний серіал «Ve službě: Jménem zákona» на платформі Prima+. 8 епізодів про роботу різних підрозділів. Пер",
-    "paras": [
-     "<p>У вівторок вранці на Císařském ostrově в Празі відбулася офіційна презентація документального серіалу про роботу столичної поліції. Проєкт під назвою «Ve službě: Jménem zákona» створений спільно з телеканалом Prima і доступний на його платформі Prima+.</p>",
-     "<p>У заході взяли участь співробітники різних підрозділів, які фігурують у серіалі: кінологи, командири, бійці Спеціальної поліцейської частини (SPJ) та співробітники відділу у справах іноземців. Вони продемонстрували свої навички в показових виступах, зокрема затримання правопорушників.</p>",
-     "<p>Журналістам також дали можливість взяти участь у виступах пліч-о-пліч з поліцейськими. Одна з журналісток навіть отримала частину екіпірування від SPJ.</p>",
-     "<h3>Про серіал</h3>",
-     "<p>Документальний серіал складається з восьми епізодів. Кожен випуск знайомить глядачів з роботою трьох відділів або підрозділів празької поліції. Перший епізод вийшов тиждень тому.</p>",
-     "<p>На презентації виступили директор поліції Праги Petr Matějček та режисерка серіалу Martina Eretová.</p>",
-     "<p>Переглянути всі серії можна на платформі Prima+.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Де можна подивитися документальний серіал про поліцію Праги?",
-      "a": "Серіал доступний на платформі Prima+."
-     },
-     {
-      "q": "Скільки серій у серіалі?",
-      "a": "8 епізодів, кожен з яких присвячений трьом підрозділам."
-     },
-     {
-      "q": "Хто брав участь у презентації?",
-      "a": "Директор поліції Праги Petr Matějček, режисерка Martina Eretová та поліцейські з різних підрозділів."
-     }
-    ]
-   },
-   "rank": 28.0,
-   "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/07/DSC_5120-1.jpg",
-   "video": {
-    "kind": "iframe",
-    "url": "https://www.youtube-nocookie.com/embed/2fWddWyeZPA"
-   }
   }
  ]
 }
