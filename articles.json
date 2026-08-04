@@ -1,8 +1,84 @@
 {
- "updated_at": "2026-08-04T08:51:43+00:00",
+ "updated_at": "2026-08-04T09:22:52+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3310",
+   "slug": "stress-testy-cnb-cheshskie-banki-vyderzhat-krizis",
+   "source": "ceskenoviny.cz",
+   "original_url": "http://www.ceskenoviny.cz/zpravy/testy-cnb-domaci-banky-by-odolaly-i-citelnemu-zhorseni-ekonomiky/2858251?utm_source=rss&utm_medium=feed",
+   "top": false,
+   "tags": [
+    "ekonomika",
+    "cesko"
+   ],
+   "published_at": "2026-08-04T11:22:51.468396+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "4 августа 2026, 11:22",
+    "uk": "4 серпня 2026, 11:22"
+   },
+   "ru": {
+    "title": "Стресс-тесты ČNB: чешские банки выдержат кризис",
+    "lede": "Чешские банки способны пережить серьезный экономический спад. Это подтвердили стресс-тесты Česká národní banka, опубликованные в пресс-релизе для ČTK.",
+    "meta_description": "Стресс-тесты Чешского национального банка показали устойчивость банковского сектора. Капитальный коэффициент даже в кризис останется на уровне 18,4%.",
+    "paras": [
+     "<p>Чешские банки устойчивы и справятся с серьезными экономическими потрясениями. Об этом говорится в пресс-релизе Česká národní banka (ČNB) для ČTK по итогам надзорных стресс-тестов.</p>",
+     "<p>Капитальный буфер сектора надежен. На конец 2025 года коэффициент протестированной части на консолидированном уровне составил 20,7%. Если допустить резкий спад экономической активности внутри страны и за рубежом в 2026-2028 годах, показатель упадет до 18,4%. Даже в таком сценарии достаточность капитала останется выше регуляторного минимума.</p>",
+     "<h3>Как устроены тесты</h3>",
+     "<p>Методология Европейского банковского управления (EBA) легла в основу тестов, но ее адаптировали под специфику чешского рынка. Базовый сценарий построен на макроэкономическом прогнозе ČNB из «Отчета о денежно-кредитной политике: зима 2026». Неблагоприятный вариант имитирует сильное ухудшение условий.</p>",
+     "<p>Проверили 13 местных банков. На их долю приходится около 92% всех активов банковского сектора Чехии. Оценку проводили на трехлетнем горизонте по данным на конец 2025 года. Специалисты анализировали кредитные, рыночные и операционные риски, а также динамику доходов, расходов и капитала.</p>",
+     "<p>ČNB применяет стресс-тесты для надзора за устойчивостью всей финансовой системы и зарегистрированных в Чехии институтов. Совместные проверки с банками идут с 2009 года. Макростресс-тесты на внутренних моделях ČNB проводятся еще с 2004 года.</p>"
+    ],
+    "faq": [
+     {
+      "q": "В каком состоянии находятся чешские банки согласно тестам ČNB?",
+      "a": "Банки находятся в очень хорошем состоянии и обладают надежным капитальным буфером. Они способны выдержать значительное ухудшение экономических условий."
+     },
+     {
+      "q": "Что произойдет с капиталом банков при худшем сценарии развития экономики?",
+      "a": "Капитальный коэффициент снизится с 20,7% до 18,4%, что все равно останется выше регуляторного минимума."
+     },
+     {
+      "q": "Сколько банков участвовало в тестировании?",
+      "a": "В тестировании приняли участие 13 банков, которые контролируют около 92% всех банковских активов в стране."
+     }
+    ]
+   },
+   "uk": {
+    "title": "Стрес-тести ČNB: чеські банки витримають кризу",
+    "lede": "Чеські банки здатні пережити серйозний економічний спад. Це підтвердили стрес-тести Česká národní banka, опубліковані в пресрелізі для ČTK.",
+    "meta_description": "Стрес-тести Чеського національного банку показали стійкість банківського сектору. Капітальний коефіцієнт навіть у кризу залишиться на рівні 18,4%.",
+    "paras": [
+     "<p>Чеські банки стійкі та впораються з серйозними економічними потрясіннями. Про це йдеться в пресрелізі Česká národní banka (ČNB) для ČTK за підсумками наглядових стрес-тестів.</p>",
+     "<p>Капітальний буфер сектору надійний. На кінець 2025 року коефіцієнт протестованої частини на консолідованому рівні склав 20,7%. Якщо припустити різкий спад економічної активності всередині країни та за кордоном у 2026-2028 роках, показник впаде до 18,4%. Навіть за такого сценарію достатність капіталу залишиться вищою за регуляторний мінімум.</p>",
+     "<h3>Як влаштовані тести</h3>",
+     "<p>Методологія Європейського банківського управління (EBA) лягла в основу тестів, але її адаптували під специфіку чеського ринку. Базовий сценарій побудований на макроекономічному прогнозі ČNB із «Звіту про грошово-кредитну політику: зима 2026». Несприятливий варіант імітує сильне погіршення умов.</p>",
+     "<p>Перевірили 13 місцевих банків. На їхню частку припадає близько 92% усіх активів банківського сектору Чехії. Оцінку проводили на трирічному горизонті за даними на кінець 2025 року. Фахівці аналізували кредитні, ринкові та операційні ризики, а також динаміку доходів, витрат і капіталу.</p>",
+     "<p>ČNB застосовує стрес-тести для нагляду за стійкістю всієї фінансової системи та зареєстрованих у Чехії інститутів. Спільні перевірки з банками тривають із 2009 року. Макрострес-тести на внутрішніх моделях ČNB проводять ще з 2004 року.</p>"
+    ],
+    "faq": [
+     {
+      "q": "У якому стані перебувають чеські банки згідно з тестами ČNB?",
+      "a": "Банки перебувають у дуже хорошому стані та мають надійний капітальний буфер. Вони здатні витримати значне погіршення економічних умов."
+     },
+     {
+      "q": "Що станеться з капіталом банків за найгіршого сценарію розвитку економіки?",
+      "a": "Капітальний коефіцієнт знизиться з 20,7% до 18,4%, що все одно залишиться вище регуляторного мінімуму."
+     },
+     {
+      "q": "Скільки банків взяло участь у тестуванні?",
+      "a": "У тестуванні взяли участь 13 банків, які контролюють близько 92% усіх банківських активів у країні."
+     }
+    ]
+   },
+   "rank": 115.0,
+   "image_url": "https://i3.cn.cz/16/1652247814_Save.jpg"
+  },
   {
    "id": "n3309",
    "slug": "v-krkonose-ishchut-neizvestnogo-muzhchinu-naidennogo-u-spasatelei",
@@ -14,8 +90,8 @@
    ],
    "published_at": "2026-08-04T10:51:42.521364+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "4 августа 2026, 10:51",
@@ -98,8 +174,8 @@
    ],
    "published_at": "2026-08-04T10:51:42.521364+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "4 августа 2026, 10:51",
@@ -207,8 +283,8 @@
    ],
    "published_at": "2026-08-04T10:20:09.531707+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 августа 2026, 10:20",
@@ -456,8 +532,8 @@
    ],
    "published_at": "2026-08-04T09:14:54.359857+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "4 августа 2026, 09:14",
@@ -660,8 +736,8 @@
    ],
    "published_at": "2026-08-04T08:11:58.421336+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "4 августа 2026, 08:11",
@@ -739,7 +815,7 @@
      }
     ]
    },
-   "rank": 106.0,
+   "rank": 105.722,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/4b1/4b142c66-c7b8-460d-a373-568b4b5e4f89.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/640x480/4d4/4d4101e9-6313-4582-842a-8faf779b834f.webp",
@@ -847,7 +923,7 @@
      }
     ]
    },
-   "rank": 104.644,
+   "rank": 103.856,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qA_A/kcHp2YdDtCDcb5wCTGXh0uU/77ed/dite.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1"
   },
   {
@@ -941,7 +1017,7 @@
      }
     ]
    },
-   "rank": 101.654,
+   "rank": 100.889,
    "sources": [
     {
      "domain": "denik.cz",
@@ -970,8 +1046,8 @@
    ],
    "published_at": "2026-08-04T05:56:35.198439+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "4 августа 2026, 05:56",
@@ -1037,7 +1113,7 @@
      }
     ]
    },
-   "rank": 111.813,
+   "rank": 110.95,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/3e5/3e55720e-4d43-4f6c-b36c-d7eb75da10fe.jpeg"
   },
   {
@@ -1115,7 +1191,7 @@
      }
     ]
    },
-   "rank": 109.848,
+   "rank": 108.986,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/63/DSC_4836.jpg"
   },
   {
@@ -1205,7 +1281,7 @@
      }
     ]
    },
-   "rank": 103.92,
+   "rank": 103.076,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/openai-mvp.jpg"
   },
   {
@@ -1220,8 +1296,8 @@
    ],
    "published_at": "2026-08-04T02:03:25.125785+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "4 августа 2026, 02:03",
@@ -1277,7 +1353,7 @@
      }
     ]
    },
-   "rank": 60.147,
+   "rank": 59.654,
    "sources": [
     {
      "domain": "zpravy.tiscali.cz",
@@ -1384,7 +1460,7 @@
      }
     ]
    },
-   "rank": 90.782,
+   "rank": 90.032,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/91d6915a9c79eea675e0806244cfa0f3.jpg"
   },
   {
@@ -1399,8 +1475,8 @@
    ],
    "published_at": "2026-08-04T00:55:01.479616+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "4 августа 2026, 00:55",
@@ -1468,7 +1544,7 @@
      }
     ]
    },
-   "rank": 112.461,
+   "rank": 111.523,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1581,7 +1657,7 @@
      }
     ]
    },
-   "rank": 71.386,
+   "rank": 70.786,
    "sources": [
     {
      "domain": "budejovice.rozhlas.cz",
@@ -1703,7 +1779,7 @@
      }
     ]
    },
-   "rank": 80.309,
+   "rank": 79.634,
    "image_url": "https://i.iinfo.cz/images/532/klavesnice-programator-ruce.jpg",
    "video": {
     "kind": "iframe",
@@ -1800,7 +1876,7 @@
      }
     ]
    },
-   "rank": 104.402,
+   "rank": 103.524,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -1825,8 +1901,8 @@
    ],
    "published_at": "2026-08-03T23:15:16.397925+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 23:15",
@@ -1868,7 +1944,7 @@
     ],
     "faq": []
    },
-   "rank": 96.324,
+   "rank": 95.499,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-112029987_260803-190859_sis.jpg"
   },
   {
@@ -1883,8 +1959,8 @@
    ],
    "published_at": "2026-08-03T23:15:16.397925+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 23:15",
@@ -1932,7 +2008,7 @@
     ],
     "faq": []
    },
-   "rank": 78.81,
+   "rank": 78.135,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/guvo59-hand-3632914_260729-145312_ako.jpg"
   },
   {
@@ -1979,7 +2055,7 @@
     ],
     "faq": []
    },
-   "rank": 86.803,
+   "rank": 86.054,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QI_z/jqBiB.jpeg?fl=cro,34,0,4503,2533%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1993,8 +2069,8 @@
    ],
    "published_at": "2026-08-03T21:06:49.563878+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 21:06",
@@ -2038,7 +2114,7 @@
     ],
     "faq": []
    },
-   "rank": 67.58,
+   "rank": 66.98,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/cddd56c39fd0be9fd3abc14ced5c1361.jpeg"
   },
   {
@@ -2098,7 +2174,7 @@
     ],
     "faq": []
    },
-   "rank": 71.994,
+   "rank": 71.349,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/434/434e34c4-56d7-4c0a-883c-8471be839bcf.jpeg"
   },
   {
@@ -2113,8 +2189,8 @@
    ],
    "published_at": "2026-08-03T20:00:23.984206+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 20:00",
@@ -2152,7 +2228,7 @@
     ],
     "faq": []
    },
-   "rank": 62.57,
+   "rank": 62.004,
    "image_url": "https://cdn.kudyznudy.cz/files/6a/6a537674-735b-4770-a415-b9bf47837660.jpg?v=20220520123555",
    "images": [
     "https://cdn.kudyznudy.cz/files/7a/7a61c46a-9641-4142-9b91-0e432fd60fe0.webp?v=20230906085623",
@@ -2223,7 +2299,7 @@
     ],
     "faq": []
    },
-   "rank": 73.877,
+   "rank": 73.202,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oX_A/nPw2pRkMOeDxAUcZNCmY4LA/5c80.jpeg?fl=cro,0,242,3400,1912%7Cres,1200,,1"
   },
   {
@@ -2279,7 +2355,7 @@
     ],
     "faq": []
    },
-   "rank": 86.189,
+   "rank": 85.402,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/253/25337ce4-960f-41ec-885c-28d18c1a5e3b.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/430x645/23f/23ff2ae9-7235-4a98-a73a-824956abff0f.webp",
@@ -2297,8 +2373,8 @@
    ],
    "published_at": "2026-08-03T18:55:38.544167+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:55",
@@ -2340,7 +2416,7 @@
     ],
     "faq": []
    },
-   "rank": 73.185,
+   "rank": 72.51,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/82f5e471bf21953445c357824d0a20ef.jpeg"
   },
   {
@@ -2393,7 +2469,7 @@
     ],
     "faq": []
    },
-   "rank": 66.282,
+   "rank": 65.667,
    "forecast": true
   },
   {
@@ -2408,8 +2484,8 @@
    ],
    "published_at": "2026-08-03T18:19:50.623686+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:19",
@@ -2447,7 +2523,7 @@
     ],
     "faq": []
    },
-   "rank": 65.134,
+   "rank": 64.527,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QQ_4/oDJDS.jpeg?fl=cro,0,104,2000,1125%7Cres,1200,,1"
   },
   {
@@ -2462,8 +2538,8 @@
    ],
    "published_at": "2026-08-03T18:19:50.623686+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:19",
@@ -2495,7 +2571,7 @@
     ],
     "faq": []
    },
-   "rank": 69.191,
+   "rank": 68.546,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/10/IMG_5343.jpeg"
   },
   {
@@ -2510,8 +2586,8 @@
    ],
    "published_at": "2026-08-03T18:19:50.623686+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:19",
@@ -2541,7 +2617,7 @@
     ],
     "faq": []
    },
-   "rank": 72.409,
+   "rank": 71.734,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/761/7613bcb9-d070-4cb4-94f8-fb21b3e935a3.jpeg"
   },
   {
@@ -2607,7 +2683,7 @@
     ],
     "faq": []
    },
-   "rank": 91.556,
+   "rank": 90.694,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/9c4/9c492fd1-48f5-4632-a9d6-a7f9a58e8259.jpeg"
   },
   {
@@ -2658,7 +2734,7 @@
     ],
     "faq": []
    },
-   "rank": 44.584,
+   "rank": 44.164,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC6PMOXoWHYlp4b/dcd4/depo-vokovice-vcely.jpeg?fl=cro,0,0,1600,900%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2673,8 +2749,8 @@
    ],
    "published_at": "2026-08-03T17:13:44.107857+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 17:13",
@@ -2718,7 +2794,7 @@
     ],
     "faq": []
    },
-   "rank": 82.807,
+   "rank": 82.019,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/ecb/ecb7ba9e-ba96-45c2-87e5-1471b4ef8e23.jpeg"
   },
   {
@@ -2732,8 +2808,8 @@
    ],
    "published_at": "2026-08-03T17:13:44.107857+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 17:13",
@@ -2763,7 +2839,7 @@
     ],
     "faq": []
    },
-   "rank": 98.579,
+   "rank": 97.642,
    "image_url": "https://i3.cn.cz/16/1751457962_P2025070204124.jpg",
    "images": [
     "https://i3.cn.cz/2/1785598072_P2026080103745.jpg",
@@ -2818,7 +2894,7 @@
     ],
     "faq": []
    },
-   "rank": 54.635,
+   "rank": 54.11,
    "image_url": "https://cdn.kudyznudy.cz/files/4d/4d0978d5-1948-49e6-9d27-ff62f404eaaf.jpg?v=20260404142510",
    "images": [
     "https://cdn.kudyznudy.cz/files/a9/a91f0b1f-0572-4b07-9758-c414637b7e4c.webp?v=20260404142513",
@@ -2875,7 +2951,7 @@
     ],
     "faq": []
    },
-   "rank": 74.148,
+   "rank": 73.435,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/01/DSC_1940.jpg"
   },
   {
@@ -2889,8 +2965,8 @@
    ],
    "published_at": "2026-08-03T16:06:05.741210+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 16:06",
@@ -2934,7 +3010,7 @@
     ],
     "faq": []
    },
-   "rank": 77.235,
+   "rank": 76.485,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsN3e2PCLdHYkvia/b4c5/branicka-vozovna-praha.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3011,7 +3087,7 @@
     ],
     "faq": []
    },
-   "rank": 76.481,
+   "rank": 75.731,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QN_t/96QIi/turek-zastupitelstvo-praha-primator.jpeg?fl=cro,0,0,2500,1406%7Cres,1200,,1"
   },
   {
@@ -3079,7 +3155,7 @@
     ],
     "faq": []
    },
-   "rank": 87.953,
+   "rank": 87.09,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/5a6/5a6726ea-cac0-4501-9609-12bee6e13b3f.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/484x645/c2c/c2c51add-4566-470e-911b-eb6bf2fc8453.webp"
@@ -3144,7 +3220,7 @@
     ],
     "faq": []
    },
-   "rank": 80.305,
+   "rank": 79.517,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCpCkJYTJHYsGfj/deb7/rozpocet-graf.jpeg?fl=cro,0,0,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3159,8 +3235,8 @@
    ],
    "published_at": "2026-08-03T15:04:20.679632+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:04",
@@ -3196,7 +3272,7 @@
     ],
     "faq": []
    },
-   "rank": 46.207,
+   "rank": 45.749,
    "image_url": "https://cdn.kudyznudy.cz/files/09/099ead8d-8bba-4ff1-a3b3-faabf5740ae2.jpg?v=20250801205636",
    "images": [
     "https://cdn.kudyznudy.cz/files/92/925df78a-1444-4e01-a4b8-706653a45be8.webp?v=20221001014350",
@@ -3218,8 +3294,8 @@
    ],
    "published_at": "2026-08-03T15:04:20.679632+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:04",
@@ -3255,7 +3331,7 @@
     ],
     "faq": []
    },
-   "rank": 83.323,
+   "rank": 82.498,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/48c/48c87319-7f69-4b93-adcf-33e4d2c02076.jpeg"
   },
   {
@@ -3325,7 +3401,7 @@
     ],
     "faq": []
    },
-   "rank": 79.472,
+   "rank": 78.677,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/zuj_0301_250613-122916_zuj.jpg"
   },
   {
@@ -3383,7 +3459,7 @@
     ],
     "faq": []
    },
-   "rank": 71.235,
+   "rank": 70.523,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/radnice/praha-10-nova-radnice-vstup-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/radnice/praha-10-nova-radnice-vstup-475.jpg",
@@ -3449,7 +3525,7 @@
     ],
     "faq": []
    },
-   "rank": 63.737,
+   "rank": 63.099,
    "image_url": "https://1gr.cz/tempimg/fb/2018/8/VAC756383_153000_3613107.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/24/113/vidw/GRR76adf3e651_nadraznibudova9.JPG",
@@ -3468,8 +3544,8 @@
    ],
    "published_at": "2026-08-03T13:57:47.242307+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "3 августа 2026, 13:57",
@@ -3503,7 +3579,7 @@
     ],
     "faq": []
    },
-   "rank": 66.731,
+   "rank": 66.057,
    "image_url": "https://cdn.kudyznudy.cz/files/bb/bb333c9c-508b-4b0a-a21c-0c1098e9c442.jpg?v=20260803114717",
    "images": [
     "https://cdn.kudyznudy.cz/files/1d/1da0628c-04a1-4ee7-bb03-af79213ae188.webp?v=20260803114716",
@@ -3526,8 +3602,8 @@
    ],
    "published_at": "2026-08-03T13:57:47.242307+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "3 августа 2026, 13:57",
@@ -3557,7 +3633,7 @@
     ],
     "faq": []
    },
-   "rank": 59.317,
+   "rank": 58.717,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/olk.jpg"
   },
   {
@@ -3619,7 +3695,7 @@
     ],
     "faq": []
    },
-   "rank": 75.536,
+   "rank": 74.763,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/_dsf5234_o._kaiser_l_260529-092811_kro.jpg",
    "video": {
     "kind": "iframe",
@@ -3638,8 +3714,8 @@
    ],
    "published_at": "2026-08-03T12:53:23.182369+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 12:53",
@@ -3679,7 +3755,7 @@
     ],
     "faq": []
    },
-   "rank": 58.077,
+   "rank": 57.477,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-6-rok-2025/posli-akrtovku-dal-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-6-rok-2025/posli-akrtovku-dal-475.jpg",
@@ -3752,7 +3828,7 @@
     ],
     "faq": []
    },
-   "rank": 64.677,
+   "rank": 64.002,
    "image_url": "https://1gr.cz/tempimg/fb/2019/6/KHA7c4f45_5c469f8d273b48ba9e99c9802e406320_0.jpg",
    "images": [
     "https://1gr.cz/u/n4/catchbox/pocasi-bnr3.png",
@@ -3850,7 +3926,7 @@
      }
     ]
    },
-   "rank": 61.076,
+   "rank": 60.431,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-066965987_260803-063655_brz.jpg"
   },
   {
@@ -3865,8 +3941,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -3928,7 +4004,7 @@
      }
     ]
    },
-   "rank": 71.692,
+   "rank": 70.927,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -3962,8 +4038,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -4023,7 +4099,7 @@
      }
     ]
    },
-   "rank": 66.772,
+   "rank": 66.059,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-4-opatreni-proti-vedru.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/zoo7/komentovana-setkan-475.jpg",
@@ -4046,8 +4122,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -4113,7 +4189,7 @@
      }
     ]
    },
-   "rank": 89.263,
+   "rank": 88.311,
    "sources": [
     {
      "domain": "reflex.cz",
@@ -4216,7 +4292,7 @@
      }
     ]
    },
-   "rank": 75.196,
+   "rank": 74.387,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/2026-8-3-931Zajisteny-exemplar-2.jpg"
   },
   {
@@ -4283,7 +4359,7 @@
      }
     ]
    },
-   "rank": 71.019,
+   "rank": 70.254,
    "sources": [
     {
      "domain": "metro.cz",
@@ -4383,7 +4459,7 @@
      }
     ]
    },
-   "rank": 61.917,
+   "rank": 61.242,
    "sources": [
     {
      "domain": "romea.cz",
@@ -4459,7 +4535,7 @@
      }
     ]
    },
-   "rank": 38.399,
+   "rank": 37.98,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/11.jpg"
   },
   {
@@ -4557,7 +4633,7 @@
      }
     ]
    },
-   "rank": 67.118,
+   "rank": 66.361,
    "image_url": "https://www.prazskypatriot.cz/data/images/letni-kino-na-fontane-strizkov.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -4663,7 +4739,7 @@
      }
     ]
    },
-   "rank": 77.751,
+   "rank": 76.873,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -4762,7 +4838,7 @@
      }
     ]
    },
-   "rank": 68.923,
+   "rank": 68.136,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/03340241.jpeg"
   },
   {
@@ -4858,7 +4934,7 @@
      }
     ]
    },
-   "rank": 61.64,
+   "rank": 60.928,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/265/265dadf6-088b-4870-bd2b-4fa2dfad1589.jpeg",
    "images": [
     "https://www.denik.cz/images/api/image/484x645/730/730e6f3f-3908-4f98-af7f-5fd648c71913.webp",
@@ -4953,7 +5029,7 @@
      }
     ]
    },
-   "rank": 77.861,
+   "rank": 76.962,
    "image_url": "https://i3.cn.cz/16/1751556882_P2025070306384.jpg",
    "images": [
     "https://i3.cn.cz/2/1785598072_P2026080103745.jpg",
@@ -5026,7 +5102,7 @@
      }
     ]
    },
-   "rank": 69.751,
+   "rank": 68.926,
    "sources": [
     {
      "domain": "info.cz",
@@ -5106,7 +5182,7 @@
      }
     ]
    },
-   "rank": 63.41,
+   "rank": 62.66,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/24/csm_auta_008_cce2c12619.jpg"
   },
   {
@@ -5196,7 +5272,7 @@
      }
     ]
    },
-   "rank": 60.239,
+   "rank": 59.527,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QI_z/WG8BPi.mpo?fl=cro,0,125,2400,1350%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5276,7 +5352,7 @@
      }
     ]
    },
-   "rank": 56.353,
+   "rank": 55.659,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -5364,7 +5440,7 @@
      }
     ]
    },
-   "rank": 54.849,
+   "rank": 54.174,
    "sources": [
     {
      "domain": "zdarsky.denik.cz",
@@ -5467,7 +5543,7 @@
      }
     ]
    },
-   "rank": 36.223,
+   "rank": 35.765,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-154044_jkd.jpeg"
   },
   {
@@ -5554,7 +5630,7 @@
      }
     ]
    },
-   "rank": 39.882,
+   "rank": 39.357,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-175637_jkd.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-175638_jkd.jpeg?itok=ziN4p0VV"
@@ -5639,7 +5715,7 @@
      }
     ]
    },
-   "rank": 56.191,
+   "rank": 55.441,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/16284e7133d1a1e7dff986ddafd920b6.jpg"
   },
   {
@@ -5725,7 +5801,7 @@
      }
     ]
    },
-   "rank": 62.04,
+   "rank": 61.2,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -5839,7 +5915,7 @@
      }
     ]
    },
-   "rank": 58.028,
+   "rank": 57.242,
    "sources": [
     {
      "domain": "denik.cz",
@@ -5944,7 +6020,7 @@
      }
     ]
    },
-   "rank": 60.083,
+   "rank": 59.258,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-111811901_260802-174000_jva.jpg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/banknote-design-prop_260802-174817_jva.jpg?itok=gfEV0Tj_",
@@ -5999,7 +6075,7 @@
     ],
     "faq": []
    },
-   "rank": 39.799,
+   "rank": 39.236,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/3dea6a682b7518e00c34aeab961caceb.jpg"
   },
   {
@@ -6059,7 +6135,7 @@
     ],
     "faq": []
    },
-   "rank": 51.519,
+   "rank": 50.769,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-001279474_191202-073052_pj.jpg",
    "video": {
     "kind": "iframe",
@@ -6125,7 +6201,7 @@
     ],
     "faq": []
    },
-   "rank": 54.095,
+   "rank": 53.307,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/833/8339bc8a-287a-4d61-90bd-00a3a9df1744.jpeg"
   },
   {
@@ -6185,7 +6261,7 @@
     ],
     "faq": []
    },
-   "rank": 47.655,
+   "rank": 46.961,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-004024961_171109-122432_haf.jpg"
   },
   {
@@ -6241,7 +6317,7 @@
     ],
     "faq": []
    },
-   "rank": 37.513,
+   "rank": 36.951,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260701-221810_mkv_0.jpeg"
   },
   {
@@ -6291,7 +6367,7 @@
     ],
     "faq": []
    },
-   "rank": 43.659,
+   "rank": 42.984,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/politicke-strany/piratska-kapela-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/politicke-strany/piratska-kapela-475.jpg",
@@ -6355,7 +6431,7 @@
     ],
     "faq": []
    },
-   "rank": 36.383,
+   "rank": 35.82,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv1_9826_210728-141229_vlf.jpg"
   },
   {
@@ -6423,7 +6499,7 @@
     ],
     "faq": []
    },
-   "rank": 46.577,
+   "rank": 45.835,
    "image_url": "https://i.iinfo.cz/images/550/cleveland-clinic.png"
   },
   {
@@ -6479,7 +6555,7 @@
     ],
     "faq": []
    },
-   "rank": 45.495,
+   "rank": 44.745,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_oW_A/nO1SBfAluiBtfltg1CRHJ62/b6bb.jpeg?fl=cro,0,304,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6538,7 +6614,7 @@
     ],
     "faq": []
    },
-   "rank": 37.407,
+   "rank": 36.77,
    "image_url": "https://cdn.kudyznudy.cz/files/c0/c089046b-d50e-440a-8703-fc0fd76dec01.jpg?v=20250224182504",
    "images": [
     "https://cdn.kudyznudy.cz/files/da/daba1258-7c9b-4150-a3e2-5ea7bfedd461.webp?v=20250831133648",
@@ -6602,7 +6678,7 @@
     ],
     "faq": []
    },
-   "rank": 50.61,
+   "rank": 49.748,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/f0b/f0bab881-cc9f-4197-8b69-007d5aafa470.jpeg"
   },
   {
@@ -6687,7 +6763,7 @@
      }
     ]
    },
-   "rank": 36.08,
+   "rank": 35.442,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -6797,7 +6873,7 @@
      }
     ]
    },
-   "rank": 38.877,
+   "rank": 38.164,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/DYN77f5b812d8_brouci_polnika_jasanoveho.jpg"
   },
   {
@@ -6905,7 +6981,7 @@
      }
     ]
    },
-   "rank": 29.54,
+   "rank": 28.978,
    "image_url": "https://cdn.kudyznudy.cz/files/43/436c75ba-2486-4efb-bdc1-e86095f8e5fb.jpg?v=20250425132024",
    "images": [
     "https://cdn.kudyznudy.cz/files/20/20288993-a4bb-49ff-ab25-83df2cd2dc7c.webp?v=20221013071624",
@@ -7002,7 +7078,7 @@
      }
     ]
    },
-   "rank": 31.509,
+   "rank": 30.909,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/ai-turn-off-mvp.jpg"
   },
   {
@@ -7083,7 +7159,7 @@
      }
     ]
    },
-   "rank": 39.387,
+   "rank": 38.637,
    "sources": [
     {
      "domain": "tenisportal.cz",
@@ -7183,7 +7259,7 @@
      }
     ]
    },
-   "rank": 35.893,
+   "rank": 35.18,
    "image_url": "https://cdn.kudyznudy.cz/files/b5/b597d206-21e8-4421-b1d3-186e5182d6c3.jpg?v=20240419130300",
    "images": [
     "https://cdn.kudyznudy.cz/files/e0/e0a4b9e8-dcd0-4d23-8653-da9ccd3690fe.webp?v=20240419130911",
@@ -7267,7 +7343,7 @@
      }
     ]
    },
-   "rank": 21.148,
+   "rank": 20.728,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/4d7/4d7ecfca-fd3a-40a0-94b1-45e89ece4706.jpeg"
   },
   {
@@ -7360,7 +7436,7 @@
      }
     ]
    },
-   "rank": 43.449,
+   "rank": 42.587,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260725_215313_260802-110557_jkd.jpg"
   },
   {
@@ -7446,7 +7522,7 @@
      }
     ]
    },
-   "rank": 34.395,
+   "rank": 33.683,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-064048225_230504-214504_ara.jpg"
   },
   {
@@ -7520,7 +7596,7 @@
      }
     ]
    },
-   "rank": 24.439,
+   "rank": 23.933,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/luxfer.jpg"
   },
   {
@@ -10766,8 +10842,8 @@
    ],
    "published_at": "2026-08-01T10:54:32.418615+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "1 августа 2026, 10:54",
@@ -15227,8 +15303,8 @@
    ],
    "published_at": "2026-07-31T11:00:38.332371+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 11:00",
@@ -15277,8 +15353,8 @@
    ],
    "published_at": "2026-07-31T10:56:02.778406+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 10:56",
@@ -19306,8 +19382,8 @@
    ],
    "published_at": "2026-07-30T10:53:17.159426+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "30 июля 2026, 10:53",
@@ -21705,72 +21781,6 @@
    },
    "rank": 28.0,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/74e/74ed1241-502f-428b-8f01-511a95ea068b.jpeg"
-  },
-  {
-   "id": "n3008",
-   "slug": "besprotsentnye-kredity-na-remont-2-3-mlrd-kron-za-mesiats",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/ekonomika/domaci/nova-zelena-usporam-ministerstvo-zivotniho-prostredi.A260729_142337_ekonomika_hyk#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "cesko",
-    "ekonomika"
-   ],
-   "published_at": "2026-07-29T19:43:30.454855+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "29 июля 2026, 19:43",
-    "uk": "29 липня 2026, 19:43"
-   },
-   "ru": {
-    "title": "Беспроцентные кредиты на ремонт: 2,3 млрд крон за месяц",
-    "lede": "За первый месяц программы «Новая зеленая экономия» домохозяйства подали проекты на 2,3 миллиарда крон для энергоэффективных ремонтов.",
-    "meta_description": "За первый месяц программы Nová zelená úsporám чехи подали заявки на беспроцентные кредиты на 2,3 млрд крон и запросили 140 млн крон прямых субсидий. Доминируют ",
-    "paras": [
-     "<p>Министерство окружающей среды Чехии сообщило, что за первый месяц приема заявок по обновленной программе Nová zelená úsporám (Новая зеленая экономия) домохозяйства подали проекты на общую сумму 2,3 миллиарда крон. Средства планируется получить в виде беспроцентных кредитов на энергоэффективные ремонты.</p>",
-     "<p>По данным министерства, большинство проектов предусматривают комплексную реновацию с качественным утеплением зданий. Даже в частичных ремонтах преобладает утепление - оно обеспечивает наибольшую экономию энергии. Треть заявок включает замену источника отопления, 17% - установку фотоэлектрических панелей.</p>",
-     "<blockquote>«Первый месяц показал, что новая форма поддержки не остановила интерес домохозяйств к энергосберегающим ремонтам. Владельцы частных домов, ТСЖ и жилищные кооперативы уже представили проекты на 2,3 миллиарда крон», заявил министр окружающей среды Igor Červený.</blockquote>",
-     "<p>По его словам, это сигнал о том, что доступное финансирование ремонтов востребовано. «Новая модель поддержки даже при сниженном объеме государственных инвестиций способна долгосрочно поддерживать темпы реновации в жилом секторе», добавил министр.</p>",
-     "<p>Для уязвимых домохозяйств в программе сохраняется прямая субсидия. Как отметил директор Государственного фонда окружающей среды Petr Valdman, за первый месяц сотни таких семей запросили 140 миллионов крон.</p>",
-     "<h3>Проекты и утепление</h3>",
-     "<p>По словам директора отраслевого альянса Šance pro budovy Marty Gellové, первые результаты подтверждают, что смена модели не вызвала спада интереса. «Мы положительно оцениваем, что большинство проектов нацелено на комплексные ремонты, а главной мерой остается качественное утепление. Это самая эффективная часть программы с долгосрочной выгодой как для домохозяйств, так и для государства», подчеркнула Gellová.</p>",
-     "<p>Новый финансовый инструмент - беспроцентный кредит - был представлен в мае 2026 года. Через месяц фонд начал прием заявок. Осенью одобренные заявители смогут получить кредит в банках и стройсберкассах после стандартной проверки платежеспособности. Государство компенсирует проценты и все сопутствующие расходы, так что домохозяйства вернут только сумму займа.</p>",
-     "<p>Кредит можно направить на утепление (включая замену окон, дверей и солнцезащиты), замену источников тепла, установку фотоэлектрики и других возобновляемых источников. В комбинации с этими мерами можно также получить поддержку на создание зеленой кровли или системы сбора дождевой и серой воды.</p>",
-     "<h3>Важность консультаций</h3>",
-     "<p>Gellová отметила, что беспроцентное финансирование как раз для комплексных ремонтов помогает преодолеть главный барьер - высокие начальные затраты. «Наградой за качественно подготовленный проект становится не только комфорт с минимальными счетами, но и рост стоимости недвижимости», пояснила она.</p>",
-     "<p>При этом интерес к отдельным мерам, особенно установке технологий, ниже - там нехватка капитала редко является препятствием, и нет смысла брать кредит. Также пока не подтвердились опасения быстрого исчерпания средств на прямые субсидии для малообеспеченных.</p>",
-     "<p>Эксперты подчеркивают, что прием заявок по новым правилам только начался, и домохозяйства еще знакомятся с изменениями. Решающим станет, удастся ли сохранить интерес в долгосрочной перспективе и развить систему энергетического консультирования вместе с доработкой «реновационных паспортов».</p>",
-     "<p>Заявки на поддержку по программе Nová zelená úsporám принимаются онлайн с 25 июня 2026 года до 31 октября 2029 года или до исчерпания бюджета.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Безвідсоткові кредити на ремонт: 2,3 млрд крон за місяць",
-    "lede": "За перший місяць програми «Нова зелена економія» домогосподарства подали проекти на 2,3 мільярда крон для енергоефективних ремонтів.",
-    "meta_description": "За перший місяць програми Nová zelená úsporám чехи подали заявки на безвідсоткові кредити на 2,3 млрд крон і запросили 140 млн крон прямих субсидій. Домінують",
-    "paras": [
-     "<p>Міністерство навколишнього середовища Чехії повідомило, що за перший місяць прийому заявок за оновленою програмою Nová zelená úsporám (Нова зелена економія) домогосподарства подали проекти на загальну суму 2,3 мільярда крон. Кошти планується отримати у вигляді безвідсоткових кредитів на енергоефективні ремонти.</p>",
-     "<p>За даними міністерства, більшість проектів передбачають комплексну реновацію з якісним утепленням будівель. Навіть у часткових ремонтах переважає утеплення - воно забезпечує найбільшу економію енергії. Третина заявок включає заміну джерела опалення, 17% - встановлення фотоелектричних панелей.</p>",
-     "<blockquote>«Перший місяць показав, що нова форма підтримки не зупинила інтерес домогосподарств до енергозберігаючих ремонтів. Власники приватних будинків, ОСББ та житлові кооперативи вже представили проекти на 2,3 мільярда крон», заявив міністр навколишнього середовища Igor Červený.</blockquote>",
-     "<p>За його словами, це сигнал про те, що доступне фінансування ремонтів затребуване. «Нова модель підтримки навіть при зниженому обсязі державних інвестицій здатна довгостроково підтримувати темпи реновації в житловому секторі», додав міністр.</p>",
-     "<p>Для вразливих домогосподарств у програмі зберігається пряма субсидія. Як зазначив директор Державного фонду навколишнього середовища Petr Valdman, за перший місяць сотні таких сімей запросили 140 мільйонів крон.</p>",
-     "<h3>Проекти та утеплення</h3>",
-     "<p>За словами директора галузевого альянсу Šance pro budovy Marty Gellové, перші результати підтверджують, що зміна моделі не викликала спаду інтересу. «Ми позитивно оцінюємо, що більшість проектів спрямована на комплексні ремонти, а головним заходом залишається якісне утеплення. Це найефективніша частина програми з довгостроковою вигодою як для домогосподарств, так і для держави», підкреслила Gellová.</p>",
-     "<p>Новий фінансовий інструмент - безвідсотковий кредит - був представлений у травні 2026 року. Через місяць фонд почав прийом заявок. Восени схвалені заявники зможуть отримати кредит у банках та будощадних касах після стандартної перевірки платоспроможності. Держава компенсує відсотки та всі супутні витрати, тому домогосподарства повернуть лише суму позики.</p>",
-     "<p>Кредит можна спрямувати на утеплення (включаючи заміну вікон, дверей та сонцезахисту), заміну джерел тепла, встановлення фотоелектрики та інших відновлюваних джерел. У комбінації з цими заходами можна також отримати підтримку на створення зеленої покрівлі або системи збору дощової та сірої води.</p>",
-     "<h3>Важливість консультацій</h3>",
-     "<p>Gellová зазначила, що безвідсоткове фінансування саме для комплексних ремонтів допомагає подолати головний бар'єр - високі початкові витрати. «Нагородою за якісно підготовлений проект стає не лише комфорт із мінімальними рахунками, а й зростання вартості нерухомості», пояснила вона.</p>",
-     "<p>При цьому інтерес до окремих заходів, особливо встановлення технологій, нижчий - там нестача капіталу рідко є перешкодою, і немає сенсу брати кредит. Також поки не підтвердилися побоювання швидкого вичерпання коштів на прямі субсидії для малозабезпечених.</p>",
-     "<p>Експерти підкреслюють, що прийом заявок за новими правилами лише розпочався, і домогосподарства ще знайомляться зі змінами. Вирішальним стане, чи вдасться зберегти інтерес у довгостроковій перспективі та розвинути систему енергетичного консультування разом із доопрацюванням «реноваційних паспортів».</p>",
-     "<p>Заявки на підтримку за програмою Nová zelená úsporám приймаються онлайн з 25 червня 2026 року до 31 жовтня 2029 року або до вичерпання бюджету.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 40.25,
-   "image_url": "https://1gr.cz/tempimg/fb/2023/12/DAV7d48b56b2c_shutterstock_2206914231.jpg"
   }
  ]
 }
