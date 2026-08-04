@@ -1,8 +1,98 @@
 {
- "updated_at": "2026-08-04T00:03:25+00:00",
+ "updated_at": "2026-08-04T00:34:55+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3297",
+   "slug": "openai-astra-reshila-10-nereshaemykh-zadach-matematiki",
+   "source": "cc.cz",
+   "original_url": "https://cc.cz/pada-jeden-vypocetni-rebus-za-druhym-ai-postupne-vytesnuje-vyznam-lidskych-matematiku-a-vedcu/",
+   "top": false,
+   "tags": [
+    "svet",
+    "it"
+   ],
+   "published_at": "2026-08-04T02:34:54.231241+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "4 августа 2026, 02:34",
+    "uk": "4 серпня 2026, 02:34"
+   },
+   "ru": {
+    "title": "OpenAI Astra решила 10 нерешаемых задач математики",
+    "lede": "Компания OpenAI объявила, что внутренняя версия её новой модели Astra решила десять математических проблем, над которыми учёные бились десятилетиями. Стоимость вычислений составила всего 2 тысячи долларов.",
+    "meta_description": "OpenAI Astra решила 10 математических проблем, включая задачу 1999 года о несофских группах. Стоимость вычислений - $2000. Подробнее в статье.",
+    "paras": [
+     "<p>Компания OpenAI в субботу, 1 августа, объявила о прорыве: её внутренняя модель Astra, которую называют следующим большим поколением ИИ, решила десять математических проблем, над которыми человечество билось десятилетиями. Результаты опубликовали не в научном журнале, а просто в PDF, приложенном к пресс-релизу.</p>",
+     "<p>По данным CzechCrunch, задачи касаются экспертных областей: высокомерной геометрии, теории групп, алгебры, квантовой сложности и решётчатой криптографии. OpenAI выпустила 249-страничный рукопись и сертификат на языке Lean для каждого решения. Это значит, что любой, у кого есть совместимый компилятор, может проверить доказательства машинно.</p>",
+     "<h3>Загадка Громова наконец решена</h3>",
+     "<p>Самым сильным результатом стала конструкция так называемой несофской группы. Вопрос о том, существуют ли они вообще, поставил в 1999 году Михаил Громов, и 27 лет никто не мог на него ответить, хотя в последние 15 лет математическое сообщество верило, что да.</p>",
+     "<p>Помимо этого, Astra опровергла гипотезу Коннеса о жёсткости, доказала гипотезу Эрхарта об объёме, улучшила оценку плотности упаковки сфер впервые с 1978 года и решила три проблемы Пала Эрдёша. Эрдёш, один из самых значимых математиков века, оставил после себя коллекцию гипотез, над которыми сейчас работают в том числе и системы ИИ.</p>",
+     "<p>Стоимость токенов, необходимых для решения всех десяти задач, составила 2 тысячи долларов, это примерно 42 тысячи крон.</p>",
+     "<h3>ИИ наступает</h3>",
+     "<p>Прорыв произошёл всего через несколько дней после того, как гарвардский математик Левин Альпёге с помощью модели Claude Fable 5 от Anthropic опроверг 87-летнюю гипотезу Якоби. В мае пала другая гипотеза Эрдёша о единичных расстояниях, а следом команда Google DeepMind закрыла ещё девять проблем Эрдёша. Темпы явно ускоряются.</p>",
+     "<blockquote>Мы считаем, что это станет важным шагом для научного мышления.</blockquote>",
+     "<p>Так написал в соцсети X Ноа Браун, один из авторов работы. Томас Блум из Манчестерского университета, который ведёт каталог проблем Эрдёша, назвал новость «большой новостью». Себастьен Бубек, руководитель математических исследований OpenAI, в свою очередь говорил о «красивых» доказательствах.</p>",
+     "<h3>Учёные против</h3>",
+     "<p>Однако у такого подхода есть и противники. В июне шестнадцать математиков опубликовали Лейденскую декларацию, поддержанную International Mathematical Union. Её подписали более трёх тысяч человек, включая известные имена. Документ критикует ИИ-компании за то, что они используют опубликованные исследования без согласия, обходят процедуру рецензирования и объявляют о результатах пресс-релизами. Именно так OpenAI поступила в этот раз.</p>",
+     "<p>В OpenAI признают претензии, но отвечают: приписывать авторство новых доказательств человеку, когда их полностью сгенерировала машина, значит искажать и вклад системы, и природу настоящей человеческой работы. И вот на этом фоне возникает новая загадка: модель ИИ, которая сейчас отнимает работу у математиков, построили сами математики и обучили её на всём, что они когда-либо написали.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Что такое Astra от OpenAI?",
+      "a": "Это внутренняя версия следующего крупного поколения моделей ИИ, которая смогла решить 10 сложных математических проблем."
+     },
+     {
+      "q": "Какие именно задачи решил ИИ?",
+      "a": "Среди прочего: сконструировал несофскую группу (задача 1999 года), опроверг гипотезу Коннеса о жёсткости и решил три проблемы Пала Эрдёша."
+     },
+     {
+      "q": "Как подтверждается правильность решений?",
+      "a": "OpenAI предоставила 249-страничный рукопись и сертификаты на языке Lean для машинной проверки."
+     }
+    ]
+   },
+   "uk": {
+    "title": "OpenAI Astra розв'язала 10 нерозв'язних задач з математики",
+    "lede": "Компанія OpenAI заявила, що внутрішня версія її нової моделі Astra розв'язала десять математичних проблем, над якими вчені працювали десятиліттями. Вартість обчислень склала лише 2 тисячі доларів.",
+    "meta_description": "OpenAI Astra розв'язала 10 математичних проблем, включаючи задачу 1999 року про несофські групи. Вартість обчислень - $2000. Деталі у статті.",
+    "paras": [
+     "<p>Компанія OpenAI в суботу, 1 серпня, оголосила про прорив: її внутрішня модель Astra, яку називають наступним великим поколінням ШІ, розв'язала десять математичних проблем, над якими людство билося десятиліттями. Результати опублікували не в науковому журналі, а просто у PDF, що був доданий до пресрелізу.</p>",
+     "<p>За даними CzechCrunch, завдання стосуються експертних галузей: високомірної геометрії, теорії груп, алгебри, квантової складності та решіткової криптографії. OpenAI випустила 249-сторінковий рукопис і сертифікат мовою Lean для кожного рішення. Це означає, що будь-хто, хто має сумісний компілятор, може перевірити докази машинно.</p>",
+     "<h3>Загадка Громова нарешті розв'язана</h3>",
+     "<p>Найсильнішим результатом стала конструкція так званої несофської групи. Питання про те, чи існують вони взагалі, поставив у 1999 році Mikhail Gromov, і 27 років ніхто не міг на нього відповісти, хоча в останні 15 років математична спільнота вірила, що так.</p>",
+     "<p>Крім цього, Astra спростувала гіпотезу Connes про жорсткість, довела гіпотезу Ehrhart про об'єм, покращила оцінку щільності пакування сфер вперше з 1978 року та розв'язала три проблеми Paul Erdős. Erdős, один із найвизначніших математиків століття, залишив після себе колекцію гіпотез, над якими зараз працюють зокрема і системи ШІ.</p>",
+     "<p>Вартість токенів, необхідних для розв'язання всіх десяти задач, склала 2 тисячі доларів, це приблизно 42 тисячі крон.</p>",
+     "<h3>ШІ наступає</h3>",
+     "<p>Прорив стався лише за кілька днів після того, як гарвардський математик Levin Alpage за допомогою моделі Claude Fable 5 від Anthropic спростував 87-річну гіпотезу Jacobi. У травні впала інша гіпотеза Erdős про одиничні відстані, а слідом команда Google DeepMind закрила ще дев'ять проблем Erdős. Темпи явно прискорюються.</p>",
+     "<blockquote>Ми вважаємо, що це стане важливим кроком для наукового мислення.</blockquote>",
+     "<p>Так написав у соцмережі X Noah Brown, один із авторів роботи. Thomas Bloom з університету в Manchester, який веде каталог проблем Erdős, назвав новину «великою новиною». Sebastien Bubeck, керівник математичних досліджень OpenAI, своєю чергою говорив про «красиві» докази.</p>",
+     "<h3>Учені проти</h3>",
+     "<p>Однак у такого підходу є і противники. У червні шістнадцять математиків опублікували Лейденську декларацію, яку підтримав International Mathematical Union. Її підписали понад три тисячі людей, включаючи відомі імена. Документ критикує ШІ-компанії за те, що вони використовують опубліковані дослідження без згоди, обходять процедуру рецензування та оголошують про результати пресрелізами. Саме так OpenAI вчинила цього разу.</p>",
+     "<p>В OpenAI визнають претензії, але відповідають: приписувати авторство нових доказів людині, коли їх повністю згенерувала машина, означає викривляти і внесок системи, і природу справжньої людської роботи. І ось на цьому тлі виникає нова загадка: модель ШІ, яка зараз забирає роботу у математиків, побудували самі математики та навчили її на всьому, що вони коли-небудь написали.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Що таке Astra від OpenAI?",
+      "a": "Це внутрішня версія наступного великого покоління моделей ШІ, яка змогла розв'язати 10 складних математичних проблем."
+     },
+     {
+      "q": "Які саме задачі розв'язав ШІ?",
+      "a": "Серед іншого: сконструював несофську групу (задача 1999 року), спростував гіпотезу Connes про жорсткість і розв'язав три проблеми Paul Erdős."
+     },
+     {
+      "q": "Як підтверджується правильність рішень?",
+      "a": "OpenAI надала 249-сторінковий рукопис і сертифікати мовою Lean для машинної перевірки."
+     }
+    ]
+   },
+   "rank": 112.5,
+   "image_url": "https://cc.cz/wp-content/uploads/2026/08/openai-mvp.jpg"
+  },
   {
    "id": "n3296",
    "slug": "letnii-kinoteatr-v-raione-uhrineves-pokazhet-pet-svestek",
@@ -15,8 +105,8 @@
    ],
    "published_at": "2026-08-04T02:03:25.125785+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "4 августа 2026, 02:03",
@@ -106,8 +196,8 @@
    ],
    "published_at": "2026-08-04T01:28:48.028547+02:00",
    "time": {
-    "ru": "34 минуты назад",
-    "uk": "34 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 августа 2026, 01:28",
@@ -305,8 +395,8 @@
    ],
    "published_at": "2026-08-04T00:24:26.562341+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "4 августа 2026, 00:24",
@@ -411,8 +501,8 @@
    ],
    "published_at": "2026-08-04T00:24:26.562341+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "4 августа 2026, 00:24",
@@ -518,8 +608,8 @@
    ],
    "published_at": "2026-08-04T00:24:26.562341+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "4 августа 2026, 00:24",
@@ -620,8 +710,8 @@
    ],
    "published_at": "2026-08-03T23:15:16.397925+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 23:15",
@@ -663,7 +753,7 @@
     ],
     "faq": []
    },
-   "rank": 110.0,
+   "rank": 109.48,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-112029987_260803-190859_sis.jpg"
   },
   {
@@ -678,8 +768,8 @@
    ],
    "published_at": "2026-08-03T23:15:16.397925+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "3 августа 2026, 23:15",
@@ -727,7 +817,7 @@
     ],
     "faq": []
    },
-   "rank": 90.0,
+   "rank": 89.574,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/guvo59-hand-3632914_260729-145312_ako.jpg"
   },
   {
@@ -774,7 +864,7 @@
     ],
     "faq": []
    },
-   "rank": 99.522,
+   "rank": 98.764,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QI_z/jqBiB.jpeg?fl=cro,34,0,4503,2533%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -788,8 +878,8 @@
    ],
    "published_at": "2026-08-03T21:06:49.563878+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 21:06",
@@ -833,7 +923,7 @@
     ],
     "faq": []
    },
-   "rank": 77.754,
+   "rank": 77.148,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/cddd56c39fd0be9fd3abc14ced5c1361.jpeg"
   },
   {
@@ -893,7 +983,7 @@
     ],
     "faq": []
    },
-   "rank": 82.931,
+   "rank": 82.279,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/434/434e34c4-56d7-4c0a-883c-8471be839bcf.jpeg"
   },
   {
@@ -947,7 +1037,7 @@
     ],
     "faq": []
    },
-   "rank": 72.172,
+   "rank": 71.6,
    "image_url": "https://cdn.kudyznudy.cz/files/6a/6a537674-735b-4770-a415-b9bf47837660.jpg?v=20220520123555",
    "images": [
     "https://cdn.kudyznudy.cz/files/7a/7a61c46a-9641-4142-9b91-0e432fd60fe0.webp?v=20230906085623",
@@ -969,8 +1059,8 @@
    ],
    "published_at": "2026-08-03T19:27:33.546870+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 19:27",
@@ -1018,7 +1108,7 @@
     ],
     "faq": []
    },
-   "rank": 85.323,
+   "rank": 84.641,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oX_A/nPw2pRkMOeDxAUcZNCmY4LA/5c80.jpeg?fl=cro,0,242,3400,1912%7Cres,1200,,1"
   },
   {
@@ -1033,8 +1123,8 @@
    ],
    "published_at": "2026-08-03T19:27:33.546870+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 19:27",
@@ -1074,7 +1164,7 @@
     ],
     "faq": []
    },
-   "rank": 99.543,
+   "rank": 98.747,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/253/25337ce4-960f-41ec-885c-28d18c1a5e3b.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/430x645/23f/23ff2ae9-7235-4a98-a73a-824956abff0f.webp",
@@ -1135,7 +1225,7 @@
     ],
     "faq": []
    },
-   "rank": 84.631,
+   "rank": 83.949,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/82f5e471bf21953445c357824d0a20ef.jpeg"
   },
   {
@@ -1188,7 +1278,7 @@
     ],
     "faq": []
    },
-   "rank": 76.711,
+   "rank": 76.089,
    "forecast": true
   },
   {
@@ -1203,8 +1293,8 @@
    ],
    "published_at": "2026-08-03T18:19:50.623686+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:19",
@@ -1242,7 +1332,7 @@
     ],
     "faq": []
    },
-   "rank": 75.43,
+   "rank": 74.817,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QQ_4/oDJDS.jpeg?fl=cro,0,104,2000,1125%7Cres,1200,,1"
   },
   {
@@ -1257,8 +1347,8 @@
    ],
    "published_at": "2026-08-03T18:19:50.623686+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:19",
@@ -1290,7 +1380,7 @@
     ],
     "faq": []
    },
-   "rank": 80.129,
+   "rank": 79.477,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/10/IMG_5343.jpeg"
   },
   {
@@ -1305,8 +1395,8 @@
    ],
    "published_at": "2026-08-03T18:19:50.623686+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 18:19",
@@ -1336,7 +1426,7 @@
     ],
     "faq": []
    },
-   "rank": 83.856,
+   "rank": 83.173,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/761/7613bcb9-d070-4cb4-94f8-fb21b3e935a3.jpeg"
   },
   {
@@ -1402,7 +1492,7 @@
     ],
     "faq": []
    },
-   "rank": 106.182,
+   "rank": 105.31,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/9c4/9c492fd1-48f5-4632-a9d6-a7f9a58e8259.jpeg"
   },
   {
@@ -1453,7 +1543,7 @@
     ],
     "faq": []
    },
-   "rank": 51.706,
+   "rank": 51.281,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC6PMOXoWHYlp4b/dcd4/depo-vokovice-vcely.jpeg?fl=cro,0,0,1600,900%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1468,8 +1558,8 @@
    ],
    "published_at": "2026-08-03T17:13:44.107857+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 17:13",
@@ -1513,7 +1603,7 @@
     ],
     "faq": []
    },
-   "rank": 96.161,
+   "rank": 95.365,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/ecb/ecb7ba9e-ba96-45c2-87e5-1471b4ef8e23.jpeg"
   },
   {
@@ -1527,8 +1617,8 @@
    ],
    "published_at": "2026-08-03T17:13:44.107857+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 17:13",
@@ -1558,7 +1648,7 @@
     ],
     "faq": []
    },
-   "rank": 114.477,
+   "rank": 113.529,
    "image_url": "https://i3.cn.cz/16/1751457962_P2025070204124.jpg",
    "images": [
     "https://i3.cn.cz/2/1785598072_P2026080103745.jpg",
@@ -1613,7 +1703,7 @@
     ],
     "faq": []
    },
-   "rank": 63.538,
+   "rank": 63.007,
    "image_url": "https://cdn.kudyznudy.cz/files/4d/4d0978d5-1948-49e6-9d27-ff62f404eaaf.jpg?v=20260404142510",
    "images": [
     "https://cdn.kudyznudy.cz/files/a9/a91f0b1f-0572-4b07-9758-c414637b7e4c.webp?v=20260404142513",
@@ -1670,7 +1760,7 @@
     ],
     "faq": []
    },
-   "rank": 86.23,
+   "rank": 85.51,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/01/DSC_1940.jpg"
   },
   {
@@ -1684,8 +1774,8 @@
    ],
    "published_at": "2026-08-03T16:06:05.741210+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 16:06",
@@ -1729,7 +1819,7 @@
     ],
     "faq": []
    },
-   "rank": 89.953,
+   "rank": 89.195,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsN3e2PCLdHYkvia/b4c5/branicka-vozovna-praha.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1745,8 +1835,8 @@
    ],
    "published_at": "2026-08-03T15:34:45.738023+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:34",
@@ -1806,7 +1896,7 @@
     ],
     "faq": []
    },
-   "rank": 89.199,
+   "rank": 88.441,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QN_t/96QIi/turek-zastupitelstvo-praha-primator.jpeg?fl=cro,0,0,2500,1406%7Cres,1200,,1"
   },
   {
@@ -1821,8 +1911,8 @@
    ],
    "published_at": "2026-08-03T15:34:45.738023+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:34",
@@ -1874,7 +1964,7 @@
     ],
     "faq": []
    },
-   "rank": 102.579,
+   "rank": 101.707,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/5a6/5a6726ea-cac0-4501-9609-12bee6e13b3f.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/484x645/c2c/c2c51add-4566-470e-911b-eb6bf2fc8453.webp"
@@ -1892,8 +1982,8 @@
    ],
    "published_at": "2026-08-03T15:34:45.738023+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:34",
@@ -1939,7 +2029,7 @@
     ],
     "faq": []
    },
-   "rank": 93.659,
+   "rank": 92.863,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCpCkJYTJHYsGfj/deb7/rozpocet-graf.jpeg?fl=cro,0,0,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1954,8 +2044,8 @@
    ],
    "published_at": "2026-08-03T15:04:20.679632+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:04",
@@ -1991,7 +2081,7 @@
     ],
     "faq": []
    },
-   "rank": 53.965,
+   "rank": 53.502,
    "image_url": "https://cdn.kudyznudy.cz/files/09/099ead8d-8bba-4ff1-a3b3-faabf5740ae2.jpg?v=20250801205636",
    "images": [
     "https://cdn.kudyznudy.cz/files/92/925df78a-1444-4e01-a4b8-706653a45be8.webp?v=20221001014350",
@@ -2013,8 +2103,8 @@
    ],
    "published_at": "2026-08-03T15:04:20.679632+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 15:04",
@@ -2050,7 +2140,7 @@
     ],
     "faq": []
    },
-   "rank": 97.313,
+   "rank": 96.479,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/48c/48c87319-7f69-4b93-adcf-33e4d2c02076.jpeg"
   },
   {
@@ -2065,8 +2155,8 @@
    ],
    "published_at": "2026-08-03T14:32:37.088252+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 14:32",
@@ -2120,7 +2210,7 @@
     ],
     "faq": []
    },
-   "rank": 92.951,
+   "rank": 92.148,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/zuj_0301_250613-122916_zuj.jpg"
   },
   {
@@ -2135,8 +2225,8 @@
    ],
    "published_at": "2026-08-03T14:32:37.088252+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 14:32",
@@ -2178,7 +2268,7 @@
     ],
     "faq": []
    },
-   "rank": 83.318,
+   "rank": 82.597,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/radnice/praha-10-nova-radnice-vstup-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/radnice/praha-10-nova-radnice-vstup-475.jpg",
@@ -2201,8 +2291,8 @@
    ],
    "published_at": "2026-08-03T14:32:37.088252+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 14:32",
@@ -2244,7 +2334,7 @@
     ],
     "faq": []
    },
-   "rank": 74.547,
+   "rank": 73.903,
    "image_url": "https://1gr.cz/tempimg/fb/2018/8/VAC756383_153000_3613107.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/24/113/vidw/GRR76adf3e651_nadraznibudova9.JPG",
@@ -2298,7 +2388,7 @@
     ],
     "faq": []
    },
-   "rank": 78.178,
+   "rank": 77.496,
    "image_url": "https://cdn.kudyznudy.cz/files/bb/bb333c9c-508b-4b0a-a21c-0c1098e9c442.jpg?v=20260803114717",
    "images": [
     "https://cdn.kudyznudy.cz/files/1d/1da0628c-04a1-4ee7-bb03-af79213ae188.webp?v=20260803114716",
@@ -2352,7 +2442,7 @@
     ],
     "faq": []
    },
-   "rank": 69.491,
+   "rank": 68.885,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/olk.jpg"
   },
   {
@@ -2367,8 +2457,8 @@
    ],
    "published_at": "2026-08-03T13:24:07.061992+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 13:24",
@@ -2414,7 +2504,7 @@
     ],
     "faq": []
    },
-   "rank": 88.635,
+   "rank": 87.854,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/_dsf5234_o._kaiser_l_260529-092811_kro.jpg",
    "video": {
     "kind": "iframe",
@@ -2474,7 +2564,7 @@
     ],
     "faq": []
    },
-   "rank": 68.251,
+   "rank": 67.645,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-6-rok-2025/posli-akrtovku-dal-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-6-rok-2025/posli-akrtovku-dal-475.jpg",
@@ -2496,8 +2586,8 @@
    ],
    "published_at": "2026-08-03T12:22:58.220707+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 12:22",
@@ -2547,7 +2637,7 @@
     ],
     "faq": []
    },
-   "rank": 76.123,
+   "rank": 75.441,
    "image_url": "https://1gr.cz/tempimg/fb/2019/6/KHA7c4f45_5c469f8d273b48ba9e99c9802e406320_0.jpg",
    "images": [
     "https://1gr.cz/u/n4/catchbox/pocasi-bnr3.png",
@@ -2645,7 +2735,7 @@
      }
     ]
    },
-   "rank": 72.013,
+   "rank": 71.362,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-066965987_260803-063655_brz.jpg"
   },
   {
@@ -2660,8 +2750,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -2723,7 +2813,7 @@
      }
     ]
    },
-   "rank": 84.664,
+   "rank": 83.891,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -2757,8 +2847,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -2818,7 +2908,7 @@
      }
     ]
    },
-   "rank": 78.854,
+   "rank": 78.134,
    "image_url": "https://www.prazskypatriot.cz/data/images/praha-4-opatreni-proti-vedru.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/zoo7/komentovana-setkan-475.jpg",
@@ -2841,8 +2931,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -2908,7 +2998,7 @@
      }
     ]
    },
-   "rank": 105.415,
+   "rank": 104.452,
    "sources": [
     {
      "domain": "reflex.cz",
@@ -3011,7 +3101,7 @@
      }
     ]
    },
-   "rank": 88.932,
+   "rank": 88.113,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/2026-8-3-931Zajisteny-exemplar-2.jpg"
   },
   {
@@ -3078,7 +3168,7 @@
      }
     ]
    },
-   "rank": 83.991,
+   "rank": 83.218,
    "sources": [
     {
      "domain": "metro.cz",
@@ -3103,8 +3193,8 @@
    ],
    "published_at": "2026-08-03T10:15:35.616239+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 10:15",
@@ -3178,7 +3268,7 @@
      }
     ]
    },
-   "rank": 73.364,
+   "rank": 72.681,
    "sources": [
     {
      "domain": "romea.cz",
@@ -3201,8 +3291,8 @@
    ],
    "published_at": "2026-08-03T10:15:35.616239+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 10:15",
@@ -3254,7 +3344,7 @@
      }
     ]
    },
-   "rank": 45.498,
+   "rank": 45.075,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/11.jpg"
   },
   {
@@ -3352,7 +3442,7 @@
      }
     ]
    },
-   "rank": 79.963,
+   "rank": 79.198,
    "image_url": "https://www.prazskypatriot.cz/data/images/letni-kino-na-fontane-strizkov.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -3458,7 +3548,7 @@
      }
     ]
    },
-   "rank": 92.631,
+   "rank": 91.744,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -3486,8 +3576,8 @@
    ],
    "published_at": "2026-08-03T08:04:30.361617+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 08:04",
@@ -3557,7 +3647,7 @@
      }
     ]
    },
-   "rank": 82.277,
+   "rank": 81.481,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/03340241.jpeg"
   },
   {
@@ -3572,8 +3662,8 @@
    ],
    "published_at": "2026-08-03T07:33:04.640673+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 07:33",
@@ -3653,7 +3743,7 @@
      }
     ]
    },
-   "rank": 73.723,
+   "rank": 73.002,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/265/265dadf6-088b-4870-bd2b-4fa2dfad1589.jpeg",
    "images": [
     "https://www.denik.cz/images/api/image/484x645/730/730e6f3f-3908-4f98-af7f-5fd648c71913.webp",
@@ -3671,8 +3761,8 @@
    ],
    "published_at": "2026-08-03T07:33:04.640673+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 07:33",
@@ -3748,7 +3838,7 @@
      }
     ]
    },
-   "rank": 93.123,
+   "rank": 92.214,
    "image_url": "https://i3.cn.cz/16/1751556882_P2025070306384.jpg",
    "images": [
     "https://i3.cn.cz/2/1785598072_P2026080103745.jpg",
@@ -3770,8 +3860,8 @@
    ],
    "published_at": "2026-08-03T06:31:49.495970+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 06:31",
@@ -3821,7 +3911,7 @@
      }
     ]
    },
-   "rank": 83.741,
+   "rank": 82.907,
    "sources": [
     {
      "domain": "info.cz",
@@ -3848,8 +3938,8 @@
    ],
    "published_at": "2026-08-03T06:31:49.495970+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 06:31",
@@ -3901,7 +3991,7 @@
      }
     ]
    },
-   "rank": 76.128,
+   "rank": 75.37,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/24/csm_auta_008_cce2c12619.jpg"
   },
   {
@@ -3916,8 +4006,8 @@
    ],
    "published_at": "2026-08-03T06:31:49.495970+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "3 августа 2026, 06:31",
@@ -3991,7 +4081,7 @@
      }
     ]
    },
-   "rank": 72.322,
+   "rank": 71.602,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QI_z/WG8BPi.mpo?fl=cro,0,125,2400,1350%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4071,7 +4161,7 @@
      }
     ]
    },
-   "rank": 68.113,
+   "rank": 67.412,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -4159,7 +4249,7 @@
      }
     ]
    },
-   "rank": 66.295,
+   "rank": 65.613,
    "sources": [
     {
      "domain": "zdarsky.denik.cz",
@@ -4262,7 +4352,7 @@
      }
     ]
    },
-   "rank": 43.981,
+   "rank": 43.518,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-154044_jkd.jpeg"
   },
   {
@@ -4276,8 +4366,8 @@
    ],
    "published_at": "2026-08-03T02:04:28.147245+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "3 августа 2026, 02:04",
@@ -4349,7 +4439,7 @@
      }
     ]
    },
-   "rank": 48.784,
+   "rank": 48.254,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-175637_jkd.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260802-175638_jkd.jpeg?itok=ziN4p0VV"
@@ -4434,7 +4524,7 @@
      }
     ]
    },
-   "rank": 68.909,
+   "rank": 68.151,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/16284e7133d1a1e7dff986ddafd920b6.jpg"
   },
   {
@@ -4520,7 +4610,7 @@
      }
     ]
    },
-   "rank": 76.284,
+   "rank": 75.435,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -4634,7 +4724,7 @@
      }
     ]
    },
-   "rank": 71.351,
+   "rank": 70.557,
    "sources": [
     {
      "domain": "denik.cz",
@@ -4739,7 +4829,7 @@
      }
     ]
    },
-   "rank": 74.073,
+   "rank": 73.239,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-111811901_260802-174000_jva.jpg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/banknote-design-prop_260802-174817_jva.jpg?itok=gfEV0Tj_",
@@ -4794,7 +4884,7 @@
     ],
     "faq": []
    },
-   "rank": 49.337,
+   "rank": 48.769,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/3dea6a682b7518e00c34aeab961caceb.jpg"
   },
   {
@@ -4854,7 +4944,7 @@
     ],
     "faq": []
    },
-   "rank": 64.237,
+   "rank": 63.479,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-001279474_191202-073052_pj.jpg",
    "video": {
     "kind": "iframe",
@@ -4920,7 +5010,7 @@
     ],
     "faq": []
    },
-   "rank": 67.449,
+   "rank": 66.653,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/833/8339bc8a-287a-4d61-90bd-00a3a9df1744.jpeg"
   },
   {
@@ -4980,7 +5070,7 @@
     ],
     "faq": []
    },
-   "rank": 59.419,
+   "rank": 58.718,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-004024961_171109-122432_haf.jpg"
   },
   {
@@ -5036,7 +5126,7 @@
     ],
     "faq": []
    },
-   "rank": 47.052,
+   "rank": 46.483,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260701-221810_mkv_0.jpeg"
   },
   {
@@ -5086,7 +5176,7 @@
     ],
     "faq": []
    },
-   "rank": 55.106,
+   "rank": 54.423,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/politicke-strany/piratska-kapela-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/politicke-strany/piratska-kapela-475.jpg",
@@ -5150,7 +5240,7 @@
     ],
     "faq": []
    },
-   "rank": 45.921,
+   "rank": 45.353,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv1_9826_210728-141229_vlf.jpg"
   },
   {
@@ -5218,7 +5308,7 @@
     ],
     "faq": []
    },
-   "rank": 59.168,
+   "rank": 58.418,
    "image_url": "https://i.iinfo.cz/images/550/cleveland-clinic.png"
   },
   {
@@ -5274,7 +5364,7 @@
     ],
     "faq": []
    },
-   "rank": 58.213,
+   "rank": 57.455,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_oW_A/nO1SBfAluiBtfltg1CRHJ62/b6bb.jpeg?fl=cro,0,304,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5333,7 +5423,7 @@
     ],
     "faq": []
    },
-   "rank": 48.218,
+   "rank": 47.574,
    "image_url": "https://cdn.kudyznudy.cz/files/c0/c089046b-d50e-440a-8703-fc0fd76dec01.jpg?v=20250224182504",
    "images": [
     "https://cdn.kudyznudy.cz/files/da/daba1258-7c9b-4150-a3e2-5ea7bfedd461.webp?v=20250831133648",
@@ -5397,7 +5487,7 @@
     ],
     "faq": []
    },
-   "rank": 65.236,
+   "rank": 64.364,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/f0b/f0bab881-cc9f-4197-8b69-007d5aafa470.jpeg"
   },
   {
@@ -5482,7 +5572,7 @@
      }
     ]
    },
-   "rank": 46.89,
+   "rank": 46.246,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -5592,7 +5682,7 @@
      }
     ]
    },
-   "rank": 50.959,
+   "rank": 50.239,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/DYN77f5b812d8_brouci_polnika_jasanoveho.jpg"
   },
   {
@@ -5700,7 +5790,7 @@
      }
     ]
    },
-   "rank": 39.079,
+   "rank": 38.51,
    "image_url": "https://cdn.kudyznudy.cz/files/43/436c75ba-2486-4efb-bdc1-e86095f8e5fb.jpg?v=20250425132024",
    "images": [
     "https://cdn.kudyznudy.cz/files/20/20288993-a4bb-49ff-ab25-83df2cd2dc7c.webp?v=20221013071624",
@@ -5797,7 +5887,7 @@
      }
     ]
    },
-   "rank": 41.684,
+   "rank": 41.077,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/ai-turn-off-mvp.jpg"
   },
   {
@@ -5878,7 +5968,7 @@
      }
     ]
    },
-   "rank": 52.105,
+   "rank": 51.347,
    "sources": [
     {
      "domain": "tenisportal.cz",
@@ -5978,7 +6068,7 @@
      }
     ]
    },
-   "rank": 47.975,
+   "rank": 47.255,
    "image_url": "https://cdn.kudyznudy.cz/files/b5/b597d206-21e8-4421-b1d3-186e5182d6c3.jpg?v=20240419130300",
    "images": [
     "https://cdn.kudyznudy.cz/files/e0/e0a4b9e8-dcd0-4d23-8653-da9ccd3690fe.webp?v=20240419130911",
@@ -6062,7 +6152,7 @@
      }
     ]
    },
-   "rank": 28.266,
+   "rank": 27.842,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/4d7/4d7ecfca-fd3a-40a0-94b1-45e89ece4706.jpeg"
   },
   {
@@ -6155,7 +6245,7 @@
      }
     ]
    },
-   "rank": 58.075,
+   "rank": 57.203,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260725_215313_260802-110557_jkd.jpg"
   },
   {
@@ -6241,7 +6331,7 @@
      }
     ]
    },
-   "rank": 46.478,
+   "rank": 45.758,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-064048225_230504-214504_ara.jpg"
   },
   {
@@ -6315,7 +6405,7 @@
      }
     ]
    },
-   "rank": 33.024,
+   "rank": 32.512,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/luxfer.jpg"
   },
   {
@@ -6393,7 +6483,7 @@
      }
     ]
    },
-   "rank": 49.781,
+   "rank": 48.985,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/nahled.jpg",
    "video": {
     "kind": "iframe",
@@ -6492,7 +6582,7 @@
      }
     ]
    },
-   "rank": 50.536,
+   "rank": 49.702,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/1d1/1d14e826-b89a-49a2-9c98-087f255cb140.jpeg"
   },
   {
@@ -6592,7 +6682,7 @@
      }
     ]
    },
-   "rank": 47.09,
+   "rank": 46.313,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/kolove-napoje-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/01/jannis-1630x1019.jpg"
@@ -6685,7 +6775,7 @@
      }
     ]
    },
-   "rank": 47.376,
+   "rank": 46.565,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -6792,7 +6882,7 @@
      }
     ]
    },
-   "rank": 44.725,
+   "rank": 43.929,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_gW_y/TxBCr/igor-ivanko.jpeg?fl=cro,0,337,3024,1701%7Cres,1200,,1"
   },
   {
@@ -6877,7 +6967,7 @@
      }
     ]
    },
-   "rank": 44.725,
+   "rank": 43.929,
    "image_url": "https://cc.cz/wp-content/uploads/2026/07/martin-schmid2.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/07/equilibre-1-1630x1019.jpg"
@@ -6964,7 +7054,7 @@
      }
     ]
    },
-   "rank": 29.6,
+   "rank": 29.03,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/vys.jpg",
    "video": {
     "kind": "iframe",
@@ -7068,7 +7158,7 @@
      }
     ]
    },
-   "rank": 37.395,
+   "rank": 36.675,
    "sources": [
     {
      "domain": "strednicechy.rozhlas.cz",
@@ -7174,7 +7264,7 @@
      }
     ]
    },
-   "rank": 24.53,
+   "rank": 24.037,
    "image_url": "https://cdn.kudyznudy.cz/files/9f/9f1e914c-da9b-41fa-b79e-5bf98de1b4e4.jpg?v=20240801090332",
    "images": [
     "https://cdn.kudyznudy.cz/files/dd/dd3ae222-a138-4c38-987d-74259e42da58.webp?v=20240801090332",
@@ -7257,7 +7347,7 @@
      }
     ]
    },
-   "rank": 33.473,
+   "rank": 32.772,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -7360,7 +7450,7 @@
      }
     ]
    },
-   "rank": 26.089,
+   "rank": 25.543,
    "sources": [
     {
      "domain": "zdarsky.denik.cz",
@@ -7461,7 +7551,7 @@
      }
     ]
    },
-   "rank": 43.426,
+   "rank": 42.517,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10647,8 +10737,8 @@
    ],
    "published_at": "2026-08-01T02:31:18.692111+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "1 августа 2026, 02:31",
@@ -15604,8 +15694,8 @@
    ],
    "published_at": "2026-07-31T02:18:22.851133+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 02:18",
@@ -15693,8 +15783,8 @@
    ],
    "published_at": "2026-07-31T02:18:22.851133+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "31 июля 2026, 02:18",
@@ -19254,8 +19344,8 @@
    ],
    "published_at": "2026-07-30T02:30:45.024678+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "30 июля 2026, 02:30",
@@ -19370,8 +19460,8 @@
    ],
    "published_at": "2026-07-30T02:10:48.097281+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "30 июля 2026, 02:10",
@@ -21213,81 +21303,6 @@
    },
    "rank": 38.5,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/zuj_6743_250401-113317_zuj.jpg"
-  },
-  {
-   "id": "n2994",
-   "slug": "rak-legkikh-u-nekuriashchikh-i-zhenshchin-v-chekhii-rastet-vrachi-nazv",
-   "source": "denik.cz",
-   "original_url": "https://www.denik.cz/zdravotnictvi/rakovina-plic-nekuraci-hlavni-priciny/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zdravotnictvi",
-   "top": false,
-   "tags": [
-    "zdorovie",
-    "cesko"
-   ],
-   "published_at": "2026-07-29T16:08:38.623689+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "29 июля 2026, 16:08",
-    "uk": "29 липня 2026, 16:08"
-   },
-   "ru": {
-    "title": "Рак легких у некурящих и женщин в Чехии растет: врачи назвали причины",
-    "lede": "Заболеваемость раком легких в Чехии меняет профиль: все чаще болезнь диагностируют у женщин и людей, никогда не куривших. Врачи объясняют это отложенным эффектом эмансипации, экологией и бытовыми факторами.",
-    "meta_description": "В Чехии растет заболеваемость раком легких у женщин и некурящих. Врачи назвали причины: курение, радиация, загрязнение воздуха, бытовая химия. Скрининг доступен",
-    "paras": [
-     "<p>В 1990-х годах рак легких в Чехии считался исключительно мужским заболеванием, но за последние десятилетия картина кардинально изменилась. У мужчин частота встречаемости этой опухоли снижается, тогда как у женщин неуклонно растет, и кривые почти сравнялись.</p>",
-     "<p>«Помимо прочего, это отложенный эффект эмансипации в курении. Тридцать лет назад женщины начали курить так же активно, как мужчины, и теперь этот эффект нас настигает», объяснила на пресс-конференции «Генетика меняет лечение рака легких» заведующая пульмонологической клиникой пражской больницы Fakultní Thomayerovy nemocnice Martina Koziar Vašáková.</p>",
-     "<p><b>Курение остается главной причиной</b> почти всех легочных заболеваний, но в последнее время опухоли все чаще находят у тех, кто никогда не брал в руки сигарету. «До 20 процентов пациентов с раком легких никогда не курили. Среди некурящих с этим диагнозом чаще встречаются женщины», отметил председатель Чешского пульмонологического и фтизиологического общества Владимир Коближек.</p>",
-     "<p>По его словам, у некурящих к развитию рака легких ведут три основных пути: уже имеющееся другое легочное заболевание, которое часто предшествует раку; генетическая предрасположенность; нездоровая среда, в которой человек живет или работает долгое время.</p>",
-     "<h3>Экологические и бытовые риски</h3>",
-     "<p>Рискованная среда - это не только пассивное курение, но и вдыхание частиц на рабочих местах и в жилье. «Воздействию мелких частиц подвержены люди, работающие в тяжелой промышленности, на транспорте или химических производствах. Большую опасность представляет также повышенная концентрация радона в некоторых домах и загрязненный воздух. Взвешенные частицы действуют как переносчики различных веществ - от пыльцы до канцерогенов, доставляя их прямо в легкие», описал Коближек.</p>",
-     "<p><b>Радон - вторая по значимости причина рака легких после курения.</b> «Чешская Республика имеет одни из самых высоких концентраций радона в зданиях в мире. Риск неодинаков по регионам, он зависит от геологических свойств подстилающих пород - концентрации радона и проницаемости для газов», сообщает Государственный институт радиационной защиты. Коближек добавляет, что радон в восемь раз ускоряет вредный эффект курения.</p>",
-     "<p>По данным Европейского агентства по окружающей среде, Чехия входит в первую треть самых загрязненных стран Европы. Большая часть территории страны загрязнена сильнее, чем, например, США, которые принято считать страной с грязным воздухом. Исключение составляют лишь некоторые районы вроде Шумавы или Крконош.</p>",
-     "<p><b>Почему среди некурящих с раком легких преобладают женщины?</b> По оценкам, они составляют до двух третей таких пациентов. По мнению Коближека, причина - в том, что женщины чаще готовят, жарят, фритюрят и убираются. «Женщины просто больше работают с вредными веществами. Больше варят, вдыхают пары при жарке, от топки печей, работают с химией при уборке, поднимают больше частиц пыли», пояснил профессор.</p>",
-     "<p>Рак легких часто обнаруживают поздно, потому что некурящие уверены, что эта болезнь им не грозит, а симптомы неспецифичны. Пациентка проф. Козиар Вашаковой, госпожа Патриция, рассказала: «У меня начался слабый кашель, который постепенно усиливался. А в отпуске в Доломитах я стала немного задыхаться. Я не придала этому значения, и через полгода оказалась с раком легких четвертой стадии». Ее спасло целенаправленное биологическое лечение, сейчас болезнь в ремиссии.</p>",
-     "<h3>Электронные сигареты - не безопасная альтернатива</h3>",
-     "<p>Мария Дрёсслерова из пульмонологического отделения Thomayerovy nemocnice предупреждает: вера в менее вредные альтернативы курению обманчива. «В электронных сигаретах не происходит горения табака - это существенное отличие от обычных. Однако долгосрочные данные об их влиянии на здоровье отсутствуют. Нельзя утверждать, что они безопаснее», заявила она. Кроме того, известны опыты на мышах, подвергавшихся вейпингу: у них возникали генетические изменения и воспаления.</p>",
-     "<h3>Профилактика и скрининг</h3>",
-     "<p>Основной совет - бросить курить. По словам врачей, если бы все курильщики отказались от сигарет, заболеваемость раком легких снизилась бы в десять раз. Один из самых эффективных инструментов раннего выявления - скрининговая программа рака легких, доступная в Чехии с 2022 года. Она предназначена для людей 55-74 лет с повышенным риском, то есть для нынешних и бывших курильщиков.</p>",
-     "<p>«Скрининг имеет смысл именно для тех, у кого нет жалоб. В этом его принцип - обнаружить опухоль в тот момент, когда она еще не дает о себе знать. Для пациента это шанс решить проблему вовремя, часто гораздо более простым способом», пояснила Мария Дрёсслерова.</p>",
-     "<p>Мартина Коziar Vašáková также рекомендовала установить приложение „EZ karta“(развившееся из приложения „Tečka“времен ковида). «Люди найдут там оплачиваемые скрининги, профилактические осмотры, информацию о том, как часто и куда им нужно ходить, и много других сведений», сказала она.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Рак легенів у некурців і жінок у Чехії зростає: лікарі назвали причини",
-    "lede": "Захворюваність на рак легенів у Чехії змінює профіль: дедалі частіше хворобу діагностують у жінок і людей, які ніколи не курили. Лікарі пояснюють це відкладеним ефектом емансипації, екологією та побутовими факторами.",
-    "meta_description": "У Чехії зростає захворюваність на рак легенів у жінок і некурців. Лікарі назвали причини: куріння, радіація, забруднення повітря, побутова хімія. Скринінг досту",
-    "paras": [
-     "<p>У 1990-х роках рак легенів у Чехії вважався виключно чоловічим захворюванням, але за останні десятиліття картина кардинально змінилася. У чоловіків частота виявлення цієї пухлини знижується, тоді як у жінок неухильно зростає, і криві майже зрівнялися.</p>",
-     "<p>«Окрім іншого, це відкладений ефект емансипації в курінні. Тридцять років тому жінки почали курити так само активно, як чоловіки, і тепер цей ефект нас наздоганяє», пояснила на прес-конференції «Генетика змінює лікування раку легенів» завідувачка пульмонологічної клініки празької лікарні Fakultní Thomayerovy nemocnice Martina Koziar Vašáková.</p>",
-     "<p><b>Куріння залишається головною причиною</b> майже всіх легеневих захворювань, але останнім часом пухлини все частіше знаходять у тих, хто ніколи не брав до рук сигарету. «До 20 відсотків пацієнтів із раком легенів ніколи не курили. Серед некурців із цим діагнозом частіше трапляються жінки», зазначив голова Чеського пульмонологічного та фтизіологічного товариства Vladimír Koblížek.</p>",
-     "<p>За його словами, у некурців до розвитку раку легенів ведуть три основні шляхи: вже наявне інше легеневе захворювання, яке часто передує раку; генетична схильність; нездорове середовище, в якому людина живе або працює тривалий час.</p>",
-     "<h3>Екологічні та побутові ризики</h3>",
-     "<p>Ризиковане середовище - це не лише пасивне куріння, але й вдихання частинок на робочих місцях та у житлі. «Впливу дрібних частинок піддаються люди, які працюють у важкій промисловості, на транспорті або хімічних виробництвах. Велику небезпеку становить також підвищена концентрація радону в деяких будинках та забруднене повітря. Зважені частинки діють як переносники різних речовин - від пилку до канцерогенів, доставляючи їх прямо в легені», описав Koblížek.</p>",
-     "<p><b>Радон - друга за значущістю причина раку легенів після куріння.</b> «Чеська Республіка має одні з найвищих концентрацій радону в будівлях у світі. Ризик неоднаковий за регіонами, він залежить від геологічних властивостей підстилаючих порід - концентрації радону та проникності для газів», повідомляє Державний інститут радіаційного захисту. Koblížek додає, що радон у вісім разів прискорює шкідливий ефект куріння.</p>",
-     "<p>За даними Європейського агентства з навколишнього середовища, Чехія входить до першої третини найзабрудненіших країн Європи. Більша частина території країни забруднена сильніше, ніж, наприклад, США, які прийнято вважати країною з брудним повітрям. Виняток становлять лише деякі райони на кшталт Шумави або Крконошів.</p>",
-     "<p><b>Чому серед некурців із раком легенів переважають жінки?</b> За оцінками, вони становлять до двох третин таких пацієнтів. На думку Koblížka, причина в тому, що жінки частіше готують, смажать, фритюрять і прибирають. «Жінки просто більше працюють зі шкідливими речовинами. Більше варять, вдихають пару під час смаження, від топки печей, працюють з хімією під час прибирання, піднімають більше частинок пилу», пояснив професор.</p>",
-     "<p>Рак легенів часто виявляють пізно, тому що некурці впевнені, що ця хвороба їм не загрожує, а симптоми неспецифічні. Пацієнтка проф. Martiny Koziar Vašákové, пані Patrícia, розповіла: «У мене почався слабкий кашель, який поступово посилювався. А у відпустці в Доломітах я почала трохи задихатися. Я не надала цьому значення, і через пів року опинилася з раком легенів четвертої стадії». Її врятувало цілеспрямоване біологічне лікування, зараз хвороба в ремісії.</p>",
-     "<h3>Електронні сигарети - не безпечна альтернатива</h3>",
-     "<p>Marie Drösslerová з пульмонологічного відділення Thomayerovy nemocnice попереджає: віра в менш шкідливі альтернативи курінню оманлива. «В електронних сигаретах не відбувається горіння тютюну - це суттєва відмінність від звичайних. Однак довгострокові дані про їхній вплив на здоров’я відсутні. Не можна стверджувати, що вони безпечніші», заявила вона. Крім того, відомі досліди на мишах, які піддавалися вейпінгу: у них виникали генетичні зміни та запалення.</p>",
-     "<h3>Профілактика та скринінг</h3>",
-     "<p>Основна порада - кинути палити. За словами лікарів, якби всі курці відмовилися від сигарет, захворюваність на рак легенів знизилася б у десять разів. Один із найефективніших інструментів раннього виявлення - скринінгова програма раку легенів, доступна в Чехії з 2022 року. Вона призначена для людей 55-74 років із підвищеним ризиком, тобто для теперішніх і колишніх курців.</p>",
-     "<p>«Скринінг має сенс саме для тих, у кого немає скарг. У цьому його принцип - виявити пухлину в той момент, коли вона ще не дає про себе знати. Для пацієнта це шанс вирішити проблему вчасно, часто набагато простішим способом», пояснила Marie Drösslerová.</p>",
-     "<p>Martina Koziar Vašáková також рекомендувала встановити додаток „EZ karta“(що розвинувся з додатку „Tečka“часів ковіду). «Люди знайдуть там оплачувані скринінги, профілактичні огляди, інформацію про те, як часто і куди їм потрібно ходити, і багато інших відомостей», сказала вона.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 42.0,
-   "image_url": "https://www.denik.cz/images/api/image/1366x910/5e4/5e48d598-dc54-453a-a3e2-041fd9c13776.jpeg",
-   "images": [
-    "https://www.denik.cz/images/api/image/640x426/351/351d3e5f-5b99-4844-bbda-c33cfc93f9f0.webp",
-    "https://www.denik.cz/images/api/image/640x426/580/58023c60-0bf3-420d-8f59-145e88f57a59.webp",
-    "https://www.denik.cz/images/api/image/640x480/6d4/6d41ec00-4ffa-40ec-aa1c-428cb5808ebb.webp"
-   ]
   }
  ]
 }
