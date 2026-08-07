@@ -1,8 +1,90 @@
 {
- "updated_at": "2026-08-07T04:48:06+00:00",
+ "updated_at": "2026-08-07T05:23:14+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3453",
+   "slug": "superdavka-v-chekhii-klienty-sotszhilia-mogut-poteriat-zhile",
+   "source": "irozhlas.cz",
+   "original_url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/superdavku-dostavaji-primo-klienti-v-socialnim-bydleni-hrozi-ze-o-nej-prijdou_2608070630_rec",
+   "top": false,
+   "tags": [
+    "cesko",
+    "ekonomika"
+   ],
+   "published_at": "2026-08-07T07:23:14.038147+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "7 августа 2026, 07:23",
+    "uk": "7 серпня 2026, 07:23"
+   },
+   "ru": {
+    "title": "Superdávka в Чехии: клиенты соцжилья могут потерять жилье",
+    "lede": "Некоммерческие организации в крае Moravsklezský предупреждают: из-за технических проблем с выплатами superdávka люди в социальном жилье могут остаться без крова. С августа пособия поступают напрямую клиентам, а не организациям, предоставляющим жилье.",
+    "meta_description": "Из-за технического сбоя в системе superdávka клиенты социального жилья в Чехии рискуют остаться без жилья. НКО бьют тревогу, министерство обещает решить проблем",
+    "paras": [
+     "<p>Как сообщает iROZHLAS, некоммерческие организации в крае Moravsklezský бьют тревогу: после перехода на новую систему социальных выплат superdávka их подопечные рискуют остаться без жилья. Причина в технических ограничениях приложения Jenda, которое не умеет переводить деньги за аренду напрямую организациям, предоставляющим социальное жилье.</p>",
+     "<p>С августа пособия начали поступать непосредственно на счета клиентов. Социальные работники опасаются, что люди, не привыкшие планировать бюджет, потратят деньги раньше, чем заплатят за квартиру.</p>",
+     "<h3>Приложение Jenda не справляется</h3>",
+     "<p>По словам сотрудника Centra sociální rehabilitace в городе Havířov Lukáše Staněka, раньше можно было договориться о том, чтобы пособие приходило организации, но теперь система дает сбой.</p>",
+     "<blockquote>Сейчас это будет большая проблема. Если сумма на жилье не поступит, люди могут его потерять.</blockquote>",
+     "<p>Так прокомментировал ситуацию для Český rozhlas Ostrava Lukáš Staněk. Он ежедневно работает с людьми, которые не умеют распоряжаться деньгами.</p>",
+     "<p>Директор spolku Portavita David Starzyczný подтверждает: приложение Jenda пока не позволяет направлять средства напрямую организации. «Для нас это огромный риск. Если клиенты получат деньги на счет, у них может не быть достаточной мотивации заплатить за аренду», говорит он.</p>",
+     "<p>В Portavita договоры субаренды заключаются на срок от одного до трех месяцев. Если организация не продлевает договор, жилец должен освободить квартиру.</p>",
+     "<p>Руководитель превентивных программ Armády spásy Marcela Stryjová приводит примеры: люди получили деньги на счет и заплатили вместо аренды другой, более срочный долг.</p>",
+     "<blockquote>Мы потом решаем, что случилось, и предлагаем рассрочку, но только на один месяц аренды, потому что мы некоммерческая организация.</blockquote>",
+     "<h3>Что обещает министерство</h3>",
+     "<p>В Ministerstvo práce a sociálních věcí заявляют, что возможность прямой оплаты расходов на жилье в системе superdávka сохранена. Сейчас идут интенсивные работы над техническим решением, его запуск ожидается в ближайшее время.</p>",
+     "<p>В городе Havířov центр социальной реабилитации помогает 600 людям.</p>"
+    ],
+    "faq": [
+     {
+      "q": "В чем проблема с выплатами superdávka для жителей социального жилья?",
+      "a": "Приложение Jenda не позволяет переводить деньги на аренду напрямую организации-посреднику, поэтому средства приходят клиентам на счета, и есть риск, что они потратят их на другие нужды."
+     },
+     {
+      "q": "Что отвечает министерство на жалобы НКО?",
+      "a": "Ministerstvo práce a sociálních věcí заявляет, что функция прямой оплаты жилья предусмотрена в системе superdávka, и сейчас ведется работа над техническим запуском этого решения."
+     }
+    ]
+   },
+   "uk": {
+    "title": "Superdávka в Чехії: клієнти соцжитла можуть залишитися без даху над головою",
+    "lede": "Некомерційні організації в краї Moravsklezský попереджають: через технічні проблеми з виплатами superdávka люди в соціальному житлі ризикують втратити помешкання. З серпня допомога надходить безпосередньо клієнтам, а не організаціям, що надають житло.",
+    "meta_description": "Через технічний збій у системі superdávka клієнти соціального житла в Чехії ризикують залишитися без помешкання. НКО б'ють на сполох, міністерство обіцяє виріши",
+    "paras": [
+     "<p>Як повідомляє iROZHLAS, некомерційні організації в краї Moravsklezský б'ють на сполох: після переходу на нову систему соціальних виплат superdávka їхні підопічні ризикують залишитися без житла. Причина в технічних обмеженнях застосунку Jenda, який не вміє переказувати гроші за оренду напряму організаціям, що надають соціальне житло.</p>",
+     "<p>З серпня допомога почала надходити безпосередньо на рахунки клієнтів. Соціальні працівники бояться, що люди, які не звикли планувати бюджет, витратять кошти раніше, ніж заплатять за квартиру.</p>",
+     "<h3>Застосунок Jenda не справляється</h3>",
+     "<p>За словами співробітника Centra sociální rehabilitace в місті Havířov Lukáše Staněka, раніше можна було домовитися про те, щоб допомога приходила організації, але тепер система дає збій.</p>",
+     "<blockquote>Зараз це буде велика проблема. Якщо сума на житло не надійде, люди можуть його втратити.</blockquote>",
+     "<p>Так прокоментував ситуацію для Český rozhlas Ostrava Lukáš Staněk. Він щодня працює з людьми, які не вміють розпоряджатися грошима.</p>",
+     "<p>Директор spolku Portavita David Starzyczný підтверджує: застосунок Jenda поки не дозволяє направляти кошти напряму організації. «Для нас це величезний ризик. Якщо клієнти отримають гроші на рахунок, у них може не бути достатньої мотивації заплатити за оренду», каже він.</p>",
+     "<p>У Portavita договори суборенди укладаються на термін від одного до трьох місяців. Якщо організація не продовжує договір, мешканець має звільнити квартиру.</p>",
+     "<p>Керівниця превентивних програм Armády spásy Marcela Stryjová наводить приклади: люди отримали гроші на рахунок і заплатили замість оренди інший, більш терміновий борг.</p>",
+     "<blockquote>Ми потім з'ясовуємо, що сталося, і пропонуємо розстрочку, але тільки на один місяць оренди, тому що ми некомерційна організація.</blockquote>",
+     "<h3>Що обіцяє міністерство</h3>",
+     "<p>У Ministerstvo práce a sociálních věcí заявляють, що можливість прямої оплати витрат на житло в системі superdávka збережена. Зараз тривають інтенсивні роботи над технічним рішенням, його запуск очікують найближчим часом.</p>",
+     "<p>У місті Havířov центр соціальної реабілітації допомагає 600 людям.</p>"
+    ],
+    "faq": [
+     {
+      "q": "У чому проблема з виплатами superdávka для мешканців соціального житла?",
+      "a": "Застосунок Jenda не дозволяє переказувати гроші на оренду напряму організації-посереднику, тому кошти приходять клієнтам на рахунки, і є ризик, що вони витратять їх на інші потреби."
+     },
+     {
+      "q": "Що відповідає міністерство на скарги НКО?",
+      "a": "Ministerstvo práce a sociálních věcí заявляє, що функція прямої оплати житла передбачена в системі superdávka, і зараз триває робота над технічним запуском цього рішення."
+     }
+    ]
+   },
+   "rank": 95.0,
+   "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-072241373_250312-112246_hof.jpg"
+  },
   {
    "id": "n3452",
    "slug": "228-340-golov-v-nizshikh-ligakh-chekhii-kto-zabil-bolshe-vsekh",
@@ -15,8 +97,8 @@
    ],
    "published_at": "2026-08-07T06:48:05.546462+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "35 минут назад",
+    "uk": "35 хвилин тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:48",
@@ -113,8 +195,8 @@
    ],
    "published_at": "2026-08-07T06:48:05.546462+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "35 минут назад",
+    "uk": "35 хвилин тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:48",
@@ -191,8 +273,8 @@
    ],
    "published_at": "2026-08-07T06:48:05.546462+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "35 минут назад",
+    "uk": "35 хвилин тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:48",
@@ -285,8 +367,8 @@
    ],
    "published_at": "2026-08-07T06:16:51.134179+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:16",
@@ -387,8 +469,8 @@
    ],
    "published_at": "2026-08-07T06:16:51.134179+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:16",
@@ -485,8 +567,8 @@
    ],
    "published_at": "2026-08-07T05:10:52.876141+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "7 августа 2026, 05:10",
@@ -652,7 +734,7 @@
      }
     ]
    },
-   "rank": 86.447,
+   "rank": 85.703,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -689,8 +771,8 @@
    ],
    "published_at": "2026-08-07T02:03:27.618641+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 02:03",
@@ -750,7 +832,7 @@
      }
     ]
    },
-   "rank": 109.178,
+   "rank": 108.231,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -781,8 +863,8 @@
    ],
    "published_at": "2026-08-07T00:55:52.725680+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 00:55",
@@ -862,7 +944,7 @@
      }
     ]
    },
-   "rank": 107.836,
+   "rank": 106.884,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/33e4cc96db232d42b93100a44715d259.jpg"
   },
   {
@@ -877,8 +959,8 @@
    ],
    "published_at": "2026-08-07T00:55:52.725680+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 00:55",
@@ -952,7 +1034,7 @@
      }
     ]
    },
-   "rank": 95.854,
+   "rank": 95.008,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1062,7 +1144,7 @@
      }
     ]
    },
-   "rank": 99.844,
+   "rank": 98.956,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qE_A/nO573v8MsNCYTbpEGkHado7S/0842/pisek.jpeg?fl=cro,0,93,1800,1012%7Cres,1200,,1"
   },
   {
@@ -1076,8 +1158,8 @@
    ],
    "published_at": "2026-08-06T21:17:06.363569+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 21:17",
@@ -1111,7 +1193,7 @@
     ],
     "faq": []
    },
-   "rank": 55.245,
+   "rank": 54.729,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-069494251_260806-191857_jkd.jpg"
   },
   {
@@ -1126,8 +1208,8 @@
    ],
    "published_at": "2026-08-06T21:17:06.363569+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 21:17",
@@ -1169,7 +1251,7 @@
     ],
     "faq": []
    },
-   "rank": 90.587,
+   "rank": 89.741,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/vinobrani/vinobrani-na-greboce-foto-p2-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/vinobrani/vinobrani-na-greboce-foto-p2-475.jpg",
@@ -1193,8 +1275,8 @@
    ],
    "published_at": "2026-08-06T21:17:06.363569+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 21:17",
@@ -1254,7 +1336,7 @@
     ],
     "faq": []
    },
-   "rank": 104.175,
+   "rank": 103.202,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/nO2CysqjGrCP7qOBbA3HRAAW3/cdcb.jpeg?fl=cro,0,75,3500,1968%7Cres,1200,,1"
   },
   {
@@ -1303,7 +1385,7 @@
     ],
     "faq": []
    },
-   "rank": 94.085,
+   "rank": 93.197,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qC_A/kQMlcCt5zmC5zFHLdIHDnh8N/febd/railjet-ceske-drahy-vlak.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1"
   },
   {
@@ -1319,8 +1401,8 @@
    ],
    "published_at": "2026-08-06T20:06:34.340969+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 20:06",
@@ -1354,7 +1436,7 @@
     ],
     "faq": []
    },
-   "rank": 97.778,
+   "rank": 96.847,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/29b/29b617e1-6a49-4f0b-adf2-5d99cf55969b.jpeg"
   },
   {
@@ -1411,7 +1493,7 @@
     ],
     "faq": []
    },
-   "rank": 44.893,
+   "rank": 44.462,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-081414878_260729-184133_mkm.jpg"
   },
   {
@@ -1426,8 +1508,8 @@
    ],
    "published_at": "2026-08-06T18:56:23.052398+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 18:56",
@@ -1465,7 +1547,7 @@
     ],
     "faq": []
    },
-   "rank": 87.199,
+   "rank": 86.353,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/e367782a45c8e07ccf021f6c527b4aad.jpg"
   },
   {
@@ -1522,7 +1604,7 @@
     ],
     "faq": []
    },
-   "rank": 71.024,
+   "rank": 70.33,
    "forecast": true
   },
   {
@@ -1537,8 +1619,8 @@
    ],
    "published_at": "2026-08-06T18:22:34.800319+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 18:22",
@@ -1580,7 +1662,7 @@
     ],
     "faq": []
    },
-   "rank": 61.334,
+   "rank": 60.733,
    "image_url": "https://cdn.kudyznudy.cz/files/e1/e1a14a77-23e8-4ff9-99e3-ad01309926b1.jpg?v=20200827062231",
    "images": [
     "https://cdn.kudyznudy.cz/files/d1/d1dd064a-1f99-4c97-8026-41b16deb8d49.webp?v=20240807123629",
@@ -1636,7 +1718,7 @@
     ],
     "faq": []
    },
-   "rank": 81.259,
+   "rank": 80.455,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsND1brdHXpHae0AQ/a12b/easyjet-aerolinky-letecka-doprava.jpeg?fl=cro,0,286,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1651,8 +1733,8 @@
    ],
    "published_at": "2026-08-06T17:17:22.183491+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 17:17",
@@ -1698,7 +1780,7 @@
     ],
     "faq": []
    },
-   "rank": 97.538,
+   "rank": 96.565,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/32e/32ed7f33-df32-483e-9bf6-6949cb54030d.jpeg"
   },
   {
@@ -1712,8 +1794,8 @@
    ],
    "published_at": "2026-08-06T17:17:22.183491+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 17:17",
@@ -1743,7 +1825,7 @@
     ],
     "faq": []
    },
-   "rank": 84.816,
+   "rank": 83.97,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC0nqxmTuHaZomY/a5b4/chmu-teplota-rekord-pocasi.jpeg?fl=cro,0,228,2048,1152%7Cres,1200,,1%7Cwebp,75",
    "images": [
     "https://d15-a.sdn.cz/d_15/c_img_qC_A/kQMlcCt5zmUKhkDWeGzGQMz/1895/pocasi-dest-mraky.heif?fl=cro,0,424,4032,2268%7Cres,1200,,1%7Cwebp,75"
@@ -1761,8 +1843,8 @@
    ],
    "published_at": "2026-08-06T16:14:34.712975+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 16:14",
@@ -1796,7 +1878,7 @@
     ],
     "faq": []
    },
-   "rank": 83.304,
+   "rank": 82.458,
    "image_url": "https://cdn.kudyznudy.cz/files/e5/e55e0a57-245b-4b00-ba96-fec3831932ed.jpg?v=20200827063401",
    "images": [
     "https://cdn.kudyznudy.cz/files/5f/5fdaf8c9-79ee-4d3f-890a-ce5d5393c4ee.webp?v=20250805110741",
@@ -1820,8 +1902,8 @@
    ],
    "published_at": "2026-08-06T16:14:34.712975+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 16:14",
@@ -1855,7 +1937,7 @@
     ],
     "faq": []
    },
-   "rank": 87.469,
+   "rank": 86.581,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/a91/a913dfef-33be-4cc2-b654-61956de31e76.jpeg"
   },
   {
@@ -1923,7 +2005,7 @@
     ],
     "faq": []
    },
-   "rank": 78.32,
+   "rank": 77.516,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/ZUN473ac6f845_situace.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/081/vidw/ZUN4776419cfe_32_3055739822424072008_n.jpg"
@@ -1941,8 +2023,8 @@
    ],
    "published_at": "2026-08-06T15:08:34.069490+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 15:08",
@@ -1988,7 +2070,7 @@
     ],
     "faq": []
    },
-   "rank": 89.886,
+   "rank": 88.956,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/29/DSC_0181.jpg"
   },
   {
@@ -2003,8 +2085,8 @@
    ],
    "published_at": "2026-08-06T15:08:34.069490+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 15:08",
@@ -2042,7 +2124,7 @@
     ],
     "faq": []
    },
-   "rank": 90.701,
+   "rank": 89.762,
    "image_url": "https://i3.cn.cz/16/1469093940_008.jpeg"
   },
   {
@@ -2100,7 +2182,7 @@
     ],
     "faq": []
    },
-   "rank": 68.726,
+   "rank": 68.007,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/JGO7581751b57_Vysehrad3_4.8._RK_151.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/081/vidw/ANK7277520f36_223.00_02_01_08.Still001.jpg",
@@ -2172,7 +2254,7 @@
     ],
     "faq": []
    },
-   "rank": 65.492,
+   "rank": 64.806,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC6PMOminHaa8tB/26bc/skoda-peaq.jpeg?fl=cro,0,100,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2187,8 +2269,8 @@
    ],
    "published_at": "2026-08-06T14:03:36.626670+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 14:03",
@@ -2226,7 +2308,7 @@
     ],
     "faq": []
    },
-   "rank": 60.113,
+   "rank": 59.479,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/02465502.jpeg"
   },
   {
@@ -2277,7 +2359,7 @@
     ],
     "faq": []
    },
-   "rank": 59.503,
+   "rank": 58.868,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/VAN5c4020db38_gallery_image_524.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/081/cl6h/VAN5c3fbe170e_gallery_image_525.jpg",
@@ -2297,8 +2379,8 @@
    ],
    "published_at": "2026-08-06T12:22:47.006092+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 12:22",
@@ -2372,7 +2454,7 @@
      }
     ]
    },
-   "rank": 81.61,
+   "rank": 80.722,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -2395,8 +2477,8 @@
    ],
    "published_at": "2026-08-06T11:49:32.084212+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 11:49",
@@ -2470,7 +2552,7 @@
      }
     ]
    },
-   "rank": 69.231,
+   "rank": 68.47,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/d1a/d1aa5a70-704e-4774-a472-f7cfb6e0dcb2.jpeg"
   },
   {
@@ -2552,7 +2634,7 @@
      }
     ]
    },
-   "rank": 82.842,
+   "rank": 81.911,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/229/2293aac6-2a50-4ff1-9b60-4ffe8e894311.jpeg"
   },
   {
@@ -2636,7 +2718,7 @@
      }
     ]
    },
-   "rank": 79.076,
+   "rank": 78.188,
    "sources": [
     {
      "domain": "m.echo24.cz",
@@ -2660,8 +2742,8 @@
    ],
    "published_at": "2026-08-06T10:11:00.378013+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "6 августа 2026, 10:11",
@@ -2735,7 +2817,7 @@
      }
     ]
    },
-   "rank": 76.042,
+   "rank": 75.179,
    "sources": [
     {
      "domain": "metro.cz",
@@ -2774,8 +2856,8 @@
    ],
    "published_at": "2026-08-06T10:11:00.378013+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "6 августа 2026, 10:11",
@@ -2849,7 +2931,7 @@
      }
     ]
    },
-   "rank": 56.559,
+   "rank": 55.917,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/kQMlcCt5zmChFvGo3oHKkbv9/b7e0/bara-malikova-marodi.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1"
   },
   {
@@ -2945,7 +3027,7 @@
      }
     ]
    },
-   "rank": 59.739,
+   "rank": 59.054,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsND2JCbqQHZO6I1/b96c/vila-brno-pribornik-restauratori.jpeg?fl=cro,0,59,1490,838%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2960,8 +3042,8 @@
    ],
    "published_at": "2026-08-06T08:04:49.419103+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "6 августа 2026, 08:04",
@@ -3035,7 +3117,7 @@
      }
     ]
    },
-   "rank": 67.938,
+   "rank": 67.134,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNCYTbpBreHZ1jkm/be2d/graf-mapa-stupne.jpeg?fl=cro,0,0,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3050,8 +3132,8 @@
    ],
    "published_at": "2026-08-06T08:04:49.419103+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "6 августа 2026, 08:04",
@@ -3141,7 +3223,7 @@
      }
     ]
    },
-   "rank": 65.077,
+   "rank": 64.308,
    "image_url": "https://cdn.kudyznudy.cz/files/63/63c2c10a-5f6b-45ee-94ba-039c297060ad.jpg?v=20210629082238",
    "images": [
     "https://cdn.kudyznudy.cz/files/95/95090760-653f-454f-b831-2578551dc4ad.webp?v=20230128103936",
@@ -3235,7 +3317,7 @@
      }
     ]
    },
-   "rank": 70.657,
+   "rank": 69.811,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/8c0b1b9fd27ff30defd5cf484cd367ee.jpg"
   },
   {
@@ -3249,8 +3331,8 @@
    ],
    "published_at": "2026-08-06T06:54:58.796133+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "6 августа 2026, 06:54",
@@ -3324,7 +3406,7 @@
      }
     ]
    },
-   "rank": 76.815,
+   "rank": 75.885,
    "sources": [
     {
      "domain": "focuson.cz",
@@ -3348,8 +3430,8 @@
    ],
    "published_at": "2026-08-06T06:54:58.796133+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "6 августа 2026, 06:54",
@@ -3419,7 +3501,7 @@
      }
     ]
    },
-   "rank": 71.927,
+   "rank": 71.056,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -3521,7 +3603,7 @@
      }
     ]
    },
-   "rank": 72.525,
+   "rank": 71.637,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QR_x/i88Ld.jpeg?fl=cro,0,285,5472,3078%7Cres,1200,,1"
   },
   {
@@ -3623,7 +3705,7 @@
      }
     ]
    },
-   "rank": 71.705,
+   "rank": 70.817,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/0a4/0a42c287-e9ee-41f2-b956-b46da7d23dfd.jpeg"
   },
   {
@@ -3705,7 +3787,7 @@
      }
     ]
    },
-   "rank": 64.791,
+   "rank": 63.97,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -3805,7 +3887,7 @@
      }
     ]
    },
-   "rank": 72.138,
+   "rank": 71.224,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/hudba-2/quennie_2-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/hudba-2/quennie_2-475.jpg",
@@ -3890,7 +3972,7 @@
      }
     ]
    },
-   "rank": 68.76,
+   "rank": 67.847,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -3989,7 +4071,7 @@
      }
     ]
    },
-   "rank": 60.558,
+   "rank": 59.755,
    "sources": [
     {
      "domain": "jindrichohradecky.denik.cz",
@@ -4090,7 +4172,7 @@
      }
     ]
    },
-   "rank": 54.075,
+   "rank": 53.348,
    "image_url": "https://i3.cn.cz/16/1785941145_P2026080506191.jpeg",
    "images": [
     "https://i3.cn.cz/6/1785941994_P2026080506195.jpeg",
@@ -4178,7 +4260,7 @@
      }
     ]
    },
-   "rank": 69.235,
+   "rank": 68.304,
    "sources": [
     {
      "domain": "lui.cz",
@@ -4281,7 +4363,7 @@
      }
     ]
    },
-   "rank": 51.611,
+   "rank": 50.918,
    "sources": [
     {
      "domain": "metro.cz",
@@ -4400,7 +4482,7 @@
      }
     ]
    },
-   "rank": 69.538,
+   "rank": 68.591,
    "sources": [
     {
      "domain": "plus.rozhlas.cz",
@@ -4488,7 +4570,7 @@
      }
     ]
    },
-   "rank": 49.67,
+   "rank": 48.993,
    "image_url": "https://cdn.kudyznudy.cz/files/8a/8ac0d704-fc25-4362-ae5e-f19a516b3bc3.jpg?v=20200827062251",
    "images": [
     "https://cdn.kudyznudy.cz/files/c6/c61abd94-339f-4222-96fd-6e9787454a13.webp?v=20221001142739",
@@ -4595,7 +4677,7 @@
      }
     ]
    },
-   "rank": 62.863,
+   "rank": 61.996,
    "image_url": "https://cdn.kudyznudy.cz/files/92/92e901f4-c6c6-4ae1-a3ee-c2ef6ae3a2c0.jpg?v=20220722192349",
    "images": [
     "https://cdn.kudyznudy.cz/files/dd/ddf41e16-93e8-4533-88d1-da9004ed03a3.webp?v=20221013183831",
@@ -4704,7 +4786,7 @@
      }
     ]
    },
-   "rank": 61.329,
+   "rank": 60.483,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBK7ALDYuHZ0SyX/8dcc/kyberpodvod-kyberpodvodnici.jpeg?fl=cro,0,125,1400,787%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4787,7 +4869,7 @@
      }
     ]
    },
-   "rank": 45.941,
+   "rank": 45.299,
    "image_url": "https://cdn.kudyznudy.cz/files/5c/5cfd6f0f-9298-4c9c-883d-b7d432a78a6b.jpg?v=20220812102055",
    "images": [
     "https://cdn.kudyznudy.cz/files/2d/2df7d3a2-4f12-4ad1-b569-5ea9ee8142c8.webp?v=20221001045119",
@@ -4880,7 +4962,7 @@
      }
     ]
    },
-   "rank": 49.044,
+   "rank": 48.358,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0187.jpg"
   },
   {
@@ -4932,7 +5014,7 @@
     ],
     "faq": []
    },
-   "rank": 47.182,
+   "rank": 46.497,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBXDtvCWwHaDuQG/1337/volklore.jpeg?fl=cro,0,0,1400,787%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4986,7 +5068,7 @@
     ],
     "faq": []
    },
-   "rank": 59.595,
+   "rank": 58.707,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/aa-1.jpg",
    "video": {
     "kind": "iframe",
@@ -5063,7 +5145,7 @@
     ],
     "faq": []
    },
-   "rank": 48.885,
+   "rank": 48.136,
    "image_url": "https://cdn.kudyznudy.cz/files/89/890afc0f-9761-4a5c-a1c2-a7a1f7c21eae.jpg?v=20230303145459",
    "images": [
     "https://cdn.kudyznudy.cz/files/51/513aeb2b-f2e5-4668-8257-88b836554a5a.webp?v=20230303145426",
@@ -5118,7 +5200,7 @@
     ],
     "faq": []
    },
-   "rank": 51.71,
+   "rank": 50.906,
    "image_url": "https://1gr.cz/tempimg/fb/2026/6/IHA4c8945f588_103140_4189167.jpg"
   },
   {
@@ -5167,7 +5249,7 @@
     ],
     "faq": []
    },
-   "rank": 55.572,
+   "rank": 54.683,
    "image_url": "https://1gr.cz/tempimg/fb/2026/6/IHA5047b2c2ae_102806_4174706.jpg"
   },
   {
@@ -5216,7 +5298,7 @@
     ],
     "faq": []
    },
-   "rank": 34.401,
+   "rank": 33.852,
    "image_url": "https://1gr.cz/fotky/idnes/25/053/cl8/ZAR924a6392cd_hp2.webp"
   },
   {
@@ -5275,7 +5357,7 @@
     ],
     "faq": []
    },
-   "rank": 49.523,
+   "rank": 48.719,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/8a8/8a8a2b26-b963-446a-8d09-10c4263e7dda.jpeg"
   },
   {
@@ -5330,7 +5412,7 @@
     ],
     "faq": []
    },
-   "rank": 33.884,
+   "rank": 33.334,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260805-111357_brz.jpeg"
   },
   {
@@ -5376,7 +5458,7 @@
     ],
     "faq": []
    },
-   "rank": 33.372,
+   "rank": 32.822,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCpNXitYJHZ5qLp/2205/pozar-hasici-kamion.jpeg?fl=cro,0,505,898,505%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5435,7 +5517,7 @@
     ],
     "faq": []
    },
-   "rank": 30.821,
+   "rank": 30.305,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCcay5gwbHZ3uGu/bcae/skoda-kodiaq.jpeg?fl=cro,0,100,1920,1080%7Cres,1200,,1%7Cwebp,75",
    "video": {
     "kind": "iframe",
@@ -5495,7 +5577,7 @@
     ],
     "faq": []
    },
-   "rank": 53.053,
+   "rank": 52.164,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/92f/92f8ab2c-1bf9-49a1-b003-1b6a17ddf53a.jpeg"
   },
   {
@@ -5569,7 +5651,7 @@
     ],
     "faq": []
    },
-   "rank": 35.873,
+   "rank": 35.272,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oY_A/kb9Yg2GWeDwkpqydCxXnvz/6be7.jpeg?fl=cro,0,156,3000,1687%7Cres,1200,,1"
   },
   {
@@ -5627,7 +5709,7 @@
     ],
     "faq": []
    },
-   "rank": 37.759,
+   "rank": 37.116,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_m3_A/nb4N2OmYQCqUZAVIBgY1Vo/c4f2/ukrajina-valka-raketa-strela.jpeg?fl=cro,0,329,3831,2155%7Cres,1200,,1"
   },
   {
@@ -5691,7 +5773,7 @@
     ],
     "faq": []
    },
-   "rank": 59.187,
+   "rank": 58.163,
    "image_url": "https://i3.cn.cz/16/1785936096_bobr.jpg"
   },
   {
@@ -5755,7 +5837,7 @@
     ],
     "faq": []
    },
-   "rank": 48.211,
+   "rank": 47.366,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/08/05/12/16/07/acb33d18-ae3f-4be6-bbcf-69b788c0cd7f/aab5965_4f251831-jpg.jpg"
   },
   {
@@ -5811,7 +5893,7 @@
     ],
     "faq": []
    },
-   "rank": 50.622,
+   "rank": 49.734,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/2026-07-21t232316z_1_260722-084525_elev.JPG"
   },
   {
@@ -5868,7 +5950,7 @@
     ],
     "faq": []
    },
-   "rank": 44.991,
+   "rank": 44.188,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260804_162627.jpg_260805-063921_brz.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260804_163618.jpg_260805-064310_brz.jpeg?itok=glJpoYjg"
@@ -5917,7 +5999,7 @@
     ],
     "faq": []
    },
-   "rank": 24.153,
+   "rank": 23.722,
    "image_url": "https://cdn.kudyznudy.cz/files/75/757a62ca-e263-4282-88eb-71a9d067fe52.jpg?v=20200826035909",
    "images": [
     "https://cdn.kudyznudy.cz/files/7d/7d3e48b6-4fb4-4b44-9413-c5d656e2e1e5.webp?v=20221011151917",
@@ -5980,7 +6062,7 @@
     ],
     "faq": []
    },
-   "rank": 23.781,
+   "rank": 23.349,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/08/Time-Capsule-wenceslas-square.jpg",
    "images": [
     "https://praguemorning.cz/wp-content/uploads/2026/08/Time-Capsule-wenceslas-square-5.jpg",
@@ -6040,7 +6122,7 @@
     ],
     "faq": []
    },
-   "rank": 53.627,
+   "rank": 52.654,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/439/439a41ec-1b0d-4bec-b8c3-0cc9569d7d63.jpeg"
   },
   {
@@ -6103,7 +6185,7 @@
     ],
     "faq": []
    },
-   "rank": 46.632,
+   "rank": 45.786,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlJdsveEAHZX2qu/3711/gentleman-silnic-rybnik-vezna-potopene-auto-policie-hasici.jpeg?fl=cro,0,62,900,506%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6150,7 +6232,7 @@
     ],
     "faq": []
    },
-   "rank": 44.492,
+   "rank": 43.671,
    "image_url": "https://cdn.kudyznudy.cz/files/d4/d424b778-8ec0-461a-bec5-37d7a494885d.jpg?v=20240806180650",
    "images": [
     "https://cdn.kudyznudy.cz/files/38/38121a7b-0122-443e-b417-dc9babaae356.webp?v=20221001064001",
@@ -6220,7 +6302,7 @@
     ],
     "faq": []
    },
-   "rank": 45.868,
+   "rank": 45.022,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBK7ALWXHZNo6n/895c/kuplir-soud-plzen.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6274,7 +6356,7 @@
     ],
     "faq": []
    },
-   "rank": 43.575,
+   "rank": 42.771,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlJdsvhJ9HZyhgw/708c/podvod-e-mail-cak-advokat.jpeg?fl=cro,0,9,1024,576%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6324,7 +6406,7 @@
     ],
     "faq": []
    },
-   "rank": 34.908,
+   "rank": 34.253,
    "image_url": "https://cdn.kudyznudy.cz/files/9e/9e2501f5-b49e-4c34-a6d7-fd73a2b6c346.jpg?v=20230804212015",
    "images": [
     "https://cdn.kudyznudy.cz/files/2f/2fa38b17-f6bd-4cc4-be95-e61d67e0771e.webp?v=20230804212011",
@@ -6397,7 +6479,7 @@
     ],
     "faq": []
    },
-   "rank": 50.448,
+   "rank": 49.501,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/0b0/0b0f3868-c480-4889-b22e-316efdaec6b8.jpeg"
   },
   {
@@ -6445,7 +6527,7 @@
     ],
     "faq": []
    },
-   "rank": 33.202,
+   "rank": 32.567,
    "image_url": "https://cdn.kudyznudy.cz/files/4f/4f5ac002-1b55-4229-b09a-ad6c766f7d71.jpg?v=20200827054133",
    "images": [
     "https://cdn.kudyznudy.cz/files/79/792c5923-f259-449c-95c5-34f0800bb254.webp?v=20240812105747",
@@ -6523,7 +6605,7 @@
     ],
     "faq": []
    },
-   "rank": 38.064,
+   "rank": 37.337,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/589/5896aa0f-998b-4c77-bbc1-89f2ec7d87d1.jpeg"
   },
   {
@@ -6585,7 +6667,7 @@
     ],
     "faq": []
    },
-   "rank": 53.123,
+   "rank": 52.107,
    "image_url": "https://i3.cn.cz/16/1778998212_P2026051701851.jpg"
   },
   {
@@ -6644,7 +6726,7 @@
     ],
     "faq": []
    },
-   "rank": 41.323,
+   "rank": 40.519,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/ef5/ef58ef8f-64a2-4796-97e4-c202381381f7.jpeg"
   },
   {
@@ -6706,7 +6788,7 @@
     ],
     "faq": []
    },
-   "rank": 45.672,
+   "rank": 44.784,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNCpgA9ESQHYsm16/6d8f/dite-pacient-osetreni-ockovani-nemocnice.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6760,7 +6842,7 @@
     ],
     "faq": []
    },
-   "rank": 42.057,
+   "rank": 41.223,
    "image_url": "https://cdn.kudyznudy.cz/files/74/7467cefd-22bf-4e7a-b641-1581138ebfe0.jpg?v=20230823043323",
    "images": [
     "https://cdn.kudyznudy.cz/files/59/59180c00-bb9b-4710-a697-042ee8775f41.webp?v=20260805104451",
@@ -6816,7 +6898,7 @@
     ],
     "faq": []
    },
-   "rank": 44.033,
+   "rank": 43.145,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_p9_A/nCTUX1iX5bIUBB9gGDGF3U/595d/ekonomika-rust-pokles.jpeg?fl=cro,0,193,4096,2304%7Cres,1200,,1"
   },
   {
@@ -6871,7 +6953,7 @@
     ],
     "faq": []
    },
-   "rank": 43.67,
+   "rank": 42.773,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/4.jpg",
    "video": {
     "kind": "iframe",
@@ -6937,7 +7019,7 @@
     ],
     "faq": []
    },
-   "rank": 36.381,
+   "rank": 35.619,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/dfd/dfd8c16c-86f6-4f72-9c56-72e5b9fe918a.jpeg"
   },
   {
@@ -7010,7 +7092,7 @@
     ],
     "faq": []
    },
-   "rank": 42.444,
+   "rank": 41.556,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_m3_A/nPt0vAiT3tCajzRfjBxjzK9/7f58/bitcoin.jpeg?fl=cro,0,66,3283,1846%7Cres,1200,,1"
   },
   {
@@ -7060,7 +7142,7 @@
     ],
     "faq": []
    },
-   "rank": 29.8,
+   "rank": 29.166,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2025/07/DSC_3109.jpg"
   },
   {
@@ -7142,7 +7224,7 @@
      }
     ]
    },
-   "rank": 35.434,
+   "rank": 34.665,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -7259,7 +7341,7 @@
      }
     ]
    },
-   "rank": 33.394,
+   "rank": 32.669,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QR_y/2KqPB/zubar.jpeg?fl=cro,0,0,4096,2304%7Cres,1200,,1"
   },
   {
@@ -7349,7 +7431,7 @@
      }
     ]
    },
-   "rank": 36.288,
+   "rank": 35.484,
    "sources": [
     {
      "domain": "denik.cz",
@@ -7442,7 +7524,7 @@
      }
     ]
    },
-   "rank": 34.389,
+   "rank": 33.61,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -7532,7 +7614,7 @@
      }
     ]
    },
-   "rank": 41.117,
+   "rank": 40.186,
    "image_url": "https://www.prazskypatriot.cz/data/images/soul-union-festival-2026-pece-o-sebe-ktera-pomaha-druhym.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/letadla/starlux-airlines-475.jpg",
@@ -7624,7 +7706,7 @@
      }
     ]
    },
-   "rank": 37.325,
+   "rank": 36.462,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -7729,7 +7811,7 @@
      }
     ]
    },
-   "rank": 37.325,
+   "rank": 36.462,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -7844,7 +7926,7 @@
      }
     ]
    },
-   "rank": 35.876,
+   "rank": 35.03,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qE_A/kO7lxrd9zlOWhOeMNHZavIb/89f1/sucho-susice.jpeg?fl=cro,0,378,4032,2268%7Cres,1200,,1",
    "images": [
     "https://d39-a.sdn.cz/d_39/c_img_qE_A/kO7lxrd9zlCmkC5inHHZcZ7t/d234.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
@@ -7862,8 +7944,8 @@
    ],
    "published_at": "2026-08-05T06:49:42.201113+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "5 августа 2026, 06:49",
@@ -7945,7 +8027,7 @@
      }
     ]
    },
-   "rank": 26.279,
+   "rank": 26.25,
    "image_url": "https://cdn.kudyznudy.cz/files/9d/9d322deb-7839-4eaf-803d-ef28c0a5cc84.jpg?v=20260805062545",
    "images": [
     "https://cdn.kudyznudy.cz/files/78/7859e29c-07c6-409a-9f85-b387cc156e77.webp?v=20260805062551",
@@ -7968,8 +8050,8 @@
    ],
    "published_at": "2026-08-05T06:49:42.201113+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "5 августа 2026, 06:49",
@@ -8037,7 +8119,7 @@
      }
     ]
    },
-   "rank": 33.287,
+   "rank": 33.25,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/08/03/14/44/39/209073a8-f80d-4403-9cca-cb62c201d687/doctors-examining-medical-x-ray.jpg"
   },
   {
@@ -18504,8 +18586,8 @@
    ],
    "published_at": "2026-08-02T07:18:55.983678+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "2 августа 2026, 07:18",
@@ -18601,8 +18683,8 @@
    ],
    "published_at": "2026-08-02T07:18:55.983678+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "2 августа 2026, 07:18",
@@ -21850,8 +21932,8 @@
    ],
    "published_at": "2026-08-01T06:53:23.495284+02:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "1 августа 2026, 06:53",
@@ -21960,8 +22042,8 @@
    ],
    "published_at": "2026-08-01T06:53:23.495284+02:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "1 августа 2026, 06:53",
@@ -23279,69 +23361,6 @@
    },
    "rank": 33.25,
    "image_url": "https://1gr.cz/tempimg/fb/2026/7/FOH9a31c9ce70_profimedia_0220572402.jpg"
-  },
-  {
-   "id": "n3149",
-   "slug": "zaderzhan-sotrudnik-cnb-ukravshii-desiatki-millionov-kron",
-   "source": "irozhlas.cz",
-   "original_url": "https://www.irozhlas.cz/zpravy-domov/z-cnb-kradl-jeden-z-jejich-zamestnancu-zpusobil-skodu-za-desitky-milionu-uvadi_2607311816_kma",
-   "top": false,
-   "tags": [
-    "cesko",
-    "kriminal",
-    "zakon"
-   ],
-   "published_at": "2026-07-31T19:02:49.053255+02:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "31 июля 2026, 19:02",
-    "uk": "31 липня 2026, 19:02"
-   },
-   "ru": {
-    "title": "Задержан сотрудник ČNB, укравший десятки миллионов крон",
-    "lede": "Полиция задержала сотрудника České národní banky (ČNB), который, по данным криминалистов, похищал деньги из банка. Нанесенный им ущерб оценивается в десятки миллионов крон.",
-    "meta_description": "Полиция задержала сотрудника České národní banky (ČNB), подозреваемого в краже из банка десятков миллионов крон. Банк назначил внеочередной аудит.",
-    "paras": [
-     "<p>Полиция задержала сотрудника České národní banky. Как выяснили криминалисты, он похищал деньги из банка, а ущерб оценивается в десятки миллионов крон.</p>",
-     "<p>В пятницу о задержании сообщил пресс-секретарь полиции Pavel Šváb. Мужчина работал в филиале ČNB в городе Brno.</p>",
-     "<p>Finanční analytický úřad сообщил полиции о подозрительных операциях на счетах этого сотрудника примерно два месяца назад.</p>",
-     "<blockquote>«Благодаря исключительному сотрудничеству с банком удалось доказать, что, обходя внутренние правила, подозреваемый похищал из банка денежные средства»</blockquote>",
-     "<p>Pavel Šváb, пресс-секретарь полиции, сообщил об этом.</p>",
-     "<p>Самого мужчину полицейские задержали в четверг, тогда же провели один обыск в жилом помещении и три в нежилых, а криминалисты продолжают работать над возвратом похищенных денег.</p>",
-     "<h3>Реакция ČNB</h3>",
-     "<p>В ČNB заявили: инцидент не повлияет на обычную работу банка и выполнение законных задач. Меры защиты имущества приняты. Банковский совет решил начать внеочередной внутренний аудит.</p>",
-     "<blockquote>«Česká národní banka одновременно приняла меры по защите имущества. Банковский совет также решил начать внеочередной внутренний аудит, цель которого: проверить все обстоятельства дела и оценить эффективность установленных контрольных механизмов»</blockquote>",
-     "<p>Это пояснил директор отдела коммуникации ČNB Jakub Holas.</p>",
-     "<p>По данным полиции, задержанный долго работал в банковском секторе, обвиняется в краже и сотрудничает со следствием. Дело курирует Krajské státní zastupitelství v Brně, и следователь намерен просить суд о заключении его под стражу.</p>",
-     "<p>ČNB это центральный банк Чехии, учрежденный конституцией, и он отвечает за ценовую и финансовую стабильность, безопасное функционирование финансовой системы, выпускает банкноты и монеты и управляет денежным обращением.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Затримано співробітника ČNB, який украв десятки мільйонів крон",
-    "lede": "Поліція затримала працівника České národní banky (ČNB). За даними криміналістів, він викрадав гроші з банку, а збитки обчислюють десятками мільйонів крон.",
-    "meta_description": "Поліція затримала співробітника České národní banky (ČNB), якого підозрюють у крадіжці десятків мільйонів крон. Банк призначив позаплановий аудит.",
-    "paras": [
-     "<p>Поліція затримала співробітника České národní banky. Як з'ясували криміналісти, він викрадав гроші з банку. Сума збитків сягає десятків мільйонів крон.</p>",
-     "<p>У п'ятницю про затримання повідомив прессекретар поліції Pavel Šváb. Чоловік працював у філії ČNB у місті Brno.</p>",
-     "<p>Finanční analytický úřad повідомив поліцію про підозрілі операції на рахунках цього співробітника приблизно два місяці тому.</p>",
-     "<blockquote>«Завдяки винятковій співпраці з банком вдалося довести, що, обходячи внутрішні правила, підозрюваний викрадав із банку грошові кошти»</blockquote>",
-     "<p>Pavel Šváb, прессекретар поліції, повідомив про це.</p>",
-     "<p>Чоловіка поліцейські затримали в четвер. Тоді ж провели один обшук у житловому приміщенні та три в нежитлових. Криміналісти продовжують працювати над поверненням вкрадених грошей.</p>",
-     "<h3>Реакція ČNB</h3>",
-     "<p>У ČNB заявили: інцидент не вплине на звичайну роботу банку та виконання законних завдань. Заходи захисту майна вже вжито. Банківська рада вирішила розпочати позаплановий внутрішній аудит.</p>",
-     "<blockquote>«Česká národní banka одночасно вжила заходів щодо захисту майна. Банківська рада також вирішила розпочати позаплановий внутрішній аудит, мета якого: перевірити всі обставини справи та оцінити ефективність встановлених контрольних механізмів»</blockquote>",
-     "<p>Це пояснив директор відділу комунікацій ČNB Jakub Holas.</p>",
-     "<p>За даними поліції, затриманий довго працював у банківському секторі. Його звинувачують у крадіжці, він співпрацює зі слідством. Справу курирує Krajské státní zastupitelství v Brně. Слідчий має намір просити суд про взяття його під вартовий стан.</p>",
-     "<p>ČNB це центральний банк Чехії, заснований конституцією. Він відповідає за цінову та фінансову стабільність, безпечне функціонування фінансової системи, випускає банкноти й монети та керує грошовим обігом.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 38.5,
-   "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/cnb_1_200709-192009_mda.jpg"
   }
  ]
 }
