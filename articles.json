@@ -1,8 +1,83 @@
 {
- "updated_at": "2026-08-07T09:00:43+00:00",
+ "updated_at": "2026-08-07T09:18:03+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3458",
+   "slug": "nekhvatka-pitevoi-vody-v-chekhii-zhiteliam-voziat-vodu-tsisternami",
+   "source": "irozhlas.cz",
+   "original_url": "https://www.irozhlas.cz/zpravy-domov/kvuli-suchu-lide-nemaji-dost-pitne-vody-ve-studnach-u-bedlnu-pomaha-cisterna_2608071039_lhv",
+   "top": false,
+   "tags": [
+    "cesko"
+   ],
+   "published_at": "2026-08-07T11:18:02.340004+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "7 августа 2026, 11:18",
+    "uk": "7 серпня 2026, 11:18"
+   },
+   "ru": {
+    "title": "Нехватка питьевой воды в Чехии: жителям возят воду цистернами",
+    "lede": "Многолетняя засуха оставила жителей деревни Bedlno в районе Rakovnicko без воды в колодцах. Воду им привозит цистерна, арендованная у ведомства Správa státních hmotných rezerv.",
+    "meta_description": "Из-за засухи в Чехии пересыхают колодцы. Жителям деревень Bedlno и Chotěšov воду привозит цистерна, арендованная у Správa státních hmotných rezerv.",
+    "paras": [
+     "<p>Нехватка питьевой воды в Чехии становится привычной летней проблемой для небольших деревень. Как сообщает iROZHLAS, из-за многолетней засухи пересохли колодцы в деревне Bedlno рядом с Jesenice в районе Rakovnicko, и воду туда привозит цистерна, взятая в аренду у ведомства Správa státních hmotných rezerv.</p>",
+     "<p>80-летняя жительница Bedlno Karla говорит, что собственный колодец уже не спасает: «У нас есть колодец, но он высох. Это катастрофа. Ужас». Зимой воду ей приходится возить из города Kladno, где у неё квартира.</p>",
+     "<blockquote>Зимой я вожу воду из Kladna. У меня там квартира, хожу туда стирать. Вожу примерно шесть бочек и езжу каждую неделю.</blockquote>",
+     "<p>Так Karla описала свои поездки за водой. Летом местным хотя бы частично помогает цистерна на три кубометра. Каждую неделю Bedlno и соседний Chotěšov пользуются ею по очереди.</p>",
+     "<p>Karla рассказала, что держит запас воды прикрытым плёнкой, чтобы он не нагревался: после мытья посуды остатками поливает сад и использует их для смыва.</p>",
+     "<h3>Нехватка питьевой воды в Чехии: почему пересыхают колодцы</h3>",
+     "<p>Bedlno официально относится к общине Jesenice. Её староста Jan Polák объясняет, что регион Jesenicko лежит в дождевой тени Krušné hory, а грунт в Bedlno и Chotěšov не идеален для колодцев. Поэтому община Jesenice уже несколько лет подряд на лето арендует цистерну с питьевой водой.</p>",
+     "<p>Технику общинам предоставляет Správa státních hmotných rezerv. По словам председателя ведомства Pavla Švagra, запросов от старост становится всё больше.</p>",
+     "<blockquote>Если у общины проблемы с водоснабжением, она может попросить о помощи. Но если на территории края или республики не объявлено чрезвычайное положение, технику мы не даём бесплатно, а выставляем общинам счёт за аренду.</blockquote>",
+     "<p>Так Švagr описал условия, на которых деревни получают цистерны. С апреля такую же цистерну арендует и община Předslav в районе Klatovsko.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Почему в Bedlno и Chotěšov не хватает воды?",
+      "a": "Это следствие длительной засухи: колодцы пересыхают, почва в этих местах не идеальна для них, а регион Jesenicko находится в дождевой тени Krušné hory."
+     },
+     {
+      "q": "Бесплатно ли общины получают цистерны с водой?",
+      "a": "Нет. Správa státních hmotných rezerv сдаёт технику в аренду, если на территории края или республики не объявлено чрезвычайное положение."
+     }
+    ]
+   },
+   "uk": {
+    "title": "Брак питної води в Чехії: жителям привозять воду цистернами",
+    "lede": "Багаторічна посуха залишила жителів села Bedlno у районі Rakovnicko без води в колодязях. Воду їм доставляє цистерна, яку орендували у відомства Správa státních hmotných rezerv.",
+    "meta_description": "Через посуху в Чехії пересихають колодязі. Жителям сіл Bedlno та Chotěšov воду привозить цистерна, орендована у Správa státních hmotných rezerv.",
+    "paras": [
+     "<p>Брак питної води в Чехії стає звичною літньою проблемою для маленьких сіл. Як повідомляє iROZHLAS, через багаторічну посуху пересохли колодязі в селі Bedlno поруч із Jesenice у районі Rakovnicko. Тепер воду туди привозить цистерна, яку взяли в оренду у відомства Správa státních hmotných rezerv.</p>",
+     "<p>80-річна мешканка Bedlno Karla каже, що власний колодязь уже не допомагає: «У нас є колодязь, але він висох. Це катастрофа. Жах». Взимку воду їй доводиться возити з міста Kladno, де вона має квартиру.</p>",
+     "<blockquote>Взимку я вожу воду з Kladna. У мене там квартира, ходжу туди прати. Вожу приблизно шість бочок і їжджу щотижня.</blockquote>",
+     "<p>Так Karla описала свої поїздки за водою. Влітку місцевим хоча б частково допомагає цистерна на три кубометри. Щотижня Bedlno та сусідній Chotěšov користуються нею по черзі.</p>",
+     "<p>Karla розповіла, що тримає запас води під плівкою, щоб вона не нагрівалася. Після миття посуду залишками води вона поливає сад і використовує їх для змиву в туалеті.</p>",
+     "<h3>Брак питної води в Чехії: чому пересихають колодязі</h3>",
+     "<p>Bedlno офіційно належить до громади Jesenice. Її староста Jan Polák пояснює, що регіон Jesenicko лежить у дощовій тіні Krušné hory, а ґрунт у Bedlno та Chotěšov не ідеальний для колодязів. Тому громада Jesenice вже кілька років поспіль на літо орендує цистерну з питною водою.</p>",
+     "<p>Техніку громадам надає Správa státních hmotných rezerv. За словами голови відомства Pavla Švagra, запитів від старост стає все більше.</p>",
+     "<blockquote>Якщо у громади проблеми з водопостачанням, вона може попросити про допомогу. Але якщо на території краю або республіки не оголошено надзвичайний стан, техніку ми не даємо безкоштовно, а виставляємо громадам рахунок за оренду.</blockquote>",
+     "<p>Так Švagr описав умови, за яких села отримують цистерни. З квітня таку саму цистерну орендує і громада Předslav у районі Klatovsko.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Чому в Bedlno та Chotěšov бракує води?",
+      "a": "Це наслідок тривалої посухи: колодязі пересихають, ґрунт у цих місцях не ідеальний для них, а регіон Jesenicko знаходиться в дощовій тіні Krušné hory."
+     },
+     {
+      "q": "Чи безкоштовно громади отримують цистерни з водою?",
+      "a": "Ні. Správa státních hmotných rezerv здає техніку в оренду, якщо на території краю або республіки не оголошено надзвичайний стан."
+     }
+    ]
+   },
+   "rank": 95.0,
+   "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260807-081256_lhv.jpeg"
+  },
   {
    "id": "n3457",
    "slug": "kuda-skhodit-v-chekhii-7-9-avgusta-afisha-na-vykhodnye",
@@ -14,8 +89,8 @@
    ],
    "published_at": "2026-08-07T11:00:43.465141+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "17 минут назад",
+    "uk": "17 хвилин тому"
    },
    "date": {
     "ru": "7 августа 2026, 11:00",
@@ -87,8 +162,8 @@
    ],
    "published_at": "2026-08-07T10:43:07.215554+02:00",
    "time": {
-    "ru": "17 минут назад",
-    "uk": "17 хвилин тому"
+    "ru": "34 минуты назад",
+    "uk": "34 хвилини тому"
    },
    "date": {
     "ru": "7 августа 2026, 10:43",
@@ -410,7 +485,7 @@
      }
     ]
    },
-   "rank": 94.143,
+   "rank": 93.746,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-072241373_250312-112246_hof.jpg"
   },
   {
@@ -504,7 +579,7 @@
      }
     ]
    },
-   "rank": 78.601,
+   "rank": 78.267,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/b59/b59ed28a-850a-49b8-a127-fd84a3574541.jpeg",
    "images": [
     "https://www.denik.cz/images/api/image/484x645/26f/26f526ac-3ee6-4729-86ad-4892e24b52fd.webp"
@@ -586,7 +661,7 @@
      }
     ]
    },
-   "rank": 108.077,
+   "rank": 107.618,
    "image_url": "https://i.iinfo.cz/images/282/hideo-kojima.png"
   },
   {
@@ -680,7 +755,7 @@
      }
     ]
    },
-   "rank": 103.164,
+   "rank": 102.726,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-028051767_260806-205212_cen.jpg"
   },
   {
@@ -695,8 +770,8 @@
    ],
    "published_at": "2026-08-07T06:16:51.134179+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:16",
@@ -782,7 +857,7 @@
      }
     ]
    },
-   "rank": 102.374,
+   "rank": 101.936,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qE_A/kO7lxrd9zlCpCkJnnQHaaILY/0efc/krapinec-ceske-drahy.jpeg?fl=cro,0,223,4096,2304%7Cres,1200,,1"
   },
   {
@@ -797,8 +872,8 @@
    ],
    "published_at": "2026-08-07T06:16:51.134179+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 06:16",
@@ -880,7 +955,7 @@
      }
     ]
    },
-   "rank": 93.599,
+   "rank": 93.199,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qD_A/kO7lxrd9zlC0nqxGwTHW3YlN/f79e/pracujici-duchodci.jpeg?fl=cro,0,0,1399,786%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -895,8 +970,8 @@
    ],
    "published_at": "2026-08-07T05:10:52.876141+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 05:10",
@@ -984,7 +1059,7 @@
      }
     ]
    },
-   "rank": 102.625,
+   "rank": 102.179,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-003312674_260806-180207_nel.jpg?itok=KBTZUaG7"
   },
   {
@@ -1062,7 +1137,7 @@
      }
     ]
    },
-   "rank": 81.099,
+   "rank": 80.732,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -1099,8 +1174,8 @@
    ],
    "published_at": "2026-08-07T02:03:27.618641+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "7 августа 2026, 02:03",
@@ -1160,7 +1235,7 @@
      }
     ]
    },
-   "rank": 102.367,
+   "rank": 101.9,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -1272,7 +1347,7 @@
      }
     ]
    },
-   "rank": 100.994,
+   "rank": 100.525,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/33e4cc96db232d42b93100a44715d259.jpg"
   },
   {
@@ -1362,7 +1437,7 @@
      }
     ]
    },
-   "rank": 89.772,
+   "rank": 89.355,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1472,7 +1547,7 @@
      }
     ]
    },
-   "rank": 93.458,
+   "rank": 93.02,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qE_A/nO573v8MsNCYTbpEGkHado7S/0842/pisek.jpeg?fl=cro,0,93,1800,1012%7Cres,1200,,1"
   },
   {
@@ -1486,8 +1561,8 @@
    ],
    "published_at": "2026-08-06T21:17:06.363569+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 21:17",
@@ -1521,7 +1596,7 @@
     ],
     "faq": []
    },
-   "rank": 51.536,
+   "rank": 51.282,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-069494251_260806-191857_jkd.jpg"
   },
   {
@@ -1536,8 +1611,8 @@
    ],
    "published_at": "2026-08-06T21:17:06.363569+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 21:17",
@@ -1579,7 +1654,7 @@
     ],
     "faq": []
    },
-   "rank": 84.505,
+   "rank": 84.088,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/vinobrani/vinobrani-na-greboce-foto-p2-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/vinobrani/vinobrani-na-greboce-foto-p2-475.jpg",
@@ -1603,8 +1678,8 @@
    ],
    "published_at": "2026-08-06T21:17:06.363569+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 21:17",
@@ -1664,7 +1739,7 @@
     ],
     "faq": []
    },
-   "rank": 97.181,
+   "rank": 96.702,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/nO2CysqjGrCP7qOBbA3HRAAW3/cdcb.jpeg?fl=cro,0,75,3500,1968%7Cres,1200,,1"
   },
   {
@@ -1713,7 +1788,7 @@
     ],
     "faq": []
    },
-   "rank": 87.699,
+   "rank": 87.261,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qC_A/kQMlcCt5zmC5zFHLdIHDnh8N/febd/railjet-ceske-drahy-vlak.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1"
   },
   {
@@ -1729,8 +1804,8 @@
    ],
    "published_at": "2026-08-06T20:06:34.340969+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 20:06",
@@ -1764,7 +1839,7 @@
     ],
     "faq": []
    },
-   "rank": 91.088,
+   "rank": 90.629,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/29b/29b617e1-6a49-4f0b-adf2-5d99cf55969b.jpeg"
   },
   {
@@ -1821,7 +1896,7 @@
     ],
     "faq": []
    },
-   "rank": 41.791,
+   "rank": 41.579,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/profimedia-081414878_260729-184133_mkm.jpg"
   },
   {
@@ -1875,7 +1950,7 @@
     ],
     "faq": []
    },
-   "rank": 81.118,
+   "rank": 80.701,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/e367782a45c8e07ccf021f6c527b4aad.jpg"
   },
   {
@@ -1932,7 +2007,7 @@
     ],
     "faq": []
    },
-   "rank": 66.037,
+   "rank": 65.695,
    "forecast": true
   },
   {
@@ -1990,7 +2065,7 @@
     ],
     "faq": []
    },
-   "rank": 57.016,
+   "rank": 56.72,
    "image_url": "https://cdn.kudyznudy.cz/files/e1/e1a14a77-23e8-4ff9-99e3-ad01309926b1.jpg?v=20200827062231",
    "images": [
     "https://cdn.kudyznudy.cz/files/d1/d1dd064a-1f99-4c97-8026-41b16deb8d49.webp?v=20240807123629",
@@ -2046,7 +2121,7 @@
     ],
     "faq": []
    },
-   "rank": 75.481,
+   "rank": 75.085,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsND1brdHXpHae0AQ/a12b/easyjet-aerolinky-letecka-doprava.jpeg?fl=cro,0,286,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2061,8 +2136,8 @@
    ],
    "published_at": "2026-08-06T17:17:22.183491+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 17:17",
@@ -2108,7 +2183,7 @@
     ],
     "faq": []
    },
-   "rank": 90.544,
+   "rank": 90.065,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/32e/32ed7f33-df32-483e-9bf6-6949cb54030d.jpeg"
   },
   {
@@ -2122,8 +2197,8 @@
    ],
    "published_at": "2026-08-06T17:17:22.183491+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 17:17",
@@ -2153,7 +2228,7 @@
     ],
     "faq": []
    },
-   "rank": 78.734,
+   "rank": 78.317,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC0nqxmTuHaZomY/a5b4/chmu-teplota-rekord-pocasi.jpeg?fl=cro,0,228,2048,1152%7Cres,1200,,1%7Cwebp,75",
    "images": [
     "https://d15-a.sdn.cz/d_15/c_img_qC_A/kQMlcCt5zmUKhkDWeGzGQMz/1895/pocasi-dest-mraky.heif?fl=cro,0,424,4032,2268%7Cres,1200,,1%7Cwebp,75"
@@ -2171,8 +2246,8 @@
    ],
    "published_at": "2026-08-06T16:14:34.712975+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 16:14",
@@ -2206,7 +2281,7 @@
     ],
     "faq": []
    },
-   "rank": 77.222,
+   "rank": 76.805,
    "image_url": "https://cdn.kudyznudy.cz/files/e5/e55e0a57-245b-4b00-ba96-fec3831932ed.jpg?v=20200827063401",
    "images": [
     "https://cdn.kudyznudy.cz/files/5f/5fdaf8c9-79ee-4d3f-890a-ce5d5393c4ee.webp?v=20250805110741",
@@ -2230,8 +2305,8 @@
    ],
    "published_at": "2026-08-06T16:14:34.712975+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 16:14",
@@ -2265,7 +2340,7 @@
     ],
     "faq": []
    },
-   "rank": 81.084,
+   "rank": 80.646,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/a91/a913dfef-33be-4cc2-b654-61956de31e76.jpeg"
   },
   {
@@ -2333,7 +2408,7 @@
     ],
     "faq": []
    },
-   "rank": 72.542,
+   "rank": 72.146,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/ZUN473ac6f845_situace.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/081/vidw/ZUN4776419cfe_32_3055739822424072008_n.jpg"
@@ -2351,8 +2426,8 @@
    ],
    "published_at": "2026-08-06T15:08:34.069490+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 15:08",
@@ -2398,7 +2473,7 @@
     ],
     "faq": []
    },
-   "rank": 83.197,
+   "rank": 82.738,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1638/29/DSC_0181.jpg"
   },
   {
@@ -2413,8 +2488,8 @@
    ],
    "published_at": "2026-08-06T15:08:34.069490+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "6 августа 2026, 15:08",
@@ -2452,7 +2527,7 @@
     ],
     "faq": []
    },
-   "rank": 83.951,
+   "rank": 83.488,
    "image_url": "https://i3.cn.cz/16/1469093940_008.jpeg"
   },
   {
@@ -2510,7 +2585,7 @@
     ],
     "faq": []
    },
-   "rank": 63.557,
+   "rank": 63.202,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/JGO7581751b57_Vysehrad3_4.8._RK_151.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/081/vidw/ANK7277520f36_223.00_02_01_08.Still001.jpg",
@@ -2582,7 +2657,7 @@
     ],
     "faq": []
    },
-   "rank": 60.565,
+   "rank": 60.228,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC6PMOminHaa8tB/26bc/skoda-peaq.jpeg?fl=cro,0,100,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2597,8 +2672,8 @@
    ],
    "published_at": "2026-08-06T14:03:36.626670+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "6 августа 2026, 14:03",
@@ -2636,7 +2711,7 @@
     ],
     "faq": []
    },
-   "rank": 55.552,
+   "rank": 55.239,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/02465502.jpeg"
   },
   {
@@ -2687,7 +2762,7 @@
     ],
     "faq": []
    },
-   "rank": 54.942,
+   "rank": 54.629,
    "image_url": "https://1gr.cz/tempimg/fb/2026/8/VAN5c4020db38_gallery_image_524.jpg",
    "images": [
     "https://1gr.cz/fotky/idnes/26/081/cl6h/VAN5c3fbe170e_gallery_image_525.jpg",
@@ -2782,7 +2857,7 @@
      }
     ]
    },
-   "rank": 75.224,
+   "rank": 74.786,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -2880,7 +2955,7 @@
      }
     ]
    },
-   "rank": 63.758,
+   "rank": 63.382,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/d1a/d1aa5a70-704e-4774-a472-f7cfb6e0dcb2.jpeg"
   },
   {
@@ -2962,7 +3037,7 @@
      }
     ]
    },
-   "rank": 76.152,
+   "rank": 75.693,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/229/2293aac6-2a50-4ff1-9b60-4ffe8e894311.jpeg"
   },
   {
@@ -3046,7 +3121,7 @@
      }
     ]
    },
-   "rank": 72.69,
+   "rank": 72.253,
    "sources": [
     {
      "domain": "m.echo24.cz",
@@ -3145,7 +3220,7 @@
      }
     ]
    },
-   "rank": 69.839,
+   "rank": 69.414,
    "sources": [
     {
      "domain": "metro.cz",
@@ -3259,7 +3334,7 @@
      }
     ]
    },
-   "rank": 51.945,
+   "rank": 51.628,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qD_A/kQMlcCt5zmChFvGo3oHKkbv9/b7e0/bara-malikova-marodi.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1"
   },
   {
@@ -3355,7 +3430,7 @@
      }
     ]
    },
-   "rank": 54.813,
+   "rank": 54.475,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsND2JCbqQHZO6I1/b96c/vila-brno-pribornik-restauratori.jpeg?fl=cro,0,59,1490,838%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3445,7 +3520,7 @@
      }
     ]
    },
-   "rank": 62.16,
+   "rank": 61.764,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNCYTbpBreHZ1jkm/be2d/graf-mapa-stupne.jpeg?fl=cro,0,0,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3551,7 +3626,7 @@
      }
     ]
    },
-   "rank": 59.543,
+   "rank": 59.164,
    "image_url": "https://cdn.kudyznudy.cz/files/63/63c2c10a-5f6b-45ee-94ba-039c297060ad.jpg?v=20210629082238",
    "images": [
     "https://cdn.kudyznudy.cz/files/95/95090760-653f-454f-b831-2578551dc4ad.webp?v=20230128103936",
@@ -3645,7 +3720,7 @@
      }
     ]
    },
-   "rank": 64.575,
+   "rank": 64.158,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/images/8c0b1b9fd27ff30defd5cf484cd367ee.jpg"
   },
   {
@@ -3734,7 +3809,7 @@
      }
     ]
    },
-   "rank": 70.126,
+   "rank": 69.667,
    "sources": [
     {
      "domain": "focuson.cz",
@@ -3829,7 +3904,7 @@
      }
     ]
    },
-   "rank": 65.663,
+   "rank": 65.234,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -3931,7 +4006,7 @@
      }
     ]
    },
-   "rank": 66.14,
+   "rank": 65.702,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_QR_x/i88Ld.jpeg?fl=cro,0,285,5472,3078%7Cres,1200,,1"
   },
   {
@@ -4033,7 +4108,7 @@
      }
     ]
    },
-   "rank": 65.319,
+   "rank": 64.881,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/0a4/0a42c287-e9ee-41f2-b956-b46da7d23dfd.jpeg"
   },
   {
@@ -4115,7 +4190,7 @@
      }
     ]
    },
-   "rank": 58.891,
+   "rank": 58.487,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -4215,7 +4290,7 @@
      }
     ]
    },
-   "rank": 65.57,
+   "rank": 65.119,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/hudba-2/quennie_2-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/hudba-2/quennie_2-475.jpg",
@@ -4300,7 +4375,7 @@
      }
     ]
    },
-   "rank": 62.2,
+   "rank": 61.75,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -4399,7 +4474,7 @@
      }
     ]
    },
-   "rank": 54.781,
+   "rank": 54.385,
    "sources": [
     {
      "domain": "jindrichohradecky.denik.cz",
@@ -4500,7 +4575,7 @@
      }
     ]
    },
-   "rank": 48.85,
+   "rank": 48.492,
    "image_url": "https://i3.cn.cz/16/1785941145_P2026080506191.jpeg",
    "images": [
     "https://i3.cn.cz/6/1785941994_P2026080506195.jpeg",
@@ -4588,7 +4663,7 @@
      }
     ]
    },
-   "rank": 62.545,
+   "rank": 62.086,
    "sources": [
     {
      "domain": "lui.cz",
@@ -4691,7 +4766,7 @@
      }
     ]
    },
-   "rank": 46.625,
+   "rank": 46.283,
    "sources": [
     {
      "domain": "metro.cz",
@@ -4810,7 +4885,7 @@
      }
     ]
    },
-   "rank": 62.727,
+   "rank": 62.26,
    "sources": [
     {
      "domain": "plus.rozhlas.cz",
@@ -4898,7 +4973,7 @@
      }
     ]
    },
-   "rank": 44.805,
+   "rank": 44.471,
    "image_url": "https://cdn.kudyznudy.cz/files/8a/8ac0d704-fc25-4362-ae5e-f19a516b3bc3.jpg?v=20200827062251",
    "images": [
     "https://cdn.kudyznudy.cz/files/c6/c61abd94-339f-4222-96fd-6e9787454a13.webp?v=20221001142739",
@@ -5005,7 +5080,7 @@
      }
     ]
    },
-   "rank": 56.629,
+   "rank": 56.202,
    "image_url": "https://cdn.kudyznudy.cz/files/92/92e901f4-c6c6-4ae1-a3ee-c2ef6ae3a2c0.jpg?v=20220722192349",
    "images": [
     "https://cdn.kudyznudy.cz/files/dd/ddf41e16-93e8-4533-88d1-da9004ed03a3.webp?v=20221013183831",
@@ -5114,7 +5189,7 @@
      }
     ]
    },
-   "rank": 55.248,
+   "rank": 54.831,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBK7ALDYuHZ0SyX/8dcc/kyberpodvod-kyberpodvodnici.jpeg?fl=cro,0,125,1400,787%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5197,7 +5272,7 @@
      }
     ]
    },
-   "rank": 41.326,
+   "rank": 41.01,
    "image_url": "https://cdn.kudyznudy.cz/files/5c/5cfd6f0f-9298-4c9c-883d-b7d432a78a6b.jpg?v=20220812102055",
    "images": [
     "https://cdn.kudyznudy.cz/files/2d/2df7d3a2-4f12-4ad1-b569-5ea9ee8142c8.webp?v=20221001045119",
@@ -5290,7 +5365,7 @@
      }
     ]
    },
-   "rank": 44.118,
+   "rank": 43.78,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/1644/03/DSC_0187.jpg"
   },
   {
@@ -5342,7 +5417,7 @@
     ],
     "faq": []
    },
-   "rank": 42.256,
+   "rank": 41.918,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBXDtvCWwHaDuQG/1337/volklore.jpeg?fl=cro,0,0,1400,787%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5396,7 +5471,7 @@
     ],
     "faq": []
    },
-   "rank": 53.209,
+   "rank": 52.771,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/aa-1.jpg",
    "video": {
     "kind": "iframe",
@@ -5473,7 +5548,7 @@
     ],
     "faq": []
    },
-   "rank": 43.503,
+   "rank": 43.133,
    "image_url": "https://cdn.kudyznudy.cz/files/89/890afc0f-9761-4a5c-a1c2-a7a1f7c21eae.jpg?v=20230303145459",
    "images": [
     "https://cdn.kudyznudy.cz/files/51/513aeb2b-f2e5-4668-8257-88b836554a5a.webp?v=20230303145426",
@@ -5528,7 +5603,7 @@
     ],
     "faq": []
    },
-   "rank": 45.932,
+   "rank": 45.536,
    "image_url": "https://1gr.cz/tempimg/fb/2026/6/IHA4c8945f588_103140_4189167.jpg"
   },
   {
@@ -5577,7 +5652,7 @@
     ],
     "faq": []
    },
-   "rank": 49.186,
+   "rank": 48.748,
    "image_url": "https://1gr.cz/tempimg/fb/2026/6/IHA5047b2c2ae_102806_4174706.jpg"
   },
   {
@@ -5626,7 +5701,7 @@
     ],
     "faq": []
    },
-   "rank": 30.448,
+   "rank": 30.177,
    "image_url": "https://1gr.cz/fotky/idnes/25/053/cl8/ZAR924a6392cd_hp2.webp"
   },
   {
@@ -5685,7 +5760,7 @@
     ],
     "faq": []
    },
-   "rank": 43.745,
+   "rank": 43.349,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/8a8/8a8a2b26-b963-446a-8d09-10c4263e7dda.jpeg"
   },
   {
@@ -5740,7 +5815,7 @@
     ],
     "faq": []
    },
-   "rank": 29.931,
+   "rank": 29.66,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260805-111357_brz.jpeg"
   },
   {
@@ -5786,7 +5861,7 @@
     ],
     "faq": []
    },
-   "rank": 29.419,
+   "rank": 29.148,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCpNXitYJHZ5qLp/2205/pozar-hasici-kamion.jpeg?fl=cro,0,505,898,505%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -5845,7 +5920,7 @@
     ],
     "faq": []
    },
-   "rank": 27.111,
+   "rank": 26.857,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCcay5gwbHZ3uGu/bcae/skoda-kodiaq.jpeg?fl=cro,0,100,1920,1080%7Cres,1200,,1%7Cwebp,75",
    "video": {
     "kind": "iframe",
@@ -5905,7 +5980,7 @@
     ],
     "faq": []
    },
-   "rank": 46.667,
+   "rank": 46.229,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/92f/92f8ab2c-1bf9-49a1-b003-1b6a17ddf53a.jpeg"
   },
   {
@@ -5979,7 +6054,7 @@
     ],
     "faq": []
    },
-   "rank": 31.555,
+   "rank": 31.259,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_oY_A/kb9Yg2GWeDwkpqydCxXnvz/6be7.jpeg?fl=cro,0,156,3000,1687%7Cres,1200,,1"
   },
   {
@@ -6037,7 +6112,7 @@
     ],
     "faq": []
    },
-   "rank": 33.137,
+   "rank": 32.82,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_m3_A/nb4N2OmYQCqUZAVIBgY1Vo/c4f2/ukrajina-valka-raketa-strela.jpeg?fl=cro,0,329,3831,2155%7Cres,1200,,1"
   },
   {
@@ -6101,7 +6176,7 @@
     ],
     "faq": []
    },
-   "rank": 51.828,
+   "rank": 51.324,
    "image_url": "https://i3.cn.cz/16/1785936096_bobr.jpg"
   },
   {
@@ -6165,7 +6240,7 @@
     ],
     "faq": []
    },
-   "rank": 42.13,
+   "rank": 41.713,
    "image_url": "https://media.eco-files.cz/economia/production/files/2026/08/05/12/16/07/acb33d18-ae3f-4be6-bbcf-69b788c0cd7f/aab5965_4f251831-jpg.jpg"
   },
   {
@@ -6221,7 +6296,7 @@
     ],
     "faq": []
    },
-   "rank": 44.236,
+   "rank": 43.798,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/2026-07-21t232316z_1_260722-084525_elev.JPG"
   },
   {
@@ -6278,7 +6353,7 @@
     ],
     "faq": []
    },
-   "rank": 39.214,
+   "rank": 38.818,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260804_162627.jpg_260805-063921_brz.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/20260804_163618.jpg_260805-064310_brz.jpeg?itok=glJpoYjg"
@@ -6327,7 +6402,7 @@
     ],
     "faq": []
    },
-   "rank": 21.052,
+   "rank": 20.839,
    "image_url": "https://cdn.kudyznudy.cz/files/75/757a62ca-e263-4282-88eb-71a9d067fe52.jpg?v=20200826035909",
    "images": [
     "https://cdn.kudyznudy.cz/files/7d/7d3e48b6-4fb4-4b44-9413-c5d656e2e1e5.webp?v=20221011151917",
@@ -6390,7 +6465,7 @@
     ],
     "faq": []
    },
-   "rank": 20.679,
+   "rank": 20.466,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/08/Time-Capsule-wenceslas-square.jpg",
    "images": [
     "https://praguemorning.cz/wp-content/uploads/2026/08/Time-Capsule-wenceslas-square-5.jpg",
@@ -6450,7 +6525,7 @@
     ],
     "faq": []
    },
-   "rank": 46.633,
+   "rank": 46.153,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/439/439a41ec-1b0d-4bec-b8c3-0cc9569d7d63.jpeg"
   },
   {
@@ -6513,7 +6588,7 @@
     ],
     "faq": []
    },
-   "rank": 40.55,
+   "rank": 40.133,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlJdsveEAHZX2qu/3711/gentleman-silnic-rybnik-vezna-potopene-auto-policie-hasici.jpeg?fl=cro,0,62,900,506%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6560,7 +6635,7 @@
     ],
     "faq": []
    },
-   "rank": 38.593,
+   "rank": 38.188,
    "image_url": "https://cdn.kudyznudy.cz/files/d4/d424b778-8ec0-461a-bec5-37d7a494885d.jpg?v=20240806180650",
    "images": [
     "https://cdn.kudyznudy.cz/files/38/38121a7b-0122-443e-b417-dc9babaae356.webp?v=20221001064001",
@@ -6630,7 +6705,7 @@
     ],
     "faq": []
    },
-   "rank": 39.786,
+   "rank": 39.369,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBK7ALWXHZNo6n/895c/kuplir-soud-plzen.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6684,7 +6759,7 @@
     ],
     "faq": []
    },
-   "rank": 37.797,
+   "rank": 37.401,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlJdsvhJ9HZyhgw/708c/podvod-e-mail-cak-advokat.jpeg?fl=cro,0,9,1024,576%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -6734,7 +6809,7 @@
     ],
     "faq": []
    },
-   "rank": 30.195,
+   "rank": 29.872,
    "image_url": "https://cdn.kudyznudy.cz/files/9e/9e2501f5-b49e-4c34-a6d7-fd73a2b6c346.jpg?v=20230804212015",
    "images": [
     "https://cdn.kudyznudy.cz/files/2f/2fa38b17-f6bd-4cc4-be95-e61d67e0771e.webp?v=20230804212011",
@@ -6807,7 +6882,7 @@
     ],
     "faq": []
    },
-   "rank": 43.637,
+   "rank": 43.17,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/0b0/0b0f3868-c480-4889-b22e-316efdaec6b8.jpeg"
   },
   {
@@ -6855,7 +6930,7 @@
     ],
     "faq": []
    },
-   "rank": 28.64,
+   "rank": 28.328,
    "image_url": "https://cdn.kudyznudy.cz/files/4f/4f5ac002-1b55-4229-b09a-ad6c766f7d71.jpg?v=20200827054133",
    "images": [
     "https://cdn.kudyznudy.cz/files/79/792c5923-f259-449c-95c5-34f0800bb254.webp?v=20240812105747",
@@ -6933,7 +7008,7 @@
     ],
     "faq": []
    },
-   "rank": 32.835,
+   "rank": 32.476,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/589/5896aa0f-998b-4c77-bbc1-89f2ec7d87d1.jpeg"
   },
   {
@@ -6995,7 +7070,7 @@
     ],
     "faq": []
    },
-   "rank": 45.825,
+   "rank": 45.324,
    "image_url": "https://i3.cn.cz/16/1778998212_P2026051701851.jpg"
   },
   {
@@ -7054,7 +7129,7 @@
     ],
     "faq": []
    },
-   "rank": 35.545,
+   "rank": 35.149,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/ef5/ef58ef8f-64a2-4796-97e4-c202381381f7.jpeg"
   },
   {
@@ -7116,7 +7191,7 @@
     ],
     "faq": []
    },
-   "rank": 39.287,
+   "rank": 38.849,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNCpgA9ESQHYsm16/6d8f/dite-pacient-osetreni-ockovani-nemocnice.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -7170,7 +7245,7 @@
     ],
     "faq": []
    },
-   "rank": 36.066,
+   "rank": 35.656,
    "image_url": "https://cdn.kudyznudy.cz/files/74/7467cefd-22bf-4e7a-b641-1581138ebfe0.jpg?v=20230823043323",
    "images": [
     "https://cdn.kudyznudy.cz/files/59/59180c00-bb9b-4710-a697-042ee8775f41.webp?v=20260805104451",
@@ -7226,7 +7301,7 @@
     ],
     "faq": []
    },
-   "rank": 37.647,
+   "rank": 37.209,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_p9_A/nCTUX1iX5bIUBB9gGDGF3U/595d/ekonomika-rust-pokles.jpeg?fl=cro,0,193,4096,2304%7Cres,1200,,1"
   },
   {
@@ -7240,8 +7315,8 @@
    ],
    "published_at": "2026-08-05T11:05:34.292626+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "5 августа 2026, 11:05",
@@ -7281,7 +7356,7 @@
     ],
     "faq": []
    },
-   "rank": 37.224,
+   "rank": 37.1,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2026/08/4.jpg",
    "video": {
     "kind": "iframe",
@@ -14863,8 +14938,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -14960,8 +15035,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -15044,8 +15119,8 @@
    ],
    "published_at": "2026-08-03T11:17:26.523645+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "3 августа 2026, 11:17",
@@ -23404,65 +23479,6 @@
    },
    "rank": 31.5,
    "image_url": "https://cd1.incdatagate.cz/images/1ed5656b-e9d3-6b18-85c8-575dc9cded0d/w_1200x675.jpg"
-  },
-  {
-   "id": "n3154",
-   "slug": "smi-protiv-macinka-syndikat-novinaru-zaiavil-o-diskriminatsii",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/zpravy/mediahub/pokorna-macinka-syndikat-media-ministerstvo-novinari-denik-n.A260731_175140_domaci_sahu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "cesko"
-   ],
-   "published_at": "2026-07-31T20:53:12.534027+02:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "31 июля 2026, 20:53",
-    "uk": "31 липня 2026, 20:53"
-   },
-   "ru": {
-    "title": "СМИ против Macinka: Syndikát novinářů заявил о дискриминации",
-    "lede": "Министр иностранных дел Macinka снова оказался в центре скандала из-за отношения к журналистам. Syndikát novinářů ČR назвал действия ведомства дискриминацией и пригрозил бойкотом мероприятий министерства.",
-    "meta_description": "Syndikát novinářů ČR назвал действия Macinka дискриминацией СМИ и призвал к бойкоту его ведомства. Журналисты требуют равного доступа к информации.",
-    "paras": [
-     "<p>Syndikát novinářů ČR, профессиональное объединение чешских журналистов, выступил против практики, которую считает дискриминацией СМИ. По мнению организации, представители государственной власти не имеют права ограничивать журналистов или решать, какие издания получат доступ к информации.</p>",
-     "<blockquote><p>Этот подход однозначно дискриминирует журналиста и редакцию по признаку их медийной идентичности или предполагаемой идейной направленности. Представители государства не имеют права делить СМИ на подходящие и неподходящие, а также определять, какие журналисты получат доступ к информации, предоставляемой государственным учреждением.</p></blockquote>",
-     "<p>Так в заявлении сказала председатель объединения Ivana Šuláková. Она напомнила, что учреждения, финансируемые из налогов, должны служить всем, а доступ к информации обязан быть равным для всех СМИ, которые работают в соответствии с законом.</p>",
-     "<h3>Угроза бойкота</h3>",
-     "<p>Сам факт деления журналистов на категории, по мнению профсоюза, подрывает принципы демократического правового государства и ограничивает свободное выполнение профессиональных обязанностей. Поэтому Syndikát призывает представителей власти немедленно пересмотреть такой подход, публично объяснить его и принять меры, которые гарантируют всем медиа равный доступ к информации. Если министерство этого не сделает, не извинится публично и не обеспечит равные условия, организация призывает остальные редакции к дальнейшим действиям. Дискриминация одного СМИ, подчёркивают в профсоюзе, завтра может коснуться любого другого, поэтому всем журналистам и зарубежным корреспондентам предложили объединённо бойкотировать медиасобытия ведомства.</p>",
-     "<p>К критике присоединился портал iDNES.cz. Главный редактор Matyáš Kaiser напомнил, что его редакция уже не раз сталкивалась с тем, как политики отбирали и «просеивали» журналистов.</p>",
-     "<blockquote><p>Редакция iDNES.cz не раз испытывала на себе отбор и просеивание со стороны некоторых политиков. Тем решительнее мы сегодня отвергаем любую практику, когда политики выбирают, каким СМИ или журналистам можно задавать вопросы, а каким нет. Равный доступ к информации это один из базовых принципов свободной журналистики.</p></blockquote>",
-     "<p>Организация также подчёркивает, что инцидент выходит за пределы Чехии. Вице-председатель по международным отношениям Magdalena Sodomková сообщила, что Syndikát уже информирует международные журналистские организации и институты, которые защищают свободу медиа, свободу слова и права журналистов. По её словам, важно, чтобы эти практики рассматривались в контексте прежних атак на свободу СМИ в Чехии.</p>",
-     "<p>В центре скандала оказалась переписка, которую в соцсетях обнародовала журналистка Zdislava Pokorná. Она возразила против отказа в аккредитации, заявив, что представляет обычную редакцию, а ярлыки «альтернативное СМИ» или «конспирологический блог» считает совершенно неуместными. В ответ из министерства пришло сообщение, в котором сожалеют, если формулировки показались неоднозначными, и обещают провести отдельную пресс-конференцию для альтернативных медиа, на которую Deník N, конечно, пригласят.</p>",
-     "<h3>Позиция Macinka</h3>",
-     "<p>Министр иностранных дел Macinka обвинения в дискриминации отвергает. По его словам, Syndikát, судя по всему, неправильно понял происходящее: ведомство, наоборот, расширяет круг участников пресс-конференций, приглашая представителей альтернативных СМИ и конспирологических блогов. Он также упрекнул профсоюз в том, что тот не выступал так же активно против предыдущего правительства, которое отключало журналистам сайты. Сам министр, наоборот, начнёт звать таких авторов на пресс-конференции, потому что поддерживает разнообразие мнений. Критику со стороны журналистского сообщества он, по собственным словам, не понимает: более широкое участие разных авторов должно быть в интересах самого профсоюза.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "ЗМІ проти Macinka: Syndikát novinářů заявив про дискримінацію",
-    "lede": "Міністр закордонних справ Macinka знову опинився в центрі скандалу через ставлення до журналістів. Syndikát novinářů ČR назвав дії відомства дискримінацією і погрозив бойкотом заходів міністерства.",
-    "meta_description": "Syndikát novinářů ČR назвав дії Macinka дискримінацією ЗМІ та закликав до бойкоту його відомства. Журналісти вимагають рівного доступу до інформації.",
-    "paras": [
-     "<p>Syndikát novinářů ČR, професійне об'єднання чеських журналістів, виступив проти практики, яку вважає дискримінацією ЗМІ. На думку організації, представники державної влади не мають права обмежувати журналістів або вирішувати, які видання отримають доступ до інформації.</p>",
-     "<blockquote><p>Цей підхід однозначно дискримінує журналіста і редакцію за ознакою їхньої медійної ідентичності або передбачуваної ідейної спрямованості. Представники держави не мають права ділити ЗМІ на підходящі та непідходящі, а також визначати, які журналісти отримають доступ до інформації, що надається державним закладом.</p></blockquote>",
-     "<p>Так у заяві сказала голова об'єднання Ivana Šuláková. Вона нагадала, що установи, які фінансуються з податків, мають служити всім. Доступ до інформації обов'язково має бути рівним для всіх ЗМІ, що працюють згідно із законом.</p>",
-     "<h3>Загроза бойкоту</h3>",
-     "<p>Сам факт поділу журналістів на категорії, на думку профспілки, підриває принципи демократичної правової держави і обмежує вільне виконання професійних обов'язків. Тому Syndikát закликає представників влади негайно переглянути такий підхід, публічно пояснити його і вжити заходів, які гарантують усім медіа рівний доступ до інформації. Якщо міністерство цього не зробить, не вибачиться публічно і не забезпечить рівні умови, організація закликає інші редакції до подальших дій. Дискримінація одного ЗМІ, наголошують у профспілці, завтра може торкнутися будь-якого іншого. Тому всім журналістам і закордонним кореспондентам запропонували спільно бойкотувати медіаподії відомства.</p>",
-     "<p>До критики приєднався портал iDNES.cz. Головний редактор Matyáš Kaiser нагадав, що його редакція вже не раз стикалася з тим, як політики відбирали та «просівали» журналістів.</p>",
-     "<blockquote><p>Редакція iDNES.cz не раз відчувала на собі відбір і просіювання з боку деяких політиків. Тим рішучіше ми сьогодні відкидаємо будь-яку практику, коли політики обирають, яким ЗМІ або журналістам можна ставити запитання, а яким ні. Рівний доступ до інформації це один із базових принципів вільної журналістики.</p></blockquote>",
-     "<p>Організація також наголошує, що інцидент виходить за межі Чехії. Віцеголова з міжнародних відносин Magdalena Sodomková повідомила, що Syndikát вже інформує міжнародні журналістські організації та інститути, які захищають свободу медіа, свободу слова і права журналістів. За її словами, важливо, щоб ці практики розглядали в контексті попередніх атак на свободу ЗМІ в Чехії.</p>",
-     "<p>У центрі скандалу опинилося листування, яке в соцмережах оприлюднила журналістка Zdislava Pokorná. Вона виступила проти відмови в акредитації. Журналістка заявила, що представляє звичайну редакцію, а ярлики «альтернативне ЗМІ» або «конспірологічний блог» вважає зовсім недоречними. У відповідь із міністерства надійшло повідомлення. Там висловили жаль, якщо формулювання здалися неоднозначними, і пообіцяли провести окрему пресконференцію для альтернативних медіа, на яку Deník N, звісно, запросять.</p>",
-     "<h3>Позиція Macinka</h3>",
-     "<p>Міністр закордонних справ Macinka відкидає звинувачення в дискримінації. За його словами, Syndikát, схоже, неправильно зрозумів ситуацію: відомство, навпаки, розширює коло учасників пресконференцій, запрошуючи представників альтернативних ЗМІ та конспірологічних блогів. Він також дорікнув профспілці за те, що та не виступала так само активно проти попереднього уряду, який відключав журналістам сайти. Сам міністр, навпаки, почне кликати таких авторів на пресконференції, бо підтримує різноманітність думок. Критику з боку журналістської спільноти він, за власними словами, не розуміє: ширша участь різних авторів має бути в інтересах самої профспілки.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 36.75,
-   "image_url": "https://1gr.cz/tempimg/fb/2026/6/DAV882b1a2abb_154639_35216791.jpg"
   }
  ]
 }
