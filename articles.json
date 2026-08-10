@@ -1,8 +1,78 @@
 {
- "updated_at": "2026-08-10T05:44:56+00:00",
+ "updated_at": "2026-08-10T06:15:19+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n3569",
+   "slug": "severokoreiskaia-gruppa-kimsuky-osvoila-ii-dlia-kiberatak",
+   "source": "seznamzpravy.cz",
+   "original_url": "https://www.seznamzpravy.cz/clanek/zahranicni-severokorejska-hackerska-skupina-kimsuky-zacala-vyuzivat-nastroje-ai-312752",
+   "top": false,
+   "tags": [
+    "svet",
+    "it"
+   ],
+   "published_at": "2026-08-10T08:15:18.628532+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "10 августа 2026, 08:15",
+    "uk": "10 серпня 2026, 08:15"
+   },
+   "ru": {
+    "title": "Северокорейская группа Kimsuky освоила ИИ для кибератак",
+    "lede": "Северокорейская хакерская группа Kimsuky, по данным компании Genians, начала использовать искусственный интеллект для автоматизации кибератак и анализа украденных данных. Сведения пока не подтверждены независимыми источниками.",
+    "meta_description": "Kimsuky, северокорейская хакерская группа, начала использовать ИИ: автоматизация атак, фишинг, подделка документов. Данные Genians, независимого подтверждения н",
+    "paras": [
+     "<p>Северокорейская хакерская группа Kimsuky, по данным южнокорейской компании по кибербезопасности Genians, начала использовать инструменты искусственного интеллекта (ИИ) для автоматизации своих операций. Как пишет Seznam Zprávy, эти данные не удалось независимо подтвердить.</p>",
+     "<h3>Какие инструменты использует Kimsuky</h3>",
+     "<p>По информации Genians, хакеры развернули на собственных компьютерах инструменты для управления большими языковыми моделями: Ollama, GPT4All и Msty. Кроме того, они применяют технологию RAG для поиска и работы с документами, что позволяет обрабатывать конфиденциальные данные без отправки их внешним поставщикам ИИ.</p>",
+     "<p>В инфраструктуре, связанной с кампанией, также обнаружены инструменты для разработки так называемых AI-агентов, программное обеспечение для преобразования речи в текст и кодовый редактор Cursor, поддерживаемый ИИ. По словам представителей Genians, это указывает на то, что Kimsuky стремится автоматизировать и сделать более эффективными разные части своих киберопераций.</p>",
+     "<h3>Поддельные документы</h3>",
+     "<p>Компания также сообщила, что нашла мошеннические документы по финансам и криптовалютам, которые, вероятно, были созданы ИИ. Материалы выглядят как настоящие инвестиционные отчеты и обычные рабочие документы.</p>",
+     "<p>США и Южная Корея, а также эксперты по кибербезопасности уже давно говорят, что КНДР использует связанные с государством хакерские группы для шпионажа, кражи денег и получения доходов. В 2023 году Министерство финансов США ввело санкции против Kimsuky, назвав её кибершпионской группой, контролируемой правительством Северной Кореи. По данным ведомства, группа собирала разведывательную информацию в поддержку стратегических целей Пхеньяна.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Как хакеры Kimsuky используют ИИ?",
+      "a": "По данным Genians, ИИ помогает им автоматизировать атаки, анализировать украденные данные, создавать более убедительные фишинговые письма и генерировать поддельные финансовые документы."
+     },
+     {
+      "q": "Какие инструменты ИИ применяет Kimsuky?",
+      "a": "Среди них Ollama, GPT4All, Msty, технология RAG, инструмент для разработки AI-агентов, ПО для распознавания речи и кодовый редактор Cursor."
+     }
+    ]
+   },
+   "uk": {
+    "title": "Північнокорейська група Kimsuky опанувала ШІ для кібератак",
+    "lede": "Північнокорейська хакерська група Kimsuky, за даними компанії Genians, почала використовувати штучний інтелект для автоматизації кібератак та аналізу викрадених даних. Відомості поки не підтверджені незалежними джерелами.",
+    "meta_description": "Kimsuky, північнокорейська хакерська група, почала використовувати ШІ: автоматизація атак, фішинг, підробка документів. Дані Genians, незалежного підтвердження ",
+    "paras": [
+     "<p>Північнокорейська хакерська група Kimsuky, за даними південнокорейської компанії з кібербезпеки Genians, почала використовувати інструменти штучного інтелекту (ШІ) для автоматизації своїх операцій. Як пише Seznam Zprávy, ці дані не вдалося незалежно підтвердити.</p>",
+     "<h3>Які інструменти використовує Kimsuky</h3>",
+     "<p>За інформацією Genians, хакери розгорнули на власних комп'ютерах інструменти для керування великими мовними моделями: Ollama, GPT4All та Msty. Крім того, вони застосовують технологію RAG для пошуку та роботи з документами. Це дозволяє обробляти конфіденційні дані без відправки їх зовнішнім постачальникам ШІ.</p>",
+     "<p>В інфраструктурі, пов'язаній з кампанією, також виявили інструменти для розробки так званих AI-агентів, програмне забезпечення для перетворення мовлення в текст та кодовий редактор Cursor, що підтримується ШІ. За словами представників Genians, це свідчить про те, що Kimsuky прагне автоматизувати та зробити ефективнішими різні частини своїх кібероперацій.</p>",
+     "<h3>Підроблені документи</h3>",
+     "<p>Компанія також повідомила, що знайшла шахрайські документи щодо фінансів та криптовалют, які, ймовірно, були створені ШІ. Матеріали виглядають як справжні інвестиційні звіти та звичайні робочі документи.</p>",
+     "<p>США та Південна Корея, а також експерти з кібербезпеки вже давно заявляють, що КНДР використовує пов'язані з державою хакерські групи для шпигунства, крадіжки грошей та отримання доходів. У 2023 році Міністерство фінансів США запровадило санкції проти Kimsuky, назвавши її кібершпигунською групою, яку контролює уряд Північної Кореї. За даними відомства, група збирала розвідувальну інформацію для підтримки стратегічних цілей Пхеньяна.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Як хакери Kimsuky використовують ШІ?",
+      "a": "За даними Genians, ШІ допомагає їм автоматизувати атаки, аналізувати викрадені дані, створювати переконливіші фішингові листи та генерувати підроблені фінансові документи."
+     },
+     {
+      "q": "Які інструменти ШІ застосовує Kimsuky?",
+      "a": "Серед них Ollama, GPT4All, Msty, технологія RAG, інструмент для розробки AI-агентів, ПЗ для розпізнавання мовлення та кодовий редактор Cursor."
+     }
+    ]
+   },
+   "rank": 66.0,
+   "image_url": "https://d39-a.sdn.cz/d_39/c_img_QO_o/F9DNz/shutterstock-680075014.jpeg?fl=cro,0,0,1000,563%7Cres,1200,,1"
+  },
   {
    "id": "n3568",
    "slug": "delo-dozimetr-sud-prodolzhit-slushaniia-s-10-avgusta",
@@ -16,8 +86,8 @@
    ],
    "published_at": "2026-08-10T07:44:55.615027+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "30 минут назад",
+    "uk": "30 хвилин тому"
    },
    "date": {
     "ru": "10 августа 2026, 07:44",
@@ -105,8 +175,8 @@
    ],
    "published_at": "2026-08-10T07:13:16.341514+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "10 августа 2026, 07:13",
@@ -201,8 +271,8 @@
    ],
    "published_at": "2026-08-10T07:13:16.341514+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "10 августа 2026, 07:13",
@@ -317,8 +387,8 @@
    ],
    "published_at": "2026-08-10T07:13:16.341514+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "10 августа 2026, 07:13",
@@ -598,8 +668,8 @@
    ],
    "published_at": "2026-08-10T02:48:40.016355+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "10 августа 2026, 02:48",
@@ -671,7 +741,7 @@
      }
     ]
    },
-   "rank": 83.322,
+   "rank": 82.695,
    "image_url": "https://i3.cn.cz/16/1786259110_P2026080703781.jpeg",
    "images": [
     "https://i3.cn.cz/6/1786259121_P2026080703783.jpeg",
@@ -694,8 +764,8 @@
    ],
    "published_at": "2026-08-10T02:13:42.308135+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "10 августа 2026, 02:13",
@@ -767,7 +837,7 @@
      }
     ]
    },
-   "rank": 77.864,
+   "rank": 77.273,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/08/Czech-beer-sales.jpg"
   },
   {
@@ -811,7 +881,7 @@
     ],
     "faq": []
    },
-   "rank": 92.381,
+   "rank": 91.649,
    "image_url": "https://1gr.cz/tempimg/fb/2025/4/premium/JGO705228ae8c_prokop2.jpg"
   },
   {
@@ -857,7 +927,7 @@
     ],
     "faq": []
    },
-   "rank": 72.636,
+   "rank": 72.05,
    "image_url": "https://cd1.incdatagate.cz/images/1ef0ea08-ad4c-619e-86f8-7369fd885464/w_1200x675.jpg"
   },
   {
@@ -919,7 +989,7 @@
     ],
     "faq": []
    },
-   "rank": 87.163,
+   "rank": 86.46,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlJdsvmBsHafHog/026a/image.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -975,7 +1045,7 @@
     ],
     "faq": []
    },
-   "rank": 80.338,
+   "rank": 79.68,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlC6PMO24qHcM8Ef/9277.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1034,7 +1104,7 @@
     ],
     "faq": []
    },
-   "rank": 98.191,
+   "rank": 97.387,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNLlZAP2bHa8ibb/3ee1/image.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1048,8 +1118,8 @@
    ],
    "published_at": "2026-08-09T20:15:13.259289+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 20:15",
@@ -1081,7 +1151,7 @@
     ],
     "faq": []
    },
-   "rank": 84.22,
+   "rank": 83.518,
    "image_url": "https://www.denik.cz/images/api/image/1366x910/7a9/7a979761-e227-4070-a5ef-206d1edef5ea.jpeg"
   },
   {
@@ -1095,8 +1165,8 @@
    ],
    "published_at": "2026-08-09T19:13:01.663731+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 19:13",
@@ -1126,7 +1196,7 @@
     ],
     "faq": []
    },
-   "rank": 77.609,
+   "rank": 76.95,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNBXDtvWfHcKF5H/5844/pocasi-predpoved-meteorologie-vedro-horko-voda-dusno-leto.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1140,8 +1210,8 @@
    ],
    "published_at": "2026-08-09T18:11:00.894591+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 18:11",
@@ -1211,7 +1281,7 @@
      }
     ]
    },
-   "rank": 86.434,
+   "rank": 85.688,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1255,8 +1325,8 @@
    ],
    "published_at": "2026-08-09T18:11:00.894591+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 18:11",
@@ -1322,7 +1392,7 @@
      }
     ]
    },
-   "rank": 82.62,
+   "rank": 81.907,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/weekly-090826.jpg"
   },
   {
@@ -1336,8 +1406,8 @@
    ],
    "published_at": "2026-08-09T17:07:24.061458+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 17:07",
@@ -1407,7 +1477,7 @@
      }
     ]
    },
-   "rank": 87.368,
+   "rank": 86.6,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsN3e2PE6cHZ1g2Z/ace3/televize-ceska-televize.jpeg?fl=cro,0,237,4000,2250%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -1423,8 +1493,8 @@
    ],
    "published_at": "2026-08-09T15:59:12.157509+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 15:59",
@@ -1494,7 +1564,7 @@
      }
     ]
    },
-   "rank": 49.755,
+   "rank": 49.309,
    "sources": [
     {
      "domain": "plus.rozhlas.cz",
@@ -1517,8 +1587,8 @@
    ],
    "published_at": "2026-08-09T14:55:07.705694+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 14:55",
@@ -1600,7 +1670,7 @@
      }
     ]
    },
-   "rank": 112.032,
+   "rank": 111.008,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -1641,8 +1711,8 @@
    ],
    "published_at": "2026-08-09T14:55:07.705694+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 14:55",
@@ -1696,7 +1766,7 @@
      }
     ]
    },
-   "rank": 84.024,
+   "rank": 83.256,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/f5e/f5e42098-7718-4393-9466-dcdc73f8881a.jpeg"
   },
   {
@@ -1711,8 +1781,8 @@
    ],
    "published_at": "2026-08-09T13:52:35.124917+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 13:52",
@@ -1780,7 +1850,7 @@
      }
     ]
    },
-   "rank": 58.923,
+   "rank": 58.374,
    "image_url": "https://cdn.kudyznudy.cz/files/12/1226461b-b798-4f66-b7cd-ef063e553777.jpg?v=20260808104611",
    "images": [
     "https://cdn.kudyznudy.cz/files/2e/2e9b0212-a867-4436-a753-18b1351f8f76.webp?v=20221001093836",
@@ -1803,8 +1873,8 @@
    ],
    "published_at": "2026-08-09T13:52:35.124917+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 13:52",
@@ -1868,7 +1938,7 @@
      }
     ]
    },
-   "rank": 62.814,
+   "rank": 62.229,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2024/08/Holašovice-czechia-4.jpg",
    "images": [
     "https://praguemorning.cz/wp-content/uploads/2024/08/Holašovice-czechia-2.jpg",
@@ -1889,8 +1959,8 @@
    ],
    "published_at": "2026-08-09T12:51:23.092777+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 12:51",
@@ -1958,7 +2028,7 @@
      }
     ]
    },
-   "rank": 88.601,
+   "rank": 87.76,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/sport2/beach-zlute-lazne-foto-jakub-machacek-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/sport2/beach-zlute-lazne-foto-jakub-machacek-475.jpg",
@@ -1981,8 +2051,8 @@
    ],
    "published_at": "2026-08-09T12:51:23.092777+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 12:51",
@@ -2050,7 +2120,7 @@
      }
     ]
    },
-   "rank": 77.044,
+   "rank": 76.313,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCcay50GqHcFDWa/d261/trebon-rybniky-sucho.jpeg?fl=cro,0,103,1102,619%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2064,8 +2134,8 @@
    ],
    "published_at": "2026-08-09T12:51:23.092777+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 12:51",
@@ -2129,7 +2199,7 @@
      }
     ]
    },
-   "rank": 77.044,
+   "rank": 76.313,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/0f3/0f3b4055-31dc-47cf-949f-2f1beed0bb7d.jpeg"
   },
   {
@@ -2143,8 +2213,8 @@
    ],
    "published_at": "2026-08-09T12:51:23.092777+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "9 августа 2026, 12:51",
@@ -2228,7 +2298,7 @@
      }
     ]
    },
-   "rank": 84.749,
+   "rank": 83.944,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rv1_9586_230227-101824_vlf.jpg"
   },
   {
@@ -2305,7 +2375,7 @@
      }
     ]
    },
-   "rank": 32.815,
+   "rank": 32.497,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/dum-18.jpg"
   },
   {
@@ -2393,7 +2463,7 @@
      }
     ]
    },
-   "rank": 57.241,
+   "rank": 56.674,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/grape-1.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/562319/grape-2-820x512-c.jpg"
@@ -2479,7 +2549,7 @@
      }
     ]
    },
-   "rank": 47.542,
+   "rank": 47.061,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/62b/62bafb73-5b18-41b1-9081-5b68b9e2a684.jpeg",
    "images": [
     "https://prazsky.denik.cz/images/api/image/640x480/87f/87f8d945-b7f8-4737-abfd-3c47b37c3daa.webp"
@@ -2572,7 +2642,7 @@
      }
     ]
    },
-   "rank": 63.242,
+   "rank": 62.602,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/shardart14.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/562483/shartart13-820x512-c.jpg",
@@ -2667,7 +2737,7 @@
      }
     ]
    },
-   "rank": 70.636,
+   "rank": 69.904,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCI59dl0gHahPr3/d4e2/vlak-ceske-drahy.jpeg?fl=cro,0,213,4096,2304%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -2762,7 +2832,7 @@
      }
     ]
    },
-   "rank": 52.497,
+   "rank": 51.941,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/money-maker-hedge.jpg",
    "video": {
     "kind": "iframe",
@@ -2830,7 +2900,7 @@
      }
     ]
    },
-   "rank": 40.927,
+   "rank": 40.484,
    "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/dc2/dc2fbd1c-d1d3-46e4-8bde-a41d0e6b20f0.jpeg"
   },
   {
@@ -2924,7 +2994,7 @@
      }
     ]
    },
-   "rank": 64.731,
+   "rank": 64.028,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlJdsvo4THa7gmA/07c5/graf.jpeg?fl=cro,0,0,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3014,7 +3084,7 @@
      }
     ]
    },
-   "rank": 69.866,
+   "rank": 69.09,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/stazeny_soubor_260806-163817_vdv.png?itok=apZyQbC1",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_clanek_cely/public/uploader/overka_studie_260805-184254_vdv.png?itok=X1fuXnBz",
@@ -3104,7 +3174,7 @@
      }
     ]
    },
-   "rank": 57.732,
+   "rank": 57.074,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260808-155442_mkm.jpeg",
    "images": [
     "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260808-155443_mkm.jpeg?itok=q40n89Yp"
@@ -3187,7 +3257,7 @@
      }
     ]
    },
-   "rank": 44.229,
+   "rank": 43.712,
    "image_url": "https://praguemorning.cz/wp-content/uploads/2026/08/floating-swimming-pool-in-Holešovice.jpg",
    "images": [
     "https://praguemorning.cz/wp-content/uploads/2026/08/floating-swimming-pool-prague-2.jpg",
@@ -3278,7 +3348,7 @@
      }
     ]
    },
-   "rank": 59.496,
+   "rank": 58.801,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlOWhOgdmHZw5HW/4934/ai.jpeg?fl=cro,320,0,3456,1944%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3331,7 +3401,7 @@
     ],
     "faq": []
    },
-   "rank": 49.765,
+   "rank": 49.137,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/nO573v8MsNLlZAWjHbDLeq/5d6c/vysoke-myto-d35.jpeg?fl=cro,0,1,4000,2250%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3389,7 +3459,7 @@
     ],
     "faq": []
    },
-   "rank": 62.585,
+   "rank": 61.773,
    "image_url": "https://i3.cn.cz/16/1564485702_IMG_20190728_081515.jpg"
   },
   {
@@ -3465,7 +3535,7 @@
     ],
     "faq": []
    },
-   "rank": 39.553,
+   "rank": 39.026,
    "image_url": "https://cdn.kudyznudy.cz/files/fb/fb5991ac-579d-46ff-8b1a-3cc175951fc7.jpg?v=20260808112748",
    "images": [
     "https://cdn.kudyznudy.cz/files/9d/9d6c34e6-d746-436b-8f21-40d1a1cd9ad4.webp?v=20260808112735",
@@ -3523,7 +3593,7 @@
     ],
     "faq": []
    },
-   "rank": 54.934,
+   "rank": 54.203,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_qE_A/kO7lxrd9zlCcay5xkbHbvlOW/ed89/nehoda.jpeg?fl=cro,0,0,3840,2160%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -3593,7 +3663,7 @@
     ],
     "faq": []
    },
-   "rank": 50.758,
+   "rank": 50.063,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qE_A/kO7lxrd9zlC0nqxwrUHbi7vz/7e27.mpo?fl=cro,0,213,4096,2304%7Cres,1200,,1",
    "images": [
     "https://d39-a.sdn.cz/d_39/c_img_qE_A/kO7lxrd9zlCmkC50W8HbnL05/9add.jpeg?fl=cro,0,0,2560,1440%7Cres,1200,,1%7Cwebp,75"
@@ -3667,7 +3737,7 @@
     ],
     "faq": []
    },
-   "rank": 24.043,
+   "rank": 23.714,
    "image_url": "https://i.iinfo.cz/images/439/raspberry-pi-4b-1.jpg"
   },
   {
@@ -3714,7 +3784,7 @@
     ],
     "faq": []
    },
-   "rank": 51.858,
+   "rank": 51.127,
    "image_url": "https://d39-a.sdn.cz/d_39/c_img_qE_A/kO7lxrd9zlOWhOxBoHbqn7i/126d/lago-di-garda.jpeg?fl=cro,0,122,1280,720%7Cres,1200,,1"
   },
   {
@@ -3819,7 +3889,7 @@
      }
     ]
    },
-   "rank": 70.008,
+   "rank": 69.021,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -3909,7 +3979,7 @@
     ],
     "faq": []
    },
-   "rank": 35.629,
+   "rank": 35.11,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/wolf-2984865_1920_250929-210531_job.jpg"
   },
   {
@@ -3960,7 +4030,7 @@
     ],
     "faq": []
    },
-   "rank": 41.347,
+   "rank": 40.726,
    "image_url": "https://tydenikpolicie.cz/wp-content/uploads/2024/10/DSC_7027.jpg"
   },
   {
@@ -4021,7 +4091,7 @@
     ],
     "faq": []
    },
-   "rank": 46.212,
+   "rank": 45.517,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_QI_7/qiDGu/zeleznice-turistika-turismus-turista-cestovani-vlak-uzkokolejka-uzkokolejky-jindrichohradecke-uzkokolejky-jhmd-parni-vlak-ceska-kanada.jpeg?fl=cro,0,198,3818,2147%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -4099,7 +4169,7 @@
      }
     ]
    },
-   "rank": 51.857,
+   "rank": 51.052,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/veci-1/ridicsky-prukaz-foto-mdcr-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/veci-1/ridicsky-prukaz-foto-mdcr-475.jpg",
@@ -4185,7 +4255,7 @@
      }
     ]
    },
-   "rank": 40.071,
+   "rank": 39.449,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -4298,7 +4368,7 @@
      }
     ]
    },
-   "rank": 36.818,
+   "rank": 36.227,
    "sources": [
     {
      "domain": "cez.cz",
@@ -4399,7 +4469,7 @@
      }
     ]
    },
-   "rank": 53.271,
+   "rank": 52.415,
    "sources": [
     {
      "domain": "moravskoslezsky.denik.cz",
@@ -4498,7 +4568,7 @@
      }
     ]
    },
-   "rank": 43.254,
+   "rank": 42.559,
    "image_url": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/whatsapp_image_2026-_260808-102509_kch_1.jpeg"
   },
   {
@@ -4592,7 +4662,7 @@
      }
     ]
    },
-   "rank": 42.116,
+   "rank": 41.439,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/dsquared2-mvp.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/08/dsquared2-x2-1630x1019.jpg",
@@ -4676,7 +4746,7 @@
      }
     ]
    },
-   "rank": 43.954,
+   "rank": 43.222,
    "image_url": "https://cc.cz/wp-content/uploads/2026/08/ales-michl.jpg",
    "images": [
     "https://cc.cz/wp-content/uploads/2026/08/cnb-1630x1019.jpg"
@@ -4769,7 +4839,7 @@
      }
     ]
    },
-   "rank": 55.979,
+   "rank": 55.014,
    "sources": [
     {
      "domain": "ceskobudejovicky.denik.cz",
@@ -4832,7 +4902,7 @@
     ],
     "faq": []
    },
-   "rank": 30.623
+   "rank": 30.037
   },
   {
    "id": "n3509",
@@ -4908,7 +4978,7 @@
      }
     ]
    },
-   "rank": 36.315,
+   "rank": 35.613,
    "image_url": "https://www.prazskypatriot.cz/obrazky_resize/praha-7/park-u-vody-koupani-669-with-mask.jpg",
    "images": [
     "https://www.prazskypatriot.cz/obrazky_resize/praha-7/park-u-vody-koupani-475.jpg",
@@ -4994,7 +5064,7 @@
      }
     ]
    },
-   "rank": 33.485,
+   "rank": 32.809,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -5096,7 +5166,7 @@
      }
     ]
    },
-   "rank": 38.085,
+   "rank": 37.317,
    "image_url": "https://media.eco-files.cz/economia/production/files/2025/11/05/20/00/13/a73378c4-4d82-460b-8f9d-2370b6c5be94/f6ab4729f2dc33faad87d8473122dca7.jpg"
   },
   {
@@ -12154,8 +12224,8 @@
    ],
    "published_at": "2026-08-06T08:04:49.419103+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "6 августа 2026, 08:04",
@@ -12244,8 +12314,8 @@
    ],
    "published_at": "2026-08-06T08:04:49.419103+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "6 августа 2026, 08:04",
@@ -16745,8 +16815,8 @@
    ],
    "published_at": "2026-08-05T07:54:16.726497+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "5 августа 2026, 07:54",
@@ -16848,8 +16918,8 @@
    ],
    "published_at": "2026-08-05T07:54:16.726497+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "5 августа 2026, 07:54",
@@ -20495,8 +20565,8 @@
    ],
    "published_at": "2026-08-04T08:11:58.421336+02:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "4 августа 2026, 08:11",
@@ -22987,58 +23057,6 @@
     "https://cdn.kudyznudy.cz/files/c4/c4b05e4b-570f-47bf-9c93-b6a66cc836cc.webp?v=20250801210851",
     "https://cdn.kudyznudy.cz/KZN/IMG/Map/f1/f1280a26-1f82-4108-8b56-483a8e5329b4-desktop.png?v=20260803143249"
    ]
-  },
-  {
-   "id": "n3266",
-   "slug": "finansovyi-ofis-v-praha-7-zaimut-semki-amerikanskogo-seriala",
-   "source": "prazsky.denik.cz",
-   "original_url": "https://prazsky.denik.cz/zpravy-region/financni-urad-v-praze-7-obsadi-filmari-natacet-se-bude-americky-serial/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zpravy-region",
-   "top": false,
-   "tags": [
-    "praha",
-    "zvezdy"
-   ],
-   "published_at": "2026-08-03T15:04:20.679632+02:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "3 августа 2026, 15:04",
-    "uk": "3 серпня 2026, 15:04"
-   },
-   "ru": {
-    "title": "Финансовый офис в Praha 7 займут съемки американского сериала",
-    "lede": "В здании финансового управления в Praha 7 будут снимать американский шпионский сериал Birdwatcher. Съемки пройдут только по выходным, поэтому обычная работа офиса не остановится.",
-    "meta_description": "Финансовый офис в Praha 7 станет площадкой для съемок американского сериала Birdwatcher. Съемки по выходным, ограничения на набережной Kapitána Jaroše.",
-    "paras": [
-     "<p>Финансовое управление в районе Praha 7 на время станет съемочной площадкой американского сериала Birdwatcher. Об этом сообщил городской район, а также директор Финансового управления для столицы Praha Václav Žemlička.</p>",
-     "<p>Birdwatcher это шпионская фэнтези-сага, действие которой происходит в 20 веке, во время холодной войны. Съемки пройдут в здании на набережной Kapitána Jaroše 1000/7, Praha 7.</p>",
-     "<blockquote>Съемки сериала Birdwatcher в здании на набережной Kapitána Jaroše 1000/7, Praha 7 будут проходить исключительно по выходным, то есть обычный режим работы офиса это никак не затронет.</blockquote>",
-     "<p>Так заявил директор Финансового управления для столицы Praha Václav Žemlička.</p>",
-     "<p>Киношники будут снимать внутри здания, а тротуар перед офисом закроют для парковки техники. Машины съемочной группы также займут парковочные места на набережной Kapitána Jaroše. Запрет парковки введут и на улице Na Ovčinách, автомобили смогут только проезжать по ней.</p>",
-     "<p>Ограничения не будут действовать круглосуточно: их раскидали по нескольким датам. Карту с точными сроками можно посмотреть на сайте Praha 7.</p>",
-     "<p>Сериал создают студии Legendary и Apple TV, режиссером выступает Andy Goddard. Главную роль получил актер Wyatt Russell. Чешской стороной производства занимается компания Stillking Films, которая ранее участвовала в работе над фильмом Gray Man, тоже снимавшимся в Praha.</p>"
-    ],
-    "faq": []
-   },
-   "uk": {
-    "title": "Фінансовий офіс у Praha 7 займуть зйомки американського серіалу",
-    "lede": "У будівлі фінансового управління в Praha 7 зніматимуть американський шпигунський серіал Birdwatcher. Зйомки відбудуться лише у вихідні, тому звичайна робота офісу не зупиниться.",
-    "meta_description": "Фінансовий офіс у Praha 7 стане майданчиком для зйомок американського серіалу Birdwatcher. Зйомки у вихідні, обмеження на набережній Kapitána Jaroše.",
-    "paras": [
-     "<p>Фінансове управління в районі Praha 7 на час стане знімальним майданчиком американського серіалу Birdwatcher. Про це повідомив міський район, а також директор Фінансового управління для столиці Praha Václav Žemlička.</p>",
-     "<p>Birdwatcher це шпигунська фентезі-сага, дія якої відбувається у 20 столітті, під час холодної війни. Зйомки пройдуть у будівлі на набережній Kapitána Jaroše 1000/7, Praha 7.</p>",
-     "<blockquote>Зйомки серіалу Birdwatcher у будівлі на набережній Kapitána Jaroše 1000/7, Praha 7 відбуватимуться виключно у вихідні, тобто звичайний режим роботи офісу це ніяк не зачепить.</blockquote>",
-     "<p>Так заявив директор Фінансового управління для столиці Praha Václav Žemlička.</p>",
-     "<p>Кіношники зніматимуть усередині будівлі, а тротуар перед офісом закриють для паркування техніки. Машини знімальної групи також займуть паркувальні місця на набережній Kapitána Jaroše. Заборону паркування введуть і на вулиці Na Ovčinách, автомобілі зможуть тільки проїжджати по ній.</p>",
-     "<p>Обмеження не діятимуть цілодобово: їх розподілили за кількома датами. Карту з точними термінами можна переглянути на сайті Praha 7.</p>",
-     "<p>Серіал створюють студії Legendary та Apple TV, режисером виступає Andy Goddard. Головну роль отримав актор Wyatt Russell. Чеською стороною виробництва займається компанія Stillking Films, яка раніше брала участь у роботі над фільмом Gray Man, що також знімався в Praha.</p>"
-    ],
-    "faq": []
-   },
-   "rank": 38.5,
-   "image_url": "https://prazsky.denik.cz/images/api/image/1366x910/48c/48c87319-7f69-4b93-adcf-33e4d2c02076.jpeg"
   }
  ]
 }
