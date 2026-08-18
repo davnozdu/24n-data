@@ -5,10 +5,6 @@
   "type": "module",
   "description": "24n.cz — публичное хранилище новостей (articles.json) + CI-деплой на хостinг по FTPS",
   "scripts": {
-    "index": "pagefind --site site/dist",
     "deploy": "node .github/scripts/deploy.mjs"
-  },
-  "devDependencies": {
-    "pagefind": "^1.5.2"
   }
 }

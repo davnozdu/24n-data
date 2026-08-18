@@ -14,7 +14,7 @@
                       1. checkout этого репо (articles.json)
                       2. checkout приватного davnozdu/24n (генератор + scaffold.json)
                       3. assemble.py: data.json = scaffold.json + articles.json
-                      4. generate.py → dist/  +  pagefind (поиск)
+                      4. generate.py → dist/ (включая индекс поиска по заголовкам)
                       5. lftp FTPS → хостинг (только изменённые файлы, архив цел)
 ```
 

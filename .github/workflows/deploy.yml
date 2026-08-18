@@ -67,10 +67,10 @@ jobs:
       - name: Install deploy dependencies
         run: npm install --no-audit --no-fund
 
-      # Индекс Pagefind пересобирается поверх свежего dist; изменённые чанки
-      # уйдут на сервер отдельным зеркалом (--delete) в deploy.mjs.
-      - name: Build search index (Pagefind)
-        run: npx pagefind --site site/dist
+      # Отдельного шага под поиск больше нет: индекс заголовков собирает сам
+      # generate.py — по одному файлу на язык (/{lang}/search/index.json).
+      # Pagefind клал файл-фрагмент на КАЖДУЮ страницу, на архиве это тысячи
+      # файлов и десятки мегабайт рядом с сайтом.
 
       # lftp: FTPS с переиспользованием TLS-сессии (basic-ftp падал ECONNRESET).
       - name: Install lftp
