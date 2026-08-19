@@ -4,3 +4,7 @@ dist/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Легаси-снимок: качается из релиза в CI, в репозитории ему не место (59 МБ)
+legacy/
+legacy.tar.gz
