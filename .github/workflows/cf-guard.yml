@@ -1,0 +1,84 @@
+name: Cloudflare quota guard
+
+# СТОРОЖ СУТОЧНОЙ КВОТЫ вызовов воркера 24n.cz.
+#
+# Статику Cloudflare отдаёт бесплатно, но за каждой страницей из R2-архива
+# просыпается воркер — а его на Free 100 000 в сутки, и тратят их краулеры,
+# обходящие архив. Кончится квота — архивные страницы начнут отдавать 429.
+# Сторож это замечает и включает в WAF правило, отсекающее краулеров на путях
+# статей: WAF срабатывает ДО воркера, поэтому тормоз сам квоту не тратит, а
+# читателей и поисковики не задевает. Остынет — правило снимется само.
+#
+# ВТОРОЙ СТОРОЖ, НЕЗАВИСИМЫЙ. Тот же обход делает робот autopost на NAS
+# (app/n420/cfwatch.py). Он менее стабилен, чем GitHub, зато не зависит от
+# него: когда лежит GitHub, дежурит NAS, и наоборот. Спорить они не могут —
+# состояние хранится не у них, а в самом Cloudflare (включено правило или
+# нет), и любой проход идемпотентен.
+#
+# Расписание — каждые 15 минут. GitHub запускает cron с задержкой и может
+# пропустить тик под нагрузкой; это учтено порогами (тормоз включается на 85%,
+# запаса хватает на несколько пропущенных проходов).
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Только посмотреть, ничего не менять"
+        type: boolean
+        default: false
+
+concurrency:
+  group: cf-guard
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    name: Check worker quota and arm the brake
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Код сторожа живёт в приватном репозитории сайта, рядом с остальной
+      # обвязкой Cloudflare (split.py, worker.js) — там ему и место.
+      - name: Checkout private site code
+        uses: actions/checkout@v5
+        with:
+          repository: davnozdu/24n
+          ref: main
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: site
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run guard
+        env:
+          # Отдельный токен, НЕ деплойный: ему нужны только Account
+          # Analytics:Read, Zone:Read и Zone WAF:Edit. Держать эти права на
+          # ключе, который правит боевой воркер, ни к чему.
+          CF_API_TOKEN: ${{ secrets.CF_GUARD_TOKEN }}
+          CF_ACCOUNT_ID: ${{ vars.CF_ACCOUNT_ID }}
+          CF_DAILY_LIMIT: ${{ vars.CF_DAILY_LIMIT || '100000' }}
+          CF_SCRIPT: ${{ vars.CF_SCRIPT || 'n24-test' }}
+          CF_ZONE: ${{ vars.CF_ZONE || '24n.cz' }}
+        run: |
+          # Секрет проверяем внутри шага: secrets в if: уровня шага GitHub не
+          # разрешает — с ними workflow не парсится целиком.
+          if [ -z "$CF_API_TOKEN" ] || [ -z "$CF_ACCOUNT_ID" ]; then
+            echo "CF_GUARD_TOKEN или CF_ACCOUNT_ID не заданы — сторож пропущен"
+            exit 0
+          fi
+          DRY=""
+          [ "${{ inputs.dry_run }}" = "true" ] && DRY="--dry-run"
+          python3 site/cloudflare/cfguard.py $DRY | tee guard.json
+
+      # Сводку видно прямо в списке прогонов, без открытия логов.
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f guard.json ]; then
+            tail -1 guard.json >> "$GITHUB_STEP_SUMMARY"
+          fi

@@ -71,13 +71,37 @@ jobs:
       - name: Build static site (data.json → site/dist/)
         run: python3 site/generator/generate.py
 
+      # 1381 статья (×2 языка) выложена до начала суточного архивирования:
+      # данных от них не осталось, generate.py их не собирает. До 19 августа
+      # 2026 они жили ТОЛЬКО в R2, и каждый показ будил воркер — замер показал,
+      # что на них уходило ~100% суточных вызовов (краулеры обходят архив).
+      # Теперь тот же снимок доливается в ассеты, и Cloudflare отдаёт их сам.
+      # Собран скриптом site/cloudflare/pack_legacy.py, лежит в релизе этого
+      # репозитория. Не забрался — не беда: страницы по-прежнему есть в R2.
+      - name: Fetch legacy pages (pre-archive articles)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download legacy-archive --repo "$GITHUB_REPOSITORY" \
+             --pattern legacy.tar.gz --output legacy.tar.gz --clobber
+          mkdir -p legacy && tar -xzf legacy.tar.gz -C legacy
+          echo "легаси-страниц долито: $(find legacy -name '*.html' | wc -l)"
+
       - name: Deploy to Cloudflare Workers
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          # Окно активных статей. 0 — весь сайт статикой (сейчас это ~6800
-          # файлов при потолке 20 000). Дорастём до потолка — поставить 120,
-          # и старое поедет в R2, откуда его отдаёт воркер.
+          # Окно по СРОКУ. 0 = по сроку ничего не выселяем: чем больше лежит в
+          # ассетах, тем меньше вызовов воркера. Границу держит не эта ручка, а
+          # бюджет файлов ниже.
           ACTIVE_DAYS: ${{ vars.CF_ACTIVE_DAYS || '0' }}
+          # БЮДЖЕТ ФАЙЛОВ — страховка от главной аварии. У ассетов жёсткий
+          # потолок (20 000 Free / 100 000 платный), и на превышении падает САМ
+          # деплой: сайт замирает на прошлом снимке и новости перестают
+          # выходить. split.py досыпает в архив самые старые статьи, пока не
+          # влезем, поэтому упереться в потолок нельзя. 18 000 — потолок Free
+          # минус запас на служебные страницы и скачки за прогон.
+          MAX_FILES: ${{ vars.CF_MAX_FILES || '18000' }}
         run: |
           # Наличие секрета проверяем В ШАГЕ, а не в if: GitHub не разрешает
           # secrets в выражениях уровня шага — с ними workflow не парсится
@@ -88,8 +112,10 @@ jobs:
           fi
           # Снимок кладём в site/dist-cf: wrangler.toml ищет его как ../dist-cf
           # относительно site/cloudflare, откуда запускается deploy.
+          EXTRA=""
+          [ -d legacy ] && EXTRA="--extra legacy"
           python3 site/cloudflare/split.py site/dist site/dist-cf site/generator/data.json \
-                  --days "$ACTIVE_DAYS" --r2-out dist-r2
+                  --days "$ACTIVE_DAYS" --max-files "$MAX_FILES" $EXTRA --r2-out dist-r2
           # ПОРЯДОК ВАЖЕН: сначала архив в R2, потом снимок. Иначе на границе
           # окна будут 404 на страницы, уже выпавшие из снимка.
           if [ -d dist-r2 ] && [ -n "$(find dist-r2 -type f -print -quit)" ]; then
