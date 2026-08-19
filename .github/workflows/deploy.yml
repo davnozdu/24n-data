@@ -125,7 +125,9 @@ jobs:
           # и старое поедет в R2, откуда его отдаёт воркер.
           ACTIVE_DAYS: ${{ vars.CF_ACTIVE_DAYS || '0' }}
         run: |
-          python3 site/cloudflare/split.py site/dist dist-cf site/generator/data.json \
+          # Снимок кладём в site/dist-cf: wrangler.toml ищет его как ../dist-cf
+          # относительно site/cloudflare, откуда запускается deploy.
+          python3 site/cloudflare/split.py site/dist site/dist-cf site/generator/data.json \
                   --days "$ACTIVE_DAYS" --r2-out dist-r2
           # ПОРЯДОК ВАЖЕН: сначала архив в R2, потом снимок. Иначе на границе
           # окна будут 404 на страницы, уже выпавшие из снимка.
