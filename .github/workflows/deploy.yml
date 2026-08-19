@@ -115,7 +115,6 @@ jobs:
       # Нужен секрет CLOUDFLARE_API_TOKEN (права Workers Scripts: Edit и
       # Workers R2 Storage: Edit). Нет секрета — шаг просто пропускается.
       - name: Deploy copy to Cloudflare Workers (test)
-        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
         continue-on-error: true
         timeout-minutes: 15
         env:
@@ -125,6 +124,13 @@ jobs:
           # и старое поедет в R2, откуда его отдаёт воркер.
           ACTIVE_DAYS: ${{ vars.CF_ACTIVE_DAYS || '0' }}
         run: |
+          # Наличие секрета проверяем В ШАГЕ, а не в if: GitHub не разрешает
+          # secrets в выражениях уровня шага — с ними workflow не парсится
+          # ЦЕЛИКОМ, то есть падает и обычный деплой новостей.
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "CLOUDFLARE_API_TOKEN не задан — копия на Cloudflare пропущена"
+            exit 0
+          fi
           # Снимок кладём в site/dist-cf: wrangler.toml ищет его как ../dist-cf
           # относительно site/cloudflare, откуда запускается deploy.
           python3 site/cloudflare/split.py site/dist site/dist-cf site/generator/data.json \
