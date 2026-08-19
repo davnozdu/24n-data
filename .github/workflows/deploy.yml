@@ -146,10 +146,27 @@ jobs:
       # обычно установка занимает секунды, а разовый сбой зеркала лечится
       # повторной попыткой лучше, чем падением всего деплоя.
       - name: Install lftp
-        timeout-minutes: 5
+        timeout-minutes: 4
         run: |
-          install_lftp() { sudo apt-get update -qq && sudo apt-get install -y lftp >/dev/null; }
-          install_lftp || { echo "первая попытка не удалась, повтор через 15с"; sleep 15; install_lftp; }
+          # Залипает не установка, а `apt-get update`: он тянет метаданные ВСЕХ
+          # подключённых репозиториев (ubuntu, azure-зеркала, сторонние), и
+          # когда одно из зеркал молчит, шаг стоит десятками минут. Так деплой
+          # вставал трижды за день.
+          #
+          # Поэтому сначала пробуем поставить БЕЗ обновления списков: в образе
+          # runner'а индексы обычно достаточно свежие, а lftp — пакет из main,
+          # который годами не меняется. Обновляемся только если не вышло, и то
+          # с отключёнными переводами и по одному репозиторию.
+          set -e
+          if sudo apt-get install -y -qq lftp >/dev/null 2>&1; then
+            echo "lftp поставлен без обновления списков"
+            exit 0
+          fi
+          echo "не вышло из готовых индексов — обновляю списки"
+          sudo apt-get update -qq -o Acquire::Languages=none \
+                                   -o Acquire::Retries=2 \
+                                   -o Acquire::http::Timeout=20
+          sudo apt-get install -y -qq lftp >/dev/null
 
       # Заливка ТОЛЬКО изменённых файлов (mirror по размеру), архив на сервере цел.
       - name: Upload changed files via FTPS (lftp)
