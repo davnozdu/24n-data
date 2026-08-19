@@ -26,6 +26,12 @@ jobs:
   deploy:
     name: Assemble, build & upload changed files via FTPS
     runs-on: ubuntu-latest
+    # Потолок на весь прогон: обычный деплой укладывается в 10-15 минут, а
+    # apt-get за lftp однажды провисел 50 минут молча (шаг «Install lftp»,
+    # зеркало Ubuntu не отвечало) — новости всё это время не выходили.
+    # Упереться в потолок лучше, чем висеть: следующий пуш робота всё равно
+    # запустит деплой заново, а очередь не будет забита мертвецом.
+    timeout-minutes: 30
     environment:
       name: production
       url: https://24n.cz/
@@ -73,8 +79,15 @@ jobs:
       # файлов и десятки мегабайт рядом с сайтом.
 
       # lftp: FTPS с переиспользованием TLS-сессии (basic-ftp падал ECONNRESET).
+      # Ставится из репозиториев Ubuntu, то есть зависит от чужого зеркала —
+      # однажды этот шаг молча провисел 50 минут. Свой таймаут и один повтор:
+      # обычно установка занимает секунды, а разовый сбой зеркала лечится
+      # повторной попыткой лучше, чем падением всего деплоя.
       - name: Install lftp
-        run: sudo apt-get update -qq && sudo apt-get install -y lftp >/dev/null
+        timeout-minutes: 5
+        run: |
+          install_lftp() { sudo apt-get update -qq && sudo apt-get install -y lftp >/dev/null; }
+          install_lftp || { echo "первая попытка не удалась, повтор через 15с"; sleep 15; install_lftp; }
 
       # Заливка ТОЛЬКО изменённых файлов (mirror по размеру), архив на сервере цел.
       - name: Upload changed files via FTPS (lftp)
