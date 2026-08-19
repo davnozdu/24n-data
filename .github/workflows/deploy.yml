@@ -118,11 +118,17 @@ jobs:
                   --days "$ACTIVE_DAYS" --max-files "$MAX_FILES" $EXTRA --r2-out dist-r2
           # ПОРЯДОК ВАЖЕН: сначала архив в R2, потом снимок. Иначе на границе
           # окна будут 404 на страницы, уже выпавшие из снимка.
+          #
+          # Заливаем своим скриптом, а НЕ `wrangler r2 object put` в цикле: тот
+          # поднимает Node на каждый файл, около 4 секунд на штуку. Снимок
+          # собирается с нуля каждый прогон, поэтому в архив попадает весь
+          # излишек сверх бюджета, а не разница, — на прежнем способе деплой
+          # начал бы падать по таймауту, как только бюджет впервые сработает
+          # (расчёт: 2100 файлов = 142 минуты при timeout-minutes: 20).
+          # put_r2.py сверяется с манифестом в самом бакете и льёт только новое,
+          # параллельно: замер 60 файлов — 13 секунд вместо четырёх минут.
           if [ -d dist-r2 ] && [ -n "$(find dist-r2 -type f -print -quit)" ]; then
-            find dist-r2 -type f | while read -r f; do
-              npx --yes wrangler@4 r2 object put "24n-archive/${f#dist-r2/}" \
-                  --file "$f" --remote >/dev/null
-            done
+            python3 site/cloudflare/put_r2.py dist-r2 --bucket 24n-archive
           fi
           cd site/cloudflare && npx --yes wrangler@4 deploy
 
