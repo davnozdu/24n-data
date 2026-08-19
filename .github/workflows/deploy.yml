@@ -58,9 +58,15 @@ jobs:
       - name: Install Python build deps
         run: python3 -m pip install --quiet Pillow
 
-      # data.json = приватный scaffold.json + публичный articles.json.
-      - name: Assemble data.json (scaffold + articles)
-        run: python3 .github/scripts/assemble.py site/generator/scaffold.json articles.json site/generator/data.json
+      # ВЕСЬ архив, а не окно последних новостей. Хостингу хватает окна —
+      # там страницы копятся на сервере; деплой Cloudflare это ПОЛНЫЙ СНИМОК,
+      # и собранный из окна снимок стирал 2311 статей, лежащих в срезах.
+      - name: Collect full article set (archive + window)
+        run: python3 .github/scripts/full_articles.py archive articles.json full-articles.json
+
+      # data.json = приватный scaffold.json + полный набор статей.
+      - name: Assemble data.json (scaffold + all articles)
+        run: python3 .github/scripts/assemble.py site/generator/scaffold.json full-articles.json site/generator/data.json
 
       - name: Build static site (data.json → site/dist/)
         run: python3 site/generator/generate.py
