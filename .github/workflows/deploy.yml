@@ -104,3 +104,35 @@ jobs:
           # Собранный сайт лежит в site/dist (приватный репо чекаутится в site/).
           DIST_DIR: site/dist
         run: npm run deploy
+
+      # ── Вторая копия: тестовый сайт на Cloudflare Workers ────────────────
+      # Тот же собранный dist уезжает ещё и на Cloudflare, чтобы к моменту
+      # переключения домена там лежала живая, прогретая копия — переезд сведётся
+      # к привязке 24n.cz к проекту. Боевой FTP выше это НЕ трогает: шаг
+      # добавлен после него и своим провалом деплой не рушит (continue-on-error),
+      # потому что пока это лишь репетиция.
+      #
+      # Нужен секрет CLOUDFLARE_API_TOKEN (права Workers Scripts: Edit и
+      # Workers R2 Storage: Edit). Нет секрета — шаг просто пропускается.
+      - name: Deploy copy to Cloudflare Workers (test)
+        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          # Окно активных статей. 0 — весь сайт статикой (сейчас это ~8400
+          # файлов при потолке 20 000). Дорастём до потолка — поставить 120,
+          # и старое поедет в R2, откуда его отдаёт воркер.
+          ACTIVE_DAYS: ${{ vars.CF_ACTIVE_DAYS || '0' }}
+        run: |
+          python3 site/cloudflare/split.py site/dist dist-cf site/generator/data.json \
+                  --days "$ACTIVE_DAYS" --r2-out dist-r2
+          # ПОРЯДОК ВАЖЕН: сначала архив в R2, потом снимок. Иначе на границе
+          # окна будут 404 на страницы, уже выпавшие из снимка.
+          if [ -d dist-r2 ] && [ -n "$(find dist-r2 -type f -print -quit)" ]; then
+            find dist-r2 -type f | while read -r f; do
+              npx --yes wrangler@4 r2 object put "24n-archive/${f#dist-r2/}" \
+                  --file "$f" --remote >/dev/null
+            done
+          fi
+          cd site/cloudflare && npx --yes wrangler@4 deploy
