@@ -1,14 +1,23 @@
 name: Deploy 24n from public data
 
 # Публичный репозиторий-хранилище новостей 24n.cz. Робот-автопостер пушит сюда
-# articles.json → этот Action собирает сайт и заливает по FTPS на хостинг.
+# articles.json → этот Action собирает сайт и раскладывает его по ДВУМ местам.
 #
 # Почему CI, а не прямой FTP с робота: репо ПУБЛИЧНЫЙ → минуты GitHub Actions
 # бесплатны и безлимитны, поэтому «минуты кончались» больше не проблема, а сборку
-# держит один воспроизводимый пайплайн (тот же generate.py + lftp, что и раньше).
+# держит один воспроизводимый пайплайн (тот же generate.py, что и раньше).
 #
 # Код/дизайн (generator, шаблоны, статика, generator/scaffold.json) живёт в
 # ПРИВАТНОМ репо davnozdu/24n — чекаутится сюда по секрету SITE_REPO_TOKEN.
+#
+# ДВА НЕЗАВИСИМЫХ ПОТОКА, идут параллельно:
+#   cloudflare — тестовая копия на Workers. Быстрая (заливка секунды против
+#                минут у FTP), поэтому новости появляются там первыми и она НЕ
+#                ждёт хостинг.
+#   hosting    — боевой сайт по FTPS, как и раньше.
+# Каждый собирает сайт у себя: сборка занимает секунды, а гонять 200 МБ через
+# артефакты между задачами вышло бы дольше и хрупче. Падение одного потока не
+# трогает другой — в этом и смысл разделения.
 
 on:
   push:
@@ -23,24 +32,15 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    name: Assemble, build & upload changed files via FTPS
+  # ── Быстрый поток: копия на Cloudflare Workers ──────────────────────────
+  cloudflare:
+    name: Build & deploy to Cloudflare Workers
     runs-on: ubuntu-latest
-    # Потолок на весь прогон: обычный деплой укладывается в 10-15 минут, а
-    # apt-get за lftp однажды провисел 50 минут молча (шаг «Install lftp»,
-    # зеркало Ubuntu не отвечало) — новости всё это время не выходили.
-    # Упереться в потолок лучше, чем висеть: следующий пуш робота всё равно
-    # запустит деплой заново, а очередь не будет забита мертвецом.
-    timeout-minutes: 30
-    environment:
-      name: production
-      url: https://24n.cz/
+    timeout-minutes: 20
     steps:
       - name: Checkout news data (this repo)
         uses: actions/checkout@v5
 
-      # Приватный репо с генератором/дизайном и скелетом data.json (scaffold.json).
-      # Нужен PAT c правом contents:read на davnozdu/24n (секрет SITE_REPO_TOKEN).
       - name: Checkout private site code
         uses: actions/checkout@v5
         with:
@@ -65,6 +65,73 @@ jobs:
       - name: Build static site (data.json → site/dist/)
         run: python3 site/generator/generate.py
 
+      - name: Deploy to Cloudflare Workers
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          # Окно активных статей. 0 — весь сайт статикой (сейчас это ~6800
+          # файлов при потолке 20 000). Дорастём до потолка — поставить 120,
+          # и старое поедет в R2, откуда его отдаёт воркер.
+          ACTIVE_DAYS: ${{ vars.CF_ACTIVE_DAYS || '0' }}
+        run: |
+          # Наличие секрета проверяем В ШАГЕ, а не в if: GitHub не разрешает
+          # secrets в выражениях уровня шага — с ними workflow не парсится
+          # ЦЕЛИКОМ, то есть падает и обычный деплой новостей.
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "CLOUDFLARE_API_TOKEN не задан — копия на Cloudflare пропущена"
+            exit 0
+          fi
+          # Снимок кладём в site/dist-cf: wrangler.toml ищет его как ../dist-cf
+          # относительно site/cloudflare, откуда запускается deploy.
+          python3 site/cloudflare/split.py site/dist site/dist-cf site/generator/data.json \
+                  --days "$ACTIVE_DAYS" --r2-out dist-r2
+          # ПОРЯДОК ВАЖЕН: сначала архив в R2, потом снимок. Иначе на границе
+          # окна будут 404 на страницы, уже выпавшие из снимка.
+          if [ -d dist-r2 ] && [ -n "$(find dist-r2 -type f -print -quit)" ]; then
+            find dist-r2 -type f | while read -r f; do
+              npx --yes wrangler@4 r2 object put "24n-archive/${f#dist-r2/}" \
+                  --file "$f" --remote >/dev/null
+            done
+          fi
+          cd site/cloudflare && npx --yes wrangler@4 deploy
+
+  # ── Боевой поток: хостинг по FTPS ───────────────────────────────────────
+  hosting:
+    name: Build & upload changed files via FTPS
+    runs-on: ubuntu-latest
+    # Потолок на прогон: обычный деплой укладывается в 10-15 минут, а apt-get
+    # за lftp однажды провисел 50 минут молча (зеркало Ubuntu не отвечало) —
+    # новости всё это время не выходили. Упереться в потолок лучше, чем висеть:
+    # следующий пуш робота запустит деплой заново.
+    timeout-minutes: 30
+    environment:
+      name: production
+      url: https://24n.cz/
+    steps:
+      - name: Checkout news data (this repo)
+        uses: actions/checkout@v5
+
+      - name: Checkout private site code
+        uses: actions/checkout@v5
+        with:
+          repository: davnozdu/24n
+          ref: main
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: site
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install Python build deps
+        run: python3 -m pip install --quiet Pillow
+
+      - name: Assemble data.json (scaffold + articles)
+        run: python3 .github/scripts/assemble.py site/generator/scaffold.json articles.json site/generator/data.json
+
+      - name: Build static site (data.json → site/dist/)
+        run: python3 site/generator/generate.py
+
       - name: Setup Node.js 24
         uses: actions/setup-node@v5
         with:
@@ -72,11 +139,6 @@ jobs:
 
       - name: Install deploy dependencies
         run: npm install --no-audit --no-fund
-
-      # Отдельного шага под поиск больше нет: индекс заголовков собирает сам
-      # generate.py — по одному файлу на язык (/{lang}/search/index.json).
-      # Pagefind клал файл-фрагмент на КАЖДУЮ страницу, на архиве это тысячи
-      # файлов и десятки мегабайт рядом с сайтом.
 
       # lftp: FTPS с переиспользованием TLS-сессии (basic-ftp падал ECONNRESET).
       # Ставится из репозиториев Ubuntu, то есть зависит от чужого зеркала —
@@ -104,43 +166,3 @@ jobs:
           # Собранный сайт лежит в site/dist (приватный репо чекаутится в site/).
           DIST_DIR: site/dist
         run: npm run deploy
-
-      # ── Вторая копия: тестовый сайт на Cloudflare Workers ────────────────
-      # Тот же собранный dist уезжает ещё и на Cloudflare, чтобы к моменту
-      # переключения домена там лежала живая, прогретая копия — переезд сведётся
-      # к привязке 24n.cz к проекту. Боевой FTP выше это НЕ трогает: шаг
-      # добавлен после него и своим провалом деплой не рушит (continue-on-error),
-      # потому что пока это лишь репетиция.
-      #
-      # Нужен секрет CLOUDFLARE_API_TOKEN (права Workers Scripts: Edit и
-      # Workers R2 Storage: Edit). Нет секрета — шаг просто пропускается.
-      - name: Deploy copy to Cloudflare Workers (test)
-        continue-on-error: true
-        timeout-minutes: 15
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          # Окно активных статей. 0 — весь сайт статикой (сейчас это ~8400
-          # файлов при потолке 20 000). Дорастём до потолка — поставить 120,
-          # и старое поедет в R2, откуда его отдаёт воркер.
-          ACTIVE_DAYS: ${{ vars.CF_ACTIVE_DAYS || '0' }}
-        run: |
-          # Наличие секрета проверяем В ШАГЕ, а не в if: GitHub не разрешает
-          # secrets в выражениях уровня шага — с ними workflow не парсится
-          # ЦЕЛИКОМ, то есть падает и обычный деплой новостей.
-          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
-            echo "CLOUDFLARE_API_TOKEN не задан — копия на Cloudflare пропущена"
-            exit 0
-          fi
-          # Снимок кладём в site/dist-cf: wrangler.toml ищет его как ../dist-cf
-          # относительно site/cloudflare, откуда запускается deploy.
-          python3 site/cloudflare/split.py site/dist site/dist-cf site/generator/data.json \
-                  --days "$ACTIVE_DAYS" --r2-out dist-r2
-          # ПОРЯДОК ВАЖЕН: сначала архив в R2, потом снимок. Иначе на границе
-          # окна будут 404 на страницы, уже выпавшие из снимка.
-          if [ -d dist-r2 ] && [ -n "$(find dist-r2 -type f -print -quit)" ]; then
-            find dist-r2 -type f | while read -r f; do
-              npx --yes wrangler@4 r2 object put "24n-archive/${f#dist-r2/}" \
-                  --file "$f" --remote >/dev/null
-            done
-          fi
-          cd site/cloudflare && npx --yes wrangler@4 deploy
