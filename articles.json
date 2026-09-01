@@ -1,8 +1,67 @@
 {
- "updated_at": "2026-09-01T16:34:04+00:00",
+ "updated_at": "2026-09-01T16:38:46+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n4699",
+   "slug": "finansovyi-den-obzor-rynkov-i-ekonomiki-chekhii-na-1-sentiabria-2026",
+   "source": "24n.cz",
+   "original_url": "https://24n.cz/eco-daily/2026-09-01",
+   "top": false,
+   "tags": [
+    "ekonomika"
+   ],
+   "published_at": "2026-09-01T18:38:45.854428+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "1 сентября 2026, 18:38",
+    "uk": "1 вересня 2026, 18:38"
+   },
+   "ru": {
+    "title": "Финансовый день: обзор рынков и экономики Чехии на 1 сентября 2026",
+    "lede": "Разбор главных событий и макропоказателей чешского и мирового финансового рынков за первый день сентября.",
+    "meta_description": "Ежедневный разбор экономики и рынков Чехии: курс кроны, биржевые индексы, цены на энергоносители и главные новости бизнеса за 1 сентября 2026 года.",
+    "paras": [
+     "<h3>Динамика за 2 недели</h3><div class=\"eco-charts\"><div class=\"eco-row\"><span class=\"eco-name\">Индекс PX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,18.2 22.4,31.9 41.8,33.0 61.2,21.4 80.6,14.6 100.0,7.9 119.4,3.0 138.8,12.5 158.2,5.8 177.6,12.9 197.0,11.7 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,18.2 22.4,31.9 41.8,33.0 61.2,21.4 80.6,14.6 100.0,7.9 119.4,3.0 138.8,12.5 158.2,5.8 177.6,12.9 197.0,11.7\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2 799</span><span class=\"eco-chg up\">▲0.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.7 32.8,8.0 47.8,11.7 62.7,13.2 77.6,16.0 92.5,23.5 107.5,27.0 122.4,30.9 137.3,33.0 152.2,25.3 167.2,23.3 182.1,23.9 197.0,6.8 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.7 32.8,8.0 47.8,11.7 62.7,13.2 77.6,16.0 92.5,23.5 107.5,27.0 122.4,30.9 137.3,33.0 152.2,25.3 167.2,23.3 182.1,23.9 197.0,6.8\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">24.201</span><span class=\"eco-chg down\">▼0.1%</span></div><div class=\"eco-row\"><span class=\"eco-name\">USD/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.5 32.8,11.8 47.8,14.3 62.7,13.0 77.6,28.7 92.5,31.7 107.5,33.0 122.4,30.7 137.3,33.0 152.2,27.1 167.2,27.8 182.1,18.3 197.0,12.6 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.5 32.8,11.8 47.8,14.3 62.7,13.0 77.6,28.7 92.5,31.7 107.5,33.0 122.4,30.7 137.3,33.0 152.2,27.1 167.2,27.8 182.1,18.3 197.0,12.6\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">20.886</span><span class=\"eco-chg down\">▼0.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ČEZ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,16.4 17.9,22.7 32.8,28.3 47.8,21.2 62.7,33.0 77.6,23.5 92.5,14.1 107.5,13.3 122.4,6.9 137.3,6.9 152.2,4.6 167.2,3.0 182.1,10.1 197.0,16.4 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,16.4 17.9,22.7 32.8,28.3 47.8,21.2 62.7,33.0 77.6,23.5 92.5,14.1 107.5,13.3 122.4,6.9 137.3,6.9 152.2,4.6 167.2,3.0 182.1,10.1 197.0,16.4\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 372</span><span class=\"eco-chg up\">▲0.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Kom. banka</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,25.7 32.8,22.5 47.8,24.1 62.7,18.4 77.6,24.1 92.5,22.5 107.5,20.0 122.4,14.4 137.3,16.8 152.2,16.0 167.2,12.7 182.1,14.4 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,25.7 32.8,22.5 47.8,24.1 62.7,18.4 77.6,24.1 92.5,22.5 107.5,20.0 122.4,14.4 137.3,16.8 152.2,16.0 167.2,12.7 182.1,14.4 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 079</span><span class=\"eco-chg up\">▲3.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">STOXX 50</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,4.0 32.8,5.6 47.8,16.1 62.7,20.2 77.6,24.0 92.5,17.2 107.5,19.6 122.4,18.3 137.3,15.7 152.2,23.5 167.2,13.2 182.1,24.3 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,4.0 32.8,5.6 47.8,16.1 62.7,20.2 77.6,24.0 92.5,17.2 107.5,19.6 122.4,18.3 137.3,15.7 152.2,23.5 167.2,13.2 182.1,24.3 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6 369</span><span class=\"eco-chg down\">▼2.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">DAX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,16.5 17.9,9.5 32.8,14.6 47.8,25.1 62.7,26.9 77.6,32.4 92.5,24.7 107.5,26.2 122.4,18.2 137.3,17.2 152.2,13.1 167.2,3.0 182.1,18.6 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,16.5 17.9,9.5 32.8,14.6 47.8,25.1 62.7,26.9 77.6,32.4 92.5,24.7 107.5,26.2 122.4,18.2 137.3,17.2 152.2,13.1 167.2,3.0 182.1,18.6 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">25 970</span><span class=\"eco-chg down\">▼1.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">S&amp;P 500</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.5 32.8,13.3 47.8,23.4 62.7,20.3 77.6,33.0 92.5,26.7 107.5,30.8 122.4,26.1 137.3,26.4 152.2,15.9 167.2,19.6 182.1,24.5 197.0,32.7 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.5 32.8,13.3 47.8,23.4 62.7,20.3 77.6,33.0 92.5,26.7 107.5,30.8 122.4,26.1 137.3,26.4 152.2,15.9 167.2,19.6 182.1,24.5 197.0,32.7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">7 643</span><span class=\"eco-chg down\">▼2.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Nasdaq</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.7 32.8,8.8 47.8,21.7 62.7,20.2 77.6,29.8 92.5,25.7 107.5,33.0 122.4,26.8 137.3,27.5 152.2,12.5 167.2,17.6 182.1,18.8 197.0,26.5 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.7 32.8,8.8 47.8,21.7 62.7,20.2 77.6,29.8 92.5,25.7 107.5,33.0 122.4,26.8 137.3,27.5 152.2,12.5 167.2,17.6 182.1,18.8 197.0,26.5\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">26 160</span><span class=\"eco-chg down\">▼2.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Shanghai</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,15.1 17.9,20.5 32.8,20.5 47.8,5.1 62.7,3.0 77.6,29.6 92.5,27.0 107.5,26.6 122.4,33.0 137.3,30.9 152.2,24.5 167.2,12.3 182.1,13.6 197.0,4.1 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,15.1 17.9,20.5 32.8,20.5 47.8,5.1 62.7,3.0 77.6,29.6 92.5,27.0 107.5,26.6 122.4,33.0 137.3,30.9 152.2,24.5 167.2,12.3 182.1,13.6 197.0,4.1\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3 986</span><span class=\"eco-chg up\">▲1.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Hang Seng</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,22.1 17.9,23.6 32.8,33.0 47.8,21.7 62.7,21.1 77.6,20.3 92.5,13.5 107.5,3.0 122.4,19.5 137.3,19.7 152.2,15.0 167.2,17.9 182.1,17.3 197.0,17.9 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,22.1 17.9,23.6 32.8,33.0 47.8,21.7 62.7,21.1 77.6,20.3 92.5,13.5 107.5,3.0 122.4,19.5 137.3,19.7 152.2,15.0 167.2,17.9 182.1,17.3 197.0,17.9\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">25 567</span><span class=\"eco-chg up\">▲0.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,32.1 32.8,24.6 47.8,22.9 62.7,23.7 77.6,5.7 92.5,3.0 107.5,4.1 122.4,6.8 137.3,5.5 152.2,9.3 167.2,9.1 182.1,21.8 197.0,21.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,32.1 32.8,24.6 47.8,22.9 62.7,23.7 77.6,5.7 92.5,3.0 107.5,4.1 122.4,6.8 137.3,5.5 152.2,9.3 167.2,9.1 182.1,21.8 197.0,21.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1.159</span><span class=\"eco-chg up\">▲0.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Индекс DXY</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,10.5 32.8,11.3 47.8,11.0 62.7,32.2 77.6,30.4 92.5,33.0 107.5,27.8 122.4,29.9 137.3,23.4 152.2,23.7 167.2,9.7 182.1,16.7 197.0,10.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,10.5 32.8,11.3 47.8,11.0 62.7,32.2 77.6,30.4 92.5,33.0 107.5,27.8 122.4,29.9 137.3,23.4 152.2,23.7 167.2,9.7 182.1,16.7 197.0,10.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">99.69</span><span class=\"eco-chg down\">▼0.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">10Y US, %</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,32.6 17.9,20.5 32.8,14.4 47.8,18.3 62.7,29.9 77.6,20.5 92.5,11.3 107.5,18.8 122.4,33.0 137.3,27.5 152.2,25.8 167.2,15.3 182.1,6.9 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,32.6 17.9,20.5 32.8,14.4 47.8,18.3 62.7,29.9 77.6,20.5 92.5,11.3 107.5,18.8 122.4,33.0 137.3,27.5 152.2,25.8 167.2,15.3 182.1,6.9 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">4.776</span><span class=\"eco-chg up\">▲2.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Нефть Brent</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,27.1 32.8,17.4 47.8,16.8 62.7,14.4 77.6,5.5 92.5,3.0 107.5,12.1 122.4,26.8 137.3,29.8 152.2,22.2 167.2,23.8 182.1,19.0 197.0,6.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,27.1 32.8,17.4 47.8,16.8 62.7,14.4 77.6,5.5 92.5,3.0 107.5,12.1 122.4,26.8 137.3,29.8 152.2,22.2 167.2,23.8 182.1,19.0 197.0,6.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">93.6</span><span class=\"eco-chg up\">▲7.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Газ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,28.5 17.9,27.7 32.8,33.0 47.8,22.5 62.7,17.8 77.6,27.7 92.5,22.8 107.5,21.7 122.4,23.2 137.3,14.4 152.2,6.4 167.2,8.8 182.1,3.0 197.0,8.1 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,28.5 17.9,27.7 32.8,33.0 47.8,22.5 62.7,17.8 77.6,27.7 92.5,22.8 107.5,21.7 122.4,23.2 137.3,14.4 152.2,6.4 167.2,8.8 182.1,3.0 197.0,8.1\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2.893</span><span class=\"eco-chg up\">▲6.1%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Золото</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,31.2 32.8,27.1 47.8,32.7 62.7,19.4 77.6,16.5 92.5,4.8 107.5,3.0 122.4,3.3 137.3,7.6 152.2,6.4 167.2,20.6 182.1,25.7 197.0,28.5 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,31.2 32.8,27.1 47.8,32.7 62.7,19.4 77.6,16.5 92.5,4.8 107.5,3.0 122.4,3.3 137.3,7.6 152.2,6.4 167.2,20.6 182.1,25.7 197.0,28.5\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">4 405</span><span class=\"eco-chg up\">▲0.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Медь</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,17.1 17.9,16.2 32.8,15.7 47.8,30.3 62.7,29.7 77.6,33.0 92.5,18.6 107.5,16.3 122.4,3.0 137.3,16.8 152.2,17.7 167.2,20.7 182.1,16.9 197.0,15.9 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,17.1 17.9,16.2 32.8,15.7 47.8,30.3 62.7,29.7 77.6,33.0 92.5,18.6 107.5,16.3 122.4,3.0 137.3,16.8 152.2,17.7 167.2,20.7 182.1,16.9 197.0,15.9\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6.603</span><span class=\"eco-chg up\">▲0.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Пшеница</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,28.0 32.8,28.0 47.8,30.3 62.7,26.8 77.6,26.2 92.5,26.5 107.5,26.4 122.4,25.6 137.3,15.4 152.2,12.6 167.2,7.1 182.1,9.5 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,28.0 32.8,28.0 47.8,30.3 62.7,26.8 77.6,26.2 92.5,26.5 107.5,26.4 122.4,25.6 137.3,15.4 152.2,12.6 167.2,7.1 182.1,9.5 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">785.0</span><span class=\"eco-chg up\">▲20.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">BTC/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 16.9,24.2 30.7,16.9 44.6,6.7 58.4,9.1 72.3,7.8 86.1,5.5 100.0,6.3 113.9,5.4 127.7,3.0 141.6,7.7 155.4,6.9 169.3,8.0 183.1,6.3 197.0,8.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 16.9,24.2 30.7,16.9 44.6,6.7 58.4,9.1 72.3,7.8 86.1,5.5 100.0,6.3 113.9,5.4 127.7,3.0 141.6,7.7 155.4,6.9 169.3,8.0 183.1,6.3 197.0,8.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">77 557</span><span class=\"eco-chg up\">▲19.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ETH/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 16.9,16.2 30.7,12.5 44.6,3.0 58.4,7.6 72.3,5.6 86.1,4.7 100.0,6.6 113.9,3.5 127.7,3.2 141.6,6.6 155.4,5.9 169.3,7.9 183.1,5.4 197.0,7.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 16.9,16.2 30.7,12.5 44.6,3.0 58.4,7.6 72.3,5.6 86.1,4.7 100.0,6.6 113.9,3.5 127.7,3.2 141.6,6.6 155.4,5.9 169.3,7.9 183.1,5.4 197.0,7.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2 431</span><span class=\"eco-chg up\">▲26.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">VIX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,26.5 17.9,33.0 32.8,17.0 47.8,5.9 62.7,22.1 77.6,3.0 92.5,18.0 107.5,5.7 122.4,12.5 137.3,16.6 152.2,28.6 167.2,29.9 182.1,21.6 197.0,13.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,26.5 17.9,33.0 32.8,17.0 47.8,5.9 62.7,22.1 77.6,3.0 92.5,18.0 107.5,5.7 122.4,12.5 137.3,16.6 152.2,28.6 167.2,29.9 182.1,21.6 197.0,13.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">15.41</span><span class=\"eco-chg up\">▲5.3%</span></div></div><p class=\"eco-src\"><em>Источник данных: Yahoo Finance. Динамика показана за доступный период (до 2 недель).</em></p>",
+     "<h3>Что случилось сегодня</h3><p>Первый день сентября принёс на чешский рынок целый ряд заметных новостей, затронувших государственные закупки, банковский сектор и рынок недвижимости. Главным событием в корпоративной и административной плоскости стало официальное предложение полиции предъявить обвинения в крупном инвестиционном мошенничестве организаторам фонда WCA International. Ущерб по этому делу оценивается почти в <b class=>2,2 миллиарда крон</b>, а среди пострадавших оказались тысячи граждан и даже один чешский муниципалитет, что вновь подняло вопрос о защите розничных сбережений.</p><p>Не менее резонансным поводом стали новости вокруг критической инфраструктуры. Государственная компания ČEPS обратилась в правоохранительные органы из-за обстоятельств приобретения оператора газопроводов Net4Gas после того, как внутренний аудит выявил серьёзные вопросы к прозрачности сделки. На фоне этих новостей европейский газовый рынок также продемонстрировал рост. По данным спотового рынка, стоимость газа на бирже превысила <b class=>70 евро за МВт·ч</b> на фоне эскалации напряженности, что напрямую отражается на оптовых затратах в регионе.</p><p>В сфере государственных финансов и налогов внимание привлекло решение Финансового управления Чехии отменить тендер на создание новой налоговой системы nDIS стоимостью в миллиарды крон из-за отсутствия конкуренции. Система, которая должна была заменить устаревшую платформу ADIS из девяностых годов, осталась без подрядчика. Дополнительное напряжение в бюджетной дискуссии создают оценки экспертов и оппозиции, предупреждающие, что реальный дефицит бюджета Чехии может превысить <b class=>3% ВВП</b>, тогда как правительство продолжает дискуссии о параметрах казны на следующий год.</p><p>На рынке недвижимости Чехии наметился интересный перелом. Хотя средняя цена предложения квартир впервые превысила <b class=>100 000 крон за м²</b>, реальные сделки проходят в среднем на <b class=>17 000 крон дешевле</b>, и цены по сделкам впервые с 2024 года пошли вниз. Это показывает разрыв между ожиданиями продавцов и реальными финансовыми возможностями покупателей в условиях текущих ставок.</p><details class=\"eco-table\"><summary>Котировки: Чехия</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Индекс PX (Прага)</td><td>2 799 CZK</td><td><span class=\"up\">+0.06%</span></td><td><span class=\"up\">+0.04%</span></td></tr><tr><td>Индекс PX-GLOB (Прага)</td><td>3 203 CZK</td><td>—</td><td>—</td></tr><tr><td>EUR/CZK</td><td>24.201 CZK</td><td><span class=\"up\">+0.35%</span></td><td><span class=\"up\">+0.38%</span></td></tr><tr><td>USD/CZK</td><td>20.886 CZK</td><td><span class=\"up\">+0.36%</span></td><td><span class=\"up\">+0.92%</span></td></tr><tr><td>ČEZ (энергетика)</td><td>1 372 CZK</td><td><span class=\"down\">−0.58%</span></td><td><span class=\"down\">−1.08%</span></td></tr><tr><td>Erste Group (банк)</td><td>2 976 CZK</td><td><span class=\"up\">+0.51%</span></td><td><span class=\"up\">+0.88%</span></td></tr><tr><td>Komerční banka (банк)</td><td>1 079 CZK</td><td><span class=\"up\">+1.31%</span></td><td><span class=\"up\">+1.51%</span></td></tr><tr><td>Moneta Money Bank (банк)</td><td>199.8 CZK</td><td><span class=\"up\">+2.46%</span></td><td><span class=\"up\">+0.81%</span></td></tr><tr><td>Vienna Insurance Group (страхование)</td><td>1 720 CZK</td><td><span class=\"down\">−0.92%</span></td><td><span class=\"up\">+0.00%</span></td></tr><tr><td>CSG — Czechoslovak Group (оборона)</td><td>428.0 CZK</td><td><span class=\"down\">−4.74%</span></td><td><span class=\"down\">−6.35%</span></td></tr><tr><td>Colt CZ Group (оборона)</td><td>927.0 CZK</td><td><span class=\"down\">−2.63%</span></td><td><span class=\"down\">−2.11%</span></td></tr><tr><td>Doosan Škoda Power (машиностроение)</td><td>490.0 CZK</td><td><span class=\"down\">−1.41%</span></td><td><span class=\"up\">+0.41%</span></td></tr><tr><td>Philip Morris ČR (табак)</td><td>19 020 CZK</td><td><span class=\"down\">−0.42%</span></td><td><span class=\"up\">+3.37%</span></td></tr><tr><td>Kofola ČeskoSlovensko (напитки)</td><td>512.0 CZK</td><td><span class=\"up\">+0.59%</span></td><td><span class=\"up\">+1.19%</span></td></tr><tr><td>Tatry Mountain Resorts (туризм)</td><td>356.0 CZK</td><td><span class=\"down\">−1.11%</span></td><td><span class=\"down\">−1.66%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Европа</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>EURO STOXX 50</td><td>6 369 EUR</td><td><span class=\"down\">−0.80%</span></td><td><span class=\"down\">−0.87%</span></td></tr><tr><td>DAX (Германия)</td><td>25 970 EUR</td><td><span class=\"down\">−1.10%</span></td><td><span class=\"down\">−1.51%</span></td></tr><tr><td>CAC 40 (Франция)</td><td>8 302 EUR</td><td><span class=\"down\">−0.39%</span></td><td><span class=\"down\">−0.22%</span></td></tr><tr><td>STOXX Europe 600</td><td>647.5 EUR</td><td><span class=\"down\">−0.56%</span></td><td><span class=\"down\">−0.67%</span></td></tr><tr><td>FTSE 100 (Британия)</td><td>10 789 GBP</td><td><span class=\"down\">−0.32%</span></td><td><span class=\"down\">−0.82%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Ставки и облигации</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Доходность 10-летних US Treasuries, %</td><td>4.776 USD</td><td><span class=\"up\">+0.38%</span></td><td><span class=\"up\">+2.23%</span></td></tr><tr><td>Доходность 30-летних US Treasuries, %</td><td>5.251 USD</td><td><span class=\"up\">+0.04%</span></td><td><span class=\"up\">+1.16%</span></td></tr><tr><td>Доходность 5-летних US Treasuries, %</td><td>4.534 USD</td><td><span class=\"up\">+0.60%</span></td><td><span class=\"up\">+3.14%</span></td></tr><tr><td>Длинные гособлигации США (TLT)</td><td>81.965 USD</td><td><span class=\"down\">−0.67%</span></td><td><span class=\"down\">−1.40%</span></td></tr><tr><td>Высокодоходные корп. облигации (HYG)</td><td>79.2 USD</td><td><span class=\"down\">−0.76%</span></td><td><span class=\"down\">−0.84%</span></td></tr><tr><td>Инвест. корп. облигации (LQD)</td><td>105.4 USD</td><td><span class=\"down\">−0.77%</span></td><td><span class=\"down\">−1.25%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Энергоносители</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Нефть Brent, $/барр.</td><td>93.6 USD</td><td><span class=\"up\">+3.44%</span></td><td><span class=\"up\">+4.35%</span></td></tr><tr><td>Нефть WTI, $/барр.</td><td>89.31 USD</td><td><span class=\"up\">+4.14%</span></td><td><span class=\"up\">+6.92%</span></td></tr><tr><td>Газ Henry Hub, $</td><td>2.893 USD</td><td><span class=\"down\">−1.43%</span></td><td><span class=\"down\">−0.48%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Экономика Чехии</h3><p>На валютном рынке чешская крона в первый день сентября продемонстрировала умеренное движение. По данным официального фиксинга ČNB за 01.09.2026, курс составил <b class=>24,16 CZK/EUR</b> и <b class=>20,844 CZK/USD</b>. При этом на биржевых торгах пара EUR/CZK зафиксировала отметку <b class=>24,2011 CZK/EUR</b> с дневным изменением на <b class=>0,35%</b>, а пара USD/CZK поднялась до <b class=>20,8857 CZK/USD</b> с ростом на <b class=>0,36%</b>. За последние три сессии крона прошла путь от уровней около 24,11 до текущих значений, что находится в рамках привычных дневных колебаний.</p><p>Главный индекс Пражской биржи Индекс PX (Прага) закрылся на уровне <b class=>2798,63 пункта</b> с символическим изменением на <b class=>0,06%</b> за день, показав стабильность на фоне разнонаправленной динамики отдельных акций. В банковском секторе лидером роста стала Moneta Money Bank (монета), прибавившая <b class=>2,46%</b> до <b class=>199,8 CZK</b>, в то время как Komerční banka поднялась на <b class=>1,31%</b> до <b class=>1079,0 CZK</b>, а Erste Group выросла на <b class=>0,51%</b> до <b class=>2976,0 CZK</b>. Энергетический гигант ČEZ (энергетика) снизился на <b class=>0,58%</b> до <b class=>1372,0 CZK</b>.</p><p>Заметное движение произошло в секторе оборонных предприятий: бумаги CSG - Czechoslovak Group (оборона) просели на <b class=>4,74%</b> до <b class=>428,0 CZK</b>, а Colt CZ Group (оборона) потеряла <b class=>2,63%</b>, опустившись до <b class=>927,0 CZK</b>. Общий макроэкономический контекст Чехии опирается на свежие данные за лето: рост ВВП в годовом выражении за второй квартал составил <b class=>1,9%</b>, промышленное производство за июнь выросло на <b class=>4,0%</b>, а розничные продажи увеличились на <b class=>3,6%</b>.</p><details class=\"eco-table\"><summary>Котировки: Валюты</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>EUR/USD</td><td>1.159 USD</td><td><span class=\"up\">+0.03%</span></td><td><span class=\"down\">−0.54%</span></td></tr><tr><td>USD/CNY</td><td>6.709 CNY</td><td><span class=\"down\">−0.26%</span></td><td><span class=\"down\">−0.20%</span></td></tr><tr><td>Индекс доллара DXY</td><td>99.69 USD</td><td><span class=\"up\">+0.26%</span></td><td><span class=\"up\">+0.53%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Цены, продукты и инфляция</h3><p>Инфляционная картина в Чехии остается относительно сдержанной по сравнению с прошлыми годами. Согласно официальным данным Eurostat, гармонизированная инфляция HICP в Чехии за июль 2026 года составила <b class=>1,3% год к году</b>. При этом цены производителей (PPI) за тот же период выросли на <b class=>1,6%</b>, что указывает на умеренное ценовое давление на уровне заводов и оптовых поставок.</p><p>Любопытная динамика наблюдается в сегменте продовольствия. Официальный показатель роста цен на продукты питания в Чехии за июль составил <b class=>-3,7% год к году</b>, что говорит о некоторой стабилизации продуктов на полках после периодов резкого удорожания. Однако мировые товарные рынки сельскохозяйственной продукции на бирже показывают разнонаправленные и резкие движения, которые со временем транслируются в сырьевую базу переработчиков.</p><p>На мировых сырьевых рынках зафиксирован значительный рост биржевых котировок зерновых. Пшеница на Чикагской бирже подорожала за день на <b class=>3,77%</b> до <b class=>785,0 центов за бушель</b>, кукуруза подскочила на <b class=>5,78%</b> до <b class=>544,75 цента</b>, а соя выросла на <b class=>3,35%</b> до <b class=>1318,0 центов</b>. Биржевая цена кофе обвалилась сразу на <b class=>-9,65%</b> до <b class=>310,7 цента</b>, тогда как сахар прибавил <b class=>3,09%</b> до <b class=>18,36 цента</b>. Эти мировые цены закладываются в себестоимость продуктов питания с лагом в несколько месяцев, влияя на будущую стоимость хлеба, мяса и кондитерских изделий.</p><details class=\"eco-table\"><summary>Котировки: Продовольствие</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Пшеница (хлеб)</td><td>785.0 USX</td><td><span class=\"up\">+3.77%</span></td><td><span class=\"up\">+5.69%</span></td></tr><tr><td>Кукуруза (корма)</td><td>544.8 USX</td><td><span class=\"up\">+5.78%</span></td><td><span class=\"up\">+6.76%</span></td></tr><tr><td>Соя (масло, корма)</td><td>1 318 USX</td><td><span class=\"up\">+3.35%</span></td><td><span class=\"up\">+4.89%</span></td></tr><tr><td>Кофе</td><td>310.7 USX</td><td><span class=\"down\">−9.65%</span></td><td><span class=\"down\">−9.13%</span></td></tr><tr><td>Сахар</td><td>18.36 USX</td><td><span class=\"up\">+3.09%</span></td><td><span class=\"up\">+0.93%</span></td></tr><tr><td>Какао</td><td>6 561 USD</td><td><span class=\"down\">−1.34%</span></td><td><span class=\"up\">+6.60%</span></td></tr><tr><td>Хлопок (одежда)</td><td>91.73 USX</td><td><span class=\"up\">+0.03%</span></td><td><span class=\"up\">+0.74%</span></td></tr><tr><td>Пиломатериалы (стройка)</td><td>555.5 USD</td><td><span class=\"down\">−2.37%</span></td><td><span class=\"down\">−0.71%</span></td></tr><tr><td>Рис</td><td>15.78 USD</td><td><span class=\"up\">+3.48%</span></td><td><span class=\"up\">+6.30%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Мясо</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>КРС (говядина)</td><td>211.7 USX</td><td><span class=\"down\">−4.09%</span></td><td><span class=\"down\">−3.89%</span></td></tr><tr><td>Свиньи (свинина)</td><td>83.725 USX</td><td><span class=\"up\">+0.06%</span></td><td><span class=\"up\">+3.84%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Зарплаты, работа и доходы</h3><p>Ситуация на рынке труда Чехии характеризуется стабильно низкой безработицей. По данным за июль 2026 года, сезонно сглаженная безработица в стране составила <b class=>3,3%</b>, что удерживает рынок труда в состоянии дефицита кадров в ряде отраслей. Это заставляет компании конкурировать за работников, предлагая лучшие условия.</p><p>Важным событием в трудовой сфере стало обсуждение масштабной новеллы закона о труде, которая внедряет европейские правила прозрачности зарплат. Новый закон отменяет прежние корпоративные запреты на обсуждение доходов между коллегами и запрещает работодателям запрашивать информацию о прошлой зарплате соискателя при приеме на работу, что призвано сделать найм более справедливым.</p><p>Одновременно правительство и ведомства пересматривают социальные выплаты. С 2026 года в Чехии начали действовать новые правила выплаты пособия по безработице: снижены процентные ставки для расчёта, отменены прежние льготы для граждан старше 52 лет, а максимальный размер пособия уменьшен почти на <b class=>10 000 крон в месяц</b>, что усиливает стимулы для скорейшего трудоустройства.</p><details class=\"eco-table\"><summary>Котировки: Китай и Азия</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Shanghai Composite</td><td>3 980 CNY</td><td><span class=\"up\">+0.86%</span></td><td><span class=\"up\">+1.89%</span></td></tr><tr><td>CSI 300 (крупнейшие КНР)</td><td>4 611 CNY</td><td><span class=\"down\">−3.60%</span></td><td><span class=\"down\">−5.57%</span></td></tr><tr><td>Shenzhen Component</td><td>13 872 CNY</td><td><span class=\"up\">+0.44%</span></td><td><span class=\"up\">+1.25%</span></td></tr><tr><td>Hang Seng (Гонконг)</td><td>25 330 HKD</td><td><span class=\"down\">−0.07%</span></td><td><span class=\"down\">−0.34%</span></td></tr><tr><td>Nikkei 225 (Япония)</td><td>66 215 JPY</td><td><span class=\"down\">−0.14%</span></td><td><span class=\"up\">+0.08%</span></td></tr><tr><td>Alibaba</td><td>112.8 USD</td><td><span class=\"down\">−1.06%</span></td><td><span class=\"down\">−3.01%</span></td></tr><tr><td>Tencent</td><td>441.4 HKD</td><td><span class=\"down\">−0.48%</span></td><td><span class=\"up\">+1.71%</span></td></tr><tr><td>Китайский интернет-сектор (KWEB)</td><td>25.765 USD</td><td><span class=\"down\">−0.17%</span></td><td><span class=\"down\">−1.28%</span></td></tr><tr><td>Развивающиеся рынки (EEM)</td><td>67.06 USD</td><td><span class=\"up\">+0.06%</span></td><td><span class=\"down\">−0.81%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Энергия, бензин и транспорт</h3><p>На чешском оптовом рынке электроэнергии (биржа OTE) средняя спотовая цена за день составила <b class=>148,87 евро за МВт·ч</b> при суточном разбросе от минимальных <b class=>69,87 евро</b> до пиковых <b class=>228,57 евро за МВт·ч</b>. В пересчете на розничные единицы это дает оптовую цену на уровне <b class=>3,6 кроны за кВт·ч</b>. Важно помнить, что это исключительно оптовая составляющая на бирже без учета регулируемых тарифов на распределение, налогов и маржи конкретного поставщика, поэтому итоговый счет за электроэнергию в домах граждан всегда существенно выше.</p><p>Оптовый рынок газа на чешской бирже OTE показал более заметный рост: средняя цена за день поднялась до <b class=>71,71 евро за МВт·ч</b> (рост оптового показателя за сутки составил <b class=>14,01%</b>). В пересчете это соответствует <b class=>1,73 кроны за кВт·ч</b> оптовой стоимости без учета транспортных сетей, налогов и торговой наценки энергокомпаний.</p><p>На мировом рынке нефти зафиксировано масштабное удорожание. Нефть марки Brent подорожала за день на <b class=>3,44%</b> до <b class=>93,6 доллара за баррель</b>, а нефть WTI выросла на <b class=>4,14%</b> до <b class=>89,31 доллара за баррель</b>. Подобные движения на нефтяном рынке с неизбежным лагом в несколько недель транслируются в розничные цены на чешских автозаправках, влияя на стоимость бензина и дизеля.</p><details class=\"eco-table\"><summary>Котировки: Металлы</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Золото, $/унция</td><td>4 405 USD</td><td><span class=\"down\">−0.59%</span></td><td><span class=\"down\">−4.44%</span></td></tr><tr><td>Серебро, $/унция</td><td>65.58 USD</td><td><span class=\"down\">−0.97%</span></td><td><span class=\"down\">−5.54%</span></td></tr><tr><td>Медь, $ (спрос/стройка)</td><td>6.603 USD</td><td><span class=\"up\">+0.14%</span></td><td><span class=\"up\">+0.24%</span></td></tr><tr><td>Платина, $</td><td>1 774 USD</td><td><span class=\"down\">−0.83%</span></td><td><span class=\"down\">−3.89%</span></td></tr><tr><td>Палладий, $ (автопром)</td><td>1 332 USD</td><td><span class=\"down\">−2.27%</span></td><td><span class=\"down\">−0.42%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Жильё, ипотека и кредиты (финансирование)</h3><p>Денежный рынок Чехии продолжает жить в условиях умеренных процентных ставок центрального банка. Последняя операция ČNB на денежном рынке (операция типа Depozitní facilita за 01.09.2026) зафиксирована на уровне <b class=>2,75% годовых</b> с объемом размещения <b class=>6,566 миллиарда крон</b>. Эта ставка определяет базовый доход, по которому коммерческие банки размещают избыточную ликвидность в регуляторе.</p><p>Ключевые рыночные индикаторы стоимости денег в Чехии остаются стабильными. Ставка PRIBOR на срок 3 месяца (по данным на 25.08.2026) составляет <b class=>3,85% годовых</b> (а общая ставка денежного рынка 3 мес. за июль оценена в <b class=>3,83%</b>), служа базовым ориентиром для расчета процентов по ипотечным кредитам с плавающей ставкой. Однодневная ставка CZEONIA (по данным на 31.08.2026) зафиксирована на отметке <b class=>3,11% годовых</b> при объеме сделок <b class=>18,485 миллиарда крон</b>.</p><p>Доходность 10-летних государственных облигаций Чехии за июль находилась на уровне <b class=>4,79% годовых</b>. Доходность гособлигаций служит ориентиром для долгосрочного заимствования государства и косвенно влияет на долгосрочные фиксированные ставки по ипотечным кредитам, которые предлагают чешские банки своим клиентам при покупке жилья.</p>",
+     "<h3>Европа и мир</h3><p>Европейские фондовые рынки завершили первый день сентября в «красной зоне» на фоне коррекции ведущих индексов. Общеевропейский индекс EURO STOXX 50 снизился на <b class=>0,8%</b> до <b class=>6368,98 пункта</b>, немецкий DAX потерял <b class=>1,1%</b>, опустившись до <b class=>25,970,11 пункта</b>, а французский CAC 40 просел на <b class=>0,39%</b> до <b class=>8301,85 пункта</b>. Британский FTSE 100 уменьшился на <b class=>0,32%</b> до <b class=>10789,28 пункта</b>.</p><p>В США основные индексы также показали умеренное снижение: S&P 500 уменьшился на <b class=>0,57%</b> до <b class=>7642,67 пункта</b>, Nasdaq Composite потерял <b class=>0,8%</b> до <b class=>26,159,68 пункта</b>, а Dow Jones снизился на <b class=>0,69%</b> до <b class=>52,817,08 пункта</b>. Индекс доллара DXY вырос на <b class=>0,26%</b> до <b class=>99,69 пункта</b>, отражая укрепление американской валюты на глобальном рынке.</p><p>Рынок криптовалют, выступающий барометром аппетита инвесторов к риску, продемонстрировал небольшое снижение в пределах дневных колебаний. Bitcoin торгуется на уровне <b class=>77,557,25 доллара</b> с изменением на <b class=>-1,26%</b> за день, а Ethereum снизился на <b class=>-1,44%</b> до <b class=>2431,23 доллара</b>. Индекс страха VIX поднялся на <b class=>3,28%</b> до <b class=>15,41 пункта</b>, указывая на легкое усиление нервозности на мировых площадках.</p><details class=\"eco-table\"><summary>Котировки: США</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>S&amp;P 500</td><td>7 643 USD</td><td><span class=\"down\">−0.57%</span></td><td><span class=\"down\">−1.14%</span></td></tr><tr><td>Nasdaq Composite</td><td>26 160 USD</td><td><span class=\"down\">−0.80%</span></td><td><span class=\"down\">−1.44%</span></td></tr><tr><td>Dow Jones</td><td>52 817 USD</td><td><span class=\"down\">−0.69%</span></td><td><span class=\"down\">−1.40%</span></td></tr><tr><td>Apple</td><td>326.6 USD</td><td><span class=\"up\">+3.09%</span></td><td><span class=\"up\">+3.83%</span></td></tr><tr><td>Microsoft</td><td>500.8 USD</td><td><span class=\"down\">−1.27%</span></td><td><span class=\"down\">−0.84%</span></td></tr><tr><td>Nvidia</td><td>219.7 USD</td><td><span class=\"down\">−0.49%</span></td><td><span class=\"down\">−3.64%</span></td></tr><tr><td>Russell 2000 — малый бизнес США (IWM)</td><td>290.9 USD</td><td><span class=\"down\">−1.04%</span></td><td><span class=\"down\">−2.98%</span></td></tr><tr><td>Финансовый сектор США (XLF)</td><td>57.385 USD</td><td><span class=\"down\">−0.56%</span></td><td><span class=\"down\">−0.86%</span></td></tr><tr><td>Энергетический сектор США (XLE)</td><td>64.34 USD</td><td><span class=\"up\">+0.59%</span></td><td><span class=\"up\">+3.29%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Криптовалюты</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Bitcoin</td><td>77 557 USD</td><td><span class=\"down\">−1.26%</span></td><td><span class=\"down\">−0.88%</span></td></tr><tr><td>Ethereum</td><td>2 431 USD</td><td><span class=\"down\">−1.44%</span></td><td><span class=\"down\">−1.08%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Риск-аппетит (волатильность)</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>VIX — индекс страха</td><td>15.41 USD</td><td><span class=\"up\">+3.28%</span></td><td><span class=\"up\">+6.20%</span></td></tr><tr><td>Золото ETF (GLD)</td><td>398.9 USD</td><td><span class=\"down\">−2.32%</span></td><td><span class=\"down\">−5.60%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Что это значит для кошелька</h3><ul><li>Официальный курс кроны к евро составляет <b class=>24,16 CZK/EUR</b>, а на бирже котировки находятся около <b class=>24,20 CZK/EUR</b>, что определяет текущую стоимость обмена валюты для поездок за рубеж и зарубежных интернет-покупок.</li><li>Оптовая цена электроэнергии на чешской бирже OTE зафиксирована на уровне <b class=>3,6 кроны за кВт·ч</b> (без учета налогов и дистрибуции), из которой складываются счета за свет в чешских домах.</li><li>Оптовая цена газа на чешском рынке поднялась до <b class=>1,73 кроны за кВт·ч</b> в рамках спотовых торгов, что отражает давление на энергоносители перед началом отопительного сезона.</li><li>Инфляция HICP в Чехии держится на уровне <b class=>1,3% годовых</b>, а цены на продукты питания по официальной статистике демонстрируют снижение на <b class=>-3,7% год к году</b>.</li><li>Базовая ставка PRIBOR для ипотек с плавающей ставкой составляет <b class=>3,85% годовых</b>, а доходность 10-летних гособлигаций удерживается на отметке <b class=>4,79%</b>.</li><li>Уровень безработицы в стране составляет <b class=>3,3%</b>, при этом новые законодательные нормы меняют правила расчета пособий и вводят прозрачность зарплат при найме.</li></ul>",
+     "<h3>Коротко: итоги дня</h3><ul><li>Экономика: рост ВВП Чехии во втором квартале составил <b class=>1,9% год к году</b> при промышленном росте на <b class=>4,0%</b>.</li><li>Крона: официальный курс ČNB зафиксирован на отметке <b class=>24,16 CZK/EUR</b> и <b class=>20,844 CZK/USD</b>.</li><li>Цены и инфляция: общая инфляция HICP составляет <b class=>1,3%</b>, а продуктовые цены показывают годовое изменение на <b class=>-3,7%</b>.</li><li>Доходы и работа: безработица в Чехии удерживается на низком уровне <b class=>3,3%</b>.</li><li>Энергетика: нефть марки Brent подорожала до <b class=>93,6 доллара за баррель</b>, а оптовый газ на бирже OTE вырос до <b class=>71,71 евро за МВт·ч</b>.</li><li>Жильё и ипотека: 3-месячный PRIBOR составляет <b class=>3,85%</b>, а реальные цены сделок с квартирами впервые пошли вниз при средних запросах выше <b class=>100 000 крон за м²</b>.</li><li>Мировые рынки: индекс EURO STOXX 50 снизился на <b class=>0,8%</b>, S&P 500 потерял <b class=>0,57%</b>.</li><li>Криптовалюты: Bitcoin торгуется около <b class=>77,557 долларов</b> при снижении на <b class=>-1,26%</b>.</li></ul><p>Материал носит информационный характер и не является инвестиционной рекомендацией.</p>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "uk": {
+    "title": "Фінансовий день: огляд ринків та економіки Чехії на 1 вересня 2026",
+    "lede": "Розбір головних подій та макропоказників чеського і світового фінансового ринків за перший день вересня.",
+    "meta_description": "Щоденний розбір економіки та ринків Чехії: курс крони, біржові індекси, ціни на енергоносії та головні новини бізнесу за 1 вересня 2026 року.",
+    "paras": [
+     "<h3>Динаміка за 2 тижні</h3><div class=\"eco-charts\"><div class=\"eco-row\"><span class=\"eco-name\">Индекс PX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,18.2 22.4,31.9 41.8,33.0 61.2,21.4 80.6,14.6 100.0,7.9 119.4,3.0 138.8,12.5 158.2,5.8 177.6,12.9 197.0,11.7 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,18.2 22.4,31.9 41.8,33.0 61.2,21.4 80.6,14.6 100.0,7.9 119.4,3.0 138.8,12.5 158.2,5.8 177.6,12.9 197.0,11.7\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2 799</span><span class=\"eco-chg up\">▲0.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.7 32.8,8.0 47.8,11.7 62.7,13.2 77.6,16.0 92.5,23.5 107.5,27.0 122.4,30.9 137.3,33.0 152.2,25.3 167.2,23.3 182.1,23.9 197.0,6.8 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.7 32.8,8.0 47.8,11.7 62.7,13.2 77.6,16.0 92.5,23.5 107.5,27.0 122.4,30.9 137.3,33.0 152.2,25.3 167.2,23.3 182.1,23.9 197.0,6.8\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">24.201</span><span class=\"eco-chg down\">▼0.1%</span></div><div class=\"eco-row\"><span class=\"eco-name\">USD/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.5 32.8,11.8 47.8,14.3 62.7,13.0 77.6,28.7 92.5,31.7 107.5,33.0 122.4,30.7 137.3,33.0 152.2,27.1 167.2,27.8 182.1,18.3 197.0,12.6 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.5 32.8,11.8 47.8,14.3 62.7,13.0 77.6,28.7 92.5,31.7 107.5,33.0 122.4,30.7 137.3,33.0 152.2,27.1 167.2,27.8 182.1,18.3 197.0,12.6\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">20.886</span><span class=\"eco-chg down\">▼0.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ČEZ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,16.4 17.9,22.7 32.8,28.3 47.8,21.2 62.7,33.0 77.6,23.5 92.5,14.1 107.5,13.3 122.4,6.9 137.3,6.9 152.2,4.6 167.2,3.0 182.1,10.1 197.0,16.4 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,16.4 17.9,22.7 32.8,28.3 47.8,21.2 62.7,33.0 77.6,23.5 92.5,14.1 107.5,13.3 122.4,6.9 137.3,6.9 152.2,4.6 167.2,3.0 182.1,10.1 197.0,16.4\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 372</span><span class=\"eco-chg up\">▲0.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Kom. banka</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,25.7 32.8,22.5 47.8,24.1 62.7,18.4 77.6,24.1 92.5,22.5 107.5,20.0 122.4,14.4 137.3,16.8 152.2,16.0 167.2,12.7 182.1,14.4 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,25.7 32.8,22.5 47.8,24.1 62.7,18.4 77.6,24.1 92.5,22.5 107.5,20.0 122.4,14.4 137.3,16.8 152.2,16.0 167.2,12.7 182.1,14.4 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 079</span><span class=\"eco-chg up\">▲3.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">STOXX 50</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,4.0 32.8,5.6 47.8,16.1 62.7,20.2 77.6,24.0 92.5,17.2 107.5,19.6 122.4,18.3 137.3,15.7 152.2,23.5 167.2,13.2 182.1,24.3 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,4.0 32.8,5.6 47.8,16.1 62.7,20.2 77.6,24.0 92.5,17.2 107.5,19.6 122.4,18.3 137.3,15.7 152.2,23.5 167.2,13.2 182.1,24.3 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6 369</span><span class=\"eco-chg down\">▼2.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">DAX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,16.5 17.9,9.5 32.8,14.6 47.8,25.1 62.7,26.9 77.6,32.4 92.5,24.7 107.5,26.2 122.4,18.2 137.3,17.2 152.2,13.1 167.2,3.0 182.1,18.6 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,16.5 17.9,9.5 32.8,14.6 47.8,25.1 62.7,26.9 77.6,32.4 92.5,24.7 107.5,26.2 122.4,18.2 137.3,17.2 152.2,13.1 167.2,3.0 182.1,18.6 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">25 970</span><span class=\"eco-chg down\">▼1.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">S&amp;P 500</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.5 32.8,13.3 47.8,23.4 62.7,20.3 77.6,33.0 92.5,26.7 107.5,30.8 122.4,26.1 137.3,26.4 152.2,15.9 167.2,19.6 182.1,24.5 197.0,32.7 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.5 32.8,13.3 47.8,23.4 62.7,20.3 77.6,33.0 92.5,26.7 107.5,30.8 122.4,26.1 137.3,26.4 152.2,15.9 167.2,19.6 182.1,24.5 197.0,32.7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">7 643</span><span class=\"eco-chg down\">▼2.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Nasdaq</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,5.7 32.8,8.8 47.8,21.7 62.7,20.2 77.6,29.8 92.5,25.7 107.5,33.0 122.4,26.8 137.3,27.5 152.2,12.5 167.2,17.6 182.1,18.8 197.0,26.5 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,5.7 32.8,8.8 47.8,21.7 62.7,20.2 77.6,29.8 92.5,25.7 107.5,33.0 122.4,26.8 137.3,27.5 152.2,12.5 167.2,17.6 182.1,18.8 197.0,26.5\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">26 160</span><span class=\"eco-chg down\">▼2.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Shanghai</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,15.1 17.9,20.5 32.8,20.5 47.8,5.1 62.7,3.0 77.6,29.6 92.5,27.0 107.5,26.6 122.4,33.0 137.3,30.9 152.2,24.5 167.2,12.3 182.1,13.6 197.0,4.1 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,15.1 17.9,20.5 32.8,20.5 47.8,5.1 62.7,3.0 77.6,29.6 92.5,27.0 107.5,26.6 122.4,33.0 137.3,30.9 152.2,24.5 167.2,12.3 182.1,13.6 197.0,4.1\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3 986</span><span class=\"eco-chg up\">▲1.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Hang Seng</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,22.1 17.9,23.6 32.8,33.0 47.8,21.7 62.7,21.1 77.6,20.3 92.5,13.5 107.5,3.0 122.4,19.5 137.3,19.7 152.2,15.0 167.2,17.9 182.1,17.3 197.0,17.9 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,22.1 17.9,23.6 32.8,33.0 47.8,21.7 62.7,21.1 77.6,20.3 92.5,13.5 107.5,3.0 122.4,19.5 137.3,19.7 152.2,15.0 167.2,17.9 182.1,17.3 197.0,17.9\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">25 567</span><span class=\"eco-chg up\">▲0.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,32.1 32.8,24.6 47.8,22.9 62.7,23.7 77.6,5.7 92.5,3.0 107.5,4.1 122.4,6.8 137.3,5.5 152.2,9.3 167.2,9.1 182.1,21.8 197.0,21.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,32.1 32.8,24.6 47.8,22.9 62.7,23.7 77.6,5.7 92.5,3.0 107.5,4.1 122.4,6.8 137.3,5.5 152.2,9.3 167.2,9.1 182.1,21.8 197.0,21.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1.159</span><span class=\"eco-chg up\">▲0.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Индекс DXY</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 17.9,10.5 32.8,11.3 47.8,11.0 62.7,32.2 77.6,30.4 92.5,33.0 107.5,27.8 122.4,29.9 137.3,23.4 152.2,23.7 167.2,9.7 182.1,16.7 197.0,10.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 17.9,10.5 32.8,11.3 47.8,11.0 62.7,32.2 77.6,30.4 92.5,33.0 107.5,27.8 122.4,29.9 137.3,23.4 152.2,23.7 167.2,9.7 182.1,16.7 197.0,10.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">99.69</span><span class=\"eco-chg down\">▼0.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">10Y US, %</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,32.6 17.9,20.5 32.8,14.4 47.8,18.3 62.7,29.9 77.6,20.5 92.5,11.3 107.5,18.8 122.4,33.0 137.3,27.5 152.2,25.8 167.2,15.3 182.1,6.9 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,32.6 17.9,20.5 32.8,14.4 47.8,18.3 62.7,29.9 77.6,20.5 92.5,11.3 107.5,18.8 122.4,33.0 137.3,27.5 152.2,25.8 167.2,15.3 182.1,6.9 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">4.776</span><span class=\"eco-chg up\">▲2.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Нефть Brent</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,27.1 32.8,17.4 47.8,16.8 62.7,14.4 77.6,5.5 92.5,3.0 107.5,12.1 122.4,26.8 137.3,29.8 152.2,22.2 167.2,23.8 182.1,19.0 197.0,6.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,27.1 32.8,17.4 47.8,16.8 62.7,14.4 77.6,5.5 92.5,3.0 107.5,12.1 122.4,26.8 137.3,29.8 152.2,22.2 167.2,23.8 182.1,19.0 197.0,6.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">93.6</span><span class=\"eco-chg up\">▲7.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Газ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,28.5 17.9,27.7 32.8,33.0 47.8,22.5 62.7,17.8 77.6,27.7 92.5,22.8 107.5,21.7 122.4,23.2 137.3,14.4 152.2,6.4 167.2,8.8 182.1,3.0 197.0,8.1 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,28.5 17.9,27.7 32.8,33.0 47.8,22.5 62.7,17.8 77.6,27.7 92.5,22.8 107.5,21.7 122.4,23.2 137.3,14.4 152.2,6.4 167.2,8.8 182.1,3.0 197.0,8.1\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2.893</span><span class=\"eco-chg up\">▲6.1%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Золото</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,31.2 32.8,27.1 47.8,32.7 62.7,19.4 77.6,16.5 92.5,4.8 107.5,3.0 122.4,3.3 137.3,7.6 152.2,6.4 167.2,20.6 182.1,25.7 197.0,28.5 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,31.2 32.8,27.1 47.8,32.7 62.7,19.4 77.6,16.5 92.5,4.8 107.5,3.0 122.4,3.3 137.3,7.6 152.2,6.4 167.2,20.6 182.1,25.7 197.0,28.5\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">4 405</span><span class=\"eco-chg up\">▲0.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Медь</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,17.1 17.9,16.2 32.8,15.7 47.8,30.3 62.7,29.7 77.6,33.0 92.5,18.6 107.5,16.3 122.4,3.0 137.3,16.8 152.2,17.7 167.2,20.7 182.1,16.9 197.0,15.9 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,17.1 17.9,16.2 32.8,15.7 47.8,30.3 62.7,29.7 77.6,33.0 92.5,18.6 107.5,16.3 122.4,3.0 137.3,16.8 152.2,17.7 167.2,20.7 182.1,16.9 197.0,15.9\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6.603</span><span class=\"eco-chg up\">▲0.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Пшеница</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 17.9,28.0 32.8,28.0 47.8,30.3 62.7,26.8 77.6,26.2 92.5,26.5 107.5,26.4 122.4,25.6 137.3,15.4 152.2,12.6 167.2,7.1 182.1,9.5 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 17.9,28.0 32.8,28.0 47.8,30.3 62.7,26.8 77.6,26.2 92.5,26.5 107.5,26.4 122.4,25.6 137.3,15.4 152.2,12.6 167.2,7.1 182.1,9.5 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">785.0</span><span class=\"eco-chg up\">▲20.3%</span></div><div class=\"eco-row\"><span class=\"eco-name\">BTC/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 16.9,24.2 30.7,16.9 44.6,6.7 58.4,9.1 72.3,7.8 86.1,5.5 100.0,6.3 113.9,5.4 127.7,3.0 141.6,7.7 155.4,6.9 169.3,8.0 183.1,6.3 197.0,8.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 16.9,24.2 30.7,16.9 44.6,6.7 58.4,9.1 72.3,7.8 86.1,5.5 100.0,6.3 113.9,5.4 127.7,3.0 141.6,7.7 155.4,6.9 169.3,8.0 183.1,6.3 197.0,8.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">77 557</span><span class=\"eco-chg up\">▲19.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ETH/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 16.9,16.2 30.7,12.5 44.6,3.0 58.4,7.6 72.3,5.6 86.1,4.7 100.0,6.6 113.9,3.5 127.7,3.2 141.6,6.6 155.4,5.9 169.3,7.9 183.1,5.4 197.0,7.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 16.9,16.2 30.7,12.5 44.6,3.0 58.4,7.6 72.3,5.6 86.1,4.7 100.0,6.6 113.9,3.5 127.7,3.2 141.6,6.6 155.4,5.9 169.3,7.9 183.1,5.4 197.0,7.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2 431</span><span class=\"eco-chg up\">▲26.9%</span></div><div class=\"eco-row\"><span class=\"eco-name\">VIX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,26.5 17.9,33.0 32.8,17.0 47.8,5.9 62.7,22.1 77.6,3.0 92.5,18.0 107.5,5.7 122.4,12.5 137.3,16.6 152.2,28.6 167.2,29.9 182.1,21.6 197.0,13.2 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,26.5 17.9,33.0 32.8,17.0 47.8,5.9 62.7,22.1 77.6,3.0 92.5,18.0 107.5,5.7 122.4,12.5 137.3,16.6 152.2,28.6 167.2,29.9 182.1,21.6 197.0,13.2\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">15.41</span><span class=\"eco-chg up\">▲5.3%</span></div></div><p class=\"eco-src\"><em>Источник данных: Yahoo Finance. Динамика показана за доступный период (до 2 недель).</em></p>",
+     "<h3>Що сталося сьогодні</h3><p>Перший день вересня приніс на чеський ринок низку помітних новин, які торкнулися державних закупівель, банківського сектору та ринку нерухомості. Головною подією в корпоративній та адміністративній площині стала офіційна пропозиція поліції пред'явити звинувачення у великому інвестиційному шахрайстві організаторам фонду WCA International. Збитки за цією справою оцінюються майже в <b class=\"k\">2,2 мільярда крон</b>, а серед постраждалих опинилися тисячі громадян і навіть один чеський муніципалітет, що знову підняло питання про захист роздрібних заощаджень.</p><p>Не менш резонансним приводом стали новини навколо критичної інфраструктури. Державна компанія ČEPS звернулася до правоохоронних органів через обставини придбання оператора газопроводів Net4Gas після того, як внутрішній аудит виявив серйозні питання до прозорості угоди. На тлі цих новин європейський газовий ринок також продемонстрував зростання. За даними спотового ринку, вартість газу на біржі перевищила <b class=\"k\">70 євро за МВт·год</b> на тлі ескалації напруженості, що безпосередньо відображається на оптових витратах у регіоні.</p><p>У сфері державних фінансів і податків увагу привернуло рішення Фінансового управління Чехії скасувати тендер на створення нової податкової системи nDIS вартістю в мільярди крон через відсутність конкуренції. Система, яка мала замінити застарілу платформу ADIS з дев'яностих років, залишилася без підрядника. Додаткову напругу в бюджетній дискусії створюють оцінки експертів та опозиції, які попереджають, що реальний дефіцит бюджету Чехії може перевищити <b class=\"k\">3% ВВП</b>, тоді як уряд продовжує дискусії про параметри казни на наступний рік.</p><p>На ринку нерухомості Чехії намітився цікавий перелом. Хоча середня ціна пропозиції квартир уперше перевищила <b class=\"k\">100 000 крон за м²</b>, реальні угоди проходять у середньому на <b class=\"k\">17 000 крон дешевше</b>, і ціни за угодами вперше з 2024 року пішли вниз. Це показує розрив між очікуваннями продавців і реальними фінансовими можливостями покупців в умовах поточних ставок.</p><details class=\"eco-table\"><summary>Котирування: Чехія</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Индекс PX (Прага)</td><td>2 799 CZK</td><td><span class=\"up\">+0.06%</span></td><td><span class=\"up\">+0.04%</span></td></tr><tr><td>Индекс PX-GLOB (Прага)</td><td>3 203 CZK</td><td>—</td><td>—</td></tr><tr><td>EUR/CZK</td><td>24.201 CZK</td><td><span class=\"up\">+0.35%</span></td><td><span class=\"up\">+0.38%</span></td></tr><tr><td>USD/CZK</td><td>20.886 CZK</td><td><span class=\"up\">+0.36%</span></td><td><span class=\"up\">+0.92%</span></td></tr><tr><td>ČEZ (энергетика)</td><td>1 372 CZK</td><td><span class=\"down\">−0.58%</span></td><td><span class=\"down\">−1.08%</span></td></tr><tr><td>Erste Group (банк)</td><td>2 976 CZK</td><td><span class=\"up\">+0.51%</span></td><td><span class=\"up\">+0.88%</span></td></tr><tr><td>Komerční banka (банк)</td><td>1 079 CZK</td><td><span class=\"up\">+1.31%</span></td><td><span class=\"up\">+1.51%</span></td></tr><tr><td>Moneta Money Bank (банк)</td><td>199.8 CZK</td><td><span class=\"up\">+2.46%</span></td><td><span class=\"up\">+0.81%</span></td></tr><tr><td>Vienna Insurance Group (страхование)</td><td>1 720 CZK</td><td><span class=\"down\">−0.92%</span></td><td><span class=\"up\">+0.00%</span></td></tr><tr><td>CSG — Czechoslovak Group (оборона)</td><td>428.0 CZK</td><td><span class=\"down\">−4.74%</span></td><td><span class=\"down\">−6.35%</span></td></tr><tr><td>Colt CZ Group (оборона)</td><td>927.0 CZK</td><td><span class=\"down\">−2.63%</span></td><td><span class=\"down\">−2.11%</span></td></tr><tr><td>Doosan Škoda Power (машиностроение)</td><td>490.0 CZK</td><td><span class=\"down\">−1.41%</span></td><td><span class=\"up\">+0.41%</span></td></tr><tr><td>Philip Morris ČR (табак)</td><td>19 020 CZK</td><td><span class=\"down\">−0.42%</span></td><td><span class=\"up\">+3.37%</span></td></tr><tr><td>Kofola ČeskoSlovensko (напитки)</td><td>512.0 CZK</td><td><span class=\"up\">+0.59%</span></td><td><span class=\"up\">+1.19%</span></td></tr><tr><td>Tatry Mountain Resorts (туризм)</td><td>356.0 CZK</td><td><span class=\"down\">−1.11%</span></td><td><span class=\"down\">−1.66%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Європа</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>EURO STOXX 50</td><td>6 369 EUR</td><td><span class=\"down\">−0.80%</span></td><td><span class=\"down\">−0.87%</span></td></tr><tr><td>DAX (Германия)</td><td>25 970 EUR</td><td><span class=\"down\">−1.10%</span></td><td><span class=\"down\">−1.51%</span></td></tr><tr><td>CAC 40 (Франция)</td><td>8 302 EUR</td><td><span class=\"down\">−0.39%</span></td><td><span class=\"down\">−0.22%</span></td></tr><tr><td>STOXX Europe 600</td><td>647.5 EUR</td><td><span class=\"down\">−0.56%</span></td><td><span class=\"down\">−0.67%</span></td></tr><tr><td>FTSE 100 (Британия)</td><td>10 789 GBP</td><td><span class=\"down\">−0.32%</span></td><td><span class=\"down\">−0.82%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Ставки й облігації</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Доходность 10-летних US Treasuries, %</td><td>4.776 USD</td><td><span class=\"up\">+0.38%</span></td><td><span class=\"up\">+2.23%</span></td></tr><tr><td>Доходность 30-летних US Treasuries, %</td><td>5.251 USD</td><td><span class=\"up\">+0.04%</span></td><td><span class=\"up\">+1.16%</span></td></tr><tr><td>Доходность 5-летних US Treasuries, %</td><td>4.534 USD</td><td><span class=\"up\">+0.60%</span></td><td><span class=\"up\">+3.14%</span></td></tr><tr><td>Длинные гособлигации США (TLT)</td><td>81.965 USD</td><td><span class=\"down\">−0.67%</span></td><td><span class=\"down\">−1.40%</span></td></tr><tr><td>Высокодоходные корп. облигации (HYG)</td><td>79.2 USD</td><td><span class=\"down\">−0.76%</span></td><td><span class=\"down\">−0.84%</span></td></tr><tr><td>Инвест. корп. облигации (LQD)</td><td>105.4 USD</td><td><span class=\"down\">−0.77%</span></td><td><span class=\"down\">−1.25%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Енергоносії</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Нефть Brent, $/барр.</td><td>93.6 USD</td><td><span class=\"up\">+3.44%</span></td><td><span class=\"up\">+4.35%</span></td></tr><tr><td>Нефть WTI, $/барр.</td><td>89.31 USD</td><td><span class=\"up\">+4.14%</span></td><td><span class=\"up\">+6.92%</span></td></tr><tr><td>Газ Henry Hub, $</td><td>2.893 USD</td><td><span class=\"down\">−1.43%</span></td><td><span class=\"down\">−0.48%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Економіка Чехії</h3><p>На валютному ринку чеська крона в перший день вересня продемонструвала помірний рух. За даними офіційного фіксингу ČNB за 01.09.2026, курс становив <b class=\"k\">24,16 CZK/EUR</b> та <b class=\"k\">20,844 CZK/USD</b>. При цьому на біржових торгах пара EUR/CZK зафіксувала позначку <b class=\"k\">24,2011 CZK/EUR</b> із денною зміною на <b class=\"k\">0,35%</b>, а пара USD/CZK піднялася до <b class=\"k\">20,8857 CZK/USD</b> зі зростанням на <b class=\"k\">0,36%</b>. За останні три сесії крона пройшла шлях від рівнів близько 24,11 до поточних значень, що перебуває в межах звичних денних коливань.</p><p>Головний індекс Празької біржі Індекс PX (Прага) закрився на рівні <b class=\"k\">2798,63 пункта</b> із символічною зміною на <b class=\"k\">0,06%</b> за день, показавши стабільність на тлі різноспрямованої динаміки окремих акцій. У банківському секторі лідером зростання стала Moneta Money Bank (монета), яка додала <b class=\"k\">2,46%</b> до <b class=\"k\">199,8 CZK</b>, тоді як Komerční banka піднялася на <b class=\"k\">1,31%</b> до <b class=\"k\">1079,0 CZK</b>, а Erste Group зросла на <b class=\"k\">0,51%</b> до <b class=\"k\">2976,0 CZK</b>. Енергетичний гігант ČEZ (енергетика) знизився на <b class=\"k\">0,58%</b> до <b class=\"k\">1372,0 CZK</b>.</p><p>Помітний рух відбувся в секторі оборонних підприємств: папери CSG - Czechoslovak Group (оборона) просіли на <b class=\"k\">4,74%</b> до <b class=\"k\">428,0 CZK</b>, а Colt CZ Group (оборона) втратила <b class=\"k\">2,63%</b>, опустившись до <b class=\"k\">927,0 CZK</b>. Загальний макроекономічний контекст Чехії спирається на свіжі дані за літо: зростання ВВП у річному вираженні за другий квартал становило <b class=\"k\">1,9%</b>, промислове виробництво за червень зросло на <b class=\"k\">4,0%</b>, а роздрібні продажі збільшилися на <b class=\"k\">3,6%</b>.</p><details class=\"eco-table\"><summary>Котирування: Валюти</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>EUR/USD</td><td>1.159 USD</td><td><span class=\"up\">+0.03%</span></td><td><span class=\"down\">−0.54%</span></td></tr><tr><td>USD/CNY</td><td>6.709 CNY</td><td><span class=\"down\">−0.26%</span></td><td><span class=\"down\">−0.20%</span></td></tr><tr><td>Индекс доллара DXY</td><td>99.69 USD</td><td><span class=\"up\">+0.26%</span></td><td><span class=\"up\">+0.53%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Ціни, продукти та інфляція</h3><p>Інфляційна картина в Чехії залишається відносно стриманою порівняно з минулими роками. Згідно з офіційними даними Eurostat, гармонізована інфляція HICP у Чехії за липень 2026 року становила <b class=\"k\">1,3% рік до року</b>. При цьому ціни виробників (PPI) за той самий період зросли на <b class=\"k\">1,6%</b>, що вказує на помірний ціновий тиск на рівні заводів та оптових поставок.</p><p>Цікава динаміка спостерігається в сегменті продовольства. Офіційний показник зростання цін на продукти харчування в Чехії за липень становив <b class=\"k\">-3,7% рік до року</b>, що свідчить про деяку стабілізацію продуктів на полицях після періодів різкого подорожчання. Однак світові товарні ринки сільськогосподарської продукції на біржі показують різноспрямовані та різкі рухи, які з часом транслюються в сировинну базу переробників.</p><p>На світових сировинних ринках зафіксовано значне зростання біржових котирувань зернових. Пшениця на Чиказькій біржі подорожчала за день на <b class=\"k\">3,77%</b> до <b class=\"k\">785,0 центів за бушель</b>, кукурудза підскочила на <b class=\"k\">5,78%</b> до <b class=\"k\">544,75 цента</b>, а соя зросла на <b class=\"k\">3,35%</b> до <b class=\"k\">1318,0 центів</b>. Біржова ціна кави обвалилася одразу на <b class=\"k\">-9,65%</b> до <b class=\"k\">310,7 цента</b>, тоді як цукор додав <b class=\"k\">3,09%</b> до <b class=\"k\">18,36 цента</b>. Ці світові ціни закладаються в собівартість продуктів харчування з лагом у кілька місяців, впливаючи на майбутню вартість хліба, м'яса та кондитерських виробів.</p><details class=\"eco-table\"><summary>Котирування: Продовольство</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Пшеница (хлеб)</td><td>785.0 USX</td><td><span class=\"up\">+3.77%</span></td><td><span class=\"up\">+5.69%</span></td></tr><tr><td>Кукуруза (корма)</td><td>544.8 USX</td><td><span class=\"up\">+5.78%</span></td><td><span class=\"up\">+6.76%</span></td></tr><tr><td>Соя (масло, корма)</td><td>1 318 USX</td><td><span class=\"up\">+3.35%</span></td><td><span class=\"up\">+4.89%</span></td></tr><tr><td>Кофе</td><td>310.7 USX</td><td><span class=\"down\">−9.65%</span></td><td><span class=\"down\">−9.13%</span></td></tr><tr><td>Сахар</td><td>18.36 USX</td><td><span class=\"up\">+3.09%</span></td><td><span class=\"up\">+0.93%</span></td></tr><tr><td>Какао</td><td>6 561 USD</td><td><span class=\"down\">−1.34%</span></td><td><span class=\"up\">+6.60%</span></td></tr><tr><td>Хлопок (одежда)</td><td>91.73 USX</td><td><span class=\"up\">+0.03%</span></td><td><span class=\"up\">+0.74%</span></td></tr><tr><td>Пиломатериалы (стройка)</td><td>555.5 USD</td><td><span class=\"down\">−2.37%</span></td><td><span class=\"down\">−0.71%</span></td></tr><tr><td>Рис</td><td>15.78 USD</td><td><span class=\"up\">+3.48%</span></td><td><span class=\"up\">+6.30%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: М'ясо</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>КРС (говядина)</td><td>211.7 USX</td><td><span class=\"down\">−4.09%</span></td><td><span class=\"down\">−3.89%</span></td></tr><tr><td>Свиньи (свинина)</td><td>83.725 USX</td><td><span class=\"up\">+0.06%</span></td><td><span class=\"up\">+3.84%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Зарплати, робота та доходи</h3><p>Ситуація на ринку праці Чехії характеризується стабільно низьким безробіттям. За даними за липень 2026 року, сезонно згладжене безробіття в країні становило <b class=\"k\">3,3%</b>, що утримує ринок праці в стані дефіциту кадрів у низці галузей. Це змушує компанії конкурувати за працівників, пропонуючи кращі умови.</p><p>Важливою подією у трудовій сфері стало обговорення масштабної новели закону про працю, яка впроваджує європейські правила прозорості зарплат. Новий закон скасовує колишні корпоративні заборони на обговорення доходів між колегами та забороняє роботодавцям запитувати інформацію про минулу зарплату кандидата при прийомі на роботу, що покликане зробити найм справедливішим.</p><p>Одночасно уряд і відомства переглядають соціальні виплати. З 2026 року в Чехії почали діяти нові правила виплати допомоги з безробіття: знижено відсоткові ставки для розрахунку, скасовано колишні пільги для громадян старше 52 років, а максимальний розмір допомоги зменшено майже на <b class=\"k\">10 000 крон на місяць</b>, що посилює стимули для якнайшвидшого працевлаштування.</p><details class=\"eco-table\"><summary>Котирування: Китай і Азія</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Shanghai Composite</td><td>3 980 CNY</td><td><span class=\"up\">+0.86%</span></td><td><span class=\"up\">+1.89%</span></td></tr><tr><td>CSI 300 (крупнейшие КНР)</td><td>4 611 CNY</td><td><span class=\"down\">−3.60%</span></td><td><span class=\"down\">−5.57%</span></td></tr><tr><td>Shenzhen Component</td><td>13 872 CNY</td><td><span class=\"up\">+0.44%</span></td><td><span class=\"up\">+1.25%</span></td></tr><tr><td>Hang Seng (Гонконг)</td><td>25 330 HKD</td><td><span class=\"down\">−0.07%</span></td><td><span class=\"down\">−0.34%</span></td></tr><tr><td>Nikkei 225 (Япония)</td><td>66 215 JPY</td><td><span class=\"down\">−0.14%</span></td><td><span class=\"up\">+0.08%</span></td></tr><tr><td>Alibaba</td><td>112.8 USD</td><td><span class=\"down\">−1.06%</span></td><td><span class=\"down\">−3.01%</span></td></tr><tr><td>Tencent</td><td>441.4 HKD</td><td><span class=\"down\">−0.48%</span></td><td><span class=\"up\">+1.71%</span></td></tr><tr><td>Китайский интернет-сектор (KWEB)</td><td>25.765 USD</td><td><span class=\"down\">−0.17%</span></td><td><span class=\"down\">−1.28%</span></td></tr><tr><td>Развивающиеся рынки (EEM)</td><td>67.06 USD</td><td><span class=\"up\">+0.06%</span></td><td><span class=\"down\">−0.81%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Енергія, бензин та транспорт</h3><p>На чеському оптовому ринку електроенергії (біржа OTE) середня спотова ціна за день становила <b class=\"k\">148,87 євро за МВт·год</b> при добовому розкиді від мінімальних <b class=\"k\">69,87 євро</b> до пікових <b class=\"k\">228,57 євро за МВт·год</b>. У перерахунку на роздрібні одиниці це дає оптову ціну на рівні <b class=\"k\">3,6 крони за кВт·год</b>. Важливо пам'ятати, що це виключно оптова складова на біржі без урахування регульованих тарифів на розподіл, податків та маржі конкретного постачальника, тому підсумковий рахунок за електроенергію в будинках громадян завжди суттєво вищий.</p><p>Оптовий ринок газу на чеській біржі OTE показав помітніше зростання: середня ціна за день піднялася до <b class=\"k\">71,71 євро за МВт·год</b> (зростання оптового показника за добу становило <b class=\"k\">14,01%</b>). У перерахунку це відповідає <b class=\"k\">1,73 крони за кВт·год</b> оптової вартості без урахування транспортних мереж, податків та торгової націнки енергокомпаній.</p><p>На світовому ринку нафти зафіксовано масштабне подорожчання. Нафта марки Brent подорожчала за день на <b class=\"k\">3,44%</b> до <b class=\"k\">93,6 долара за барель</b>, а нафта WTI зросла на <b class=\"k\">4,14%</b> до <b class=\"k\">89,31 долара за барель</b>. Подібні рухи на нафтовому ринку з неминучим лагом у кілька тижнів транслюються в роздрібні ціни на чеських автозаправках, впливаючи на вартість бензину та дизеля.</p><details class=\"eco-table\"><summary>Котирування: Метали</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Золото, $/унция</td><td>4 405 USD</td><td><span class=\"down\">−0.59%</span></td><td><span class=\"down\">−4.44%</span></td></tr><tr><td>Серебро, $/унция</td><td>65.58 USD</td><td><span class=\"down\">−0.97%</span></td><td><span class=\"down\">−5.54%</span></td></tr><tr><td>Медь, $ (спрос/стройка)</td><td>6.603 USD</td><td><span class=\"up\">+0.14%</span></td><td><span class=\"up\">+0.24%</span></td></tr><tr><td>Платина, $</td><td>1 774 USD</td><td><span class=\"down\">−0.83%</span></td><td><span class=\"down\">−3.89%</span></td></tr><tr><td>Палладий, $ (автопром)</td><td>1 332 USD</td><td><span class=\"down\">−2.27%</span></td><td><span class=\"down\">−0.42%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Житло, іпотека та кредити (фінансування)</h3><p>Грошовий ринок Чехії продовжує жити в умовах помірних відсоткових ставок центрального банку. Остання операція ČNB на грошовому ринку (операція типу Depozitní facilita за 01.09.2026) зафіксована на рівні <b class=\"k\">2,75% річних</b> з обсягом розміщення <b class=\"k\">6,566 мільярда крон</b>. Ця ставка визначає базовий дохід, за яким комерційні банки розміщують надлишкову ліквідність у регуляторі.</p><p>Ключові ринкові індикатори вартості грошей у Чехії залишаються стабільними. Ставка PRIBOR на строк 3 місяці (станом на 25.08.2026) становить <b class=\"k\">3,85% річних</b> (а загальна ставка грошового ринку 3 міс. за липень оцінена в <b class=\"k\">3,83%</b>), слугуючи базовим орієнтиром для розрахунку відсотків за іпотечними кредитами з плаваючою ставкою. Одноденна ставка CZEONIA (станом на 31.08.2026) зафіксована на позначці <b class=\"k\">3,11% річних</b> при обсязі угод <b class=\"k\">18,485 мільярда крон</b>.</p><p>Дохідність 10-річних державних облігацій Чехії за липень перебувала на рівні <b class=\"k\">4,79% річних</b>. Дохідність держоблігацій слугує орієнтиром для довгострокових запозичень держави та опосередковано впливає на довгострокові фіксовані ставки за іпотечними кредитами, які пропонують чеські банки своїм клієнтам при купівлі житла.</p>",
+     "<h3>Європа та світ</h3><p>Європейські фондові ринки завершили перший день вересня у «червоній зоні» на тлі корекції провідних індексів. Загальноєвропейський індекс EURO STOXX 50 знизився на <b class=\"k\">0,8%</b> до <b class=\"k\">6368,98 пункту</b>, німецький DAX втратив <b class=\"k\">1,1%</b>, опустившись до <b class=\"k\">25,970,11 пункту</b>, а французький CAC 40 просів на <b class=\"k\">0,39%</b> до <b class=\"k\">8301,85 пункту</b>. Британський FTSE 100 зменшився на <b class=\"k\">0,32%</b> до <b class=\"k\">10789,28 пункту</b>.</p><p>У США основні індекси також показали помірне зниження: S&P 500 зменшився на <b class=\"k\">0,57%</b> до <b class=\"k\">7642,67 пункту</b>, Nasdaq Composite втратив <b class=\"k\">0,8%</b> до <b class=\"k\">26,159,68 пункту</b>, а Dow Jones знизився на <b class=\"k\">0,69%</b> до <b class=\"k\">52,817,08 пункту</b>. Індекс долара DXY виріс на <b class=\"k\">0,26%</b> до <b class=\"k\">99,69 пункту</b>, відображаючи зміцнення американської валюти на глобальному ринку.</p><p>Ринок криптовалют, що виступає барометром апетиту інвесторів до ризику, продемонстрував невелике зниження в межах денних коливань. Bitcoin торгується на рівні <b class=\"k\">77,557,25 долара</b> зі зміною на <b class=\"k\">-1,26%</b> за день, а Ethereum знизився на <b class=\"k\">-1,44%</b> до <b class=\"k\">2431,23 долара</b>. Індекс страху VIX піднявся на <b class=\"k\">3,28%</b> до <b class=\"k\">15,41 пункту</b>, вказуючи на легке посилення нервозності на світових майданчиках.</p><details class=\"eco-table\"><summary>Котирування: США</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>S&amp;P 500</td><td>7 643 USD</td><td><span class=\"down\">−0.57%</span></td><td><span class=\"down\">−1.14%</span></td></tr><tr><td>Nasdaq Composite</td><td>26 160 USD</td><td><span class=\"down\">−0.80%</span></td><td><span class=\"down\">−1.44%</span></td></tr><tr><td>Dow Jones</td><td>52 817 USD</td><td><span class=\"down\">−0.69%</span></td><td><span class=\"down\">−1.40%</span></td></tr><tr><td>Apple</td><td>326.6 USD</td><td><span class=\"up\">+3.09%</span></td><td><span class=\"up\">+3.83%</span></td></tr><tr><td>Microsoft</td><td>500.8 USD</td><td><span class=\"down\">−1.27%</span></td><td><span class=\"down\">−0.84%</span></td></tr><tr><td>Nvidia</td><td>219.7 USD</td><td><span class=\"down\">−0.49%</span></td><td><span class=\"down\">−3.64%</span></td></tr><tr><td>Russell 2000 — малый бизнес США (IWM)</td><td>290.9 USD</td><td><span class=\"down\">−1.04%</span></td><td><span class=\"down\">−2.98%</span></td></tr><tr><td>Финансовый сектор США (XLF)</td><td>57.385 USD</td><td><span class=\"down\">−0.56%</span></td><td><span class=\"down\">−0.86%</span></td></tr><tr><td>Энергетический сектор США (XLE)</td><td>64.34 USD</td><td><span class=\"up\">+0.59%</span></td><td><span class=\"up\">+3.29%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Криптовалюти</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Bitcoin</td><td>77 557 USD</td><td><span class=\"down\">−1.26%</span></td><td><span class=\"down\">−0.88%</span></td></tr><tr><td>Ethereum</td><td>2 431 USD</td><td><span class=\"down\">−1.44%</span></td><td><span class=\"down\">−1.08%</span></td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Ризик-апетит (волатильність)</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>VIX — индекс страха</td><td>15.41 USD</td><td><span class=\"up\">+3.28%</span></td><td><span class=\"up\">+6.20%</span></td></tr><tr><td>Золото ETF (GLD)</td><td>398.9 USD</td><td><span class=\"down\">−2.32%</span></td><td><span class=\"down\">−5.60%</span></td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Що це означає для гаманця</h3><ul><li>Офіційний курс крони до євро становить <b class=\"k\">24,16 CZK/EUR</b>, а на біржі котирування перебувають близько <b class=\"k\">24,20 CZK/EUR</b>, що визначає поточну вартість обміну валюти для поїздок за кордон і закордонних інтернет-покупок.</li><li>Оптова ціна електроенергії на чеській біржі OTE зафіксована на рівні <b class=\"k\">3,6 крони за кВт·год</b> (без урахування податків і дистрибуції), з якої складаються рахунки за світло в чеських домівках.</li><li>Оптова ціна газу на чеському ринку піднялася до <b class=\"k\">1,73 крони за кВт·год</b> у рамках спотових торгів, що відображає тиск на енергоносії перед початком опалювального сезону.</li><li>Інфляція HICP у Чехії тримається на рівні <b class=\"k\">1,3% річних</b>, а ціни на продукти харчування за офіційною статистикою демонструють зниження на <b class=\"k\">-3,7% рік до року</b>.</li><li>Базова ставка PRIBOR для іпотек з плаваючою ставкою становить <b class=\"k\">3,85% річних</b>, а дохідність 10-річних держоблігацій утримується на позначці <b class=\"k\">4,79%</b>.</li><li>Рівень безробіття в країні становить <b class=\"k\">3,3%</b>, при цьому нові законодавчі норми змінюють правила розрахунку допомог і вводять прозорість зарплат при наймі.</li></ul>",
+     "<h3>Коротко: підсумки дня</h3><ul><li>Економіка: зростання ВВП Чехії у другому кварталі становило <b class=\"k\">1,9% рік до року</b> при промисловому зростанні на <b class=\"k\">4,0%</b>.</li><li>Крона: офіційний курс ČNB зафіксований на позначці <b class=\"k\">24,16 CZK/EUR</b> та <b class=\"k\">20,844 CZK/USD</b>.</li><li>Ціни та інфляція: загальна інфляція HICP становить <b class=\"k\">1,3%</b>, а продуктові ціни показують річну зміну на <b class=\"k\">-3,7%</b>.</li><li>Доходи та робота: безробіття в Чехії утримується на низькому рівні <b class=\"k\">3,3%</b>.</li><li>Енергетика: нафта марки Brent подорожчала до <b class=\"k\">93,6 долара за барель</b>, а оптовий газ на біржі OTE виріс до <b class=\"k\">71,71 євро за МВт·год</b>.</li><li>Житло та іпотека: 3-місячний PRIBOR становить <b class=\"k\">3,85%</b>, а реальні ціни угод з квартирами вперше пішли вниз при середніх запитах вище <b class=\"k\">100 000 крон за м²</b>.</li><li>Світові ринки: індекс EURO STOXX 50 знизився на <b class=\"k\">0,8%</b>, S&P 500 втратив <b class=\"k\">0,57%</b>.</li><li>Криптовалюти: Bitcoin торгується близько <b class=\"k\">77,557 доларів</b> при зниженні на <b class=\"k\">-1,26%</b>.</li></ul><p>Матеріал має інформаційний характер і не є інвестиційною рекомендацією.</p>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "rank": 82.0,
+   "forecast": true
+  },
   {
    "id": "n4698",
    "slug": "ikea-snizhaet-tseny-na-sotni-tovarov-chto-podeshevelo",
@@ -15,8 +74,8 @@
    ],
    "published_at": "2026-09-01T18:34:03.495803+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "4 минуты назад",
+    "uk": "4 хвилини тому"
    },
    "date": {
     "ru": "1 сентября 2026, 18:34",
@@ -112,8 +171,8 @@
    ],
    "published_at": "2026-09-01T18:34:03.495803+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "4 минуты назад",
+    "uk": "4 хвилини тому"
    },
    "date": {
     "ru": "1 сентября 2026, 18:34",
@@ -265,8 +324,8 @@
    ],
    "published_at": "2026-09-01T18:02:14.247662+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "36 минут назад",
+    "uk": "36 хвилин тому"
    },
    "date": {
     "ru": "1 сентября 2026, 18:02",
@@ -374,8 +433,8 @@
    ],
    "published_at": "2026-09-01T18:02:14.247662+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "36 минут назад",
+    "uk": "36 хвилин тому"
    },
    "date": {
     "ru": "1 сентября 2026, 18:02",
@@ -501,8 +560,8 @@
    ],
    "published_at": "2026-09-01T18:02:14.247662+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "36 минут назад",
+    "uk": "36 хвилин тому"
    },
    "date": {
     "ru": "1 сентября 2026, 18:02",
@@ -623,8 +682,8 @@
    ],
    "published_at": "2026-09-01T18:02:14.247662+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "36 минут назад",
+    "uk": "36 хвилин тому"
    },
    "date": {
     "ru": "1 сентября 2026, 18:02",
@@ -1446,7 +1505,7 @@
     ],
     "impact": ""
    },
-   "rank": 54.857
+   "rank": 54.795
   },
   {
    "id": "n4686",
@@ -1551,7 +1610,7 @@
     ],
     "impact": "Верховний суд остаточно поставив крапку у вироку для помічниці експрем'єра, але справа може продовжитися в касаційній інстанції."
    },
-   "rank": 104.728,
+   "rank": 104.609,
    "story": [
     {
      "slug": "apelliatsionnyi-sud-podtverdil-uslovnyi-prigovor-iane-nadovoi-po-delu",
@@ -1679,7 +1738,7 @@
     ],
     "impact": "Суворе покарання для засновника благодійного фонду демонструє жорсткий контроль з боку чеських держорганів за витрачанням цільових коштів, які виділяються на підтримку біженців."
    },
-   "rank": 111.71,
+   "rank": 111.583,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -1791,7 +1850,7 @@
     ],
     "impact": "Проверки на трассе D1 касаются всех участников дорожного движения. Перегруженные грузовики увеличивают риск аварий и повреждения дорожного полотна. Нарушение социальных предписаний - несоблюдение времени отдыха водителями - также создаёт угрозу безопасности. Штрафы и кауции за подобные нарушения могут достигать десятков тысяч крон, а в некоторых случаях дело передаётся в административные органы для дальнейшего разбирательства."
    },
-   "rank": 98.151,
+   "rank": 98.038,
    "sources": [
     {
      "domain": "insid.gov.cz",
@@ -1931,7 +1990,7 @@
     ],
     "impact": "Паломнический праздник в Штипе - одно из ключевых религиозных и культурных событий региона. Для посетителей будут открыты храм, обновлённая фара и парк, а также организованы мессы и детские программы. Вход свободный, специальных документов не требуется."
    },
-   "rank": 107.966,
+   "rank": 107.842,
    "sources": [
     {
      "domain": "zlin.cz",
@@ -2083,7 +2142,7 @@
     ],
     "impact": "Ошибка в выписках ČSOB не влияет на суммы платежей, но может вызвать путаницу у клиентов. Банк рекомендует проверять транзакции и при подозрениях на мошенничество обращаться в службу поддержки. Проблема должна быть устранена в ближайшее время."
    },
-   "rank": 88.336,
+   "rank": 88.234,
    "image_url": "https://img.24n.cz/p/2026/09/v-vypiskakh-klientov-csob-poiavilis-strannye-platezhi-bank-p-5ac3e8da8b132c9d.webp",
    "image_w": 1000,
    "image_h": 550
@@ -2179,7 +2238,7 @@
     ],
     "impact": "Комерційний успіх гри не гарантує добробут її творців через внутрішні конфлікти та фінансові проблеми керівництва студії."
    },
-   "rank": 88.336,
+   "rank": 88.234,
    "image_url": "https://img.24n.cz/p/2026/09/sozdateli-khita-star-wars-zero-company-ostalis-bez-raboty-i-33850499fbe90c03.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/sozdateli-khita-star-wars-zero-company-ostalis-bez-raboty-i-51aa463b9c83e091.webp"
@@ -2277,7 +2336,7 @@
     ],
     "impact": "Для зрителей вход на все мероприятия и выставки в рамках исторической гонки бесплатный. Стоит учитывать, что во время субботних заездов движение транспорта на улицах не перекрывается специальным образом."
    },
-   "rank": 100.359,
+   "rank": 100.241,
    "sources": [
     {
      "domain": "zbraslav-jiloviste.cz",
@@ -2430,7 +2489,7 @@
     ],
     "impact": "История MI Estate показывает риски инвестиций в доли недвижимости без тщательной проверки объектов. Владельцам таких долей стоит внимательно оценивать предложения о покупке - процесс может затянуться на годы, а компании часто используют массовые рассылки и давление для заключения сделок."
    },
-   "rank": 81.311,
+   "rank": 81.215,
    "image_url": "https://img.24n.cz/p/2026/09/flipking-po-cheshski-kak-kompaniia-skupala-doli-v-domakh-i-t-c8124dd1201e6a02.webp",
    "video": {
     "kind": "iframe",
@@ -2532,7 +2591,7 @@
     ],
     "impact": "Решение Верховного суда касается бывшего губернатора Устецкого края Иржи Шульца и не затрагивает других фигурантов дела ROP Severozápad. Шульц обязан выплатить штраф в 300 тысяч крон и возместить ущерб Устецкому краю в размере около 170 тысяч крон. Пятилетний запрет на работу с госсредствами вступает в силу с момента вступления приговора в законную силу."
    },
-   "rank": 99.615,
+   "rank": 99.496,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -2662,7 +2721,7 @@
     ],
     "impact": "Решение суда означает, что движение SPD избежало штрафа в 3 миллиона крон. Однако дело может быть пересмотрено Верховным судом, если прокуратура подаст кассационную жалобу. Уголовное преследование лидера SPD Tomio Okamura продолжается отдельно, но приостановлено до окончания его депутатского мандата."
    },
-   "rank": 126.913,
+   "rank": 126.761,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -2798,7 +2857,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 79.608
+   "rank": 79.512
   },
   {
    "id": "n4675",
@@ -2899,7 +2958,7 @@
     ],
     "impact": "Мероприятие открыто для всех жителей и гостей Праги. Участие в Heritage Braai Day - это возможность познакомиться с культурой ЮАР, попробовать традиционные блюда и провести время на свежем воздухе. Билеты можно приобрести онлайн, дети до 12 лет проходят бесплатно."
    },
-   "rank": 90.482,
+   "rank": 90.372,
    "sources": [
     {
      "domain": "somo.social",
@@ -3016,7 +3075,7 @@
     ],
     "impact": "Проблема нелегальных свалок в районе Кламовка затрагивает всех жителей Праги 5. Мусор не только портит внешний вид улиц, но и создаёт угрозу здоровью - из-за шприцов и заражённой клопами мебели. Власти уже несколько раз убирали свалки, но без поимки нарушителя ситуация может повториться. Если у вас есть информация о тех, кто сбрасывает мусор в неположенных местах, обращайтесь в администрацию района или городскую полицию."
    },
-   "rank": 90.945,
+   "rank": 90.832,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-5-zhiteli-klamovki-boriutsia-s-nelegalnymi-svalkami-e050ce8be3527c1c.webp",
    "image_w": 1200,
    "image_h": 675
@@ -3112,7 +3171,7 @@
     ],
     "impact": "Решение Конституционного суда Чехии подтверждает, что родители не могут уклоняться от алиментов, скрывая доходы или переводя имущество на родственников. Сумма в 17 тысяч крон на ребёнка остаётся в силе, и отец обязан её выплачивать ежемесячно."
    },
-   "rank": 95.493,
+   "rank": 95.374,
    "sources": [
     {
      "domain": "podnikatel.cz",
@@ -3223,7 +3282,7 @@
     ],
     "impact": "Встреча президента с мэрами микрорегиона Коницко может повлиять на распределение налоговых поступлений и финансирование дорожной инфраструктуры в малых и отдалённых общинах. Изменения в этих сферах коснутся жителей всех 19 муниципалитетов региона, где проживает почти 10 тысяч человек."
    },
-   "rank": 82.476,
+   "rank": 82.372,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -3377,7 +3436,7 @@
     ],
     "impact": "Для покупателей недвижимости в Чехии важно учитывать разрыв между ценами в объявлениях и реальными сделками - он может достигать миллиона крон за квартиру. Рынок демонстрирует первые признаки снижения цен, но реакция на изменения происходит с задержкой. При выборе жилья стоит ориентироваться на данные по конкретному городу, а не на общенациональные средние показатели."
    },
-   "rank": 88.584,
+   "rank": 88.471,
    "image_url": "https://img.24n.cz/p/2026/09/tseny-na-kvartiry-v-chekhii-obiavleniia-zavysheny-na-million-f451f5c4ca197f6c.webp",
    "video": {
     "kind": "iframe",
@@ -3490,7 +3549,7 @@
     ],
     "impact": "Для основателей стартапов в Чехии новые ожидания инвесторов означают, что скорость роста и капитальная эффективность становятся критически важными. AI-стартапы должны демонстрировать быстрый масштаб, в то время как deep tech и hardware могут рассчитывать на более гибкие сроки. Инвесторам важно учитывать специфику отрасли при оценке KPI."
    },
-   "rank": 82.764,
+   "rank": 82.657,
    "image_url": "https://img.24n.cz/p/2026/09/ii-uskoriaet-startapy-investory-zhdut-rosta-s-1-do-75-mln-do-555ffb13e74d8c3f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/ii-uskoriaet-startapy-investory-zhdut-rosta-s-1-do-75-mln-do-2c19b5d4a917f38d.webp"
@@ -3610,7 +3669,7 @@
     ],
     "impact": "Ситуация затрагивает жителей дома на Chodově и прохожих, которые могут пострадать от брошенных предметов. Проблема требует системного решения: пока мужчина не лишён дееспособности, он может отказываться от лечения, что создаёт угрозу для окружающих."
    },
-   "rank": 91.476,
+   "rank": 91.357,
    "image_url": "https://img.24n.cz/p/2026/09/na-prazhskom-khodove-psikhicheski-bolnoi-muzhchina-godami-br-8e3727f950da6c45.webp",
    "image_w": 1200,
    "image_h": 674
@@ -3733,7 +3792,7 @@
     ],
     "impact": "Отмена тендера на nDIS означает, что модернизация ключевой налоговой системы Чехии откладывается. Для налогоплательщиков и бизнеса это может означать продолжение работы с устаревшей системой ADIS, которая создаёт дополнительные трудности. В будущем государству предстоит пересмотреть подход к организации крупных ИТ-закупок, чтобы избежать повторения подобных ситуаций."
    },
-   "rank": 74.052,
+   "rank": 73.956,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-otmenila-tender-na-novyi-nalogovyi-sistem-ndis-poch-abc07a237a0f7399.webp",
    "image_w": 670,
    "image_h": 377
@@ -3831,7 +3890,7 @@
     ],
     "impact": "Фестиваль Triangl 12 сентября 2026 года предлагает бесплатный доступ к трём культурным площадкам в Праге - Muzeum literatury, Vila Lanna и Villa Pellé. Программа подойдёт для всех возрастов: выставки, лекции, спектакли и мастер-классы. Вход свободный, регистрация не требуется."
    },
-   "rank": 90.676,
+   "rank": 90.557,
    "sources": [
     {
      "domain": "mk.gov.cz",
@@ -3992,7 +4051,7 @@
     ],
     "impact": "Для владельцев домашних животных в Чехии это означает необходимость учитывать высокие расходы на лечение при возникновении серьезных проблем со здоровьем питомца, так как большинство клиник требует оплату на месте, а страховые полисы имеют ограничения и периоды ожидания."
    },
-   "rank": 77.722,
+   "rank": 77.62,
    "image_url": "https://img.24n.cz/p/2026/09/strakhovanie-domashnikh-zhivotnykh-v-chekhii-tseny-na-lechen-d903d1212d8f4ef7.webp",
    "image_w": 1200,
    "image_h": 660
@@ -4099,7 +4158,7 @@
     ],
     "impact": "Дар Праги и чешского посольства в Ирландии - это не только религиозный символ, но и жест дружбы между странами. Копия Пражского Иезулатка станет частью культурного наследия графства Керри и будет представлена на паломнической мессе 8 сентября. Для жителей Ирландии статуэтка имеет особое значение как <em>Child of Prague</em>, а её новый наряд подчёркивает связь между чешской и ирландской культурами."
    },
-   "rank": 89.123,
+   "rank": 89.0,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -4219,7 +4278,7 @@
     ],
     "impact": "Событие носит культурно-познавательный характер и не вводит новых обязательств или финансовых сборов для жителей, однако позволяет посетить памятники архитектуры в необычное вечернее время со специальной программой."
    },
-   "rank": 76.921,
+   "rank": 76.814,
    "sources": [
     {
      "domain": "metro.cz",
@@ -4342,7 +4401,7 @@
     ],
     "impact": "Фонд Nadace Anežka надав сім'ям з особливими дітьми інструмент підтримки, який охоплює і психотерапію, і практичний розбір соціально-медичних питань."
    },
-   "rank": 78.541,
+   "rank": 78.431,
    "sources": [
     {
      "domain": "magazinelita.cz",
@@ -4477,7 +4536,7 @@
     ],
     "impact": "С 1 января 2026 года студентам Чехии больше не нужно самостоятельно уведомлять страховую компанию о начале учёбы - эту обязанность взяли на себя школы. Однако рекомендуется проверить, что данные переданы корректно, чтобы избежать долгов по взносам. Правило не распространяется на докторантов старше 26 лет и студентов за границей, которым нужно действовать по старым правилам."
    },
-   "rank": 98.783,
+   "rank": 98.645,
    "sources": [
     {
      "domain": "zpmvcr.cz",
@@ -4574,7 +4633,7 @@
     ],
     "impact": "Премьера спектакля Tango пройдет 4 сентября 2026 года в театре Činoherní klub в Праге. Поклонники драматического искусства смогут увидеть новую работу режиссера Gabriela Gabašová с участием известных чешских актеров."
    },
-   "rank": 36.107
+   "rank": 36.056
   },
   {
    "id": "n4660",
@@ -4680,7 +4739,7 @@
     ],
     "impact": "Дослідження CzechTourism показує зростання внутрішнього туризму: чехи все частіше обирають відпочинок удома на тлі економії та нових звичок."
    },
-   "rank": 71.511,
+   "rank": 71.41,
    "image_url": "https://img.24n.cz/p/2026/08/podzimni-dovolena-v-cesku-2026-kam-jezdi-cesi-a-kolik-utrati-98e265ceb3cda121.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/podzimni-dovolena-v-cesku-2026-kam-jezdi-cesi-a-kolik-utrati-b56ee10a8864c213.webp",
@@ -4816,7 +4875,7 @@
     ],
     "impact": "Дело касается всех водителей, использующих чешские трассы. Оно напоминает о необходимости соблюдать скоростной режим и быть предельно внимательным за рулём, особенно в условиях плотного трафика. Решение суда может повлиять на практику рассмотрения подобных дел в будущем."
    },
-   "rank": 82.607,
+   "rank": 82.489,
    "sources": [
     {
      "domain": "rokycansky.denik.cz",
@@ -4911,7 +4970,7 @@
     ],
     "impact": "Фестиваль охоплює десятки майданчиків і пропонує унікальну програму за участю світових зірок та спеціальних гостей."
    },
-   "rank": 74.053,
+   "rank": 73.946,
    "sources": [
     {
      "domain": "metro.cz",
@@ -5090,7 +5149,7 @@
     ],
     "impact": "Экспериментальная поддержка SIMD в Go 1.27 открывает новые возможности для оптимизации вычислений, особенно в задачах, связанных с обработкой больших массивов данных. Разработчики могут использовать векторные инструкции на x86-64, ARM64 и WebAssembly, но для этого потребуется установить переменную окружения GOEXPERIMENT=simd. Пока поддержка находится на стадии эксперимента, и API может измениться в будущих версиях языка."
    },
-   "rank": 66.258,
+   "rank": 66.162,
    "image_url": "https://img.24n.cz/p/2026/08/go-1-27-dobavil-eksperimentalnuiu-podderzhku-simd-chto-eto-z-4621aa2cee568121.webp",
    "video": {
     "kind": "iframe",
@@ -5205,7 +5264,7 @@
     ],
     "impact": "Новость важна для родителей, учителей и всех, кто связан со школьным образованием в Чехии. Лада Штухла поднимает актуальные вопросы: как адаптировать обучение под поколение Z, стоит ли запрещать телефоны в школах и почему не хватает школьных психологов. Круглый стол в Сенате 24 сентября может стать шагом к решению этих проблем."
    },
-   "rank": 70.216,
+   "rank": 70.112,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -5304,7 +5363,7 @@
     ],
     "impact": "Премьера фильма состоится на телеканале ČT art 2 сентября 2026 года в 20:15. Показ доступен всем зрителям общественного телевидения без дополнительных условий."
    },
-   "rank": 98.319,
+   "rank": 98.264,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -5432,7 +5491,7 @@
     ],
     "impact": "Завершение летних ремонтов улучшит дорожную обстановку в Праге с началом учебного года. Осенью начнутся новые работы, которые могут вызвать временные ограничения на отдельных участках. Водителям и велосипедистам стоит следить за объявлениями TSK о сроках и объёмах предстоящих ремонтов."
    },
-   "rank": 69.553,
+   "rank": 69.446,
    "image_url": "https://img.24n.cz/p/2026/08/v-prage-zaversheny-letnie-remonty-dorog-otkryty-kliuchevye-m-3c280f1dde94bfbc.webp",
    "image_w": 1366,
    "image_h": 910
@@ -5529,7 +5588,7 @@
     ],
     "impact": "Поездки чешских политиков в Китай могут повлиять на восприятие Чехии союзниками по НАТО. Депутаты парламента требуют объяснений от министра обороны Zůna, который пропускает важные заседания комитета из-за зарубежных командировок. Пока неясно, как отреагируют западные партнёры на столь активное взаимодействие с Пекином."
    },
-   "rank": 58.571
+   "rank": 58.481
   },
   {
    "id": "n4652",
@@ -5605,7 +5664,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 61.482
+   "rank": 61.387
   },
   {
    "id": "n4651",
@@ -5692,7 +5751,7 @@
     ],
     "impact": "Конфликт затрагивает жителей нового жилого квартала в районе Polanka nad Odrou и местный сельхозкооператив. Противники проекта намерены проверить законность разрешений на работу фермы."
    },
-   "rank": 57.308
+   "rank": 57.218
   },
   {
    "id": "n4650",
@@ -5791,7 +5850,7 @@
     ],
     "impact": "Жители Праги 5 и спортивные клубы смогут посещать обновленный бассейн в тестовом режиме уже с 1 сентября 2026 года."
    },
-   "rank": 90.977,
+   "rank": 90.833,
    "sources": [
     {
      "domain": "drby.prazskypatriot.cz",
@@ -5909,7 +5968,7 @@
     ],
     "impact": "Зростання стресу у юних спортсменів вимагає перегляду підходів до дитячого спорту в Чехії для збереження ментального здоров'я майбутнього покоління."
    },
-   "rank": 82.381,
+   "rank": 82.251,
    "sources": [
     {
      "domain": "cuscz.cz",
@@ -6047,7 +6106,7 @@
     ],
     "impact": "Пассажирам, регулярно пользующимся железнодорожным сообщением между Прагой и Моравией, стоит закладывать дополнительное время на поездку. Из-за ремонтных работ и частых аварий поезда могут опаздывать на десятки минут или следовать в объезд. Ограничения на участке Пардубице - Přelouč продлятся до 5 сентября, затем ремонт переместится на участок Колин - Záboří nad Labem до 13 сентября."
    },
-   "rank": 73.491,
+   "rank": 73.372,
    "image_url": "https://img.24n.cz/p/2026/08/tri-krupnye-avarii-za-desiat-dnei-poezda-na-moraviiu-opazdyv-d583bc39bf4100f1.webp",
    "image_w": 1200,
    "image_h": 675
@@ -6152,7 +6211,7 @@
     ],
     "impact": "С 1 января 2027 года владельцы мотоциклов и автомобилей в Чехии заплатят за регистрацию почти в два раза больше: до 800 крон вместо нынешних 300-500. Изменения коснутся и муниципалитетов, которые потеряют часть доходов от сборов. Реформа направлена на цифровизацию госуслуг, но вызывает протесты со стороны местных властей."
    },
-   "rank": 69.991,
+   "rank": 69.878,
    "image_url": "https://img.24n.cz/p/2026/08/s-2027-goda-v-chekhii-rezko-podorozhaiut-registratsionnye-sb-17bb2be3d1a5f157.webp",
    "image_w": 1366,
    "image_h": 910
@@ -6168,8 +6227,8 @@
    ],
    "published_at": "2026-08-31T18:38:09.678155+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "31 августа 2026, 18:38",
@@ -6213,7 +6272,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 57.207,
+   "rank": 57.115,
    "forecast": true
   },
   {
@@ -6314,7 +6373,7 @@
     ],
     "impact": "Проект Влтавской филармонии обещает стать важной вехой в развитии Праги. Новый культурный центр не только предоставит современные площадки для Чешского филармонического оркестра и других коллективов, но и преобразит район Бубны-Заторы, создав общественные пространства и улучшив инфраструктуру. Строительство начнётся не раньше 2028 года, а первые концерты запланированы на 2033 год."
    },
-   "rank": 75.543,
+   "rank": 75.42,
    "sources": [
     {
      "domain": "europesays.com",
@@ -6443,7 +6502,7 @@
     ],
     "impact": "Реальный дефицит бюджета Чехии в 2027 году может превысить 3,5% ВВП, что приведёт к росту государственного долга и увеличению процентных платежей. Это коснётся всех налогоплательщиков, так как в будущем потребуется погашать долги, накопленные сегодня. Муниципалитеты и регионы также окажутся под давлением, так как от них ожидается значительный профицит бюджета."
    },
-   "rank": 79.702
+   "rank": 79.572
   },
   {
    "id": "n4643",
@@ -6545,7 +6604,7 @@
     ],
     "impact": "Фестиваль пройдет 18 и 19 сентября на náměstí Míru и в Havlíčkových sadech. Посещение свободное, но за дегустации напитков и еды у виноделов и гастрономических операторов потребуется оплата на месте. Для поездки рекомендуется использовать городской транспорт."
    },
-   "rank": 60.969,
+   "rank": 60.868,
    "sources": [
     {
      "domain": "prague.eu",
@@ -6668,7 +6727,7 @@
     ],
     "impact": "Снос промышленных объектов в Malešice знаменует переход территории к новому технологическому парку, что повлияет на развитие местной инфраструктуры и деловой среды."
    },
-   "rank": 88.72,
+   "rank": 88.669,
    "sources": [
     {
      "domain": "media24.cz",
@@ -6772,7 +6831,7 @@
     ],
     "impact": "Заложенный дефицит бюджета может привести к росту стоимости кредитов для населения и бизнеса, а также отразится на долгосрочной экономической стабильности страны."
    },
-   "rank": 75.355
+   "rank": 75.23
   },
   {
    "id": "n4640",
@@ -6846,7 +6905,7 @@
     ],
     "impact": ""
    },
-   "rank": 65.079,
+   "rank": 64.972,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -6969,7 +7028,7 @@
     ],
     "impact": "Новые правила коснутся жителей и гостей Праги: с 2026 года запускать фейерверки и петарды будет нельзя в 34 районах города круглый год, включая новогодние праздники. Запрет не распространяется на профессиональные съёмки и небольшие бенгальские огни."
    },
-   "rank": 65.079,
+   "rank": 64.972,
    "image_url": "https://img.24n.cz/p/2026/08/v-prage-rasshiriat-zapret-na-pirotekhniku-teper-on-kosnetsia-125122856e392b09.webp",
    "image_w": 1366,
    "image_h": 910
@@ -7062,7 +7121,7 @@
     ],
     "impact": "Зоопарк у Празі збільшує штат на 39 осіб та підіймає зарплати після скандалу з цькуванням у колективі."
    },
-   "rank": 90.737,
+   "rank": 90.585,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -7184,7 +7243,7 @@
     ],
     "impact": "Новая трамвайная линия свяжет район Жижков с транспортной сетью Праги уже через год. Жители нового микрорайона получат прямой доступ к общественному транспорту, а маршрут №11 временно заменит линию №5 на период реконструкции улицы Seifertově. Одноколейный участок на Jarov - временное решение, которое позже заменят на полноценную двухколейную линию."
    },
-   "rank": 71.1,
+   "rank": 70.981,
    "image_url": "https://img.24n.cz/p/2026/08/novaia-tramvainaia-liniia-na-zhizhkove-kogda-otkroiut-i-kak-6670fe35e7581c9e.jpeg",
    "image_w": 1366,
    "image_h": 910
@@ -7300,7 +7359,7 @@
     ],
     "impact": "Роздрібні ціни на газ у Європі можуть поступово зрости, якщо криза затягнеться і біржові котирування залишаться високими."
    },
-   "rank": 82.611,
+   "rank": 82.473,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -7394,7 +7453,7 @@
     ],
     "impact": "Компанія доводить, що старий фонд можна ефективно перетворювати на сучасні хостели замість нових будівель, заощаджуючи ресурси планети і покращуючи міські центри."
    },
-   "rank": 40.141,
+   "rank": 40.073,
    "image_url": "https://img.24n.cz/p/2026/08/vtoraia-zhizn-starykh-zdanii-kak-evropeiskaia-set-khostelov-83d724a2292ad532.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/vtoraia-zhizn-starykh-zdanii-kak-evropeiskaia-set-khostelov-9b5d52e52b80e508.webp",
@@ -7512,7 +7571,7 @@
     ],
     "impact": "Новая классная комната в школе Mládí позволит улучшить условия обучения для учеников района Прага 13. Работа в небольших группах и современное оборудование помогут сделать уроки более индивидуальными и эффективными."
    },
-   "rank": 66.902
+   "rank": 66.789
   },
   {
    "id": "n4633",
@@ -7620,7 +7679,7 @@
     ],
     "impact": "Жителі Чехії скептично ставляться до того, як влада розпоряджається податками, і виступають проти розширення фінансових повноважень уряду в обхід парламенту."
    },
-   "rank": 76.937,
+   "rank": 76.807,
    "image_url": "https://img.24n.cz/p/2026/08/dve-treti-chekhov-schitaiut-chto-gosudarstvo-tratit-dengi-ne-3ea105cb7d7cfdb5.webp",
    "image_w": 1200,
    "image_h": 675
@@ -7725,7 +7784,7 @@
     ],
     "impact": "Проект коснётся жителей Праги, особенно района Винограды и соседних Праги 2 и 3. Культурно-общественный центр Orionka предложит новые возможности для досуга, образования и творчества - от музыкальных студий до re-use центра. Если оператора выберут в этом году, часть территории может открыться уже летом, а полноценное использование начнётся в следующем. Город не планирует дотировать проект, поэтому оператор должен обеспечить его экономическую устойчивость."
    },
-   "rank": 67.409,
+   "rank": 67.293,
    "sources": [
     {
      "domain": "praha.eu",
@@ -7843,7 +7902,7 @@
     ],
     "impact": "Изменения вступят в силу с 2027 года и коснутся всех, кто потеряет работу или вернётся на рынок труда после перерыва. Больше всего пострадают люди старше 52 лет, родители после декрета и те, кто ухаживал за больными родственниками: их пособие заметно уменьшится. Максимальный размер поддержки снизится почти на 10 тысяч крон в месяц."
    },
-   "rank": 74.143,
+   "rank": 74.013,
    "image_url": "https://img.24n.cz/p/2026/08/pravitelstvo-chekhii-sokratilo-posobie-po-bezrabotitse-komu-ccc4f3e7382b8314.webp",
    "image_w": 1200,
    "image_h": 675
@@ -7946,7 +8005,7 @@
     ],
     "impact": "Новый стационар в Клецанах предоставит бесплатную психологическую помощь подросткам 14-18 лет с психическими проблемами. Программа начнётся в январе 2027 года, записаться можно уже сейчас на сайте NUDZ. Лечение продлится 14 недель и не потребует госпитализации - подростки смогут продолжать ходить в школу."
    },
-   "rank": 68.985,
+   "rank": 68.864,
    "sources": [
     {
      "domain": "europesays.com",
@@ -8033,7 +8092,7 @@
     "faq": [],
     "impact": "Молодые врачи и специалисты дефицитных профилей в Чехии могут получить от VZP стипендию до 480 тысяч крон, а те, кто открывает новые кабинеты в регионах, претендуют на финансовую помощь до одного миллиона крон при условии работы в течение пяти лет."
    },
-   "rank": 75.878,
+   "rank": 75.743,
    "sources": [
     {
      "domain": "pojmag.cz",
@@ -8145,7 +8204,7 @@
     ],
     "impact": "Движение поездов на участке между Tábor и Planá nad Lužnicí остановлено до 13:30. Пассажирам рекомендуется воспользоваться автобусной заменой. Расследование причин трагедии продолжается."
    },
-   "rank": 51.01,
+   "rank": 50.92,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -8248,7 +8307,7 @@
     ],
     "impact": "Инцидент не повлёк за собой серьёзных последствий для окружающих, но женщине грозит административное наказание за хулиганские действия и угрозы полицейским. Рестораны и бары имеют право отказывать в обслуживании клиентам в состоянии сильного алкогольного опьянения."
    },
-   "rank": 38.258,
+   "rank": 38.19,
    "sources": [
     {
      "domain": "brnensky.denik.cz",
@@ -8341,7 +8400,7 @@
     ],
     "impact": "Новый план станет основой для активного строительства в Праге, что должно повысить доступность жилья и улучшить инфраструктуру города."
    },
-   "rank": 66.041,
+   "rank": 65.923,
    "image_url": "https://img.24n.cz/p/2026/08/v-prage-priniat-novyi-plan-otkryvaiushchii-vozmozhnosti-dlia-887ed71788b154a2.jpeg",
    "image_w": 1366,
    "image_h": 910
@@ -8463,7 +8522,7 @@
     ],
     "impact": "Завершение реконструкции stropní desky означает возвращение нормального движения автобусов и пешеходов на улице Ke Štvanici. Для пассажиров метро пока доступны только три выхода из шести, но в декабре 2026 года откроют остальные вместе с обновлённым подземным переходом. Работы по модернизации станции продолжатся ещё около 2,5 лет."
    },
-   "rank": 72.803,
+   "rank": 72.67,
    "sources": [
     {
      "domain": "dpp.cz",
@@ -8569,7 +8628,7 @@
     ],
     "impact": "Платформы ksebe и Terapio предлагают жителям Чехии онлайн-поиск психотерапевтов по анкете и корпоративные программы поддержки, которые компании внедряют как рабочий бонус."
    },
-   "rank": 55.348,
+   "rank": 55.246,
    "image_url": "https://img.24n.cz/p/2026/08/kak-lichnyi-krizis-sozdal-platformu-dlia-poiska-psikhoterape-dd23fbf7cdb23f05.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -8660,7 +8719,7 @@
     ],
     "impact": "Фінансування освіти зростатиме поступово, а зарплати педагогів планують підвищувати до 130% від середньої зарплати по країні до 2029 року."
    },
-   "rank": 73.797,
+   "rank": 73.661,
    "image_url": "https://img.24n.cz/p/2026/08/shkoly-poluchat-292-milliarda-kron-ministr-rasskazal-o-biudz-88ae54685eac75ff.webp",
    "image_w": 1200,
    "image_h": 675
@@ -8768,7 +8827,7 @@
     ],
     "impact": "Опрос показывает общие тенденции на финансовом рынке Чехии и помогает оценить настроения населения. Практических обязательств или изменений законов для жителей это исследование не несет, но наглядно демонстрирует основные барьеры и источники информации для инвесторов."
    },
-   "rank": 63.957,
+   "rank": 63.84,
    "sources": [
     {
      "domain": "rb.cz",
@@ -8874,7 +8933,7 @@
     ],
     "impact": "Реконструкція підземного переходу покращує пішохідну доступність між районами Pankrác та Nusle, забезпечуючи безпечний шлях для учнів місцевих шкіл та місцевих жителів."
    },
-   "rank": 58.422,
+   "rank": 58.315,
    "image_url": "https://img.24n.cz/p/2026/08/v-prage-4-otkryli-podzemnyi-perekhod-pod-magistraliu-posle-m-e58f482445b93621.webp",
    "image_w": 1366,
    "image_h": 910
@@ -8971,7 +9030,7 @@
     ],
     "impact": "Отставка главного гигиениста пока не меняет повседневную работу санитарных служб и больниц для обычных жителей. Временное руководство переходит к Matyáš Fošum, а все ранее принятые правила и плановые проверки продолжают действовать в прежнем режиме до завершения конкурса на новую кандидатуру."
    },
-   "rank": 69.23,
+   "rank": 69.101,
    "sources": [
     {
      "domain": "mzd.gov.cz",
@@ -9104,7 +9163,7 @@
     ],
     "impact": "Уряд Чехії планує оновити правила для бізнесу та платформних працівників, щоб захистити їх від алгоритмів і чіткіше розділити підприємців та нелегальних найманих працівників."
    },
-   "rank": 63.765,
+   "rank": 63.646,
    "image_url": "https://img.24n.cz/p/2026/08/pravitelstvo-meniaet-pravila-dlia-raboty-po-ico-i-platform-432851f66bb0002a.webp",
    "image_w": 1200,
    "image_h": 660
@@ -9202,7 +9261,7 @@
     ],
     "impact": "MINT Market - отличная возможность поддержать чешских дизайнеров и приобрести уникальные вещи напрямую у создателей. Мероприятие бесплатное, проходит на открытой площадке с удобной инфраструктурой, так что подходит для семейного посещения. Начало в 10:00, окончание в 17:00."
    },
-   "rank": 63.765,
+   "rank": 63.646,
    "sources": [
     {
      "domain": "praguedaily.news",
@@ -9348,7 +9407,7 @@
     ],
     "impact": "Решение апелляционного суда означает, что приговор Яне Надьовой вступил в законную силу. Она должна выплатить штраф в 500 тысяч крон и находиться под надзором в течение пяти лет. В случае нарушения условий условного срока суд может заменить его реальным лишением свободы."
    },
-   "rank": 81.983,
+   "rank": 81.831,
    "story": [
     {
      "slug": "apelliatsionnyi-sud-ostavil-v-sile-prigovor-iane-nadovoi-po-delu-capi",
@@ -9478,7 +9537,7 @@
     ],
     "impact": "Для родителей школьников и воспитанников детских садов меняются правила отсрочки поступления в первый класс, а также обновляются максимальные лимиты оплаты за сады и продленку, размер которых теперь ограничен новыми рамками минимальной зарплаты."
    },
-   "rank": 66.801,
+   "rank": 66.677,
    "image_url": "https://img.24n.cz/p/2026/08/glavnye-novshestva-cheshskikh-shkol-otsrochki-assistenty-i-p-7992a888833eb2aa.webp",
    "image_w": 1366,
    "image_h": 910
@@ -9554,7 +9613,7 @@
     ],
     "impact": "Управление автомобилем в состоянии алкогольного опьянения в Чехии влечет за собой немедленное изъятие водительского удостоверения, крупный штраф, возможное лишение свободы и судебное разбирательство."
    },
-   "rank": 36.437,
+   "rank": 36.369,
    "image_url": "https://img.24n.cz/p/2026/08/dve-pianye-voditelnitsy-ustroili-avarii-za-vykhodnye-v-grade-30bb47422f58c55c.webp",
    "image_w": 1080,
    "image_h": 810
@@ -9682,7 +9741,7 @@
     ],
     "impact": "Услуги риелтора могут обойтись в сотни тысяч крон, но не всегда оправдывают свою стоимость. Знание своих прав и обязанностей риелтора поможет избежать лишних трат и сделать процесс продажи или аренды недвижимости более прозрачным и предсказуемым."
    },
-   "rank": 46.628,
+   "rank": 46.532,
    "image_url": "https://img.24n.cz/p/2026/08/kak-ne-pereplatit-rieltoru-chto-dolzhen-sdelat-za-svoi-sotni-d54c8dc6994ed788.webp",
    "image_w": 1200,
    "image_h": 801
@@ -9779,7 +9838,7 @@
     ],
     "impact": "Реконструкція закриває популярний історичний об'єкт на три роки, але після завершення робіт у 2030 році місто отримає повністю відновлену пам'ятку бароко з новими приміщеннями для хору."
    },
-   "rank": 51.4,
+   "rank": 51.292,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -9891,7 +9950,7 @@
     ],
     "impact": "Концерт Fontaines D.C. в Праге - это возможность увидеть одну из самых интересных рок-групп современности. Билеты поступят в продажу 3 сентября, а часть выручки пойдёт на благотворительность."
    },
-   "rank": 41.661,
+   "rank": 41.574,
    "sources": [
     {
      "domain": "goout.net",
@@ -10004,7 +10063,7 @@
     ],
     "impact": "Выставка даёт возможность поддержать художников с ментальными особенностями напрямую - купив их работы на выставке или на благотворительном аукционе 1 декабря. Вход свободный, мероприятие пройдёт в центре Праги, что делает его доступным для всех желающих."
    },
-   "rank": 51.627,
+   "rank": 51.517,
    "sources": [
     {
      "domain": "praha1.cz",
@@ -10123,7 +10182,7 @@
     ],
     "impact": "Для обычных жителей Чехии это означает появление легальных путей инвестирования в криптовалюту через привычные финансовые институты, включая пенсионные фонды Generali и новые фонды компании Investika."
    },
-   "rank": 55.885,
+   "rank": 55.766,
    "image_url": "https://img.24n.cz/p/2026/08/bitcoin-v-penzijnich-fondech-ceska-a-testy-cnb-baf7a8781a7a6971.webp",
    "image_w": 1200,
    "image_h": 674
@@ -10224,7 +10283,7 @@
     ],
     "impact": "Цей проєкт демонструє, як телекомунікаційні компанії знаходять компроміс між розвитком мережі та збереженням зовнішнього вигляду житлових районів, ховаючи обладнання у звичні для містян архітектурні елементи."
    },
-   "rank": 34.123,
+   "rank": 34.05,
    "image_url": "https://img.24n.cz/p/2026/08/antenny-t-mobile-spriatali-v-falshivye-truby-na-prazhskoi-kr-15f9983e06a9fff3.webp",
    "image_w": 1551,
    "image_h": 1168
@@ -10381,7 +10440,7 @@
     ],
     "impact": "Расписание школьных каникул на 2026/2027 учебный год касается всех родителей и школьников в Чехии. Знание точных дат поможет спланировать отпуск, семейный отдых или организацию досуга детей. Особое внимание стоит обратить на весенние каникулы: их даты зависят от района проживания. Также школы могут объявить до пяти дополнительных выходных - следите за информацией на сайте учебного заведения."
    },
-   "rank": 62.997,
+   "rank": 62.862,
    "sources": [
     {
      "domain": "denik.cz",
@@ -10513,7 +10572,7 @@
     ],
     "impact": "Рекомендации экспертов носят информационный характер и призывают водителей к соблюдению дистанции и правил безопасности на дорогах в период повышенного трафика."
    },
-   "rank": 38.771,
+   "rank": 38.687,
    "image_url": "https://www.prazskypatriot.cz/data/images/konec-prazdnin-prinese-silny-provoz-v-kolone-pomuze-klid-odstup-a-plynulost.jpg"
   },
   {
@@ -10626,7 +10685,7 @@
     ],
     "impact": "Внутрішній стан важливіший за зовнішні досягнення, а страх і перфекціонізм руйнують навіть найуспішніших людей."
    },
-   "rank": 27.21,
+   "rank": 27.148,
    "image_url": "https://img.24n.cz/p/2026/08/mentalnyi-kouch-vit-shlezinger-uspekh-rozhdaetsia-kogda-tebi-c3808697a1b8100a.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/mentalnyi-kouch-vit-shlezinger-uspekh-rozhdaetsia-kogda-tebi-3338c6b7c8d87bf5.webp"
@@ -10743,7 +10802,7 @@
     ],
     "impact": "Смерть Лудека Грзала - потеря для поклонников чешского радио и телевидения. Его программы, особенно Sexíček Live, были частью культурной жизни страны на протяжении десятилетий. Коллеги и слушатели вспоминают его как яркого и талантливого ведущего."
    },
-   "rank": 42.394,
+   "rank": 42.293,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -10863,7 +10922,7 @@
     ],
     "impact": "Выставка работает в пражском Obecní dům до 6 сентября, билеты можно приобрести на месте для осмотра уникальных исторических марок мира."
    },
-   "rank": 51.928,
+   "rank": 51.801,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -10969,7 +11028,7 @@
     ],
     "impact": "Победа Славии позволила команде единолично возглавить турнирную таблицу чемпионата Чехии после шести туров, оторвавшись от конкурентов."
    },
-   "rank": 51.0,
+   "rank": 50.876,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -11070,7 +11129,7 @@
     ],
     "impact": "Клиенты Zdravotní pojišťovna ministerstva vnitra ČR могут воспользоваться услугами санатория через свою страховую компанию. Комплекс предлагает специализированные реабилитационные и профилактические программы."
    },
-   "rank": 40.945,
+   "rank": 40.843,
    "image_url": "https://img.24n.cz/p/2026/08/lazenske-domy-palace-vo-frantiskovy-lazne-predlagaiut-ukhod-bf7c8d65cc575e49.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/lazenske-domy-palace-vo-frantiskovy-lazne-predlagaiut-ukhod-5f452118174a5905.webp",
@@ -11180,7 +11239,7 @@
     ],
     "impact": "Від'їзд останньої слониці остаточно закриває сторінку утримання великих екзотичних тварин у Ліберці та відкриває шлях до повної модернізації старого павільйону."
    },
-   "rank": 50.954,
+   "rank": 50.827,
    "sources": [
     {
      "domain": "liberecky.denik.cz",
@@ -11293,7 +11352,7 @@
     ],
     "impact": "Аналіз сміття у Тршинці показав, що містяни викидають у звичайні урни багато того, що можна переробити, включно з електронікою. Отримані дані допоможуть місту вдосконалити правила збору та сортування відходів."
    },
-   "rank": 42.516,
+   "rank": 42.408,
    "image_url": "https://img.24n.cz/p/2026/08/v-trshintse-proanalizirovali-musornye-korziny-chto-nashli-i-ccba32a9e844f2bc.webp",
    "image_w": 1200,
    "image_h": 675
@@ -11409,7 +11468,7 @@
     ],
     "impact": "Эль-Ниньо может повлиять на погоду в Чехии, но его воздействие не будет прямым и однозначным. Осень 2026 года, вероятно, будет теплее среднего, а зима 2026/2027 может начаться с мягкой погоды. Однако не исключены короткие эпизоды резкого похолодания во второй половине зимы. Для жителей Чехии это означает, что к экстремальным погодным условиям стоит быть готовыми, но паниковать не стоит - точный прогноз пока сделать невозможно."
    },
-   "rank": 57.732,
+   "rank": 57.586,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -11530,7 +11589,7 @@
     ],
     "impact": "Новый павильон в зоопарке Остравы открыт для посетителей и предлагает познавательную экспозицию о защите земноводных и окружающей среды."
    },
-   "rank": 28.6,
+   "rank": 28.527,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -11652,7 +11711,7 @@
     ],
     "impact": "Обзор носит информационный характер и не несет прямых юридических или финансовых последствий для жителей Чехии, однако важен для разработчиков и пользователей открытого программного обеспечения."
    },
-   "rank": 36.757,
+   "rank": 36.661,
    "image_url": "https://img.24n.cz/p/2026/08/asahi-linux-m3-nitter-x-reactos-glavnye-relizy-i-novosti-it-de4a237723f71a80.webp",
    "image_w": 670,
    "image_h": 377
@@ -11768,7 +11827,7 @@
     ],
     "impact": "Победа Славии над Спартой в дерби может укрепить позиции команды в начале сезона. Для болельщиков это важный психологический момент, особенно после шести лет без «сухих» побед в этом противостоянии."
    },
-   "rank": 43.243,
+   "rank": 43.13,
    "sources": [
     {
      "domain": "tiscali.cz",
@@ -11877,7 +11936,7 @@
     ],
     "impact": "Трагічна аварія нагадує про небезпеку на дорогах під час масових повернень додому наприкінці канікул. Поліція закликає водіїв бути обережнішими."
    },
-   "rank": 36.771,
+   "rank": 36.673,
    "sources": [
     {
      "domain": "media24.cz",
@@ -11984,7 +12043,7 @@
     ],
     "impact": "Рішення суду створить прецедент для оцінки дій кандидатів, які використовують технічні реєстрації для привернення уваги до політичних проблем."
    },
-   "rank": 40.384,
+   "rank": 40.277,
    "image_url": "https://img.24n.cz/p/2026/08/sud-reshit-mozhet-li-kandidat-ballotirovatsia-srazu-v-trekh-5b20568905ccc0ad.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12073,7 +12132,7 @@
     ],
     "impact": "Участникам ночных гонок грозит административная ответственность за правонарушения и невыполнение требований полиции."
    },
-   "rank": 45.904,
+   "rank": 45.777,
    "sources": [
     {
      "domain": "europesays.com",
@@ -12230,7 +12289,7 @@
     ],
     "impact": "Эти маршруты подойдут для семейного отдыха, активного туризма и знакомства с уникальными природными памятниками Чехии. Многие из них доступны круглый год, но некоторые заповедники, например <em>Soos</em>, открыты только с апреля по ноябрь. Перед посещением проверяйте состояние троп и наличие ограничений."
    },
-   "rank": 30.739,
+   "rank": 30.655,
    "image_url": "https://img.24n.cz/p/2026/08/kuda-poekhat-na-prirodu-v-cheshskom-kurortnom-treugolnike-kr-eea01aec20c5cc12.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/kuda-poekhat-na-prirodu-v-cheshskom-kurortnom-treugolnike-kr-4634c4b8ad6b4876.webp",
@@ -12358,7 +12417,7 @@
     ],
     "impact": "Пожар в общежитии на улице Rooseveltově в Шумперке затронул жизни десятков людей. Шестеро пострадавших получили медицинскую помощь, двое из них находятся в критическом состоянии. Причины возгорания устанавливаются, жителям рекомендуется соблюдать осторожность и следовать правилам пожарной безопасности."
    },
-   "rank": 41.805,
+   "rank": 41.69,
    "sources": [
     {
      "domain": "lidovky.cz",
@@ -12473,7 +12532,7 @@
     ],
     "impact": "Реформа може змінити правила гри на ринку сільгоспземлі в Чехії, захистивши тисячі фермерів від раптової втрати орендованих ділянок."
    },
-   "rank": 63.976,
+   "rank": 63.933,
    "sources": [
     {
      "domain": "media24.cz",
@@ -12581,7 +12640,7 @@
     ],
     "impact": "У Празі з'явився новий безплатний атракцион довжиною 40 метрів у районі Дейвице, який готовий до прийняття відвідувачів з 1 вересня."
    },
-   "rank": 44.101,
+   "rank": 43.974,
    "sources": [
     {
      "domain": "zpravymestaprahy.cz",
@@ -12680,7 +12739,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 32.521
+   "rank": 32.426
   },
   {
    "id": "n4587",
@@ -12786,7 +12845,7 @@
     ],
     "impact": "Технологія перетворення пластикових відходів на їстівний білок за допомогою 3D-принтера може змінити підхід до забезпечення харчуванням тривалих космічних місій та зменшити дефіцит продовольства на Землі в майбутньому."
    },
-   "rank": 34.165,
+   "rank": 34.064,
    "image_url": "https://img.24n.cz/p/2026/08/uchenye-napechatali-na-3d-printere-sedobnoe-pechene-iz-plast-e82c6fde02d7f160.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/uchenye-napechatali-na-3d-printere-sedobnoe-pechene-iz-plast-dcb9889c345155ee.webp"
@@ -12894,7 +12953,7 @@
     ],
     "impact": "Появление новых сетей фастфуда расширит выбор для жителей Чехии, особенно в регионах, где раньше не было таких заведений. Цены в новых ресторанах могут быть выше привычных, но и ассортимент предлагаемых блюд станет разнообразнее. Для предпринимателей открываются возможности сотрудничества с международными брендами через франшизы."
    },
-   "rank": 32.267,
+   "rank": 32.171,
    "image_url": "https://img.24n.cz/p/2026/08/chekhiia-prevrashchaetsia-v-stranu-burgerov-novye-seti-otkry-8b0174cdd89fc910.webp",
    "image_w": 1600,
    "image_h": 901
@@ -13007,7 +13066,7 @@
     ],
     "impact": "Изменение квалификации дела означает, что отец Виктории может получить меньший срок, чем за убийство, но всё равно отправится в тюрьму. Министр юстиции инициировал проверку работы судьи и органов опеки, а также готовит реформу системы защиты детей. Для родителей и опекунов это сигнал о том, что решения судов и органов опеки будут подвергаться более тщательному контролю."
    },
-   "rank": 41.378,
+   "rank": 41.255,
    "sources": [
     {
      "domain": "europesays.com",
@@ -13107,7 +13166,7 @@
     ],
     "impact": "Жители и гости Чехии смогут заранее спланировать праздничные поездки по стране, посетить крупнейшие ярмарки в Праге с конца ноября и найти региональные мероприятия с местными ремеслами и угощениями."
    },
-   "rank": 16.305,
+   "rank": 16.254,
    "image_url": "https://img.24n.cz/p/2026/08/gde-iskat-rozhdestvenskie-iarmarki-2026-v-chekhii-85b8c617a807e09d.webp",
    "images": [
     "https://img.24n.cz/p/2026/08/gde-iskat-rozhdestvenskie-iarmarki-2026-v-chekhii-2ef69afa3e366dd2.webp",
@@ -13243,7 +13302,7 @@
     ],
     "impact": "Результаты опроса показывают, как меняются предпочтения избирателей перед возможными парламентскими выборами. Падение рейтинга ANO и рост STAN могут повлиять на расстановку сил в чешской политике, особенно если тенденция сохранится."
    },
-   "rank": 30.797
+   "rank": 30.701
   },
   {
    "id": "n4582",
@@ -13410,7 +13469,7 @@
     ],
     "impact": "Чешские разработки в области квантовых технологий могут стать основой для создания более безопасных и эффективных коммуникационных сетей в Европе. Финансирование в размере 40 миллионов крон позволит учёным из ČVUT и других институтов ускорить работу над проектами, которые в перспективе могут изменить подходы к передаче данных, навигации и кибербезопасности. Для жителей Чехии это означает участие в глобальном технологическом прорыве и возможность появления новых высокотехнологичных рабочих мест."
    },
-   "rank": 36.232,
+   "rank": 36.119,
    "image_url": "https://img.24n.cz/p/2026/08/chekhiia-stala-liderom-evropeiskogo-kvantovogo-proryva-40-mi-db79c4fd8675b0c9.webp",
    "image_w": 670,
    "image_h": 377
@@ -13513,7 +13572,7 @@
     ],
     "impact": "Концерт «Společně proti bezmoci» это возможность поддержать пациентов с ALS и их семьи. Средства, собранные на мероприятии, пойдут на развитие услуг ALSA, включая новый центр в Černošice. Билеты доступны на Ticketmaster."
    },
-   "rank": 45.29,
+   "rank": 45.149,
    "sources": [
     {
      "domain": "life4you.cz",
@@ -13637,7 +13696,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 30.996
+   "rank": 30.899
   },
   {
    "id": "n4579",
@@ -17262,7 +17321,7 @@
     ],
     "impact": "Материал носит ознакомительный характер и описывает опыт работы молодых депутатов в чешском парламенте без практических последствий для граждан."
    },
-   "rank": 36.435
+   "rank": 36.404
   },
   {
    "id": "n4547",
@@ -17382,8 +17441,8 @@
    ],
    "published_at": "2026-08-29T18:37:41.060463+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "29 августа 2026, 18:37",
@@ -17494,8 +17553,8 @@
    ],
    "published_at": "2026-08-29T18:37:41.060463+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "29 августа 2026, 18:37",
@@ -22282,8 +22341,8 @@
    ],
    "published_at": "2026-08-28T18:36:24.035913+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "28 августа 2026, 18:36",
@@ -27865,8 +27924,8 @@
    ],
    "published_at": "2026-08-27T18:36:12.386941+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "27 августа 2026, 18:36",
@@ -33472,148 +33531,6 @@
     [
      1320,
      880
-    ]
-   ]
-  },
-  {
-   "id": "n4398",
-   "slug": "razrushitelnoe-navodnenie-v-nepale-2026-sotni-propavshikh",
-   "source": "novinky.cz",
-   "original_url": "https://www.novinky.cz/clanek/zahranicni-po-sesuvu-pudy-a-privalovych-povodnich-v-pohranicni-oblasti-nepalu-a-tibetu-zemrelo-17-osob-40594543",
-   "top": false,
-   "tags": [
-    "svet",
-    "kriminal"
-   ],
-   "published_at": "2026-08-27T00:25:26.490811+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "27 августа 2026, 00:25",
-    "uk": "27 серпня 2026, 00:25"
-   },
-   "ru": {
-    "title": "Разрушительное наводнение в Непале 2026: сотни пропавших",
-    "lede": "Утром 26 августа 2026 года наводнение в Непале и приграничных районах Тибета унесло жизни десятков людей. Катастрофа оставила после себя сотни пропавших без вести туристов и серьезные разрушения инфраструктуры.",
-    "meta_description": "Разрушительное наводнение и оползни в Непале и Тибете 26 августа 2026 года: число жертв растет, сотни пропавших без вести иностранцев.",
-    "paras": [
-     "<p>Утром 26 августа 2026 года разрушительное наводнение затронуло округ Rasuwa к северу от столицы Непала Káthmándú, а также приграничную область Тибета. Потоки воды, грязи и камней пронеслись по горному региону, снося дороги, мосты и энергетические объекты.</p>",
-     "<p>Как сообщает Novinky, непальские власти к настоящему моменту подтвердили гибель 157 человек, хотя данные разных источников разнятся. Издания iRozhlas и Forbes со ссылкой на официальные сведения приводят информацию о не менее чем 95 погибших в Непале, в то время как китайские государственные СМИ сообщают о трех жертвах на своей стороне. В ходе поисково-спасательных операций в Непале удалось спасти от 114 до 133 человек.</p>",
-     "<h3>Причины катастрофы и версии экспертов</h3>",
-     "<p>По мнению экспертов, катастрофу спровоцировало обрушение части ледника на высоте около 5200 метров, который рухнул на дно долины на 1200 метров ниже. Дополнительным фактором могло стать землетрясение магнитудой 4,4, зафиксированное Геологической службой США за несколько минут до происшествия.</p>",
-     "<p>Министр иностранных дел Непала Šišir Khanal заявил следующее:</p>",
-     "<blockquote>Ve středu ráno došlo k zemětřesení, v jehož důsledku se spustil rozsáhlý sesuv půdy, který zablokoval řeku, což zřejmě způsobilo povodeň.</blockquote>",
-     "<p>Так прокомментировал ситуацию министр иностранных дел Непала Šišir Khanal, описывая момент блокировки русла реки сошедшим оползнем.</p>",
-     "<p>Международный центр по интегрированному развитию горных районов также отмечает, что обрушение льда привело к резкому подъему воды в реках Sun Kosi и Trišuli.</p>",
-     "<h3>Масштаб пропавших без вести и иностранные граждане</h3>",
-     "<p>Непальское управление по туризму сообщает, что предварительно пропавшими без вести числятся от 384 до 403 человек, из которых 341 является иностранным гражданином. По данным CNN и Forbes, среди пропавших числятся 133 гражданина Индии, 90 итальянцев, 47 американцев, 33 британца, 9 южнокорейцев, 4 россиянина и 2 португальца. Украина после контакта с ведомствами сообщает о 53 пропавших без вести гражданах. Чешское министерство иностранных дел пока не располагает информацией о том, что среди пострадавших или пропавших есть граждане Чехии.</p>",
-     "<p>Кроме того, власти разыскивают около 400 паломников, которые направлялись на паломничество Kailash Mansarovar Yatra в Тибете. В туннеле гидроэлектростанции Langtang мощностью 20 мегаватт в округе Rasuwa оказались заблокированы более 60 рабочих, связь с которыми отсутствует.</p>",
-     "<h3>Ликвидация последствий и поисковая операция</h3>",
-     "<p>Офис премьер-министра Непала сообщил о мобилизации 1697 военнослужащих, еще 656 военных находятся в состоянии готовности. Шесть военных и пять гражданских вертолетов задействованы в эвакуации людей, в пострадавшие районы доставлены палатки и медицинские материалы. Китайский лидер Si Ťin-pching приказал провести масштабные поисково-спасательные работы на территории Китая, где, по данным государственного телевидения CCTV, также пропали без вести 265 человек.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Что стало причиной наводнения в Непале?",
-      "a": "По мнению экспертов, наводнение было вызвано обрушением части высокогорного ледника и сходом оползня, чему могло предшествовать землетрясение магнитудой 4,4."
-     },
-     {
-      "q": "Сколько человек погибло в результате стихийного бедствия?",
-      "a": "По данным непальских властей, число погибших достигает 157 человек, другие источники сообщают о 95 жертвах в Непале, а в Китае подтверждена гибель трех человек."
-     },
-     {
-      "q": "Есть ли среди пропавших граждане Чехии?",
-      "a": "Чешское министерство иностранных дел на данный момент не располагает информацией о том, что среди пропавших без вести есть граждане Чехии."
-     },
-     {
-      "q": "Сколько иностранных туристов числятся пропавшими без вести?",
-      "a": "По предварительным данным туристического центра, пропавшими без вести числятся более 380 туристов, среди которых граждане Индии, Италии, США, Великобритании, Украины, России и других стран."
-     }
-    ],
-    "impact": "Трагедия в Гималаях не имеет прямых практических последствий для жизни в Чехии, однако МИД Чехии проверяет списки пострадавших. Гражданам Чехии, находящимся в регионе или планирующим поездки в Непал и Тибет, следует учитывать экстремальные погодные условия и следовать указаниям местных спасательных служб."
-   },
-   "uk": {
-    "title": "Руйнівна повінь у Непалі 2026: сотні зниклих безвісти",
-    "lede": "Вранці 26 серпня 2026 року повінь у Непалі та прикордонних районах Тибету забрала життя десятків людей. Катастрофа залишила по собі сотні зниклих безвісти туристів та серйозні руйнування інфраструктури.",
-    "meta_description": "Руйнівна повінь і зсуви в Непалі та Тибеті 26 серпня 2026 року: кількість жертв зростає, сотні зниклих безвісти іноземців.",
-    "paras": [
-     "<p>Вранці 26 серпня 2026 року руйнівна повінь зачепила округ Rasuwa на північ від столиці Непалу Катманду, а також прикордонну область Тибету. Потоки води, бруду та каміння пронеслися гірським регіоном, зносячи дороги, мости та енергетичні об'єкти.</p>",
-     "<p>Як повідомляє Novinky, непальська влада на цей час підтвердила загибель 157 людей, хоча дані різних джерел різняться. Видання iRozhlas і Forbes з посиланням на офіційні відомості наводять інформацію про щонайменше 95 загиблих у Непалі, тоді як китайські державні ЗМІ повідомляють про трьох жертв на своєму боці. Під час пошуково-рятувальних операцій у Непалі вдалося врятувати від 114 до 133 людей.</p>",
-     "<h3>Причини катастрофи та версії експертів</h3>",
-     "<p>На думку експертів, катастрофу спровокувало обвалення частини льодовика на висоті близько 5200 метрів, який упав на дно долини на 1200 метрів нижче. Додатковим чинником могло стати землетрус магнітудою 4,4, зафіксований Геологічною службою США за кілька хвилин до події.</p>",
-     "<p>Міністр закордонних справ Непалу Šišir Khanal заявив таке:</p>",
-     "<blockquote>У середу вранці стався землетрус, унаслідок якого зійшов масштабний зсув ґрунту, що заблокував річку, що, ймовірно, і спричинило повінь.</blockquote>",
-     "<p>Так прокоментував ситуацію міністр закордонних справ Непалу Šišir Khanal, описуючи момент блокування русла річки зсувом.</p>",
-     "<p>Міжнародний центр з інтегрованого розвитку гірських районів також зазначає, що обвалення льоду призвело до різкого підйому води в річках Sun Kosi і Trišuli.</p>",
-     "<h3>Масштаб зниклих безвісти та іноземні громадяни</h3>",
-     "<p>Непальське управління з туризму повідомляє, що попередньо зниклими безвісти вважаються від 384 до 403 людей, з яких 341 є іноземним громадянином. За даними CNN і Forbes, серед зниклих безвісти 133 громадяни Індії, 90 італійців, 47 американців, 33 британці, 9 південнокорейців, 4 росіяни та 2 португальці. Україна після контакту з відомствами повідомляє про 53 зниклих безвісти громадян. Чеське міністерство закордонних справ поки не має інформації про те, що серед постраждалих або зниклих є громадяни Чехії.</p>",
-     "<p>Крім того, влада розшукує близько 400 паломників, які вирушили на паломництво Kailash Mansarovar Yatra в Тибеті. У тунелі гідроелектростанції Langtang потужністю 20 мегават в окрузі Rasuwa виявилися заблокованими понад 60 робітників, зв'язок з якими відсутній.</p>",
-     "<h3>Ліквідація наслідків та пошукова операція</h3>",
-     "<p>Офіс прем'єр-міністра Непалу повідомив про мобілізацію 1697 військовослужбовців, ще 656 військових перебувають у стані готовності. Шість військових і п'ять цивільних вертольотів задіяні в евакуації людей, у постраждалі райони доставлені намети та медичні матеріали. Китайський лідер Si Ťin-pching наказав провести масштабні пошуково-рятувальні роботи на території Китаю, де, за даними державного телебачення CCTV, також зникли безвісти 265 людей.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Що стало причиною повені в Непалі?",
-      "a": "На думку експертів, повінь була спричинена обваленням частини високогірного льодовика та сходженням зсуву, чому могло передувати землетрус магнітудою 4,4."
-     },
-     {
-      "q": "Скільки людей загинуло внаслідок стихійного лиха?",
-      "a": "За даними непальської влади, кількість загиблих сягає 157 людей, інші джерела повідомляють про 95 жертв у Непалі, а в Китаї підтверджено загибель трьох людей."
-     },
-     {
-      "q": "Чи є серед зниклих громадяни Чехії?",
-      "a": "Чеське міністерство закордонних справ на цей час не має інформації про те, що серед зниклих безвісти є громадяни Чехії."
-     },
-     {
-      "q": "Скільки іноземних туристів вважаються зниклими безвісти?",
-      "a": "За попередніми даними туристичного центру, зниклими безвісти вважаються понад 380 туристів, серед яких громадяни Індії, Італії, США, Великої Британії, України, Росії та інших країн."
-     }
-    ],
-    "impact": "Трагедия в Гималаях не имеет прямых практических последствий для жизни в Чехии, однако МИД Чехии проверяет списки пострадавших. Гражданам Чехии, находящимся в регионе или планирующим поездки в Непал и Тибет, следует учитывать экстремальные погодные условия и следовать указаниям местных спасательных служб."
-   },
-   "rank": 49.0,
-   "sources": [
-    {
-     "domain": "irozhlas.cz",
-     "official": false,
-     "url": "https://www.irozhlas.cz/zpravy-svet/za-povodnemi-v-nepalu-stoji-zrejme-sesuv-ledovce-do-udoli-strhl-znacne-mnozstvi_2608261935_ntu",
-     "title": "Za povodněmi v Nepálu stojí zřejmě sesuv ledovce. Do údolí strhl značné množství hornin a půdy"
-    },
-    {
-     "domain": "zpravy.aktualne.cz",
-     "official": false,
-     "url": "https://zpravy.aktualne.cz/zahranici/video-zabery-jako-z-katastrofickeho-filmu-po-masivnim-sesuvu-pudy-prisla-bleskova-povoden/r~aaa29cb5a13276ced9b8185bf40be3dc/?lp=1",
-     "title": "Lidé utíkali marně. Hrozivý sesuv půdy spustil bleskovou povodeň, ze záběrů mrazí – Aktuálně.cz"
-    },
-    {
-     "domain": "forbes.cz",
-     "official": false,
-     "url": "https://forbes.cz/zmizely-cele-vesnice-bahno-a-voda-zabily-v-nepalu-uz-95-lidi-stovky-se-pohresuji",
-     "title": "Zmizely celé vesnice. Bahno a voda zabily v Nepálu už 95 lidí, stovky se pohřešují | Forbes"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 3,
-   "image_url": "https://img.24n.cz/p/2026/08/razrushitelnoe-navodnenie-v-nepale-2026-sotni-propavshikh-7eae902cfc13c18b.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/08/razrushitelnoe-navodnenie-v-nepale-2026-sotni-propavshikh-db5edb409c545c7f.webp",
-    "https://img.24n.cz/p/2026/08/zadluzeni-cechu-v-prvnim-pololeti-vzrostlo-na-rekordni-sumu-87cb573d336efa66.webp"
-   ],
-   "video": {
-    "kind": "iframe",
-    "url": "https://www.youtube-nocookie.com/embed/WBiwWiMN9xc"
-   },
-   "image_w": 1200,
-   "image_h": 675,
-   "images_wh": [
-    [
-     1600,
-     1048
-    ],
-    [
-     840,
-     1154
     ]
    ]
   }
