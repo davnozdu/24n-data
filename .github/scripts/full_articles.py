@@ -42,12 +42,21 @@ def main() -> int:
             n += 1
         return n
 
+    broken = []
     for path in sorted(glob(join(archive_dir, "*.json"))):
         try:
             with open(path, encoding="utf-8") as fh:
                 take(json.load(fh).get("articles") or [], basename(path))
-        except (OSError, ValueError) as exc:   # битый срез не должен ронять сборку
-            print(f"  срез пропущен ({basename(path)}): {exc}", file=sys.stderr)
+        except (OSError, ValueError, AttributeError) as exc:
+            # Cloudflare получает ПОЛНЫЙ снимок: молча пропустить срез значит
+            # опубликовать сайт без всех его URL. Лучше оставить предыдущую
+            # рабочую версию и показать, какой именно архив надо восстановить.
+            broken.append(f"{basename(path)}: {exc}")
+    if broken:
+        print("ОШИБКА: архив неполный, деплой отменён:", file=sys.stderr)
+        for item in broken:
+            print(f"  {item}", file=sys.stderr)
+        return 1
 
     with open(window_path, encoding="utf-8") as fh:
         window = json.load(fh)

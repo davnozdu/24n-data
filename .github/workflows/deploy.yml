@@ -24,6 +24,10 @@ on:
     branches: [main]
     paths:
       - articles.json
+      - archive/**
+      - sitemap-legacy.json
+      - .github/scripts/**
+      - .github/workflows/deploy.yml
   # Ручной прогон (перезалить после правок дизайна в приватном репо).
   workflow_dispatch: {}
 
@@ -107,8 +111,19 @@ jobs:
           # secrets в выражениях уровня шага — с ними workflow не парсится
           # ЦЕЛИКОМ, то есть падает и обычный деплой новостей.
           if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
-            echo "CLOUDFLARE_API_TOKEN не задан — копия на Cloudflare пропущена"
-            exit 0
+            echo "ОШИБКА: CLOUDFLARE_API_TOKEN не задан — Cloudflare не обновлён"
+            exit 1
+          fi
+          # Оба репозитория могут начать сборку одновременно. Перед сменой
+          # боевого Worker убеждаемся, что обе входные ревизии всё ещё HEAD.
+          # Иначе этот прогон собран из устаревшей пары и не имеет права
+          # перезаписывать более свежий снимок.
+          DATA_HEAD="$(git ls-remote origin refs/heads/main | awk '{print $1}')"
+          SITE_HEAD="$(git -C site ls-remote origin refs/heads/main | awk '{print $1}')"
+          if [ "$DATA_HEAD" != "$GITHUB_SHA" ] || \
+             [ "$SITE_HEAD" != "$(git -C site rev-parse HEAD)" ]; then
+            echo "ОШИБКА: входные данные устарели; свежий workflow соберёт новый снимок"
+            exit 1
           fi
           # Снимок кладём в site/dist-cf: wrangler.toml ищет его как ../dist-cf
           # относительно site/cloudflare, откуда запускается deploy.

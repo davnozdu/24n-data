@@ -49,13 +49,15 @@ def _sitemap_urls(repo_root: str, window: list) -> list:
             if slug and pub:
                 urls[slug] = pub
 
+    broken = []
     for path in sorted(glob(os.path.join(repo_root, "archive", "*.json"))):
         try:
             with open(path, encoding="utf-8") as fh:
                 take(json.load(fh).get("articles") or [])
-        except (OSError, ValueError) as exc:   # битый срез не должен ронять сборку
-            print(f"  срез пропущен ({os.path.basename(path)}): {exc}",
-                  file=sys.stderr)
+        except (OSError, ValueError, AttributeError) as exc:
+            broken.append(f"{os.path.basename(path)}: {exc}")
+    if broken:
+        raise RuntimeError("неполный архив для sitemap: " + "; ".join(broken))
 
     take(window)
     return [[slug, urls[slug]] for slug in sorted(urls, key=lambda s: (urls[s], s),
