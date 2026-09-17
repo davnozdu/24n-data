@@ -1,8 +1,212 @@
 {
- "updated_at": "2026-09-17T21:26:45+00:00",
+ "updated_at": "2026-09-17T21:59:57+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n5663",
+   "slug": "ceny-thalie-2026-nominatsii-kto-pretenduet-na-nagrady",
+   "source": "idnes.cz",
+   "original_url": "https://www.idnes.cz/kultura/divadlo/ceny-thalie-nominace-celozivotni.A260917_140251_divadlo_ts#utm_source=rss&utm_medium=feed&utm_campaign=kultura&utm_content=main",
+   "top": false,
+   "tags": [
+    "dosug",
+    "cesko"
+   ],
+   "published_at": "2026-09-17T23:59:56.519086+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "17 сентября 2026, 23:59",
+    "uk": "17 вересня 2026, 23:59"
+   },
+   "ru": {
+    "title": "Ceny Thálie 2026 номинации: кто претендует на награды",
+    "lede": "В Чехии объявлены номинанты на престижную театральную премию Ceny Thálie и названы первые обладатели почетных наград за жизненные достижения.",
+    "meta_description": "Объявлены номинанты и обладатели почетных наград театральной премии Ceny Thálie 2026. Церемония пройдет в Праге.",
+    "paras": [
+     "<p>Актёрская ассоциация (Herecká asociace) огласила номинантов и обладателей специальных наград 33-го розыгрыша театральных премий <b>Ceny Thálie</b>. Церемония пройдёт в субботу, 3 октября, в историческом здании <b>Národní divadlo</b> в Праге. Прямой эфир покажет телеканал ČT1. Всего зрители увидят вручение наград 20 лауреатам.</p>",
+     "<h3>Почетные награды за жизненные достижения</h3>",
+     "<p>В этом году премию за многолетнее актерское мастерство в области драмы получат Zdena Herfortová и Petr Nárožný. Об этом пишет Novinky. По одной награде в других жанрах присудят Vele (опера), Nelly Danko (балет, танец и движение) и Jaroslava Kretschmerová (музыкальныя жанры). В чешских СМИ возникли небольшие расхождения в деталях распределения этих наград по конкретным жанрам.</p>",
+     "<p>Премию Чешской академии деятелей театра (Cena České akademie divadelníků) получит Miroslav Kořínek. Награду за распространение театрального искусства заслужил основатель театра Divadlo Ungelt Milan Hein. Приз зарубежному артисту достанется Emil Horváth. Внеплановую награду за многолетнюю деятельность в области современного физического театра вручат Rostislav Novák mladší.</p>",
+     "<p>Simona Lewandowska свою награду для молодых артистов до 33 лет уже получила до официального гала-вечера.</p>",
+     "<h3>Главные номинации года</h3>",
+     "<p>Ежегодные премии вручаются в шести основных категориях. С 2020 года жюри отдельно оценивает выдающиеся сценические работы в альтернативном и кукольном театрах. В каждой из категорий присуждается только одна общая премия для мужчин и женщин, при этом шорт-лист финалистов включает по пять претендентов.</p>",
+     "<p>Среди номинантов в категории драматического мужского актерского мастерства за победу поборются Filip Kaňkovský, Miloslav König и Stanislav Majer. В аналогичной женской категории номинированы Pavla Beretová, Markéta Holcmanová и Lucie Žáčková. В оперном жанре отмечены выдающиеся артисты Kateřina Kněžíková, Magdalena Kožená и Štefan Margita. В категории альтернативного театра, как отмечает Novinky, среди номинантов представлены Daniela Špinar и Miřenka Čechová.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Когда пройдет церемония вручения премий Ceny Thálie?",
+      "a": "Церемония состоится в субботу, 3 октября, в историческом здании Národní divadlo в Праге."
+     },
+     {
+      "q": "Кто получил премию для молодых артистов до 33 лет?",
+      "a": "Эту награду уже получила актриса Simona Lewandowska."
+     },
+     {
+      "q": "Где будет транслироваться церемония?",
+      "a": "Прямую трансляцию церемонии будет вести телеканал ČT1."
+     }
+    ],
+    "impact": "Церемония вручения премии пройдет в Праге и будет транслироваться по телевидению, напрямую затрагивая культурную жизнь Чехии и интересы профессионального театрального сообщества.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Церемония вручения премий Ceny Thálie пройдёт в субботу, 3 октября, в историческом здании Národní divadlo в Праге.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Премию за многолетнее актерское мастерство в области драмы получат Zdena Herfortová и Petr Nárožný.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Награду за распространение театрального искусства заслужил основатель театра Divadlo Ungelt Milan Hein.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "С 2020 года жюри отдельно оценивает выдающиеся сценические работы в альтернативном и кукольном театрах.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "1fa19be25d2ea85edaa696a75bf454d1cf407ba321824c5690435182efc74fc0"
+    }
+   },
+   "uk": {
+    "title": "Ceny Thálie 2026 номінації: хто претендує на нагороди",
+    "lede": "У Чехії оголосили номінантів на престижну театральну премію Ceny Thálie та назвали перших володарів почесних нагород за життєві досягнення.",
+    "meta_description": "Оголошено номінантів і володарів почесних нагород театральної премії Ceny Thálie 2026. Церемонія відбудеться у Празі.",
+    "paras": [
+     "<p>Акторська асоціація (Herecká asociace) оголосила номінантів і володарів спеціальних нагород 33-го розіграшу театральних премій <b>Ceny Thálie</b>. Церемонія відбудеться в суботу, 3 жовтня, в історичній будівлі <b>Národní divadlo</b> у Празі. Прямий ефір покаже телеканал ČT1. Загалом глядачі побачать вручення нагород 20 лауреатам.</p>",
+     "<h3>Почесні нагороди за життєві досягнення</h3>",
+     "<p>Цього року премію за багаторічну акторську майстерність у галузі драми отримають Zdena Herfortová та Petr Nárožný. Про це пише Novinky. По одній нагороді в інших жанрах присудять Vele (опера), Nelly Danko (балет, танець і рух) та Jaroslava Kretschmerová (музичні жанри). У чеських ЗМІ виникли невеликі розбіжності в деталях розподілу цих нагород за конкретними жанрами.</p>",
+     "<p>Премію Чеської академії діячів театру (Cena České akademie divadelníků) отримає Miroslav Kořínek. Нагороду за поширення театрального мистецтва заслужив засновник театру Divadlo Ungelt Milan Hein. Приз зарубіжному артисту дістанеться Emil Horváth. Позапланову нагороду за багаторічну діяльність у галузі сучасного фізичного театру вручать Rostislav Novák mladší.</p>",
+     "<p>Simona Lewandowska свою нагороду для молодих артистів до 33 років уже отримала до офіційного гала-вечора.</p>",
+     "<h3>Головні номінації року</h3>",
+     "<p>Щорічні премії вручаються в шести основних категоріях. З 2020 року журі окремо оцінює видатні сценічні роботи в альтернативному та ляльковому театрах. У кожній із категорій присуджується лише одна спільна премія для чоловіків і жінок, при цьому шорт-лист фіналістів включає по п'ять претендентів.</p>",
+     "<p>Серед номінантів у категорії драматичної чоловічої акторської майстерності за перемогу поборються Filip Kaňkovský, Miloslav König та Stanislav Majer. В аналогічній жіночій категорії номіновані Pavla Beretová, Markéta Holcmanová та Lucie Žáčková. В оперному жанрі відзначені видатні артисти Kateřina Kněžíková, Magdalena Kožená та Štefan Margita. У категорії альтернативного театру, як зазначає Novinky, серед номінантів представлені Daniela Špinar та Miřenka Čechová.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Коли відбудеться церемонія вручення премій Ceny Thálie?",
+      "a": "Церемонія відбудеться в суботу, 3 жовтня, в історичній будівлі Národní divadlo у Празі."
+     },
+     {
+      "q": "Хто отримав премію для молодих артистів до 33 років?",
+      "a": "Цю нагороду вже отримала акторка Simona Lewandowska."
+     },
+     {
+      "q": "Де транслюватиметься церемонія?",
+      "a": "Пряму трансляцію церемонії вестиме телеканал ČT1."
+     }
+    ],
+    "impact": "Церемония вручения премии пройдет в Праге и будет транслироваться по телевидению, напрямую затрагивая культурную жизнь Чехии и интересы профессионального театрального сообщества.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Церемонія вручення премій Ceny Thálie відбудеться в суботу, 3 жовтня, в історичній будівлі Národní divadlo у Празі, прямий ефір покаже телеканал ČT1.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Премію за багаторічну акторську майстерність у галузі драми отримають Zdena Herfortová та Petr Nárožný.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Премію Чеської академії діячів театру отримає Miroslav Kořínek.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Щорічні премії вручаються в шести основних категоріях, у кожній з яких присуджується лише одна спільна премія для чоловіків і жінок.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "f26e38a642f3ce97789d44c09fa6a0966840d49a592123946535741dd0a51938"
+    }
+   },
+   "rank": 95.0,
+   "sources": [
+    {
+     "domain": "denikn.cz",
+     "official": false,
+     "url": "https://denikn.cz/minuta/2187883/",
+     "title": "Cenu Thálie pro umělkyni do 33 let předala Herecká asociace Simoně Lewandowské"
+    },
+    {
+     "domain": "novinky.cz",
+     "official": false,
+     "url": "https://www.novinky.cz/clanek/kultura-divadlo-ceny-thalie-dostanou-petr-narozny-jaroslava-kretschmerova-nebo-rosta-novak-ml-a-kdo-ma-nominaci-40598159",
+     "title": "Ceny Thálie dostanou Petr Nárožný, Jaroslava Kretschmerová nebo Rosťa Novák ml. A kdo má nominaci? - Novinky"
+    },
+    {
+     "domain": "media24.cz",
+     "official": false,
+     "url": "https://media24.cz/article/thalie-odtajnily-nominace-celozivotni-ceny-dostanou-narozny-ci-kretschmerova",
+     "title": "Thálie odtajnily nominace. Celoživotní ceny dostanou Nárožný či Kretschmerová - Media24.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 3,
+   "image_url": "https://img.24n.cz/p/2026/09/ceny-thalie-2026-nominatsii-kto-pretenduet-na-nagrady-137e40aad3a9c9dd.webp",
+   "images": [
+    "https://img.24n.cz/p/2026/09/ceny-thalie-2026-nominatsii-kto-pretenduet-na-nagrady-cc694faeafb5c7a7.webp",
+    "https://img.24n.cz/p/2026/09/ceny-thalie-2026-nominatsii-kto-pretenduet-na-nagrady-8d6570ef850574ab.webp"
+   ],
+   "photo_spots": [
+    {
+     "url": "https://img.24n.cz/p/2026/09/ceny-thalie-2026-nominatsii-kto-pretenduet-na-nagrady-cc694faeafb5c7a7.webp",
+     "after": 2,
+     "caption": "Актёр, получивший премию за многолетнее мастерство в области драмы"
+    },
+    {
+     "url": "https://img.24n.cz/p/2026/09/ceny-thalie-2026-nominatsii-kto-pretenduet-na-nagrady-8d6570ef850574ab.webp",
+     "after": 5,
+     "caption": "Актриса, номинированная в категории драматического женского актерского мастерства"
+    }
+   ],
+   "image_w": 630,
+   "image_h": 350,
+   "images_wh": [
+    [
+     630,
+     354
+    ],
+    [
+     630,
+     354
+    ]
+   ]
+  },
   {
    "id": "n5662",
    "slug": "latviia-khochet-kupit-cheshskie-gaubitsy-morana-vmesto-shvedskikh",
@@ -15,8 +219,8 @@
    ],
    "published_at": "2026-09-17T23:26:44.219435+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "17 сентября 2026, 23:26",
@@ -203,8 +407,8 @@
    ],
    "published_at": "2026-09-17T22:53:38.653721+02:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "17 сентября 2026, 22:53",
@@ -367,8 +571,8 @@
    ],
    "published_at": "2026-09-17T21:46:23.881925+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "17 сентября 2026, 21:46",
@@ -645,8 +849,8 @@
    ],
    "published_at": "2026-09-17T21:46:23.881925+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "17 сентября 2026, 21:46",
@@ -1345,8 +1549,8 @@
    ],
    "published_at": "2026-09-17T20:41:11.709364+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "17 сентября 2026, 20:41",
@@ -1477,7 +1681,7 @@
      "body_sha256": "49e5c7e5cf186b19a9b8dc1a3e8c405755e695ad07928590c8231a3269e50b4e"
     }
    },
-   "rank": 92.0,
+   "rank": 91.585,
    "sources": [
     {
      "domain": "vecerni-praha.cz",
@@ -1520,8 +1724,8 @@
    ],
    "published_at": "2026-09-17T20:41:11.709364+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "17 сентября 2026, 20:41",
@@ -1796,7 +2000,7 @@
      "body_sha256": "a155e7b1555fb15db503e1e4fe5a848f06e0fc4f2aff6845d4df4503e18792d7"
     }
    },
-   "rank": 97.0,
+   "rank": 96.562,
    "sources": [
     {
      "domain": "uklidmecesko.cz",
@@ -1873,8 +2077,8 @@
    ],
    "published_at": "2026-09-17T20:41:11.709364+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "17 сентября 2026, 20:41",
@@ -2047,7 +2251,7 @@
      "body_sha256": "03922b719383007180277093c290c50b1ecc22d58e570a1c9b51af59fe7e9827"
     }
    },
-   "rank": 105.0,
+   "rank": 104.526,
    "image_url": "https://img.24n.cz/p/2026/09/21-letnii-chekh-ustanovil-mirovoi-rekord-v-aviaakrobatike-a2cc8dfa09d894ff.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/21-letnii-chekh-ustanovil-mirovoi-rekord-v-aviaakrobatike-55398795e731f08c.webp",
@@ -2340,7 +2544,7 @@
      "body_sha256": "be8dea664fcd1e7c9173c565f4854a3d3e80825ceafff48ccf961209215e9d58"
     }
    },
-   "rank": 89.69,
+   "rank": 88.97,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-prokhodiat-znamenitye-burchakovye-slavnosti-34fb45bdbf24bc62.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-chekhii-prokhodiat-znamenitye-burchakovye-slavnosti-63b66d8394835e71.webp",
@@ -2607,7 +2811,7 @@
      "body_sha256": "f072c96b1692495ba8bf73fce58ae275827b73594cc46359209f0303626c6073"
     }
    },
-   "rank": 89.69,
+   "rank": 88.97,
    "image_url": "https://img.24n.cz/p/2026/09/v-brno-vremenno-ostanovili-vyrubku-ginkgo-iz-za-oshibki-v-pr-9568d9fa3dd2d6cd.webp",
    "image_w": 1200,
    "image_h": 675
@@ -2625,8 +2829,8 @@
    ],
    "published_at": "2026-09-17T18:59:38.896526+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 18:59",
@@ -2835,7 +3039,7 @@
      "body_sha256": "6916ab2c02a3d34ceb4cb200b0442b9ee4179d7e04898b5de50cb4f24838b5e0"
     }
    },
-   "rank": 96.924,
+   "rank": 96.133,
    "sources": [
     {
      "domain": "ostravska.drbna.cz",
@@ -2885,8 +3089,8 @@
    ],
    "published_at": "2026-09-17T18:59:38.896526+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 18:59",
@@ -3110,8 +3314,8 @@
    ],
    "published_at": "2026-09-17T18:33:05.408785+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 18:33",
@@ -3155,7 +3359,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 79.756,
+   "rank": 79.101,
    "forecast": true
   },
   {
@@ -3309,7 +3513,7 @@
      "body_sha256": "c2cad36c84084ce8613aa45b7874f702cb605c8243278a00f772325879d3b4e4"
     }
    },
-   "rank": 101.894,
+   "rank": 101.054,
    "image_url": "https://img.24n.cz/p/2026/09/sel-pianym-za-rul-cherez-mesiats-posle-suda-i-pokalechil-dru-3bf3214bd28961b5.webp",
    "image_w": 1200,
    "image_h": 675
@@ -3327,8 +3531,8 @@
    ],
    "published_at": "2026-09-17T17:49:06.049880+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 17:49",
@@ -3587,8 +3791,8 @@
    ],
    "published_at": "2026-09-17T16:45:07.582912+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 16:45",
@@ -3736,7 +3940,7 @@
      "body_sha256": "16d5575da7d908d124c6f2e416a049f63a6ab44dee914fd2e3e8f9f006437ffc"
     }
    },
-   "rank": 104.131,
+   "rank": 103.252,
    "sources": [
     {
      "domain": "tiskovezpravy.hn.cz",
@@ -3801,8 +4005,8 @@
    ],
    "published_at": "2026-09-17T16:45:07.582912+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 16:45",
@@ -4048,7 +4252,7 @@
      "body_sha256": "2f3d73d9a21729993502e6310385c787b174c41d96c717e409766594e3e6008d"
     }
    },
-   "rank": 99.398,
+   "rank": 98.559,
    "sources": [
     {
      "domain": "kutnohorskelisty.cz",
@@ -4137,8 +4341,8 @@
    ],
    "published_at": "2026-09-17T16:45:07.582912+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 16:45",
@@ -4290,7 +4494,7 @@
      "body_sha256": "86b1766dd55906b88d3298d247f1c4c9abd35b26f3562453bdb1b74e3ca0be5f"
     }
    },
-   "rank": 107.918,
+   "rank": 107.006,
    "sources": [
     {
      "domain": "metro.cz",
@@ -4541,7 +4745,7 @@
      "body_sha256": "3d18b2ff29160a9011ccef7c48b42f1ae674626857ed8dd6518ba63c68e0a96e"
     }
    },
-   "rank": 89.112,
+   "rank": 88.352,
    "image_url": "https://img.24n.cz/p/2026/09/tri-iz-piati-cheshskikh-par-otkladyvaiut-detei-iz-za-problem-2fc9fe2aac335ef9.webp",
    "image_w": 1366,
    "image_h": 910
@@ -4558,8 +4762,8 @@
    ],
    "published_at": "2026-09-17T15:39:07.138140+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 15:39",
@@ -4709,7 +4913,7 @@
      "body_sha256": "ddc3c8eac00aab42cf46cc3123f4a292614c466864fbeacc508548bf8acdf83a"
     }
    },
-   "rank": 97.729
+   "rank": 96.89
   },
   {
    "id": "n5640",
@@ -4723,8 +4927,8 @@
    ],
    "published_at": "2026-09-17T15:39:07.138140+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 15:39",
@@ -4877,7 +5081,7 @@
      "body_sha256": "5c0f28a5d13ac1fa00d2ab31067b17d444422a97ca6652f0e8089ac721a3c7b4"
     }
    },
-   "rank": 83.768,
+   "rank": 83.049,
    "image_url": "https://img.24n.cz/p/2026/09/mototsiklist-s-tremia-zapretami-na-vozhdenie-ukhodil-ot-poli-35e3c513532bfd09.webp",
    "video": {
     "kind": "iframe",
@@ -5135,7 +5339,7 @@
      "body_sha256": "f1335e830a5c6fc9ab7fe93f85f397dfe9537f67fbddfda833375198bd72dd7b"
     }
    },
-   "rank": 96.93,
+   "rank": 96.09,
    "sources": [
     {
      "domain": "praha1.cz",
@@ -5311,7 +5515,7 @@
      "body_sha256": "538033307e5c0d771e7c39e7d6b8cdf8fe93926041d7209f82428747f913940d"
     }
    },
-   "rank": 96.93,
+   "rank": 96.09,
    "image_url": "https://img.24n.cz/p/2026/09/otobrali-futbolnuiu-sharfu-dvoim-fanatam-grozit-sud-031f2872b44e2d0a.webp",
    "image_w": 1200,
    "image_h": 675
@@ -5328,8 +5532,8 @@
    ],
    "published_at": "2026-09-17T14:33:38.218667+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 14:33",
@@ -5501,7 +5705,7 @@
      "body_sha256": "7bf6b71391ff33a9d79c42e01e86ef4e73ebef2c799e4db35ed1707aed34f4e2"
     }
    },
-   "rank": 91.499,
+   "rank": 90.7,
    "sources": [
     {
      "domain": "denik.cz",
@@ -5678,7 +5882,7 @@
      "body_sha256": "55e4213de9e84fb6acd5d2d2f230604338e6b393d9f2e14356296748b300192f"
     }
    },
-   "rank": 86.16,
+   "rank": 85.4,
    "image_url": "https://img.24n.cz/p/2026/09/the-guild-1-remake-europa-1410-vykhodit-na-steam-725111c427df0e3f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/the-guild-1-remake-europa-1410-vykhodit-na-steam-f18bf848d863ff5b.webp"
@@ -5716,8 +5920,8 @@
    ],
    "published_at": "2026-09-17T13:28:14.760070+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 13:28",
@@ -5942,7 +6146,7 @@
      "body_sha256": "a447b751801f19313b3524714e95a615a9d023396b5eefd2dd94af82d6eb65a0"
     }
    },
-   "rank": 101.166,
+   "rank": 100.266,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -5982,8 +6186,8 @@
    ],
    "published_at": "2026-09-17T12:55:13.650405+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 12:55",
@@ -6161,7 +6365,7 @@
      "body_sha256": "9614f5264e5e992d193669bb729e151bc1f7e6e3d7431015144072cd5aae6d44"
     }
    },
-   "rank": 106.956,
+   "rank": 105.997,
    "sources": [
     {
      "domain": "mediaguru.cz",
@@ -6198,8 +6402,8 @@
    ],
    "published_at": "2026-09-17T12:55:13.650405+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 12:55",
@@ -6381,7 +6585,7 @@
      "body_sha256": "5c58112dd708c21cabc703f1ec148674e646d96a267602c7dc345d9f80fd7847"
     }
    },
-   "rank": 106.956,
+   "rank": 105.997,
    "sources": [
     {
      "domain": "denik.to",
@@ -6408,8 +6612,8 @@
    ],
    "published_at": "2026-09-17T12:55:13.650405+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 12:55",
@@ -6579,7 +6783,7 @@
      "body_sha256": "62ffac8f48149ad3b16cd3ea3374579f5fd0c3e4799b9e42f499eb400fffa33c"
     }
    },
-   "rank": 80.217
+   "rank": 79.498
   },
   {
    "id": "n5631",
@@ -6593,8 +6797,8 @@
    ],
    "published_at": "2026-09-17T12:55:13.650405+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 12:55",
@@ -6887,7 +7091,7 @@
      "body_sha256": "5c15eaa835fbbab2f8034b3607e23ed31140d17302d47440efa260514dffbeda"
     }
    },
-   "rank": 120.326,
+   "rank": 119.246,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -7225,7 +7429,7 @@
      "body_sha256": "40422f29065233a3b1ecade17be5321ec3cf5af6f61192d1717d0ae5c91ec88e"
     }
    },
-   "rank": 83.957,
+   "rank": 83.197,
    "image_url": "https://img.24n.cz/p/2026/09/kak-sozdateli-marketing-miner-preodoleli-krizis-iz-za-google-ab1c6e938d39be36.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/kak-sozdateli-marketing-miner-preodoleli-krizis-iz-za-google-0caf9796be7c3727.webp",
@@ -7548,7 +7752,7 @@
      "body_sha256": "7b9457c5969cd95271d43cf601eb9e46cc69809084ef333d34354e79d7f6dafe"
     }
    },
-   "rank": 79.538,
+   "rank": 78.819,
    "image_url": "https://img.24n.cz/p/2026/09/noc-vedy-v-brno-elektrikarium-vut-otkroet-dveri-dlia-gostei-a6fdc9f590cbf278.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/noc-vedy-v-brno-elektrikarium-vut-otkroet-dveri-dlia-gostei-0eeb33c1a80bacbf.webp",
@@ -7637,7 +7841,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 77.285
+   "rank": 76.582
   },
   {
    "id": "n5627",
@@ -7651,8 +7855,8 @@
    ],
    "published_at": "2026-09-17T10:46:30.381875+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 10:46",
@@ -7808,7 +8012,7 @@
      "body_sha256": "6d890a83ca243cd855a5f84609fca4fecc77f85f62243b594c288afe2d415e5d"
     }
    },
-   "rank": 106.679,
+   "rank": 105.687,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -8016,7 +8220,7 @@
      "body_sha256": "9f47569475be5d58587ab2f4348509a6b635ca37d97d86c479df970a12aec85e"
     }
    },
-   "rank": 88.683,
+   "rank": 87.851,
    "sources": [
     {
      "domain": "valassky.denik.cz",
@@ -8241,7 +8445,7 @@
      "body_sha256": "85f70fd1f7a1740402b62b456725a2d9b8483d2bf8753192b4fcc0455032ea67"
     }
    },
-   "rank": 89.535
+   "rank": 88.696
   },
   {
    "id": "n5624",
@@ -8463,7 +8667,7 @@
      "body_sha256": "f19889ace099e93161c141de1b1b93502422eb99064ef0aefb85d4dc483c918f"
     }
    },
-   "rank": 73.022,
+   "rank": 72.302,
    "image_url": "https://img.24n.cz/p/2026/09/nosorogi-v-cheshskikh-zooparkakh-gde-zhivut-redkie-giganty-f409321103926cb0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/nosorogi-v-cheshskikh-zooparkakh-gde-zhivut-redkie-giganty-fb3ef5c427b3ec5d.webp",
@@ -8517,8 +8721,8 @@
    ],
    "published_at": "2026-09-17T06:49:51.396558+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "17 сентября 2026, 06:49",
@@ -8688,7 +8892,7 @@
      "body_sha256": "a31eb1ed2f1c8e1aca83955bb20bde6d14abff88b6cf27847bb86a507b86e416"
     }
    },
-   "rank": 84.351,
+   "rank": 83.511,
    "image_url": "https://img.24n.cz/p/2026/09/khokkeinye-kluby-v-politike-lobbirovanie-ili-konflikt-8c08635fb51975d8.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/khokkeinye-kluby-v-politike-lobbirovanie-ili-konflikt-6753e969e63d4ac3.webp",
@@ -8940,7 +9144,7 @@
      "body_sha256": "b098816c2ff770943cf1e2de3fc1712519825017230e45c8f6111bd17c433230"
     }
    },
-   "rank": 83.477
+   "rank": 82.638
   },
   {
    "id": "n5621",
@@ -9141,7 +9345,7 @@
      "body_sha256": "c4e3ef1bd94349dfad93f8f717fde0dac291ec5aa6e6452ae3810f8a1e57e709"
     }
    },
-   "rank": 83.477,
+   "rank": 82.638,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -9391,7 +9595,7 @@
      "body_sha256": "a6ccdcfad0fcceb50604d3c4231cdd7b884ed7fd7c6436d734fab7d87c07aa19"
     }
    },
-   "rank": 77.853
+   "rank": 77.054
   },
   {
    "id": "n5619",
@@ -9548,7 +9752,7 @@
      "body_sha256": "d55e00b060ff95aa6f6f5feb6f8155b569267e965cfa8bc187d21fbaf2db4177"
     }
    },
-   "rank": 80.967,
+   "rank": 80.136,
    "sources": [
     {
      "domain": "ustinadlabemdnes.cz",
@@ -9871,7 +10075,7 @@
      "body_sha256": "5dbd9b895fefb0fb9e12713be8574a885b548c0c9ed9ef232fa201a3cd22ba96"
     }
    },
-   "rank": 76.738,
+   "rank": 75.906,
    "sources": [
     {
      "domain": "turisturaj.cz",
@@ -10197,7 +10401,7 @@
      "body_sha256": "eaf73b36baa67ad790f585f8d09922d5c03afddc777db8b20efb02f6d4e39c9f"
     }
    },
-   "rank": 66.408,
+   "rank": 65.688,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -10220,8 +10424,8 @@
    ],
    "published_at": "2026-09-17T01:44:18.782304+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "17 сентября 2026, 01:44",
@@ -10377,7 +10581,7 @@
      "body_sha256": "b1b5096e51053a7c3e6b35a6a27ddd6d3669f1497f9140cf12bb9048ff80b306"
     }
    },
-   "rank": 87.574,
+   "rank": 86.615,
    "sources": [
     {
      "domain": "sport.aktualne.cz",
@@ -10699,7 +10903,7 @@
      "body_sha256": "ec70b15e026ed6054e3011c0084814860dc4bc0ffe9fee712b6f14ff737b2b93"
     }
    },
-   "rank": 70.597,
+   "rank": 69.798,
    "image_url": "https://img.24n.cz/p/2026/09/ii-v-fotoredaktorakh-kogda-programma-nachinaet-perepisyvat-r-046230d6342d8999.webp",
    "image_w": 670,
    "image_h": 377
@@ -10851,7 +11055,7 @@
      "body_sha256": "590616a89ef5849cf7932e66ec923bd6674c2d941c005560fa4623d935309c97"
     }
    },
-   "rank": 57.321,
+   "rank": 56.642,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -11039,7 +11243,7 @@
      "body_sha256": "99e56f5f0a617e90f690ddba7ba3fcfabdd35fab6ca78aa9744cc022c3960ae6"
     }
    },
-   "rank": 56.645,
+   "rank": 55.965,
    "image_url": "https://img.24n.cz/p/2026/09/lider-ods-predlozhil-otdokhnut-ot-piratov-posle-vyborov-v-pr-c22c19f7e003a791.webp",
    "image_w": 1200,
    "image_h": 675
@@ -11096,7 +11300,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 55.57
+   "rank": 54.899
   },
   {
    "id": "n5611",
@@ -11305,7 +11509,7 @@
      "body_sha256": "eb7c43bab98df47d6aab113ef6fbc9e72c9bb3aa6d7e0dcc7b58f62ac036b069"
     }
    },
-   "rank": 59.932,
+   "rank": 59.196,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -11476,7 +11680,7 @@
      "body_sha256": "c565d7693051d5fe4a4c869de5c9cad9c6f68ddbb5489a1171ec9fac7ab481c6"
     }
    },
-   "rank": 73.34,
+   "rank": 72.428,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -11677,7 +11881,7 @@
      "body_sha256": "25cd5336e6b567f5c203203bf2f059734dcc6709e3eb85cfdfafb2f30450b2b7"
     }
    },
-   "rank": 55.282,
+   "rank": 54.587,
    "sources": [
     {
      "domain": "newstream.cz",
@@ -11839,7 +12043,7 @@
      "body_sha256": "26afc9568d654079610e1c53da2630acb30ecb0403c7310e831c550060c723bc"
     }
    },
-   "rank": 72.166,
+   "rank": 71.247,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -11928,7 +12132,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 51.337,
+   "rank": 50.682,
    "forecast": true
   },
   {
@@ -12097,7 +12301,7 @@
      "body_sha256": "ea42ebc9d8a120967e856371437eccc201fe4bab30b334f643c9a1d06a31c9aa"
     }
    },
-   "rank": 65.096,
+   "rank": 64.257,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskii-rynok-truda-deformiruiut-nalogi-i-alternativnye-fo-c33b4793433a5d6b.webp",
    "image_w": 620,
    "image_h": 349
@@ -12276,7 +12480,7 @@
      "body_sha256": "f506b9e9205d1f36d62ff10f99d4414b39680fecc03ada66206002448346754f"
     }
    },
-   "rank": 75.636,
+   "rank": 74.66,
    "sources": [
     {
      "domain": "ceskatelevize.cz",
@@ -12520,7 +12724,7 @@
      "body_sha256": "caee514d47b23f977f9ece358957d315b5c6c5ea452bfa52fbd5b84f552d6447"
     }
    },
-   "rank": 63.236,
+   "rank": 62.421,
    "sources": [
     {
      "domain": "e15.cz",
@@ -12769,7 +12973,7 @@
      "body_sha256": "fc74fe9c8cdd4784b59eb125c11306f96adf430f00b42a8915f0532a7c8f3bd5"
     }
    },
-   "rank": 60.136,
+   "rank": 59.361,
    "sources": [
     {
      "domain": "praguedaily.news",
@@ -12956,7 +13160,7 @@
      "body_sha256": "055e0d0d5536babde0132c3d293c6a752be3129f77af3e11b43ecf1e5de2d511"
     }
    },
-   "rank": 69.468
+   "rank": 68.549
   },
   {
    "id": "n5601",
@@ -13186,7 +13390,7 @@
      "body_sha256": "93913e3270b52a8ddcf3b4fce6653df1d3b16cf30d8a4ee02b24f3e0fe63bdd8"
     }
    },
-   "rank": 64.636,
+   "rank": 63.78,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -13419,7 +13623,7 @@
      "body_sha256": "df0b4661b148bd127152b20db4fdcd659be77e2c127827c26708b2744ac53b7f"
     }
    },
-   "rank": 66.86,
+   "rank": 65.965,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -13668,7 +13872,7 @@
      "body_sha256": "34de560b82362afce9f2f4a9fc72d0720e10e324ee986d7d60cf4701b7ca1c53"
     }
    },
-   "rank": 44.773
+   "rank": 44.173
   },
   {
    "id": "n5598",
@@ -13827,7 +14031,7 @@
      "body_sha256": "162a989392a7d7946dadd7808dce4c8217a289021d37a27600667afb0a631793"
     }
    },
-   "rank": 44.223
+   "rank": 43.623
   },
   {
    "id": "n5597",
@@ -14007,7 +14211,7 @@
      "body_sha256": "10ad207a97993968c4aabade577775920fb4af6be3b9c0b4c83d7d77c8a8bcf3"
     }
    },
-   "rank": 64.86,
+   "rank": 63.981,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -14403,7 +14607,7 @@
      "body_sha256": "8a936e66cd01c8eb3ee1c80343b877f08e10554f489b62587457e351ccb0912b"
     }
    },
-   "rank": 75.863,
+   "rank": 74.832,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -14554,7 +14758,7 @@
      "body_sha256": "7b401deb5270b153a757794ea8f600b190eb33dec6045ff71b995697d8dd1c0d"
     }
    },
-   "rank": 58.726,
+   "rank": 57.926,
    "image_url": "https://img.24n.cz/p/2026/09/pochti-4-promile-alkogolia-na-trasse-d1-poimali-pianogo-vodi-90b4c2bd6c7fa132.webp",
    "video": {
     "kind": "iframe",
@@ -14743,7 +14947,7 @@
      "body_sha256": "718e7a5e653ce00bf9846ac48aae028c7c454faeb85cf17546e653cb17ac583e"
     }
    },
-   "rank": 65.773,
+   "rank": 64.878,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -14936,7 +15140,7 @@
      "body_sha256": "47e69e5b25342f352b237ce530d5691ec8673d4a2d8b02174f8747a788c33e8c"
     }
    },
-   "rank": 69.884,
+   "rank": 68.932,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -15176,7 +15380,7 @@
      "body_sha256": "7ef652ca203b7d672799cf7e3cce4743e7792551cd26dbee8b38cec219a94c87"
     }
    },
-   "rank": 61.111,
+   "rank": 60.272,
    "image_url": "https://img.24n.cz/p/2026/09/videonartsiss-stal-zhertvoi-shantazha-v-seti-i-poterial-313-974f1bc8ffd3bcad.webp",
    "image_w": 1200,
    "image_h": 798
@@ -15344,7 +15548,7 @@
      "body_sha256": "fb01da966069ab1758cc0f0b463af8380f10c70061ccd668259f69cc6cae27f8"
     }
    },
-   "rank": 55.291,
+   "rank": 54.532,
    "image_url": "https://img.24n.cz/p/2026/09/pozhilaia-zhenshchina-upala-v-kolodets-pod-dubnianami-spasli-61407d1867c23dd5.webp",
    "video": {
     "kind": "iframe",
@@ -15556,7 +15760,7 @@
      "body_sha256": "c0fe63faa421df10d5d68922da36605eba3e19165132344bbb9dec0efbd2930a"
     }
    },
-   "rank": 38.847,
+   "rank": 38.287,
    "image_url": "https://img.24n.cz/p/2026/09/zooterapiia-v-domakh-prestarelykh-kak-zhivotnye-pomogaiut-se-ab7aa49eb6005590.webp",
    "image_w": 1200,
    "image_h": 674
@@ -15844,7 +16048,7 @@
      "body_sha256": "07466d55b4710eec996d778fef0571ea450ef9944d511020f7b97be42a26333e"
     }
    },
-   "rank": 56.136,
+   "rank": 55.305,
    "sources": [
     {
      "domain": "tyden.cz",
@@ -16094,7 +16298,7 @@
      "body_sha256": "a998218dc64f5b90539e1ede77e95a503d5e5ce8de7d89ea219240d7b9240753"
     }
    },
-   "rank": 40.483,
+   "rank": 39.883,
    "image_url": "https://img.24n.cz/p/2026/09/zhenshchina-poluchila-10-5-goda-za-udar-nozhom-v-khode-ssory-2d964bf499108350.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zhenshchina-poluchila-10-5-goda-za-udar-nozhom-v-khode-ssory-a750a8692be42fcc.webp"
@@ -16280,7 +16484,7 @@
      "body_sha256": "d719bc3e5a0b1b3650b8698b8aa5f256bc9651cbc79e2c51e320793a90b4132e"
     }
    },
-   "rank": 64.818,
+   "rank": 63.842,
    "sources": [
     {
      "domain": "dotyk.cz",
@@ -16481,7 +16685,7 @@
      "body_sha256": "f3b1c1e8478e34446567bcb07d27b3b045005b1f6eb08ddab7fea5e346536dc4"
     }
    },
-   "rank": 52.397,
+   "rank": 51.598,
    "image_url": "https://img.24n.cz/p/2026/09/polveka-spustia-kak-dvoinoe-ubiistvo-v-chekhoslovakii-potria-5f5bb588cab2a47b.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/polveka-spustia-kak-dvoinoe-ubiistvo-v-chekhoslovakii-potria-a043e269626bbde6.webp",
@@ -16731,7 +16935,7 @@
      "body_sha256": "1ec0ecdc58769dbd339692c8d59e836e678dfe8b9c9ff44b037eeeb4a55e6da2"
     }
    },
-   "rank": 61.897
+   "rank": 60.938
   },
   {
    "id": "n5584",
@@ -16943,7 +17147,7 @@
      "body_sha256": "fe0db0440d0503ce8b45b153b8fa0749c421eaba02baaad04389e525a17ffe4e"
     }
    },
-   "rank": 61.381,
+   "rank": 60.43,
    "sources": [
     {
      "domain": "brnensky.denik.cz",
@@ -17162,7 +17366,7 @@
      "body_sha256": "684202393fbc4e42b27bd84b67a670e4c136a790a2a6b2f16d1bc32a7b415ac5"
     }
    },
-   "rank": 52.793,
+   "rank": 51.961,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -17431,7 +17635,7 @@
      "body_sha256": "2dd650783a45dfdf96434e4bfc5c6dd5eeb10ccad03d7750b7e290ba0b454cbc"
     }
    },
-   "rank": 48.514,
+   "rank": 47.739,
    "sources": [
     {
      "domain": "park360.cz",
@@ -17558,7 +17762,7 @@
     ],
     "impact": "Посетить экспозиции Чешского национального банка можно бесплатно со вторника по субботу в историческом здании на улице Na Příkopě в Праге. Предварительная запись не требуется, вход свободный в часы работы центра."
    },
-   "rank": 55.368,
+   "rank": 54.457,
    "sources": [
     {
      "domain": "nc.cnb.cz",
@@ -17671,7 +17875,7 @@
     ],
     "impact": "Реформа социальной помощи изменила правила получения выплат и жилищных субсидий для малоимущих граждан, пенсионеров и одиноких родителей. С октября вводятся новые нормативы расчета поддержки на жилье с учетом специфики каждого отдельного района Чехии."
    },
-   "rank": 51.968,
+   "rank": 51.113,
    "sources": [
     {
      "domain": "media24.cz",
@@ -17775,7 +17979,7 @@
     ],
     "impact": "Для посетителей галереи это событие означает, что после завершения ремонтных работ они впервые смогут вживую увидеть подлинные работы мастера мирового уровня вместо репродукций."
    },
-   "rank": 54.968,
+   "rank": 54.049,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -17891,7 +18095,7 @@
     ],
     "impact": "Электронные торги пивоварни Marina пройдут 26 октября 2026 года. Новый владелец получит право распоряжаться недвижимостью и оборудованием заведения. Для посетителей это может означать изменения в концепции ресторана или даже его закрытие, если покупатель решит использовать помещение для других целей."
    },
-   "rank": 40.629
+   "rank": 39.949
   },
   {
    "id": "n5577",
@@ -17968,7 +18172,7 @@
     ],
     "impact": "Посещение замка Radyně в период сезонных программ станет отличным вариантом для поездки всей семьей. Объект открыт для публики в сезон, а добраться до него можно из города Starý Plzenec."
    },
-   "rank": 42.327,
+   "rank": 41.607,
    "image_url": "https://img.24n.cz/p/2026/09/zamok-radyne-zhdet-gostei-na-skazochnye-programmy-1158811de2273bd2.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zamok-radyne-zhdet-gostei-na-skazochnye-programmy-1788d8f0e810edae.webp"
@@ -18066,7 +18270,7 @@
     ],
     "impact": "Посещение вечерней экскурсии требует предварительного бронирования мест на сайте пивовара или по телефону. Стоимость билета составляет 249 или 250 крон, а дегустация доступна только лицам старше 18 лет."
    },
-   "rank": 44.678,
+   "rank": 43.919,
    "sources": [
     {
      "domain": "prazdroj.cz",
@@ -18180,7 +18384,7 @@
     ],
     "impact": "Ситуация на рынке недвижимости Праги остается критической: средняя цена нового жилья превысила 182 тысячи крон за квадратный метр, а покупка квартиры требует около 15 годовых зарплат. Новые предвыборные обещания пока остаются на уровне планов, поэтому рассчитывать на быстрое появление дешевого муниципального жилья не стоит."
    },
-   "rank": 85.242
+   "rank": 84.854
   },
   {
    "id": "n5574",
@@ -18267,7 +18471,7 @@
     ],
     "impact": "Проєкт допомагає мешканцям Праги залишатися активними, пропонуючи безплатні спортивні заняття та культурні події для всієї родини в різних районах міста."
    },
-   "rank": 50.94,
+   "rank": 50.045,
    "sources": [
     {
      "domain": "zsdlouhylan.cz",
@@ -18371,7 +18575,7 @@
     ],
     "impact": "Посетить выставку редких экспонатов в пражском Karlín можно бесплатно. Экспозиция открыта в Galerie Magnus Art при поддержке J&T Banky."
    },
-   "rank": 38.66,
+   "rank": 37.98,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-otkrylas-vystavka-redkoi-kollektsii-oldrich-uttendor-ab877a9a774e09dd.webp",
    "image_w": 600,
    "image_h": 315
@@ -18480,7 +18684,7 @@
     ],
     "impact": "Для компаний в Чехии гибкие офисы становятся способом снизить риски при изменении структуры команд и рабочих процессов. Сервисные пространства позволяют быстро адаптироваться к новым условиям без крупных начальных инвестиций, но стоят дороже на одно рабочее место. Традиционная аренда с фиксированной площадью на долгий срок может оказаться невыгодной из-за влияния ИИ и гибридной работы."
    },
-   "rank": 38.66,
+   "rank": 37.98,
    "image_url": "https://img.24n.cz/p/2026/09/gibkie-ofisy-v-prage-pochemu-kompanii-otkazyvaiutsia-ot-mnog-bfa1cac63194a560.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gibkie-ofisy-v-prage-pochemu-kompanii-otkazyvaiutsia-ot-mnog-221f1d3c22fad3fe.webp",
@@ -18615,7 +18819,7 @@
     ],
     "impact": "Развитие альтернативных чипов для ИИ может снизить затраты на инфраструктуру дата-центров и сделать внедрение искусственного интеллекта более доступным для европейских компаний."
    },
-   "rank": 40.934,
+   "rank": 40.214,
    "image_url": "https://img.24n.cz/p/2026/09/iuzhnokoreiskie-chipy-dlia-ii-kak-alternativa-nvidia-obzo-87e9f45342d0b3b1.webp",
    "image_w": 1551,
    "image_h": 1168
@@ -18726,7 +18930,7 @@
     ],
     "impact": "Екстремальна спека безпосередньо впливає на рівень смертності у Чехії, хоча зима все ще забирає більше життів через епідемії вірусів. Країна погано пристосована до високих температур через низький рівень кондиціювання, а літні люди та мешканці погано захищених квартир опиняються у найбільшій небезпеці."
    },
-   "rank": 47.756
+   "rank": 46.917
   },
   {
    "id": "n5569",
@@ -18825,7 +19029,7 @@
     ],
     "impact": "Зростання іпотечних ставок означає, що як новим покупцям житла, так і тисячам власників чинних кредитів доведеться платити за позиками значно більше грошей щомісяця."
    },
-   "rank": 44.701
+   "rank": 43.902
   },
   {
    "id": "n5568",
@@ -18924,7 +19128,7 @@
     ],
     "impact": "Обмен юбилейных банкнот номиналом 5 000 крон начнется 22 сентября 2026 года. Получить не более трех купюр в одни руки можно будет только за наличные в кассах ČNB в Праге, Брно, Градец-Кралове и Остраве."
    },
-   "rank": 55.876,
+   "rank": 54.877,
    "sources": [
     {
      "domain": "cnb.cz",
@@ -19048,7 +19252,7 @@
     ],
     "impact": "Материал носит рекомендательный характер для родителей девятиклассников и не вводит новых обязательных правил или тарифов."
    },
-   "rank": 44.701
+   "rank": 43.902
   },
   {
    "id": "n5566",
@@ -19131,7 +19335,7 @@
     ],
     "impact": "Исследование отражает настроения ключевой политической силы Чехии перед будущими президентскими выборами и показывает степень поляризации общества вокруг фигур нынешнего руководства страны."
    },
-   "rank": 43.13,
+   "rank": 42.331,
    "sources": [
     {
      "domain": "extra.cz",
@@ -19234,7 +19438,7 @@
     ],
     "impact": "Инцидент в Усти-над-Лабем напоминает пожилым людям о необходимости быть внимательными в общественных местах. Полиция рекомендует не принимать помощь от незнакомцев и всегда держать ценные вещи под контролем. Особенно это касается тех, кто передвигается с помощью костылей или трости."
    },
-   "rank": 34.504,
+   "rank": 33.865,
    "sources": [
     {
      "domain": "ustecky.denik.cz",
@@ -19324,7 +19528,7 @@
     ],
     "impact": "Обзор носит информационный характер для специалистов и разработчиков программного обеспечения, предлагая новые инструменты для оптимизации рабочего процесса."
    },
-   "rank": 35.385
+   "rank": 34.706
   },
   {
    "id": "n5563",
@@ -19402,7 +19606,7 @@
     ],
     "impact": "Решения Европарламента затрагивают рынок углеродных квот ETS 1 и ETS 2. В будущем это напрямую отразится на издержках промышленности, а также на стоимости отопления и автомобильного топлива для потребителей."
    },
-   "rank": 39.548,
+   "rank": 38.789,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -19524,7 +19728,7 @@
     ],
     "impact": "Общий риск заражения оценивается как очень низкий, болезнь протекает мягко и лечится антибиотиками, поэтому специфических ограничений или новых правил для жителей Чехии не вводится."
    },
-   "rank": 36.824,
+   "rank": 36.089,
    "sources": [
     {
      "domain": "media24.cz",
@@ -19642,7 +19846,7 @@
     ],
     "impact": "Предвыборные предложения партии затрагивают всех жителей Праги: в случае реализации планов поездки в общественном транспорте станут бесплатными, а водители смогут парковаться по всему городу с единым разрешением."
    },
-   "rank": 32.822,
+   "rank": 32.166,
    "sources": [
     {
      "domain": "europesays.com",
@@ -19785,7 +19989,7 @@
     ],
     "impact": "Кампания «3 sekundy… to je easy!» касается всех жителей и гостей Праги, особенно подростков и молодежи в возрасте 11-19 лет. Проект напоминает о простых правилах безопасности на дорогах, которые помогут избежать аварий. Материалы кампании будут размещены в общественном транспорте, на остановках и в школах до конца марта 2027 года."
    },
-   "rank": 40.028,
+   "rank": 39.212,
    "sources": [
     {
      "domain": "europesays.com",
@@ -19895,7 +20099,7 @@
     ],
     "impact": "Модернизированная зона отдыха Vyškov на трассе D1 предлагает новые парковочные места для легковых и грузовых автомобилей, а также отдельный пункт контроля полиции, что сделает поездки по маршруту между Брно, Остравой и Оломоуцем удобнее и безопаснее."
    },
-   "rank": 46.699,
+   "rank": 45.748,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -20054,7 +20258,7 @@
     ],
     "impact": "Реконструкция парка Кампа коснётся всех жителей и гостей Праги 1. Работы начнутся после подписания контракта с подрядчиком, а их график будет опубликован на сайте городского округа. Проект стоимостью 62,8 миллиона крон улучшит инфраструктуру парка, сохранив его исторический облик."
    },
-   "rank": 43.952,
+   "rank": 43.056,
    "sources": [
     {
      "domain": "praha1.cz",
@@ -20168,7 +20372,7 @@
     ],
     "impact": "Гибель рыбы в реке Морава напрямую затрагивает экосистему региона и любителей рыбалки. Запрет на забор воды из нескольких водотоков до конца октября может повлиять на сельское хозяйство и промышленные предприятия, использующие поверхностные воды. Жителям Оломоуца и окрестных населённых пунктов рекомендуется следить за обновлениями от местных властей."
    },
-   "rank": 35.728,
+   "rank": 34.968,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -20308,7 +20512,7 @@
     ],
     "impact": "Обновление касается разработчиков на языке Go. Экспериментальный пакет simd доступен в версии 1.26 с ограничениями и полноценно в Go 1.27 для оптимизации векторных вычислений."
    },
-   "rank": 33.939,
+   "rank": 33.204,
    "sources": [
     {
      "domain": "inews.sk",
@@ -20385,7 +20589,7 @@
     "faq": [],
     "impact": "Жителям и туристам в центре Праги стоит учитывать кратковременный, но сильный шум в районе Влтавы и Карлова моста во время пролета авиации в дневное время."
    },
-   "rank": 40.211,
+   "rank": 39.34,
    "sources": [
     {
      "domain": "praha.eu",
@@ -20508,7 +20712,7 @@
     ],
     "impact": "Информация носит исключительно новостной характер и не влечет за собой практических изменений или новых обязанностей для жителей Чехии."
    },
-   "rank": 32.45,
+   "rank": 31.731,
    "sources": [
     {
      "domain": "pisecky.denik.cz",
@@ -20647,7 +20851,7 @@
     ],
     "impact": "Предложенный метод позволяет системным администраторам и пользователям домашних серверов сократить количество резервных копий в восемь раз и упростить восстановление данных. Для настройки достаточно добавить несколько строк в crontab - дополнительные скрипты не требуются."
    },
-   "rank": 28.845,
+   "rank": 28.205,
    "image_url": "https://img.24n.cz/p/2026/09/kak-sokratit-chislo-arkhivov-pri-rezervnom-kopirovanii-serve-801b1485e21f5245.webp",
    "image_w": 670,
    "image_h": 377
@@ -22833,7 +23037,7 @@
     ],
     "impact": "Заявления эксперта указывают на вероятные кадровые перестановки в министерствах и ведомствах Чехии после завершения осенних выборов, что может затронуть сотрудников госслужбы и бюджетного сектора."
    },
-   "rank": 55.945,
+   "rank": 55.65,
    "image_url": "https://img.24n.cz/p/2026/09/sotsiolog-sprognoziroval-volnu-uvolnenii-v-cheshskoi-gossluz-055e4acde05118f7.webp",
    "image_w": 1200,
    "image_h": 674
@@ -26273,7 +26477,7 @@
     ],
     "impact": "Материал носит аналитический характер и описывает общенациональную ситуацию в сфере образования, не вводя немедленных практических изменений для учеников и родителей."
    },
-   "rank": 56.665,
+   "rank": 56.344,
    "sources": [
     {
      "domain": "plus.rozhlas.cz",
@@ -28833,8 +29037,8 @@
    ],
    "published_at": "2026-09-14T23:27:55.542673+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "14 сентября 2026, 23:27",
@@ -28929,8 +29133,8 @@
    ],
    "published_at": "2026-09-14T23:27:55.542673+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "14 сентября 2026, 23:27",
@@ -29047,8 +29251,8 @@
    ],
    "published_at": "2026-09-14T23:27:55.542673+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "14 сентября 2026, 23:27",
@@ -29148,8 +29352,8 @@
    ],
    "published_at": "2026-09-14T23:27:55.542673+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "14 сентября 2026, 23:27",
@@ -37349,8 +37553,8 @@
    ],
    "published_at": "2026-09-13T23:42:36.589983+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "13 сентября 2026, 23:42",
@@ -40964,100 +41168,6 @@
     "impact": ""
    },
    "rank": 36.75
-  },
-  {
-   "id": "n5361",
-   "slug": "massovaia-avariia-na-olomoutskom-napravlenii-tri-avto-stolknulis-iz-za",
-   "source": "tydenikpolicie.cz",
-   "original_url": "https://tydenikpolicie.cz/nepozornost-ridice-na-olomoucku-zpusobila-nehodu-tri-vozidel/",
-   "top": false,
-   "tags": [
-    "kriminal",
-    "cesko"
-   ],
-   "published_at": "2026-09-13T05:06:25.014721+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "13 сентября 2026, 05:06",
-    "uk": "13 вересня 2026, 05:06"
-   },
-   "ru": {
-    "title": "Массовая авария на Оломоуцком направлении: три авто столкнулись из-за невнимательности",
-    "lede": "В четверг 10 сентября 2026 года на трассе I/35 в сторону населенного пункта Přáslavice произошло дорожно-транспортное происшествие с участием трех автомобилей.",
-    "meta_description": "На дороге I/35 возле Оломоуца столкнулись три автомобиля. Из-за невнимательности водителя пострадал один человек.",
-    "paras": [
-     "<p>Серьезная дорожная авария случилась в четверг 10 сентября 2026 года на дороге первой классности № I/35. Инцидент зафиксирован на участке по направлению из города Оломоуц в сторону общины Přáslavice, как сообщает дорожная полиция.</p>",
-     "<h3>Хроника столкновения на дороге I/35</h3>",
-     "<p>Сорок трехлетний мужчина за рулем серого легкового автомобиля Škoda Fabia съезжал в направлении общины Přáslavice. Водитель вовремя не заметил стоявший у правого края проезжей части красный автомобиль той же марки Škoda Fabia, который был должным образом обозначен оранжевым знаком аварийной остановки.</p>",
-     "<p>Серая машина на полной скорости врезалась в припаркованный транспорт сзади. От удара красный автомобиль отбросило прямо в правдный ряд движения трассы I/35. В этот момент по полосе проезжал автомобиль Volkswagen Golf. Водитель не успел среагировать нанеожиданную преграду и на большой скорости врезался передней частью в левый бок отброшенной красной машины.</p>",
-     "<h3>Результаты проверки и последствия</h3>",
-     "<p>На место происшествия оперативно прибыли сотрудники экстренных служб. Проведенные на месте алкотесты показали, что ни один из участников ДТП не находился в состоянии алкогольного опьянения. Медики скорой помощи осмотрели пострадавших и приняли решение о госпитализации одного человека, которого бригада RZS доставила в больницу.</p>",
-     "<p>Предварительный размер материального ущерба, причиненного поврежденным транспортным средствам, оценивается в общую сумму 160 тысяч крон. В настоящее время сотрудники полиции продолжают расследование, чтобы установить все точные причины и детальные обстоятельства произошедшего дорожного инцидента.</p>",
-     "<p>Стоит отметить, что в информационном пространстве возникла путаница с данными. Как указывает издание report.cz, параллельно проверялись сведения о совершенно другой аварии, которая произошла в июле этого же года в районе общины Hlubočky-Mariánské Údolí между автомобилями марок Mitsubishi и Škoda Octavia.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Когда произошла авария возле Přáslavice?",
-      "a": "ДТП случилось в четверг 10 сентября 2026 года."
-     },
-     {
-      "q": "Какие транспортные средства участвовали в столкновении?",
-      "a": "В аварии пострадали два автомобиля марки Škoda Fabia и один автомобиль Volkswagen Golf."
-     },
-     {
-      "q": "Есть ли пострадавшие в результате происшествия?",
-      "a": "Да, один человек получил травмы и был доставлен бригадой RZS в медицинское учреждение."
-     }
-    ],
-    "impact": ""
-   },
-   "uk": {
-    "title": "Масова аварія на Оломоуцькому напрямку: три автівки зіткнулися через неуважність",
-    "lede": "У четвер 10 вересня 2026 року на трасі I/35 у напрямку населеного пункту Přáslavice сталася дорожньо-транспортна пригода за участю трьох автомобілів.",
-    "meta_description": "На дорозі I/35 біля Оломоуца зіткнулися три автомобілі. Через неуважність водія постраждала одна людина.",
-    "paras": [
-     "<p>Серйозна дорожня аварія сталася у четвер 10 вересня 2026 року на дорозі першого класу № I/35. Інцидент зафіксовано на ділянці у напрямку з міста Оломоуц у бік громади Přáslavice, як повідомляє дорожня поліція.</p>",
-     "<h3>Хроніка зіткнення на дорозі I/35</h3>",
-     "<p>Сорокатрирічний чоловік за кермом сірого легкового автомобіля Škoda Fabia їхав у напрямку громади Přáslavice. Водій вчасно не помітив припаркований біля правого краю проїжджої частини червоний автомобіль тієї ж марки Škoda Fabia, який був належним чином позначений помаранчевим знаком аварійної зупинки.</p>",
-     "<p>Сіра машина на повній швидкості врізалася в припаркований транспорт ззаду. Від удару червоний автомобіль відкинуло прямо в правий ряд руху траси I/35. У цей момент по смузі проїжджав автомобіль Volkswagen Golf. Водій не встиг зреагувати на раптову перешкоду і на великій швидкості врізався передньою частиною в лівий бік відкинутого червоного автомобіля.</p>",
-     "<h3>Результати перевірки та наслідки</h3>",
-     "<p>На місце події оперативно прибули співробітники екстрених служб. Проведені на місці алкотести показали, що жоден з учасників ДТП не перебував у стані алкогольного сп'яніння. Медики швидкої допомоги оглянули постраждалих і ухвалили рішення про госпіталізацію однієї людини, яку бригада RZS доставила до лікарні.</p>",
-     "<p>Попередній розмір матеріальних збитків, завданих пошкодженим транспортним засобам, оцінюється в загальну суму 160 тисяч крон. Наразі співробітники поліції продовжують розслідування, щоб встановити всі точні причини та детальні обставини дорожнього інциденту.</p>",
-     "<p>Варто зазначити, що в інформаційному просторі виникла плутанина з даними. Як зазначає видання report.cz, паралельно перевірялися відомості про зовсім іншу аварію, яка сталася в липні цього ж року в районі громади Hlubočky-Mariánské Údolí між автомобілями марок Mitsubishi та Škoda Octavia.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Коли сталася аварія біля Přáslavice?",
-      "a": "ДТП сталося у четвер 10 вересня 2026 року."
-     },
-     {
-      "q": "Які транспортні засоби брали участь у зіткненні?",
-      "a": "В аварії постраждали два автомобілі марки Škoda Fabia та один автомобіль Volkswagen Golf."
-     },
-     {
-      "q": "Чи є постраждалі внаслідок події?",
-      "a": "Так, одна людина отримала травми та була доставлена бригадою RZS до медичного закладу."
-     }
-    ],
-    "impact": ""
-   },
-   "rank": 25.2,
-   "sources": [
-    {
-     "domain": "report.cz",
-     "official": false,
-     "url": "https://www.report.cz/zrejme-mikrospanek-byl-pricinou-dopravni-nehody-u-olomouce",
-     "title": "Zřejmě mikrospánek byl příčinou dopravní nehody u Olomouce | Olomoucký Report - zprávy, doprava, krimi, kultura, sport a další aktuální novinky z Olomouce a Olomouckého kraje"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/09/massovaia-avariia-na-olomoutskom-napravlenii-tri-avto-stolkn-50674da3b9e623a1.webp",
-   "image_w": 1352,
-   "image_h": 924
   }
  ]
 }
