@@ -1,8 +1,199 @@
 {
- "updated_at": "2026-09-21T11:53:22+00:00",
+ "updated_at": "2026-09-21T12:23:57+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n5858",
+   "slug": "gymnazium-na-zatlance-telocvicna-jidelna-novoe-zdanie",
+   "source": "prazskypatriot.cz",
+   "original_url": "https://www.prazskypatriot.cz/novou-telocvicnu-a-jidelnu-otevrela-praha-v-gymnaziu-na-zatlance/",
+   "top": false,
+   "tags": [
+    "praha",
+    "cesko",
+    "zdorovie"
+   ],
+   "published_at": "2026-09-21T14:23:56.539247+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "21 сентября 2026, 14:23",
+    "uk": "21 вересня 2026, 14:23"
+   },
+   "ru": {
+    "title": "Gymnázium Na Zatlance tělocvična jídelna: новое здание",
+    "lede": "Столичные власти открыли новую пристройку с гимнастическим залом и столовой на территории известной пражской школы. Проект обошелся в 130 миллионов крон.",
+    "meta_description": "В Праге открыли новую пристройку к Gymnázium Na Zatlance. Здание включает спортзал и столовую с финской моделью самообслуживания на 500 человек в день.",
+    "paras": [
+     "Столица открыла современную пристройку к известной пражской гимназии на территории района Praha 5. Новое трехэтажное здание возвели прямо во внутреннем дворе учебного заведения, расположенного на улице Na Zatlance.",
+     "Появление спортзала и столовой решило давнюю проблему учебного заведения. Об этом заявил советник по вопросам образования Antonín Klecanda.",
+     "<blockquote>Gymnázium Na Zatlance относится к числу самых востребованных пражских школ, и долгое время было парадоксом, что у школы с такими результатами не было собственного спортивного зала или полноценной столовой. Сегодня это меняется - у студентов наконец-то появились условия, которые соответствуют качеству обучения. Меня особенно радует, что строительство удалось завершить на месяц раньше, чем мы обязались, и что объект работает уже с начала учебного года. Именно так должны выглядеть инвестиции столицы в собственные средние школы.</blockquote>",
+     "Так прокомментировал событие советник по вопросам образования Antonín Klecanda.",
+     "<h3>Параметры нового комплекса</h3>",
+     "Новый объект представляет собой трехэтажное здание с габаритами 20 на 37,5 метра. Между пристройкой и главным корпусом школы проложили два мостика. Один из них выполнен в крытом исполнении, а второй представляет собой открытую лавку с южной стороны.",
+     "Строительные работы стартовали в мае 2024 года. Согласно данным издания press.news, подрядчик передал готовый объект городу 10 июня 2026 года, опередив график более чем на месяц. Общие затраты на возведение пристройки составили около 130 миллионов чешских крон с учетом НДС.",
+     "<h3>Столовая нового типа</h3>",
+     "Столовая зона предлагает 128 посадочных мест за столами. Сама кухня ориентирована на приготовление и разогрев доставляемых блюд, а общая пропускная способность столовой достигает 500 человек за день.",
+     "Особенностью организации питания стала финская модель самообслуживания. По словам директора школы Dagmar Škorpíková, это нововведение нацелено на развитие устойчивого подхода и минимизацию пищевых отходов в средних школах столицы.",
+     "<blockquote>Работа столовой организована в формате самообслуживания, что является первой ласточкой более устойчивого подхода к питанию в рамках питания в средних школах в Праге. Благодаря своей гибкости она предлагает питание для значительно большего числа едоков и в то же время нацелена на устойчивое развитие и сокращение пищевых отходов.</blockquote>",
+     "Об этом рассказала директор Gymnázium Na Zatlance Dagmar Škorpíková."
+    ],
+    "faq": [
+     {
+      "q": "Сколько стоило строительство новой пристройки?",
+      "a": "Стоимость строительства составила около 130 миллионов крон с учетом НДС."
+     },
+     {
+      "q": "Сколько человек может накормить новая столовая?",
+      "a": "Столовая рассчитана на 128 посадочных мест и может обслужить до 500 человек в день."
+     },
+     {
+      "q": "Какая особенность у новой столовой?",
+      "a": "В ней используется система самообслуживания по финской модели, которая направлена на сокращение пищевых отходов."
+     }
+    ],
+    "impact": "Новая инфраструктура доступна учащимся гимназии с начала учебного года. Столовая работает по системе финского самообслуживания и рассчитана на обслуживание до 500 человек ежедневно.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Столица открыла новую трехэтажную пристройку к гимназии на улице Na Zatlance в районе Praha 5.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Строительные работы начались в мае 2024 года, объект передан городу 10 июня 2026 года, опередив график более чем на месяц.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Общие затраты на возведение пристройки составили около 130 миллионов чешских крон с учетом НДС.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Столовая зона предлагает 128 посадочных мест, пропускная способность — 500 человек в день.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "3cdc0621ce988ad86d85c4c3df0e042792ed6ca630eae3ff42dc17865e173430"
+    }
+   },
+   "uk": {
+    "title": "Gymnázium Na Zatlance отримало нову спортзалу та їдальню",
+    "lede": "Столична влада відкрила нову прибудову зі спортзалом та їдальнею на території відомої празької школи. Проєкт обійшовся у 130 мільйонів крон.",
+    "meta_description": "У Празі відкрили нову прибудову до Gymnázium Na Zatlance. Будівля включає спортзал та їдальню з фінською моделлю самообслуговування на 500 осіб на день.",
+    "paras": [
+     "Столиця відкрила сучасну прибудову до відомої празької гімназії на території району Praha 5. Нову триповерхову будівлю звели просто у внутрішньому дворі навчального закладу, розташованого на вулиці Na Zatlance.",
+     "Поява спортзалу та їдальні вирішила давню проблему навчального закладу. Про це заявив радник з питань освіти Antonín Klecanda.",
+     "<blockquote>Gymnázium Na Zatlance належить до числа найзатребуваніших празьких шкіл, і довгий час було парадоксом, що у школи з такими результатами не було власного спортивного залу чи повноцінної їдальні. Сьогодні це змінюється: у студентів нарешті з'явилися умови, які відповідають якості навчання. Мене особливо тішить, що будівництво вдалося завершити на місяць раніше, ніж ми зобов'язувалися, і що об'єкт працює вже з початку навчального року. Саме так мають виглядати інвестиції столиці у власні середні школи.</blockquote>",
+     "Так прокоментував подію радник з питань освіти Antonín Klecanda.",
+     "<h3>Параметри нового комплексу</h3>",
+     "Новий об'єкт являє собою триповерхову будівлю з габаритами 20 на 37,5 метра. Між прибудовою та головним корпусом школи проклали два містки. Один із них виконаний у критому вигляді, а другий являє собою відкриту лавку з південного боку.",
+     "Будівельні роботи стартували у травні 2024 року. Згідно з даними видання press.news, підрядник передав готовий об'єкт місту 10 червня 2026 року, випередивши графік більш ніж на місяць. Загальні витрати на зведення прибудови склали близько 130 мільйонів чеських крон з урахуванням ПДВ.",
+     "<h3>Їдальня нового типу</h3>",
+     "Їдальня зона пропонує 128 посадкових місць за столами. Сама кухня орієнтована на приготування та розігрів доставлених страв, а загальна пропускна здатність їдальні сягає 500 осіб на день.",
+     "Особливістю організації харчування стала фінська модель самообслуговування. За словами директорки школи Dagmar Škorpíková, це нововведення спрямоване на розвиток сталого підходу та мінімізацію харчових відходів у середніх школах столиці.",
+     "<blockquote>Робота їдальні організована у форматі самообслуговування, що є першою ластівкою більш сталого підходу до харчування в рамках харчування в середніх школах у Празі. Завдяки своїй гнучкості вона пропонує харчування для значно більшої кількості їдців і водночас націлена на сталий розвиток та скорочення харчових відходів.</blockquote>",
+     "Про це розповіла директорка Gymnázium Na Zatlance Dagmar Škorpíková."
+    ],
+    "faq": [
+     {
+      "q": "Скільки коштувало будівництво нової прибудови?",
+      "a": "Вартість будівництва склала близько 130 мільйонів крон з урахуванням ПДВ."
+     },
+     {
+      "q": "Скільки людей може нагодувати нова їдальня?",
+      "a": "Їдальня розрахована на 128 посадкових місць і може обслужити до 500 осіб на день."
+     },
+     {
+      "q": "Яка особливість у нової їдальні?",
+      "a": "У ній використовується система самообслуговування за фінською моделлю, яка спрямована на скорочення харчових відходів."
+     }
+    ],
+    "impact": "Новая инфраструктура доступна учащимся гимназии с начала учебного года. Столовая работает по системе финского самообслуживания и рассчитана на обслуживание до 500 человек ежедневно.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Столиця відкрила сучасну триповерхову прибудову зі спортзалом та їдальнею у внутрішньому дворі гімназії на вулиці Na Zatlance.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Будівельні роботи стартували у травні 2024 року, підрядник передав об'єкт місту 10 червня 2026 року, випередивши графік більш ніж на місяць.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Загальні витрати на зведення прибудови склали близько 130 мільйонів чеських крон з урахуванням ПДВ.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Їдальня зона пропонує 128 посадкових місць, а загальна пропускна здатність сягає 500 осіб на день.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "660b493c1b4f607ecb2a431a5b2a5e3d19a8d6edb502f81a6ecda83b25331243"
+    }
+   },
+   "rank": 112.0,
+   "sources": [
+    {
+     "domain": "press.news",
+     "official": false,
+     "url": "https://press.news/cs/article/165314-praha-otevrela-novou-telocvicnu-a-jidelnu-gymnazia-na-zatlance",
+     "title": "Praha otevřela novou tělocvičnu a jídelnu Gymnázia Na Zatlance | PressNews"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/09/gymnazium-na-zatlance-telocvicna-jidelna-novoe-zdanie-e749db4e68448ac8.webp",
+   "images": [
+    "https://img.24n.cz/p/2026/09/gymnazium-na-zatlance-telocvicna-jidelna-novoe-zdanie-794e367eecd4ccf3.webp"
+   ],
+   "photo_spots": [
+    {
+     "url": "https://img.24n.cz/p/2026/09/gymnazium-na-zatlance-telocvicna-jidelna-novoe-zdanie-794e367eecd4ccf3.webp",
+     "after": 4,
+     "caption": "Коридор нового здания с прозрачными переходами между корпусами"
+    }
+   ],
+   "image_w": 600,
+   "image_h": 317,
+   "images_wh": [
+    [
+     750,
+     300
+    ]
+   ]
+  },
   {
    "id": "n5857",
    "slug": "novaia-applikatsiia-pid-litacka-v-prage-chto-izmenitsia-dlia-passazhir",
@@ -16,8 +207,8 @@
    ],
    "published_at": "2026-09-21T13:53:21.334705+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "30 минут назад",
+    "uk": "30 хвилин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 13:53",
@@ -278,8 +469,8 @@
    ],
    "published_at": "2026-09-21T13:20:22.030905+02:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "21 сентября 2026, 13:20",
@@ -549,8 +740,8 @@
    ],
    "published_at": "2026-09-21T13:20:22.030905+02:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "21 сентября 2026, 13:20",
@@ -1048,8 +1239,8 @@
    ],
    "published_at": "2026-09-21T12:12:27.508351+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "21 сентября 2026, 12:12",
@@ -1282,8 +1473,8 @@
    ],
    "published_at": "2026-09-21T11:09:33.494890+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "21 сентября 2026, 11:09",
@@ -1468,7 +1659,7 @@
      "body_sha256": "b5872f99c8d9f413e783d3b863ca440ee4317bddea6a0d69f219c09aa7428b32"
     }
    },
-   "rank": 115.0,
+   "rank": 114.601,
    "image_url": "https://img.24n.cz/p/2026/09/massovyi-sboi-interneta-u-o2-tysiachi-chekhov-ostalis-bez-sv-96fb0c2134733194.webp",
    "image_w": 800,
    "image_h": 450
@@ -1485,8 +1676,8 @@
    ],
    "published_at": "2026-09-21T11:09:33.494890+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "21 сентября 2026, 11:09",
@@ -1663,7 +1854,7 @@
      "body_sha256": "a7eb38c8914a65dcfb1177577161e159f8c4b08641cc1839ed63c4c76d7252cf"
     }
    },
-   "rank": 120.0,
+   "rank": 119.584,
    "image_url": "https://img.24n.cz/p/2026/09/mat-obvinili-v-istiazanii-chetverykh-detei-prosiat-12-let-b1653ee01a0b0a29.webp",
    "image_w": 1200,
    "image_h": 675
@@ -1830,7 +2021,7 @@
      "body_sha256": "388a9c37f2bfdd3cb5792f7afd85894d70734b22906878473cac52fb82986552"
     }
    },
-   "rank": 114.65,
+   "rank": 113.803,
    "image_url": "https://img.24n.cz/p/2026/09/muzhchina-oblil-benzinom-dom-v-regione-karlovy-vary-7932889a99db9f34.webp",
    "image_w": 853,
    "image_h": 480
@@ -2070,7 +2261,7 @@
      "body_sha256": "8188e47ad785bea689be9de264c5fb57b59f4271090ac0d582d1358021122d25"
     }
    },
-   "rank": 104.68
+   "rank": 103.907
   },
   {
    "id": "n5848",
@@ -2084,8 +2275,8 @@
    ],
    "published_at": "2026-09-21T10:04:56.247660+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "21 сентября 2026, 10:04",
@@ -2371,7 +2562,7 @@
      "body_sha256": "d7cef43505087b6421e6cc96dca44dcb14c059d65f2e793274cee93477da6ada"
     }
    },
-   "rank": 98.834
+   "rank": 98.098
   },
   {
    "id": "n5847",
@@ -2605,7 +2796,7 @@
      "body_sha256": "84b38ab139127c55a11d303568d3fbf53ef2b30174a82013ac9f010d45d39bb7"
     }
    },
-   "rank": 98.072,
+   "rank": 97.336,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskie-shkoly-molchat-ob-agressii-proverka-vskryla-proble-6c1421fc28acee01.webp",
    "image_w": 1200,
    "image_h": 674
@@ -2623,8 +2814,8 @@
    ],
    "published_at": "2026-09-21T08:58:06.888845+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 08:58",
@@ -2856,7 +3047,7 @@
      "body_sha256": "14fe78765306ee483700a9d3656d3598f2ba36ec3cd0d036b9e119e7e02d0aa2"
     }
    },
-   "rank": 116.67,
+   "rank": 115.787,
    "image_url": "https://img.24n.cz/p/2026/09/otkaz-ot-snizheniia-vyplat-cheshskie-profsoiuzy-trebuiut-ref-996b25905f5a2608.webp",
    "image_w": 1200,
    "image_h": 675
@@ -3054,7 +3245,7 @@
      "body_sha256": "bd1d8839d1aa8bebf7bcfcbc175bc7a05ed3aa7eac0a7648a9d9d197c344bb41"
     }
    },
-   "rank": 106.048,
+   "rank": 105.238,
    "sources": [
     {
      "domain": "media24.cz",
@@ -3271,7 +3462,7 @@
      "body_sha256": "0e24b764314f18c5fe8daf7b77f0d1712b4de63134454625dd9aa232d7a30e22"
     }
    },
-   "rank": 100.445,
+   "rank": 99.672,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -3541,7 +3732,7 @@
      "body_sha256": "13476a1422fb8a8b7f99799ebd2a1cb6552d1028471884259ce208cf27bc1a76"
     }
    },
-   "rank": 80.061
+   "rank": 79.435
   },
   {
    "id": "n5842",
@@ -3839,7 +4030,7 @@
      "body_sha256": "272a1ccb975aabe28a478d984ac4b502b23d7627bf1eaea31c49fe47120c86a5"
     }
    },
-   "rank": 98.899,
+   "rank": 98.125,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/Eu5mYMavctM"
@@ -3857,8 +4048,8 @@
    ],
    "published_at": "2026-09-21T06:17:36.915436+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 06:17",
@@ -4018,8 +4209,8 @@
    ],
    "published_at": "2026-09-21T06:17:36.915436+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 06:17",
@@ -4296,7 +4487,7 @@
      "body_sha256": "5695fc4836b5836a223cf1d697e5e08c87214a6f736e1965ba9ecab32ea923b6"
     }
    },
-   "rank": 88.693
+   "rank": 87.994
   },
   {
    "id": "n5839",
@@ -4548,7 +4739,7 @@
      "body_sha256": "1cee49b43d5944dcd934a8310cd4e35d8470cdceac0b9d23c6e529670939976e"
     }
    },
-   "rank": 97.174
+   "rank": 96.401
   },
   {
    "id": "n5838",
@@ -4766,7 +4957,7 @@
      "body_sha256": "475928397a14d784d9046bf06b71a0f931d6799566d8b5b185c00deb3ac090db"
     }
    },
-   "rank": 122.005,
+   "rank": 121.018,
    "sources": [
     {
      "domain": "banai.cz",
@@ -4961,7 +5152,7 @@
      "body_sha256": "aead10d3fe7b21db96a6a8e36d42bebb9e2c9e04229b58bb75dd78d8f5b50de4"
     }
    },
-   "rank": 81.944
+   "rank": 81.281
   },
   {
    "id": "n5836",
@@ -5139,7 +5330,7 @@
      "body_sha256": "ab8044a80553517b7410cb35ba80bff928f6a5aeedc78a255b43bc4d3ff713b8"
     }
    },
-   "rank": 95.601,
+   "rank": 94.828,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -5380,7 +5571,7 @@
      "body_sha256": "203ae2c4d42a37315c950a787e910f1ae0067340efa9730cc42bae4953c75468"
     }
    },
-   "rank": 88.59,
+   "rank": 87.861,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -5615,7 +5806,7 @@
      "body_sha256": "536f3d8e5d24cd2a0894daad066ac533d21d9b8b2993f5982aa7ccea605e1e4f"
     }
    },
-   "rank": 96.666,
+   "rank": 95.841,
    "sources": [
     {
      "domain": "europesays.com",
@@ -5658,8 +5849,8 @@
    ],
    "published_at": "2026-09-21T00:17:27.480403+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 00:17",
@@ -5790,7 +5981,7 @@
      "body_sha256": "b34299435f1b67d506e8e9c03ac60739fd2fa4a116ea8e218c5fe6798b79304c"
     }
    },
-   "rank": 93.16,
+   "rank": 92.35,
    "sources": [
     {
      "domain": "timesofindia.indiatimes.com",
@@ -5820,8 +6011,8 @@
    ],
    "published_at": "2026-09-21T00:17:27.480403+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 00:17",
@@ -6054,7 +6245,7 @@
      "body_sha256": "20a8b1755c2cffeb85bc7f313dd74b9f1c3e65b749126bd96546242dacc49e83"
     }
    },
-   "rank": 88.926
+   "rank": 88.152
   },
   {
    "id": "n5831",
@@ -6069,8 +6260,8 @@
    ],
    "published_at": "2026-09-21T00:17:27.480403+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 00:17",
@@ -6258,7 +6449,7 @@
      "body_sha256": "677e4cb6c6b4a43a0961c373b224b8ac77306ebd668d0bdd74eab408e19a8818"
     }
    },
-   "rank": 76.222,
+   "rank": 75.559,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -6296,8 +6487,8 @@
    ],
    "published_at": "2026-09-21T00:17:27.480403+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 00:17",
@@ -6495,7 +6686,7 @@
      "body_sha256": "d4d29a1192f4085d338a18aeca65090259a6d44ed671feb8762e1a857c0bf243"
     }
    },
-   "rank": 97.395
+   "rank": 96.548
   },
   {
    "id": "n5829",
@@ -6742,7 +6933,7 @@
      "body_sha256": "2e830359c3e53db2440f67e5c2824df167a471b75a71a1c9932561d8888526d5"
     }
    },
-   "rank": 91.398,
+   "rank": 90.595,
    "sources": [
     {
      "domain": "media24.cz",
@@ -6930,7 +7121,7 @@
      "body_sha256": "581f1860d2acc7b88afa69f4ac90940ac8cfa00d4f21ff2273086748ef6f3ea3"
     }
    },
-   "rank": 78.837
+   "rank": 78.565
   },
   {
    "id": "n5827",
@@ -7098,7 +7289,7 @@
      "body_sha256": "46893612ad0dfa99f3faae05c209aec866b7130f258c3260b28e3eaaa139521d"
     }
    },
-   "rank": 76.576,
+   "rank": 75.877,
    "sources": [
     {
      "domain": "jihlavsky.denik.cz",
@@ -7285,7 +7476,7 @@
      "body_sha256": "3756207ce8c77dd440c70a06ed1a28a7f72724fab1923d0c4fd6d1ab019caf99"
     }
    },
-   "rank": 72.546,
+   "rank": 71.883,
    "image_url": "https://img.24n.cz/p/2026/09/rabochie-iz-filippin-v-cheshskikh-domakh-vlasti-bessilny-52c4a4c8275e2dde.webp",
    "image_w": 1280,
    "image_h": 720
@@ -7488,7 +7679,7 @@
      "body_sha256": "a34a55b8aa4b41eecac8c92d84a2f4486b7380d69fc47c209af7e4ac28391c00"
     }
    },
-   "rank": 64.485,
+   "rank": 63.896,
    "image_url": "https://img.24n.cz/p/2026/09/pravitelstvo-chekhii-meniaet-status-pravitelstvennykh-soveto-9a3fe3622c192996.webp",
    "image_w": 620,
    "image_h": 349
@@ -7504,8 +7695,8 @@
    ],
    "published_at": "2026-09-20T21:00:49.965841+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 21:00",
@@ -7545,7 +7736,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 67.164
+   "rank": 66.546
   },
   {
    "id": "n5823",
@@ -7559,8 +7750,8 @@
    ],
    "published_at": "2026-09-20T20:22:19.207029+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 20:22",
@@ -7694,7 +7885,7 @@
      "body_sha256": "0f1a0def47e1cd629e20c26dcb8755adc82ec9e896f721a68f819f1bffc92eb8"
     }
    },
-   "rank": 82.982,
+   "rank": 82.209,
    "sources": [
     {
      "domain": "play.cz",
@@ -7733,8 +7924,8 @@
    ],
    "published_at": "2026-09-20T20:22:19.207029+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 20:22",
@@ -7876,7 +8067,7 @@
      "body_sha256": "561b1b85ad230f109c610f67e85bc399bc9373da239a189d7d55259d113d15a7"
     }
    },
-   "rank": 71.127
+   "rank": 70.465
   },
   {
    "id": "n5821",
@@ -7890,8 +8081,8 @@
    ],
    "published_at": "2026-09-20T20:22:19.207029+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 20:22",
@@ -8134,7 +8325,7 @@
      "body_sha256": "6aa87cc6c3d75e387b11c9d283e42d945ee1a1636662568aabb622a3adab9e6a"
     }
    },
-   "rank": 75.079,
+   "rank": 74.379,
    "image_url": "https://img.24n.cz/p/2026/09/v-obshchine-statenice-obsudiat-vypolnenie-itogov-referenduma-89540d088266f129.webp",
    "image_w": 750,
    "image_h": 300
@@ -8152,8 +8343,8 @@
    ],
    "published_at": "2026-09-20T19:13:54.399909+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 19:13",
@@ -8392,7 +8583,7 @@
      "body_sha256": "8841e37c1caf1c8656e582fe26d279ead0d9fe016c6a123f49b14876f8741194"
     }
    },
-   "rank": 88.991,
+   "rank": 88.144,
    "image_url": "https://img.24n.cz/p/2026/09/novye-posobiia-nalogovye-lgoty-i-vozvrashchenie-shkolkovogo-70dad6bdf9eaf599.webp",
    "image_w": 1366,
    "image_h": 910
@@ -8408,8 +8599,8 @@
    ],
    "published_at": "2026-09-20T19:01:57.212779+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 19:01",
@@ -8495,7 +8686,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 66.302
+   "rank": 65.669
   },
   {
    "id": "n5818",
@@ -8510,8 +8701,8 @@
    ],
    "published_at": "2026-09-20T18:09:41.979316+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 18:09",
@@ -8677,7 +8868,7 @@
      "body_sha256": "efe3c05033432848c2b2b7beed1d4ab15f8bf0d9c61c79a81a504e07c8797b7e"
     }
    },
-   "rank": 84.938,
+   "rank": 84.113,
    "sources": [
     {
      "domain": "europesays.com",
@@ -8702,8 +8893,8 @@
    ],
    "published_at": "2026-09-20T18:09:41.979316+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 18:09",
@@ -8919,7 +9110,7 @@
      "body_sha256": "b132a4d823c7401f1051d954092eba40d97f1f95f3b01c579d084084bfa93f3b"
     }
    },
-   "rank": 72.046,
+   "rank": 71.346,
    "sources": [
     {
      "domain": "media24.cz",
@@ -8958,8 +9149,8 @@
    ],
    "published_at": "2026-09-20T18:09:41.979316+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "20 сентября 2026, 18:09",
@@ -9117,7 +9308,7 @@
      "body_sha256": "7591d7040664269ba8165869b3acf3f0ad91c0b42bd3243b130598fe05941e30"
     }
    },
-   "rank": 53.086,
+   "rank": 52.571,
    "image_url": "https://img.24n.cz/p/2026/09/v-tsentre-pragi-otkrylas-pervaia-obshchestvennaia-ploshchadk-a666e44c98cfa7b5.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-tsentre-pragi-otkrylas-pervaia-obshchestvennaia-ploshchadk-2fca9e6d1736c0e2.webp",
@@ -9161,8 +9352,8 @@
    ],
    "published_at": "2026-09-20T17:05:00.482380+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "20 сентября 2026, 17:05",
@@ -9383,7 +9574,7 @@
      "body_sha256": "81c43c030aec768f8d8002c3ae63e0b7c2e0ff3d322c517d4ee8d5786550debb"
     }
    },
-   "rank": 83.565,
+   "rank": 82.737,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -9423,8 +9614,8 @@
    ],
    "published_at": "2026-09-20T17:05:00.482380+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "20 сентября 2026, 17:05",
@@ -9601,7 +9792,7 @@
      "body_sha256": "a3327a45e773ea49c4fe3c42863d5b45b0710b77366eaa2779f13b71cd367f1c"
     }
    },
-   "rank": 98.836,
+   "rank": 98.479,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-khotiat-zapretit-prodazhu-alkogolia-po-nocham-v-maga-fdf96e3caf3ed3e8.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-prage-khotiat-zapretit-prodazhu-alkogolia-po-nocham-v-maga-337c2b6d1401477a.webp"
@@ -9634,8 +9825,8 @@
    ],
    "published_at": "2026-09-20T16:01:14.761464+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "20 сентября 2026, 16:01",
@@ -9779,7 +9970,7 @@
      "body_sha256": "a1fb31e0351d880a9146b63a69644bc4a8826a5f28e6953e3dd0ddf753a31d1c"
     }
    },
-   "rank": 65.471,
+   "rank": 64.808,
    "image_url": "https://img.24n.cz/p/2026/09/shef-skoda-auto-klaus-zellmer-ukhodit-rukovodit-volvo-6fcbfc2722bb1951.webp",
    "image_w": 1200,
    "image_h": 675
@@ -9796,8 +9987,8 @@
    ],
    "published_at": "2026-09-20T16:01:14.761464+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "20 сентября 2026, 16:01",
@@ -9998,7 +10189,7 @@
      "body_sha256": "b76325c6450344abebd9756afeba7036a5c031fb30e4c68774e95b3b3121a6dc"
     }
    },
-   "rank": 65.471,
+   "rank": 64.808,
    "sources": [
     {
      "domain": "archiweb.cz",
@@ -10037,8 +10228,8 @@
    ],
    "published_at": "2026-09-20T16:01:14.761464+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "20 сентября 2026, 16:01",
@@ -10178,7 +10369,7 @@
      "body_sha256": "1881bc0764289a95fa082dc976f92ffa5b522bf3df9d7219b06d2c5f8ab33e16"
     }
    },
-   "rank": 98.206,
+   "rank": 97.212,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -10215,8 +10406,8 @@
    ],
    "published_at": "2026-09-20T13:54:38.372959+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "20 сентября 2026, 13:54",
@@ -10370,7 +10561,7 @@
      "body_sha256": "28b712ec8d7eed7e9597fa2b9360d4c427ed49a60ecb83eeb1b56a7e6a3b7925"
     }
    },
-   "rank": 72.485,
+   "rank": 71.719,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10561,7 +10752,7 @@
      "body_sha256": "4b0ee5a1986a1342e2e17981a8766a7dc3519dcc7539b351fd85ce6584952375"
     }
    },
-   "rank": 76.344,
+   "rank": 75.519,
    "sources": [
     {
      "domain": "europesays.com",
@@ -10776,7 +10967,7 @@
      "body_sha256": "09d37b3d1d0073986be29f7389ad7662bc097b5e69feb45745553f1d0faca8bd"
     }
    },
-   "rank": 69.528,
+   "rank": 68.777,
    "sources": [
     {
      "domain": "media24.cz",
@@ -10942,7 +11133,7 @@
      "body_sha256": "2578daa108668c1870c888492714ed50ec1f666ec49549a9ae1b6916a2eed868"
     }
    },
-   "rank": 67.908,
+   "rank": 67.653,
    "image_url": "https://img.24n.cz/p/2026/09/detskie-sady-v-litomerice-sokrashchaiut-klassy-iz-za-spada-r-58a77f1d41103400.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/detskie-sady-v-litomerice-sokrashchaiut-klassy-iz-za-spada-r-b3bae0fa1bb71d25.webp"
@@ -11227,7 +11418,7 @@
      "body_sha256": "fc80621ab19f08825e8bf094a0b8846a5e7d3f3de69c79e0b06f438ad10147ea"
     }
    },
-   "rank": 64.896,
+   "rank": 64.16,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-zakroet-rodilnye-doma-s-menee-chem-600-rodami-v-god-d12d612341e0defb.webp",
    "image_w": 630,
    "image_h": 350
@@ -11394,7 +11585,7 @@
      "body_sha256": "ec4ff99f5c9b510c01f84a0a16ab03f1a9074ea8c67453bd4cbe41d642de0eaa"
     }
    },
-   "rank": 58.278,
+   "rank": 57.6,
    "sources": [
     {
      "domain": "roxy.cz",
@@ -11626,7 +11817,7 @@
      "body_sha256": "99b1070a27980bab1c6b806e89e49fee4f67ea66beac32800917736a455fc0d7"
     }
    },
-   "rank": 76.014,
+   "rank": 75.131,
    "image_url": "https://img.24n.cz/p/2026/09/tseny-mhd-a-parkovani-v-prage-zustavaji-bez-dohody-5a6d1af510607955.webp",
    "image_w": 750,
    "image_h": 300
@@ -11776,7 +11967,7 @@
      "body_sha256": "dd06e79f1095182457c2e71ba7c8b8889a4a4c5ee3f3a73888e54a5bfec685de"
     }
    },
-   "rank": 54.954,
+   "rank": 54.298,
    "sources": [
     {
      "domain": "europesays.com",
@@ -12011,7 +12202,7 @@
      "body_sha256": "4337e24a464747643a39c7fb5f984218e0fc971707a03c88eaa8b095c61389a6"
     }
    },
-   "rank": 58.659,
+   "rank": 57.959,
    "image_url": "https://img.24n.cz/p/2026/09/dubovye-lavochki-na-naberezhnoi-vltavy-v-prage-pochemu-tresk-19dfa4b1c4e037b7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12256,7 +12447,7 @@
      "body_sha256": "2ef8b710e1169892756673379b89c4ab8a9db595068948815d37fef2d2026599"
     }
    },
-   "rank": 57.253,
+   "rank": 56.554,
    "image_url": "https://img.24n.cz/p/2026/09/chuzhoi-obed-v-cheshskom-fastfude-kto-vinovat-i-chto-delat-9a06371aaf8b79d9.webp",
    "image_w": 1200,
    "image_h": 660
@@ -12497,7 +12688,7 @@
      "body_sha256": "b4998a7ff4635cddb0f290d3387fa54e1c126005101fa88c3e111df5eb757e71"
     }
    },
-   "rank": 60.266,
+   "rank": 59.53,
    "image_url": "https://img.24n.cz/p/2026/09/vybory-v-jesenik-programma-kandidatov-i-plany-na-budushchee-58089dd529b6eaf0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/vybory-v-jesenik-programma-kandidatov-i-plany-na-budushchee-87e97b7006bb48cd.webp",
@@ -12734,7 +12925,7 @@
      "body_sha256": "3376be4a1a1e942f1d60c17e063a2424a74ef5eacd85f5e27ddc3aa702f52539"
     }
    },
-   "rank": 57.253,
+   "rank": 56.554,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/AzDgiJaAtro"
@@ -12965,7 +13156,7 @@
      "body_sha256": "8c115defb13cc87768ad4d4f0564505fc6ab250867159d298012dbc7c365150e"
     }
    },
-   "rank": 73.525,
+   "rank": 72.627,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -13156,7 +13347,7 @@
      "body_sha256": "87dd35fff5b3a141e1a3f38f59482d17ea06412146cbce40e6ed890b7108f1b6"
     }
    },
-   "rank": 44.0,
+   "rank": 43.448,
    "image_url": "https://img.24n.cz/p/2026/09/kuda-poekhat-s-detmi-v-pelhrimov-gid-po-rekordam-i-tainam-6e5af63a788043c5.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/kuda-poekhat-s-detmi-v-pelhrimov-gid-po-rekordam-i-tainam-746f8fbfeee7df38.webp",
@@ -13376,7 +13567,7 @@
      "body_sha256": "7e211f9bcca168552cf8cdc6ad7fb27df19a93fa0c3b05226670bf69039007d1"
     }
    },
-   "rank": 32.267,
+   "rank": 31.862,
    "image_url": "https://img.24n.cz/p/2026/09/lektsiia-k-120-letiiu-prazhskoi-kanalizatsii-istoriia-i-trud-e0935fe8800d6bbb.webp",
    "image_w": 600,
    "image_h": 315
@@ -13594,7 +13785,7 @@
      "body_sha256": "9f0e77dcfad7e22e4f6ea59faa1df13e3a1137c7ba17ae0869a3bd20fb452c0e"
     }
    },
-   "rank": 42.857,
+   "rank": 42.305,
    "image_url": "https://img.24n.cz/p/2026/09/samye-neobychnye-skaly-chekhii-gid-po-prichudlivym-obrazovan-7577f9a69baf3307.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/samye-neobychnye-skaly-chekhii-gid-po-prichudlivym-obrazovan-d73ab11a9542a859.webp",
@@ -13857,7 +14048,7 @@
      "body_sha256": "df13bc61e76791b1664ddddf4e8a23553b01b033c87bc9e552847c0dce7cf863"
     }
    },
-   "rank": 54.286,
+   "rank": 53.587,
    "image_url": "https://img.24n.cz/p/2026/09/voennaia-bolnitsa-v-prage-uzhestochila-pravila-o-zdorove-pre-90bf7d91787501c3.webp",
    "image_w": 620,
    "image_h": 349
@@ -14043,7 +14234,7 @@
      "body_sha256": "a68efdbd50c3b00eafb2ee5d54631e98f273bbb1f194dc382a465bbc71f5490f"
     }
    },
-   "rank": 41.691,
+   "rank": 41.139,
    "image_url": "https://img.24n.cz/p/2026/09/vincent-van-gogh-v-prage-kde-videt-zelene-obili-dd46831fd7193fa0.webp",
    "images": [
     "https://cdn.kudyznudy.cz/files/75/75b33c6e-dc26-422e-9aa8-5ca3dac3f5c7.webp?v=20241021070448",
@@ -14323,7 +14514,7 @@
      "body_sha256": "dc060eb41bbbe118eadb8f385b675f352608d9a23388090948ef6f9b3b32bcdb"
     }
    },
-   "rank": 58.368,
+   "rank": 57.595,
    "image_url": "https://img.24n.cz/p/2026/09/zarplaty-v-chekhii-v-prage-na-tret-vyshe-chem-v-regionakh-1a792813301971cb.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zarplaty-v-chekhii-v-prage-na-tret-vyshe-chem-v-regionakh-d6de22c5b52a6acd.webp"
@@ -14499,7 +14690,7 @@
      "body_sha256": "207dbbfe111786f2065f73c6355ec2f2d4dcbf14c68d6e7c902df5c1e568a5cd"
     }
    },
-   "rank": 53.296,
+   "rank": 52.523,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -14723,7 +14914,7 @@
      "body_sha256": "6d2bf386a1589dc6fe8c312aa6039cb82d385d7696a44c0cfb51ac6447064cb2"
     }
    },
-   "rank": 58.702,
+   "rank": 57.826,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -14916,7 +15107,7 @@
      "body_sha256": "026386530ba623f52687cb8aad316d2f7cac4099568407566496d303f0840efa"
     }
    },
-   "rank": 46.863,
+   "rank": 46.164,
    "sources": [
     {
      "domain": "slovacky.denik.cz",
@@ -15174,7 +15365,7 @@
      "body_sha256": "d250c5443d99ff27146a1f371412434bc278e78e3d41ef46dce1a2aa3f1e8e65"
     }
    },
-   "rank": 35.745,
+   "rank": 35.193,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-proidet-gonka-na-lodkakh-cherez-tri-istoricheskikh-s-2707e7215d133d59.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-prage-proidet-gonka-na-lodkakh-cherez-tri-istoricheskikh-s-a31fd3defd198e90.webp",
@@ -15259,7 +15450,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 38.041
+   "rank": 37.422
   },
   {
    "id": "n5786",
@@ -15451,7 +15642,7 @@
      "body_sha256": "d3d1967d48cdf16a11c7d3fdb5afa8b134a9743a76e9bbeb860222e68d38d252"
     }
    },
-   "rank": 57.496,
+   "rank": 56.546,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -15686,7 +15877,7 @@
      "body_sha256": "7bc576ce4e95e5a4a00e4de04dc46c09f9c2047ab8ead1445c0d7cbf58a02a8c"
     }
    },
-   "rank": 34.32,
+   "rank": 33.753,
    "sources": [
     {
      "domain": "dvojka.rozhlas.cz",
@@ -15924,7 +16115,7 @@
      "body_sha256": "af4aeed8edc37ab61026f059de78db7a1a1b134df015fd396a8dc491474bb578"
     }
    },
-   "rank": 30.139
+   "rank": 29.623
   },
   {
    "id": "n5783",
@@ -16144,7 +16335,7 @@
      "body_sha256": "cec93fab09653c585922e26fac6bff343c58dc14296547e156e4d546e6ee0790"
     }
    },
-   "rank": 42.625,
+   "rank": 41.896,
    "sources": [
     {
      "domain": "byznys.hn.cz",
@@ -16445,7 +16636,7 @@
      "body_sha256": "4e005adc4d1e37479648c71837214b61d15f579987737a3f24bf5576da76ed5b"
     }
    },
-   "rank": 50.641,
+   "rank": 49.742,
    "sources": [
     {
      "domain": "acr.mo.gov.cz",
@@ -16786,7 +16977,7 @@
      "body_sha256": "2bb897dc756aa3ebbf3ca45307fc24afbc63f0825a062e6d836ed8c20e0dd5da"
     }
    },
-   "rank": 78.274,
+   "rank": 77.935,
    "image_url": "https://img.24n.cz/p/2026/09/novyi-ognezashchitnyi-sostav-dlia-arkhivnykh-korobok-spasaet-b7b1cf0c18532f42.webp",
    "image_w": 1600,
    "image_h": 1067
@@ -16961,7 +17152,7 @@
      "body_sha256": "967471d0a8a8f24dce8565e9a8d0797a7b4462b31e4511f552a2632de46decf8"
     }
    },
-   "rank": 39.977,
+   "rank": 39.211,
    "sources": [
     {
      "domain": "acr.mo.gov.cz",
@@ -17185,7 +17376,7 @@
      "body_sha256": "d39cdbe1e183e8114f422d71214edffcca68b3c6bed46c731ceb53e8227651b2"
     }
    },
-   "rank": 40.361,
+   "rank": 39.588,
    "image_url": "https://img.24n.cz/p/2026/09/spory-vokrug-zaiavlenii-filip-turek-reaktsiia-ministra-petr-ca09d29f0ff44b0a.webp",
    "image_w": 1200,
    "image_h": 675
@@ -17420,7 +17611,7 @@
      "body_sha256": "baa81e0a796f11a700d0a128559a55f6babdb5cc092e712fa13a4ba4a7eb736a"
     }
    },
-   "rank": 35.023,
+   "rank": 34.324,
    "sources": [
     {
      "domain": "zameksvijany.cz",
@@ -17761,7 +17952,7 @@
      "body_sha256": "3a9cb8931b134d1387416a097e426213117d9d02e04a640721b5c757ad41771f"
     }
    },
-   "rank": 30.231,
+   "rank": 29.627,
    "sources": [
     {
      "domain": "media24.cz",
@@ -17961,7 +18152,7 @@
      "body_sha256": "a136f9e32eb4796ff55670c9c7665309b7176ebe973fc80eb295849aa52293ea"
     }
    },
-   "rank": 42.397,
+   "rank": 41.55,
    "sources": [
     {
      "domain": "media24.cz",
@@ -17998,8 +18189,8 @@
    ],
    "published_at": "2026-09-19T14:03:38.432100+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "19 сентября 2026, 14:03",
@@ -18144,7 +18335,7 @@
      "body_sha256": "80760a9f70daf27603fcce00a0fbdd8166e67423b6551787e80ca593c55bb099"
     }
    },
-   "rank": 31.37,
+   "rank": 31.15,
    "sources": [
     {
      "domain": "media24.cz",
@@ -18178,8 +18369,8 @@
    ],
    "published_at": "2026-09-19T14:03:38.432100+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "19 сентября 2026, 14:03",
@@ -18426,7 +18617,7 @@
      "body_sha256": "9c8d780a0b7c207642fa9271796f63c0a3c6bdd3404b27f390b51e00d647c49c"
     }
    },
-   "rank": 45.469,
+   "rank": 45.15,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -31673,7 +31864,7 @@
      "body_sha256": "aeff0b98149bf12db1d42a212776d20896d9f3e178183b67163bcfba24f9cf42"
     }
    },
-   "rank": 49.932,
+   "rank": 49.653,
    "sources": [
     {
      "domain": "media24.cz",
@@ -32218,8 +32409,8 @@
    ],
    "published_at": "2026-09-18T14:10:35.372632+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "18 сентября 2026, 14:10",
@@ -32542,8 +32733,8 @@
    ],
    "published_at": "2026-09-18T14:10:35.372632+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "18 сентября 2026, 14:10",
@@ -32873,8 +33064,8 @@
    ],
    "published_at": "2026-09-18T14:10:35.372632+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "18 сентября 2026, 14:10",
@@ -48708,8 +48899,8 @@
    ],
    "published_at": "2026-09-17T14:00:12.231639+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "17 сентября 2026, 14:00",
@@ -63100,143 +63291,6 @@
      563
     ]
    ]
-  },
-  {
-   "id": "n5558",
-   "slug": "rekonstruktsiia-parka-kampa-v-prage-nachnetsia-posle-resheniia-antimon",
-   "source": "prazskypatriot.cz",
-   "original_url": "https://www.prazskypatriot.cz/revitalizace-parku-kampa-za-62-8-milionu-korun-muze-diky-rozhodnuti-uohs-zacit/",
-   "top": false,
-   "tags": [
-    "praha",
-    "cesko",
-    "zakon"
-   ],
-   "published_at": "2026-09-16T02:22:58.962244+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "16 сентября 2026, 02:22",
-    "uk": "16 вересня 2026, 02:22"
-   },
-   "ru": {
-    "title": "Реконструкция парка Кампа в Праге начнётся после решения антимонопольного ведомства",
-    "lede": "Прага 1 получила зелёный свет на реконструкцию парка Кампа стоимостью 62,8 миллиона крон. Антимонопольное ведомство отклонило жалобу на тендер, и теперь городской округ может заключить контракт с подрядчиком.",
-    "meta_description": "Прага 1 получила разрешение на реконструкцию парка Кампа за 62,8 млн крон. Проект включает обновление дорожек, озеленение, детскую площадку и освещение.",
-    "paras": [
-     "<p>Прага 1 может приступить к реконструкции парка <b>Kampa</b> после того, как Управление по защите конкуренции (<b>ÚOHS</b>) отклонило жалобу на результаты тендера. Решение вступило в законную силу 15 сентября, что позволяет городскому округу заключить контракт с выбранным подрядчиком.</p>",
-     "<p>Победителем тендера стало <b>Konsorcium park KAMPA</b>, в которое вошли компании <b>PSS Bohemia</b>, <b>Vojanovy sady</b> и <b>Zahradní architektura Kurz</b>. Их предложение составило 51,9 миллиона крон без НДС - около 62,8 миллиона крон с учётом налога. Это на 16,7 миллиона крон меньше, чем изначально заложенный бюджет в 79,5 миллиона крон.</p>",
-     "<h3>Долгий путь к тендеру</h3>",
-     "<p>Первый тендер на реконструкцию парка завершился в октябре 2025 года, но был отменён из-за нарушений со стороны победителя. Компания <b>Vojanovy sady</b> не предоставила все необходимые документы, а одна из её рекомендаций оказалась старше пяти лет - срок, установленный условиями конкурса. Ошибку в справке допустил не подрядчик, а заказчик референсного проекта, но это не спасло ситуацию.</p>",
-     "<p>После исключения единственного участника тендер пришлось проводить заново. Новый конкурс стартовал в январе 2026 года и принёс несколько предложений. Однако и этот этап не обошёлся без проблем: компания, не участвовавшая в тендере, подала жалобу в <b>ÚOHS</b>, требуя пересмотра результатов. Ведомство отклонило её претензии сначала на первом этапе, а затем и после апелляции.</p>",
-     "<blockquote>«Пересмотр затянул проект на несколько месяцев, но теперь эта глава закрыта. Главное, что процедура Праги 1 выдержала проверку, и мы можем сосредоточиться на самой реконструкции. График работ согласуем с подрядчиком и опубликуем», заявила заместитель мэра по вопросам окружающей среды <b>Kateřina Klasnová</b>.</blockquote>",
-     "<p><b>Kateřina Klasnová</b> также выразила недоумение по поводу действий компании, подавшей жалобу: «Мне очень жаль, что возникли такие сложности. Особенно в случае последней жалобы создаётся впечатление, что это была обструкция с целью затянуть реконструкцию. Претензии поступили за несколько минут до закрытия тендера, хотя на них уже были даны ответы. Всё это соответствует закону, но не здравому смыслу. Фирма, подавшая жалобу, даже не участвовала в тендере и, думаю, не собиралась этого делать».</p>",
-     "<h3>Что изменится в парке</h3>",
-     "<p>Реконструкция сохранит основной облик и планировку парка <b>Kampa</b>, но принесёт ряд улучшений:</p>",
-     "<ul>",
-     "<li>обновление дорожек с сохранением их текущей трассировки;</li>",
-     "<li>уход за зелёными насаждениями и посадка новых деревьев и кустарников;</li>",
-     "<li>замена уличной мебели;</li>",
-     "<li>установка освещения типа <b>Pražská lucerna</b>;</li>",
-     "<li>новое ограждение вдоль канала <b>Čertovka</b>;</li>",
-     "<li>питьевые фонтанчики и системы распыления воды;</li>",
-     "<li>площадка для игры в петанк;</li>",
-     "<li>обновление детской площадки с установкой перголы для тени;</li>",
-     "<li>озеленение крыши общественного туалета.</li>",
-     "</ul>",
-     "<p>На работы по детской площадке Прага 1 получила грант от городского магистрата в рамках программы поддержки экологических проектов. Ещё 8 миллионов крон выделено из европейских фондов на развитие «зелёной инфраструктуры». Общая сумма финансирования покрывает все расходы: 8 миллионов крон уже получены от магистрата, 6 миллионов - на освещение от компании <b>Technologie hlavního města Prahy</b>, а остальное покроет бюджет округа.</p>",
-     "<p>Проект разрабатывался с учётом мнения горожан. В анкетах, общественных обсуждениях и прогулках с комментариями приняли участие почти 600 человек. Их пожелания учла архитектор <b>Magdalena Kurfürstová</b> из студии <b>TAK</b>.</p>",
-     "<blockquote>«Я рада, что после стольких лет мы наконец-то подошли к этому этапу. Нет больше причин откладывать обновление Кампы. Прага 1 действовала прозрачно, выбор подрядчика прошёл проверку, и проект получил поддержку как жителей, так и экспертов. Теперь наша задача - обеспечить, чтобы реализация была такой же качественной, как подготовка», сказала мэр Праги 1 <b>Terezie Radoměřská</b>.</blockquote>",
-     "<h3>Когда начнутся работы</h3>",
-     "<p>Теперь, когда решение <b>ÚOHS</b> вступило в силу, Прага 1 может подписать контракт с подрядчиком. Точные сроки начала работ будут согласованы с <b>Konsorcium park KAMPA</b> и опубликованы позже. Заместитель мэра <b>Kateřina Klasnová</b> подчеркнула, что работы организуют так, чтобы минимизировать неудобства для жителей, посетителей парка и местных предпринимателей.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Когда начнётся реконструкция парка Кампа?",
-      "a": "Работы начнутся после того, как Прага 1 заключит контракт с подрядчиком. Точный график будет согласован с Konsorcium park KAMPA и опубликован позже."
-     },
-     {
-      "q": "Сколько будет стоить реконструкция парка Кампа?",
-      "a": "Стоимость проекта составит 62,8 миллиона крон с учётом НДС. Это на 16,7 миллиона крон меньше, чем изначально запланированный бюджет."
-     },
-     {
-      "q": "Что именно изменится в парке Кампа?",
-      "a": "В рамках реконструкции будут обновлены дорожки, зелёные насаждения, уличная мебель, освещение, ограждение вдоль Čertovka, установлены питьевые фонтанчики, площадка для петанка, улучшена детская площадка и озеленена крыша общественного туалета."
-     },
-     {
-      "q": "Кто будет заниматься реконструкцией парка Кампа?",
-      "a": "Подрядчиком выступает Konsorcium park KAMPA, в которое входят компании PSS Bohemia, Vojanovy sady и Zahradní architektura Kurz."
-     }
-    ],
-    "impact": "Реконструкция парка Кампа коснётся всех жителей и гостей Праги 1. Работы начнутся после подписания контракта с подрядчиком, а их график будет опубликован на сайте городского округа. Проект стоимостью 62,8 миллиона крон улучшит инфраструктуру парка, сохранив его исторический облик."
-   },
-   "uk": {
-    "title": "Реконструкція парку Kampa у Празі почнеться після рішення антимонопольного відомства",
-    "lede": "Прага 1 отримала зелене світло на реконструкцію парку Kampa вартістю 62,8 мільйона крон. Антимонопольне відомство відхилило скаргу на тендер, і тепер міська частина може укласти контракт із підрядником.",
-    "meta_description": "Прага 1 отримала дозвіл на реконструкцію парку Kampa за 62,8 млн крон. Проєкт включає оновлення доріжок, озеленення, дитячий майданчик та освітлення.",
-    "paras": [
-     "<p>Прага 1 може розпочати реконструкцію парку <b>Kampa</b> після того, як Управління із захисту конкуренції (<b>ÚOHS</b>) відхилило скаргу на результати тендеру. Рішення набуло законної сили 15 вересня, що дозволяє міській частині укласти контракт із обраним підрядником.</p>",
-     "<p>Переможцем тендеру стало <b>Konsorcium park KAMPA</b>, до якого увійшли компанії <b>PSS Bohemia</b>, <b>Vojanovy sady</b> та <b>Zahradní architektura Kurz</b>. Їхня пропозиція склала 51,9 мільйона крон без ПДВ - близько 62,8 мільйона крон з урахуванням податку. Це на 16,7 мільйона крон менше, ніж спочатку закладений бюджет у 79,5 мільйона крон.</p>",
-     "<h3>Довгий шлях до тендеру</h3>",
-     "<p>Перший тендер на реконструкцію парку завершився у жовтні 2025 року, але був скасований через порушення з боку переможця. Компанія <b>Vojanovy sady</b> не надала всі необхідні документи, а одна з її рекомендацій виявилася старшою за п'ять років - термін, встановлений умовами конкурсу. Помилку в довідці припустився не підрядник, а замовник референсного проєкту, але це не врятувало ситуацію.</p>",
-     "<p>Після виключення єдиного учасника тендер довелося проводити наново. Новий конкурс стартував у січні 2026 року і приніс кілька пропозицій. Однак і цей етап не обійшовся без проблем: компанія, яка не брала участі в тендері, подала скаргу до <b>ÚOHS</b>, вимагаючи перегляду результатів. Відомство відхилило її претензії спочатку на першому етапі, а згодом і після апеляції.</p>",
-     "<blockquote>«Перегляд затягнув проєкт на кілька місяців, але тепер ця глава закрита. Головне, що процедура Праги 1 витримала перевірку, і ми можемо зосередитися на самій реконструкції. Графік робіт узгодимо з підрядником та опублікуємо», заявила заступниця мера з питань довкілля <b>Kateřina Klasnová</b>.</blockquote>",
-     "<p><b>Kateřina Klasnová</b> також висловила подив щодо дій компанії, яка подала скаргу: «Мені дуже шкода, що виникли такі складнощі. Особливо у випадку останньої скарги створюється враження, що це була обструкція з метою затягнути реконструкцію. Претензії надійшли за кілька хвилин до закриття тендеру, хоча на них уже було дано відповіді. Все це відповідає закону, але не здоровому глузду. Фірма, що подала скаргу, навіть не брала участі в тендері і, думаю, не збиралася цього робити».</p>",
-     "<h3>Що зміниться у парку</h3>",
-     "<p>Реконструкція збереже основний вигляд та планування парку <b>Kampa</b>, але принесе низку поліпшень:</p>",
-     "<ul>",
-     "<li>оновлення доріжок зі збереженням їх поточної трасування;</li>",
-     "<li>догляд за зеленими насадженнями та посадка нових дерев і чагарників;</li>",
-     "<li>заміна вуличних меблів;</li>",
-     "<li>встановлення освітлення типу <b>Pražská lucerna</b>;</li>",
-     "<li>нове огородження вздовж каналу <b>Čertovka</b>;</li>",
-     "<li>питні фонтанчики та системи розпилення води;</li>",
-     "<li>майданчик для гри в петанк;</li>",
-     "<li>оновлення дитячого майданчика з встановленням перголи для тіні;</li>",
-     "<li>озеленення даху громадського туалету.</li>",
-     "</ul>",
-     "<p>На роботи з дитячим майданчиком Прага 1 отримала грант від міського магістрату в рамках програми підтримки екологічних проєктів. Ще 8 мільйонів крон виділено з європейських фондів на розвиток «зеленої інфраструктури». Загальна сума фінансування покриває всі витрати: 8 мільйонів крон уже отримано від магістрату, 6 мільйонів - на освітлення від компанії <b>Technologie hlavního města Prahy</b>, а решту покриє бюджет округу.</p>",
-     "<p>Проєкт розроблявся з урахуванням думки городян. В анкетах, громадських обговореннях та прогулянках із коментарями взяли участь майже 600 людей. Їхні побажання врахувала архітекторка <b>Magdalena Kurfürstová</b> зі студії <b>TAK</b>.</p>",
-     "<blockquote>«Я рада, що після стількох років ми нарешті підійшли до цього етапу. Немає більше причин відкладати оновлення Кампы. Прага 1 діяла прозоро, вибір підрядника пройшов перевірку, і проєкт отримав підтримку як мешканців, так і експертів. Тепер наше завдання - забезпечити, щоб реалізація була такою ж якісною, як підготовка», сказала мер Праги 1 <b>Terezie Radoměřská</b>.</blockquote>",
-     "<h3>Коли почнуться роботи</h3>",
-     "<p>Тепер, коли рішення <b>ÚOHS</b> набуло чинності, Прага 1 може підписати контракт із підрядником. Точні терміни початку робіт будуть узгоджені з <b>Konsorcium park KAMPA</b> та опубліковані пізніше. Заступниця мера <b>Kateřina Klasnová</b> наголосила, що роботи організують так, щоб мінімізувати незручності для мешканців, відвідувачів парку та місцевих підприємців.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Коли почнеться реконструкція парку Kampa?",
-      "a": "Роботи почнуться після того, як Прага 1 укладе контракт із підрядником. Точний графік буде узгоджений із Konsorcium park KAMPA та опублікований пізніше."
-     },
-     {
-      "q": "Скільки коштуватиме реконструкція парку Kampa?",
-      "a": "Вартість проєкту складе 62,8 мільйона крон з урахуванням ПДВ. Це на 16,7 мільйона крон менше, ніж спочатку запланований бюджет."
-     },
-     {
-      "q": "Що саме зміниться у парку Kampa?",
-      "a": "У рамках реконструкції будуть оновлені доріжки, зелені насадження, вуличні меблі, освітлення, огородження вздовж Čertovka, встановлені питні фонтанчики, майданчик для петанку, поліпшений дитячий майданчик та озеленений дах громадського туалету."
-     },
-     {
-      "q": "Хто займатиметься реконструкцією парку Kampa?",
-      "a": "Підрядником виступає Konsorcium park KAMPA, до якого входять компанії PSS Bohemia, Vojanovy sady та Zahradní architektura Kurz."
-     }
-    ],
-    "impact": "Реконструкция парка Кампа коснётся всех жителей и гостей Праги 1. Работы начнутся после подписания контракта с подрядчиком, а их график будет опубликован на сайте городского округа. Проект стоимостью 62,8 миллиона крон улучшит инфраструктуру парка, сохранив его исторический облик."
-   },
-   "rank": 39.2,
-   "sources": [
-    {
-     "domain": "praha1.cz",
-     "official": false,
-     "url": "https://www.praha1.cz/revitalizaci-kampy-zdrzuje-prezkum-zakazky-praha-1-ma-vybraneho-dodavatele/",
-     "title": "Revitalizaci Kampy zdržuje přezkum zakázky. Praha 1 má vybraného dodavatele | Praha 1"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/09/rekonstruktsiia-parka-kampa-v-prage-nachnetsia-posle-resheni-4b3a4b7aec6dadde.webp",
-   "image_w": 750,
-   "image_h": 300
   }
  ]
 }
