@@ -1,8 +1,106 @@
 {
- "updated_at": "2026-09-21T18:54:58+00:00",
+ "updated_at": "2026-09-21T19:00:51+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n5870",
+   "slug": "itogi-dnia-metro-d-zarplaty-silovikov-i-sboi-o2",
+   "source": "24n.cz",
+   "original_url": "https://24n.cz/roundup/daily/2026-09-21",
+   "top": false,
+   "tags": [
+    "cesko"
+   ],
+   "published_at": "2026-09-21T21:00:51.075855+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "21 сентября 2026, 21:00",
+    "uk": "21 вересня 2026, 21:00"
+   },
+   "ru": {
+    "title": "Итоги дня: метро D, зарплаты силовиков и сбой O2",
+    "lede": "Понедельник запомнился решениями, которые касаются кошелька и транспорта: правительство утвердило прибавку полицейским и пожарным, Прага получила разрешение на станцию метро D в Libuš, а O2 пережил массовый сбой интернета.",
+    "meta_description": "Главное за 21 сентября 2026: прибавка полицейским и пожарным, разрешение на станцию метро D Libuš, сбой O2, новые правила для Tesla FSD и спор о супердотациях.",
+    "paras": [
+     "<p>День выдался богатым на решения властей. Сильнее всего на повседневную жизнь чехов влияют деньги и транспорт: зарплаты силовиков, стройка метро, сбой связи и новые правила для автопилотов Tesla.</p>",
+     "<h3>Полицейским и пожарным поднимут зарплаты</h3>",
+     "<p>Правительство Чехии утвердило план постепенного повышения зарплат сотрудникам силовых ведомств. Прибавка составит до 3 тысяч крон в месяц, а к 2029 году стартовый оклад полицейских и пожарных должен достичь 50 тысяч крон. Касается это и тех, кто только приходит на службу, и тех, кто уже работает.</p>",
+     "<p>Что это значит для читателя? Профессии в силовых структурах становятся финансово привлекательнее. Если вы или ваши знакомые думали о такой работе, условия входа в профессию меняются в лучшую сторону. О сроках и этапах повышения читайте в <a href=\"/ru/cheshskie-politseiskie-i-pozharnye-poluchat-pribavku-k-zarplate-do-3-t\">материале о прибавке силовикам</a>.</p>",
+     "<h3>Метро D: станция Libuš получила разрешение на строительство</h3>",
+     "<p>Пражское транспортное предприятие получило законное разрешение на строительство станции Libuš в рамках новой линии метро D. Проект должен связать южные районы столицы с центром.</p>",
+     "<p>Для Праги это значит, что стройка сдвинулась с мёртвой точки. Из Libuš и соседних районов до центра можно будет добираться быстрее, когда линия заработает. Обновления по станции Libuš мы собираем <a href=\"/ru/metro-d-v-prage-ziskalo-stavebni-povoleni-pro-stanici-libus\">здесь</a>.</p>",
+     "<h3>Массовый сбой интернета у O2</h3>",
+     "<p>У тысяч пользователей по всей Чехии отключился мобильный и широкополосный интернет O2. Оператор проблему признал и обещает быстро её решить. Без связи остались частные клиенты, а возможно, и компании.</p>",
+     "<p>Связи нет не из-за поломки у вас дома. Оператор в курсе и уже устраняет сбой. Подробности и сроки восстановления читайте в <a href=\"/ru/massovyi-sboi-interneta-u-o2-tysiachi-chekhov-ostalis-bez-sviazi\">материале о сбое у O2</a>.</p>",
+     "<h3>Tesla FSD разрешили в Чехии, но ответственность на водителе</h3>",
+     "<p>Министерство транспорта Чехии одобрило систему автономного вождения FSD Supervised от Tesla для дорог страны. За аварию всё равно отвечает водитель, даже если машина ехала в режиме автопилота.</p>",
+     "<p>На практике это значит, что владельцы Tesla могут включать FSD, но не могут расслабиться и переложить вину на технику. Если что-то случится, отвечать будет человек за рулём. Детали разрешения и условия использования описаны в <a href=\"/ru/chekhiia-razreshila-tesla-avtopilot-fsd-no-voditel-otvechaet-za-vse\">новости о FSD от Tesla</a>.</p>",
+     "<h3>Прага построит тысячу квартир рядом с Novodvorská</h3>",
+     "<p>В Праге выбрали проекты трёх жилых блоков на 1000 квартир. Строительство обойдётся городу в пять миллиардов крон. Новый район с доступным жильём и школами появится на свободных землях столицы рядом с микрорайоном Novodvorská.</p>",
+     "<p>Для тех, кто ищет жильё в Праге, это шанс на новые квартиры от города. Когда именно начнётся стройка и как будут распределять жильё, пока не уточняется. Подробности проекта в <a href=\"/ru/praga-postroit-tysiachu-kvartir-riadom-s-mikroraionom-novodvorska\">новости о тысяче квартир</a>.</p>",
+     "<h3>Профсоюзы требуют налоговой реформы и отказываются от снижения выплат</h3>",
+     "<p>Чешско-моравская конфедерация профсоюзов требует немедленно начать широкую дискуссию о новом налоговом суверенитете страны. Лидер организации Josef Středula критикует планы правительства по сокращению поддержки безработных и попытки пополнить бюджет за счёт социально уязвимых граждан.</p>",
+     "<p>Если правительство пойдёт на снижение выплат, это ударит по тем, кто остался без работы. Профсоюзы настаивают, что решать проблему бюджета нужно через налоги, а не через урезание помощи. Позиция профсоюзов изложена в <a href=\"/ru/otkaz-ot-snizheniia-vyplat-cheshskie-profsoiuzy-trebuiut-reformy-nalog\">материале о требованиях профсоюзов</a>.</p>",
+     "<h3>Школы не сообщают о случаях агрессии</h3>",
+     "<p>Высший государственный прокурор Lenka Bradáčová заявила, что чешские школы далеко не всегда сообщают в прокуратуру и органы опеки о серьёзных случаях агрессии, хотя обязаны это делать по закону. Проверка вскрыла системную проблему.</p>",
+     "<p>Родителям стоит знать: если в школе что-то произошло, не факт, что об этом узнают власти. Это может касаться и вашего ребёнка. Почему школы молчат и что с этим делают, читайте в <a href=\"/ru/cheshskie-shkoly-molchat-ob-agressii-proverka-vskryla-problemu\">новости о проверке прокуратуры</a>.</p>",
+     "<h3>Коротко</h3>",
+     "<ul>",
+     "<li><a href=\"/ru/superdotatsii-v-chekhii-zhdut-izmeneniia-kogo-oni-kosnutsia\">Супердотации в Чехии ждут изменения</a>: систему социальных пособий скорректируют, но выделить детские выплаты в отдельную категорию пока не удаётся.</li>",
+     "<li><a href=\"/ru/zarplaty-v-chekhii-rastut-na-4-6-kto-zarabatyvaet-bolshe-vsekh\">Зарплаты в Чехии выросли на 4-6%</a>: больше всего прибавили технические специалисты, а в IT рост почти остановился.</li>",
+     "<li><a href=\"/ru/smertnost-mototsiklistov-v-chekhii-letom-dostigla-pika\">Смертность мотоциклистов летом достигла пика</a>: за сезон погибли 32 человека, это почти треть от всех жертв ДТП.</li>",
+     "<li><a href=\"/ru/glava-skoda-auto-klaus-tsellmer-vozglavit-volvo-cars-v-2027-godu\">Глава Škoda Auto Клаус Целльмер возглавит Volvo Cars</a> в 2027 году.</li>",
+     "<li><a href=\"/ru/pogoda-v-chekhii-pokholodanie-osen-chto-zhdet-na-nedele\">Похолодание в Чехии</a>: после холодного фронта температура перестанет подниматься выше 20 градусов.</li>",
+     "</ul>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "uk": {
+    "title": "Підсумки дня: метро D, зарплати силовиків і збій O2",
+    "lede": "Понеділок запам'ятався рішеннями, які стосуються гаманця і транспорту: уряд затвердив надбавку поліцейським і пожежникам, Прага отримала дозвіл на станцію метро D у Libuš, а O2 пережив масовий збій інтернету.",
+    "meta_description": "Головне за 21 вересня 2026: надбавка поліцейським і пожежникам, дозвіл на станцію метро D Libuš, збій O2, нові правила для Tesla FSD і спір про супердотації.",
+    "paras": [
+     "<p>День виявився багатим на рішення влади. Найбільше на повсякденне життя чехів впливають гроші і транспорт: зарплати силовиків, будівництво метро, збій зв'язку і нові правила для автопілотів Tesla.</p>",
+     "<h3>Поліцейським і пожежникам підвищать зарплати</h3>",
+     "<p>Уряд Чехії затвердив план поетапного підвищення зарплат співробітникам силових відомств. Надбавка становитиме до 3 тисяч крон на місяць, а до 2029 року стартовий оклад поліцейських і пожежників має досягти 50 тисяч крон. Це стосується і тих, хто тільки приходить на службу, і тих, хто вже працює.</p>",
+     "<p>Що це означає для читача? Професії в силових структурах стають фінансово привабливішими. Якщо ви або ваші знайомі думали про таку роботу, умови входу в професію змінюються на краще. Про терміни та етапи підвищення читайте в <a href=\"/uk/cheshskie-politseiskie-i-pozharnye-poluchat-pribavku-k-zarplate-do-3-t\">матеріалі про надбавку силовикам</a>.</p>",
+     "<h3>Метро D: станція Libuš отримала дозвіл на будівництво</h3>",
+     "<p>Празьке транспортне підприємство отримало законний дозвіл на будівництво станції Libuš у рамках нової лінії метро D. Проєкт має зв'язати південні райони столиці з центром.</p>",
+     "<p>Для Праги це означає, що будівництво зрушило з мертвої точки. З Libuš і сусідніх районів до центру можна буде дістатися швидше, коли лінія запрацює. Оновлення по станції Libuš ми збираємо <a href=\"/uk/metro-d-v-prage-ziskalo-stavebni-povoleni-pro-stanici-libus\">тут</a>.</p>",
+     "<h3>Масовий збій інтернету в O2</h3>",
+     "<p>У тисяч користувачів по всій Чехії відключився мобільний і широкосмуговий інтернет O2. Оператор проблему визнав і обіцяє швидко її вирішити. Без зв'язку залишилися приватні клієнти, а можливо, і компанії.</p>",
+     "<p>Зв'язку немає не через поломку у вас вдома. Оператор в курсі і вже усуває збій. Подробиці та терміни відновлення читайте в <a href=\"/uk/massovyi-sboi-interneta-u-o2-tysiachi-chekhov-ostalis-bez-sviazi\">матеріалі про збій у O2</a>.</p>",
+     "<h3>Tesla FSD дозволили в Чехії, але відповідальність на водієві</h3>",
+     "<p>Міністерство транспорту Чехії схвалило систему автономного водіння FSD Supervised від Tesla для доріг країни. За аварію все одно відповідає водій, навіть якщо машина їхала в режимі автопілота.</p>",
+     "<p>На практиці це означає, що власники Tesla можуть вмикати FSD, але не можуть розслабитися і перекласти вину на техніку. Якщо щось станеться, відповідатиме людина за кермом. Деталі дозволу та умови використання описані в <a href=\"/uk/chekhiia-razreshila-tesla-avtopilot-fsd-no-voditel-otvechaet-za-vse\">новині про FSD від Tesla</a>.</p>",
+     "<h3>Прага збудує тисячу квартир поруч із Novodvorská</h3>",
+     "<p>У Празі обрали проєкти трьох житлових блоків на 1000 квартир. Будівництво обійдеться місту в п'ять мільярдів крон. Новий район із доступним житлом і школами з'явиться на вільних землях столиці поруч із мікрорайоном Novodvorská.</p>",
+     "<p>Для тих, хто шукає житло в Празі, це шанс на нові квартири від міста. Коли саме почнеться будівництво і як розподілятимуть житло, поки не уточнюється. Подробиці проєкту в <a href=\"/uk/praga-postroit-tysiachu-kvartir-riadom-s-mikroraionom-novodvorska\">новині про тисячу квартир</a>.</p>",
+     "<h3>Профспілки вимагають податкової реформи і відмовляються від зниження виплат</h3>",
+     "<p>Чесько-моравська конфедерація профспілок вимагає негайно розпочати широку дискусію про новий податковий суверенітет країни. Лідер організації Josef Středula критикує плани уряду щодо скорочення підтримки безробітних і спроби поповнити бюджет за рахунок соціально вразливих громадян.</p>",
+     "<p>Якщо уряд піде на зниження виплат, це вдарить по тих, хто залишився без роботи. Профспілки наполягають, що вирішувати проблему бюджету потрібно через податки, а не через урізання допомоги. Позиція профспілок викладена в <a href=\"/uk/otkaz-ot-snizheniia-vyplat-cheshskie-profsoiuzy-trebuiut-reformy-nalog\">матеріалі про вимоги профспілок</a>.</p>",
+     "<h3>Школи не повідомляють про випадки агресії</h3>",
+     "<p>Вищий державний прокурор Lenka Bradáčová заявила, що чеські школи далеко не завжди повідомляють у прокуратуру та органи опіки про серйозні випадки агресії, хоча зобов'язані це робити за законом. Перевірка виявила системну проблему.</p>",
+     "<p>Батькам варто знати: якщо в школі щось сталося, не факт, що про це дізнаються власті. Це може стосуватися і вашої дитини. Чому школи мовчать і що з цим роблять, читайте в <a href=\"/uk/cheshskie-shkoly-molchat-ob-agressii-proverka-vskryla-problemu\">новині про перевірку прокуратури</a>.</p>",
+     "<h3>Коротко</h3>",
+     "<ul>",
+     "<li><a href=\"/uk/superdotatsii-v-chekhii-zhdut-izmeneniia-kogo-oni-kosnutsia\">Супердотації в Чехії чекають зміни</a>: систему соціальних допомог скоригують, але виділити дитячі виплати в окрему категорію поки не вдається.</li>",
+     "<li><a href=\"/uk/zarplaty-v-chekhii-rastut-na-4-6-kto-zarabatyvaet-bolshe-vsekh\">Зарплати в Чехії зросли на 4-6%</a>: найбільше додали технічні спеціалісти, а в IT зростання майже зупинилося.</li>",
+     "<li><a href=\"/uk/smertnost-mototsiklistov-v-chekhii-letom-dostigla-pika\">Смертність мотоциклістів влітку досягла піку</a>: за сезон загинули 32 людини, це майже третина від усіх жертв ДТП.</li>",
+     "<li><a href=\"/uk/glava-skoda-auto-klaus-tsellmer-vozglavit-volvo-cars-v-2027-godu\">Глава Škoda Auto Клаус Целльмер очолить Volvo Cars</a> у 2027 році.</li>",
+     "<li><a href=\"/uk/pogoda-v-chekhii-pokholodanie-osen-chto-zhdet-na-nedele\">Похолодання в Чехії</a>: після холодного фронту температура перестане підніматися вище 20 градусів.</li>",
+     "</ul>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "rank": 84.0
+  },
   {
    "id": "n5869",
    "slug": "mir-tolkiena-v-chekhii-gde-iskat-lokatsii-i-zvezd-filma",
@@ -16,8 +114,8 @@
    ],
    "published_at": "2026-09-21T20:54:57.467362+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "5 минут назад",
+    "uk": "5 хвилин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 20:54",
@@ -307,8 +405,8 @@
    ],
    "published_at": "2026-09-21T20:54:57.467362+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "5 минут назад",
+    "uk": "5 хвилин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 20:54",
@@ -568,8 +666,8 @@
    ],
    "published_at": "2026-09-21T20:23:09.425664+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "37 минут назад",
+    "uk": "37 хвилин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 20:23",
@@ -749,8 +847,8 @@
    ],
    "published_at": "2026-09-21T20:23:09.425664+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "37 минут назад",
+    "uk": "37 хвилин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 20:23",
@@ -2469,7 +2567,7 @@
      "body_sha256": "71f42441547ecd0bde83993081d89c78b169cf4ce4c62fee8462a57cbf4d6423"
     }
    },
-   "rank": 103.199,
+   "rank": 103.05,
    "image_url": "https://img.24n.cz/p/2026/09/praga-postroit-tysiachu-kvartir-riadom-s-mikroraionom-novodv-71d24d32ed31ea65.webp",
    "image_w": 1366,
    "image_h": 910
@@ -2634,7 +2732,7 @@
      "body_sha256": "660b493c1b4f607ecb2a431a5b2a5e3d19a8d6edb502f81a6ecda83b25331243"
     }
    },
-   "rank": 106.31,
+   "rank": 106.151,
    "sources": [
     {
      "domain": "press.news",
@@ -2913,7 +3011,7 @@
      "body_sha256": "bed1c4c4e6025801d46ec26f2a9002b9606cd8043df765cb146829f6970a6811"
     }
    },
-   "rank": 105.485,
+   "rank": 105.327,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -3135,7 +3233,7 @@
      "body_sha256": "c52f2e6b89121e6aa29c1530fd22f1b032a6b92ffff0bd68160aace062606a02"
     }
    },
-   "rank": 102.728,
+   "rank": 102.572,
    "sources": [
     {
      "domain": "operaplus.cz",
@@ -3344,7 +3442,7 @@
      "body_sha256": "da110f804b853b40375b923201f690a53268bb2841ff0dcaff04340aaecdbf0d"
     }
    },
-   "rank": 98.059,
+   "rank": 97.91,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-razreshila-tesla-avtopilot-fsd-no-voditel-otvechaet-50fa53f34c8d5b9f.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -3646,7 +3744,7 @@
      "body_sha256": "12faa119f66e83e53ee665e8dfb6117b5105812fbe549b65546a661df6e93b76"
     }
    },
-   "rank": 83.331,
+   "rank": 83.203,
    "image_url": "https://img.24n.cz/p/2026/09/kuda-poekhat-oseniu-chetyre-parka-miniatiur-v-chekhii-128c6ed6c4fa4b7a.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/kuda-poekhat-oseniu-chetyre-parka-miniatiur-v-chekhii-47c88d6663919de6.webp",
@@ -3917,7 +4015,7 @@
      "body_sha256": "bfc535c639494aa2ae036a62c065cdbc18ee842f67e5a4e68d2097260099e986"
     }
    },
-   "rank": 84.414,
+   "rank": 84.284,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -4130,7 +4228,7 @@
      "body_sha256": "b5872f99c8d9f413e783d3b863ca440ee4317bddea6a0d69f219c09aa7428b32"
     }
    },
-   "rank": 103.776,
+   "rank": 103.613,
    "image_url": "https://img.24n.cz/p/2026/09/massovyi-sboi-interneta-u-o2-tysiachi-chekhov-ostalis-bez-sv-96fb0c2134733194.webp",
    "image_w": 800,
    "image_h": 450
@@ -4325,7 +4423,7 @@
      "body_sha256": "a7eb38c8914a65dcfb1177577161e159f8c4b08641cc1839ed63c4c76d7252cf"
     }
    },
-   "rank": 108.288,
+   "rank": 108.118,
    "image_url": "https://img.24n.cz/p/2026/09/mat-obvinili-v-istiazanii-chetverykh-detei-prosiat-12-let-b1653ee01a0b0a29.webp",
    "image_w": 1200,
    "image_h": 675
@@ -4492,7 +4590,7 @@
      "body_sha256": "388a9c37f2bfdd3cb5792f7afd85894d70734b22906878473cac52fb82986552"
     }
    },
-   "rank": 102.978,
+   "rank": 102.815,
    "image_url": "https://img.24n.cz/p/2026/09/muzhchina-oblil-benzinom-dom-v-regione-karlovy-vary-7932889a99db9f34.webp",
    "image_w": 853,
    "image_h": 480
@@ -4732,7 +4830,7 @@
      "body_sha256": "8188e47ad785bea689be9de264c5fb57b59f4271090ac0d582d1358021122d25"
     }
    },
-   "rank": 94.023
+   "rank": 93.874
   },
   {
    "id": "n5848",
@@ -5033,7 +5131,7 @@
      "body_sha256": "d7cef43505087b6421e6cc96dca44dcb14c059d65f2e793274cee93477da6ada"
     }
    },
-   "rank": 88.684
+   "rank": 88.543
   },
   {
    "id": "n5847",
@@ -5267,7 +5365,7 @@
      "body_sha256": "84b38ab139127c55a11d303568d3fbf53ef2b30174a82013ac9f010d45d39bb7"
     }
    },
-   "rank": 87.922,
+   "rank": 87.781,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskie-shkoly-molchat-ob-agressii-proverka-vskryla-proble-6c1421fc28acee01.webp",
    "image_w": 1200,
    "image_h": 674
@@ -5285,8 +5383,8 @@
    ],
    "published_at": "2026-09-21T08:58:06.888845+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "21 сентября 2026, 08:58",
@@ -5518,7 +5616,7 @@
      "body_sha256": "14fe78765306ee483700a9d3656d3598f2ba36ec3cd0d036b9e119e7e02d0aa2"
     }
    },
-   "rank": 104.491,
+   "rank": 104.321,
    "image_url": "https://img.24n.cz/p/2026/09/otkaz-ot-snizheniia-vyplat-cheshskie-profsoiuzy-trebuiut-ref-996b25905f5a2608.webp",
    "image_w": 1200,
    "image_h": 675
@@ -5716,7 +5814,7 @@
      "body_sha256": "bd1d8839d1aa8bebf7bcfcbc175bc7a05ed3aa7eac0a7648a9d9d197c344bb41"
     }
    },
-   "rank": 94.884,
+   "rank": 94.728,
    "sources": [
     {
      "domain": "media24.cz",
@@ -5933,7 +6031,7 @@
      "body_sha256": "0e24b764314f18c5fe8daf7b77f0d1712b4de63134454625dd9aa232d7a30e22"
     }
    },
-   "rank": 89.788,
+   "rank": 89.639,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -6203,7 +6301,7 @@
      "body_sha256": "13476a1422fb8a8b7f99799ebd2a1cb6552d1028471884259ce208cf27bc1a76"
     }
    },
-   "rank": 71.434
+   "rank": 71.313
   },
   {
    "id": "n5842",
@@ -6501,7 +6599,7 @@
      "body_sha256": "272a1ccb975aabe28a478d984ac4b502b23d7627bf1eaea31c49fe47120c86a5"
     }
    },
-   "rank": 88.241,
+   "rank": 88.093,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/Eu5mYMavctM"
@@ -6666,7 +6764,7 @@
      "body_sha256": "76ec80d22e01fbe8a4be65626ef1eaf991197441424438612fd667f79e7a3ad9"
     }
    },
-   "rank": 83.514
+   "rank": 83.458
   },
   {
    "id": "n5840",
@@ -6958,7 +7056,7 @@
      "body_sha256": "5695fc4836b5836a223cf1d697e5e08c87214a6f736e1965ba9ecab32ea923b6"
     }
    },
-   "rank": 79.051
+   "rank": 78.917
   },
   {
    "id": "n5839",
@@ -7210,7 +7308,7 @@
      "body_sha256": "1cee49b43d5944dcd934a8310cd4e35d8470cdceac0b9d23c6e529670939976e"
     }
    },
-   "rank": 86.517
+   "rank": 86.368
   },
   {
    "id": "n5838",
@@ -7428,7 +7526,7 @@
      "body_sha256": "475928397a14d784d9046bf06b71a0f931d6799566d8b5b185c00deb3ac090db"
     }
    },
-   "rank": 108.404,
+   "rank": 108.215,
    "sources": [
     {
      "domain": "banai.cz",
@@ -7623,7 +7721,7 @@
      "body_sha256": "aead10d3fe7b21db96a6a8e36d42bebb9e2c9e04229b58bb75dd78d8f5b50de4"
     }
    },
-   "rank": 72.809
+   "rank": 72.681
   },
   {
    "id": "n5836",
@@ -7801,7 +7899,7 @@
      "body_sha256": "ab8044a80553517b7410cb35ba80bff928f6a5aeedc78a255b43bc4d3ff713b8"
     }
    },
-   "rank": 84.944,
+   "rank": 84.795,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -8042,7 +8140,7 @@
      "body_sha256": "203ae2c4d42a37315c950a787e910f1ae0067340efa9730cc42bae4953c75468"
     }
    },
-   "rank": 78.541,
+   "rank": 78.401,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -8277,7 +8375,7 @@
      "body_sha256": "536f3d8e5d24cd2a0894daad066ac533d21d9b8b2993f5982aa7ccea605e1e4f"
     }
    },
-   "rank": 85.298,
+   "rank": 85.139,
    "sources": [
     {
      "domain": "europesays.com",
@@ -8452,7 +8550,7 @@
      "body_sha256": "b34299435f1b67d506e8e9c03ac60739fd2fa4a116ea8e218c5fe6798b79304c"
     }
    },
-   "rank": 81.996,
+   "rank": 81.84,
    "sources": [
     {
      "domain": "timesofindia.indiatimes.com",
@@ -8716,7 +8814,7 @@
      "body_sha256": "20a8b1755c2cffeb85bc7f313dd74b9f1c3e65b749126bd96546242dacc49e83"
     }
    },
-   "rank": 78.268
+   "rank": 78.12
   },
   {
    "id": "n5831",
@@ -8920,7 +9018,7 @@
      "body_sha256": "677e4cb6c6b4a43a0961c373b224b8ac77306ebd668d0bdd74eab408e19a8818"
     }
    },
-   "rank": 67.087,
+   "rank": 66.96,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -9157,7 +9255,7 @@
      "body_sha256": "d4d29a1192f4085d338a18aeca65090259a6d44ed671feb8762e1a857c0bf243"
     }
    },
-   "rank": 85.723
+   "rank": 85.56
   },
   {
    "id": "n5829",
@@ -9404,7 +9502,7 @@
      "body_sha256": "2e830359c3e53db2440f67e5c2824df167a471b75a71a1c9932561d8888526d5"
     }
    },
-   "rank": 80.334,
+   "rank": 80.18,
    "sources": [
     {
      "domain": "media24.cz",
@@ -9592,7 +9690,7 @@
      "body_sha256": "581f1860d2acc7b88afa69f4ac90940ac8cfa00d4f21ff2273086748ef6f3ea3"
     }
    },
-   "rank": 75.09
+   "rank": 75.037
   },
   {
    "id": "n5827",
@@ -9760,7 +9858,7 @@
      "body_sha256": "46893612ad0dfa99f3faae05c209aec866b7130f258c3260b28e3eaaa139521d"
     }
    },
-   "rank": 66.934,
+   "rank": 66.8,
    "sources": [
     {
      "domain": "jihlavsky.denik.cz",
@@ -9947,7 +10045,7 @@
      "body_sha256": "3756207ce8c77dd440c70a06ed1a28a7f72724fab1923d0c4fd6d1ab019caf99"
     }
    },
-   "rank": 63.411,
+   "rank": 63.284,
    "image_url": "https://img.24n.cz/p/2026/09/rabochie-iz-filippin-v-cheshskikh-domakh-vlasti-bessilny-52c4a4c8275e2dde.webp",
    "image_w": 1280,
    "image_h": 720
@@ -10150,7 +10248,7 @@
      "body_sha256": "a34a55b8aa4b41eecac8c92d84a2f4486b7380d69fc47c209af7e4ac28391c00"
     }
    },
-   "rank": 56.366,
+   "rank": 56.252,
    "image_url": "https://img.24n.cz/p/2026/09/pravitelstvo-chekhii-meniaet-status-pravitelstvennykh-soveto-9a3fe3622c192996.webp",
    "image_w": 620,
    "image_h": 349
@@ -10166,8 +10264,8 @@
    ],
    "published_at": "2026-09-20T21:00:49.965841+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "20 сентября 2026, 21:00",
@@ -10207,7 +10305,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 58.639
+   "rank": 58.52
   },
   {
    "id": "n5823",
@@ -10356,7 +10454,7 @@
      "body_sha256": "0f1a0def47e1cd629e20c26dcb8755adc82ec9e896f721a68f819f1bffc92eb8"
     }
    },
-   "rank": 72.325,
+   "rank": 72.176,
    "sources": [
     {
      "domain": "play.cz",
@@ -10538,7 +10636,7 @@
      "body_sha256": "561b1b85ad230f109c610f67e85bc399bc9373da239a189d7d55259d113d15a7"
     }
    },
-   "rank": 61.993
+   "rank": 61.865
   },
   {
    "id": "n5821",
@@ -10796,7 +10894,7 @@
      "body_sha256": "6aa87cc6c3d75e387b11c9d283e42d945ee1a1636662568aabb622a3adab9e6a"
     }
    },
-   "rank": 65.437,
+   "rank": 65.302,
    "image_url": "https://img.24n.cz/p/2026/09/v-obshchine-statenice-obsudiat-vypolnenie-itogov-referenduma-89540d088266f129.webp",
    "image_w": 750,
    "image_h": 300
@@ -11054,7 +11152,7 @@
      "body_sha256": "8841e37c1caf1c8656e582fe26d279ead0d9fe016c6a123f49b14876f8741194"
     }
    },
-   "rank": 77.319,
+   "rank": 77.156,
    "image_url": "https://img.24n.cz/p/2026/09/novye-posobiia-nalogovye-lgoty-i-vozvrashchenie-shkolkovogo-70dad6bdf9eaf599.webp",
    "image_w": 1366,
    "image_h": 910
@@ -11157,7 +11255,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 57.573
+   "rank": 57.452
   },
   {
    "id": "n5818",
@@ -11339,7 +11437,7 @@
      "body_sha256": "efe3c05033432848c2b2b7beed1d4ab15f8bf0d9c61c79a81a504e07c8797b7e"
     }
    },
-   "rank": 73.571,
+   "rank": 73.412,
    "sources": [
     {
      "domain": "europesays.com",
@@ -11581,7 +11679,7 @@
      "body_sha256": "b132a4d823c7401f1051d954092eba40d97f1f95f3b01c579d084084bfa93f3b"
     }
    },
-   "rank": 62.404,
+   "rank": 62.269,
    "sources": [
     {
      "domain": "media24.cz",
@@ -11779,7 +11877,7 @@
      "body_sha256": "7591d7040664269ba8165869b3acf3f0ad91c0b42bd3243b130598fe05941e30"
     }
    },
-   "rank": 45.982,
+   "rank": 45.882,
    "image_url": "https://img.24n.cz/p/2026/09/v-tsentre-pragi-otkrylas-pervaia-obshchestvennaia-ploshchadk-a666e44c98cfa7b5.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-tsentre-pragi-otkrylas-pervaia-obshchestvennaia-ploshchadk-2fca9e6d1736c0e2.webp",
@@ -12045,7 +12143,7 @@
      "body_sha256": "81c43c030aec768f8d8002c3ae63e0b7c2e0ff3d322c517d4ee8d5786550debb"
     }
    },
-   "rank": 72.147,
+   "rank": 71.988,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -12263,7 +12361,7 @@
      "body_sha256": "a3327a45e773ea49c4fe3c42863d5b45b0710b77366eaa2779f13b71cd367f1c"
     }
    },
-   "rank": 93.917,
+   "rank": 93.848,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-khotiat-zapretit-prodazhu-alkogolia-po-nocham-v-maga-fdf96e3caf3ed3e8.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-prage-khotiat-zapretit-prodazhu-alkogolia-po-nocham-v-maga-337c2b6d1401477a.webp"
@@ -12441,7 +12539,7 @@
      "body_sha256": "a1fb31e0351d880a9146b63a69644bc4a8826a5f28e6953e3dd0ddf753a31d1c"
     }
    },
-   "rank": 56.336,
+   "rank": 56.209,
    "image_url": "https://img.24n.cz/p/2026/09/shef-skoda-auto-klaus-zellmer-ukhodit-rukovodit-volvo-6fcbfc2722bb1951.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12660,7 +12758,7 @@
      "body_sha256": "b76325c6450344abebd9756afeba7036a5c031fb30e4c68774e95b3b3121a6dc"
     }
    },
-   "rank": 56.336,
+   "rank": 56.209,
    "sources": [
     {
      "domain": "archiweb.cz",
@@ -12840,7 +12938,7 @@
      "body_sha256": "1881bc0764289a95fa082dc976f92ffa5b522bf3df9d7219b06d2c5f8ab33e16"
     }
    },
-   "rank": 84.504,
+   "rank": 84.313,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -13032,7 +13130,7 @@
      "body_sha256": "28b712ec8d7eed7e9597fa2b9360d4c427ed49a60ecb83eeb1b56a7e6a3b7925"
     }
    },
-   "rank": 61.93,
+   "rank": 61.782,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -13223,7 +13321,7 @@
      "body_sha256": "4b0ee5a1986a1342e2e17981a8766a7dc3519dcc7539b351fd85ce6584952375"
     }
    },
-   "rank": 64.976,
+   "rank": 64.818,
    "sources": [
     {
      "domain": "europesays.com",
@@ -13438,7 +13536,7 @@
      "body_sha256": "09d37b3d1d0073986be29f7389ad7662bc097b5e69feb45745553f1d0faca8bd"
     }
    },
-   "rank": 59.175,
+   "rank": 59.03,
    "sources": [
     {
      "domain": "media24.cz",
@@ -13604,7 +13702,7 @@
      "body_sha256": "2578daa108668c1870c888492714ed50ec1f666ec49549a9ae1b6916a2eed868"
     }
    },
-   "rank": 64.395,
+   "rank": 64.346,
    "image_url": "https://img.24n.cz/p/2026/09/detskie-sady-v-litomerice-sokrashchaiut-klassy-iz-za-spada-r-58a77f1d41103400.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/detskie-sady-v-litomerice-sokrashchaiut-klassy-iz-za-spada-r-b3bae0fa1bb71d25.webp"
@@ -13889,7 +13987,7 @@
      "body_sha256": "fc80621ab19f08825e8bf094a0b8846a5e7d3f3de69c79e0b06f438ad10147ea"
     }
    },
-   "rank": 54.746,
+   "rank": 54.605,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-zakroet-rodilnye-doma-s-menee-chem-600-rodami-v-god-d12d612341e0defb.webp",
    "image_w": 630,
    "image_h": 350
@@ -14056,7 +14154,7 @@
      "body_sha256": "ec4ff99f5c9b510c01f84a0a16ab03f1a9074ea8c67453bd4cbe41d642de0eaa"
     }
    },
-   "rank": 48.94,
+   "rank": 48.81,
    "sources": [
     {
      "domain": "roxy.cz",
@@ -14288,7 +14386,7 @@
      "body_sha256": "99b1070a27980bab1c6b806e89e49fee4f67ea66beac32800917736a455fc0d7"
     }
    },
-   "rank": 63.835,
+   "rank": 63.665,
    "image_url": "https://img.24n.cz/p/2026/09/tseny-mhd-a-parkovani-v-prage-zustavaji-bez-dohody-5a6d1af510607955.webp",
    "image_w": 750,
    "image_h": 300
@@ -14438,7 +14536,7 @@
      "body_sha256": "dd06e79f1095182457c2e71ba7c8b8889a4a4c5ee3f3a73888e54a5bfec685de"
     }
    },
-   "rank": 45.921,
+   "rank": 45.795,
    "sources": [
     {
      "domain": "europesays.com",
@@ -14673,7 +14771,7 @@
      "body_sha256": "4337e24a464747643a39c7fb5f984218e0fc971707a03c88eaa8b095c61389a6"
     }
    },
-   "rank": 49.016,
+   "rank": 48.882,
    "image_url": "https://img.24n.cz/p/2026/09/dubovye-lavochki-na-naberezhnoi-vltavy-v-prage-pochemu-tresk-19dfa4b1c4e037b7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -14918,7 +15016,7 @@
      "body_sha256": "2ef8b710e1169892756673379b89c4ab8a9db595068948815d37fef2d2026599"
     }
    },
-   "rank": 47.611,
+   "rank": 47.476,
    "image_url": "https://img.24n.cz/p/2026/09/chuzhoi-obed-v-cheshskom-fastfude-kto-vinovat-i-chto-delat-9a06371aaf8b79d9.webp",
    "image_w": 1200,
    "image_h": 660
@@ -15159,7 +15257,7 @@
      "body_sha256": "b4998a7ff4635cddb0f290d3387fa54e1c126005101fa88c3e111df5eb757e71"
     }
    },
-   "rank": 50.117,
+   "rank": 49.975,
    "image_url": "https://img.24n.cz/p/2026/09/vybory-v-jesenik-programma-kandidatov-i-plany-na-budushchee-58089dd529b6eaf0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/vybory-v-jesenik-programma-kandidatov-i-plany-na-budushchee-87e97b7006bb48cd.webp",
@@ -15396,7 +15494,7 @@
      "body_sha256": "3376be4a1a1e942f1d60c17e063a2424a74ef5eacd85f5e27ddc3aa702f52539"
     }
    },
-   "rank": 47.611,
+   "rank": 47.476,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/AzDgiJaAtro"
@@ -15627,7 +15725,7 @@
      "body_sha256": "8c115defb13cc87768ad4d4f0564505fc6ab250867159d298012dbc7c365150e"
     }
    },
-   "rank": 61.142,
+   "rank": 60.97,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -15818,7 +15916,7 @@
      "body_sha256": "87dd35fff5b3a141e1a3f38f59482d17ea06412146cbce40e6ed890b7108f1b6"
     }
    },
-   "rank": 36.388,
+   "rank": 36.282,
    "image_url": "https://img.24n.cz/p/2026/09/kuda-poekhat-s-detmi-v-pelhrimov-gid-po-rekordam-i-tainam-6e5af63a788043c5.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/kuda-poekhat-s-detmi-v-pelhrimov-gid-po-rekordam-i-tainam-746f8fbfeee7df38.webp",
@@ -16038,7 +16136,7 @@
      "body_sha256": "7e211f9bcca168552cf8cdc6ad7fb27df19a93fa0c3b05226670bf69039007d1"
     }
    },
-   "rank": 26.685,
+   "rank": 26.607,
    "image_url": "https://img.24n.cz/p/2026/09/lektsiia-k-120-letiiu-prazhskoi-kanalizatsii-istoriia-i-trud-e0935fe8800d6bbb.webp",
    "image_w": 600,
    "image_h": 315
@@ -16256,7 +16354,7 @@
      "body_sha256": "9f0e77dcfad7e22e4f6ea59faa1df13e3a1137c7ba17ae0869a3bd20fb452c0e"
     }
    },
-   "rank": 35.245,
+   "rank": 35.139,
    "image_url": "https://img.24n.cz/p/2026/09/samye-neobychnye-skaly-chekhii-gid-po-prichudlivym-obrazovan-7577f9a69baf3307.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/samye-neobychnye-skaly-chekhii-gid-po-prichudlivym-obrazovan-d73ab11a9542a859.webp",
@@ -16519,7 +16617,7 @@
      "body_sha256": "df13bc61e76791b1664ddddf4e8a23553b01b033c87bc9e552847c0dce7cf863"
     }
    },
-   "rank": 44.644,
+   "rank": 44.509,
    "image_url": "https://img.24n.cz/p/2026/09/voennaia-bolnitsa-v-prage-uzhestochila-pravila-o-zdorove-pre-90bf7d91787501c3.webp",
    "image_w": 620,
    "image_h": 349
@@ -16705,7 +16803,7 @@
      "body_sha256": "a68efdbd50c3b00eafb2ee5d54631e98f273bbb1f194dc382a465bbc71f5490f"
     }
    },
-   "rank": 34.079,
+   "rank": 33.973,
    "image_url": "https://img.24n.cz/p/2026/09/vincent-van-gogh-v-prage-kde-videt-zelene-obili-dd46831fd7193fa0.webp",
    "images": [
     "https://cdn.kudyznudy.cz/files/75/75b33c6e-dc26-422e-9aa8-5ca3dac3f5c7.webp?v=20241021070448",
@@ -16985,7 +17083,7 @@
      "body_sha256": "dc060eb41bbbe118eadb8f385b675f352608d9a23388090948ef6f9b3b32bcdb"
     }
    },
-   "rank": 47.711,
+   "rank": 47.562,
    "image_url": "https://img.24n.cz/p/2026/09/zarplaty-v-chekhii-v-prage-na-tret-vyshe-chem-v-regionakh-1a792813301971cb.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zarplaty-v-chekhii-v-prage-na-tret-vyshe-chem-v-regionakh-d6de22c5b52a6acd.webp"
@@ -17161,7 +17259,7 @@
      "body_sha256": "207dbbfe111786f2065f73c6355ec2f2d4dcbf14c68d6e7c902df5c1e568a5cd"
     }
    },
-   "rank": 42.639,
+   "rank": 42.49,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -17385,7 +17483,7 @@
      "body_sha256": "6d2bf386a1589dc6fe8c312aa6039cb82d385d7696a44c0cfb51ac6447064cb2"
     }
    },
-   "rank": 46.624,
+   "rank": 46.456,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -17578,7 +17676,7 @@
      "body_sha256": "026386530ba623f52687cb8aad316d2f7cac4099568407566496d303f0840efa"
     }
    },
-   "rank": 37.221,
+   "rank": 37.086,
    "sources": [
     {
      "domain": "slovacky.denik.cz",
@@ -17836,7 +17934,7 @@
      "body_sha256": "d250c5443d99ff27146a1f371412434bc278e78e3d41ef46dce1a2aa3f1e8e65"
     }
    },
-   "rank": 28.133,
+   "rank": 28.027,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-proidet-gonka-na-lodkakh-cherez-tri-istoricheskikh-s-2707e7215d133d59.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-prage-proidet-gonka-na-lodkakh-cherez-tri-istoricheskikh-s-a31fd3defd198e90.webp",
@@ -17878,8 +17976,8 @@
    ],
    "published_at": "2026-09-19T21:00:39.244729+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "19 сентября 2026, 21:00",
@@ -17921,7 +18019,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 29.515
+   "rank": 29.4
   },
   {
    "id": "n5786",
@@ -19448,7 +19546,7 @@
      "body_sha256": "2bb897dc756aa3ebbf3ca45307fc24afbc63f0825a062e6d836ed8c20e0dd5da"
     }
    },
-   "rank": 73.59,
+   "rank": 73.525,
    "image_url": "https://img.24n.cz/p/2026/09/novyi-ognezashchitnyi-sostav-dlia-arkhivnykh-korobok-spasaet-b7b1cf0c18532f42.webp",
    "image_w": 1600,
    "image_h": 1067
@@ -47121,8 +47219,8 @@
    ],
    "published_at": "2026-09-17T21:00:44.058619+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "17 сентября 2026, 21:00",
@@ -64450,114 +64548,6 @@
    "image_url": "https://img.24n.cz/p/2026/09/iuzhnokoreiskie-chipy-dlia-ii-kak-alternativa-nvidia-obzo-87e9f45342d0b3b1.webp",
    "image_w": 1551,
    "image_h": 1168
-  },
-  {
-   "id": "n5570",
-   "slug": "smertnost-ot-zhary-v-chekhii-kak-letniaia-pogoda-bet-rekordy",
-   "source": "ceskenoviny.cz",
-   "original_url": "http://www.ceskenoviny.cz/zpravy/jen-4krat-zemrelo-v-lete-za-tyden-vic-lidi-nez-letos-po-rekordu-vzdy-bylo-horko/2875062?utm_source=rss&utm_medium=feed",
-   "top": false,
-   "tags": [
-    "cesko",
-    "zdorovie",
-    "ekonomika"
-   ],
-   "published_at": "2026-09-16T06:42:09.356584+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "16 сентября 2026, 06:42",
-    "uk": "16 вересня 2026, 06:42"
-   },
-   "ru": {
-    "title": "Смертность от жары в Чехии: как летняя погода бьет рекорды",
-    "lede": "Лишь четыре раза с 2010 года в Чехии за летнюю неделю умирало больше людей, чем после температурного рекорда в конце июня текущего года.",
-    "meta_description": "Статистика смертности от жары в Чехии: сравнение летних температурных рекордов с зимними показателями по данным Чешского статистического управления.",
-    "paras": [
-     "<p>Специалисты Чешского статистического управления сопоставили показатели еженедельной смертности в стране в периоды сильной жары с зимними цифрами и историческими максимумами. Анализ показал, что за последние полтора десятилетия лишь четырежды летняя недельная смертность превышала уровни, зафиксированные после температурного рекорда в конце июня текущего года. Примечательно, что каждый из худших летних периодов неизменно сопровождался погодными рекордами.</p>",
-     "<p>В самый тяжелый летний период текущего года чешские статистики зарегистрировали 2299 умерших. Для сравнения, в первую январскую неделю этот показатель составил 2667 человек. При этом данные за большую часть июля и августа еще не опубликованы.</p>",
-     "<h3>Влияние жары на сердце и отсутствие подготовки</h3>",
-     "<p>Как пояснил заместитель председателя Чешского кардиологического общества Aleš Linhart, почти во всех государствах при повышении температуры примерно на пять градусов выше привычной нормы начинает расти уровень смертности. Масштаб последствий во многом зависит от готовности конкретной страны к таким условиям.</p>",
-     "<blockquote>Почти во всех странах с ростом примерно на пять градусов выше обычного нормаля начинает расти смертность</blockquote>",
-     "<p>Так прокомментировал ситуацию Aleš Linhart из Чешского кардиологического общества.</p>",
-     "<p>По его словам, Чехия исторически не была приспособлена к сильной жаре, поэтому уровень оснащения кондиционерами остается низким не только в жилых домах, но и в медицинских учреждениях. Из-за этого госпитализация пациента не всегда становится гарантией спасения. В зоне особого риска оказываются пожилые люди, которые часто не ощущают жажды, а также жители спальных районов, чьи квартиры с окнами на юг лишены нормального затенения.</p>",
-     "<p>В жаркие дни человеческий организм вынужден тратить огромное количество энергии на охлаждение. Для этого требуется усилить кровоснабжение кожи, через которую уходит основная часть тепла, что дополнительно усугубляется потоотделением и потерей жидкости.</p>",
-     "<blockquote>Сердце должно начать качать вплоть в несколько раз больше, чтобы это компенсировать</blockquote>",
-     "<p>Отметил кардиолог Aleš Linhart.</p>",
-     "<h3>Исторические антирекорды летней смертности</h3>",
-     "<p>Анализ данных с 2010 года показывает, что абсолютным антирекордом по числу смертей за летнюю неделю стал 33-й период 2015 года. Тогда скончался 2521 человек, а всего за три дня до начала этой недели в населенном пункте Řež u Prahy столбики термометров достигли отметки 39,3 градуса Цельсия.</p>",
-     "<p>Другими периодами с повышенной смертностью стали:</p>",
-     "<ul><li>31-я неделя 2018 года с показателем 2379 умерших</li><li>25-я неделя 2013 года, когда зафиксировали 2338 смертей</li><li>29-я неделя 2022 года с цифрой в 2310 человек</li></ul>",
-     "<p>Во всех этих случаях экстремальным показателям предшествовали или сопутствовали температурные рекорды. Например, в неделю действия прежнего рекорда 2012 года, когда в населенном пункте Dobřichovicích зафиксировали 40,4 градуса Цельсия, скончалось 2024 человека. Этот показатель оказался примерно на 200 единиц выше значений предшествующей и последующей недель.</p>",
-     "<h3>Зимние эпидемии и сравнение с пандемией</h3>",
-     "<p>Несмотря на опасность летнего зноя, традиционно больше людей в Чехии уходит из жизни в зимние месяцы. Начиная с 2022 года, в течение первых десяти недель каждого года средняя еженедельная смертность превышала 2400 человек. Исключением стал текущий год со средним показателем 2347 умерших за неделю, что все равно превышает худшие летние недели.</p>",
-     "<p>Как отмечал руководитель отдела эпидемиологии инфекционных заболеваний Государственного института здравоохранения Jan Kynčl, грипп наряду с COVID-19 остается единственным заболеванием, которое регулярным образом заметно отражается на общей статистике смертности. Кардиологи напоминают, что нагрузка на сердечно-сосудистую систему во время лихорадки при гриппе сопоставима с последствиями жары.</p>",
-     "<blockquote>Но у chřipka есть и другие последствия. Она может напрямую поразить сердечную мышцу и привести к ее воспалению</blockquote>",
-     "<p>Подчеркнул Aleš Linhart, рекомендуя пациентам с хрониками и болезнями сердца делать прививки.</p>",
-     "<p>Самые высокие показатели смертности за всю историю современной статистики были зафиксированы в период пандемии COVID-19. В две осенние недели 2020 года количество летальных исходов превышало отметку в 4200 человек за неделю.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Сколько людей умерло в худшую летнюю неделю после температурного рекорда в Чехии?",
-      "a": "В самую тяжелую летнюю неделю текущего года чешские статистики зарегистрировали 2299 умерших."
-     },
-     {
-      "q": "Какая летняя неделя за последние 16 лет была самой смертоносной?",
-      "a": "Самой тяжелой стала 33-я неделя 2015 года, когда скончался 2521 человек."
-     },
-     {
-      "q": "Как жара влияет на сердечно-сосудистую систему?",
-      "a": "В жару тело вынуждено тратить много энергии на охлаждение и усиленное кровоснабжение кожи, из-за чего сердце начинает работать в несколько раз интенсивнее."
-     }
-    ],
-    "impact": "Исследование показывает, что периоды аномальной жары в Чехии несут серьезную угрозу для здоровья, особенно для пожилых людей и граждан с сердечно-сосудистыми заболеваниями, которым в жаркие дни требуется повышенное внимание к своему состоянию и водному балансу."
-   },
-   "uk": {
-    "title": "Смертність від спеки у Чехії: як літня погода б'є рекорди",
-    "lede": "Лише чотири рази з 2010 року у Чехії за літній тиждень вмирало більше людей, ніж після температурного рекорду наприкінці червня поточного року.",
-    "meta_description": "Статистика смертності від спеки у Чехії: порівняння літніх температурних рекордів із зимовими показниками за даними Чеського статистичного управління.",
-    "paras": [
-     "<p>Співробітники Чеського статистичного управління порівняли показники щотижневої смертності в країні у періоди сильної спеки із зимовими цифрами та історичними максимумами. Аналіз показав, що за останні півтора десятиліття лише чотири рази літня тижнева смертність перевищувала рівні, зафіксовані після температурного рекорду наприкінці червня поточного року. Примітно, що кожен із найгірших літніх періодів незмінно супроводжувався погодними рекордами.</p>",
-     "<p>У найважчий літній період поточного року чеські статистики зареєстрували 2299 померлих. Для порівняння, першого січневого тижня цей показник становив 2667 людей. При цьому дані за більшу частину липня та серпня ще не опубліковані.</p>",
-     "<h3>Вплив спеки на серце та відсутність підготовки</h3>",
-     "<p>Як пояснив заступник голови Чеського кардіологічного товариства Aleš Linhart, майже у всіх державах при підвищенні температури приблизно на п'ять градусів вище за звичну норму починає зростати рівень смертності. Масштаб наслідків багато в чому залежить від готовності конкретної країни до таких умов.</p>",
-     "<blockquote>Майже в усіх країнах зі зростанням приблизно на п'ять градусів вище за звичайний нормаль починає зростати смертність</blockquote>",
-     "<p>Так прокоментував ситуацію Aleš Linhart із Чеського кардіологічного товариства.</p>",
-     "<p>За його словами, Чехія історично не була пристосована до сильної спеки, тому рівень оснащення кондиціонерами залишається низьким не лише у житлових будинках, а й у медичних закладах. Через це госпіталізація пацієнта не завжди стає гарантією порятунку. У зоні особливого ризику опиняються літні люди, які часто не відчувають спраги, а також жителі спальних районів, чиї квартири з вікнами на південь позбавлені нормального затемнення.</p>",
-     "<p>У спекотні дні людський організм змушений витрачати величезну кількість енергії на охолодження. Для цього потрібно посилити кровопостачання шкіри, через яку йде основна частина тепла, що додатково ускладнюється потовиділенням та втратою рідини.</p>",
-     "<blockquote>Серце мусить почати качати аж у кілька разів більше, щоб це компенсувати</blockquote>",
-     "<p>Зазначив кардіолог Aleš Linhart.</p>",
-     "<h3>Історичні антирекорди літньої смертності</h3>",
-     "<p>Аналіз даних із 2010 року показує, що абсолютним антирекордом за кількістю смертей за літній тиждень став 33-й період 2015 року. Тоді померла 2521 людина, а всього за три дні до початку цього тижня у населеному пункті Řež u Prahy стовпчики термометров досягли позначки 39,3 градуса Цельсія.</p>",
-     "<p>Іншими періодами з підвищеною смертністю стали:</p>",
-     "<ul><li>31-й тиждень 2018 року з показником 2379 померлих</li><li>25-й тиждень 2013 року, коли зафіксували 2338 смертей</li><li>29-й тиждень 2022 року із цифрою у 2310 людей</li></ul>",
-     "<p>У всіх цих випадках екстремальним показникам передували або супроводжували температурні рекорди. Наприклад, у тиждень дії колишнього рекорду 2012 року, коли в населеному пункті Dobřichovicích зафіксували 40,4 градуса Цельсія, померли 2024 людини. Цей показник виявився приблизно на 200 одиниць вищим за значення попереднього і наступного тижнів.</p>",
-     "<h3>Зимові епідемії та порівняння з пандемією</h3>",
-     "<p>Попри небезпеку літньої спеки, традиційно більше людей у Чехії йде з життя у зимові місяці. Починаючи з 2022 року, протягом перших десяти тижнів кожного року середня щотижнева смертність перевищувала 2400 осіб. Винятком став поточний рік із середнім показником 2347 померлих за тиждень, що все одно перевищує найгірші літні тижні.</p>",
-     "<p>Як зазначав керівник відділу епідеміології інфекційних захворювань Державного інституту охорони здоров'я Jan Kynčl, грип поряд із COVID-19 залишається єдиним захворюванням, яке регулярним чином помітно позначається на загальній статистиці смертності. Кардіологи нагадують, що навантаження на серцево-судинну систему під час лихоманки при грипі порівнянне з наслідками спеки.</p>",
-     "<blockquote>Але у chřipka є й інші наслідки. Вона може напряму уразити серцевий м'яз і призвести до його запалення</blockquote>",
-     "<p>Підкреслив Aleš Linhart, рекомендуючи пацієнтам із хроніками та хворобами серця робити щеплення.</p>",
-     "<p>Найвищі показники смертності за всю історію сучасної статистики були зафіксовані у період пандемії COVID-19. У два осінні тижні 2020 року кількість летальних випадків перевищувала позначку у 4200 осіб за тиждень.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Скільки людей померло у найгірший літній тиждень після температурного рекорду в Чехії?",
-      "a": "У найважчий літній тиждень поточного року чеські статистики зареєстрували 2299 померлих."
-     },
-     {
-      "q": "Який літній тиждень за останні 16 років був найсмертоноснішим?",
-      "a": "Найважчим став 33-й тиждень 2015 року, коли померла 2521 людина."
-     },
-     {
-      "q": "Як спека впливає на серцево-судинну систему?",
-      "a": "У спеку тіло змушене витрачати багато енергії на охолодження та посилене кровопостачання шкіри, через що серце починає працювати в кілька разів інтенсивніше."
-     }
-    ],
-    "impact": "Екстремальна спека безпосередньо впливає на рівень смертності у Чехії, хоча зима все ще забирає більше життів через епідемії вірусів. Країна погано пристосована до високих температур через низький рівень кондиціювання, а літні люди та мешканці погано захищених квартир опиняються у найбільшій небезпеці."
-   },
-   "rank": 36.75
   }
  ]
 }
