@@ -1,8 +1,196 @@
 {
- "updated_at": "2026-09-26T19:00:38+00:00",
+ "updated_at": "2026-09-26T19:40:50+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6174",
+   "slug": "v-raione-prerov-perevernulsia-traktor-s-pritsepom-11-postradavshikh",
+   "source": "tydenikpolicie.cz",
+   "original_url": "https://tydenikpolicie.cz/na-prerovsku-se-prevratil-traktor-s-vleckou-jedenact-zranenych/",
+   "top": false,
+   "tags": [
+    "kriminal",
+    "cesko"
+   ],
+   "published_at": "2026-09-26T21:40:49.794848+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "26 сентября 2026, 21:40",
+    "uk": "26 вересня 2026, 21:40"
+   },
+   "ru": {
+    "title": "В районе Přerov перевернулся трактор с прицепом: 11 пострадавших",
+    "lede": "В субботу днем в Оломоуцком крае перевернулся трактор с прицепом, перевозивший людей. В результате аварии пострадали одиннадцать человек.",
+    "meta_description": "В районе Přerov перевернулся трактор с прицепом во время тракториады. Травмы получили 11 человек, их доставили в больницы.",
+    "paras": [
+     "<p>Серьезная авария произошла в субботу, 26 сентября. Около 15:30 в полицию поступил тревожный вызов об опрокидывании трактора с прицепом в одной из общин в районе Přerov.</p>",
+     "<p>Инцидент случился во время проведения местного мероприятия под названием тракториáда. При этом организаторы мероприятия сразу уточнили, что поездка именно этого конкретного трактора не входила в официальную и организованную программу мероприятия.</p>",
+     "<h3>Последствия аварии и помощь пострадавшим</h3>",
+     "<p>На место происшествия оперативно прибыли экстренные службы. Помощь медиков потребовалась группе граждан, находившихся в прицепе в момент опрокидывания.</p>",
+     "<blockquote>Всего у нас на попечении было одиннадцать человек. Речь шла о легких травмах, ссадинах и ушибах. Никто не был в опасности для жизни. Восемь пострадавших были доставлены в хирургическое отделение больницы в Пршерове, еще трое — в отделение неотложной помощи Факультетской больницы в Оломоуце.</blockquote>",
+     "<p>Так охарактеризовала ситуацию представительница спасателей Lucie Mikisková. По ее словам, всего медицинская помощь понадобилась одиннадцати пострадавшим.</p>",
+     "<p>Врачи диагностировали у людей преимущественно легкие травмы, различные ссадины и ушибы. Угрозы для жизни ни у кого из пациентов не было.</p>",
+     "<h3>Куда доставили пострадавших</h3>",
+     "<p>Бригады скорой помощи распределили раненых по медицинским учреждениям региона для дополнительного осмотра и лечения.</p>",
+     "<p>Восемь человек доставили в хирургическое отделение больницы в городе Přerov. Еще троих пострадавших направили в отделение неотложной помощи университетской больницы Fakultní nemocnice v Оломоуце.</p>",
+     "<p>В настоящее время сотрудники правоохранительных органов устанавливают точные причины, приведшие к аварии, а также все сопутствующие обстоятельства происшествия.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Сколько людей пострадало при опрокидывании трактора?",
+      "a": "Помощь медиков потребовалась одиннадцати пострадавшим."
+     },
+     {
+      "q": "Какие травмы получили люди?",
+      "a": "У пострадавших были диагностированы легкие травмы, ссадины и ушибы, угрозы для жизни ни у кого не было."
+     },
+     {
+      "q": "Куда отвезли пострадавших?",
+      "a": "Восемь человек доставили в хирургическое отделение больницы в Přerov, а троих - в больницу Fakultní nemocnice v Оломоуце."
+     },
+     {
+      "q": "Являлась ли поездка частью официальной программы?",
+      "a": "Нет, организаторы мероприятия уточнили, что езда именно этого трактора не входила в официальную часть организованной акции."
+     }
+    ],
+    "impact": "В результате аварии трактора с прицепом в районе Přerov пострадали 11 человек. Все они получили легкие травмы и были направлены в больницы города Přerov и в Оломоуц, угрозы их жизни нет.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Авария произошла в субботу 26 сентября около 15:30, когда в полицию поступил вызов об опрокидывании трактора с прицепом в общине в районе Přerov.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Организаторы мероприятия уточнили, что поездка именно этого трактора не входила в официальную программу тракториáды.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Медицинская помощь понадобилась одиннадцати пострадавшим, у них были преимущественно легкие травмы, ссадины и ушибы, угрозы для жизни не было.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Восемь человек доставили в хирургическое отделение больницы в Přerov, еще троих — в отделение неотложной помощи университетской больницы в Оломоуце.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "тракториáда",
+       "definition": "Местное мероприятие, во время которого произошел инцидент; поездка конкретного трактора не входила в его официальную программу.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "74a737ee83851dac10b82cfff2ed42d9c106c4b94d26e08c8d531f1eea8ba832"
+    }
+   },
+   "uk": {
+    "title": "У районі Přerov перекинувся трактор із причепом: 11 постраждалих",
+    "lede": "У суботу вдень в Оломоуцькому краї перекинувся трактор із причепом, який перевозив людей. Внаслідок аварії постраждали одинадцять осіб.",
+    "meta_description": "У районі Přerov перекинувся трактор із причепом під час тракторіади. Травми отримали 11 осіб, їх доправили до лікарень.",
+    "paras": [
+     "<p>Серйозна аварія сталася в суботу, 26 вересня. Близько 15:30 до поліції надійшов тривожний виклик про перекидання трактора з причепом в одній із громад у районі Přerov.</p>",
+     "<p>Інцидент трапився під час проведення місцевого заходу під назвою тракторіада. Водночас організатори заходу одразу уточнили, що поїздка саме цього конкретного трактора не входила до офіційної та організованої програми заходу.</p>",
+     "<h3>Наслідки аварії та допомога постраждалим</h3>",
+     "<p>На місце події оперативно прибули екстрені служби. Допомога медиків знадобилася групі людей, які перебували в причепі в момент перекидання.</p>",
+     "<blockquote>Загалом у нас під опікою було одинадцять осіб. Ішлося про легкі травми, садна та забої. Ніхто не був у небезпеці для життя. Вісьмох постраждалих доправили до хірургічного відділення лікарні в Пршерові, ще трьох до відділення невідкладної допомоги Факультетської лікарні в Оломоуці.</blockquote>",
+     "<p>Так охарактеризувала ситуацію представниця рятувальників Lucie Mikisková. За її словами, загалом медична допомога знадобилася одинадцятьом постраждалим.</p>",
+     "<p>Лікарі діагностували у людей переважно легкі травми, різні садна та забої. Загрози для життя ні в кого з пацієнтів не було.</p>",
+     "<h3>Куди доправили постраждалих</h3>",
+     "<p>Бригади швидкої допомоги розподілили поранених між медичними закладами регіону для додаткового огляду та лікування.</p>",
+     "<p>Вісьмох осіб доправили до хірургічного відділення лікарні в місті Přerov. Ще трьох постраждалих направили до відділення невідкладної допомоги університетської лікарні Fakultní nemocnice v Оломоуці.</p>",
+     "<p>Наразі співробітники правоохоронних органів встановлюють точні причини, що призвели до аварії, а також усі супутні обставини події.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Скільки людей постраждало під час перекидання трактора?",
+      "a": "Медична допомога знадобилася одинадцятьом постраждалим."
+     },
+     {
+      "q": "Які травми отримали люди?",
+      "a": "У постраждалих діагностували легкі травми, садна та забої, загрози для життя ні в кого не було."
+     },
+     {
+      "q": "Куди відвезли постраждалих?",
+      "a": "Вісьмох осіб доправили до хірургічного відділення лікарні в Přerov, а трьох до лікарні Fakultní nemocnice v Оломоуці."
+     },
+     {
+      "q": "Чи була поїздка частиною офіційної програми?",
+      "a": "Ні, організатори заходу уточнили, що їзда саме цього трактора не входила до офіційної частини організованої акції."
+     }
+    ],
+    "impact": "В результате аварии трактора с прицепом в районе Přerov пострадали 11 человек. Все они получили легкие травмы и были направлены в больницы города Přerov и в Оломоуц, угрозы их жизни нет.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Аварія сталася в суботу, 26 вересня, близько 15:30 у громаді в районі Přerov.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Організатори тракторіади заявили, що поїздка цього трактора не входила до офіційної програми заходу.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "За словами представниці рятувальників Lucie Mikisková, медична допомога знадобилася одинадцятьом постраждалим.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Вісьмох постраждалих доправили до хірургічного відділення лікарні в Přerov, ще трьох — до відділення невідкладної допомоги університетської лікарні в Оломоуці.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "тракторіада",
+       "definition": "Місцевий захід, під час якого стався інцидент; поїздка конкретного трактора не входила до його офіційної програми.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "1770695928af370aced2b2f602f2b3f71ca8e5cb240e5828cb01e264f8852d11"
+    }
+   },
+   "rank": 90.0,
+   "image_url": "https://img.24n.cz/p/2026/09/v-raione-prerov-perevernulsia-traktor-s-pritsepom-11-postrad-fedeebdae6ecd958.webp",
+   "image_w": 1200,
+   "image_h": 800
+  },
   {
    "id": "n6173",
    "slug": "itogi-dnia-metro-c-zakryto-vuzy-bez-mest-otravlenie-v-shkole",
@@ -14,8 +202,8 @@
    ],
    "published_at": "2026-09-26T21:00:38.350117+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "40 минут назад",
+    "uk": "40 хвилин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 21:00",
@@ -108,8 +296,8 @@
    ],
    "published_at": "2026-09-26T19:30:53.462966+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 19:30",
@@ -309,8 +497,8 @@
    ],
    "published_at": "2026-09-26T18:27:08.861579+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 18:27",
@@ -537,7 +725,7 @@
      "body_sha256": "38850e5926f7933334115da72feb70d0746b387df302d2b32a7dd8b88a53d540"
     }
    },
-   "rank": 65.0
+   "rank": 64.786
   },
   {
    "id": "n6170",
@@ -552,8 +740,8 @@
    ],
    "published_at": "2026-09-26T18:27:08.861579+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 18:27",
@@ -778,7 +966,7 @@
      "body_sha256": "2c399bba9215bdb6598f2137f74cb598c5ad4a246ff0da1fbf86afb706329e92"
     }
    },
-   "rank": 122.0,
+   "rank": 121.598,
    "sources": [
     {
      "domain": "nospcr.cz",
@@ -802,8 +990,8 @@
    ],
    "published_at": "2026-09-26T17:20:53.301834+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 17:20",
@@ -948,7 +1136,7 @@
      "body_sha256": "57d4fe2b27586da4b2d6412b79a02d61aa1110d87724d1e7b8e51f199766571a"
     }
    },
-   "rank": 69.33,
+   "rank": 68.653,
    "image_url": "https://img.24n.cz/p/2026/09/novyi-serial-o-zagadochnykh-ischeznoveniiakh-v-prazhskom-met-d0e922f2f5db3fd7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/novyi-serial-o-zagadochnykh-ischeznoveniiakh-v-prazhskom-met-d9736cd6d6aa6d59.webp"
@@ -981,8 +1169,8 @@
    ],
    "published_at": "2026-09-26T16:14:33.704748+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 16:14",
@@ -1243,7 +1431,7 @@
      "body_sha256": "7906e68075e7161eef86c133c59333273ae853ae3cb6be065c43351663d1545c"
     }
    },
-   "rank": 115.961,
+   "rank": 114.809,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -1274,8 +1462,8 @@
    ],
    "published_at": "2026-09-26T16:14:33.704748+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 16:14",
@@ -1498,7 +1686,7 @@
      "body_sha256": "e6213bab946b1ab2439a2e3accb1b5e910cf59d4bb747e4410ef6ab58d09628f"
     }
    },
-   "rank": 107.191,
+   "rank": 106.126,
    "sources": [
     {
      "domain": "press.news",
@@ -1538,8 +1726,8 @@
    ],
    "published_at": "2026-09-26T15:09:41.396558+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 15:09",
@@ -1687,7 +1875,7 @@
      "body_sha256": "0c7958c388750048e478ad96ab70642ffc416e85304c7ddc2526fe640d592a4f"
     }
    },
-   "rank": 93.008,
+   "rank": 92.069,
    "sources": [
     {
      "domain": "media24.cz",
@@ -1714,8 +1902,8 @@
    ],
    "published_at": "2026-09-26T15:09:41.396558+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 15:09",
@@ -1917,7 +2105,7 @@
      "body_sha256": "a2fa5d571a5883addb4bf16e992f2733477c65f35decd6200ece7f037371a58a"
     }
    },
-   "rank": 129.444,
+   "rank": 128.138,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -1973,8 +2161,8 @@
    ],
    "published_at": "2026-09-26T14:05:41.870383+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 14:05",
@@ -2246,8 +2434,8 @@
    ],
    "published_at": "2026-09-26T14:05:41.870383+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 14:05",
@@ -2451,7 +2639,7 @@
      "body_sha256": "46d5b4b16dc04ff27dcdbe2b868ab2062bbe5510a19ef0379e823e995b76ed45"
     }
    },
-   "rank": 70.758,
+   "rank": 70.032,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-c29407819f3b3758.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-5ba5585849ec23b4.webp"
@@ -2484,8 +2672,8 @@
    ],
    "published_at": "2026-09-26T14:05:41.870383+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 14:05",
@@ -2654,7 +2842,7 @@
      "body_sha256": "57fe06d5b40c5326dfd26f95b6a0ca14172fabbf0eb05b219dc837487e891ce7"
     }
    },
-   "rank": 100.948,
+   "rank": 99.912,
    "sources": [
     {
      "domain": "praha5.cz",
@@ -2983,7 +3171,7 @@
      "body_sha256": "4d512ae091c7adb5e60bae82b03d0dd2f3a5396966f402d232f75b18d22354f6"
     }
    },
-   "rank": 85.297,
+   "rank": 84.406,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -3195,7 +3383,7 @@
      "body_sha256": "6d7eacae44ceec572564d1bee0795ae742703ae75c955853bea751f105a7c154"
     }
    },
-   "rank": 103.84,
+   "rank": 102.756,
    "sources": [
     {
      "domain": "metro.cz",
@@ -3396,7 +3584,7 @@
      "body_sha256": "ab932d1da124316e4d5c48285ae9426a0ae7288f36f1e31f62b8ffa6add7c916"
     }
    },
-   "rank": 101.985,
+   "rank": 100.921,
    "image_url": "https://img.24n.cz/p/2026/09/kak-pravilno-slivat-vodu-iz-basseina-po-cheshskim-zakonam-7325cc6f4e86a962.webp",
    "image_w": 1366,
    "image_h": 910
@@ -3791,7 +3979,7 @@
      "body_sha256": "6fe7b7153a339a8eb125f68f9decbaabb02caee8088b4647ce401f83a2871633"
     }
    },
-   "rank": 85.125,
+   "rank": 84.206,
    "sources": [
     {
      "domain": "krimi-plzen.cz",
@@ -3983,7 +4171,7 @@
      "body_sha256": "1239e9fe2a406bb22262cd74b2605453edf6b3e6e88b72b69f2dce28480a87dd"
     }
    },
-   "rank": 93.19,
+   "rank": 92.183,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -4209,7 +4397,7 @@
      "body_sha256": "b5ead0469322d0b4a20a71295c0dc6e0957daec25c52e393508489248fff6bc8"
     }
    },
-   "rank": 106.631,
+   "rank": 105.479,
    "sources": [
     {
      "domain": "isvetelsko.cz",
@@ -4239,8 +4427,8 @@
    ],
    "published_at": "2026-09-26T10:01:22.742810+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 10:01",
@@ -4282,7 +4470,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 70.77
+   "rank": 69.996
   },
   {
    "id": "n6153",
@@ -4540,7 +4728,7 @@
      "body_sha256": "b79861b40cec753e03551b635040bbcf16e0eab4be31eee5b2ebd87d879c6f6e"
     }
    },
-   "rank": 79.221,
+   "rank": 78.35,
    "image_url": "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-813e65d4c453c77e.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-de763b7b5aa13dda.webp",
@@ -4791,7 +4979,7 @@
      "body_sha256": "63e3bd03f1a75c9d0087318f5ecf0918dba98ce25b36974eabc203f80af9ba1b"
     }
    },
-   "rank": 105.628,
+   "rank": 104.467,
    "image_url": "https://img.24n.cz/p/2026/09/mesta-v-vuzakh-chekhii-pod-ugrozoi-iz-za-sokrashcheniia-biud-bd51c5b69e22f72d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -5101,7 +5289,7 @@
      "body_sha256": "816832899672940a452fa9ee92b7aea976fbbdefba0287d4decadd00960bacfe"
     }
    },
-   "rank": 101.227,
+   "rank": 100.114,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -5337,7 +5525,7 @@
      "body_sha256": "e1905dad2fb31f04e27a699cc1bac70fe91f82daecb96cb0ab9bcee4c014764b"
     }
    },
-   "rank": 113.55,
+   "rank": 112.302,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -5371,8 +5559,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -5520,7 +5708,7 @@
      "body_sha256": "9cde4e1e9dcbc30372bc24061debd4cdcd6fb4d4f0e7b91ce924dd475955a102"
     }
    },
-   "rank": 89.863,
+   "rank": 88.856,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -5550,8 +5738,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -5767,7 +5955,7 @@
      "body_sha256": "dd4ee14bcd9ba3488046e4ad82d7338c37f31fa7108eb60100c978fe099bd826"
     }
    },
-   "rank": 90.727,
+   "rank": 89.71,
    "image_url": "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-1b958b657c30099f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-af7dc72099a0aa7d.webp",
@@ -5820,8 +6008,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -6043,7 +6231,7 @@
      "body_sha256": "8dd5a8a754660a33a85b80b66feccc4fee3dc65d819791e44de9605f71903483"
     }
    },
-   "rank": 77.766,
+   "rank": 76.895,
    "sources": [
     {
      "domain": "teplicky.denik.cz",
@@ -6077,8 +6265,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -6246,7 +6434,7 @@
      "body_sha256": "be18fa30066962f3aacaa2a4e31c527aa087641b0de17caedbe8807f46303609"
     }
    },
-   "rank": 89.863,
+   "rank": 88.856,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -6295,8 +6483,8 @@
    ],
    "published_at": "2026-09-26T07:28:47.550232+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 07:28",
@@ -6533,7 +6721,7 @@
      "body_sha256": "3e5fac46128ec39db818990274b6cff21b3595036b282c29da90cd88cfa326cf"
     }
    },
-   "rank": 69.527,
+   "rank": 68.733,
    "sources": [
     {
      "domain": "nachodsky.denik.cz",
@@ -6561,8 +6749,8 @@
    ],
    "published_at": "2026-09-26T06:25:33.562559+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 06:25",
@@ -6726,7 +6914,7 @@
      "body_sha256": "a6919f3df675554e11ce91e513ca1615c578203fd1779011e348927709451819"
     }
    },
-   "rank": 82.434,
+   "rank": 81.476,
    "sources": [
     {
      "domain": "globe24.cz",
@@ -6760,8 +6948,8 @@
    ],
    "published_at": "2026-09-26T06:25:33.562559+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 06:25",
@@ -6941,7 +7129,7 @@
      "body_sha256": "03227ec4bd92c957bde422da4e8ec9021516628ad7e4978c8e8c0021908c42e8"
     }
    },
-   "rank": 70.777,
+   "rank": 69.954,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-s-noiabria-vremenno-propadet-lekarstvo-ot-epilepsi-440e0742a4c87803.webp",
    "image_w": 1366,
    "image_h": 910
@@ -6959,8 +7147,8 @@
    ],
    "published_at": "2026-09-26T05:19:47.071388+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 05:19",
@@ -7131,7 +7319,7 @@
      "body_sha256": "3d8fe5be3711ea31605e8508514b02e7537954717d663b54d280ff71a64f1247"
     }
    },
-   "rank": 61.262,
+   "rank": 60.536,
    "image_url": "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-00c768c0885e11f7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-4a44a2abfd30cd52.webp",
@@ -7174,8 +7362,8 @@
    ],
    "published_at": "2026-09-26T05:19:47.071388+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 05:19",
@@ -7309,7 +7497,7 @@
      "body_sha256": "e990ddd6a8b70787388e0f13d3aeea6e3884357a47ef60e00901fe9fdd59d330"
     }
    },
-   "rank": 61.262,
+   "rank": 60.536,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-529914e56c558553.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-477956ab41467e00.webp",
@@ -7362,8 +7550,8 @@
    ],
    "published_at": "2026-09-26T04:10:36.838356+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 04:10",
@@ -7559,7 +7747,7 @@
      "body_sha256": "c089557ae2d06c9de52e77eed1511888ea2ee670a62e7a9b67cba3f779ff4593"
     }
    },
-   "rank": 65.615,
+   "rank": 64.821,
    "sources": [
     {
      "domain": "media24.cz",
@@ -7623,8 +7811,8 @@
    ],
    "published_at": "2026-09-26T03:03:58.880450+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 03:03",
@@ -7758,7 +7946,7 @@
      "body_sha256": "4b2430dc77c03cf9d9298cb25bc61336e938afd2de16bdcf02aba7321746a5a5"
     }
    },
-   "rank": 76.061,
+   "rank": 75.123,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -7787,8 +7975,8 @@
    ],
    "published_at": "2026-09-26T03:03:58.880450+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 03:03",
@@ -7953,7 +8141,7 @@
      "body_sha256": "b3030b20547a3a34f60d8e0708b29e29ac50d080b9e386c724c4e8eb418926a2"
     }
    },
-   "rank": 89.392,
+   "rank": 88.288,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -8003,8 +8191,8 @@
    ],
    "published_at": "2026-09-26T03:03:58.880450+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 03:03",
@@ -8196,7 +8384,7 @@
      "body_sha256": "6f0303c2516d4f0d6d8180abb733b7eaeb1b3ea71844ce25529a65bc5df43544"
     }
    },
-   "rank": 86.255
+   "rank": 85.191
   },
   {
    "id": "n6136",
@@ -8369,7 +8557,7 @@
      "body_sha256": "4b29103e30f833708df32303b8629f88afe8a60f2ba148602dffccc634cf57af"
     }
    },
-   "rank": 69.093,
+   "rank": 68.222,
    "image_url": "https://img.24n.cz/p/2026/09/ministr-zdravookhraneniia-chekhii-zashchishchaet-reformu-str-2f53770728560c7b.webp",
    "image_w": 630,
    "image_h": 350
@@ -8691,7 +8879,7 @@
      "body_sha256": "339010548529244506d253d8bac26e4965532bd47b3f4c984c1e433c004b1c6a"
     }
    },
-   "rank": 56.378,
+   "rank": 55.652,
    "image_url": "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-27ce3d24bb192945.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-dd23b87dcb1f9bd7.webp",
@@ -8978,7 +9166,7 @@
      "body_sha256": "3accde20d33654566e12a83776b0d3f2fbdbf9829cd77ef16c51889c329f4086"
     }
    },
-   "rank": 75.007,
+   "rank": 74.02,
    "sources": [
     {
      "domain": "mf.gov.cz",
@@ -9005,8 +9193,8 @@
    ],
    "published_at": "2026-09-25T21:00:45.336303+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "25 сентября 2026, 21:00",
@@ -9088,7 +9276,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 58.522
+   "rank": 57.709
   },
   {
    "id": "n6132",
@@ -9146,7 +9334,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 54.215,
+   "rank": 53.422,
    "forecast": true
   },
   {
@@ -9315,7 +9503,7 @@
      "body_sha256": "2ca0f7a004d74fb4d1dc69a73f93c1fb733e772dd4399c91cd286752b6d13574"
     }
    },
-   "rank": 65.862,
+   "rank": 64.894,
    "sources": [
     {
      "domain": "karvinsky.denik.cz",
@@ -9627,7 +9815,7 @@
      "body_sha256": "fbb602df805a8beb3841853f79d3e31a82bef66a174089064caebffc7ccb49e8"
     }
    },
-   "rank": 60.593,
+   "rank": 59.702,
    "sources": [
     {
      "domain": "metro.cz",
@@ -9845,7 +10033,7 @@
      "body_sha256": "71d19c11dca98ab4b78328577e6033755cbf9d3635698813f561e58c394534e6"
     }
    },
-   "rank": 35.749
+   "rank": 35.217
   },
   {
    "id": "n6128",
@@ -10024,7 +10212,7 @@
      "body_sha256": "7b199bfab2b4318c18967ca21b14fdaf7d86ef89c91ad7f9eccc138c5625129d"
     }
    },
-   "rank": 38.999,
+   "rank": 38.418,
    "image_url": "https://img.24n.cz/p/2026/09/otkaz-verit-glazam-pianyi-khoziain-ne-priznal-sbezhavshego-p-e4fab2e96fe916ca.webp",
    "image_w": 1147,
    "image_h": 661
@@ -10274,7 +10462,7 @@
      "body_sha256": "45b5b72908fd987b32c36096d45a2423bd0b2527678d35681b95e42ec045823a"
     }
    },
-   "rank": 67.172
+   "rank": 66.156
   },
   {
    "id": "n6126",
@@ -10485,7 +10673,7 @@
      "body_sha256": "0c6fe6c34c2ac1391cab676ef2873664f415bd882d2aabb898cc0b06fe0d66c3"
     }
    },
-   "rank": 47.478
+   "rank": 46.752
   },
   {
    "id": "n6125",
@@ -10779,7 +10967,7 @@
      "body_sha256": "f7b7c2ddd3f8d5ce743948d0faf4a067e2bd5dc9943a39b9976b6d973127f932"
     }
    },
-   "rank": 80.396,
+   "rank": 79.167,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -11037,7 +11225,7 @@
      "body_sha256": "7099f56be45a1641e50faf9f1fb636780144e5ecb75ed64006ef8b5d8fb1bf7a"
     }
    },
-   "rank": 69.964,
+   "rank": 68.88,
    "sources": [
     {
      "domain": "metro.cz",
@@ -11280,7 +11468,7 @@
      "body_sha256": "47c15fb3cdb18ccb62304f65f36c377636ae0c776bc841e6220721ad6f1c6a37"
     }
    },
-   "rank": 92.387
+   "rank": 91.918
   },
   {
    "id": "n6122",
@@ -11475,7 +11663,7 @@
      "body_sha256": "73047cdc28202f3bb14beea4a4c189a8eb47a20d4fcca8af295b93002556eef7"
     }
    },
-   "rank": 62.193,
+   "rank": 61.206,
    "sources": [
     {
      "domain": "europesays.com",
@@ -11681,7 +11869,7 @@
      "body_sha256": "8c74b061a7ae77337ab3b63500451e44f808d01593564ac96488a984bf6eb163"
     }
    },
-   "rank": 63.166,
+   "rank": 62.15,
    "image_url": "https://img.24n.cz/p/2026/09/razvitie-pragi-i-zhile-glavnye-spory-na-debatakh-b5f26c814f3a16a4.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/razvitie-pragi-i-zhile-glavnye-spory-na-debatakh-03c251d72c4545e2.webp"
@@ -11946,7 +12134,7 @@
      "body_sha256": "53d38fbbfb27a82e638157103687e23c949e8cd994bc0c562b42141f35b8194c"
     }
    },
-   "rank": 50.512
+   "rank": 49.689
   },
   {
    "id": "n6119",
@@ -12143,7 +12331,7 @@
      "body_sha256": "d01b317bd0bcb230dd6244e0a7c923914cf66660ffccd349438756512210e3f5"
     }
    },
-   "rank": 52.889,
+   "rank": 52.027,
    "sources": [
     {
      "domain": "otuzilci-brno.cz",
@@ -12462,7 +12650,7 @@
      "body_sha256": "7ad28a5c8d5d8c774631372e2491c0474ded077acafbed635399cba76b4d292d"
     }
    },
-   "rank": 44.569,
+   "rank": 43.843,
    "image_url": "https://img.24n.cz/p/2026/09/den-sviatogo-martina-2026-kuda-poekhat-za-vinom-i-gusem-4befe9fe378682a0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/den-sviatogo-martina-2026-kuda-poekhat-za-vinom-i-gusem-7e661d3977e67d1a.webp",
@@ -12778,7 +12966,7 @@
      "body_sha256": "848574036b846f651ac34a3954cac581b46b7c2d3480bac599ed19d24230ddbf"
     }
    },
-   "rank": 41.074,
+   "rank": 40.396,
    "image_url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-provesti-noch-na-nastoiashchem-zamke-top-mest-b1b7669fd0ec83f3.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-v-chekhii-provesti-noch-na-nastoiashchem-zamke-top-mest-39bf1502c3f19884.webp",
@@ -13025,7 +13213,7 @@
      "body_sha256": "672df332734cdebc4bb9a3af850ae5cd07149204d92712bde402be61d2cac1c2"
     }
    },
-   "rank": 55.743,
+   "rank": 54.824,
    "sources": [
     {
      "domain": "zoopraha.cz",
@@ -13229,7 +13417,7 @@
      "body_sha256": "112062fc629c99f04d4b8d518ea5e9871ee1a03a2a611ccdb2981442e47c9655"
     }
    },
-   "rank": 67.478
+   "rank": 66.365
   },
   {
    "id": "n6114",
@@ -13462,7 +13650,7 @@
      "body_sha256": "066df540a9147daa8b07edf8cbee054d8f06b6819c834d378ae8add03cac7927"
     }
    },
-   "rank": 60.722,
+   "rank": 59.706,
    "image_url": "https://img.24n.cz/p/2026/09/sestka-zdrava-hrava-2026-programma-meropriiatii-v-prage-dd113c223d7878ad.webp",
    "image_w": 750,
    "image_h": 300
@@ -13641,7 +13829,7 @@
      "body_sha256": "d5a76650147315d55699b54ea2ad26b59d6efd0e6a347b7804f637286ad744d9"
     }
    },
-   "rank": 52.047,
+   "rank": 51.176,
    "image_url": "https://img.24n.cz/p/2026/09/michelin-key-v-chekhii-gid-nazval-luchshie-oteli-fc8a421399044bc0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/michelin-key-v-chekhii-gid-nazval-luchshie-oteli-92df1bdbba63c917.webp",
@@ -13904,7 +14092,7 @@
      "body_sha256": "e4bbdf4ff30de50ee5d0e45755af293335c1e338be004f45455c5c7772cd3db2"
     }
    },
-   "rank": 59.272,
+   "rank": 58.266,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -14151,7 +14339,7 @@
      "body_sha256": "77e950721f5b695b6cd352e0a9ec06fe674e05486d5db7d6fbcbf71169a3784c"
     }
    },
-   "rank": 54.554,
+   "rank": 53.615,
    "sources": [
     {
      "domain": "korunavysociny.cz",
@@ -14391,7 +14579,7 @@
      "body_sha256": "aaad84dfe99e55ca3116449ce51c5b8ec107c6b941ce9ac357f164b118962f1f"
     }
    },
-   "rank": 53.429,
+   "rank": 52.509,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-na-mostu-inomarka-sbila-dvukh-peshekhodov-60bd577306b4fb9a.webp",
    "image_w": 1200,
    "image_h": 800
@@ -14504,7 +14692,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 44.178,
+   "rank": 43.403,
    "leisure": true
   },
   {
@@ -14654,7 +14842,7 @@
      "body_sha256": "b72953e4d11da99c5b2fd5e6a71ac9a5b0084bdff4d47aad7a73e4ee9d74dfb7"
     }
    },
-   "rank": 48.476
+   "rank": 47.605
   },
   {
    "id": "n6107",
@@ -14793,7 +14981,7 @@
      "body_sha256": "bf78dc9f914e7525b2cf318f52274dbbe71fa4258bfb26e5fd38326c428283e4"
     }
    },
-   "rank": 48.476,
+   "rank": 47.605,
    "image_url": "https://img.24n.cz/p/2026/09/kak-bystree-dozvonitsia-na-goriachuiu-liniiu-dlia-inostrants-750248c4fb0f7882.webp",
    "image_w": 1600,
    "image_h": 901
@@ -14962,7 +15150,7 @@
      "body_sha256": "d5990b788878372a1b8f085c2dc1d36249685bf87c737c0ce9247900cf6670ac"
     }
    },
-   "rank": 63.768,
+   "rank": 62.607,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/OVBOr9IakqY"
@@ -15154,7 +15342,7 @@
      "body_sha256": "e519175d8bc474cf607292420002d1129bc2e5802446140fc30c202e3f3696d4"
     }
    },
-   "rank": 42.512,
+   "rank": 41.738,
    "image_url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-spriatany-sledy-sviatogo-vatslava-tri-glavnykh-d0ed7ba73074d615.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-v-chekhii-spriatany-sledy-sviatogo-vatslava-tri-glavnykh-ec05b4dacbf5ba3b.webp",
@@ -15450,7 +15638,7 @@
      "body_sha256": "063893a0b73604bea6e326695b14a770020bb53a7979062b6a94a0002b6515e7"
     }
    },
-   "rank": 42.938,
+   "rank": 42.144,
    "sources": [
     {
      "domain": "divadelni-noviny.cz",
@@ -15660,7 +15848,7 @@
      "body_sha256": "8755b5e32bef467314e62db564e6f6b478047be7456809c206b034a473ac77e6"
     }
    },
-   "rank": 62.836,
+   "rank": 61.675,
    "image_url": "https://img.24n.cz/p/2026/09/dengi-za-profilaktiku-v-chekhii-patsientam-vyplatiat-do-1500-b66aca904b371916.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15822,7 +16010,7 @@
      "body_sha256": "6d8301955044b12ba721aa16466fc482683eaa4f5135a245f9bd9ed2f0445caa"
     }
    },
-   "rank": 84.014
+   "rank": 83.567
   },
   {
    "id": "n6101",
@@ -15991,7 +16179,7 @@
      "body_sha256": "c999d020277d4ba3831b333935da9edf8924d29895e199990cc1c6485387f0e7"
     }
    },
-   "rank": 48.991,
+   "rank": 48.072,
    "image_url": "https://img.24n.cz/p/2026/09/milliony-na-perednii-krai-nauki-eks-vladelitsa-moravia-it-bo-42921f2e7d98d983.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/milliony-na-perednii-krai-nauki-eks-vladelitsa-moravia-it-bo-8d308b78c53f3e4b.webp",
@@ -16202,7 +16390,7 @@
      "body_sha256": "0a0c21d829e56e7370cc0150a97b339f6dcc42b7376cd8f05e842f28a9c6a0e7"
     }
    },
-   "rank": 62.915,
+   "rank": 61.734,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -16357,7 +16545,7 @@
      "body_sha256": "9c4cb9ac42e7682a42f7ee0e4ad8e8c4c3aa233892dd309e988f55fc2840b8a7"
     }
    },
-   "rank": 55.964,
+   "rank": 54.9,
    "sources": [
     {
      "domain": "zpravykarlovarsko.cz",
@@ -16701,7 +16889,7 @@
      "body_sha256": "27a6fc4a9b4e3bc028f5f0a27db9d53181ac023800134d33b36629085ce3529a"
     }
    },
-   "rank": 91.661,
+   "rank": 91.169,
    "sources": [
     {
      "domain": "ekofilm.cz",
@@ -17006,7 +17194,7 @@
      "body_sha256": "8ad7be8c6744c9e0adf8752456d9c5547bf9b94e461e45ccd5fb2e0a7751a03a"
     }
    },
-   "rank": 45.789,
+   "rank": 44.918,
    "image_url": "https://img.24n.cz/p/2026/09/vinnyi-festival-v-valtice-traditsii-vino-i-razvlecheniia-dli-4e2f2ca548399d2d.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/vinnyi-festival-v-valtice-traditsii-vino-i-razvlecheniia-dli-106b0b6dc413143f.webp",
@@ -17227,7 +17415,7 @@
      "body_sha256": "ceb8143d991404206ad7c67d6813adf724523c2cdaccb544ea1320f19390ed2c"
     }
    },
-   "rank": 49.21
+   "rank": 48.242
   },
   {
    "id": "n6095",
@@ -17448,7 +17636,7 @@
      "body_sha256": "fd7d462b17938f32b3897e581af547a5adac6cfcdcfbb355d78f80f464bd9f93"
     }
    },
-   "rank": 86.686
+   "rank": 86.217
   },
   {
    "id": "n6094",
@@ -17566,7 +17754,7 @@
     ],
     "impact": "Книга Павла Черного представляет интерес для любителей чешской истории и не имеет прямых практических или финансовых последствий для повседневной жизни жителей Чехии."
    },
-   "rank": 46.029,
+   "rank": 45.109,
    "sources": [
     {
      "domain": "media24.cz",
@@ -17776,7 +17964,7 @@
      "body_sha256": "69cb11c6ebd782e9894d0e7f113deac4190376eb86d3ea2ef6178ad1c01bf4a1"
     }
    },
-   "rank": 28.586,
+   "rank": 28.015,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -18010,7 +18198,7 @@
      "body_sha256": "6d962c355359a17b67b0f382af99df0ecee7a67fd9ff4093c5c539294a6df489"
     }
    },
-   "rank": 55.719
+   "rank": 54.606
   },
   {
    "id": "n6091",
@@ -18215,7 +18403,7 @@
      "body_sha256": "3858b8046656a3a95929175b32bc75e592284a945752cf2c027e98255a2f47e0"
     }
    },
-   "rank": 45.247,
+   "rank": 44.327,
    "image_url": "https://img.24n.cz/p/2026/09/v-brno-vnedrili-unikalnyi-metod-poiska-opukholei-legkikh-66285ae3c52bd4e6.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-brno-vnedrili-unikalnyi-metod-poiska-opukholei-legkikh-290c59271c875387.webp"
@@ -18399,7 +18587,7 @@
      "body_sha256": "d07ae38310f401a0b0eefece5b3d074bea9054cef08ae38aae190e2a9bf5003d"
     }
    },
-   "rank": 54.772,
+   "rank": 53.659,
    "image_url": "https://img.24n.cz/p/2026/09/seriinyi-ubiitsa-iz-pragi-ot-dvoinogo-ubiistva-k-novomu-rass-ee0281e70f29906b.webp",
    "image_w": 1200,
    "image_h": 674
@@ -18640,7 +18828,7 @@
      "body_sha256": "7320e3fb4216b34f549de3b2240d562df645c3b288d74d65b78b241af5cc7dae"
     }
    },
-   "rank": 51.109,
+   "rank": 50.054,
    "sources": [
     {
      "domain": "plzensky.denik.cz",
@@ -18909,7 +19097,7 @@
      "body_sha256": "67d1b79622b0c748978a349335bdf9eeb096b5c15a5da6f64470983eeca04a5d"
     }
    },
-   "rank": 49.233
+   "rank": 48.217
   },
   {
    "id": "n6087",
@@ -19162,7 +19350,7 @@
      "body_sha256": "318ac4214a058faf80525c0f6729bef2273c173dda05498f8530778559fa5b6e"
     }
    },
-   "rank": 43.764
+   "rank": 42.845
   },
   {
    "id": "n6086",
@@ -19379,7 +19567,7 @@
      "body_sha256": "711508cb0aae7cbc57854b1a50d523da94b30b4bbc903197815f37e99c60f38c"
     }
    },
-   "rank": 47.286,
+   "rank": 46.221,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -19603,7 +19791,7 @@
      "body_sha256": "c5c5b4c679615c4107e72a02842ff60e08e71d80a38d7fa6afc7878285070626"
     }
    },
-   "rank": 37.927
+   "rank": 37.056
   },
   {
    "id": "n6084",
@@ -19784,7 +19972,7 @@
      "body_sha256": "c2fed0a07afdec7564d452fd38d8d1fa49b913fcca79f2c2eb5fcdf26c4924b7"
     }
    },
-   "rank": 33.068,
+   "rank": 32.293,
    "image_url": "https://img.24n.cz/p/2026/09/legendarnyi-futbolist-antonin-panenka-poluchil-statuiu-v-pra-2bdc27e4a66818d3.webp",
    "image_w": 750,
    "image_h": 300
@@ -19982,7 +20170,7 @@
      "body_sha256": "b6f36bbf6b54f14bb3682d1fe61ec2a761d506f3cf473d6d938513e0adb16296"
     }
    },
-   "rank": 40.921,
+   "rank": 39.963,
    "sources": [
     {
      "domain": "infodnes.cz",
@@ -20181,7 +20369,7 @@
      "body_sha256": "203db195d6e78640eab41aab9c12d2502db148f113a5d2f279c2a6240d77e3e4"
     }
    },
-   "rank": 40.621,
+   "rank": 39.634,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -20347,7 +20535,7 @@
      "body_sha256": "f608ad6dffb22d66035a543fd1e2f6a8653b8c813fdb8d4e5e2c04c36e71b0f0"
     }
    },
-   "rank": 70.404,
+   "rank": 70.002,
    "image_url": "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-e4073a1b24e18b79.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-24880a5a6deae71c.webp",
@@ -20666,7 +20854,7 @@
      "body_sha256": "2a35e07f771d0acf6de4e5468585df5f9adcb355bc6561e2612ea6e37712628c"
     }
    },
-   "rank": 29.868,
+   "rank": 29.143,
    "image_url": "https://img.24n.cz/p/2026/09/automaticke-mlyny-pardubice-vyroci-tri-goda-novoi-ery-7467577587b78c1f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/automaticke-mlyny-pardubice-vyroci-tri-goda-novoi-ery-cfa51e7a5ee5f74a.webp",
@@ -20936,7 +21124,7 @@
      "body_sha256": "b57724c9a22bdc7837adc179e9a6d9381604f1f7fd19117e117666f76ec517db"
     }
    },
-   "rank": 53.365,
+   "rank": 52.068,
    "sources": [
     {
      "domain": "praha13.cz",
@@ -21148,7 +21336,7 @@
      "body_sha256": "562156c7f40466fe8b463415538a8ab5b5827e5d9e3e82c23157ca12e2f41f87"
     }
    },
-   "rank": 33.851,
+   "rank": 33.028,
    "sources": [
     {
      "domain": "protisedi.cz",
@@ -21322,7 +21510,7 @@
      "body_sha256": "04686a2255699713eb3ced1bfc74cc247ea85213b0e3ba3b51fcdf22312c231a"
     }
    },
-   "rank": 34.804,
+   "rank": 33.884,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -21642,7 +21830,7 @@
      "body_sha256": "2adfac99c42f0197760c256c047db1ac484aae817e928844c5ee86c9c962cbeb"
     }
    },
-   "rank": 30.041,
+   "rank": 29.247,
    "sources": [
     {
      "domain": "masrkh.oblast.cz",
@@ -21716,8 +21904,8 @@
    ],
    "published_at": "2026-09-24T21:35:29.869554+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 21:35",
@@ -21895,7 +22083,7 @@
      "body_sha256": "aebe0b52736ea825f749a49bb3c60a7b03b39ced971b534cd0354c88b97ced6d"
     }
    },
-   "rank": 39.065,
+   "rank": 38.15,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -21925,8 +22113,8 @@
    ],
    "published_at": "2026-09-24T21:02:41.044491+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 21:02",
@@ -22069,7 +22257,7 @@
      "body_sha256": "e3ee9716db365533e7ca11f3f3eb121ecf9a7e9ff47bb8504093e046962e86a4"
     }
    },
-   "rank": 15.772,
+   "rank": 15.75,
    "image_url": "https://img.24n.cz/p/2026/09/bred-pitt-v-62-goda-pokoriaet-aliasku-v-novom-filme-o-vyzhiv-a9458286c383c5a0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/bred-pitt-v-62-goda-pokoriaet-aliasku-v-novom-filme-o-vyzhiv-6c94169c303c22b1.webp"
@@ -22107,8 +22295,8 @@
    ],
    "published_at": "2026-09-24T21:02:41.044491+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 21:02",
@@ -22246,7 +22434,7 @@
      "body_sha256": "e5506a48390ac13204e2d8a6e0d9e6540089849519ec9d65c98af18fe58e15b4"
     }
    },
-   "rank": 38.554,
+   "rank": 38.5,
    "sources": [
     {
      "domain": "sport.ceskatelevize.cz",
@@ -22286,8 +22474,8 @@
    ],
    "published_at": "2026-09-24T21:02:41.044491+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 21:02",
@@ -22477,7 +22665,7 @@
      "body_sha256": "000f5774a7d8df72ee45ee22025f94e7a4b7b03167206f7ddb7a840d929fb4a0"
     }
    },
-   "rank": 42.76,
+   "rank": 42.7,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -22503,8 +22691,8 @@
    ],
    "published_at": "2026-09-24T21:00:44.389286+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 21:00",
@@ -22588,7 +22776,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 29.402
+   "rank": 29.4
   },
   {
    "id": "n6070",
@@ -26797,7 +26985,7 @@
      "body_sha256": "cc6f94e1ba874b52383413b153140350052b84a5aecc4f19981c93b7586190b6"
     }
    },
-   "rank": 70.533
+   "rank": 70.086
   },
   {
    "id": "n6051",
@@ -35530,7 +35718,7 @@
      "body_sha256": "0c58ff85668aaa7c7c322438b4ec7049dc26862ab92d8f83a494f918a639bbbc"
     }
    },
-   "rank": 55.599,
+   "rank": 55.219,
    "image_url": "https://img.24n.cz/p/2026/09/ministr-selskogo-khoziaistva-chekhii-zakazal-analiz-chtoby-o-ccc952309cd27833.webp",
    "image_w": 620,
    "image_h": 349
@@ -37085,7 +37273,7 @@
      "body_sha256": "ed269f97f9e4f29792c99a27b3a457e03fadafaaefa9fc7657c8e0ed5daac580"
     }
    },
-   "rank": 58.511,
+   "rank": 58.1,
    "sources": [
     {
      "domain": "media24.cz",
@@ -37604,7 +37792,7 @@
      "body_sha256": "1fbaf1026e6cd19365cf57623dade8046c80b5768126c311c99c558e1bcddb8b"
     }
    },
-   "rank": 50.569,
+   "rank": 50.211,
    "image_url": "https://img.24n.cz/p/2026/09/molodezh-v-chekhii-otkryvaet-analogovuiu-fotografiiu-pochemu-b0788e8232be5f1e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -39845,8 +40033,8 @@
    ],
    "published_at": "2026-09-23T21:03:13.796153+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 21:03",
@@ -40000,8 +40188,8 @@
    ],
    "published_at": "2026-09-23T21:03:13.796153+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 21:03",
@@ -40181,8 +40369,8 @@
    ],
    "published_at": "2026-09-23T21:00:41.155588+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 21:00",
@@ -55826,8 +56014,8 @@
    ],
    "published_at": "2026-09-22T21:10:01.020909+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "22 сентября 2026, 21:10",
@@ -55984,8 +56172,8 @@
    ],
    "published_at": "2026-09-22T21:10:01.020909+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "22 сентября 2026, 21:10",
@@ -56174,8 +56362,8 @@
    ],
    "published_at": "2026-09-22T21:10:01.020909+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "22 сентября 2026, 21:10",
@@ -56389,8 +56577,8 @@
    ],
    "published_at": "2026-09-22T21:00:55.536283+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "22 сентября 2026, 21:00",
@@ -66374,256 +66562,6 @@
      "official": false,
      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-se-pristi-tyden-setka-v-rime-s-italskou-premierkou-meloniovou-297761",
      "title": "Babiš se příští týden setká v Římě s italskou premiérkou Meloniovou - Seznam Zprávy"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 3
-  },
-  {
-   "id": "n5874",
-   "slug": "praga-rekonstruiruet-priiut-na-ulitse-tusarova-za-300-millionov-kron",
-   "source": "prazsky.denik.cz",
-   "original_url": "https://prazsky.denik.cz/zpravy-region/rekonstrukce-domu-pazat-pro-muzeum-pameti-xx-stoleti-se-prodrazila-o-22-milionu/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zpravy-region",
-   "top": false,
-   "tags": [
-    "praha",
-    "cesko",
-    "zdorovie"
-   ],
-   "published_at": "2026-09-21T21:58:54.058840+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "21 сентября 2026, 21:58",
-    "uk": "21 вересня 2026, 21:58"
-   },
-   "ru": {
-    "title": "Прага реконструирует приют на улице Тусарова за 300 миллионов крон",
-    "lede": "Мэрия Праги одобрила план реконструкции приюта для бездомных на улице Тусарова в Голешовице. После ремонта заведение будет рассчитано на людей с серьёзными проблемами здоровья и ограниченной подвижностью.",
-    "meta_description": "Мэрия Праги одобрила реконструкцию приюта Армии спасения на улице Тусарова за 200-300 млн крон. Новое заведение будет рассчитано на 80 человек, включая…",
-    "paras": [
-     "<p>Пражская мэрия одобрила реконструкцию приюта для бездомных на улице <b>Tusarova</b> в районе Голешовице. Здание, которое сейчас использует <b>Armáda spásy</b>, не соответствует современным стандартам и не приспособлено для людей с серьёзными проблемами здоровья. После ремонта здесь появятся 80 мест, из них 20 - для пациентов, нуждающихся в повышенном уходе.</p>",
-     "<h3>Почему закрыли старое дневное отделение</h3>",
-     "<p>В мае этого года мэрия попросила <b>Armádu spásy</b> закрыть дневной центр при приюте. Причина: многочисленные жалобы жителей Голешовиц. Заместительница пражского приматора <b>Alexandra Udženija</b> (<b>ODS</b>) пояснила, что работа центра давно не отвечала требованиям. «С 1 мая услуга этого крупного дневного центра была прекращена, так как уже долгое время не соответствовала стандартам», заявила она.</p>",
-     "<p>По данным министерства труда и социальных дел, в Чехии на улице ночуют около 18 тысяч человек. В Праге таких несколько тысяч. Новое заведение на <b>Tusarova</b> должно заполнить пробел между медицинской и социальной помощью для тех, кто остаётся без поддержки после выписки из больницы.</p>",
-     "<h3>Что изменится после реконструкции</h3>",
-     "<p>Сейчас в здании действуют ночлежка и дневной центр. После ремонта их заменят на более современные помещения. В новом приюте появятся:</p>",
-     "<ul>",
-     "<li>60 обычных мест для бездомных;</li>",
-     "<li>20 мест с усиленной поддержкой: для людей с ограниченной подвижностью или тяжёлыми заболеваниями;</li>",
-     "<li>медицинский кабинет, где принимают терапевт и психиатр;</li>",
-     "<li>помещения, которые при чрезвычайной ситуации быстро переоборудуют под карантин или изоляцию.</li>",
-     "</ul>",
-     "<p>Нынешнее состояние приюта не отвечает требованиям безбарьерной среды. Для людей с комплексными проблемами здоровья он тоже не подходит, говорится в концепции реконструкции. «Существующая планировка уже не соответствует современным профессиональным стандартам и потребностям клиентов с серьёзными социальными и медицинскими трудностями», сказано в документе.</p>",
-     "<blockquote>«В Праге до сих пор нет подобного учреждения, и оно очень необходимо. Речь идёт о людях без жилья после госпитализации, пожилых без поддержки, пациентах с ограниченной подвижностью и тех, кто нуждается в стабилизации своего состояния», пояснила <b>Alexandra Udženija</b>.</blockquote>",
-     "<p>Деньги на проект мэрия ищет вместе с финансовым отделом. Реконструкция, по предварительным оценкам, обойдётся в 200-300 миллионов крон. «Сейчас мы с коллегой <b>Zdeněk Kovářík</b>, который отвечает за финансы, ищем модель, как продвинуть проект дальше - к разработке документации и началу ремонта», добавила <b>Udženija</b>.</p>",
-     "<p>Концептуальное исследование <b>Armáda spásy</b> уже подготовила. Теперь дело за мэрией: найти средства и утвердить проектную документацию.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Кто оплатит реконструкцию приюта на улице Тусарова?",
-      "a": "Реконструкцию оплатит пражская мэрия. Предварительная стоимость работ - 200-300 миллионов крон."
-     },
-     {
-      "q": "Сколько человек сможет принять обновлённый приют?",
-      "a": "После реконструкции приют сможет принять 80 человек: 60 на стандартных местах и 20 - с повышенной медицинской поддержкой."
-     },
-     {
-      "q": "Почему закрыли дневной центр при приюте?",
-      "a": "Дневной центр закрыли 1 мая по просьбе мэрии из-за многочисленных жалоб жителей Голешовиц. Его работа давно не соответствовала современным требованиям."
-     },
-     {
-      "q": "Когда начнётся реконструкция приюта?",
-      "a": "Точные сроки пока не названы. Сейчас мэрия ищет способ профинансировать проект и разработать проектную документацию."
-     }
-    ],
-    "impact": "Реконструкция приюта на улице Тусарова коснётся бездомных с серьёзными проблемами здоровья, пожилых людей без жилья и пациентов после госпитализации. Новое заведение сможет принять 80 человек, включая 20 мест с повышенным медицинским уходом. Работы планируется начать после утверждения проектной документации и выделения средств из городского бюджета.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Мэрия Праги одобрила реконструкцию приюта для бездомных на улице Tusarova, которая обойдётся в 200-300 миллионов крон.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "После ремонта в приюте появятся 80 мест, включая 20 мест для пациентов, нуждающихся в повышенном уходе.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Дневной центр при приюте был закрыт с 1 мая из-за многочисленных жалоб жителей Голешовиц и несоответствия стандартам.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Что появится в обновленном приюте",
-      "items": [
-       {
-        "text": "60 обычных мест для бездомных",
-        "target": {
-         "block": 8,
-         "item": 1
-        }
-       },
-       {
-        "text": "20 мест с усиленной поддержкой для людей с ограниченной подвижностью или тяжёлыми заболеваниями",
-        "target": {
-         "block": 9,
-         "item": 1
-        }
-       },
-       {
-        "text": "Медицинский кабинет с приемом терапевта и психиатра",
-        "target": {
-         "block": 10,
-         "item": 1
-        }
-       },
-       {
-        "text": "Помещения для быстрого переоборудования под карантин или изоляцию при чрезвычайной ситуации",
-        "target": {
-         "block": 11,
-         "item": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "ca001fd57b00f4b43527f73d92dcf31d85863cafdb4185031417067813253153"
-    }
-   },
-   "uk": {
-    "title": "Прага реконструює притулок на вулиці Tusarova за 300 мільйонів крон",
-    "lede": "Мерія Праги схвалила план реконструкції притулку для бездомних на вулиці Tusarova в Голешовицях. Після ремонту заклад зможе приймати людей із серйозними проблемами здоров’я та обмеженою рухливістю.",
-    "meta_description": "Мерія Праги схвалила реконструкцію притулку Армії порятунку на вулиці Tusarova за 200-300 млн крон. Новий заклад розрахований на 80 осіб, зокрема на тих…",
-    "paras": [
-     "<p>Празька мерія схвалила реконструкцію притулку для бездомних на вулиці <b>Tusarova</b> в районі Голешовиці. Будівля, яку зараз використовує <b>Armáda spásy</b>, не відповідає сучасним стандартам і не пристосована для людей із серйозними проблемами здоров’я. Після ремонту тут з’являться 80 місць, з них 20 - для пацієнтів, які потребують посиленого догляду.</p>",
-     "<h3>Чому закрили старе денне відділення</h3>",
-     "<p>У травні цього року мерія попросила <b>Armádu spásy</b> закрити денний центр при притулку. Причина: численні скарги мешканців Голешовиць. Заступниця празького приматора <b>Alexandra Udženija</b> (<b>ODS</b>) пояснила, що робота центру давно не відповідала вимогам. «З 1 травня послугу цього великого денного центру було припинено, оскільки вже тривалий час вона не відповідала стандартам», заявила вона.</p>",
-     "<p>За даними міністерства праці та соціальних справ, у Чехії на вулиці ночують близько 18 тисяч осіб. У Празі таких кілька тисяч. Новий заклад на <b>Tusarova</b> має заповнити прогалину між медичною та соціальною допомогою для тих, хто залишається без підтримки після виписки з лікарні.</p>",
-     "<h3>Що зміниться після реконструкції</h3>",
-     "<p>Зараз у будівлі діють нічліжка та денний центр. Після ремонту їх замінять на сучасніші приміщення. У новому притулку з’являться:</p>",
-     "<ul>",
-     "<li>60 звичайних місць для бездомних;</li>",
-     "<li>20 місць із посиленою підтримкою: для людей з обмеженою рухливістю або тяжкими захворюваннями;</li>",
-     "<li>медичний кабінет, де прийматимуть терапевт і психіатр;</li>",
-     "<li>приміщення, які у разі надзвичайної ситуації швидко переобладнають під карантин або ізоляцію.</li>",
-     "</ul>",
-     "<p>Нинішній стан притулку не відповідає вимогам безбар’єрного середовища. Для людей із комплексними проблемами здоров’я він також не підходить, йдеться в концепції реконструкції. «Існуюче планування вже не відповідає сучасним професійним стандартам і потребам клієнтів із серйозними соціальними та медичними труднощами», сказано в документі.</p>",
-     "<blockquote>«У Празі досі немає подібної установи, і вона дуже потрібна. Йдеться про людей без житла після госпіталізації, літніх без підтримки, пацієнтів з обмеженою рухливістю та тих, хто потребує стабілізації свого стану», пояснила <b>Alexandra Udženija</b>.</blockquote>",
-     "<p>Гроші на проект мерія шукає разом із фінансовим відділом. Реконструкція, за попередніми оцінками, коштуватиме 200-300 мільйонів крон. «Зараз ми з колегою <b>Zdeněk Kovářík</b>, який відповідає за фінанси, шукаємо модель, як просунути проект далі - до розробки документації та початку ремонту», додала <b>Udženija</b>.</p>",
-     "<p>Концептуальне дослідження <b>Armáda spásy</b> вже підготувала. Тепер справа за мерією: знайти кошти та затвердити проектну документацію.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Хто оплатить реконструкцію притулку на вулиці Tusarova?",
-      "a": "Реконструкцію оплатить празька мерія. Попередня вартість робіт - 200-300 мільйонів крон."
-     },
-     {
-      "q": "Скільки осіб зможе прийняти оновлений притулок?",
-      "a": "Після реконструкції притулок зможе прийняти 80 осіб: 60 на стандартних місцях і 20 - з посиленою медичною підтримкою."
-     },
-     {
-      "q": "Чому закрили денний центр при притулку?",
-      "a": "Денний центр закрили 1 травня на прохання мерії через численні скарги мешканців Голешовиць. Його робота давно не відповідала сучасним вимогам."
-     },
-     {
-      "q": "Коли розпочнеться реконструкція притулку?",
-      "a": "Точні терміни поки не названо. Зараз мерія шукає спосіб профінансувати проект і розробити проектну документацію."
-     }
-    ],
-    "impact": "Реконструкция приюта на улице Тусарова коснётся бездомных с серьёзными проблемами здоровья, пожилых людей без жилья и пациентов после госпитализации. Новое заведение сможет принять 80 человек, включая 20 мест с повышенным медицинским уходом. Работы планируется начать после утверждения проектной документации и выделения средств из городского бюджета.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Празька мерія схвалила план реконструкції притулку для бездомних на вулиці Tusarova вартістю 200–300 мільйонів крон.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "У травні празька мерія закрила денний центр при притулку через численні скарги мешканців Голешовиць та невідповідність вимогам.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Після ремонту в оновленому закладі на Tusarova облаштують 60 звичайних місць та 20 місць із посиленою підтримкою для пацієнтів із тяжкими захворюваннями чи обмеженою рухливістю.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Зміни після реконструкції притулку на Tusarova",
-      "items": [
-       {
-        "text": "Збільшення кількості місць до 80 загалом.",
-        "target": {
-         "block": 1,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Облаштування 20 місць для людей з обмеженою рухливістю або тяжкими захворюваннями.",
-        "target": {
-         "block": 9,
-         "item": 1
-        }
-       },
-       {
-        "text": "Робота медичного кабінету з прийомом терапевта і психіатра.",
-        "target": {
-         "block": 10,
-         "item": 1
-        }
-       },
-       {
-        "text": "Створення приміщень для швидкого переобладнання під карантин чи ізоляцію у разі надзвичайної ситуації.",
-        "target": {
-         "block": 11,
-         "item": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "8e8dc6b97775036c0fda2ed3da55611656e0b78c2f9e6795aef9186f5ecfa3ac"
-    }
-   },
-   "rank": 33.25,
-   "sources": [
-    {
-     "domain": "denikn.cz",
-     "official": false,
-     "url": "https://denikn.cz/minuta/2059939/",
-     "title": "Pražský magistrát plánuje za odhadovaných 200 až 300 milionů korun zrekonstruovat budovu v Tusarově ulici, kde Armáda spásy provozuje azylový dům"
-    },
-    {
-     "domain": "bizinet.cz",
-     "official": false,
-     "url": "https://www.bizinet.cz/clanek/bezdomovecke-denni-centrum-po-kritice-mistnich-skoncilo-azylovy-dum-v-tusarove-necha-praha-opravit-3403667",
-     "title": "Bezdomovecké denní centrum po kritice místních skončilo: Azylový dům v Tusarově nechá Praha opravit"
-    },
-    {
-     "domain": "blesk.cz",
-     "official": false,
-     "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/839163/bezdomovecke-denni-centrum-po-kritice-mistnich-skoncilo-azylovy-dum-v-tusarove-necha-praha-opravit.html",
-     "title": "Bezdomovecké denní centrum po kritice místních skončilo: Azylový dům v Tusarově nechá Praha opravit | Blesk.cz"
     }
    ],
    "show_sources": true,
