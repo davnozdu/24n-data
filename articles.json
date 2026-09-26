@@ -1,8 +1,210 @@
 {
- "updated_at": "2026-09-26T16:27:09+00:00",
+ "updated_at": "2026-09-26T17:30:54+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6172",
+   "slug": "festival-prototyp-brno-cesta-svetla-otkryl-novyi-sezon",
+   "source": "ceskenoviny.cz",
+   "original_url": "https://www.ceskenoviny.cz/zpravy/vizualni-show-v-brnenskem-kostele-sv-jakuba-zahajila-festival-prototyp/2876077?utm_source=rss&utm_medium=feed",
+   "top": false,
+   "tags": [
+    "dosug",
+    "cesko",
+    "praha"
+   ],
+   "published_at": "2026-09-26T19:30:53.462966+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "26 сентября 2026, 19:30",
+    "uk": "26 вересня 2026, 19:30"
+   },
+   "ru": {
+    "title": "Festival Prototyp Brno Cesta světla открыл новый сезон",
+    "lede": "В Брно началась визуальная шоу-программа Cesta světla, которая дала старт 12-му сезону Festival Prototyp в стенах храма sv. Jakuba.",
+    "meta_description": "В Брно стартовал Festival Prototyp. Уникальное световое шоу Cesta světla в костеле sv. Jakuba открыло 12-й сезон фестиваля.",
+    "paras": [
+     "<p>В Брно стартовал 12-й сезон <b>Festival Prototyp</b>. Открытие прошло в историческом пространстве костела <b>kostel svatého Jakuba</b>, где зрителям представили специальную визуальную программу.</p>",
+     "<p>Как сообщает metro.cz, масштабное световое представление под названием <b>Cesta světla</b> создала студия <b>Visualove</b>. Авторы проекта объединили готическую архитектуру храма со светом и музыкальным сопровождением, превратив культовое сооружение в наглядный образ Вселенной.</p>",
+     "<p>Продолжительность каждого сеанса составляет 12 минут. За это время зрители успевают пройти символический путь от зарождения космоса и первого всплеска до нового начала, а световая драматургия подчёркивает форму колонн, сводов и глубину пространства.</p>",
+     "<h3>Дополнительные показы и билеты</h3>",
+     "<p>Посмотреть шоу смогут и те, кто не попал на открытие. Как передают чешские СМИ, организаторы запланировали показы на субботу и воскресенье, разделив их на три одинаковых вечерних сеанса в каждый из дней.</p>",
+     "<p>Для посещения мероприятия необходимо заранее приобрести входной билет на официальном сайте фестиваля. Об этом в распространенном пресс-релизе рассказала пресс-секретарь фестиваля <b>Jana Janoušková</b>.</p>",
+     "<h3>Что говорят организаторы</h3>",
+     "<p>Настоятель храма Jan Pacner напоминает: костел веками служил местом встреч и путешествий.</p>",
+     "<blockquote>Kostel svatého Jakuba был на протяжении веков местом встреч, остановок и паломничества. Путь света подходит к нему на современном художественном языке, но в то же время работает с темами, которые свойственны этому месту, то есть с путем, светом, поисками и новым началом.</blockquote>",
+     "<p>Так Jan Pacner объяснил концепцию шоу. По его мнению, современное искусство органично смотрится в исторических стенах.</p>",
+     "<p>Программа в костеле только открывает событие. Главная часть Festival Prototyp пройдет с 1 по 3 октября на нескольких площадках в центре Брно.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Где проходит открытие Festival Prototyp?",
+      "a": "Открытие проходит в kostel svatého Jakuba в Брно."
+     },
+     {
+      "q": "Как называется визуальная шоу-программа в костеле?",
+      "a": "Шоу называется Cesta světla, его подготовила студия Visualove."
+     },
+     {
+      "q": "Где можно купить билеты на представление?",
+      "a": "Билеты необходимо приобретать на официальном сайте фестиваля."
+     },
+     {
+      "q": "В какие дни пройдут главные мероприятия фестиваля?",
+      "a": "Основная часть фестиваля пройдет с 1 по 3 октября на нескольких площадках в центре Брно."
+     }
+    ],
+    "impact": "Фестиваль охватит несколько площадок в центре Брно с 1 по 3 октября. Для посещения светового шоу в костеле sv. Jakuba необходимо заранее купить билет на официальном сайте мероприятия.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Открытие 12-го сезона Festival Prototyp прошло в костеле svatého Jakuba со специальной визуальной программой.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Световое представление Cesta světla создала студия Visualove, соединив готическую архитектуру храма со светом и музыкой.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Каждый сеанс длится 12 минут и ведёт зрителя от зарождения космоса до нового начала.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Главная часть Festival Prototyp пройдёт с 1 по 3 октября на нескольких площадках в центре Брно.",
+       "target": {
+        "block": 11,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "f9165baef95ba5999f7696b7ab0af3224cd9b867620f438a744e034dcf94ee30"
+    }
+   },
+   "uk": {
+    "title": "Festival Prototyp Brno відкрив новий сезон шоу Cesta světla",
+    "lede": "У Брно стартувала візуальна шоу-програма Cesta světla, яка дала початок 12-му сезону Festival Prototyp у стінах храму sv. Jakuba.",
+    "meta_description": "У Брно стартував Festival Prototyp. Унікальне світлове шоу Cesta světla в костелі sv. Jakuba відкрило 12-й сезон фестивалю.",
+    "paras": [
+     "<p>У Брно стартував 12-й сезон <b>Festival Prototyp</b>. Відкриття відбулося в історичному просторі костелу <b>kostel svatého Jakuba</b>, де глядачам представили спеціальну візуальну програму.</p>",
+     "<p>Як повідомляє metro.cz, масштабне світлове дійство під назвою <b>Cesta světla</b> створила студія <b>Visualove</b>. Автори проєкту поєднали готичну архітектуру храму зі світлом і музичним супроводом, перетворивши культову споруду на наочний образ Всесвіту.</p>",
+     "<p>Тривалість кожного сеансу становить 12 хвилин. За цей час глядачі встигають пройти символічний шлях від зародження космосу й першого спалаху до нового початку, а світлова драматургія підкреслює форму колон, склепінь і глибину простору.</p>",
+     "<h3>Додаткові покази та квитки</h3>",
+     "<p>Подивитися шоу зможуть і ті, хто не потрапив на відкриття. Як передають чеські ЗМІ, організатори запланували покази на суботу та неділю, розділивши їх на три однакові вечірні сеанси в кожен із днів.</p>",
+     "<p>Для відвідування заходу необхідно заздалегідь придбати вхідний квиток на офіційному сайті фестивалю. Про це в поширеному пресрелізі розповіла прессекретарка фестивалю <b>Jana Janoušková</b>.</p>",
+     "<h3>Що кажуть організатори</h3>",
+     "<p>Настоятель храму Jan Pacner нагадує: костел століттями слугував місцем зустрічей і подорожей.</p>",
+     "<blockquote>Kostel svatého Jakuba був протягом століть місцем зустрічей, зупинок і паломництва. Шлях світла підходить до нього сучасною художньою мовою, але водночас працює з темами, які властиві цьому місцю, тобто зі шляхом, світлом, пошуками та новим початком.</blockquote>",
+     "<p>Так Jan Pacner пояснив концепцію шоу. На його думку, сучасне мистецтво органічно виглядає в історичних стінах.</p>",
+     "<p>Програма в костелі лише відкриває подію. Головна частина Festival Prototyp пройде з 1 по 3 жовтня на кількох майданчиках у центрі Брно.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Де проходить відкриття Festival Prototyp?",
+      "a": "Відкриття проходить у kostel svatého Jakuba в Брно."
+     },
+     {
+      "q": "Як називається візуальна шоу-програма в костелі?",
+      "a": "Шоу називається Cesta světla, його підготувала студія Visualove."
+     },
+     {
+      "q": "Де можна купити квитки на виставу?",
+      "a": "Квитки необхідно придбавати на офіційному сайті фестивалю."
+     },
+     {
+      "q": "У які дні пройдуть головні заходи фестивалю?",
+      "a": "Основна частина фестивалю пройде з 1 по 3 жовтня на кількох майданчиках у центрі Брно."
+     }
+    ],
+    "impact": "Фестиваль охватит несколько площадок в центре Брно с 1 по 3 октября. Для посещения светового шоу в костеле sv. Jakuba необходимо заранее купить билет на официальном сайте мероприятия.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "12-й сезон Festival Prototyp відкрився в костелі svatého Jakuba спеціальною візуальною програмою.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Світлове шоу Cesta světla створила студія Visualove, поєднавши готичну архітектуру храму зі світлом і музикою.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Кожен сеанс триває 12 хвилин і проводить глядача символічним шляхом від зародження космосу до нового початку.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Головна частина Festival Prototyp відбудеться з 1 по 3 жовтня на кількох майданчиках у центрі Брно.",
+       "target": {
+        "block": 11,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "пресрелізі",
+       "definition": "Офіційне письмове повідомлення для ЗМІ, у якому організатори розповідають про подію.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "b6f274dee16b86720376c820199965ec78de6848c654a72c9a42c47301ca6ee4"
+    }
+   },
+   "rank": 95.0,
+   "sources": [
+    {
+     "domain": "metro.cz",
+     "official": false,
+     "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/vizualni-show-v-brnenskem-kostele-sv-jakuba-zahajila-festival-prototyp.A260917_224635_metro-brno-zpravy_air",
+     "title": "Vizuální show v brněnském kostele sv. Jakuba zahájila Festival Prototyp - Metro.cz"
+    },
+    {
+     "domain": "denikledec.cz",
+     "official": false,
+     "url": "https://denikledec.cz/vizualni-show-v-brnenskem-kostele-sv-jakuba-zahajila-festival-prototyp/",
+     "title": "Vizuální show v brněnském kostele sv. Jakuba zahájila Festival Prototyp - Ledečský Deník"
+    },
+    {
+     "domain": "czech-times.cz",
+     "official": false,
+     "url": "https://czech-times.cz/vizualni-show-v-brnenskem-kostele-sv-jakuba-zahajila-festival-prototyp/",
+     "title": "Vizuální show v brněnském kostele sv. Jakuba zahájila Festival Prototyp - České Zprávy"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 3,
+   "image_url": "https://img.24n.cz/p/2026/09/festival-prototyp-brno-cesta-svetla-otkryl-novyi-sezon-ec6bbcf3bcc9b974.webp",
+   "image_w": 630,
+   "image_h": 350
+  },
   {
    "id": "n6171",
    "slug": "neobychnyi-dom-v-trutnove-skryt-v-sklone-i-otkryt-sadu",
@@ -15,8 +217,8 @@
    ],
    "published_at": "2026-09-26T18:27:08.861579+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "26 сентября 2026, 18:27",
@@ -258,8 +460,8 @@
    ],
    "published_at": "2026-09-26T18:27:08.861579+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "26 сентября 2026, 18:27",
@@ -508,8 +710,8 @@
    ],
    "published_at": "2026-09-26T17:20:53.301834+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 17:20",
@@ -687,8 +889,8 @@
    ],
    "published_at": "2026-09-26T16:14:33.704748+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 16:14",
@@ -949,7 +1151,7 @@
      "body_sha256": "7906e68075e7161eef86c133c59333273ae853ae3cb6be065c43351663d1545c"
     }
    },
-   "rank": 119.0,
+   "rank": 118.532,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -980,8 +1182,8 @@
    ],
    "published_at": "2026-09-26T16:14:33.704748+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 16:14",
@@ -1204,7 +1406,7 @@
      "body_sha256": "e6213bab946b1ab2439a2e3accb1b5e910cf59d4bb747e4410ef6ab58d09628f"
     }
    },
-   "rank": 110.0,
+   "rank": 109.567,
    "sources": [
     {
      "domain": "press.news",
@@ -1244,8 +1446,8 @@
    ],
    "published_at": "2026-09-26T15:09:41.396558+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 15:09",
@@ -1393,7 +1595,7 @@
      "body_sha256": "0c7958c388750048e478ad96ab70642ffc416e85304c7ddc2526fe640d592a4f"
     }
    },
-   "rank": 96.592,
+   "rank": 95.104,
    "sources": [
     {
      "domain": "media24.cz",
@@ -1420,8 +1622,8 @@
    ],
    "published_at": "2026-09-26T15:09:41.396558+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "26 сентября 2026, 15:09",
@@ -1623,7 +1825,7 @@
      "body_sha256": "a2fa5d571a5883addb4bf16e992f2733477c65f35decd6200ece7f037371a58a"
     }
    },
-   "rank": 134.432,
+   "rank": 132.361,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -1679,8 +1881,8 @@
    ],
    "published_at": "2026-09-26T14:05:41.870383+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 14:05",
@@ -1952,8 +2154,8 @@
    ],
    "published_at": "2026-09-26T14:05:41.870383+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 14:05",
@@ -2157,7 +2359,7 @@
      "body_sha256": "46d5b4b16dc04ff27dcdbe2b868ab2062bbe5510a19ef0379e823e995b76ed45"
     }
    },
-   "rank": 73.529,
+   "rank": 72.378,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-c29407819f3b3758.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-5ba5585849ec23b4.webp"
@@ -2190,8 +2392,8 @@
    ],
    "published_at": "2026-09-26T14:05:41.870383+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 14:05",
@@ -2360,7 +2562,7 @@
      "body_sha256": "57fe06d5b40c5326dfd26f95b6a0ca14172fabbf0eb05b219dc837487e891ce7"
     }
    },
-   "rank": 104.902,
+   "rank": 103.26,
    "sources": [
     {
      "domain": "praha5.cz",
@@ -2384,8 +2586,8 @@
    ],
    "published_at": "2026-09-26T12:57:59.386535+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 12:57",
@@ -2689,7 +2891,7 @@
      "body_sha256": "4d512ae091c7adb5e60bae82b03d0dd2f3a5396966f402d232f75b18d22354f6"
     }
    },
-   "rank": 88.696,
+   "rank": 87.284,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -2714,8 +2916,8 @@
    ],
    "published_at": "2026-09-26T12:57:59.386535+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 12:57",
@@ -2901,7 +3103,7 @@
      "body_sha256": "6d7eacae44ceec572564d1bee0795ae742703ae75c955853bea751f105a7c154"
     }
    },
-   "rank": 107.978,
+   "rank": 106.259,
    "sources": [
     {
      "domain": "metro.cz",
@@ -2929,8 +3131,8 @@
    ],
    "published_at": "2026-09-26T12:57:59.386535+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 12:57",
@@ -3102,7 +3304,7 @@
      "body_sha256": "ab932d1da124316e4d5c48285ae9426a0ae7288f36f1e31f62b8ffa6add7c916"
     }
    },
-   "rank": 106.05,
+   "rank": 104.362,
    "image_url": "https://img.24n.cz/p/2026/09/kak-pravilno-slivat-vodu-iz-basseina-po-cheshskim-zakonam-7325cc6f4e86a962.webp",
    "image_w": 1366,
    "image_h": 910
@@ -3119,8 +3321,8 @@
    ],
    "published_at": "2026-09-26T11:51:32.887470+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 11:51",
@@ -3310,8 +3512,8 @@
    ],
    "published_at": "2026-09-26T10:48:52.066475+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 10:48",
@@ -3497,7 +3699,7 @@
      "body_sha256": "6fe7b7153a339a8eb125f68f9decbaabb02caee8088b4647ce401f83a2871633"
     }
    },
-   "rank": 88.635,
+   "rank": 87.178,
    "sources": [
     {
      "domain": "krimi-plzen.cz",
@@ -3524,8 +3726,8 @@
    ],
    "published_at": "2026-09-26T10:48:52.066475+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 10:48",
@@ -3689,7 +3891,7 @@
      "body_sha256": "1239e9fe2a406bb22262cd74b2605453edf6b3e6e88b72b69f2dce28480a87dd"
     }
    },
-   "rank": 97.032,
+   "rank": 95.436,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -3766,8 +3968,8 @@
    ],
    "published_at": "2026-09-26T10:48:52.066475+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 10:48",
@@ -3915,7 +4117,7 @@
      "body_sha256": "b5ead0469322d0b4a20a71295c0dc6e0957daec25c52e393508489248fff6bc8"
     }
    },
-   "rank": 111.027,
+   "rank": 109.201,
    "sources": [
     {
      "domain": "isvetelsko.cz",
@@ -3945,8 +4147,8 @@
    ],
    "published_at": "2026-09-26T10:01:22.742810+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 10:01",
@@ -3988,7 +4190,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 73.726
+   "rank": 72.498
   },
   {
    "id": "n6153",
@@ -4002,8 +4204,8 @@
    ],
    "published_at": "2026-09-26T09:43:09.458844+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 09:43",
@@ -4246,7 +4448,7 @@
      "body_sha256": "b79861b40cec753e03551b635040bbcf16e0eab4be31eee5b2ebd87d879c6f6e"
     }
    },
-   "rank": 82.547,
+   "rank": 81.166,
    "image_url": "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-813e65d4c453c77e.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-de763b7b5aa13dda.webp",
@@ -4310,8 +4512,8 @@
    ],
    "published_at": "2026-09-26T09:43:09.458844+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 09:43",
@@ -4497,7 +4699,7 @@
      "body_sha256": "63e3bd03f1a75c9d0087318f5ecf0918dba98ce25b36974eabc203f80af9ba1b"
     }
    },
-   "rank": 110.062,
+   "rank": 108.221,
    "image_url": "https://img.24n.cz/p/2026/09/mesta-v-vuzakh-chekhii-pod-ugrozoi-iz-za-sokrashcheniia-biud-bd51c5b69e22f72d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -4514,8 +4716,8 @@
    ],
    "published_at": "2026-09-26T09:43:09.458844+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 09:43",
@@ -4807,7 +5009,7 @@
      "body_sha256": "816832899672940a452fa9ee92b7aea976fbbdefba0287d4decadd00960bacfe"
     }
    },
-   "rank": 105.476,
+   "rank": 103.712,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -4847,8 +5049,8 @@
    ],
    "published_at": "2026-09-26T09:43:09.458844+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 09:43",
@@ -5043,7 +5245,7 @@
      "body_sha256": "e1905dad2fb31f04e27a699cc1bac70fe91f82daecb96cb0ab9bcee4c014764b"
     }
    },
-   "rank": 118.317,
+   "rank": 116.337,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -5077,8 +5279,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -5226,7 +5428,7 @@
      "body_sha256": "9cde4e1e9dcbc30372bc24061debd4cdcd6fb4d4f0e7b91ce924dd475955a102"
     }
    },
-   "rank": 93.705,
+   "rank": 92.109,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -5256,8 +5458,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -5473,7 +5675,7 @@
      "body_sha256": "dd4ee14bcd9ba3488046e4ad82d7338c37f31fa7108eb60100c978fe099bd826"
     }
    },
-   "rank": 94.606,
+   "rank": 92.995,
    "image_url": "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-1b958b657c30099f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-af7dc72099a0aa7d.webp",
@@ -5526,8 +5728,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -5749,7 +5951,7 @@
      "body_sha256": "8dd5a8a754660a33a85b80b66feccc4fee3dc65d819791e44de9605f71903483"
     }
    },
-   "rank": 81.091,
+   "rank": 79.71,
    "sources": [
     {
      "domain": "teplicky.denik.cz",
@@ -5783,8 +5985,8 @@
    ],
    "published_at": "2026-09-26T08:35:58.799310+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 08:35",
@@ -5952,7 +6154,7 @@
      "body_sha256": "be18fa30066962f3aacaa2a4e31c527aa087641b0de17caedbe8807f46303609"
     }
    },
-   "rank": 93.705,
+   "rank": 92.109,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -6001,8 +6203,8 @@
    ],
    "published_at": "2026-09-26T07:28:47.550232+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 07:28",
@@ -6239,7 +6441,7 @@
      "body_sha256": "3e5fac46128ec39db818990274b6cff21b3595036b282c29da90cd88cfa326cf"
     }
    },
-   "rank": 72.557,
+   "rank": 71.298,
    "sources": [
     {
      "domain": "nachodsky.denik.cz",
@@ -6267,8 +6469,8 @@
    ],
    "published_at": "2026-09-26T06:25:33.562559+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 06:25",
@@ -6432,7 +6634,7 @@
      "body_sha256": "a6919f3df675554e11ce91e513ca1615c578203fd1779011e348927709451819"
     }
    },
-   "rank": 86.092,
+   "rank": 84.573,
    "sources": [
     {
      "domain": "globe24.cz",
@@ -6466,8 +6668,8 @@
    ],
    "published_at": "2026-09-26T06:25:33.562559+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 06:25",
@@ -6647,7 +6849,7 @@
      "body_sha256": "03227ec4bd92c957bde422da4e8ec9021516628ad7e4978c8e8c0021908c42e8"
     }
    },
-   "rank": 73.917,
+   "rank": 72.613,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-s-noiabria-vremenno-propadet-lekarstvo-ot-epilepsi-440e0742a4c87803.webp",
    "image_w": 1366,
    "image_h": 910
@@ -6665,8 +6867,8 @@
    ],
    "published_at": "2026-09-26T05:19:47.071388+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 05:19",
@@ -6837,7 +7039,7 @@
      "body_sha256": "3d8fe5be3711ea31605e8508514b02e7537954717d663b54d280ff71a64f1247"
     }
    },
-   "rank": 64.034,
+   "rank": 62.883,
    "image_url": "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-00c768c0885e11f7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-4a44a2abfd30cd52.webp",
@@ -6880,8 +7082,8 @@
    ],
    "published_at": "2026-09-26T05:19:47.071388+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 05:19",
@@ -7015,7 +7217,7 @@
      "body_sha256": "e990ddd6a8b70787388e0f13d3aeea6e3884357a47ef60e00901fe9fdd59d330"
     }
    },
-   "rank": 64.034,
+   "rank": 62.883,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-529914e56c558553.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-477956ab41467e00.webp",
@@ -7068,8 +7270,8 @@
    ],
    "published_at": "2026-09-26T04:10:36.838356+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 04:10",
@@ -7265,7 +7467,7 @@
      "body_sha256": "c089557ae2d06c9de52e77eed1511888ea2ee670a62e7a9b67cba3f779ff4593"
     }
    },
-   "rank": 68.644,
+   "rank": 67.386,
    "sources": [
     {
      "domain": "media24.cz",
@@ -7329,8 +7531,8 @@
    ],
    "published_at": "2026-09-26T03:03:58.880450+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 03:03",
@@ -7464,7 +7666,7 @@
      "body_sha256": "4b2430dc77c03cf9d9298cb25bc61336e938afd2de16bdcf02aba7321746a5a5"
     }
    },
-   "rank": 79.645,
+   "rank": 78.157,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -7493,8 +7695,8 @@
    ],
    "published_at": "2026-09-26T03:03:58.880450+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 03:03",
@@ -7659,7 +7861,7 @@
      "body_sha256": "b3030b20547a3a34f60d8e0708b29e29ac50d080b9e386c724c4e8eb418926a2"
     }
    },
-   "rank": 93.604,
+   "rank": 91.854,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -7709,8 +7911,8 @@
    ],
    "published_at": "2026-09-26T03:03:58.880450+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 03:03",
@@ -7902,7 +8104,7 @@
      "body_sha256": "6f0303c2516d4f0d6d8180abb733b7eaeb1b3ea71844ce25529a65bc5df43544"
     }
    },
-   "rank": 90.32
+   "rank": 88.632
   },
   {
    "id": "n6136",
@@ -7917,8 +8119,8 @@
    ],
    "published_at": "2026-09-26T01:55:41.446820+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 01:55",
@@ -8075,7 +8277,7 @@
      "body_sha256": "4b29103e30f833708df32303b8629f88afe8a60f2ba148602dffccc634cf57af"
     }
    },
-   "rank": 72.418,
+   "rank": 71.037,
    "image_url": "https://img.24n.cz/p/2026/09/ministr-zdravookhraneniia-chekhii-zashchishchaet-reformu-str-2f53770728560c7b.webp",
    "image_w": 630,
    "image_h": 350
@@ -8092,8 +8294,8 @@
    ],
    "published_at": "2026-09-26T00:49:15.847602+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "26 сентября 2026, 00:49",
@@ -8397,7 +8599,7 @@
      "body_sha256": "339010548529244506d253d8bac26e4965532bd47b3f4c984c1e433c004b1c6a"
     }
    },
-   "rank": 59.149,
+   "rank": 57.998,
    "image_url": "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-27ce3d24bb192945.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-dd23b87dcb1f9bd7.webp",
@@ -8451,8 +8653,8 @@
    ],
    "published_at": "2026-09-25T23:41:22.897243+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "25 сентября 2026, 23:41",
@@ -8684,7 +8886,7 @@
      "body_sha256": "3accde20d33654566e12a83776b0d3f2fbdbf9829cd77ef16c51889c329f4086"
     }
    },
-   "rank": 78.776,
+   "rank": 77.211,
    "sources": [
     {
      "domain": "mf.gov.cz",
@@ -8711,8 +8913,8 @@
    ],
    "published_at": "2026-09-25T21:00:45.336303+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "25 сентября 2026, 21:00",
@@ -8794,7 +8996,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 61.626
+   "rank": 60.337
   },
   {
    "id": "n6132",
@@ -8807,8 +9009,8 @@
    ],
    "published_at": "2026-09-25T18:33:09.634383+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "25 сентября 2026, 18:33",
@@ -8852,7 +9054,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 57.245,
+   "rank": 55.987,
    "forecast": true
   },
   {
@@ -9021,7 +9223,7 @@
      "body_sha256": "2ca0f7a004d74fb4d1dc69a73f93c1fb733e772dd4399c91cd286752b6d13574"
     }
    },
-   "rank": 69.557,
+   "rank": 68.022,
    "sources": [
     {
      "domain": "karvinsky.denik.cz",
@@ -9333,7 +9535,7 @@
      "body_sha256": "fbb602df805a8beb3841853f79d3e31a82bef66a174089064caebffc7ccb49e8"
     }
    },
-   "rank": 63.992,
+   "rank": 62.58,
    "sources": [
     {
      "domain": "metro.cz",
@@ -9551,7 +9753,7 @@
      "body_sha256": "71d19c11dca98ab4b78328577e6033755cbf9d3635698813f561e58c394534e6"
     }
    },
-   "rank": 37.781
+   "rank": 36.937
   },
   {
    "id": "n6128",
@@ -9730,7 +9932,7 @@
      "body_sha256": "7b199bfab2b4318c18967ca21b14fdaf7d86ef89c91ad7f9eccc138c5625129d"
     }
    },
-   "rank": 41.216,
+   "rank": 40.295,
    "image_url": "https://img.24n.cz/p/2026/09/otkaz-verit-glazam-pianyi-khoziain-ne-priznal-sbezhavshego-p-e4fab2e96fe916ca.webp",
    "image_w": 1147,
    "image_h": 661
@@ -9980,7 +10182,7 @@
      "body_sha256": "45b5b72908fd987b32c36096d45a2423bd0b2527678d35681b95e42ec045823a"
     }
    },
-   "rank": 71.052
+   "rank": 69.44
   },
   {
    "id": "n6126",
@@ -10191,7 +10393,7 @@
      "body_sha256": "0c6fe6c34c2ac1391cab676ef2873664f415bd882d2aabb898cc0b06fe0d66c3"
     }
    },
-   "rank": 50.249
+   "rank": 49.098
   },
   {
    "id": "n6125",
@@ -10485,7 +10687,7 @@
      "body_sha256": "f7b7c2ddd3f8d5ce743948d0faf4a067e2bd5dc9943a39b9976b6d973127f932"
     }
    },
-   "rank": 85.089,
+   "rank": 83.14,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -10743,7 +10945,7 @@
      "body_sha256": "7099f56be45a1641e50faf9f1fb636780144e5ecb75ed64006ef8b5d8fb1bf7a"
     }
    },
-   "rank": 74.103,
+   "rank": 72.384,
    "sources": [
     {
      "domain": "metro.cz",
@@ -10986,7 +11188,7 @@
      "body_sha256": "47c15fb3cdb18ccb62304f65f36c377636ae0c776bc841e6220721ad6f1c6a37"
     }
    },
-   "rank": 94.178
+   "rank": 93.434
   },
   {
    "id": "n6122",
@@ -11181,7 +11383,7 @@
      "body_sha256": "73047cdc28202f3bb14beea4a4c189a8eb47a20d4fcca8af295b93002556eef7"
     }
    },
-   "rank": 65.962,
+   "rank": 64.397,
    "sources": [
     {
      "domain": "europesays.com",
@@ -11387,7 +11589,7 @@
      "body_sha256": "8c74b061a7ae77337ab3b63500451e44f808d01593564ac96488a984bf6eb163"
     }
    },
-   "rank": 67.046,
+   "rank": 65.435,
    "image_url": "https://img.24n.cz/p/2026/09/razvitie-pragi-i-zhile-glavnye-spory-na-debatakh-b5f26c814f3a16a4.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/razvitie-pragi-i-zhile-glavnye-spory-na-debatakh-03c251d72c4545e2.webp"
@@ -11652,7 +11854,7 @@
      "body_sha256": "53d38fbbfb27a82e638157103687e23c949e8cd994bc0c562b42141f35b8194c"
     }
    },
-   "rank": 53.652
+   "rank": 52.348
   },
   {
    "id": "n6119",
@@ -11849,7 +12051,7 @@
      "body_sha256": "d01b317bd0bcb230dd6244e0a7c923914cf66660ffccd349438756512210e3f5"
     }
    },
-   "rank": 56.177,
+   "rank": 54.811,
    "sources": [
     {
      "domain": "otuzilci-brno.cz",
@@ -12168,7 +12370,7 @@
      "body_sha256": "7ad28a5c8d5d8c774631372e2491c0474ded077acafbed635399cba76b4d292d"
     }
    },
-   "rank": 47.34,
+   "rank": 46.189,
    "image_url": "https://img.24n.cz/p/2026/09/den-sviatogo-martina-2026-kuda-poekhat-za-vinom-i-gusem-4befe9fe378682a0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/den-sviatogo-martina-2026-kuda-poekhat-za-vinom-i-gusem-7e661d3977e67d1a.webp",
@@ -12484,7 +12686,7 @@
      "body_sha256": "848574036b846f651ac34a3954cac581b46b7c2d3480bac599ed19d24230ddbf"
     }
    },
-   "rank": 43.66,
+   "rank": 42.586,
    "image_url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-provesti-noch-na-nastoiashchem-zamke-top-mest-b1b7669fd0ec83f3.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-v-chekhii-provesti-noch-na-nastoiashchem-zamke-top-mest-39bf1502c3f19884.webp",
@@ -12731,7 +12933,7 @@
      "body_sha256": "672df332734cdebc4bb9a3af850ae5cd07149204d92712bde402be61d2cac1c2"
     }
    },
-   "rank": 59.253,
+   "rank": 57.795,
    "sources": [
     {
      "domain": "zoopraha.cz",
@@ -12935,7 +13137,7 @@
      "body_sha256": "112062fc629c99f04d4b8d518ea5e9871ee1a03a2a611ccdb2981442e47c9655"
     }
    },
-   "rank": 71.728
+   "rank": 69.963
   },
   {
    "id": "n6114",
@@ -13168,7 +13370,7 @@
      "body_sha256": "066df540a9147daa8b07edf8cbee054d8f06b6819c834d378ae8add03cac7927"
     }
    },
-   "rank": 64.601,
+   "rank": 62.99,
    "image_url": "https://img.24n.cz/p/2026/09/sestka-zdrava-hrava-2026-programma-meropriiatii-v-prage-dd113c223d7878ad.webp",
    "image_w": 750,
    "image_h": 300
@@ -13347,7 +13549,7 @@
      "body_sha256": "d5a76650147315d55699b54ea2ad26b59d6efd0e6a347b7804f637286ad744d9"
     }
    },
-   "rank": 55.373,
+   "rank": 53.992,
    "image_url": "https://img.24n.cz/p/2026/09/michelin-key-v-chekhii-gid-nazval-luchshie-oteli-fc8a421399044bc0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/michelin-key-v-chekhii-gid-nazval-luchshie-oteli-92df1bdbba63c917.webp",
@@ -13610,7 +13812,7 @@
      "body_sha256": "e4bbdf4ff30de50ee5d0e45755af293335c1e338be004f45455c5c7772cd3db2"
     }
    },
-   "rank": 63.115,
+   "rank": 61.519,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -13857,7 +14059,7 @@
      "body_sha256": "77e950721f5b695b6cd352e0a9ec06fe674e05486d5db7d6fbcbf71169a3784c"
     }
    },
-   "rank": 58.138,
+   "rank": 56.649,
    "sources": [
     {
      "domain": "korunavysociny.cz",
@@ -14097,7 +14299,7 @@
      "body_sha256": "aaad84dfe99e55ca3116449ce51c5b8ec107c6b941ce9ac357f164b118962f1f"
     }
    },
-   "rank": 56.939,
+   "rank": 55.481,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-na-mostu-inomarka-sbila-dvukh-peshekhodov-60bd577306b4fb9a.webp",
    "image_w": 1200,
    "image_h": 800
@@ -14210,7 +14412,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 47.134,
+   "rank": 45.906,
    "leisure": true
   },
   {
@@ -14360,7 +14562,7 @@
      "body_sha256": "b72953e4d11da99c5b2fd5e6a71ac9a5b0084bdff4d47aad7a73e4ee9d74dfb7"
     }
    },
-   "rank": 51.801
+   "rank": 50.42
   },
   {
    "id": "n6107",
@@ -14499,7 +14701,7 @@
      "body_sha256": "bf78dc9f914e7525b2cf318f52274dbbe71fa4258bfb26e5fd38326c428283e4"
     }
    },
-   "rank": 51.801,
+   "rank": 50.42,
    "image_url": "https://img.24n.cz/p/2026/09/kak-bystree-dozvonitsia-na-goriachuiu-liniiu-dlia-inostrants-750248c4fb0f7882.webp",
    "image_w": 1600,
    "image_h": 901
@@ -14668,7 +14870,7 @@
      "body_sha256": "d5990b788878372a1b8f085c2dc1d36249685bf87c737c0ce9247900cf6670ac"
     }
    },
-   "rank": 68.202,
+   "rank": 66.361,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/OVBOr9IakqY"
@@ -14860,7 +15062,7 @@
      "body_sha256": "e519175d8bc474cf607292420002d1129bc2e5802446140fc30c202e3f3696d4"
     }
    },
-   "rank": 45.468,
+   "rank": 44.24,
    "image_url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-spriatany-sledy-sviatogo-vatslava-tri-glavnykh-d0ed7ba73074d615.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-v-chekhii-spriatany-sledy-sviatogo-vatslava-tri-glavnykh-ec05b4dacbf5ba3b.webp",
@@ -15156,7 +15358,7 @@
      "body_sha256": "063893a0b73604bea6e326695b14a770020bb53a7979062b6a94a0002b6515e7"
     }
    },
-   "rank": 45.968,
+   "rank": 44.709,
    "sources": [
     {
      "domain": "divadelni-noviny.cz",
@@ -15366,7 +15568,7 @@
      "body_sha256": "8755b5e32bef467314e62db564e6f6b478047be7456809c206b034a473ac77e6"
     }
    },
-   "rank": 67.27,
+   "rank": 65.429,
    "image_url": "https://img.24n.cz/p/2026/09/dengi-za-profilaktiku-v-chekhii-patsientam-vyplatiat-do-1500-b66aca904b371916.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15528,7 +15730,7 @@
      "body_sha256": "6d8301955044b12ba721aa16466fc482683eaa4f5135a245f9bd9ed2f0445caa"
     }
    },
-   "rank": 85.719
+   "rank": 85.011
   },
   {
    "id": "n6101",
@@ -15697,7 +15899,7 @@
      "body_sha256": "c999d020277d4ba3831b333935da9edf8924d29895e199990cc1c6485387f0e7"
     }
    },
-   "rank": 52.501,
+   "rank": 51.043,
    "image_url": "https://img.24n.cz/p/2026/09/milliony-na-perednii-krai-nauki-eks-vladelitsa-moravia-it-bo-42921f2e7d98d983.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/milliony-na-perednii-krai-nauki-eks-vladelitsa-moravia-it-bo-8d308b78c53f3e4b.webp",
@@ -15908,7 +16110,7 @@
      "body_sha256": "0a0c21d829e56e7370cc0150a97b339f6dcc42b7376cd8f05e842f28a9c6a0e7"
     }
    },
-   "rank": 67.422,
+   "rank": 65.55,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -16063,7 +16265,7 @@
      "body_sha256": "9c4cb9ac42e7682a42f7ee0e4ad8e8c4c3aa233892dd309e988f55fc2840b8a7"
     }
    },
-   "rank": 60.029,
+   "rank": 58.341,
    "sources": [
     {
      "domain": "zpravykarlovarsko.cz",
@@ -16407,7 +16609,7 @@
      "body_sha256": "27a6fc4a9b4e3bc028f5f0a27db9d53181ac023800134d33b36629085ce3529a"
     }
    },
-   "rank": 93.536,
+   "rank": 92.757,
    "sources": [
     {
      "domain": "ekofilm.cz",
@@ -16712,7 +16914,7 @@
      "body_sha256": "8ad7be8c6744c9e0adf8752456d9c5547bf9b94e461e45ccd5fb2e0a7751a03a"
     }
    },
-   "rank": 49.115,
+   "rank": 47.733,
    "image_url": "https://img.24n.cz/p/2026/09/vinnyi-festival-v-valtice-traditsii-vino-i-razvlecheniia-dli-4e2f2ca548399d2d.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/vinnyi-festival-v-valtice-traditsii-vino-i-razvlecheniia-dli-106b0b6dc413143f.webp",
@@ -16933,7 +17135,7 @@
      "body_sha256": "ceb8143d991404206ad7c67d6813adf724523c2cdaccb544ea1320f19390ed2c"
     }
    },
-   "rank": 52.905
+   "rank": 51.371
   },
   {
    "id": "n6095",
@@ -17154,7 +17356,7 @@
      "body_sha256": "fd7d462b17938f32b3897e581af547a5adac6cfcdcfbb355d78f80f464bd9f93"
     }
    },
-   "rank": 88.477
+   "rank": 87.733
   },
   {
    "id": "n6094",
@@ -17272,7 +17474,7 @@
     ],
     "impact": "Книга Павла Черного представляет интерес для любителей чешской истории и не имеет прямых практических или финансовых последствий для повседневной жизни жителей Чехии."
    },
-   "rank": 49.539,
+   "rank": 48.081,
    "sources": [
     {
      "domain": "media24.cz",
@@ -17482,7 +17684,7 @@
      "body_sha256": "69cb11c6ebd782e9894d0e7f113deac4190376eb86d3ea2ef6178ad1c01bf4a1"
     }
    },
-   "rank": 30.766,
+   "rank": 29.861,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -17716,7 +17918,7 @@
      "body_sha256": "6d962c355359a17b67b0f382af99df0ecee7a67fd9ff4093c5c539294a6df489"
     }
    },
-   "rank": 59.968
+   "rank": 58.203
   },
   {
    "id": "n6091",
@@ -17921,7 +18123,7 @@
      "body_sha256": "3858b8046656a3a95929175b32bc75e592284a945752cf2c027e98255a2f47e0"
     }
    },
-   "rank": 48.757,
+   "rank": 47.299,
    "image_url": "https://img.24n.cz/p/2026/09/v-brno-vnedrili-unikalnyi-metod-poiska-opukholei-legkikh-66285ae3c52bd4e6.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-brno-vnedrili-unikalnyi-metod-poiska-opukholei-legkikh-290c59271c875387.webp"
@@ -18105,7 +18307,7 @@
      "body_sha256": "d07ae38310f401a0b0eefece5b3d074bea9054cef08ae38aae190e2a9bf5003d"
     }
    },
-   "rank": 59.021,
+   "rank": 57.257,
    "image_url": "https://img.24n.cz/p/2026/09/seriinyi-ubiitsa-iz-pragi-ot-dvoinogo-ubiistva-k-novomu-rass-ee0281e70f29906b.webp",
    "image_w": 1200,
    "image_h": 674
@@ -18346,7 +18548,7 @@
      "body_sha256": "7320e3fb4216b34f549de3b2240d562df645c3b288d74d65b78b241af5cc7dae"
     }
    },
-   "rank": 55.136,
+   "rank": 53.464,
    "sources": [
     {
      "domain": "plzensky.denik.cz",
@@ -18615,7 +18817,7 @@
      "body_sha256": "67d1b79622b0c748978a349335bdf9eeb096b5c15a5da6f64470983eeca04a5d"
     }
    },
-   "rank": 53.113
+   "rank": 51.502
   },
   {
    "id": "n6087",
@@ -18868,7 +19070,7 @@
      "body_sha256": "318ac4214a058faf80525c0f6729bef2273c173dda05498f8530778559fa5b6e"
     }
    },
-   "rank": 47.275
+   "rank": 45.817
   },
   {
    "id": "n6086",
@@ -19085,7 +19287,7 @@
      "body_sha256": "711508cb0aae7cbc57854b1a50d523da94b30b4bbc903197815f37e99c60f38c"
     }
    },
-   "rank": 51.35,
+   "rank": 49.662,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -19309,7 +19511,7 @@
      "body_sha256": "c5c5b4c679615c4107e72a02842ff60e08e71d80a38d7fa6afc7878285070626"
     }
    },
-   "rank": 41.252
+   "rank": 39.871
   },
   {
    "id": "n6084",
@@ -19490,7 +19692,7 @@
      "body_sha256": "c2fed0a07afdec7564d452fd38d8d1fa49b913fcca79f2c2eb5fcdf26c4924b7"
     }
    },
-   "rank": 36.024,
+   "rank": 34.796,
    "image_url": "https://img.24n.cz/p/2026/09/legendarnyi-futbolist-antonin-panenka-poluchil-statuiu-v-pra-2bdc27e4a66818d3.webp",
    "image_w": 750,
    "image_h": 300
@@ -19688,7 +19890,7 @@
      "body_sha256": "b6f36bbf6b54f14bb3682d1fe61ec2a761d506f3cf473d6d938513e0adb16296"
     }
    },
-   "rank": 44.579,
+   "rank": 43.06,
    "sources": [
     {
      "domain": "infodnes.cz",
@@ -19887,7 +20089,7 @@
      "body_sha256": "203db195d6e78640eab41aab9c12d2502db148f113a5d2f279c2a6240d77e3e4"
     }
    },
-   "rank": 44.39,
+   "rank": 42.825,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -20053,7 +20255,7 @@
      "body_sha256": "f608ad6dffb22d66035a543fd1e2f6a8653b8c813fdb8d4e5e2c04c36e71b0f0"
     }
    },
-   "rank": 71.939,
+   "rank": 71.301,
    "image_url": "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-e4073a1b24e18b79.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-24880a5a6deae71c.webp",
@@ -20372,7 +20574,7 @@
      "body_sha256": "2a35e07f771d0acf6de4e5468585df5f9adcb355bc6561e2612ea6e37712628c"
     }
    },
-   "rank": 32.64,
+   "rank": 31.489,
    "image_url": "https://img.24n.cz/p/2026/09/automaticke-mlyny-pardubice-vyroci-tri-goda-novoi-ery-7467577587b78c1f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/automaticke-mlyny-pardubice-vyroci-tri-goda-novoi-ery-cfa51e7a5ee5f74a.webp",
@@ -20642,7 +20844,7 @@
      "body_sha256": "b57724c9a22bdc7837adc179e9a6d9381604f1f7fd19117e117666f76ec517db"
     }
    },
-   "rank": 58.316,
+   "rank": 56.26,
    "sources": [
     {
      "domain": "praha13.cz",
@@ -20854,7 +21056,7 @@
      "body_sha256": "562156c7f40466fe8b463415538a8ab5b5827e5d9e3e82c23157ca12e2f41f87"
     }
    },
-   "rank": 36.991,
+   "rank": 35.687,
    "sources": [
     {
      "domain": "protisedi.cz",
@@ -21028,7 +21230,7 @@
      "body_sha256": "04686a2255699713eb3ced1bfc74cc247ea85213b0e3ba3b51fcdf22312c231a"
     }
    },
-   "rank": 38.314,
+   "rank": 36.856,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -21348,7 +21550,7 @@
      "body_sha256": "2adfac99c42f0197760c256c047db1ac484aae817e928844c5ee86c9c962cbeb"
     }
    },
-   "rank": 33.071,
+   "rank": 31.813,
    "sources": [
     {
      "domain": "masrkh.oblast.cz",
@@ -21601,7 +21803,7 @@
      "body_sha256": "aebe0b52736ea825f749a49bb3c60a7b03b39ced971b534cd0354c88b97ced6d"
     }
    },
-   "rank": 43.092,
+   "rank": 41.419,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -21775,7 +21977,7 @@
      "body_sha256": "e3ee9716db365533e7ca11f3f3eb121ecf9a7e9ff47bb8504093e046962e86a4"
     }
    },
-   "rank": 17.435,
+   "rank": 16.744,
    "image_url": "https://img.24n.cz/p/2026/09/bred-pitt-v-62-goda-pokoriaet-aliasku-v-novom-filme-o-vyzhiv-a9458286c383c5a0.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/bred-pitt-v-62-goda-pokoriaet-aliasku-v-novom-filme-o-vyzhiv-6c94169c303c22b1.webp"
@@ -21952,7 +22154,7 @@
      "body_sha256": "e5506a48390ac13204e2d8a6e0d9e6540089849519ec9d65c98af18fe58e15b4"
     }
    },
-   "rank": 42.619,
+   "rank": 40.931,
    "sources": [
     {
      "domain": "sport.ceskatelevize.cz",
@@ -22183,7 +22385,7 @@
      "body_sha256": "000f5774a7d8df72ee45ee22025f94e7a4b7b03167206f7ddb7a840d929fb4a0"
     }
    },
-   "rank": 47.268,
+   "rank": 45.396,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -22294,7 +22496,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 32.506
+   "rank": 31.217
   },
   {
    "id": "n6070",
@@ -22482,7 +22684,7 @@
      "body_sha256": "fb2c3ab8340604dd07efb69475d402ba515081cab81302f7c892dd685c355ccc"
     }
    },
-   "rank": 36.101,
+   "rank": 34.643,
    "sources": [
     {
      "domain": "czech-times.cz",
@@ -22767,7 +22969,7 @@
      "body_sha256": "d1b5e4953ed8c050a0dc2ede9aed2a6e51c389278cb316ea113ebe0a298381c1"
     }
    },
-   "rank": 47.501,
+   "rank": 45.582,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -22954,7 +23156,7 @@
      "body_sha256": "d31d4fab13a9d540e943d86f5608d03f36b229711a9e9ce60f0242a6bde564df"
     }
    },
-   "rank": 36.101,
+   "rank": 34.643,
    "image_url": "https://img.24n.cz/p/2026/09/mashinist-predotvratil-krushenie-poezda-iz-za-kamnei-na-puti-8c96ef18986483e4.webp",
    "image_w": 1200,
    "image_h": 800
@@ -22972,8 +23174,8 @@
    ],
    "published_at": "2026-09-24T19:25:31.556936+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 19:25",
@@ -23239,7 +23441,7 @@
      "body_sha256": "dc300ff557020ea01d34337cbb9f04e24a73c9d0a0c3d47276ebd057d3a73f24"
     }
    },
-   "rank": 45.506,
+   "rank": 43.75,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -23329,8 +23531,8 @@
    ],
    "published_at": "2026-09-24T19:25:31.556936+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 19:25",
@@ -23540,7 +23742,7 @@
      "body_sha256": "aed8ca22092492c5abc5f3791b9665a7f226d5af73070d0453f345fe37fd500c"
     }
    },
-   "rank": 46.235,
+   "rank": 44.45,
    "sources": [
     {
      "domain": "domaci.hn.cz",
@@ -23566,8 +23768,8 @@
    ],
    "published_at": "2026-09-24T18:32:03.743999+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 18:32",
@@ -23611,7 +23813,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 28.797,
+   "rank": 28.7,
    "forecast": true
   },
   {
@@ -26503,7 +26705,7 @@
      "body_sha256": "cc6f94e1ba874b52383413b153140350052b84a5aecc4f19981c93b7586190b6"
     }
    },
-   "rank": 72.238
+   "rank": 71.53
   },
   {
    "id": "n6051",
@@ -35236,7 +35438,7 @@
      "body_sha256": "0c58ff85668aaa7c7c322438b4ec7049dc26862ab92d8f83a494f918a639bbbc"
     }
    },
-   "rank": 57.048,
+   "rank": 56.446,
    "image_url": "https://img.24n.cz/p/2026/09/ministr-selskogo-khoziaistva-chekhii-zakazal-analiz-chtoby-o-ccc952309cd27833.webp",
    "image_w": 620,
    "image_h": 349
@@ -36791,7 +36993,7 @@
      "body_sha256": "ed269f97f9e4f29792c99a27b3a457e03fadafaaefa9fc7657c8e0ed5daac580"
     }
    },
-   "rank": 60.08,
+   "rank": 59.428,
    "sources": [
     {
      "domain": "media24.cz",
@@ -37310,7 +37512,7 @@
      "body_sha256": "1fbaf1026e6cd19365cf57623dade8046c80b5768126c311c99c558e1bcddb8b"
     }
    },
-   "rank": 51.933,
+   "rank": 51.366,
    "image_url": "https://img.24n.cz/p/2026/09/molodezh-v-chekhii-otkryvaet-analogovuiu-fotografiiu-pochemu-b0788e8232be5f1e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -40216,8 +40418,8 @@
    ],
    "published_at": "2026-09-23T19:26:39.665022+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 19:26",
@@ -40412,8 +40614,8 @@
    ],
    "published_at": "2026-09-23T18:52:28.190211+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 18:52",
@@ -40587,8 +40789,8 @@
    ],
    "published_at": "2026-09-23T18:33:19.429373+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 18:33",
@@ -66573,217 +66775,6 @@
    },
    "image_w": 750,
    "image_h": 300
-  },
-  {
-   "id": "n5872",
-   "slug": "svodka-soudcovska-unie-nazvala-slova-babis-o-sudakh-lavinoi",
-   "source": "irozhlas.cz",
-   "original_url": "https://www.irozhlas.cz/zpravy-domov/babisovy-vyroky-o-justici-mely-lavinovy-efekt-reagovat-bylo-nutne-rika-lada-ze_2609211945_elev",
-   "top": false,
-   "tags": [
-    "zakon",
-    "cesko"
-   ],
-   "published_at": "2026-09-21T21:25:20.337595+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "21 сентября 2026, 21:25",
-    "uk": "21 вересня 2026, 21:25"
-   },
-   "ru": {
-    "title": "Сводка Soudcovská unie назвала слова Babiš о судах лавиной",
-    "lede": "Слова премьер-министра о судах и справедливости вызвали жесткую реакцию руководства Soudcovská unie, назвавшего подобные обвинения подрывом доверия к правосудию.",
-    "meta_description": "Заявления Andrej Babiš о судах и справедливости вызвали лавинообразный эффект. Руководство Soudcovská unie прокомментировало ситуацию.",
-    "paras": [
-     "Высказывания премьер-министра на предвыборном митинге в Havířov спровоцировали масштабную общественную реакцию, которая заставила профессиональное объединение судей нарушить привычное молчание. По словам первого вице-президента Soudcovská unie и заместителя председателя Krajského soudu v Праге Lada, критика судебной власти со стороны столь высокопоставленного политического деятеля имеет совершенно иной вес, чем частные споры обычных граждан.",
-     "<p>Глава правительства говорил о судейских решениях без доказательств. Сравнил происходящее с методами прокуроров прошлого режима. Упомянул некую мафию, которая способна отправить человека за решётку по заказу. Представитель союза отметил: заявления быстро разошлись по интернету и соцсетям, эффект получился лавинообразным.</p>",
-     "<blockquote>Публичная критика судебной власти вполне легитимна, однако необходимо учитывать, кто и где именно произносит подобные слова, подчеркнул Roman Lada.</blockquote>",
-     "<p>Soudcovská unie выпустила официальное заявление. В нём призыв к главе кабинета министров: либо подтвердить озвученные факты через существующие правовые механизмы, либо впредь воздержаться от таких обвинений. Судейское сообщество принципиально не вмешивается в политические дискуссии, но здесь молчать не получилось: слишком резкие выпады звучали в адрес всей системы правосудия.</p>",
-     "Представители судейского корпуса напомнили, что критика самих судебных процедур или принимаемых решений допустима, но она должна оставаться в рамках конструктивного обсуждения. Если участников процесса не устраивает вердикт, у них есть стандартные и чрезвычайные инструменты обжалования, включая апелляции, кассации или обращение в Конституционный суд.",
-     "<p>Премьер-министр недавно предложил заглянуть в Úřad vlády, где его юридический советник мог бы подробно разъяснить детали резонансного дела Чепи гниздо. В судейском союзе ответили, что официальных приглашений пока не получали. Участие в таких встречах руководство организации допускает только для обсуждения общих системных вопросов работы судов. Разбирать конкретное незавершённое уголовное дело на такой встрече нельзя.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Почему Soudcovská unie решила публично ответить на слова премьера?",
-      "a": "Заявления прозвучали на публичном предвыборном митинге и быстро распространились в социальных сетях, вызвав широкий резонанс в судейском сообществе."
-     },
-     {
-      "q": "Какие действия требуют судьи от главы правительства?",
-      "a": "Организация призвала либо документально подтвердить свои слова и использовать законные механизмы обжалования, либо прекратить делать подобные заявления."
-     },
-     {
-      "q": "Собираются ли судьи идти в правительство на встречу по конкретному делу?",
-      "a": "По словам представителей союза, обсуждать общие проблемы судебной системы они готовы, но разбирать детали незавершенного уголовного дела в резиденции премьера не будут."
-     }
-    ],
-    "impact": "Конфликт между правительством и судейским сообществом затрагивает вопросы независимости судебной системы в Чехии. Для обычных граждан это означает продолжение публичной дискуссии о доверии к правоохранительным органам и судам накануне политических выборов.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Высказывания премьер-министра о судах вызвали резкую реакцию Soudcovská unie, так как критика со стороны высокопоставленного политика подрывает доверие к правосудию.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Премьер-министр обвинил судей в использовании методов прокуроров прошлого режима и упомянул «мафию», способную отправлять людей за решётку по заказу, не предоставив доказательств.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Soudcovská unie потребовала от главы правительства либо подтвердить обвинения через правовые механизмы, либо воздержаться от подобных заявлений в будущем.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Судейское сообщество допускает конструктивную критику судебных решений, но подчёркивает наличие законных инструментов обжалования, таких как апелляции и кассации.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Soudcovská unie",
-       "definition": "Профессиональное объединение судей Чехии, защищающее интересы судебного корпуса и отстаивающее независимость правосудия.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Úřad vlády",
-       "definition": "Аппарат правительства Чешской Республики, обеспечивающий организационную и юридическую поддержку деятельности кабинета министров.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "be174f6e3ffacc804225bb076b64a8b2d2592e1b4b5a338a1adfe2654b612189"
-    }
-   },
-   "uk": {
-    "title": "Спілка суддів назвала слова Бабіша про суди лавиною",
-    "lede": "Заява прем'єр-міністра про суди та справедливість викликала різку реакцію керівництва Soudcovská unie, яке назвало такі звинувачення підривом довіри до правосуддя.",
-    "meta_description": "Заяви Andrej Babiš про суди та справедливість спричинили ефект лавини. Керівництво Soudcovská unie прокоментувало ситуацію.",
-    "paras": [
-     "Виступи прем'єр-міністра на передвиборчому мітингу в Havířov спровокували масштабну громадську реакцію, яка змусила професійне об'єднання суддів порушити звичне мовчання. За словами першого віце-президента Soudcovská unie та заступника голови Krajského soudu в Празі Romana Lada, критика судової влади з боку такого високопосадовця має зовсім іншу вагу, ніж приватні суперечки звичайних громадян.",
-     "<p>Глава уряду говорив про судові рішення без доказів. Порівнював те, що відбувається, з методами прокурорів минулого режиму. Згадував якусь мафію, яка здатна посадити людину за ґрати на замовлення. Представник спілки зазначив: заяви швидко поширилися інтернетом і соцмережами, ефект вийшов лавиноподібним.</p>",
-     "<blockquote>Публічна критика судової влади цілком легітимна, однак потрібно враховувати, хто і де саме виголошує подібні слова, підкреслив Roman Lada.</blockquote>",
-     "<p>Soudcovská unie оприлюднила офіційну заяву. У ній заклик до голови кабінету міністрів: або підтвердити озвучені факти через наявні правові механізми, або надалі утримуватися від таких звинувачень. Суддівське співтовариство принципово не втручається в політичні дискусії, але тут мовчати не вийшло: надто різкі випади звучали на адресу всієї системи правосуддя.</p>",
-     "Представники суддівського корпусу нагадали, що критика самих судових процедур чи ухвалених рішень допустима, але вона має залишатися в рамках конструктивного обговорення. Якщо учасників процесу не влаштовує вердикт, у них є стандартні та надзвичайні інструменти оскарження, зокрема апеляції, касації чи звернення до Конституційного суду.",
-     "<p>Прем'єр-міністр нещодавно запропонував зазирнути до Úřad vlády, де його юридичний радник міг би детально роз'яснити подробиці резонансної справи Čapí hnízdo. У суддівській спілці відповіли, що офіційних запрошень поки не отримували. Участь у таких зустрічах керівництво організації допускає лише для обговорення загальних системних питань роботи судів. Розбирати конкретну незавершену кримінальну справу на такій зустрічі не можна.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Чому Soudcovská unie вирішила публічно відповісти на слова прем'єра?",
-      "a": "Заяви прозвучали на публічному передвиборчому мітингу й швидко поширилися в соціальних мережах, викликавши широкий резонанс у суддівському середовищі."
-     },
-     {
-      "q": "Яких дій вимагають судді від голови уряду?",
-      "a": "Організація закликала або документально підтвердити свої слова й використати законні механізми оскарження, або припинити робити подібні заяви."
-     },
-     {
-      "q": "Чи збираються судді йти до уряду на зустріч щодо конкретної справи?",
-      "a": "За словами представників спілки, обговорювати загальні проблеми судової системи вони готові, але розбирати деталі незавершеної кримінальної справи в резиденції прем'єра не будуть."
-     }
-    ],
-    "impact": "Конфликт между правительством и судейским сообществом затрагивает вопросы независимости судебной системы в Чехии. Для обычных граждан это означает продолжение публичной дискуссии о доверии к правоохранительным органам и судам накануне политических выборов.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Заява прем'єр-міністра про суди викликала різку реакцію суддівської спілки, яка назвала звинувачення підривом довіри до правосуддя.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Прем'єр-міністр порівнював судові рішення з методами прокурорів минулого режиму та згадував про «мафію», що викликало лавиноподібний ефект у соцмережах.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Soudcovská unie закликала прем'єра підтвердити озвучені факти через правові механізми або утримуватися від звинувачень.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Судді нагадали, що критика судових рішень допустима, але має бути конструктивною, а для оскарження існують апеляції, касації та звернення до Конституційного суду.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Soudcovská unie",
-       "definition": "Професійне об'єднання суддів Чехії, яке представляє інтереси суддівського корпусу та реагує на критику судової системи.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Úřad vlády",
-       "definition": "Урядовий офіс Чехії, який забезпечує діяльність уряду та надає юридичні консультації прем'єр-міністру.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Як реагувати на критику судів",
-      "items": [
-       {
-        "text": "Перевірте, чи критика судових рішень є конструктивною та обґрунтованою.",
-        "target": {
-         "block": 5,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Скористайтеся законними інструментами оскарження: апеляцією, касацією або зверненням до Конституційного суду.",
-        "target": {
-         "block": 5,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Уникайте публічних звинувачень без доказів, які можуть підірвати довіру до судової системи.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "def156177eb4183b3cb18679fb7c495d13576bd9603a88706061081c87224b00"
-    }
-   },
-   "rank": 33.25,
-   "image_url": "https://img.24n.cz/p/2026/09/svodka-soudcovska-unie-nazvala-slova-babis-o-sudakh-lavinoi-a421488b4abbb37b.webp",
-   "image_w": 620,
-   "image_h": 349
   }
  ]
 }
