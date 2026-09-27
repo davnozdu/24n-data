@@ -1,8 +1,234 @@
 {
- "updated_at": "2026-09-27T20:41:14+00:00",
+ "updated_at": "2026-09-27T21:44:32+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6209",
+   "slug": "prazhskuiu-koltsevuiu-dorogu-u-slivence-perekroiut-dvazhdy-nochiu-usta",
+   "source": "prazsky.denik.cz",
+   "original_url": "https://prazsky.denik.cz/zpravy-region/prazsky-okruh-u-slivence-se-v-noci-dvakrat-uzavre-kvuli-usazeni-nosniku/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zpravy-region",
+   "top": false,
+   "tags": [
+    "praha",
+    "cesko"
+   ],
+   "published_at": "2026-09-27T23:44:31.775955+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "27 сентября 2026, 23:44",
+    "uk": "27 вересня 2026, 23:44"
+   },
+   "ru": {
+    "title": "Пражскую кольцевую дорогу у Slivence перекроют дважды ночью: установка мостовой балки",
+    "lede": "В ночь на понедельник движение по Пражскому округу у Slivence будет дважды кратковременно перекрыто для установки последней части мостовой балки. Первое ограничение началось в 23:12 и продлилось около получаса.",
+    "meta_description": "Пражскую кольцевую дорогу у Slivence перекроют дважды в ночь на понедельник для установки мостовой балки.",
+    "paras": [
+     "<p>В ночь на понедельник на Пражской кольцевой дороге (Pražský okruh) у Slivence дважды ненадолго перекроют движение. Причина: ставят последнюю часть мостовой балки. Из-за технических осложнений её не успели смонтировать в запланированное время, в ночь с субботы на воскресенье.</p>",
+     "<h3>Когда и где перекрытия?</h3>",
+     "<p>Первое перекрытие началось в 23:12 и продлилось около получаса. Второе ожидается позже ночью, точное время не уточняется. Ограничения действуют на 16,5 километре кольцевой дороги, между съездами на Ořech и Slivenec, за съездом на Slivenec в направлении на dálnici D5.</p>",
+     "<p>Изначально полиция планировала перекрыть участок в 13:00 на два часа, но позже перенесла работы на вечер. Как сообщило <b>Ředitelství silnic a dálnic (ŘSD)</b>, строители компании <b>Skanska</b> возводят на этом месте два новых путепровода взамен снесенных мостов.</p>",
+     "<h3>Почему снесли мосты?</h3>",
+     "<p>Старые мостовые переходы не позволяли расширить Пражскую кольцевую дорогу до трёх полос в каждом направлении. На их месте строятся новые, технически соответствующие современным требованиям. Об этом рассказал региональный пресс-секретарь ŘSD <b>Luděk Hubáček</b>.</p>",
+     "<blockquote>«Из-за технических осложнений работы не удалось завершить в запланированное время в ночь с субботы на воскресенье. Краны должны установить последний фрагмент балки более осторожно, поэтому потребуются два кратковременных ночных перекрытия с воскресенья на понедельник», пояснил Hubáček.</blockquote>",
+     "<p>Существующие мосты не годились для расширения дороги, сказал он. На их месте появятся полностью новые конструкции.</p>",
+     "<blockquote>«Старые переходы не позволяли это сделать, поэтому здесь будут построены совершенно новые, технически подходящие мосты», уточнил пресс-секретарь.</blockquote>",
+     "<p>Полиция Чехии просит водителей объезжать этот участок.</p>",
+     "<blockquote>«Просим водителей воспользоваться альтернативными дорогами и объехать этот участок», говорится в сообщении полиции.</blockquote>"
+    ],
+    "faq": [
+     {
+      "q": "Когда перекроют Пражскую кольцевую дорогу у Slivence?",
+      "a": "В ночь на понедельник ожидаются два кратковременных перекрытия: первое началось в 23:12 и продлилось около получаса, второе запланировано позже ночью в неуточнённое время."
+     },
+     {
+      "q": "Где именно будет перекрыт участок?",
+      "a": "На 16,5 километре Пражской кольцевой дороги, между съездами на Ořech и Slivenec, за съездом на Slivenec в направлении dálnice D5."
+     },
+     {
+      "q": "Почему проводятся эти работы?",
+      "a": "Строительная компания Skanska устанавливает последнюю часть мостовой балки для двух новых путепроводов. Старые мосты были снесены из-за расширения дороги до трёх полос в каждом направлении."
+     },
+     {
+      "q": "Как долго продлятся перекрытия?",
+      "a": "Первое перекрытие длилось около 30 минут. Второе также будет кратковременным, но точное время не указано."
+     }
+    ],
+    "impact": "Ночные перекрытия на Пражской кольцевой дороге у Slivence могут вызвать временные задержки для водителей, следующих в направлении dálnice D5. Рекомендуется заранее планировать маршрут, используя объездные пути. Работы связаны с расширением дороги до трёх полос в каждом направлении, что в перспективе улучшит транспортную инфраструктуру.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "В ночь на понедельник на Пражской кольцевой дороге у Slivence дважды ненадолго перекроют движение, чтобы поставить последнюю часть мостовой балки.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Первое перекрытие началось в 23:12 и продлилось около получаса, второе ожидается позже ночью без уточнения времени.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Изначально полиция планировала перекрыть участок в 13:00 на два часа, но перенесла работы на вечер.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Старые мостовые переходы не позволяли расширить Пражскую кольцевую дорогу до трёх полос в каждом направлении.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Pražský okruh",
+       "definition": "Пражская кольцевая дорога, на которой у Slivence перекрывают движение.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "путепровода",
+       "definition": "Мостовые сооружения, которые возводят на месте снесённых мостов.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "18faea5861c26d450180ab4e4607e38447a8dce1e2def49ba6bb8cb827f67452"
+    }
+   },
+   "uk": {
+    "title": "Празьку кільцеву дорогу біля Slivence перекриють двічі за ніч: встановлюють мостову балку",
+    "lede": "У ніч на понеділок рух Празькою кільцевою дорогою біля Slivence двічі ненадовго перекриють, щоб встановити останню частину мостової балки. Перше обмеження почалося о 23:12 і тривало близько пів години.",
+    "meta_description": "Празьку кільцеву дорогу біля Slivence перекриють двічі за ніч на понеділок, щоб встановити мостову балку.",
+    "paras": [
+     "<p>У ніч на понеділок на Празькій кільцевій дорозі (Pražský okruh) біля Slivence двічі ненадовго перекриють рух. Причина: ставлять останню частину мостової балки. Через технічні складнощі її не встигли змонтувати в запланований час, у ніч із суботи на неділю.</p>",
+     "<h3>Коли і де перекриття?</h3>",
+     "<p>Перше перекриття почалося о 23:12 і тривало близько пів години. Друге очікується пізніше вночі, точний час не уточнюється. Обмеження діють на 16,5 кілометрі кільцевої дороги, між з'їздами на Ořech і Slivenec, за з'їздом на Slivenec у напрямку на dálnici D5.</p>",
+     "<p>Спочатку поліція планувала перекрити ділянку о 13:00 на дві години, але згодом перенесла роботи на вечір. Як повідомило <b>Ředitelství silnic a dálnic (ŘSD)</b>, будівельники компанії <b>Skanska</b> зводять на цьому місці два нових шляхопроводи замість знесених мостів.</p>",
+     "<h3>Чому знесли мости?</h3>",
+     "<p>Старі мостові переходи не дозволяли розширити Празьку кільцеву дорогу до трьох смуг у кожному напрямку. На їхньому місці будують нові, технічно відповідні сучасним вимогам. Про це розповів регіональний прес-секретар ŘSD <b>Luděk Hubáček</b>.</p>",
+     "<blockquote>«Через технічні складнощі роботи не вдалося завершити в запланований час у ніч із суботи на неділю. Крани мають встановити останній фрагмент балки обережніше, тому знадобляться два короткочасні нічні перекриття з неділі на понеділок», пояснив Hubáček.</blockquote>",
+     "<p>Наявні мости не годилися для розширення дороги, сказав він. На їхньому місці з'являться цілком нові конструкції.</p>",
+     "<blockquote>«Старі переходи не дозволяли це зробити, тому тут буде збудовано цілком нові, технічно придатні мости», уточнив прес-секретар.</blockquote>",
+     "<p>Поліція Чехії просить водіїв об'їжджати цю ділянку.</p>",
+     "<blockquote>«Просимо водіїв скористатися альтернативними дорогами й об'їхати цю ділянку», ідеться в повідомленні поліції.</blockquote>"
+    ],
+    "faq": [
+     {
+      "q": "Коли перекриють Празьку кільцеву дорогу біля Slivence?",
+      "a": "У ніч на понеділок очікуються два короткочасні перекриття: перше почалося о 23:12 і тривало близько пів години, друге заплановано пізніше вночі в неуточнений час."
+     },
+     {
+      "q": "Де саме буде перекрито ділянку?",
+      "a": "На 16,5 кілометрі Празької кільцевої дороги, між з'їздами на Ořech і Slivenec, за з'їздом на Slivenec у напрямку dálnice D5."
+     },
+     {
+      "q": "Чому проводяться ці роботи?",
+      "a": "Будівельна компанія Skanska встановлює останню частину мостової балки для двох нових шляхопроводів. Старі мости знесли через розширення дороги до трьох смуг у кожному напрямку."
+     },
+     {
+      "q": "Як довго триватимуть перекриття?",
+      "a": "Перше перекриття тривало близько 30 хвилин. Друге також буде короткочасним, але точний час не вказано."
+     }
+    ],
+    "impact": "Ночные перекрытия на Пражской кольцевой дороге у Slivence могут вызвать временные задержки для водителей, следующих в направлении dálnice D5. Рекомендуется заранее планировать маршрут, используя объездные пути. Работы связаны с расширением дороги до трёх полос в каждом направлении, что в перспективе улучшит транспортную инфраструктуру.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У ніч на понеділок Празьку кільцеву дорогу біля Slivence двічі ненадовго перекриють, щоб встановити останню частину мостової балки.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Перше перекриття почалося о 23:12 і тривало близько пів години, друге очікується пізніше вночі без уточнення часу.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Спочатку поліція планувала перекрити ділянку о 13:00 на дві години, але перенесла роботи на вечір.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Старі мостові переходи не дозволяли розширити Празьку кільцеву дорогу до трьох смуг у кожному напрямку.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Pražský okruh",
+       "definition": "Празька кільцева дорога, на якій ведуться роботи.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Ředitelství silnic a dálnic",
+       "definition": "Установа, яка повідомила про хід робіт.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "59c4cb9cb52cd687a01c48c3cd5dcf55bf4695b7e92efedca0f43d689cba3e02"
+    }
+   },
+   "rank": 105.0,
+   "sources": [
+    {
+     "domain": "ceskenoviny.cz",
+     "official": false,
+     "url": "https://www.ceskenoviny.cz/zpravy/prazsky-okruh-u-slivence-se-v-noci-dvakrat-uzavre-kvuli-usazeni-nosniku/2879942",
+     "title": "Pražský okruh u Slivence se v noci dvakrát uzavře kvůli usazení nosníku | ČeskéNoviny.cz"
+    },
+    {
+     "domain": "ct24.ceskatelevize.cz",
+     "official": false,
+     "url": "https://ct24.ceskatelevize.cz/clanek/regiony/hlavni-mesto-praha/prazsky-okruh-u-slivence-se-vecer-uzavre-kvuli-usazeni-nosniku-378004",
+     "title": "Pražský okruh u Slivence se večer uzavře kvůli usazení nosníku — ČT24 — Česká televize"
+    },
+    {
+     "domain": "denikn.cz",
+     "official": false,
+     "url": "https://denikn.cz/minuta/2197287/",
+     "title": "Pražský okruh u Slivence se uzavře kvůli usazení mostního nosníku až pozdě večer"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 3,
+   "image_url": "https://img.24n.cz/p/2026/09/prazhskuiu-koltsevuiu-dorogu-u-slivence-perekroiut-dvazhdy-n-00c1f7f4efa0f703.webp",
+   "image_w": 1366,
+   "image_h": 910
+  },
   {
    "id": "n6208",
    "slug": "kvantovye-tekhnologii-delaiut-ryvok-ot-tochnykh-chasov-do-vzloma-rsa-8",
@@ -16,8 +242,8 @@
    ],
    "published_at": "2026-09-27T22:41:13.980600+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "27 сентября 2026, 22:41",
@@ -300,8 +526,8 @@
    ],
    "published_at": "2026-09-27T22:41:13.980600+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "27 сентября 2026, 22:41",
@@ -492,8 +718,8 @@
    ],
    "published_at": "2026-09-27T19:01:10.488528+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "27 сентября 2026, 19:01",
@@ -595,7 +821,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 85.17
+   "rank": 83.86
   },
   {
    "id": "n6204",
@@ -609,8 +835,8 @@
    ],
    "published_at": "2026-09-27T18:22:55.528215+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 18:22",
@@ -826,7 +1052,7 @@
      "body_sha256": "5d9e4e602975e775ffe974283aa759e2df97b23ac9e9b88589549adfa23f1ad5"
     }
    },
-   "rank": 103.02
+   "rank": 101.42
   },
   {
    "id": "n6203",
@@ -840,8 +1066,8 @@
    ],
    "published_at": "2026-09-27T18:22:55.528215+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 18:22",
@@ -970,7 +1196,7 @@
      "body_sha256": "98a136f71d768e93edde55bd19605a44d06c30c21baed7872f8f5cf9bb65a649"
     }
    },
-   "rank": 57.888,
+   "rank": 56.989,
    "sources": [
     {
      "domain": "zzshmp.cz",
@@ -1004,8 +1230,8 @@
    ],
    "published_at": "2026-09-27T17:18:32.823171+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 17:18",
@@ -1232,8 +1458,8 @@
    ],
    "published_at": "2026-09-27T16:18:24.344861+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 16:18",
@@ -1397,7 +1623,7 @@
      "body_sha256": "b66bd0c6afbaf8a846f5e96e65088117fe906ca73148d51f1403e39ddded2afe"
     }
    },
-   "rank": 116.043,
+   "rank": 114.184,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -1424,8 +1650,8 @@
    ],
    "published_at": "2026-09-27T16:18:24.344861+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 16:18",
@@ -1685,7 +1911,7 @@
      "body_sha256": "91fcaf19e420e52d31677a6441ffe0e133ab6bf898cc399cbb08880c81e16a27"
     }
    },
-   "rank": 97.019,
+   "rank": 95.465,
    "sources": [
     {
      "domain": "europesays.com",
@@ -1712,8 +1938,8 @@
    ],
    "published_at": "2026-09-27T16:18:24.344861+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 16:18",
@@ -1863,7 +2089,7 @@
      "body_sha256": "8b04ea8efb478987fd195542e749153f807334c370838c54a04997095c89b934"
     }
    },
-   "rank": 97.019,
+   "rank": 95.465,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -1890,8 +2116,8 @@
    ],
    "published_at": "2026-09-27T15:14:05.593532+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 15:14",
@@ -2070,8 +2296,8 @@
    ],
    "published_at": "2026-09-27T15:14:05.593532+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 15:14",
@@ -2270,7 +2496,7 @@
      "body_sha256": "4c68df925feb3bf7dbf8b3900ea91b89c9793477ee80b5248cc38111996921a0"
     }
    },
-   "rank": 135.674,
+   "rank": 133.465,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -2310,8 +2536,8 @@
    ],
    "published_at": "2026-09-27T15:14:05.593532+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 15:14",
@@ -2609,7 +2835,7 @@
      "body_sha256": "8255a47d6f6413f0fa746eeb953842d809d17598302c6c9100a78e3cfedd2367"
     }
    },
-   "rank": 93.569,
+   "rank": 92.045,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-smiagchila-evropeiskie-pravila-o-prozrachnosti-zarp-ee148fd1f219a2d9.webp",
    "image_w": 1366,
    "image_h": 910
@@ -2626,8 +2852,8 @@
    ],
    "published_at": "2026-09-27T14:01:09.988813+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 14:01",
@@ -2875,7 +3101,7 @@
      "body_sha256": "04ec3dbc7ebbe1c3d20d34438690430e0ccd8fa5f75a32e1532bcbead1105584"
     }
    },
-   "rank": 82.632,
+   "rank": 81.26,
    "image_url": "https://img.24n.cz/p/2026/09/gde-otdokhnut-v-tishine-i-uedinenii-v-kladskem-pomezi-aa753e9f0c8e4231.webp",
    "images": [
     "https://cdn.kudyznudy.cz/files/d8/d808dfe7-86f2-4830-917a-1b063328478a.webp?v=20241014184035",
@@ -2897,8 +3123,8 @@
    ],
    "published_at": "2026-09-27T14:01:09.988813+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 14:01",
@@ -3086,7 +3312,7 @@
      "body_sha256": "d4ba519fffbae94c6b25aeefc8084c258b6d3fd5b688feaa4071e1d7c7a696eb"
     }
    },
-   "rank": 96.404
+   "rank": 94.804
   },
   {
    "id": "n6193",
@@ -3100,8 +3326,8 @@
    ],
    "published_at": "2026-09-27T12:55:23.995755+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 12:55",
@@ -3348,7 +3574,7 @@
      "body_sha256": "738f3d1a4dd40fd59f5133e5db96701fdd90f25d1a0a425eb93feff4f63a96b4"
     }
    },
-   "rank": 54.138,
+   "rank": 53.224,
    "image_url": "https://img.24n.cz/p/2026/09/puteshestvie-v-dobrushku-po-sledam-cheshskogo-patriota-hek-db13cd6a2b8d7bd3.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/puteshestvie-v-dobrushku-po-sledam-cheshskogo-patriota-hek-458b5902f76d45e4.webp",
@@ -3391,8 +3617,8 @@
    ],
    "published_at": "2026-09-27T12:55:23.995755+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 12:55",
@@ -3539,7 +3765,7 @@
      "body_sha256": "a2e0832f3946f1bbfacc56a9cdf9c1eb448efc0ece919b8c234156b53ace46f8"
     }
    },
-   "rank": 94.741,
+   "rank": 93.141,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -3572,8 +3798,8 @@
    ],
    "published_at": "2026-09-27T12:55:23.995755+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 12:55",
@@ -3802,7 +4028,7 @@
      "body_sha256": "8efb01dcaea87ba8a2208ec91ee16fb434dcfc8b423f3de1018ec9f7840ba2b7"
     }
    },
-   "rank": 85.718,
+   "rank": 84.271,
    "image_url": "https://img.24n.cz/p/2026/09/michal-semotan-ppf-portfel-kak-stroitsia-s-nulia-0d5c82b97726f8a4.webp",
    "video": {
     "kind": "iframe",
@@ -3823,8 +4049,8 @@
    ],
    "published_at": "2026-09-27T11:51:33.240467+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 11:51",
@@ -4018,7 +4244,7 @@
      "body_sha256": "b05d17044dae01154d1b1e3382ce9858fcca0f4c11a7775f61b3c80b3afa0982"
     }
    },
-   "rank": 114.414,
+   "rank": 112.448,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -4054,8 +4280,8 @@
    ],
    "published_at": "2026-09-27T10:49:15.943447+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 10:49",
@@ -4199,7 +4425,7 @@
      "body_sha256": "515c6fcd64858f88a9fd4a2f06b421ef254b795fb276ce8cf1949023bc53fb2e"
     }
    },
-   "rank": 87.193,
+   "rank": 85.669,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -4279,8 +4505,8 @@
    ],
    "published_at": "2026-09-27T10:49:15.943447+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 10:49",
@@ -4526,7 +4752,7 @@
      "body_sha256": "a5e32cacb49e372cb333af3cde068222fbb2ab3f6f43c8571f665aa80d32c276"
     }
    },
-   "rank": 78.474,
+   "rank": 77.102,
    "image_url": "https://img.24n.cz/p/2026/09/luchshie-marshruty-cyklovylety-praha-a-okoli-na-tselyi-god-c026d8ee9a4a1f52.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/luchshie-marshruty-cyklovylety-praha-a-okoli-na-tselyi-god-81d595890f4827ab.webp",
@@ -4579,8 +4805,8 @@
    ],
    "published_at": "2026-09-27T09:45:31.040786+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 09:45",
@@ -4745,7 +4971,7 @@
      "body_sha256": "f0498443b2a80140be19c5c5941a9dd5b3bf71ec8a811f64c43c31a08b00c774"
     }
    },
-   "rank": 77.093
+   "rank": 75.721
   },
   {
    "id": "n6186",
@@ -4759,8 +4985,8 @@
    ],
    "published_at": "2026-09-27T09:45:31.040786+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 09:45",
@@ -4881,7 +5107,7 @@
      "body_sha256": "4235df262d55266ce02e040cda7a183edfbd1471d70869a7f06d0fd6274a4d0b"
     }
    },
-   "rank": 81.375
+   "rank": 79.928
   },
   {
    "id": "n6185",
@@ -4895,8 +5121,8 @@
    ],
    "published_at": "2026-09-27T09:45:31.040786+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 09:45",
@@ -5090,7 +5316,7 @@
      "body_sha256": "cae3008008ac61f5097da372eabc6d6f5897e434105cdd7cedddde1fe85dbfa5"
     }
    },
-   "rank": 51.395,
+   "rank": 50.481,
    "image_url": "https://img.24n.cz/p/2026/09/tainye-talismany-chekhii-relikvii-i-spiashchie-rytsari-5ca92cb5e64e6192.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/tainye-talismany-chekhii-relikvii-i-spiashchie-rytsari-909461d86bec4dcb.webp",
@@ -5163,8 +5389,8 @@
    ],
    "published_at": "2026-09-27T08:41:30.217041+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 08:41",
@@ -5407,7 +5633,7 @@
      "body_sha256": "d5e0bdd6ec179c5e1b4549521deeedbfc1a977ebca562ce73b98186622fa5f76"
     }
    },
-   "rank": 75.706
+   "rank": 74.334
   },
   {
    "id": "n6183",
@@ -5421,8 +5647,8 @@
    ],
    "published_at": "2026-09-27T08:41:30.217041+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 08:41",
@@ -5673,7 +5899,7 @@
      "body_sha256": "3901ea60a497aff77c931c43bdc22506d5b9075e3a3f0ebfadd6131af1fa866f"
     }
    },
-   "rank": 75.706,
+   "rank": 74.334,
    "image_url": "https://img.24n.cz/p/2026/09/zdar-nad-sazavou-s-detmi-kuda-poiti-v-regione-c10bebb24082ac9a.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zdar-nad-sazavou-s-detmi-kuda-poiti-v-regione-0c0b646c74cf32b3.webp",
@@ -5716,8 +5942,8 @@
    ],
    "published_at": "2026-09-27T08:41:30.217041+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 08:41",
@@ -5911,7 +6137,7 @@
      "body_sha256": "0ee98c7224b9086f11e616a6624df930805c4ed7fb207138d6bb4d61c80b7dbd"
     }
    },
-   "rank": 75.706,
+   "rank": 74.334,
    "image_url": "https://img.24n.cz/p/2026/09/sladkie-simvoly-chekhii-istoriia-i-retsepty-traditsionnykh-k-87cc11de42e399cb.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/sladkie-simvoly-chekhii-istoriia-i-retsepty-traditsionnykh-k-8d9bdbed083be066.webp",
@@ -5985,8 +6211,8 @@
    ],
    "published_at": "2026-09-27T07:32:43.772583+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 07:32",
@@ -6126,7 +6352,7 @@
      "body_sha256": "4c8ae795d8b3fd5d90a5c5de3635dea4b51fc418eda8a1c91c7c3fb480c5d8f5"
     }
    },
-   "rank": 98.129,
+   "rank": 96.316,
    "sources": [
     {
      "domain": "press.news",
@@ -6157,8 +6383,8 @@
    ],
    "published_at": "2026-09-27T07:32:43.772583+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 07:32",
@@ -6380,7 +6606,7 @@
      "body_sha256": "ffddd6faf990ed7013c82b26db0e9b8736b4e4a967a0f8f95d2704c7d61a661c"
     }
    },
-   "rank": 86.585
+   "rank": 84.985
   },
   {
    "id": "n6179",
@@ -6395,8 +6621,8 @@
    ],
    "published_at": "2026-09-27T06:27:42.261821+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 06:27",
@@ -6684,7 +6910,7 @@
      "body_sha256": "7b92b43e06d9deaf5460bff41e3d7bdea48a26106843343b4c9a57f11cb8a1f7"
     }
    },
-   "rank": 76.851,
+   "rank": 75.404,
    "image_url": "https://img.24n.cz/p/2026/09/pensionery-v-chekhii-mogut-platit-za-edu-i-zhile-v-domakh-pr-0f93f17dbb2a7d98.webp",
    "image_w": 1366,
    "image_h": 910
@@ -6701,8 +6927,8 @@
    ],
    "published_at": "2026-09-27T04:16:14.968776+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 04:16",
@@ -6882,7 +7108,7 @@
      "body_sha256": "16ce209fe9cd862bfa5fc657ab65f591f8c9b7b18ec9c07af532ac7785a98e9c"
     }
    },
-   "rank": 81.618,
+   "rank": 80.018,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -6939,8 +7165,8 @@
    ],
    "published_at": "2026-09-27T02:04:44.359707+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "27 сентября 2026, 02:04",
@@ -7179,7 +7405,7 @@
      "body_sha256": "0b6fc049d0d92009ceb35685e638facfebfc3a9e855204c43def851ac1f0360f"
     }
    },
-   "rank": 74.566,
+   "rank": 73.042,
    "image_url": "https://img.24n.cz/p/2026/09/prague-airport-ees-border-checks-kak-uskoriat-proverki-ce5ef458f7857831.webp",
    "image_w": 1600,
    "image_h": 901
@@ -7196,8 +7422,8 @@
    ],
    "published_at": "2026-09-27T01:04:53.526367+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "27 сентября 2026, 01:04",
@@ -7419,7 +7645,7 @@
      "body_sha256": "c27cbcf0c4f5ae7f1ccfb31cb5b5a0483a1010987c5643b250e88ec509932438"
     }
    },
-   "rank": 62.156,
+   "rank": 60.861,
    "image_url": "https://img.24n.cz/p/2026/09/vyshel-gnome-51-offlain-karty-plavnyi-mutter-i-podpisi-f1bfd427677c598d.webp",
    "image_w": 670,
    "image_h": 377
@@ -7437,8 +7663,8 @@
    ],
    "published_at": "2026-09-27T01:04:53.526367+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "27 сентября 2026, 01:04",
@@ -7662,7 +7888,7 @@
      "body_sha256": "07c01067c7d7fe1256fe61f07f87842f2eb0f8dff698dc74d8b2257aace46c4c"
     }
    },
-   "rank": 89.212,
+   "rank": 87.353,
    "sources": [
     {
      "domain": "vecerni-praha.cz",
@@ -7866,7 +8092,7 @@
      "body_sha256": "1770695928af370aced2b2f602f2b3f71ca8e5cb240e5828cb01e264f8852d11"
     }
    },
-   "rank": 61.391,
+   "rank": 60.02,
    "image_url": "https://img.24n.cz/p/2026/09/v-raione-prerov-perevernulsia-traktor-s-pritsepom-11-postrad-fedeebdae6ecd958.webp",
    "image_w": 1200,
    "image_h": 800
@@ -7961,7 +8187,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 56.486
+   "rank": 55.206
   },
   {
    "id": "n6172",
@@ -8138,7 +8364,7 @@
      "body_sha256": "b6f274dee16b86720376c820199965ec78de6848c654a72c9a42c47301ca6ee4"
     }
    },
-   "rank": 61.83,
+   "rank": 60.382,
    "sources": [
     {
      "domain": "metro.cz",
@@ -8405,7 +8631,7 @@
      "body_sha256": "38850e5926f7933334115da72feb70d0746b387df302d2b32a7dd8b88a53d540"
     }
    },
-   "rank": 41.307
+   "rank": 40.317
   },
   {
    "id": "n6170",
@@ -8646,7 +8872,7 @@
      "body_sha256": "2c399bba9215bdb6598f2137f74cb598c5ad4a246ff0da1fbf86afb706329e92"
     }
    },
-   "rank": 77.53,
+   "rank": 75.671,
    "sources": [
     {
      "domain": "nospcr.cz",
@@ -8816,7 +9042,7 @@
      "body_sha256": "57d4fe2b27586da4b2d6412b79a02d61aa1110d87724d1e7b8e51f199766571a"
     }
    },
-   "rank": 43.368,
+   "rank": 42.301,
    "image_url": "https://img.24n.cz/p/2026/09/novyi-serial-o-zagadochnykh-ischeznoveniiakh-v-prazhskom-met-d0e922f2f5db3fd7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/novyi-serial-o-zagadochnykh-ischeznoveniiakh-v-prazhskom-met-d9736cd6d6aa6d59.webp"
@@ -9111,7 +9337,7 @@
      "body_sha256": "7906e68075e7161eef86c133c59333273ae853ae3cb6be065c43351663d1545c"
     }
    },
-   "rank": 71.826,
+   "rank": 70.012,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -9366,7 +9592,7 @@
      "body_sha256": "e6213bab946b1ab2439a2e3accb1b5e910cf59d4bb747e4410ef6ab58d09628f"
     }
    },
-   "rank": 66.393,
+   "rank": 64.717,
    "sources": [
     {
      "domain": "press.news",
@@ -9555,7 +9781,7 @@
      "body_sha256": "0c7958c388750048e478ad96ab70642ffc416e85304c7ddc2526fe640d592a4f"
     }
    },
-   "rank": 57.032,
+   "rank": 55.554,
    "sources": [
     {
      "domain": "media24.cz",
@@ -9785,7 +10011,7 @@
      "body_sha256": "a2fa5d571a5883addb4bf16e992f2733477c65f35decd6200ece7f037371a58a"
     }
    },
-   "rank": 79.374,
+   "rank": 77.317,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -10045,7 +10271,7 @@
      "body_sha256": "b4b2e865c178e90803ddf02fed60e094ad8882a2d69e0554b7b3086305bb075a"
     }
    },
-   "rank": 84.115,
+   "rank": 83.429,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -10319,7 +10545,7 @@
      "body_sha256": "46d5b4b16dc04ff27dcdbe2b868ab2062bbe5510a19ef0379e823e995b76ed45"
     }
    },
-   "rank": 42.942,
+   "rank": 41.799,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-c29407819f3b3758.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-5ba5585849ec23b4.webp"
@@ -10522,7 +10748,7 @@
      "body_sha256": "57fe06d5b40c5326dfd26f95b6a0ca14172fabbf0eb05b219dc837487e891ce7"
     }
    },
-   "rank": 61.263,
+   "rank": 59.633,
    "sources": [
     {
      "domain": "praha5.cz",
@@ -10851,7 +11077,7 @@
      "body_sha256": "4d512ae091c7adb5e60bae82b03d0dd2f3a5396966f402d232f75b18d22354f6"
     }
    },
-   "rank": 51.175,
+   "rank": 49.773,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -11063,7 +11289,7 @@
      "body_sha256": "6d7eacae44ceec572564d1bee0795ae742703ae75c955853bea751f105a7c154"
     }
    },
-   "rank": 62.3,
+   "rank": 60.594,
    "sources": [
     {
      "domain": "metro.cz",
@@ -11264,7 +11490,7 @@
      "body_sha256": "ab932d1da124316e4d5c48285ae9426a0ae7288f36f1e31f62b8ffa6add7c916"
     }
    },
-   "rank": 61.188,
+   "rank": 59.512,
    "image_url": "https://img.24n.cz/p/2026/09/kak-pravilno-slivat-vodu-iz-basseina-po-cheshskim-zakonam-7325cc6f4e86a962.webp",
    "image_w": 1366,
    "image_h": 910
@@ -11458,7 +11684,7 @@
      "body_sha256": "e94e51ff71ec43cff208a56dde72d393c952455c6b80b44f9f1f52e654be2dfa"
     }
    },
-   "rank": 63.586
+   "rank": 63.058
   },
   {
    "id": "n6157",
@@ -11659,7 +11885,7 @@
      "body_sha256": "6fe7b7153a339a8eb125f68f9decbaabb02caee8088b4647ce401f83a2871633"
     }
    },
-   "rank": 49.891,
+   "rank": 48.443,
    "sources": [
     {
      "domain": "krimi-plzen.cz",
@@ -11851,7 +12077,7 @@
      "body_sha256": "1239e9fe2a406bb22262cd74b2605453edf6b3e6e88b72b69f2dce28480a87dd"
     }
    },
-   "rank": 54.618,
+   "rank": 53.033,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -12077,7 +12303,7 @@
      "body_sha256": "b5ead0469322d0b4a20a71295c0dc6e0957daec25c52e393508489248fff6bc8"
     }
    },
-   "rank": 62.495,
+   "rank": 60.682,
    "sources": [
     {
      "domain": "isvetelsko.cz",
@@ -12150,7 +12376,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 41.099
+   "rank": 39.88
   },
   {
    "id": "n6153",
@@ -12408,7 +12634,7 @@
      "body_sha256": "b79861b40cec753e03551b635040bbcf16e0eab4be31eee5b2ebd87d879c6f6e"
     }
    },
-   "rank": 45.841,
+   "rank": 44.47,
    "image_url": "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-813e65d4c453c77e.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-de763b7b5aa13dda.webp",
@@ -12659,7 +12885,7 @@
      "body_sha256": "63e3bd03f1a75c9d0087318f5ecf0918dba98ce25b36974eabc203f80af9ba1b"
     }
    },
-   "rank": 61.122,
+   "rank": 59.293,
    "image_url": "https://img.24n.cz/p/2026/09/mesta-v-vuzakh-chekhii-pod-ugrozoi-iz-za-sokrashcheniia-biud-bd51c5b69e22f72d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12969,7 +13195,7 @@
      "body_sha256": "816832899672940a452fa9ee92b7aea976fbbdefba0287d4decadd00960bacfe"
     }
    },
-   "rank": 58.575,
+   "rank": 56.823,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -13205,7 +13431,7 @@
      "body_sha256": "e1905dad2fb31f04e27a699cc1bac70fe91f82daecb96cb0ab9bcee4c014764b"
     }
    },
-   "rank": 65.706,
+   "rank": 63.74,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -13388,7 +13614,7 @@
      "body_sha256": "9cde4e1e9dcbc30372bc24061debd4cdcd6fb4d4f0e7b91ce924dd475955a102"
     }
    },
-   "rank": 51.29,
+   "rank": 49.706,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -13635,7 +13861,7 @@
      "body_sha256": "dd4ee14bcd9ba3488046e4ad82d7338c37f31fa7108eb60100c978fe099bd826"
     }
    },
-   "rank": 51.784,
+   "rank": 50.184,
    "image_url": "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-1b958b657c30099f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-af7dc72099a0aa7d.webp",
@@ -13911,7 +14137,7 @@
      "body_sha256": "8dd5a8a754660a33a85b80b66feccc4fee3dc65d819791e44de9605f71903483"
     }
    },
-   "rank": 44.386,
+   "rank": 43.015,
    "sources": [
     {
      "domain": "teplicky.denik.cz",
@@ -14114,7 +14340,7 @@
      "body_sha256": "be18fa30066962f3aacaa2a4e31c527aa087641b0de17caedbe8807f46303609"
     }
    },
-   "rank": 51.29,
+   "rank": 49.706,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -14401,7 +14627,7 @@
      "body_sha256": "3e5fac46128ec39db818990274b6cff21b3595036b282c29da90cd88cfa326cf"
     }
    },
-   "rank": 39.114,
+   "rank": 37.865,
    "sources": [
     {
      "domain": "nachodsky.denik.cz",
@@ -14594,7 +14820,7 @@
      "body_sha256": "a6919f3df675554e11ce91e513ca1615c578203fd1779011e348927709451819"
     }
    },
-   "rank": 45.716,
+   "rank": 44.208,
    "sources": [
     {
      "domain": "globe24.cz",
@@ -14809,7 +15035,7 @@
      "body_sha256": "03227ec4bd92c957bde422da4e8ec9021516628ad7e4978c8e8c0021908c42e8"
     }
    },
-   "rank": 39.251,
+   "rank": 37.956,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-s-noiabria-vremenno-propadet-lekarstvo-ot-epilepsi-440e0742a4c87803.webp",
    "image_w": 1366,
    "image_h": 910
@@ -14999,7 +15225,7 @@
      "body_sha256": "3d8fe5be3711ea31605e8508514b02e7537954717d663b54d280ff71a64f1247"
     }
    },
-   "rank": 33.446,
+   "rank": 32.303,
    "image_url": "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-00c768c0885e11f7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-4a44a2abfd30cd52.webp",
@@ -15177,7 +15403,7 @@
      "body_sha256": "e990ddd6a8b70787388e0f13d3aeea6e3884357a47ef60e00901fe9fdd59d330"
     }
    },
-   "rank": 33.446,
+   "rank": 32.303,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-529914e56c558553.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-477956ab41467e00.webp",
@@ -15427,7 +15653,7 @@
      "body_sha256": "c089557ae2d06c9de52e77eed1511888ea2ee670a62e7a9b67cba3f779ff4593"
     }
    },
-   "rank": 35.202,
+   "rank": 33.952,
    "sources": [
     {
      "domain": "media24.cz",
@@ -15626,7 +15852,7 @@
      "body_sha256": "4b2430dc77c03cf9d9298cb25bc61336e938afd2de16bdcf02aba7321746a5a5"
     }
    },
-   "rank": 40.085,
+   "rank": 38.607,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -15821,7 +16047,7 @@
      "body_sha256": "b3030b20547a3a34f60d8e0708b29e29ac50d080b9e386c724c4e8eb418926a2"
     }
    },
-   "rank": 47.111,
+   "rank": 45.374,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -16064,7 +16290,7 @@
      "body_sha256": "6f0303c2516d4f0d6d8180abb733b7eaeb1b3ea71844ce25529a65bc5df43544"
     }
    },
-   "rank": 45.458
+   "rank": 43.781
   },
   {
    "id": "n6136",
@@ -16237,7 +16463,7 @@
      "body_sha256": "4b29103e30f833708df32303b8629f88afe8a60f2ba148602dffccc634cf57af"
     }
    },
-   "rank": 35.713,
+   "rank": 34.342,
    "image_url": "https://img.24n.cz/p/2026/09/ministr-zdravookhraneniia-chekhii-zashchishchaet-reformu-str-2f53770728560c7b.webp",
    "image_w": 630,
    "image_h": 350
@@ -16559,7 +16785,7 @@
      "body_sha256": "339010548529244506d253d8bac26e4965532bd47b3f4c984c1e433c004b1c6a"
     }
    },
-   "rank": 28.561,
+   "rank": 27.419,
    "image_url": "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-27ce3d24bb192945.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-dd23b87dcb1f9bd7.webp",
@@ -16613,8 +16839,8 @@
    ],
    "published_at": "2026-09-25T23:41:22.897243+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "25 сентября 2026, 23:41",
@@ -16846,7 +17072,7 @@
      "body_sha256": "3accde20d33654566e12a83776b0d3f2fbdbf9829cd77ef16c51889c329f4086"
     }
    },
-   "rank": 37.177,
+   "rank": 35.7,
    "sources": [
     {
      "domain": "mf.gov.cz",
@@ -19148,7 +19374,7 @@
      "body_sha256": "47c15fb3cdb18ccb62304f65f36c377636ae0c776bc841e6220721ad6f1c6a37"
     }
    },
-   "rank": 74.413
+   "rank": 73.675
   },
   {
    "id": "n6122",
@@ -23690,7 +23916,7 @@
      "body_sha256": "6d8301955044b12ba721aa16466fc482683eaa4f5135a245f9bd9ed2f0445caa"
     }
    },
-   "rank": 66.896
+   "rank": 66.193
   },
   {
    "id": "n6101",
@@ -24569,7 +24795,7 @@
      "body_sha256": "27a6fc4a9b4e3bc028f5f0a27db9d53181ac023800134d33b36629085ce3529a"
     }
    },
-   "rank": 72.831,
+   "rank": 72.057,
    "sources": [
     {
      "domain": "ekofilm.cz",
@@ -25316,7 +25542,7 @@
      "body_sha256": "fd7d462b17938f32b3897e581af547a5adac6cfcdcfbb355d78f80f464bd9f93"
     }
    },
-   "rank": 68.713
+   "rank": 67.974
   },
   {
    "id": "n6094",
@@ -28215,7 +28441,7 @@
      "body_sha256": "f608ad6dffb22d66035a543fd1e2f6a8653b8c813fdb8d4e5e2c04c36e71b0f0"
     }
    },
-   "rank": 54.998,
+   "rank": 54.365,
    "image_url": "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-e4073a1b24e18b79.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-24880a5a6deae71c.webp",
@@ -46642,8 +46868,8 @@
    ],
    "published_at": "2026-09-23T23:08:04.522822+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "23 сентября 2026, 23:08",
@@ -62330,8 +62556,8 @@
    ],
    "published_at": "2026-09-22T22:48:26.080534+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "22 сентября 2026, 22:48",
@@ -62533,8 +62759,8 @@
    ],
    "published_at": "2026-09-22T22:48:26.080534+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "22 сентября 2026, 22:48",
@@ -66288,188 +66514,6 @@
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-postroili-dom-shkaf-dlia-semi-s-shestiu-detmi-490474449687888c.webp",
    "image_w": 820,
    "image_h": 512
-  },
-  {
-   "id": "n5907",
-   "slug": "v-brno-poimali-narkodilera-v-tainike-nashli-oruzhie-i-formu",
-   "source": "tydenikpolicie.cz",
-   "original_url": "https://tydenikpolicie.cz/ve-skladu-mel-varnu-drog-macety-kuse-airsoftove-zbrane-i-pistoli-upravenou-na-ostre-strelivo/",
-   "top": false,
-   "tags": [
-    "kriminal",
-    "cesko"
-   ],
-   "published_at": "2026-09-22T12:57:05.395934+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "22 сентября 2026, 12:57",
-    "uk": "22 вересня 2026, 12:57"
-   },
-   "ru": {
-    "title": "В Брно поймали наркодилера: в тайнике нашли оружие и форму",
-    "lede": "Брненские полицейские задержали 21-летнего молодого человека, которого подозревают в производстве и сбыте первитина.",
-    "meta_description": "В Брно полиция задержала 21-летнего мужчину за производство первитина. В его складских контейнерах нашли лабораторию, оружие и полицейскую форму.",
-    "paras": [
-     "<p>Три дня хватило криминалистам из брненского антинаркотического подразделения, чтобы задержать 21-летнего парня и собрать против него доказательства. Его подозревают в незаконном изготовлении и распространении первитина. Началось всё с обычной дорожной проверки: полицейский патруль нашёл в машине запрещённые вещества.</p>",
-     "<p>На место вызвали профильных специалистов. Осмотр автомобиля дал новые улики: дополнительные порции наркотиков и связку ключей. Задержанный рассказал полицейским, что эти ключи подходят к арендованным складским контейнерам.</p>",
-     "<h3>Обыск в контейнерах и арсенал</h3>",
-     "<p>Санкции получили, помещения вскрыли. Подозрения подтвердились сразу. Внутри складов стояла готовая лаборатория для варки наркотиков: лабораторное стекло, химикаты, оборудование.</p>",
-     "<p>Но находки на этом не кончились. В контейнерах лежал целый арсенал:</p>",
-     "<ul><li>мачете и арбалет</li><li>airsoft-копии автоматического оружия</li><li>пистолет, переделанный под стрельбу боевыми патронами</li><li>форменный жилет с надписью Policie</li><li>форма словацких силовых ведомств</li></ul>",
-     "<h3>Решение суда</h3>",
-     "<p>Молодой человек уже не раз привлекался к уголовной ответственности. Следствие опасалось, что на свободе он продолжит совершать преступления. Судья постановил заключить подозреваемого под стражу.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Сколько лет подозреваемому?",
-      "a": "Задержанному 21 год."
-     },
-     {
-      "q": "Что обнаружили в складских контейнерах?",
-      "a": "Там нашли оборудование и химикаты для производства первитина, а также арсенал оружия, включая мачете, пистолет под боевые патроны, арбалет и полицейскую форму."
-     },
-     {
-      "q": "Какая мера пресечения была избрана?",
-      "a": "Суд принял решение о заключении подозреваемого под стражу из-за риска продолжения преступной деятельности."
-     }
-    ],
-    "impact": "Полиция изъяла крупную партию наркотиков, оружие и форму с символикой, предотвратив дальнейшую преступную деятельность рецидивиста.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Брненские полицейские за три дня задержали 21-летнего подозреваемого в производстве и распространении первитина.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В арендованных складских контейнерах подозреваемого нашли лабораторию для варки наркотиков и арсенал оружия.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Среди находок в контейнерах были пистолет, переделанный под боевые патроны, и форма словацких силовых ведомств.",
-       "target": {
-        "block": 6,
-        "item": 3
-       }
-      },
-      {
-       "text": "Суд отправил подозреваемого под стражу из-за опасений, что на свободе он продолжит преступную деятельность.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "первитина",
-       "definition": "Синтетический наркотик из группы амфетаминов, обладающий сильным стимулирующим действием.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "4dd163278d7206cd9326f43318203635a6deceda40ead2fb8e29f5f8fd5e8b96"
-    }
-   },
-   "uk": {
-    "title": "У Брно спіймали наркодилера: у схованці знайшли зброю та форму",
-    "lede": "Поліцейські Брно затримали 21-річного чоловіка, якого підозрюють у виробництві та збуті первітину.",
-    "meta_description": "У Брно поліція затримала 21-річного чоловіка за виробництво первітину. У його складських контейнерах знайшли лабораторію, зброю та поліцейську форму.",
-    "paras": [
-     "<p>Криміналістам з антинаркотичного підрозділу Брно знадобилося три дні, щоб затримати 21-річного хлопця та зібрати проти нього докази. Його підозрюють у незаконному виготовленні та розповсюдженні первітину. Усе почалося зі звичайної дорожньої перевірки: поліцейський патруль знайшов у машині заборонені речовини.</p>",
-     "<p>На місце викликали профільних спеціалістів. Огляд автомобіля дав нові докази: додаткові партії наркотиків та зв’язку ключів. Затриманий розповів поліцейським, що ці ключі підходять до орендованих складських контейнерів.</p>",
-     "<h3>Обшук у контейнерах та арсенал</h3>",
-     "<p>Отримавши санкції, приміщення відкрили. Підозри підтвердилися одразу. Всередині складів стояла готова лабораторія для виготовлення наркотиків: лабораторний посуд, хімікати, обладнання.</p>",
-     "<p>Але знахідки на цьому не закінчилися. У контейнерах лежав цілий арсенал:</p>",
-     "<ul><li>мачете та арбалет</li><li>airsoft-копії автоматичної зброї</li><li>пістолет, перероблений під стрільбу бойовими набоями</li><li>форменний жилет з написом Policie</li><li>форма словацьких силових відомств</li></ul>",
-     "<h3>Рішення суду</h3>",
-     "<p>Молодий чоловік уже не раз притягувався до кримінальної відповідальності. Слідство побоювалося, що на волі він продовжить вчиняти злочини. Суддя постановив узяти підозрюваного під варту.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Скільки років підозрюваному?",
-      "a": "Затриманому 21 рік."
-     },
-     {
-      "q": "Що виявили у складських контейнерах?",
-      "a": "Там знайшли обладнання та хімікати для виробництва первітину, а також арсенал зброї, зокрема мачете, пістолет під бойові набої, арбалет і поліцейську форму."
-     },
-     {
-      "q": "Який запобіжний захід обрали?",
-      "a": "Суд ухвалив рішення взяти підозрюваного під варту через ризик продовження злочинної діяльності."
-     }
-    ],
-    "impact": "Полиция изъяла крупную партию наркотиков, оружие и форму с символикой, предотвратив дальнейшую преступную деятельность рецидивиста.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "21-річного чоловіка підозрюють у незаконному виготовленні та розповсюдженні первітину.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Затриманий сказав поліцейським, що знайдені ключі підходять до орендованих складських контейнерів.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "У складських контейнерах стояла готова лабораторія для виготовлення наркотиків: лабораторний посуд, хімікати, обладнання.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Суддя постановив узяти підозрюваного під варту.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "первітину",
-       "definition": "Наркотична речовина, яку, за версією слідства, чоловік незаконно виготовляв і розповсюджував.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "airsoft-копії",
-       "definition": "Копії автоматичної зброї, які стріляють не бойовими набоями.",
-       "target": {
-        "block": 6,
-        "item": 2
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "9cb1928db67555f06f290d4352fb925656b9d8446d3ca2e608651a40daf4def6"
-    }
-   },
-   "rank": 31.5,
-   "image_url": "https://img.24n.cz/p/2026/09/v-brno-poimali-narkodilera-v-tainike-nashli-oruzhie-i-formu-1f9aa4d39d03b8ab.webp",
-   "image_w": 1080,
-   "image_h": 720
   }
  ]
 }
