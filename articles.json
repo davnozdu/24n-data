@@ -1,8 +1,300 @@
 {
- "updated_at": "2026-09-27T21:44:32+00:00",
+ "updated_at": "2026-09-27T22:16:45+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6210",
+   "slug": "gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodnoi-voiny",
+   "source": "kudyznudy.cz",
+   "original_url": "https://www.kudyznudy.cz/aktuality/pripomente-si-mista-zelezne-opony",
+   "top": false,
+   "tags": [
+    "dosug",
+    "cesko"
+   ],
+   "published_at": "2026-09-28T00:16:44.397550+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "28 сентября 2026, 00:16",
+    "uk": "28 вересня 2026, 00:16"
+   },
+   "ru": {
+    "title": "Где в Чехии найти следы, музеи и памятники эпохи холодной войны",
+    "lede": "В чешском пограничье до сих пор можно отыскать следы разделенной Европы, включая проволочные заграждения, сигнальные стены и старые наблюдательные вышки.",
+    "meta_description": "Где искать следы железного занавеса в Чехии: музеи, мемориальные тропы, уцелевшие бункеры и велосипедные маршруты вдоль границ.",
+    "paras": [
+     "<p>В чешском пограничье сохранились реальные свидетельства эпохи разделенной Европы. <b>Железный занавес в Чехии</b> оставил после себя не только память в учебниках истории, но и физические следы в виде остатков проволочных заграждений, сигнальных стен и наблюдательных вышек.</p>",
+     "<p>Тем, кто интересуется историей того периода, портал Kudy z nudy рекомендует посетить специализированные экспозиции. Музеи железного занавеса работают в населенных пунктах Rozvadov и Valtice. Большинство таких выставок размещается в аутентичных помещениях бывших зданий пограничной стражи прямо на государственной границе.</p>",
+     "<h3>Где находятся главные музеи и военные экспозиции</h3>",
+     "<p>Помимо специализированных музеев, в стране открыты другие интересные объекты, связанные с историей двадцатого века. Среди них выделяются Atom Muzeum Brdy, Музей 20 века в Slavonice, а также подземная экспозиция в бункре отеля Jalta в Praha. В таких музеях посетителям демонстрируют сотни экспонатов, тысячи архивных фотографий и копии важных исторических документов.</p>",
+     "<p>Отдельного внимания заслуживают исчезнувшие деревни в приграничной полосе, история которых также связана с эпохой тоталитаризма. К ним относятся Knížecí Pláně na Šumavě, Bučina na Šumavě и Pleš v Českém lese.</p>",
+     "<h3>Мемориалы, реплики и специальные маршруты</h3>",
+     "<p>Пройти по следам прошлого можно пешком или на велосипеде. Для этого созданы специальные туристические маршруты: Stezka železné opony (EuroVelo 13), Naučná stezka Utajená obrana železné opony, Naučná stezka svobody Vyšší Brod и Stezka 20. století u Nové Bystřice.</p>",
+     "<p>Европейская дальняя велотрасса EuroVelo 13 начинается у города Aš и тянется вдоль границ с Германией и Австрией до слияния рек Dyje и Morava.</p>",
+     "<p>В пограничье воссоздали и элементы самих укреплений. <em>Реплику железного занавеса</em> ищите у Bučina u Kvildy возле популярного туристического перехода Bučina-Finsterau. К известным памятникам относятся также Památník obětem železné opony u Chebu и Brána ke svobodě v Mikulově.</p>",
+     "<p>Последние подлинные остатки инженерных сооружений сохранились в районе Podyjí у пограничной деревушки Čížov и в виде бункеров возле Vranov nad Dyjí.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Где в Чехии находятся музеи железного занавеса?",
+      "a": "Музеи расположены в Rozvadov и Valtice. Также упоминаются Atom Muzeum Brdy, Музей 20 века в Slavonice и бункер отеля Jalta в Praha."
+     },
+     {
+      "q": "Где можно увидеть реплику железного занавеса?",
+      "a": "Реплику можно найти возле Bučina u Kvildy рядом с туристическим пограничным переходом Bučina-Finsterau."
+     },
+     {
+      "q": "Какой веломаршрут проходит по местам железного занавеса?",
+      "a": "Европейская дальняя велотрасса EuroVelo 13 пролегает от Aš вдоль границ с Германией и Австрией до слияния рек Dyje и Morava."
+     }
+    ],
+    "impact": "Материал носит познавательный характер и служит путеводителем по историческим местам Чехии для туристов и местных жителей, интересующихся историей холодной войны.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "В чешском пограничье сохранились остатки проволочных заграждений, сигнальных стен и наблюдательных вышек эпохи железного занавеса.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Музеи железного занавеса работают в Rozvadov и Valtice, большинство экспозиций размещено в бывших зданиях пограничной стражи на государственной границе.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Пройти по следам прошлого можно пешком или на велосипеде по специальным туристическим маршрутам.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Последние подлинные остатки инженерных сооружений сохранились в районе Podyjí у деревушки Čížov и в виде бункеров возле Vranov nad Dyjí.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "бункре",
+       "definition": "Оборонительное сооружение; в тексте упоминается подземная экспозиция в таком объекте при отеле Jalta в Praha.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": {
+      "title": "Что посмотреть по теме",
+      "items": [
+       {
+        "text": "Посетить музеи железного занавеса в Rozvadov и Valtice.",
+        "target": {
+         "block": 2,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Зайти в Atom Muzeum Brdy, Музей 20 века в Slavonice или подземную экспозицию в бункре отеля Jalta в Praha.",
+        "target": {
+         "block": 4,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Увидеть исчезнувшие приграничные деревни Knížecí Pláně, Bučina na Šumavě и Pleš v Českém lese.",
+        "target": {
+         "block": 5,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Найти реплику железного занавеса у Bučina u Kvildy возле перехода Bučina-Finsterau.",
+        "target": {
+         "block": 9,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Посмотреть подлинные остатки сооружений в районе Podyjí у Čížov и бункеры возле Vranov nad Dyjí.",
+        "target": {
+         "block": 10,
+         "paragraph": 1
+        }
+       }
+      ]
+     },
+     "body_sha256": "a3ce4c5d2f2d77cac69f8f4a2cab6019c7597caf803530433cef67b4a0083188"
+    }
+   },
+   "uk": {
+    "title": "Де в Чехії знайти сліди, музеї та пам'ятники епохи холодної війни",
+    "lede": "У чеському прикордонні досі можна відшукати сліди розділеної Європи, зокрема дротяні загорожі, сигнальні стіни та старі спостережні вишки.",
+    "meta_description": "Де шукати сліди залізної завіси в Чехії: музеї, меморіальні стежки, уцілілі бункери та велосипедні маршрути вздовж кордонів.",
+    "paras": [
+     "<p>У чеському прикордонні збереглися реальні свідчення епохи розділеної Європи. <b>Залізна завіса в Чехії</b> залишила по собі не лише пам'ять у підручниках історії, а й фізичні сліди у вигляді залишків дротяних загорож, сигнальних стін та спостережних вишок.</p>",
+     "<p>Тим, хто цікавиться історією того періоду, портал Kudy z nudy радить відвідати спеціалізовані експозиції. Музеї залізної завіси працюють у населених пунктах Rozvadov і Valtice. Більшість таких виставок розміщується в автентичних приміщеннях колишніх будівель прикордонної варти просто на державному кордоні.</p>",
+     "<h3>Де розташовані головні музеї та військові експозиції</h3>",
+     "<p>Окрім спеціалізованих музеїв, у країні відкриті інші цікаві об'єкти, пов'язані з історією двадцятого століття. Серед них вирізняються Atom Muzeum Brdy, Музей 20 століття в Slavonice, а також підземна експозиція в бункері готелю Jalta в Praha. У таких музеях відвідувачам показують сотні експонатів, тисячі архівних фотографій і копії важливих історичних документів.</p>",
+     "<p>Окремої уваги заслуговують зниклі села в прикордонній смузі, історія яких також пов'язана з епохою тоталітаризму. До них належать Knížecí Pláně na Šumavě, Bučina na Šumavě і Pleš v Českém lese.</p>",
+     "<h3>Меморіали, репліки та спеціальні маршрути</h3>",
+     "<p>Пройти слідами минулого можна пішки або на велосипеді. Для цього створені спеціальні туристичні маршрути: Stezka železné opony (EuroVelo 13), Naučná stezka Utajená obrana železné opony, Naučná stezka svobody Vyšší Brod і Stezka 20. století u Nové Bystřice.</p>",
+     "<p>Європейська дальня велотраса EuroVelo 13 починається біля міста Aš і тягнеться вздовж кордонів з Німеччиною та Австрією до злиття річок Dyje і Morava.</p>",
+     "<p>У прикордонні відтворили й елементи самих укріплень. <em>Репліку залізної завіси</em> шукайте біля Bučina u Kvildy поблизу популярного туристичного переходу Bučina-Finsterau. До відомих пам'ятників належать також Památník obětem železné opony u Chebu і Brána ke svobodě v Mikulově.</p>",
+     "<p>Останні справжні залишки інженерних споруд збереглися в районі Podyjí біля прикордонного села Čížov і у вигляді бункерів біля Vranov nad Dyjí.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Де в Чехії розташовані музеї залізної завіси?",
+      "a": "Музеї розташовані в Rozvadov і Valtice. Також згадуються Atom Muzeum Brdy, Музей 20 століття в Slavonice і бункер готелю Jalta в Praha."
+     },
+     {
+      "q": "Де можна побачити репліку залізної завіси?",
+      "a": "Репліку можна знайти біля Bučina u Kvildy поруч із туристичним прикордонним переходом Bučina-Finsterau."
+     },
+     {
+      "q": "Який веломаршрут проходить місцями залізної завіси?",
+      "a": "Європейська дальня велотраса EuroVelo 13 пролягає від Aš вздовж кордонів з Німеччиною та Австрією до злиття річок Dyje і Morava."
+     }
+    ],
+    "impact": "Материал носит познавательный характер и служит путеводителем по историческим местам Чехии для туристов и местных жителей, интересующихся историей холодной войны.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У чеському прикордонні збереглися залишки дротяних загорож, сигнальних стін та спостережних вишок часів залізної завіси.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Музеї залізної завіси працюють у Rozvadov і Valtice, більшість експозицій розміщено в колишніх будівлях прикордонної варти на державному кордоні.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Пройти слідами минулого можна пішки або на велосипеді спеціальними туристичними маршрутами, зокрема Stezka železné opony (EuroVelo 13).",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Останні справжні залишки інженерних споруд збереглися в районі Podyjí біля села Čížov і як бункери біля Vranov nad Dyjí.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Stezka železné opony",
+       "definition": "Спеціальний туристичний маршрут слідами залізної завіси, що входить до європейської дальньої велотраси EuroVelo 13.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": {
+      "title": "Що варто врахувати",
+      "items": [
+       {
+        "text": "Відвідайте спеціалізовані музеї залізної завіси в Rozvadov і Valtice.",
+        "target": {
+         "block": 2,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Зверніть увагу на інші об'єкти історії 20 століття: Atom Muzeum Brdy, Музей 20 століття в Slavonice та підземну експозицію в бункері готелю Jalta в Praha.",
+        "target": {
+         "block": 4,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Пройдіть маршрутами слідами минулого пішки або на велосипеді, зокрема Stezka železné opony (EuroVelo 13).",
+        "target": {
+         "block": 7,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Побачте репліку залізної завіси біля Bučina u Kvildy поблизу переходу Bučina-Finsterau.",
+        "target": {
+         "block": 9,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Відшукайте останні справжні залишки інженерних споруд у районі Podyjí біля села Čížov і бункери біля Vranov nad Dyjí.",
+        "target": {
+         "block": 10,
+         "paragraph": 1
+        }
+       }
+      ]
+     },
+     "body_sha256": "ea0680d3c44f6af7e23b6771210848508c86c6123108624fc811be0efdfaf226"
+    }
+   },
+   "rank": 90.0,
+   "image_url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-de11d8bc23e81d61.webp",
+   "images": [
+    "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-000652326c7911fd.webp",
+    "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-ff4baa8594f3f7b0.webp",
+    "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-c54ee35b9773556e.webp"
+   ],
+   "photo_spots": [
+    {
+     "url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-000652326c7911fd.webp",
+     "after": 2,
+     "caption": "Колючая проволока на бетонных столбах с лампами в лесу"
+    },
+    {
+     "url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-ff4baa8594f3f7b0.webp",
+     "after": 4,
+     "caption": "Музейная экспозиция: оружие, рации, плакаты на стене"
+    },
+    {
+     "url": "https://img.24n.cz/p/2026/09/gde-v-chekhii-naiti-sledy-muzei-i-pamiatniki-epokhi-kholodno-c54ee35b9773556e.webp",
+     "after": 6,
+     "caption": "Смотровая башня с людьми и тропой в лесу"
+    }
+   ],
+   "image_w": 1360,
+   "image_h": 900,
+   "images_wh": [
+    [
+     1360,
+     900
+    ],
+    [
+     1360,
+     900
+    ],
+    [
+     1360,
+     900
+    ]
+   ]
+  },
   {
    "id": "n6209",
    "slug": "prazhskuiu-koltsevuiu-dorogu-u-slivence-perekroiut-dvazhdy-nochiu-usta",
@@ -15,8 +307,8 @@
    ],
    "published_at": "2026-09-27T23:44:31.775955+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "32 минуты назад",
+    "uk": "32 хвилини тому"
    },
    "date": {
     "ru": "27 сентября 2026, 23:44",
@@ -718,8 +1010,8 @@
    ],
    "published_at": "2026-09-27T19:01:10.488528+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 19:01",
@@ -821,7 +1113,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 83.86
+   "rank": 83.193
   },
   {
    "id": "n6204",
@@ -1052,7 +1344,7 @@
      "body_sha256": "5d9e4e602975e775ffe974283aa759e2df97b23ac9e9b88589549adfa23f1ad5"
     }
    },
-   "rank": 101.42
+   "rank": 100.606
   },
   {
    "id": "n6203",
@@ -1196,7 +1488,7 @@
      "body_sha256": "98a136f71d768e93edde55bd19605a44d06c30c21baed7872f8f5cf9bb65a649"
     }
    },
-   "rank": 56.989,
+   "rank": 56.531,
    "sources": [
     {
      "domain": "zzshmp.cz",
@@ -1623,7 +1915,7 @@
      "body_sha256": "b66bd0c6afbaf8a846f5e96e65088117fe906ca73148d51f1403e39ddded2afe"
     }
    },
-   "rank": 114.184,
+   "rank": 113.237,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -1911,7 +2203,7 @@
      "body_sha256": "91fcaf19e420e52d31677a6441ffe0e133ab6bf898cc399cbb08880c81e16a27"
     }
    },
-   "rank": 95.465,
+   "rank": 94.674,
    "sources": [
     {
      "domain": "europesays.com",
@@ -2089,7 +2381,7 @@
      "body_sha256": "8b04ea8efb478987fd195542e749153f807334c370838c54a04997095c89b934"
     }
    },
-   "rank": 95.465,
+   "rank": 94.674,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -2116,8 +2408,8 @@
    ],
    "published_at": "2026-09-27T15:14:05.593532+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 15:14",
@@ -2296,8 +2588,8 @@
    ],
    "published_at": "2026-09-27T15:14:05.593532+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 15:14",
@@ -2496,7 +2788,7 @@
      "body_sha256": "4c68df925feb3bf7dbf8b3900ea91b89c9793477ee80b5248cc38111996921a0"
     }
    },
-   "rank": 133.465,
+   "rank": 132.341,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -2536,8 +2828,8 @@
    ],
    "published_at": "2026-09-27T15:14:05.593532+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 15:14",
@@ -2835,7 +3127,7 @@
      "body_sha256": "8255a47d6f6413f0fa746eeb953842d809d17598302c6c9100a78e3cfedd2367"
     }
    },
-   "rank": 92.045,
+   "rank": 91.269,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-smiagchila-evropeiskie-pravila-o-prozrachnosti-zarp-ee148fd1f219a2d9.webp",
    "image_w": 1366,
    "image_h": 910
@@ -2852,8 +3144,8 @@
    ],
    "published_at": "2026-09-27T14:01:09.988813+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 14:01",
@@ -3101,7 +3393,7 @@
      "body_sha256": "04ec3dbc7ebbe1c3d20d34438690430e0ccd8fa5f75a32e1532bcbead1105584"
     }
    },
-   "rank": 81.26,
+   "rank": 80.562,
    "image_url": "https://img.24n.cz/p/2026/09/gde-otdokhnut-v-tishine-i-uedinenii-v-kladskem-pomezi-aa753e9f0c8e4231.webp",
    "images": [
     "https://cdn.kudyznudy.cz/files/d8/d808dfe7-86f2-4830-917a-1b063328478a.webp?v=20241014184035",
@@ -3123,8 +3415,8 @@
    ],
    "published_at": "2026-09-27T14:01:09.988813+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 14:01",
@@ -3312,7 +3604,7 @@
      "body_sha256": "d4ba519fffbae94c6b25aeefc8084c258b6d3fd5b688feaa4071e1d7c7a696eb"
     }
    },
-   "rank": 94.804
+   "rank": 93.989
   },
   {
    "id": "n6193",
@@ -3326,8 +3618,8 @@
    ],
    "published_at": "2026-09-27T12:55:23.995755+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 12:55",
@@ -3574,7 +3866,7 @@
      "body_sha256": "738f3d1a4dd40fd59f5133e5db96701fdd90f25d1a0a425eb93feff4f63a96b4"
     }
    },
-   "rank": 53.224,
+   "rank": 52.758,
    "image_url": "https://img.24n.cz/p/2026/09/puteshestvie-v-dobrushku-po-sledam-cheshskogo-patriota-hek-db13cd6a2b8d7bd3.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/puteshestvie-v-dobrushku-po-sledam-cheshskogo-patriota-hek-458b5902f76d45e4.webp",
@@ -3617,8 +3909,8 @@
    ],
    "published_at": "2026-09-27T12:55:23.995755+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 12:55",
@@ -3765,7 +4057,7 @@
      "body_sha256": "a2e0832f3946f1bbfacc56a9cdf9c1eb448efc0ece919b8c234156b53ace46f8"
     }
    },
-   "rank": 93.141,
+   "rank": 92.327,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -3798,8 +4090,8 @@
    ],
    "published_at": "2026-09-27T12:55:23.995755+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 12:55",
@@ -4028,7 +4320,7 @@
      "body_sha256": "8efb01dcaea87ba8a2208ec91ee16fb434dcfc8b423f3de1018ec9f7840ba2b7"
     }
    },
-   "rank": 84.271,
+   "rank": 83.534,
    "image_url": "https://img.24n.cz/p/2026/09/michal-semotan-ppf-portfel-kak-stroitsia-s-nulia-0d5c82b97726f8a4.webp",
    "video": {
     "kind": "iframe",
@@ -4049,8 +4341,8 @@
    ],
    "published_at": "2026-09-27T11:51:33.240467+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 11:51",
@@ -4244,7 +4536,7 @@
      "body_sha256": "b05d17044dae01154d1b1e3382ce9858fcca0f4c11a7775f61b3c80b3afa0982"
     }
    },
-   "rank": 112.448,
+   "rank": 111.447,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -4280,8 +4572,8 @@
    ],
    "published_at": "2026-09-27T10:49:15.943447+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 10:49",
@@ -4425,7 +4717,7 @@
      "body_sha256": "515c6fcd64858f88a9fd4a2f06b421ef254b795fb276ce8cf1949023bc53fb2e"
     }
    },
-   "rank": 85.669,
+   "rank": 84.894,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -4505,8 +4797,8 @@
    ],
    "published_at": "2026-09-27T10:49:15.943447+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 10:49",
@@ -4752,7 +5044,7 @@
      "body_sha256": "a5e32cacb49e372cb333af3cde068222fbb2ab3f6f43c8571f665aa80d32c276"
     }
    },
-   "rank": 77.102,
+   "rank": 76.404,
    "image_url": "https://img.24n.cz/p/2026/09/luchshie-marshruty-cyklovylety-praha-a-okoli-na-tselyi-god-c026d8ee9a4a1f52.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/luchshie-marshruty-cyklovylety-praha-a-okoli-na-tselyi-god-81d595890f4827ab.webp",
@@ -4805,8 +5097,8 @@
    ],
    "published_at": "2026-09-27T09:45:31.040786+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 09:45",
@@ -4971,7 +5263,7 @@
      "body_sha256": "f0498443b2a80140be19c5c5941a9dd5b3bf71ec8a811f64c43c31a08b00c774"
     }
    },
-   "rank": 75.721
+   "rank": 75.023
   },
   {
    "id": "n6186",
@@ -4985,8 +5277,8 @@
    ],
    "published_at": "2026-09-27T09:45:31.040786+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 09:45",
@@ -5107,7 +5399,7 @@
      "body_sha256": "4235df262d55266ce02e040cda7a183edfbd1471d70869a7f06d0fd6274a4d0b"
     }
    },
-   "rank": 79.928
+   "rank": 79.191
   },
   {
    "id": "n6185",
@@ -5121,8 +5413,8 @@
    ],
    "published_at": "2026-09-27T09:45:31.040786+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 09:45",
@@ -5316,7 +5608,7 @@
      "body_sha256": "cae3008008ac61f5097da372eabc6d6f5897e434105cdd7cedddde1fe85dbfa5"
     }
    },
-   "rank": 50.481,
+   "rank": 50.016,
    "image_url": "https://img.24n.cz/p/2026/09/tainye-talismany-chekhii-relikvii-i-spiashchie-rytsari-5ca92cb5e64e6192.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/tainye-talismany-chekhii-relikvii-i-spiashchie-rytsari-909461d86bec4dcb.webp",
@@ -5633,7 +5925,7 @@
      "body_sha256": "d5e0bdd6ec179c5e1b4549521deeedbfc1a977ebca562ce73b98186622fa5f76"
     }
    },
-   "rank": 74.334
+   "rank": 73.636
   },
   {
    "id": "n6183",
@@ -5899,7 +6191,7 @@
      "body_sha256": "3901ea60a497aff77c931c43bdc22506d5b9075e3a3f0ebfadd6131af1fa866f"
     }
    },
-   "rank": 74.334,
+   "rank": 73.636,
    "image_url": "https://img.24n.cz/p/2026/09/zdar-nad-sazavou-s-detmi-kuda-poiti-v-regione-c10bebb24082ac9a.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zdar-nad-sazavou-s-detmi-kuda-poiti-v-regione-0c0b646c74cf32b3.webp",
@@ -6137,7 +6429,7 @@
      "body_sha256": "0ee98c7224b9086f11e616a6624df930805c4ed7fb207138d6bb4d61c80b7dbd"
     }
    },
-   "rank": 74.334,
+   "rank": 73.636,
    "image_url": "https://img.24n.cz/p/2026/09/sladkie-simvoly-chekhii-istoriia-i-retsepty-traditsionnykh-k-87cc11de42e399cb.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/sladkie-simvoly-chekhii-istoriia-i-retsepty-traditsionnykh-k-8d9bdbed083be066.webp",
@@ -6352,7 +6644,7 @@
      "body_sha256": "4c8ae795d8b3fd5d90a5c5de3635dea4b51fc418eda8a1c91c7c3fb480c5d8f5"
     }
    },
-   "rank": 96.316,
+   "rank": 95.393,
    "sources": [
     {
      "domain": "press.news",
@@ -6606,7 +6898,7 @@
      "body_sha256": "ffddd6faf990ed7013c82b26db0e9b8736b4e4a967a0f8f95d2704c7d61a661c"
     }
    },
-   "rank": 84.985
+   "rank": 84.171
   },
   {
    "id": "n6179",
@@ -6910,7 +7202,7 @@
      "body_sha256": "7b92b43e06d9deaf5460bff41e3d7bdea48a26106843343b4c9a57f11cb8a1f7"
     }
    },
-   "rank": 75.404,
+   "rank": 74.667,
    "image_url": "https://img.24n.cz/p/2026/09/pensionery-v-chekhii-mogut-platit-za-edu-i-zhile-v-domakh-pr-0f93f17dbb2a7d98.webp",
    "image_w": 1366,
    "image_h": 910
@@ -6927,8 +7219,8 @@
    ],
    "published_at": "2026-09-27T04:16:14.968776+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "27 сентября 2026, 04:16",
@@ -7108,7 +7400,7 @@
      "body_sha256": "16ce209fe9cd862bfa5fc657ab65f591f8c9b7b18ec9c07af532ac7785a98e9c"
     }
    },
-   "rank": 80.018,
+   "rank": 79.204,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -7165,8 +7457,8 @@
    ],
    "published_at": "2026-09-27T02:04:44.359707+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "27 сентября 2026, 02:04",
@@ -7405,7 +7697,7 @@
      "body_sha256": "0b6fc049d0d92009ceb35685e638facfebfc3a9e855204c43def851ac1f0360f"
     }
    },
-   "rank": 73.042,
+   "rank": 72.266,
    "image_url": "https://img.24n.cz/p/2026/09/prague-airport-ees-border-checks-kak-uskoriat-proverki-ce5ef458f7857831.webp",
    "image_w": 1600,
    "image_h": 901
@@ -7422,8 +7714,8 @@
    ],
    "published_at": "2026-09-27T01:04:53.526367+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "27 сентября 2026, 01:04",
@@ -7645,7 +7937,7 @@
      "body_sha256": "c27cbcf0c4f5ae7f1ccfb31cb5b5a0483a1010987c5643b250e88ec509932438"
     }
    },
-   "rank": 60.861,
+   "rank": 60.202,
    "image_url": "https://img.24n.cz/p/2026/09/vyshel-gnome-51-offlain-karty-plavnyi-mutter-i-podpisi-f1bfd427677c598d.webp",
    "image_w": 670,
    "image_h": 377
@@ -7663,8 +7955,8 @@
    ],
    "published_at": "2026-09-27T01:04:53.526367+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "27 сентября 2026, 01:04",
@@ -7888,7 +8180,7 @@
      "body_sha256": "07c01067c7d7fe1256fe61f07f87842f2eb0f8dff698dc74d8b2257aace46c4c"
     }
    },
-   "rank": 87.353,
+   "rank": 86.407,
    "sources": [
     {
      "domain": "vecerni-praha.cz",
@@ -8092,7 +8384,7 @@
      "body_sha256": "1770695928af370aced2b2f602f2b3f71ca8e5cb240e5828cb01e264f8852d11"
     }
    },
-   "rank": 60.02,
+   "rank": 59.322,
    "image_url": "https://img.24n.cz/p/2026/09/v-raione-prerov-perevernulsia-traktor-s-pritsepom-11-postrad-fedeebdae6ecd958.webp",
    "image_w": 1200,
    "image_h": 800
@@ -8187,7 +8479,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 55.206
+   "rank": 54.554
   },
   {
    "id": "n6172",
@@ -8364,7 +8656,7 @@
      "body_sha256": "b6f274dee16b86720376c820199965ec78de6848c654a72c9a42c47301ca6ee4"
     }
    },
-   "rank": 60.382,
+   "rank": 59.646,
    "sources": [
     {
      "domain": "metro.cz",
@@ -8631,7 +8923,7 @@
      "body_sha256": "38850e5926f7933334115da72feb70d0746b387df302d2b32a7dd8b88a53d540"
     }
    },
-   "rank": 40.317
+   "rank": 39.813
   },
   {
    "id": "n6170",
@@ -8872,7 +9164,7 @@
      "body_sha256": "2c399bba9215bdb6598f2137f74cb598c5ad4a246ff0da1fbf86afb706329e92"
     }
    },
-   "rank": 75.671,
+   "rank": 74.725,
    "sources": [
     {
      "domain": "nospcr.cz",
@@ -9042,7 +9334,7 @@
      "body_sha256": "57d4fe2b27586da4b2d6412b79a02d61aa1110d87724d1e7b8e51f199766571a"
     }
    },
-   "rank": 42.301,
+   "rank": 41.759,
    "image_url": "https://img.24n.cz/p/2026/09/novyi-serial-o-zagadochnykh-ischeznoveniiakh-v-prazhskom-met-d0e922f2f5db3fd7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/novyi-serial-o-zagadochnykh-ischeznoveniiakh-v-prazhskom-met-d9736cd6d6aa6d59.webp"
@@ -9337,7 +9629,7 @@
      "body_sha256": "7906e68075e7161eef86c133c59333273ae853ae3cb6be065c43351663d1545c"
     }
    },
-   "rank": 70.012,
+   "rank": 69.089,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -9592,7 +9884,7 @@
      "body_sha256": "e6213bab946b1ab2439a2e3accb1b5e910cf59d4bb747e4410ef6ab58d09628f"
     }
    },
-   "rank": 64.717,
+   "rank": 63.864,
    "sources": [
     {
      "domain": "press.news",
@@ -9781,7 +10073,7 @@
      "body_sha256": "0c7958c388750048e478ad96ab70642ffc416e85304c7ddc2526fe640d592a4f"
     }
    },
-   "rank": 55.554,
+   "rank": 54.802,
    "sources": [
     {
      "domain": "media24.cz",
@@ -10011,7 +10303,7 @@
      "body_sha256": "a2fa5d571a5883addb4bf16e992f2733477c65f35decd6200ece7f037371a58a"
     }
    },
-   "rank": 77.317,
+   "rank": 76.27,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -10271,7 +10563,7 @@
      "body_sha256": "b4b2e865c178e90803ddf02fed60e094ad8882a2d69e0554b7b3086305bb075a"
     }
    },
-   "rank": 83.429,
+   "rank": 83.08,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -10545,7 +10837,7 @@
      "body_sha256": "46d5b4b16dc04ff27dcdbe2b868ab2062bbe5510a19ef0379e823e995b76ed45"
     }
    },
-   "rank": 41.799,
+   "rank": 41.217,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-c29407819f3b3758.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/cheshskii-startap-uchit-iazyku-cherez-myshtsy-pomog-iskusstv-5ba5585849ec23b4.webp"
@@ -10748,7 +11040,7 @@
      "body_sha256": "57fe06d5b40c5326dfd26f95b6a0ca14172fabbf0eb05b219dc837487e891ce7"
     }
    },
-   "rank": 59.633,
+   "rank": 58.803,
    "sources": [
     {
      "domain": "praha5.cz",
@@ -11077,7 +11369,7 @@
      "body_sha256": "4d512ae091c7adb5e60bae82b03d0dd2f3a5396966f402d232f75b18d22354f6"
     }
    },
-   "rank": 49.773,
+   "rank": 49.06,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -11289,7 +11581,7 @@
      "body_sha256": "6d7eacae44ceec572564d1bee0795ae742703ae75c955853bea751f105a7c154"
     }
    },
-   "rank": 60.594,
+   "rank": 59.725,
    "sources": [
     {
      "domain": "metro.cz",
@@ -11490,7 +11782,7 @@
      "body_sha256": "ab932d1da124316e4d5c48285ae9426a0ae7288f36f1e31f62b8ffa6add7c916"
     }
    },
-   "rank": 59.512,
+   "rank": 58.659,
    "image_url": "https://img.24n.cz/p/2026/09/kak-pravilno-slivat-vodu-iz-basseina-po-cheshskim-zakonam-7325cc6f4e86a962.webp",
    "image_w": 1366,
    "image_h": 910
@@ -11684,7 +11976,7 @@
      "body_sha256": "e94e51ff71ec43cff208a56dde72d393c952455c6b80b44f9f1f52e654be2dfa"
     }
    },
-   "rank": 63.058
+   "rank": 62.79
   },
   {
    "id": "n6157",
@@ -11885,7 +12177,7 @@
      "body_sha256": "6fe7b7153a339a8eb125f68f9decbaabb02caee8088b4647ce401f83a2871633"
     }
    },
-   "rank": 48.443,
+   "rank": 47.707,
    "sources": [
     {
      "domain": "krimi-plzen.cz",
@@ -12077,7 +12369,7 @@
      "body_sha256": "1239e9fe2a406bb22262cd74b2605453edf6b3e6e88b72b69f2dce28480a87dd"
     }
    },
-   "rank": 53.033,
+   "rank": 52.226,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -12303,7 +12595,7 @@
      "body_sha256": "b5ead0469322d0b4a20a71295c0dc6e0957daec25c52e393508489248fff6bc8"
     }
    },
-   "rank": 60.682,
+   "rank": 59.759,
    "sources": [
     {
      "domain": "isvetelsko.cz",
@@ -12376,7 +12668,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 39.88
+   "rank": 39.259
   },
   {
    "id": "n6153",
@@ -12634,7 +12926,7 @@
      "body_sha256": "b79861b40cec753e03551b635040bbcf16e0eab4be31eee5b2ebd87d879c6f6e"
     }
    },
-   "rank": 44.47,
+   "rank": 43.772,
    "image_url": "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-813e65d4c453c77e.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/neobychnye-ekskursii-po-zamkam-chekhii-kino-i-sekrety-de763b7b5aa13dda.webp",
@@ -12885,7 +13177,7 @@
      "body_sha256": "63e3bd03f1a75c9d0087318f5ecf0918dba98ce25b36974eabc203f80af9ba1b"
     }
    },
-   "rank": 59.293,
+   "rank": 58.363,
    "image_url": "https://img.24n.cz/p/2026/09/mesta-v-vuzakh-chekhii-pod-ugrozoi-iz-za-sokrashcheniia-biud-bd51c5b69e22f72d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13195,7 +13487,7 @@
      "body_sha256": "816832899672940a452fa9ee92b7aea976fbbdefba0287d4decadd00960bacfe"
     }
    },
-   "rank": 56.823,
+   "rank": 55.931,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -13431,7 +13723,7 @@
      "body_sha256": "e1905dad2fb31f04e27a699cc1bac70fe91f82daecb96cb0ab9bcee4c014764b"
     }
    },
-   "rank": 63.74,
+   "rank": 62.74,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -13614,7 +13906,7 @@
      "body_sha256": "9cde4e1e9dcbc30372bc24061debd4cdcd6fb4d4f0e7b91ce924dd475955a102"
     }
    },
-   "rank": 49.706,
+   "rank": 48.899,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -13861,7 +14153,7 @@
      "body_sha256": "dd4ee14bcd9ba3488046e4ad82d7338c37f31fa7108eb60100c978fe099bd826"
     }
    },
-   "rank": 50.184,
+   "rank": 49.369,
    "image_url": "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-1b958b657c30099f.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-krasivo-oseniu-v-chekhii-luchshie-mesta-dlia-peizazhei-af7dc72099a0aa7d.webp",
@@ -14137,7 +14429,7 @@
      "body_sha256": "8dd5a8a754660a33a85b80b66feccc4fee3dc65d819791e44de9605f71903483"
     }
    },
-   "rank": 43.015,
+   "rank": 42.317,
    "sources": [
     {
      "domain": "teplicky.denik.cz",
@@ -14340,7 +14632,7 @@
      "body_sha256": "be18fa30066962f3aacaa2a4e31c527aa087641b0de17caedbe8807f46303609"
     }
    },
-   "rank": 49.706,
+   "rank": 48.899,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -14627,7 +14919,7 @@
      "body_sha256": "3e5fac46128ec39db818990274b6cff21b3595036b282c29da90cd88cfa326cf"
     }
    },
-   "rank": 37.865,
+   "rank": 37.229,
    "sources": [
     {
      "domain": "nachodsky.denik.cz",
@@ -14820,7 +15112,7 @@
      "body_sha256": "a6919f3df675554e11ce91e513ca1615c578203fd1779011e348927709451819"
     }
    },
-   "rank": 44.208,
+   "rank": 43.44,
    "sources": [
     {
      "domain": "globe24.cz",
@@ -15035,7 +15327,7 @@
      "body_sha256": "03227ec4bd92c957bde422da4e8ec9021516628ad7e4978c8e8c0021908c42e8"
     }
    },
-   "rank": 37.956,
+   "rank": 37.297,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-s-noiabria-vremenno-propadet-lekarstvo-ot-epilepsi-440e0742a4c87803.webp",
    "image_w": 1366,
    "image_h": 910
@@ -15225,7 +15517,7 @@
      "body_sha256": "3d8fe5be3711ea31605e8508514b02e7537954717d663b54d280ff71a64f1247"
     }
    },
-   "rank": 32.303,
+   "rank": 31.721,
    "image_url": "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-00c768c0885e11f7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gastronomicheskie-festivali-v-chekhii-oktiabr-2026-gid-4a44a2abfd30cd52.webp",
@@ -15403,7 +15695,7 @@
      "body_sha256": "e990ddd6a8b70787388e0f13d3aeea6e3884357a47ef60e00901fe9fdd59d330"
     }
    },
-   "rank": 32.303,
+   "rank": 31.721,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-529914e56c558553.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-chekhii-proidet-natsionalnyi-slet-sokolnikov-khishchnye-pt-477956ab41467e00.webp",
@@ -15653,7 +15945,7 @@
      "body_sha256": "c089557ae2d06c9de52e77eed1511888ea2ee670a62e7a9b67cba3f779ff4593"
     }
    },
-   "rank": 33.952,
+   "rank": 33.317,
    "sources": [
     {
      "domain": "media24.cz",
@@ -15852,7 +16144,7 @@
      "body_sha256": "4b2430dc77c03cf9d9298cb25bc61336e938afd2de16bdcf02aba7321746a5a5"
     }
    },
-   "rank": 38.607,
+   "rank": 37.855,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -16047,7 +16339,7 @@
      "body_sha256": "b3030b20547a3a34f60d8e0708b29e29ac50d080b9e386c724c4e8eb418926a2"
     }
    },
-   "rank": 45.374,
+   "rank": 44.49,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -16290,7 +16582,7 @@
      "body_sha256": "6f0303c2516d4f0d6d8180abb733b7eaeb1b3ea71844ce25529a65bc5df43544"
     }
    },
-   "rank": 43.781
+   "rank": 42.928
   },
   {
    "id": "n6136",
@@ -16463,7 +16755,7 @@
      "body_sha256": "4b29103e30f833708df32303b8629f88afe8a60f2ba148602dffccc634cf57af"
     }
    },
-   "rank": 34.342,
+   "rank": 33.644,
    "image_url": "https://img.24n.cz/p/2026/09/ministr-zdravookhraneniia-chekhii-zashchishchaet-reformu-str-2f53770728560c7b.webp",
    "image_w": 630,
    "image_h": 350
@@ -16785,7 +17077,7 @@
      "body_sha256": "339010548529244506d253d8bac26e4965532bd47b3f4c984c1e433c004b1c6a"
     }
    },
-   "rank": 27.419,
+   "rank": 26.837,
    "image_url": "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-27ce3d24bb192945.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/keltskii-prazdnik-samhain-v-zamke-nizbor-muzyka-tantsy-i-dre-dd23b87dcb1f9bd7.webp",
@@ -19374,7 +19666,7 @@
      "body_sha256": "47c15fb3cdb18ccb62304f65f36c377636ae0c776bc841e6220721ad6f1c6a37"
     }
    },
-   "rank": 73.675
+   "rank": 73.299
   },
   {
    "id": "n6122",
@@ -23916,7 +24208,7 @@
      "body_sha256": "6d8301955044b12ba721aa16466fc482683eaa4f5135a245f9bd9ed2f0445caa"
     }
    },
-   "rank": 66.193
+   "rank": 65.835
   },
   {
    "id": "n6101",
@@ -24795,7 +25087,7 @@
      "body_sha256": "27a6fc4a9b4e3bc028f5f0a27db9d53181ac023800134d33b36629085ce3529a"
     }
    },
-   "rank": 72.057,
+   "rank": 71.664,
    "sources": [
     {
      "domain": "ekofilm.cz",
@@ -25542,7 +25834,7 @@
      "body_sha256": "fd7d462b17938f32b3897e581af547a5adac6cfcdcfbb355d78f80f464bd9f93"
     }
    },
-   "rank": 67.974
+   "rank": 67.598
   },
   {
    "id": "n6094",
@@ -28441,7 +28733,7 @@
      "body_sha256": "f608ad6dffb22d66035a543fd1e2f6a8653b8c813fdb8d4e5e2c04c36e71b0f0"
     }
    },
-   "rank": 54.365,
+   "rank": 54.043,
    "image_url": "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-e4073a1b24e18b79.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/zdenek-grzhib-kritikuet-gosbiudzhet-opponentov-i-plany-parti-24880a5a6deae71c.webp",
@@ -46043,8 +46335,8 @@
    ],
    "published_at": "2026-09-24T00:15:10.340754+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 00:15",
@@ -46258,8 +46550,8 @@
    ],
    "published_at": "2026-09-24T00:15:10.340754+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 00:15",
@@ -46445,8 +46737,8 @@
    ],
    "published_at": "2026-09-24T00:15:10.340754+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 00:15",
@@ -46669,8 +46961,8 @@
    ],
    "published_at": "2026-09-24T00:15:10.340754+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "24 сентября 2026, 00:15",
@@ -66333,187 +66625,6 @@
      1000
     ]
    ]
-  },
-  {
-   "id": "n5908",
-   "slug": "v-prage-postroili-dom-shkaf-dlia-semi-s-shestiu-detmi",
-   "source": "cc.cz",
-   "original_url": "https://cc.cz/rodina-se-uz-do-domu-nevesla-tak-jim-architekt-postavil-dum-co-vypada-jako-skrin/",
-   "top": false,
-   "tags": [
-    "cesko",
-    "dosug",
-    "it"
-   ],
-   "published_at": "2026-09-22T12:57:05.395934+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "22 сентября 2026, 12:57",
-    "uk": "22 вересня 2026, 12:57"
-   },
-   "ru": {
-    "title": "В Праге построили дом-шкаф для семьи с шестью детьми",
-    "lede": "Архитектор спроектировал для многодетной семьи в Праге уникальный четырёхэтажный дом площадью всего 34 квадратных метра, который уместился в саду рядом с исторической виллой.",
-    "meta_description": "В Праге появился уникальный дом-шкаф для семьи с шестью детьми. Четырёхэтажная конструкция площадью 34 м² уместилась в саду, не повредив историческую…",
-    "paras": [
-     "<p>В пражском районе Ořechovka живёт семья с шестью детьми. Места в доме не хватало: дети ютились в одной маленькой комнате. Классическая перестройка или пристройка испортила бы внешний вид исторического здания. Выход нашли в отдельно стоящем четырёхэтажном доме Dům Skříň, что значит «Дом-шкаф».</p>",
-     "<p>Строение размером 5 на 2,5 метра поставили прямо в саду. Жилой площади у семьи прибавилось, а с объёмом старой виллы новый дом не спорит. Полезная площадь всего 34 квадратных метра, зато на четырёх этажах уместилось всё нужное.</p>",
-     "<h3>Как устроен дом-шкаф</h3>",
-     "<p>Архитектор Jan Šépka называет проект размышлением о минимальном жилье в частном доме. Собирали его как конструктор: детали деревянного дома изготовили в мастерской, а на месте подняли краном.</p>",
-     "<p>Первый этаж открыт: это крытая зона отдыха и вход. Выше, на втором этаже, жилая кухня. Третий этаж занимает комната с ванной и туалетом, в ней живёт одна из дочерей. На самом верху такая же комната для одного из сыновей. В обеих есть откидные дополнительные кровати, так что переночевать там могут ещё два человека.</p>",
-     "<p>Дом пришлось вписать между взрослыми деревьями, не повредив корни. Поэтому он стоит на микросваях.</p>",
-     "<blockquote>«Дом задуман как размышление о минимальном жилье в частном доме. На четырёх этажах он предлагает всё необходимое на площади всего 34 квадратных метра. Конструкция собрана по принципу конструктора - части деревянного дома изготовили в мастерской, а на месте собрали с помощью крана», рассказывает архитектор <b>Jan Šépka</b>.</blockquote>"
-    ],
-    "faq": [
-     {
-      "q": "Где находится этот необычный дом?",
-      "a": "Дом построен в пражском районе Ořechovka, в саду рядом с исторической вилой."
-     },
-     {
-      "q": "Сколько человек может жить в доме-шкафе?",
-      "a": "В доме предусмотрены две основные комнаты для детей, но благодаря откидным кроватям в нём могут разместиться ещё два человека."
-     },
-     {
-      "q": "Какова площадь дома?",
-      "a": "Общая полезная площадь дома составляет 34 квадратных метра."
-     },
-     {
-      "q": "Почему дом стоит на микросваях?",
-      "a": "Чтобы не повредить корневую систему взрослых деревьев, между которыми он расположен."
-     }
-    ],
-    "impact": "Проект показывает, как можно решить проблему нехватки места в исторических районах Праги, не жертвуя внешним видом старых зданий. Такой подход может быть интересен семьям с детьми, живущим в тесных условиях, но не желающим переезжать.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Для семьи с шестью детьми в пражском районе Ořechovka построили отдельно стоящий четырёхэтажный дом Dům Skříň площадью 34 квадратных метра.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Строение размером 5 на 2,5 метра поставили в саду, чтобы не менять объём исторической виллы.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Дом собрали как конструктор: детали изготовили в мастерской и подняли на месте краном.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Из-за деревьев, корни которых нельзя было повредить, дом стоит на микросваях.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "микросваях",
-       "definition": "Сваи очень малого размера, на которых стоит дом; их выбрали, чтобы не повредить корни взрослых деревьев.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "392035981a034c0f686e100d68c082c0b85b73ed09b07bffb674084117647b78"
-    }
-   },
-   "uk": {
-    "title": "У Празі збудували будинок-шафу для сім'ї з шістьма дітьми",
-    "lede": "Архітектор спроєктував для багатодітної сім'ї у Празі незвичайний чотириповерховий будинок площею всього 34 квадратні метри, який умістився в саду поруч з історичною віллою.",
-    "meta_description": "У Празі з'явився унікальний будинок-шафа для сім'ї з шістьма дітьми. Чотириповерхова конструкція площею 34 м² умістилася в саду, не зашкодивши історичній…",
-    "paras": [
-     "<p>У празькому районі Ořechovka живе сім'я з шістьма дітьми. Місця в будинку не вистачало: діти тулилися в одній маленькій кімнаті. Класична перебудова або прибудова зіпсувала б вигляд історичної будівлі. Вихід знайшли в окремо розташованому чотириповерховому будинку Dům Skříň, що означає «Будинок-шафа».</p>",
-     "<p>Споруду розміром 5 на 2,5 метра поставили просто в саду. Житлової площі в сім'ї побільшало, а з обсягом старої вілли новий будинок не сперечається. Корисна площа всього 34 квадратні метри, зате на чотирьох поверхах умістилося все потрібне.</p>",
-     "<h3>Як влаштований будинок-шафа</h3>",
-     "<p>Архітектор Jan Šépka називає проєкт роздумом про мінімальне житло в приватному будинку. Складали його як конструктор: деталі дерев'яного будинку виготовили в майстерні, а на місці підняли краном.</p>",
-     "<p>Перший поверх відкритий: це крита зона відпочинку та вхід. Вище, на другому поверсі, житлова кухня. Третій поверх займає кімната з ванною та туалетом, у ній живе одна з доньок. На самому верху така сама кімната для одного із синів. В обох є відкидні додаткові ліжка, тож переночувати там можуть ще двоє людей.</p>",
-     "<p>Будинок довелося вписати між дорослими деревами, не пошкодивши коріння. Тому він стоїть на мікропалях.</p>",
-     "<blockquote>«Будинок задуманий як роздум про мінімальне житло в приватному будинку. На чотирьох поверхах він пропонує все необхідне на площі всього 34 квадратні метри. Конструкція зібрана за принципом конструктора - частини дерев'яного будинку виготовили в майстерні, а на місці зібрали за допомогою крана», розповідає архітектор <b>Jan Šépka</b>.</blockquote>"
-    ],
-    "faq": [
-     {
-      "q": "Де розташований цей незвичайний будинок?",
-      "a": "Будинок збудовано в празькому районі Ořechovka, у саду поруч з історичною віллою."
-     },
-     {
-      "q": "Скільки людей може жити в будинку-шафі?",
-      "a": "У будинку передбачено дві основні кімнати для дітей, але завдяки відкидним ліжкам у ньому можуть розміститися ще двоє людей."
-     },
-     {
-      "q": "Яка площа будинку?",
-      "a": "Загальна корисна площа будинку становить 34 квадратні метри."
-     },
-     {
-      "q": "Чому будинок стоїть на мікропалях?",
-      "a": "Щоб не пошкодити кореневу систему дорослих дерев, між якими він розташований."
-     }
-    ],
-    "impact": "Проект показывает, как можно решить проблему нехватки места в исторических районах Праги, не жертвуя внешним видом старых зданий. Такой подход может быть интересен семьям с детьми, живущим в тесных условиях, но не желающим переезжать.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "У празькому районі Ořechovka сім'я з шістьма дітьми отримала додаткове житло у вигляді окремого чотириповерхового будинку Dům Skříň, щоб не перебудовувати історичну віллу.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Споруду розміром 5 на 2,5 метра поставили в саду, її корисна площа — 34 квадратні метри на чотирьох поверхах.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Дерев'яні деталі будинку виготовили в майстерні, а на місці підняли краном.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Будинок стоїть на мікропалях, щоб вписати його між дорослими деревами, не пошкодивши коріння.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "мікропалях",
-       "definition": "Дуже малі палі, на яких стоїть будинок, щоб не пошкодити коріння дерев.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "6654b81196b57e96da7a5d1a8ed04e1f5947f9fdabb3369f118eaa9e5efe7416"
-    }
-   },
-   "rank": 33.25,
-   "image_url": "https://img.24n.cz/p/2026/09/v-prage-postroili-dom-shkaf-dlia-semi-s-shestiu-detmi-490474449687888c.webp",
-   "image_w": 820,
-   "image_h": 512
   }
  ]
 }
