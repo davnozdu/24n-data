@@ -1,8 +1,169 @@
 {
- "updated_at": "2026-09-30T21:43:20+00:00",
+ "updated_at": "2026-09-30T22:14:20+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6396",
+   "slug": "v-prage-otkryvaetsia-novaia-khudozhestvennaia-galereia-lafa-gallery",
+   "source": "vecerni-praha.cz",
+   "original_url": "https://www.vecerni-praha.cz/la-fabrika-otevira-novou-galerii-lafa-gallery-zahaji-vystavou-petra-nikla/",
+   "top": false,
+   "tags": [
+    "zvezdy",
+    "praha",
+    "cesko"
+   ],
+   "published_at": "2026-10-01T00:14:18.987926+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "1 октября 2026, 00:14",
+    "uk": "1 жовтня 2026, 00:14"
+   },
+   "ru": {
+    "title": "В Праге открывается новая художественная галерея LAFA GALLERY",
+    "lede": "Культурное пространство La Fabrika в Праге расширяется и запускает новую площадку для современного искусства под названием LAFA GALLERY.",
+    "meta_description": "В пражских Holešovicer открывается новая галерея LAFA GALLERY. Первой экспозицией станет проект Петра Никла Джунгля смыслов.",
+    "paras": [
+     "<p>В пражских Holešovicích прибавится культурных мест. Культурное пространство La Fabrika открывает новую художественную галерею LAFA GALLERY. Об этом пишет borovan.cz. Зал по адресу Dělnická 43 примет посетителей 1 октября, а для широкой публики экспозиции откроются 2 октября.</p>",
+     "<p>Новая площадка замыкает культурный триптих на оси улиц Přístavní, Komunardů и Dělnická. Театральное и музыкальное пространство La Fabrika на Komunardů, Studio 2 - Slévárna на Přístavní и теперь LAFA GALLERY: три бывших промышленных объекта стали единым культурным комплексом. В начале двадцатого века эти адреса входили в число главных производственных центров города.</p>",
+     "<p>Здание на Dělnická 43 на рубеже веков прошло реконструкцию, промышленный характер ему сохранили. Директор La Fabrika Richard Balous говорит, что открытие галереи завершает более чем двадцатилетнюю трансформацию бывшей промзоны в культурный квартал.</p>",
+     "<blockquote>Поиск баланса между исторической архитектурой и современным искусством лежит в основе нашего подхода. Там, где раньше отливали металл и работали машины, теперь звучит музыка и развивается актуальное визуальное искусство, отметил Richard Balous.</blockquote>",
+     "<h3>Джунгли смыслов от Петра Никла</h3>",
+     "<p>Первым проектом новой галереи станет выставка Džungle smyslů автора Petr Nikl. Это интерактивная звуковая и визуальная среда, где каждый посетитель может стать соавтором происходящего. Проект входит в долгосрочную программу Orbis Pictus Play, которую развивают Radana и Jiří Waldovi.</p>",
+     "<p>Выставка продлится четыре месяца. Гостям покажут аналоговые струнные, ударные, оптические и кинетические инструменты, и на каждом придётся играть самому. Готовых фонограмм и видеозаписей в залах нет, организаторы это подчёркивают отдельно: атмосфера возникает только здесь и сейчас, из совместной игры.</p>",
+     "<blockquote>Мне важен этот панковский дух свободы и отсутствие любых барьеров. Проект задуман как искра для воображения, где стираются возрастные и социальные границы, рассказал Petr Nikl.</blockquote>",
+     "<p>Интерактивные инструменты для проекта делали также Petr Lorenc, Ondřej Smeykal, Quido Sen, Jiří Konvrzek, Milan Cais, Martin Janíček, Michael Delia, Luboš Fidler, Ondřej Janoušek, Petr Korecký, Ondřej Puchta, Jaroslav Kořán и Jaroslav Mugrauer.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Где находится новая галерея LAFA GALLERY?",
+      "a": "Галерея располагается в пражском районе Holešovice по адресу Dělnická 43."
+     },
+     {
+      "q": "Когда галерея откроется для посетителей?",
+      "a": "Для широкой публики выставочное пространство откроется 2 октября."
+     }
+    ],
+    "impact": "Новое культурное пространство в пражских Holešovicer начнет работу для широкой публики со 2 октября. Выставка Džungle smyslů будет доступна в течение четырех месяцев по адресу Dělnická 43.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Зал по адресу Dělnická 43 примет посетителей 1 октября, а для широкой публики экспозиции откроются 2 октября.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Новая галерея замыкает культурный триптих вместе с La Fabrika на Komunardů и Studio 2 - Slévárna на Přístavní.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Директор La Fabrika Richard Balous говорит, что открытие галереи завершает более чем двадцатилетнюю трансформацию бывшей промзоны в культурный квартал.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Первым проектом станет выставка Džungle smyslů автора Petr Nikl — интерактивная звуковая и визуальная среда, где посетитель может стать соавтором.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "372e7cca875b0d2ca48b0e55ec57c4ecabd8b478dd40703a770987c690591db0"
+    }
+   },
+   "uk": {
+    "title": "У Празі відкривається нова художня галерея LAFA GALLERY",
+    "lede": "Культурний простір La Fabrika у Празі розширюється і запускає новий майданчик для сучасного мистецтва під назвою LAFA GALLERY.",
+    "meta_description": "У празьких Holešovicích відкривається нова галерея LAFA GALLERY. Першою експозицією стане проєкт Петра Нікла «Джунглі смислів».",
+    "paras": [
+     "<p>У празьких Holešovicích побільшає культурних місць. Культурний простір La Fabrika відкриває нову художню галерею LAFA GALLERY. Про це пише borovan.cz. Зала за адресою Dělnická 43 прийме відвідувачів 1 жовтня, а для широкої публіки експозиції відкриються 2 жовтня.</p>",
+     "<p>Новий майданчик замикає культурний триптих на осі вулиць Přístavní, Komunardů і Dělnická. Театральний і музичний простір La Fabrika на Komunardů, Studio 2 - Slévárna на Přístavní і тепер LAFA GALLERY: три колишні промислові об'єкти стали єдиним культурним комплексом. На початку двадцятого століття ці адреси входили до числа головних виробничих центрів міста.</p>",
+     "<p>Будівля на Dělnická 43 на рубежі століть пройшла реконструкцію, промисловий характер їй зберегли. Директор La Fabrika Richard Balous каже, що відкриття галереї завершує понад двадцятирічну трансформацію колишньої промзони в культурний квартал.</p>",
+     "<blockquote>Пошук балансу між історичною архітектурою і сучасним мистецтвом лежить в основі нашого підходу. Там, де раніше відливали метал і працювали машини, тепер звучить музика і розвивається актуальне візуальне мистецтво, зазначив Richard Balous.</blockquote>",
+     "<h3>Джунглі смислів від Петра Нікла</h3>",
+     "<p>Першим проєктом нової галереї стане виставка Džungle smyslů авторства Petr Nikl. Це інтерактивне звукове і візуальне середовище, де кожен відвідувач може стати співавтором того, що відбувається. Проєкт входить до довгострокової програми Orbis Pictus Play, яку розвивають Radana і Jiří Waldovi.</p>",
+     "<p>Виставка триватиме чотири місяці. Гостям покажуть аналогові струнні, ударні, оптичні та кінетичні інструменти, і на кожному доведеться грати самому. Готових фонограм і відеозаписів у залах немає, організатори це підкреслюють окремо: атмосфера виникає тільки тут і зараз, із спільної гри.</p>",
+     "<blockquote>Мені важливий цей панківський дух свободи і відсутність будь-яких бар'єрів. Проєкт задуманий як іскра для уяви, де стираються вікові та соціальні межі, розповів Petr Nikl.</blockquote>",
+     "<p>Інтерактивні інструменти для проєкту робили також Petr Lorenc, Ondřej Smeykal, Quido Sen, Jiří Konvrzek, Milan Cais, Martin Janíček, Michael Delia, Luboš Fidler, Ondřej Janoušek, Petr Korecký, Ondřej Puchta, Jaroslav Kořán і Jaroslav Mugrauer.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Де знаходиться нова галерея LAFA GALLERY?",
+      "a": "Галерея розташована в празькому районі Holešovice за адресою Dělnická 43."
+     },
+     {
+      "q": "Коли галерея відкриється для відвідувачів?",
+      "a": "Для широкої публіки виставковий простір відкриється 2 жовтня."
+     }
+    ],
+    "impact": "Новое культурное пространство в пражских Holešovicer начнет работу для широкой публики со 2 октября. Выставка Džungle smyslů будет доступна в течение четырех месяцев по адресу Dělnická 43.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Зала LAFA GALLERY за адресою Dělnická 43 прийме відвідувачів 1 жовтня, а для широкої публіки експозиції відкриються 2 жовтня.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Нова галерея замикає культурний триптих разом із La Fabrika на Komunardů та Studio 2 - Slévárna на Přístavní.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Першим проєктом галереї стане виставка Džungle smyslů авторства Petr Nikl — інтерактивне звукове і візуальне середовище.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Виставка триватиме чотири місяці, готових фонограм і відеозаписів у залах немає.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "540312d25c797f9a4a5e603f9468d3ca19308b054e6ba7ecda610752afb95987"
+    }
+   },
+   "rank": 92.0,
+   "sources": [
+    {
+     "domain": "borovan.cz",
+     "official": false,
+     "url": "https://www.borovan.cz/rychlovky/la-fabrika",
+     "title": "La Fabrika - Borovan.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/09/v-prage-otkryvaetsia-novaia-khudozhestvennaia-galereia-lafa-aeb50249eecf1884.webp",
+   "image_w": 1200,
+   "image_h": 681
+  },
   {
    "id": "n6395",
    "slug": "blagotvoritelnyi-khellouin-v-prage-sladosti-i-pomoshch-detiam",
@@ -15,8 +176,8 @@
    ],
    "published_at": "2026-09-30T23:43:19.224081+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "30 сентября 2026, 23:43",
@@ -284,8 +445,8 @@
    ],
    "published_at": "2026-09-30T23:09:56.256435+02:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "30 сентября 2026, 23:09",
@@ -867,8 +1028,8 @@
    ],
    "published_at": "2026-09-30T21:00:36.421832+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 21:00",
@@ -946,7 +1107,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 84.0
+   "rank": 83.723
   },
   {
    "id": "n6390",
@@ -1136,7 +1297,7 @@
      "body_sha256": "c12848b6cc433bf27d4792805af318592a5ac4fd1dd5c78812ca2801503e7fba"
     }
    },
-   "rank": 112.856,
+   "rank": 111.998,
    "image_url": "https://img.24n.cz/p/2026/09/sud-podtverdil-prigovory-za-pokhishchenie-biznesmena-telo-ko-46edca8cfe6f6692.webp",
    "image_w": 1200,
    "image_h": 675
@@ -1153,8 +1314,8 @@
    ],
    "published_at": "2026-09-30T18:53:24.574864+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 18:53",
@@ -1322,7 +1483,7 @@
      "body_sha256": "11a1cf69d7c44d17167408f11267ea9070052820bd0fde726862a0ab7ae7014c"
     }
    },
-   "rank": 92.486,
+   "rank": 91.777,
    "image_url": "https://img.24n.cz/p/2026/09/festival-signal-pochtit-90-letie-vatslava-gavela-svetovymi-i-d22e07e1652f2935.webp",
    "image_w": 1366,
    "image_h": 910
@@ -1383,7 +1544,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 79.426,
+   "rank": 78.814,
    "forecast": true
   },
   {
@@ -1522,7 +1683,7 @@
      "body_sha256": "bbad3e79c1bce306a3311401e71a43d6ccfed7656f739799cfdd2dbf13db7bb9"
     }
    },
-   "rank": 93.721,
+   "rank": 92.997,
    "sources": [
     {
      "domain": "muzeumprahy.cz",
@@ -1804,7 +1965,7 @@
      "body_sha256": "3b64f7eed105f938be287e30fe017f662ccaca3f51caa1fa6e3f3921a7e48f56"
     }
    },
-   "rank": 115.943
+   "rank": 115.048
   },
   {
    "id": "n6385",
@@ -2008,7 +2169,7 @@
      "body_sha256": "59ae44b39f41ee1e55a8884df34f0b8dadc8036b1e2b16f1a989a0cd1e54cf6b"
     }
    },
-   "rank": 108.213,
+   "rank": 107.378,
    "sources": [
     {
      "domain": "pravniprostor.cz",
@@ -2033,8 +2194,8 @@
    ],
    "published_at": "2026-09-30T17:47:24.185277+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 17:47",
@@ -2198,7 +2359,7 @@
      "body_sha256": "0ea963738a923f273c0bca03c070462fd1c63f354eafd62b045a8d9f6690fcf9"
     }
    },
-   "rank": 100.553,
+   "rank": 99.769,
    "image_url": "https://img.24n.cz/p/2026/09/praga-vlozhit-270-millionov-kron-v-modernizatsiiu-teplosnabz-8a625a7125dcdcbb.webp",
    "image_w": 750,
    "image_h": 300
@@ -2215,8 +2376,8 @@
    ],
    "published_at": "2026-09-30T16:43:55.729684+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 16:43",
@@ -2390,7 +2551,7 @@
      "body_sha256": "1ee884790062257b0a028a1ea1ac4d93dfb4e99f7748c75a352e643839933b47"
     }
    },
-   "rank": 108.372,
+   "rank": 107.514,
    "image_url": "https://img.24n.cz/p/2026/09/v-pravitelstvennom-sovete-po-pravam-cheloveka-voznikli-spory-356544e5c39a9efe.webp",
    "image_w": 1200,
    "image_h": 675
@@ -2407,8 +2568,8 @@
    ],
    "published_at": "2026-09-30T16:43:55.729684+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 16:43",
@@ -2578,7 +2739,7 @@
      "body_sha256": "efafde3570e6bf5ac21d786952f837c56598e8dd443040bd8cacde73551545af"
     }
    },
-   "rank": 83.871,
+   "rank": 83.206,
    "sources": [
     {
      "domain": "hudebniknihovna.cz",
@@ -2632,8 +2793,8 @@
    ],
    "published_at": "2026-09-30T16:11:37.807321+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 16:11",
@@ -2828,7 +2989,7 @@
      "body_sha256": "dc33a20facef3e8d15eca8112dace53a27b31775606920af705f6fcdcbdbe326"
     }
    },
-   "rank": 88.786,
+   "rank": 88.077,
    "image_url": "https://img.24n.cz/p/2026/09/reforma-roditelskogo-posobiia-v-chekhii-predlozheniia-sotsio-0b6cc63954c27f1c.webp",
    "image_w": 620,
    "image_h": 349
@@ -2846,8 +3007,8 @@
    ],
    "published_at": "2026-09-30T15:07:03.063206+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 15:07",
@@ -3067,7 +3228,7 @@
      "body_sha256": "6061a94cdaf8a85db822e4768fc3f6300b39339c77a7408df620bd02dcebb4c9"
     }
    },
-   "rank": 89.147,
+   "rank": 88.423,
    "sources": [
     {
      "domain": "zboziaprodej.cz",
@@ -3120,8 +3281,8 @@
    ],
    "published_at": "2026-09-30T15:07:03.063206+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 15:07",
@@ -3266,7 +3427,7 @@
      "body_sha256": "73871ef6f74558218fcb217c3a0249f839d67d8ad43d1368109f26c4fd40e208"
     }
    },
-   "rank": 87.309,
+   "rank": 86.6,
    "image_url": "https://img.24n.cz/p/2026/09/fakultet-vshe-trebuet-udalit-studencheskuiu-statiu-o-konflik-357ecd59fce890c2.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/fakultet-vshe-trebuet-udalit-studencheskuiu-statiu-o-konflik-a5b4c87a2dd05bb8.webp"
@@ -3299,8 +3460,8 @@
    ],
    "published_at": "2026-09-30T14:00:06.185918+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 14:00",
@@ -3551,7 +3712,7 @@
      "body_sha256": "ab99a699d9e0bed9ba9bb8f0bcb47d9cfa15a8e7c1bc7cdd4dc209b705773435"
     }
    },
-   "rank": 114.672,
+   "rank": 113.724,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -3766,7 +3927,7 @@
      "body_sha256": "225095fca59397c0048a22074e02169d0e0b6008276098b788eb02190a229862"
     }
    },
-   "rank": 113.692,
+   "rank": 112.745,
    "sources": [
     {
      "domain": "europesays.com",
@@ -3793,8 +3954,8 @@
    ],
    "published_at": "2026-09-30T12:53:37.539927+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 12:53",
@@ -3986,7 +4147,7 @@
      "body_sha256": "75f2d5df199f641dc0ae36b149c7882651da72ef288b25ae8ba60d19d9b3dc8c"
     }
    },
-   "rank": 66.519,
+   "rank": 65.96,
    "image_url": "https://img.24n.cz/p/2026/09/film-zprava-pro-minervu-2-aktery-razvleklis-zriteli-ostalis-b666b95c418fadea.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/film-zprava-pro-minervu-2-aktery-razvleklis-zriteli-ostalis-ca507cb1198afbda.webp",
@@ -4194,7 +4355,7 @@
      "body_sha256": "bac9423d8fe47afb41a71c84e36898356051c6a326a89832b4fda1b0a586a97a"
     }
    },
-   "rank": 57.183
+   "rank": 56.698
   },
   {
    "id": "n6374",
@@ -4406,7 +4567,7 @@
      "body_sha256": "2bb6bbe92d6ee7413fea57f518cd394c1d9934adf593b080e89d06c82bbdae88"
     }
    },
-   "rank": 83.575,
+   "rank": 82.866,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/AzDgiJaAtro"
@@ -4424,8 +4585,8 @@
    ],
    "published_at": "2026-09-30T11:51:31.135276+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 11:51",
@@ -4621,7 +4782,7 @@
      "body_sha256": "ddb1fe6dfa0c249921250f7a8b1dee62cb15165b7198640f9225c66e8d7e1da7"
     }
    },
-   "rank": 91.557,
+   "rank": 90.773,
    "image_url": "https://img.24n.cz/p/2026/09/redkogo-orla-iz-frantsii-zastrelili-v-regione-vysocina-b54da51273aae1b7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -4639,8 +4800,8 @@
    ],
    "published_at": "2026-09-30T11:51:31.135276+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 11:51",
@@ -4948,7 +5109,7 @@
      "body_sha256": "a923360e8ac194a303811bfbea9f7e2f510dfdab0949619606c1b905b97187f7"
     }
    },
-   "rank": 78.477
+   "rank": 77.806
   },
   {
    "id": "n6371",
@@ -5094,7 +5255,7 @@
      "body_sha256": "0759d284990d18f5bb7673b12f59807f55d0ddc2c95f4ad0b3708c9ccd62a0a2"
     }
    },
-   "rank": 90.775
+   "rank": 89.992
   },
   {
    "id": "n6370",
@@ -5394,7 +5555,7 @@
      "body_sha256": "1a4e20994e72f59e9821e4b99872e0cb478cb26a0341f5707a2e048e0f3684df"
     }
    },
-   "rank": 77.807,
+   "rank": 77.136,
    "image_url": "https://img.24n.cz/p/2026/09/umnyi-dom-v-brno-pobedil-v-konkurse-bez-vykliuchatelei-i-ozh-cdb4779d51dcba7b.webp",
    "image_w": 820,
    "image_h": 512
@@ -5558,7 +5719,7 @@
      "body_sha256": "0477f65e595b21132dab18dbed72733ce8a0d4d9c610db0251c6b6a181319b87"
     }
    },
-   "rank": 82.13
+   "rank": 81.421
   },
   {
    "id": "n6368",
@@ -5572,8 +5733,8 @@
    ],
    "published_at": "2026-09-30T10:48:03.078472+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 10:48",
@@ -5773,7 +5934,7 @@
      "body_sha256": "8c847b86e4a1f5ea591e065269770658526a2fa879beb2286b23de6862d85eca"
     }
    },
-   "rank": 115.653,
+   "rank": 114.646,
    "sources": [
     {
      "domain": "archiv.hn.cz",
@@ -5812,8 +5973,8 @@
    ],
    "published_at": "2026-09-30T09:44:44.439575+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 09:44",
@@ -5953,7 +6114,7 @@
      "body_sha256": "9baa43f1f0c669a2e6bee4a04d46029c84ef4bb02d100f137df654eed35e3c19"
     }
    },
-   "rank": 79.938,
+   "rank": 79.229,
    "image_url": "https://img.24n.cz/p/2026/09/ulitsy-pragi-dopolniat-istoricheskimi-tablichkami-s-imenami-0627b040aba0bf00.webp",
    "image_w": 750,
    "image_h": 300
@@ -5971,8 +6132,8 @@
    ],
    "published_at": "2026-09-30T09:44:44.439575+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 09:44",
@@ -6208,7 +6369,7 @@
      "body_sha256": "7fdca9ad1d5d38779f62fcc4abbc470037577d0cfa9296461ba8a099554497f3"
     }
    },
-   "rank": 81.621,
+   "rank": 80.897,
    "sources": [
     {
      "domain": "feedit.cz",
@@ -6408,7 +6569,7 @@
      "body_sha256": "079cde1f20faf8084073f2c77db760a6eaed982af21e167e05da64dcbc195313"
     }
    },
-   "rank": 45.4,
+   "rank": 44.99,
    "image_url": "https://img.24n.cz/p/2026/09/tablichki-s-funikulera-na-petrzhine-raskupili-po-tysiacham-k-4cce5ee4ea69b680.webp",
    "image_w": 1200,
    "image_h": 660
@@ -6648,7 +6809,7 @@
      "body_sha256": "bac99590b8963893fa431db623f45030c8c3c9ae7d25391d347743a1ab3c4904"
     }
    },
-   "rank": 86.673,
+   "rank": 85.889,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskie-strakhovki-mogut-oplachivat-lekarstvo-ot-ozhirenii-5addb747221052d2.webp",
    "image_w": 1200,
    "image_h": 675
@@ -6793,7 +6954,7 @@
      "body_sha256": "08e97321b13a59bea730368cbd5b645461e77bc99c130438fe3bd0ee6428c3f1"
     }
    },
-   "rank": 80.069,
+   "rank": 79.345,
    "sources": [
     {
      "domain": "kladenskelisty.cz",
@@ -6986,7 +7147,7 @@
      "body_sha256": "ba6cc97bf0480d6edd7773882413487f28d59e8db554ac4565624084db4b1950"
     }
    },
-   "rank": 106.484,
+   "rank": 105.521,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -7049,8 +7210,8 @@
    ],
    "published_at": "2026-09-30T08:02:41.409032+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 08:02",
@@ -7230,7 +7391,7 @@
      "body_sha256": "50f8263ed7a707ed3972589b2a204fead06dd7d24c84612748b94b7e02f3fc95"
     }
    },
-   "rank": 77.604,
+   "rank": 76.895,
    "image_url": "https://img.24n.cz/p/2026/09/dobrovolnyi-pozharnyi-sbil-ottsa-s-synom-na-kvadrotsikle-vol-d85e8bb94594ee90.webp",
    "image_w": 1200,
    "image_h": 675
@@ -7397,7 +7558,7 @@
      "body_sha256": "9e942db729c3d694db14696fba395f0fc3b842d4f75a2bb5c4572428d3736c19"
     }
    },
-   "rank": 68.838,
+   "rank": 68.203,
    "image_url": "https://img.24n.cz/p/2026/09/rynok-arendy-v-chekhii-pochemu-rastet-chislo-pereezdov-i-tse-3a5f0f98941d0fd7.webp",
    "image_w": 1200,
    "image_h": 674
@@ -7649,7 +7810,7 @@
      "body_sha256": "d3db790cd310d19d2487c39cca73b9886a9b4ea7812b56d4b5b7e3ce3c368899"
     }
    },
-   "rank": 80.985,
+   "rank": 80.239,
    "image_url": "https://img.24n.cz/p/2026/09/sem-cheshskikh-mest-sily-dlia-osennikh-poezdok-i-otdykha-ec42910017e52871.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/sem-cheshskikh-mest-sily-dlia-osennikh-poezdok-i-otdykha-d0f6eb303f501c28.webp",
@@ -7703,8 +7864,8 @@
    ],
    "published_at": "2026-09-30T06:57:41.690393+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 06:57",
@@ -7990,7 +8151,7 @@
      "body_sha256": "f0e1930999f4085bc5f397a7a9ad9e4675ad4c9b82a5adf3fe4b52eb47ee8592"
     }
    },
-   "rank": 60.093,
+   "rank": 59.533,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskie-drony-fly4future-brosaiut-vyzov-dji-investitsii-av-a68505628fd6a0cb.webp",
    "image_w": 1551,
    "image_h": 1168
@@ -8220,7 +8381,7 @@
      "body_sha256": "e4c259040d3779af2ac3d4394239959922963b4da420d63cd8bd85fedcc6a156"
     }
    },
-   "rank": 59.499,
+   "rank": 58.94,
    "image_url": "https://img.24n.cz/p/2026/09/dusicky-tradice-historie-otkuda-vzialsia-osennii-prazdnik-e98d4aa458650faf.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/dusicky-tradice-historie-otkuda-vzialsia-osennii-prazdnik-bdfcd87b7572cd71.webp",
@@ -8507,7 +8668,7 @@
      "body_sha256": "c423effc904c39e818bb2fa723b03f5b468fdfd8f3ab63224664b204362b8eeb"
     }
    },
-   "rank": 71.399,
+   "rank": 70.728,
    "image_url": "https://img.24n.cz/p/2026/09/kuda-skhodit-s-detmi-na-osennie-kanikuly-v-chekhii-a1276c08b49fca25.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/kuda-skhodit-s-detmi-na-osennie-kanikuly-v-chekhii-e5b2d4eadc25ed75.webp",
@@ -8560,8 +8721,8 @@
    ],
    "published_at": "2026-09-30T05:49:02.338348+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 05:49",
@@ -8813,7 +8974,7 @@
      "body_sha256": "e49e75c691fde360b4e762ea587528f6fa687d10fe62a97227d06eff8940d2fb"
     }
    },
-   "rank": 66.7,
+   "rank": 66.066,
    "image_url": "https://img.24n.cz/p/2026/09/v-treti-cheshskikh-obshchin-vybory-prevratilis-v-formalnost-58a1a8e90c47bb7a.webp",
    "image_w": 1200,
    "image_h": 630
@@ -9059,7 +9220,7 @@
      "body_sha256": "1f46d8a6e02f8935447775b1c6a3c8359597487ac897e125f49aac4a62113981"
     }
    },
-   "rank": 69.979,
+   "rank": 69.307,
    "image_url": "https://img.24n.cz/p/2026/09/charita-olomouc-bezdomnye-molodeiut-iz-za-krizisa-sotssluzhb-1d2ed1a0765095bc.jpeg",
    "images": [
     "https://img.24n.cz/p/2026/09/charita-olomouc-bezdomnye-molodeiut-iz-za-krizisa-sotssluzhb-919da94425fb740e.webp"
@@ -9279,7 +9440,7 @@
      "body_sha256": "c4599aac3540d4ab1b526bb991dc192dfc2ca34fd32c41d5cc6781edeb8aec99"
     }
    },
-   "rank": 69.979,
+   "rank": 69.307,
    "image_url": "https://img.24n.cz/p/2026/09/s-1-oktiabria-2026-goda-v-chekhii-vyrastut-komandirovochnye-d088d2d8d140c0ac.webp",
    "image_w": 1200,
    "image_h": 660
@@ -9558,7 +9719,7 @@
      "body_sha256": "b928f55f9babd317b4f7c7807091076ea99f9745844ca80e21dbb09e6ca95425"
     }
    },
-   "rank": 81.642,
+   "rank": 80.858,
    "image_url": "https://img.24n.cz/p/2026/09/iskusstvennoe-oplodotvorenie-v-chekhii-zhdet-polnaia-reforma-6b9b3f70b565019f.webp",
    "image_w": 620,
    "image_h": 349
@@ -9575,8 +9736,8 @@
    ],
    "published_at": "2026-09-30T04:48:59.244317+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 04:48",
@@ -9793,7 +9954,7 @@
      "body_sha256": "002d4eafa894e525c23c0d406227b17235f7b0f5dc3436bd34d7a14ea2594ad1"
     }
    },
-   "rank": 63.161,
+   "rank": 62.549,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -9862,8 +10023,8 @@
    ],
    "published_at": "2026-09-30T04:48:59.244317+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 04:48",
@@ -10131,7 +10292,7 @@
      "body_sha256": "1c1905d3b90dbe880fd7a95fd05700a76444a53aae84d0a0ed16cb6f893f323b"
     }
    },
-   "rank": 57.769,
+   "rank": 57.209,
    "image_url": "https://img.24n.cz/p/2026/09/luchshie-gornolyzhnye-kurorty-chekhii-gde-pokatatsia-2be5b671bc864ec7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/luchshie-gornolyzhnye-kurorty-chekhii-gde-pokatatsia-83d9bfd8f2a8ec06.webp",
@@ -10174,8 +10335,8 @@
    ],
    "published_at": "2026-09-30T04:48:59.244317+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "30 сентября 2026, 04:48",
@@ -10474,7 +10635,7 @@
      "body_sha256": "ca5a0bfbb5c99fac8a80a8ed2c870abeca734cfe6f7293e8b9e7227f0f4bf197"
     }
    },
-   "rank": 57.769,
+   "rank": 57.209,
    "image_url": "https://img.24n.cz/p/2026/09/gde-vziat-naprokat-snariazhenie-dlia-ski-alpinizma-v-chekhii-bf444e2dfaf770ff.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/gde-vziat-naprokat-snariazhenie-dlia-ski-alpinizma-v-chekhii-22a3070848dbbcb1.webp",
@@ -10786,7 +10947,7 @@
      "body_sha256": "f7a90867492855a1bf577d18c27157e3ba5855a22b00c2cacac5ea011648f15a"
     }
    },
-   "rank": 72.418,
+   "rank": 71.709,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-liudi-obnaruzhivaiut-sebia-v-spiskakh-kandidatov-n-db36985a18dadb1c.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/pechatnye-listovki-vliiaiut-na-vybor-kazhdogo-vtorogo-izbira-63d72e123ec703b7.webp"
@@ -10958,7 +11119,7 @@
      "body_sha256": "06e824008c94f443859a5f31d181f43623a5de3a3ca20c7614afda703aa466bd"
     }
    },
-   "rank": 60.983,
+   "rank": 60.386,
    "sources": [
     {
      "domain": "jihlavsky.denik.cz",
@@ -11198,7 +11359,7 @@
      "body_sha256": "33b0bf60b53ebbf8e50131a74fac0e01e0b67a751802ba48fc60cc88f6ae97f1"
     }
    },
-   "rank": 67.895,
+   "rank": 67.223,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-zhenshchin-v-it-menshe-vsego-v-evrosoiuze-pochemu-48ac860cf2bded16.jpeg",
    "image_w": 630,
    "image_h": 350
@@ -11470,7 +11631,7 @@
      "body_sha256": "a19178d85c3964ddd99c3452c0d2a60a605d119b56e41d58707eedc6ea39433b"
     }
    },
-   "rank": 59.125,
+   "rank": 58.528,
    "image_url": "https://img.24n.cz/p/2026/09/trubochisty-v-srednecheshskom-krae-ocheredi-do-polutora-mesi-81ca691d3826a8a4.webp",
    "image_w": 620,
    "image_h": 349
@@ -11487,8 +11648,8 @@
    ],
    "published_at": "2026-09-30T02:08:58.713830+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 02:08",
@@ -11593,7 +11754,7 @@
      "body_sha256": "ddcb02dc03425ecd7a6a8d311cb670d76d80c804a56fc5391eaad0d92b2eaa89"
     }
    },
-   "rank": 65.856,
+   "rank": 65.184,
    "sources": [
     {
      "domain": "ceskoobjektivem.cz",
@@ -11634,8 +11795,8 @@
    ],
    "published_at": "2026-09-30T02:08:58.713830+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 02:08",
@@ -11823,7 +11984,7 @@
      "body_sha256": "66f52b1b72f49a6d8817317503a244656282b7ff334e343ce88e40e7ea93f680"
     }
    },
-   "rank": 80.49,
+   "rank": 79.669,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -11863,8 +12024,8 @@
    ],
    "published_at": "2026-09-30T02:08:58.713830+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 02:08",
@@ -12065,7 +12226,7 @@
      "body_sha256": "6001778acfff160752a78c99bd0df1a1201a490efed55fea686e4eb16d94ff53"
     }
    },
-   "rank": 76.832,
+   "rank": 76.048,
    "image_url": "https://img.24n.cz/p/2026/09/o-chem-govorili-na-konferentsii-sap-now-v-ostrave-pro-ii-7902c98719257ead.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/o-chem-govorili-na-konferentsii-sap-now-v-ostrave-pro-ii-36b70adc2390d7e1.webp",
@@ -12118,8 +12279,8 @@
    ],
    "published_at": "2026-09-30T02:08:58.713830+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 02:08",
@@ -12319,7 +12480,7 @@
      "body_sha256": "68b49b2045c55ca94bab16ebebaf1d74da30d16c60b548f3ce0ddb1921d67947"
     }
    },
-   "rank": 43.904,
+   "rank": 43.456,
    "sources": [
     {
      "domain": "travelandtourworld.com",
@@ -12349,8 +12510,8 @@
    ],
    "published_at": "2026-09-30T01:01:13.819173+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 01:01",
@@ -12617,7 +12778,7 @@
      "body_sha256": "02cc474002e583e9b87e1ddf953ad64c0ee9ca613c920608b0dcfe07a85f7a6f"
     }
    },
-   "rank": 64.388,
+   "rank": 63.716,
    "image_url": "https://img.24n.cz/p/2026/09/vysokoskorostnye-magistrali-v-chekhii-finansirovanie-sokrati-cfcacba0ece7e52a.webp",
    "image_w": 630,
    "image_h": 350
@@ -12634,8 +12795,8 @@
    ],
    "published_at": "2026-09-30T01:01:13.819173+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "30 сентября 2026, 01:01",
@@ -12799,7 +12960,7 @@
      "body_sha256": "08fc8753c5462d94fde0bf6166860bc2ef280c3c755358d9b1202c78c330b206"
     }
    },
-   "rank": 46.502,
+   "rank": 46.017,
    "image_url": "https://img.24n.cz/p/2026/09/pianaia-voditelnitsa-plzen-zadnii-khod-opasnyi-manevr-947440a131fdccc6.webp",
    "image_w": 1200,
    "image_h": 730
@@ -12975,7 +13136,7 @@
      "body_sha256": "38fc3fbf2bd21f2a047b28de1cc06a6a96bd17b96f068ab40adec5a1f01fa5ec"
     }
    },
-   "rank": 73.579,
+   "rank": 72.803,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -13205,7 +13366,7 @@
      "body_sha256": "af11c0aed62d13dd68a499f43c64e11bd675c8c79f22f888fad30dd8a848e3c5"
     }
    },
-   "rank": 63.674
+   "rank": 63.003
   },
   {
    "id": "n6335",
@@ -13219,8 +13380,8 @@
    ],
    "published_at": "2026-09-29T23:54:28.107967+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "29 сентября 2026, 23:54",
@@ -13412,7 +13573,7 @@
      "body_sha256": "1573a97a7d8f57a83faa7251672b726026e1b0ba2d296a7aae3e2a4ecada178a"
     }
    },
-   "rank": 60.843,
+   "rank": 60.194,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -13627,7 +13788,7 @@
      "body_sha256": "a4170219617b04824934baf2b2bed93a800bcab5ae1a210378f51f16edd1dd50"
     }
    },
-   "rank": 75.234,
+   "rank": 74.951,
    "sources": [
     {
      "domain": "media24.cz",
@@ -13907,7 +14068,7 @@
      "body_sha256": "861c7d4bfa6b785a19a06a7d4440d5a9a768acf1849fa6b80f8a4ba6ba6fc6d7"
     }
    },
-   "rank": 62.209,
+   "rank": 61.538,
    "image_url": "https://img.24n.cz/p/2026/09/iglu-zabory-v-lesakh-chekhii-pochemu-gribniki-pugaiutsia-str-8fc03f3f92540179.jpeg",
    "images": [
     "https://img.24n.cz/p/2026/09/iglu-zabory-v-lesakh-chekhii-pochemu-gribniki-pugaiutsia-str-2e00bf6995c27d77.webp",
@@ -14165,7 +14326,7 @@
      "body_sha256": "b51898d8c5abdca3c8f30c31c23d68ab1a2134dddc8e5b603fb5a209eb87d845"
     }
    },
-   "rank": 66.265,
+   "rank": 65.541,
    "sources": [
     {
      "domain": "valassky.denik.cz",
@@ -14415,7 +14576,7 @@
      "body_sha256": "6818590490c913f3dd8cc23f80a889a54bfb35d729bfba75c6e64422e5e57954"
     }
    },
-   "rank": 88.126,
+   "rank": 87.163,
    "sources": [
     {
      "domain": "metro.cz",
@@ -14643,7 +14804,7 @@
      "body_sha256": "79fca0463dd88fb850d6d2de5ec6f77cce5f34a5dab62f85d5f6b83ba6b736b8"
     }
    },
-   "rank": 87.802,
+   "rank": 86.832,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -14860,7 +15021,7 @@
      "body_sha256": "a7cc895ed2435faa22e46d1675ce64c7824840d8e74a887e9eea80385452d627"
     }
    },
-   "rank": 69.391,
+   "rank": 68.615,
    "sources": [
     {
      "domain": "theexpatcity.com",
@@ -15072,7 +15233,7 @@
      "body_sha256": "1889c8da347f508d9f7686101c0a9748ed6181a6ad25e85ccf1d54295d4a5d93"
     }
    },
-   "rank": 40.903,
+   "rank": 40.44,
    "sources": [
     {
      "domain": "olomouc.cz",
@@ -15221,7 +15382,7 @@
      "body_sha256": "d20f7b5901d4f4e1f0c9f431a436a740c23b71715ba6996e1ceaef87b4aaf03c"
     }
    },
-   "rank": 69.271,
+   "rank": 68.488,
    "image_url": "https://img.24n.cz/p/2026/09/meloni-i-babish-gotoviat-reformy-v-es-i-biudzhetnye-plany-3793b76281b493e9.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15445,7 +15606,7 @@
      "body_sha256": "cc18784f537cbb32b21897b07a1cc1f0b7a21dc3ecad143d951f2c8f0ed39832"
     }
    },
-   "rank": 75.209,
+   "rank": 74.358,
    "sources": [
     {
      "domain": "alternativa-festival.cz",
@@ -15710,7 +15871,7 @@
      "body_sha256": "5e3df696597fb03bc87fa16ada7b727c883ab39bb03c2d0a84b698de817f61a3"
     }
    },
-   "rank": 82.466,
+   "rank": 81.533,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -15831,7 +15992,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 55.228
+   "rank": 54.601
   },
   {
    "id": "n6323",
@@ -16035,7 +16196,7 @@
      "body_sha256": "189a87b2e704b2662f93c9a7a2aa94a434782b06ca9b9971d8a7fcbf119512d3"
     }
    },
-   "rank": 73.993,
+   "rank": 73.134,
    "image_url": "https://img.24n.cz/p/2026/09/chekhiia-otpravit-dve-brigady-v-pribaltiku-v-sluchae-rossiis-e8cbf41c91df45ae.webp",
    "image_w": 1200,
    "image_h": 675
@@ -16239,7 +16400,7 @@
      "body_sha256": "f8221c7e49bef3019b36105ecf3bfd0903dfe2d761ef8d84370e69ad7d661fa2"
     }
    },
-   "rank": 60.362,
+   "rank": 59.653,
    "image_url": "https://img.24n.cz/p/2026/09/milliardnaia-sdelka-ppf-skupaet-uchastki-u-o2-areny-85013f5030be9dce.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -16430,7 +16591,7 @@
      "body_sha256": "039327a1755ab566d43df53a1c469a0417a07858b818ee5106d42e7010921c99"
     }
    },
-   "rank": 59.727,
+   "rank": 59.025,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -16675,7 +16836,7 @@
      "body_sha256": "48c3760146261240df384339dcc67bb1114d5e73a97ef01fedabacdf06b3da63"
     }
    },
-   "rank": 59.631,
+   "rank": 58.922,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-politsiia-nachala-ispolzovat-mobilnye-shumomery-prot-fc60461b5461fb75.webp",
    "image_w": 1200,
    "image_h": 634
@@ -16736,7 +16897,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 50.992,
+   "rank": 50.38,
    "forecast": true
   },
   {
@@ -16952,7 +17113,7 @@
      "body_sha256": "aad3ef373346fcba37afa0a238c5dd69d774d4d2bae1768eeec199ccb7a56e0c"
     }
    },
-   "rank": 67.584,
+   "rank": 66.771,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -17176,7 +17337,7 @@
      "body_sha256": "fb13d9e2e5a8783c65174cdec15c9a33ff7183c06d996dbdc465183731328752"
     }
    },
-   "rank": 64.288
+   "rank": 63.505
   },
   {
    "id": "n6316",
@@ -17436,7 +17597,7 @@
      "body_sha256": "b631532b3014c688e2570855cfe3a5aec15708dc78d795ecb41b65a227bc7310"
     }
    },
-   "rank": 63.676,
+   "rank": 62.9,
    "sources": [
     {
      "domain": "pr.denik.cz",
@@ -17749,7 +17910,7 @@
      "body_sha256": "9f6d4fa8dd9da6c984482af77326137f75b038cf5fad156845f65a50dc47df11"
     }
    },
-   "rank": 63.514,
+   "rank": 62.731,
    "image_url": "https://img.24n.cz/p/2026/09/zhiteli-pragi-otsenili-upravlenie-gorodom-na-troechku-s-minu-8865160bf176e8ff.webp",
    "image_w": 750,
    "image_h": 300
@@ -18018,7 +18179,7 @@
      "body_sha256": "1830b437a24a006ad23a9c9ac904bdb32e79a383aadc4cafeb3cf91366b8c740"
     }
    },
-   "rank": 91.743
+   "rank": 91.381
   },
   {
    "id": "n6313",
@@ -18185,7 +18346,7 @@
      "body_sha256": "e6bb71df66835186d7f8cf23e37ed46845cffa294c06e793e0d40f5b799be283"
     }
    },
-   "rank": 56.041,
+   "rank": 55.332,
    "image_url": "https://img.24n.cz/p/2026/09/kadrovyi-udar-ot-tsukerberga-meta-uvela-top-menedzhera-841088573acac552.webp",
    "video": {
     "kind": "iframe",
@@ -18447,7 +18608,7 @@
      "body_sha256": "d2a1cb0c15aa9cfd4f1239474963f59808e477d992f91d735baf59b7e4d6b046"
     }
    },
-   "rank": 61.94,
+   "rank": 61.157,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskie-ovoshchevody-otsenili-ushcherb-ot-zasukhi-v-700-mi-1295245c5a53a844.webp",
    "image_w": 1200,
    "image_h": 675
@@ -18609,7 +18770,7 @@
      "body_sha256": "0fccae9d845ffc39bba8ef6fa4739f2e7b14c52762cc12db048142aba5c7101a"
     }
    },
-   "rank": 58.991
+   "rank": 58.245
   },
   {
    "id": "n6310",
@@ -18820,7 +18981,7 @@
      "body_sha256": "ff33f8efc5fb7bfa8de9330ecff3e229e95c683ffbe7402be9990e06ef5e5e1e"
     }
    },
-   "rank": 50.142,
+   "rank": 49.508,
    "sources": [
     {
      "domain": "iportal24.cz",
@@ -19090,7 +19251,7 @@
      "body_sha256": "fc2b4448c1b2cdfadb33432910f36b95a8bed2f057c32c55662e321219b56b5d"
     }
    },
-   "rank": 63.404,
+   "rank": 62.591,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -19350,7 +19511,7 @@
      "body_sha256": "beb268120600a5be256942f09bafe1d62e8a84d24a0592d90e3b587ebc4b76b4"
     }
    },
-   "rank": 52.843,
+   "rank": 52.156,
    "sources": [
     {
      "domain": "moje.metro.cz",
@@ -19549,7 +19710,7 @@
      "body_sha256": "f4ec18bfa8154d9e4f6a19df27d60c2374234b69e9c399078ba3237566ec0312"
     }
    },
-   "rank": 55.715,
+   "rank": 54.991,
    "sources": [
     {
      "domain": "berounsky.denik.cz",
@@ -19828,7 +19989,7 @@
      "body_sha256": "b5e8181b72b1f87a3171a00292e18dc5ddb9a8fdaa2d0e684ccaa2dd3b124ff4"
     }
    },
-   "rank": 54.566,
+   "rank": 53.857,
    "image_url": "https://img.24n.cz/p/2026/09/legendarnaia-obuvnaia-fabrika-bata-zakryvaet-poslednii-zavod-c0a715639e37daf6.webp",
    "image_w": 630,
    "image_h": 350
@@ -20136,7 +20297,7 @@
      "body_sha256": "f61c95e852c47ef85488ef83fa86151be61024c5983ffdbb315d3afa27b33f0b"
     }
    },
-   "rank": 70.745,
+   "rank": 69.812,
    "sources": [
     {
      "domain": "e15.cz",
@@ -20305,7 +20466,7 @@
      "body_sha256": "8e8d5f965dedb197093db0b9da64e2b963ffe53f806d0d7edaf664944d19161a"
     }
    },
-   "rank": 58.676,
+   "rank": 57.893,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -20558,7 +20719,7 @@
      "body_sha256": "d8020ad5de4453850cae773465c57f722df062231313fd6f4461664647f6bfcd"
     }
    },
-   "rank": 36.323,
+   "rank": 35.838,
    "image_url": "https://img.24n.cz/p/2026/09/osennii-otdykh-v-natsionalnom-parke-podyji-marshruty-i-vino-25773b2b0a4abdc7.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/osennii-otdykh-v-natsionalnom-parke-podyji-marshruty-i-vino-a1425fa37301c783.webp",
@@ -20840,7 +21001,7 @@
      "body_sha256": "c96c9055a059b672f57f3bc3f0d09426557dded1a657304b0fd34c6a8284fddb"
     }
    },
-   "rank": 58.676,
+   "rank": 57.893,
    "image_url": "https://img.24n.cz/p/2026/09/zhiteli-prazhskogo-raiona-libus-reshat-sudbu-proekta-v-pisni-2d25c586b7e26baa.webp",
    "image_w": 750,
    "image_h": 300
@@ -21023,7 +21184,7 @@
      "body_sha256": "e4fac1715286fddb84b571b96e8078342d9b69b837d29cb5e04619ee55affe6b"
     }
    },
-   "rank": 44.045,
+   "rank": 43.448,
    "image_url": "https://img.24n.cz/p/2026/09/remont-plotiny-v-brno-perekroet-dorogu-do-kontsa-2027-goda-10282058f4af9320.webp",
    "image_w": 620,
    "image_h": 349
@@ -21248,7 +21409,7 @@
      "body_sha256": "eea0e0b23ed650159f4294570b45ca2b018cc199f35d6be64f9ebf256784e882"
     }
    },
-   "rank": 53.404,
+   "rank": 52.68,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -21460,7 +21621,7 @@
      "body_sha256": "f180fedd5d253ac74f0120361456609fa3c2e8d6feb9c75082b2b789b0c227e6"
     }
    },
-   "rank": 71.572,
+   "rank": 70.602,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -21761,7 +21922,7 @@
      "body_sha256": "e138990e75a5ba8a6f8ba5b91edf0ec71dfbc5d191e303384e92a3f4df1ebb75"
     }
    },
-   "rank": 52.303
+   "rank": 51.594
   },
   {
    "id": "n6297",
@@ -22021,7 +22182,7 @@
      "body_sha256": "2c818bd4d6fe46684a2d3c868a834ce582de31aeea0aae3bec69484935c8d5f0"
     }
    },
-   "rank": 57.808,
+   "rank": 57.025,
    "image_url": "https://img.24n.cz/p/2026/09/v-chekhii-skoro-razreshat-dostavku-lekarstv-po-retseptu-v-po-bf0dbf65ca69a1dd.webp",
    "image_w": 1200,
    "image_h": 674
@@ -22207,7 +22368,7 @@
      "body_sha256": "aacd51b4ac906357e2f0095f6ec459af5075ae7c3155095921387af4d2822d6a"
     }
    },
-   "rank": 42.752,
+   "rank": 42.155,
    "image_url": "https://img.24n.cz/p/2026/09/v-prage-vpervye-za-polveka-ochistiat-rezervuar-mecholupy-1710cc71dbfff7b4.webp",
    "image_w": 800,
    "image_h": 526
@@ -22477,7 +22638,7 @@
      "body_sha256": "b4a71bc42304364c670357593746eb2400b93fa15c8ec41a2be5045a72850257"
     }
    },
-   "rank": 55.25,
+   "rank": 54.466,
    "image_url": "https://img.24n.cz/p/2026/09/dorozhnye-shtrafy-iz-stran-es-budut-vzyskivat-cherez-cheshsk-3340cb29d559a628.webp",
    "image_w": 1200,
    "image_h": 660
@@ -22697,7 +22858,7 @@
      "body_sha256": "95dfbbfb890574885c46ab1409f6c26024bd1788cf51a71bd7794fdc2c9008a1"
     }
    },
-   "rank": 46.696,
+   "rank": 46.024,
    "image_url": "https://img.24n.cz/p/2026/09/mesiats-bashen-i-smotrovykh-ploshchadok-v-chekhii-kuda-poekh-4430b57891b94516.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/mesiats-bashen-i-smotrovykh-ploshchadok-v-chekhii-kuda-poekh-d040dcd118e9fdb8.webp",
@@ -22978,7 +23139,7 @@
      "body_sha256": "9ff2767f574d489ad9480fecbf07e8a99867685d4703b0c119cd45ccc94da722"
     }
    },
-   "rank": 59.667,
+   "rank": 58.809,
    "image_url": "https://img.24n.cz/p/2026/09/prokuratura-chekhii-mozhet-osporit-sdelku-na-stroitelstvo-po-4f3439026f56a3fa.webp",
    "image_w": 1200,
    "image_h": 675
@@ -23097,7 +23258,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 43.61
+   "rank": 42.975
   },
   {
    "id": "n6291",
@@ -23323,7 +23484,7 @@
      "body_sha256": "bb20ccce59540255a62cadaf21cae921d5e2d2983f7f409a23a6f9b01511c5f8"
     }
    },
-   "rank": 40.829,
+   "rank": 40.233,
    "image_url": "https://img.24n.cz/p/2026/09/shkola-v-kravarich-zapiraet-telefony-uchenikov-v-magnitnye-c-5cb6a101929171e2.webp",
    "image_w": 620,
    "image_h": 349
@@ -23489,7 +23650,7 @@
      "body_sha256": "2e01d1ad23b5dac93efc3ce6a529f3e2084771d6b7f702d9c64e090964eef4a8"
     }
    },
-   "rank": 49.506,
+   "rank": 48.782,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -23691,7 +23852,7 @@
      "body_sha256": "d6ba92e8956a470aa4014bc0c11a411adcc285a977e3fad7fa76eaa0b5c64f99"
     }
    },
-   "rank": 53.589
+   "rank": 52.805
   },
   {
    "id": "n6288",
@@ -23968,7 +24129,7 @@
      "body_sha256": "0f16bafaf7ba56e0333f781e487207b664f718b03e58b1bc947a1ad4db8a341e"
     }
    },
-   "rank": 51.325,
+   "rank": 50.564,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -24181,7 +24342,7 @@
      "body_sha256": "65d441e1dfcaf98269266ffc3e5af5439500f6e6c3ab963f2a361474e1ec82ec"
     }
    },
-   "rank": 48.809,
+   "rank": 48.085,
    "sources": [
     {
      "domain": "tyden.cz",
@@ -24422,7 +24583,7 @@
      "body_sha256": "d6ec1f50bd2d75e14f5f95ffdd2c76cf82807dca617d66f064a34f9c825c346d"
     }
    },
-   "rank": 52.834,
+   "rank": 52.051,
    "image_url": "https://img.24n.cz/p/2026/09/cheshskie-voditeli-gubiat-zhizni-obychnym-vozhdeniem-346-zhe-a754fd18551bedf5.webp",
    "image_w": 1366,
    "image_h": 910
@@ -24684,7 +24845,7 @@
      "body_sha256": "508f230c96f657f46fc7973e923cf93f36d0e30ff453585c95ef67db56dff97a"
     }
    },
-   "rank": 34.648,
+   "rank": 34.126,
    "image_url": "https://img.24n.cz/p/2026/09/osennii-zamok-lititse-programma-i-rezhim-raboty-v-oktiabre-ce16c5435558b6f6.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/osennii-zamok-lititse-programma-i-rezhim-raboty-v-oktiabre-41bce92f8e6a825f.webp",
@@ -24970,7 +25131,7 @@
      "body_sha256": "5ce65252adabd8d06792c056417fb990e5f732be34214d3686855b52622a78e9"
     }
    },
-   "rank": 43.862
+   "rank": 43.191
   },
   {
    "id": "n6283",
@@ -25165,7 +25326,7 @@
      "body_sha256": "1c1d02df68b9f4ed980b612470e61f7a0ad87d133464e66ebae29de5f1247231"
     }
    },
-   "rank": 51.173,
+   "rank": 50.389,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -25446,7 +25607,7 @@
      "body_sha256": "974241cd79b1f48a3dd65a2a03e895c0ae580efc64f18c19dc192734c4c4cd19"
     }
    },
-   "rank": 43.862,
+   "rank": 43.191,
    "image_url": "https://img.24n.cz/p/2026/09/prague-coffee-festival-2026-iubileinyi-prazdnik-kofe-v-prage-b7277a80ee5b8238.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/prague-coffee-festival-2026-iubileinyi-prazdnik-kofe-v-prage-562a956f97041ddf.webp",
@@ -25676,7 +25837,7 @@
      "body_sha256": "2cc62e737ad41bcbacb62564eb1d3f588a5858b5a32981658dd6d307721949dd"
     }
    },
-   "rank": 43.862,
+   "rank": 43.191,
    "sources": [
     {
      "domain": "goodmenproject.com",
@@ -25848,7 +26009,7 @@
      "body_sha256": "269ab10819e32d769eaee37714f87bd32fa05c8bdc1ce09bca9ebf0db1ae2508"
     }
    },
-   "rank": 46.299
+   "rank": 45.59
   },
   {
    "id": "n6279",
@@ -26056,7 +26217,7 @@
      "body_sha256": "f2b6f42d41edf6108234ad667d9d04e88127c1da30662c3c6d9734060bc61d2a"
     }
    },
-   "rank": 51.173,
+   "rank": 50.389,
    "image_url": "https://img.24n.cz/p/2026/09/falshivye-nekrologi-i-zhestkaia-predvybornaia-borba-v-simono-96f5467fb661af65.webp",
    "image_w": 667,
    "image_h": 375
@@ -26263,7 +26424,7 @@
      "body_sha256": "1b6c7ccb762ab86e749650123113f6db92e7ae4a48bca289d59e96448012d5df"
     }
    },
-   "rank": 64.595,
+   "rank": 63.588,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -26480,7 +26641,7 @@
      "body_sha256": "06d8a11b9bea2802e8921a78fa0a5ba997ef04177099007affab201d00699184"
     }
    },
-   "rank": 49.443,
+   "rank": 48.66,
    "sources": [
     {
      "domain": "gamespot.com",
@@ -26716,7 +26877,7 @@
      "body_sha256": "c23f6505038975a09b99c5a52479d1c7703d1cb8f0592f1121031b713eecb1ba"
     }
    },
-   "rank": 49.443,
+   "rank": 48.66,
    "image_url": "https://img.24n.cz/p/2026/09/stroitelnyi-zakon-v-chekhii-na-marketing-potratiat-milliony-a64c22181f4b72bb.webp",
    "image_w": 1200,
    "image_h": 675
@@ -27038,7 +27199,7 @@
      "body_sha256": "90acff563f4b47508c21119827fb5ea33ff51370025258e7debda9421634733a"
     }
    },
-   "rank": 38.685
+   "rank": 38.05
   },
   {
    "id": "n6274",
@@ -27244,7 +27405,7 @@
      "body_sha256": "f63e4a77385ec0daa2c62ac9c0ad34730e746e2556b1e9950c1839a123f3469c"
     }
    },
-   "rank": 52.338,
+   "rank": 51.48,
    "sources": [
     {
      "domain": "fm.denik.cz",
@@ -27436,7 +27597,7 @@
      "body_sha256": "db99713e59a9c3805327d2f6b16c716640f1a4a47c1af0ebb38344c34737ec3f"
     }
    },
-   "rank": 40.284,
+   "rank": 39.612,
    "sources": [
     {
      "domain": "forum24.cz",
@@ -27646,7 +27807,7 @@
      "body_sha256": "70c0096aa0b99f7ec203968580b0881e3c7d016eb5f07cf061c794058a3bfb09"
     }
    },
-   "rank": 42.522,
+   "rank": 41.813,
    "image_url": "https://img.24n.cz/p/2026/09/uvolneniia-iz-za-iskusstvennogo-intellekta-vzgliad-investora-1cf66a3a99a08c1d.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/uvolneniia-iz-za-iskusstvennogo-intellekta-vzgliad-investora-875082f8b86f8004.webp",
@@ -27826,7 +27987,7 @@
      "body_sha256": "6a812d5025e49619a386b197cc75c9d4891c0fe37d8e525db8803978d5583793"
     }
    },
-   "rank": 42.522,
+   "rank": 41.813,
    "image_url": "https://img.24n.cz/p/2026/09/povyshenie-generalov-armiia-chekhii-kogo-nagradiat-v-oktiabr-d23ec7747720e233.webp",
    "image_w": 620,
    "image_h": 349
@@ -28098,7 +28259,7 @@
      "body_sha256": "03637735408f95bdbb3ee51cf825a9afca10e9ba97020b9c4692ec9144cbe0a2"
     }
    },
-   "rank": 39.574,
+   "rank": 38.903,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/I98-2ZOfrCA"
@@ -28294,7 +28455,7 @@
      "body_sha256": "e089e08bac35d6534f951cae7efec516f323287ee9713e894c9059354d502d57"
     }
    },
-   "rank": 46.17,
+   "rank": 45.386,
    "image_url": "https://img.24n.cz/p/2026/09/sostoianie-municipalni-byty-v-cesku-tretina-radnits-sokratil-c6ec594cf91f6679.webp",
    "image_w": 1200,
    "image_h": 675
@@ -28598,7 +28759,7 @@
      "body_sha256": "964e428fe198fe5e478bb3b87e29518ab9d1490e1d7eccc4e3a81c73b3d8bd84"
     }
    },
-   "rank": 44.074,
+   "rank": 43.313,
    "sources": [
     {
      "domain": "prozeny.cz",
@@ -28814,7 +28975,7 @@
      "body_sha256": "89f4224532a75e65beb020b4975a21171c59c75f55a94870299059c7be0d8988"
     }
    },
-   "rank": 44.564,
+   "rank": 43.78,
    "sources": [
     {
      "domain": "forum24.cz",
@@ -29090,7 +29251,7 @@
      "body_sha256": "c768147967184ffcb44ec4debf488e8ef762539492bf071792230dc9e2a65fad"
     }
    },
-   "rank": 38.839,
+   "rank": 38.13,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/cNlAF3USuns"
@@ -29315,7 +29476,7 @@
      "body_sha256": "601a4291fb07d1722c39f5abdc3c95ef14775c543abea54cf2a3330696e20022"
     }
    },
-   "rank": 42.102
+   "rank": 41.318
   },
   {
    "id": "n6264",
@@ -29548,7 +29709,7 @@
      "body_sha256": "7e62e1b5dae8e45e3cb23f347426c8086d0df75971256b4ab9897663ee5788ed"
     }
    },
-   "rank": 45.858,
+   "rank": 44.97,
    "sources": [
     {
      "domain": "regionpraha.cz",
@@ -29754,7 +29915,7 @@
      "body_sha256": "09c85a13447453442cd69a52c1cc09725e8db916010531e5ad092ee8338e2f24"
     }
    },
-   "rank": 32.755,
+   "rank": 32.121,
    "sources": [
     {
      "domain": "pozitivni-zpravy.cz",
@@ -29961,7 +30122,7 @@
      "body_sha256": "0fbb31d72d07092e9aa3c8503367a33dfd09712051ec1866d42f0868ba357de3"
     }
    },
-   "rank": 35.905,
+   "rank": 35.196,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -30280,7 +30441,7 @@
      "body_sha256": "7a560aa72b241a494743a8bb907fec59d2452f5a68962646ccff1835193ae5d6"
     }
    },
-   "rank": 31.448
+   "rank": 30.814
   },
   {
    "id": "n6260",
@@ -30521,7 +30682,7 @@
      "body_sha256": "f037165fdd51b96cca95342215e7f94a686922da7ee55f2c966c9b2c22d1b3e5"
     }
    },
-   "rank": 26.638,
+   "rank": 26.101,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -30707,7 +30868,7 @@
      "body_sha256": "f2fd18714b5dbfdb3519a54ca4e10a7c1813cb05d0ef4008919bc90c1c6ac83d"
     }
    },
-   "rank": 26.079,
+   "rank": 25.542,
    "sources": [
     {
      "domain": "gnvp.eu",
@@ -30983,7 +31144,7 @@
      "body_sha256": "f691a14aafab0fc03a5e5453adb8f596f6c1b83be170160e20cfbbec69138a93"
     }
    },
-   "rank": 23.544,
+   "rank": 23.058,
    "image_url": "https://img.24n.cz/p/2026/09/action-iazyk-programmirovaniia-dlia-atari-kotoryi-pokoril-8-72857a789c623792.webp",
    "video": {
     "kind": "iframe",
@@ -38440,7 +38601,7 @@
      "body_sha256": "b96e5b657b7cb2b088b9953fff174f91d912d5b5991e22d3931b21e2a0aa6758"
     }
    },
-   "rank": 55.634,
+   "rank": 55.341,
    "image_url": "https://img.24n.cz/p/2026/09/ian-golashek-khotim-voiti-v-rukovodstvo-gradets-kralove-i-iz-63aea8344e37b213.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/ian-golashek-khotim-voiti-v-rukovodstvo-gradets-kralove-i-iz-feb70809e01a3308.webp",
@@ -42156,8 +42317,8 @@
    ],
    "published_at": "2026-09-27T23:44:31.775955+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "27 сентября 2026, 23:44",
@@ -67684,165 +67845,6 @@
     }
    },
    "rank": 63.0
-  },
-  {
-   "id": "n6094",
-   "slug": "novaia-kniga-pavla-chernogo-raskryvaet-tainy-cheshskogo-otboia",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/kultura/literatura/ze-cesi-nebojuji-to-sirily-totalitni-rezimy-hrdiny-mame-hlasi-autor-knih-o-moravkovi.A260921_932032_literatura_kton#utm_source=rss&utm_medium=feed&utm_campaign=kultura&utm_content=main",
-   "top": false,
-   "tags": [
-    "cesko",
-    "dosug",
-    "kriminal"
-   ],
-   "published_at": "2026-09-25T06:19:22.975345+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "25 сентября 2026, 06:19",
-    "uk": "25 вересня 2026, 06:19"
-   },
-   "ru": {
-    "title": "Новая книга Павла Черного раскрывает тайны чешского отбоя",
-    "lede": "Известный публицист и полицейский инструктор Pavel Černý выпустил книгу, посвященную малоизвестным героям чехословацкого сопротивления и сложным судьбам людей «между двух огней». Издание завершает авторскую трилогию о легендарном капитане Václav Morávek.",
-    "meta_description": "Публицист и инструктор Pavel Černý выпустил новую книгу о малоизвестных героях чехословацкого сопротивления, завершив свою трилогию.",
-    "paras": [
-     "<p>Публицист и полицейский инструктор <b>Pavel Černý</b> выпустил книгу <b>Škpt. Václav Morávek a lidé kolem něj</b>. Это последняя часть авторской трилогии. В ней собраны истории малоизвестных участников сопротивления, людей из операции Anthropoid, а также тех, кто сотрудничал с оккупантами или охотился на чехословацких патриотов. Основой для издания стали материалы интервью, которое автор дал изданию <b>Víkend DNES</b>.</p>",
-     "<p>Как отмечает автор, книга призвана развеять стереотипы о том, что чехи якобы не боролись с нацистским режимом. <em>«Обязательное чтение для каждого, кто интересуется современной историей нашей страны, разрушает мифы о том, что чехи не воюют»</em>, подчеркивает <b>Pavel Černý</b>.</p>",
-     "<h3>Забытые герои и легендарные группы</h3>",
-     "<p>Главный герой исследования, капитан <b>Václav Morávek</b>, входил в подпольную группу <b>Tří králové</b> вместе с <b>Josef Balabán</b> и <b>Josef Mašín</b>. Четвертым участником объединения был радист <b>František „Ferry“Peltán</b>. По словам автора, <b>Václav Morávek</b> отличался невероятной отвагой. В декабре 1941 года во время перестрелки на улице Karlova он выпустил по агентам гестапо 200 пуль. А в мае 1941 года вместе с радистом <b>František Peltán</b> совершил дерзкий побег из конспиративной квартиры на улице Pod Terebkou: спустился по проволочной антенне со второго этажа. <b>Josef Mašín</b> в тот момент был схвачен гестапо.</p>",
-     "<p>Отдельная тема книги, масштабная подпольная сеть. <b>Zpravodajská brigáda</b>, основанная скаутами в ноябре 1940 года, собирала и передавала в Великобританию тысячи разведывательных донесений. Ее участникам было от 13 до 16 лет. После гибели <b>Václav Morávek</b> в марте 1942 года организация выросла до сотен участников и сыграла важнейшую роль во время Пражского восстания в мае 1945 года. Один из ее участников, радист <b>Jaromír Nechanský</b>, после февраля 1948 года организовывал сопротивление коммунистическому режиму и был повешен в июне 1950 года.</p>",
-     "<h3>Судьбы людей «между двух огней»</h3>",
-     "<p>Большая часть книги - о сложных человеческих судьбах и неоднозначных фигурах периода протектората. Довоенные криминалисты Bedřich Linhart и Jaroslav Panenka, прикомандированные к сотрудничеству с гестапо, спасли Václav Morávek в психиатрической клинике в районе Kateřinky: вывели его из оцепления под видом коллеги-полицейского. Дальше их пути разошлись. Bedřich Linhart склонился к поддержке сопротивления, в июле 1942 года его арестовали, а в октябре 1944 года казнили в тюрьме Pankrác. Jaroslav Panenka всё глубже увязал в коллаборационизме и участвовал в поимке борца сопротивления Oldřich Frolík. После войны его осудили за сотрудничество с врагом и казнили в октябре 1948 года на кладбище в районе Ďáblice.</p>",
-     "<p>Ещё одна история в книге - деятельность молодежной группировки Pátá kolona под руководством Václav Engelmüller. В период хейдрихиады она скатилась до бандитизма и грабежей банков. Участников группы арестовали и казнили в июле 1942 года. В издании поднимаются и вопросы вокруг судьбы двойного агента Paul Thümmel: официальную дату казни, 20 апреля 1945 года в Терезине, ставила под сомнение госбезопасность, которая вела его поиски вплоть до 1970 года.</p>"
-    ],
-    "faq": [
-     {
-      "q": "О чем новая книга Павла Черного о Вацлаве Морявке?",
-      "a": "Издание под названием Škpt. Václav Morávek a lidé kolem něj освещает малоизвестных героев чехословацкого сопротивления, участников операции Anthropoid, а также подпольных помощников, предателей и людей, оказавшихся между двумя сторонами конфликта."
-     },
-     {
-      "q": "Кто входил в подпольную группу «Три короля»?",
-      "a": "Легендарная группа сопротивления состояла из Вацлава Морявки, Йозефа Балабана, Йозефа Машина и четвертого участника - радиста Франтишека «Ферри» Пелтана."
-     },
-     {
-      "q": "Какую роль сыграла Разведывательная бригада?",
-      "a": "Организация, созданная скаутами в 1940 году, собирала и передавала в Британию тысячи разведывательных сводок и сыграла ключевую роль в майском восстании 1945 года."
-     }
-    ],
-    "impact": "Книга Павла Черного представляет интерес для любителей чешской истории и не имеет прямых практических или финансовых последствий для повседневной жизни жителей Чехии.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Публицист и полицейский инструктор Pavel Černý выпустил книгу Škpt. Václav Morávek a lidé kolem něj, завершающую его трилогию.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В декабре 1941 года капитан Václav Morávek во время перестрелки на улице Karlova выпустил по агентам гестапо 200 пуль.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Молодежная организация Zpravodajská brigáda, созданная скаутами в ноябре 1940 года, передавала в Великобританию тысячи разведывательных донесений.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Довоенные криминалисты Bedřich Linhart и Jaroslav Panenka спасли Václav Morávek в психиатрической клинике, выведя его под видом коллеги-полицейского.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "d274676887213d799e97e0bfda296bab88dd6abae70008ce879c76a8f26e258b"
-    }
-   },
-   "uk": {
-    "title": "Нова книга Павла Черного розкриває таємниці чеського підпілля",
-    "lede": "Відомий публіцист і поліцейський інструктор Pavel Černý видав книгу про маловідомих героїв чехословацького опору та складні долі людей «між двох вогнів». Видання завершує авторську трилогію про легендарного капітана Václava Morávka.",
-    "meta_description": "Публіцист і інструктор Pavel Černý видав нову книгу про маловідомих героїв чехословацького опору, завершивши свою трилогію.",
-    "paras": [
-     "<p>Публіцист і поліцейський інструктор <b>Pavel Černý</b> видав книгу <b>Škpt. Václav Morávek a lidé kolem něj</b>. Це остання частина авторської трилогії. У ній зібрані історії маловідомих учасників опору, людей з операції Anthropoid, а також тих, хто співпрацював з окупантами або полював на чехословацьких патріотів. Основою для видання стали матеріали інтерв’ю, яке автор дав виданню <b>Víkend DNES</b>.</p>",
-     "<p>Як зазначає автор, книга покликана розвіяти стереотипи про те, що чехи нібито не боролися з нацистським режимом. <em>«Обов’язкове читання для кожного, хто цікавиться сучасною історією нашої країни, руйнує міфи про те, що чехи не воюють»</em>, наголошує <b>Pavel Černý</b>.</p>",
-     "<h3>Забуті герої та легендарні групи</h3>",
-     "<p>Головний герой дослідження, капітан <b>Václav Morávek</b>, входив до підпільної групи <b>Tři králové</b> разом із <b>Josef Balabán</b> і <b>Josef Mašín</b>. Четвертим учасником об’єднання був радист <b>František „Ferry“Peltán</b>. За словами автора, <b>Václav Morávek</b> відзначався неймовірною відвагою. У грудні 1941 року під час перестрілки на вулиці Karlova він випустив по агентах гестапо 200 куль. А в травні 1941 року разом з радистом <b>František Peltán</b> здійснив зухвалий втечу з конспіративної квартири на вулиці Pod Terebkou: спустився по дротяній антені з другого поверху. <b>Josef Mašín</b> у той момент був схоплений гестапо.</p>",
-     "<p>Окрема тема книги - масштабна підпільна мережа. <b>Zpravodajská brigáda</b>, заснована скаутами в листопаді 1940 року, збирала й передавала до Великої Британії тисячі розвідувальних донесень. Її учасникам було від 13 до 16 років. Після загибелі <b>Václav Morávka</b> в березні 1942 року організація виросла до сотень учасників і відіграла ключову роль під час Празького повстання в травні 1945 року. Один з її учасників, радист <b>Jaromír Nechanský</b>, після лютого 1948 року організовував опір комуністичному режиму й був повішений у червні 1950 року.</p>",
-     "<h3>Долі людей «між двох вогнів»</h3>",
-     "<p>Велика частина книги - про складні людські долі та неоднозначні постаті періоду протекторату. Довоєнні криміналісти Bedřich Linhart і Jaroslav Panenka, які були прикомандировані до співпраці з гестапо, врятували Václava Morávka в психіатричній клініці в районі Kateřinky: вивели його з оточення під виглядом колеги-поліцейського. Згодом їхні шляхи розійшлися. Bedřich Linhart схилився до підтримки опору, у липні 1942 року його заарештували, а в жовтні 1944 року стратили в тюрмі Pankrác. Jaroslav Panenka дедалі глибше занурювався в колабораціонізм і брав участь у затриманні борця опору Oldřich Frolík. Після війни його засудили за співпрацю з ворогом і стратили в жовтні 1948 року на цвинтарі в районі Ďáblice.</p>",
-     "<p>Ще одна історія в книзі - діяльність молодіжної угруповання Pátá kolona під керівництвом Václav Engelmüller. У період гейдріхіади вона скотилася до бандитизму й пограбувань банків. Учасників групи заарештували й стратили в липні 1942 року. У виданні піднімаються й питання навколо долі подвійного агента Paul Thümmel: офіційну дату страти, 20 квітня 1945 року в Терезині, ставила під сумнів держбезпека, яка вела його пошуки аж до 1970 року.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Про що нова книга Павла Черного про Вацлава Моравка?",
-      "a": "Видання під назвою Škpt. Václav Morávek a lidé kolem něj висвітлює маловідомих героїв чехословацького опору, учасників операції Anthropoid, а також підпільних помічників, зрадників і людей, які опинилися між двома сторонами конфлікту."
-     },
-     {
-      "q": "Хто входив до підпільної групи «Три королі»?",
-      "a": "Легендарна група опору складалася з Вацлава Моравка, Йозефа Балабана, Йозефа Машина та четвертого учасника - радиста Франтішека «Феррі» Пелтана."
-     },
-     {
-      "q": "Яку роль відіграла Розвідувальна бригада?",
-      "a": "Організація, створена скаутами в 1940 році, збирала й передавала до Британії тисячі розвідувальних зведень і відіграла ключову роль у травневому повстанні 1945 року."
-     }
-    ],
-    "impact": "Книга Павла Черного представляет интерес для любителей чешской истории и не имеет прямых практических или финансовых последствий для повседневной жизни жителей Чехии."
-   },
-   "rank": 33.25,
-   "sources": [
-    {
-     "domain": "media24.cz",
-     "official": false,
-     "url": "https://media24.cz/article/ze-cesi-nebojuji-to-sirily-totalitni-rezimy-hrdiny-mame-hlasi-autor-knih-o-moravkovi",
-     "title": "Že Češi nebojují? To šířily totalitní režimy. Hrdiny máme, hlásí autor knih o Morávkovi - Media24.cz"
-    },
-    {
-     "domain": "inews.sk",
-     "official": false,
-     "url": "https://www.inews.sk/rss/clanok/2026/09/994027/ze-cesi-nebojuji-to-sirily-totalitni-rezimy-hrdiny-mame-hlasi-autor-knih-o-moravkovi/",
-     "title": "Že Češi nebojují? To šířily totalitní režimy. Hrdiny máme, hlásí autor knih o Morávkovi | Inews.sk"
-    },
-    {
-     "domain": "tvspravy.sk",
-     "official": false,
-     "url": "https://www.tvspravy.sk/rss/clanok/2026/09/994027/ze-cesi-nebojuji-to-sirily-totalitni-rezimy-hrdiny-mame-hlasi-autor-knih-o-moravkovi/",
-     "title": "Že Češi nebojují? To šířily totalitní režimy. Hrdiny máme, hlásí autor knih o Morávkovi | Tvspravy.sk"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 3,
-   "image_url": "https://img.24n.cz/p/2026/09/novaia-kniga-pavla-chernogo-raskryvaet-tainy-cheshskogo-otbo-8349afff46f4b9e5.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/09/novaia-kniga-pavla-chernogo-raskryvaet-tainy-cheshskogo-otbo-9b439a73a7b84468.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/09/novaia-kniga-pavla-chernogo-raskryvaet-tainy-cheshskogo-otbo-9b439a73a7b84468.webp",
-     "after": 2,
-     "caption": "Публицист и полицейский инструктор на фоне стены"
-    }
-   ],
-   "image_w": 630,
-   "image_h": 350,
-   "images_wh": [
-    [
-     630,
-     354
-    ]
-   ]
   }
  ]
 }
