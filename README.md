@@ -1,7 +1,8 @@
 # 24n-data — публичное хранилище новостей 24n.cz
 
 Этот **публичный** репозиторий хранит базу новостей сайта [24n.cz](https://24n.cz/)
-и деплоит сайт на хостинг. Код и дизайн сайта — в приватном репозитории
+и собирает полный статический сайт на Cloudflare Workers Assets/R2.
+FTPS отключён и сохранён как резерв. Код и дизайн сайта — в приватном репозитории
 `davnozdu/24n`.
 
 ## Как это работает
@@ -11,11 +12,11 @@
                                   │  push триггерит GitHub Action
                                   ▼
                     .github/workflows/deploy.yml:
-                      1. checkout этого репо (articles.json)
+                      1. checkout этого репо (окно новостей + archive/)
                       2. checkout приватного davnozdu/24n (генератор + scaffold.json)
-                      3. assemble.py: data.json = scaffold.json + articles.json
+                      3. full_articles.py + assemble.py: scaffold + весь архив → data.json
                       4. generate.py → dist/ (включая индекс поиска по заголовкам)
-                      5. lftp FTPS → хостинг (только изменённые файлы, архив цел)
+                      5. SEO-аудит → legacy-страницы → R2 (излишек) → Workers Assets
 ```
 
 Репозиторий публичный → минуты GitHub Actions бесплатны и безлимитны.
@@ -37,3 +38,14 @@
 
 Переменные (Variables): `FTP_SECURE` (по умолч. `true`), `DEPLOY_FORCE_FULL`
 (`true` — разовая полная перезаливка).
+
+## Проверки сборки
+
+`python3 .github/scripts/test_assemble.py` проверяет исправления дат,
+сохранность архива и отказ сборки при повреждённых данных. `lastmod` отражает
+реальную дату обновления, если она позже публикации.
+В CI запускается также `site/tools/check_site.py site/dist`: canonical,
+взаимный hreflang, sitemap, index/noindex, NewsArticle и доступность ассетов.
+Адаптивные WebP-фотографии кешируются между сборками; ошибка загрузки фото
+оставляет оригинал. Перед публикацией проверяется HEAD обоих репозиториев,
+чтобы устаревшая сборка не перезаписала новые новости.

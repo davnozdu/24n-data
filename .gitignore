@@ -8,3 +8,5 @@ __pycache__/
 # Легаси-снимок: качается из релиза в CI, в репозитории ему не место (59 МБ)
 legacy/
 legacy.tar.gz
+
+/full-articles.json

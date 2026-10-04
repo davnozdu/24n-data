@@ -18,7 +18,24 @@ repo `davnozdu/24n` (generator/scaffold.json) + массив `articles` из э�
 import json
 import os
 import sys
+from datetime import datetime, timezone
 from glob import glob
+
+
+def article_lastmod(article):
+    """Keep a genuine correction date instead of always using publication day."""
+    published = article.get("published_at") or ""
+    updated = article.get("updated_at") or ""
+    def parsed(value):
+        try:
+            dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+            return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            return None
+    pub_dt, upd_dt = parsed(published), parsed(updated)
+    if pub_dt and upd_dt and upd_dt > pub_dt:
+        return updated[:10]
+    return published[:10]
 
 
 def _sitemap_urls(repo_root: str, window: list) -> list:
@@ -45,7 +62,7 @@ def _sitemap_urls(repo_root: str, window: list) -> list:
     def take(articles):
         for a in articles:
             slug = (a.get("slug") or "").strip()
-            pub = (a.get("published_at") or "")[:10]
+            pub = article_lastmod(a)
             if slug and pub:
                 urls[slug] = pub
 

@@ -65,6 +65,16 @@ jobs:
       # ВЕСЬ архив, а не окно последних новостей. Хостингу хватает окна —
       # там страницы копятся на сервере; деплой Cloudflare это ПОЛНЫЙ СНИМОК,
       # и собранный из окна снимок стирал 2311 статей, лежащих в срезах.
+      - name: Cache responsive photo variants
+        uses: actions/cache@v4
+        with:
+          path: site/.image-cache
+          key: ${{ runner.os }}-24n-photo-v1-${{ github.run_id }}
+          restore-keys: ${{ runner.os }}-24n-photo-v1-
+
+      - name: Test data assembly
+        run: python3 .github/scripts/test_assemble.py
+
       - name: Collect full article set (archive + window)
         run: python3 .github/scripts/full_articles.py archive articles.json full-articles.json
 
@@ -74,6 +84,9 @@ jobs:
 
       - name: Build static site (data.json → site/dist/)
         run: python3 site/generator/generate.py
+
+      - name: Audit generated SEO and assets
+        run: python3 site/tools/check_site.py site/dist
 
       # 1381 статья (×2 языка) выложена до начала суточного архивирования:
       # данных от них не осталось, generate.py их не собирает. До 19 августа
