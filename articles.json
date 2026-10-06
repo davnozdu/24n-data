@@ -1,8 +1,229 @@
 {
- "updated_at": "2026-10-06T06:14:42+00:00",
+ "updated_at": "2026-10-06T06:46:23+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6709",
+   "slug": "v-prage-muzhchina-pogib-pod-kolesami-metro-na-stantsii-prosek",
+   "source": "nasregion.cz",
+   "original_url": "https://nasregion.cz/na-stanici-prosek-vjelo-metro-do-cloveka-muz-na-miste-zemrel-456065/",
+   "top": false,
+   "tags": [
+    "praha",
+    "kriminal"
+   ],
+   "published_at": "2026-10-06T08:46:22.661672+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "6 октября 2026, 08:46",
+    "uk": "6 жовтня 2026, 08:46"
+   },
+   "ru": {
+    "title": "В Праге мужчина погиб под колёсами метро на станции Prosek",
+    "lede": "В воскресенье вечером на станции Prosek линии C пражского метро мужчина упал на пути и скончался на месте. Движение было прервано почти на два часа.",
+    "meta_description": "В Праге на станции Prosek линии C метро мужчина погиб под поездом. Движение прервано почти на два часа, введены замещающие автобусы.",
+    "paras": [
+     "<p>В воскресенье вечером в Праге произошло трагическое происшествие: мужчина упал на пути метро на станции <b>Prosek</b> линии C и погиб на месте. По предварительным данным полиции, это могло быть самоубийство, но обстоятельства смерти ещё уточняются.</p>",
+     "<p>Спасатели прибыли на место незадолго до 19:00. Пресс-секретарь пражской службы спасения <b>Karel Kirs</b> сообщил, что мужчина, которому было около 45 лет, получил травмы, несовместимые с жизнью. «Он скончался на месте, мы вызвали коронера», сказал <b>Kirs</b>.</p>",
+     "<h3>Движение метро прервано почти на два часа</h3>",
+     "<p>Из-за инцидента движение на участке между станциями <b>Ládví</b> и <b>Letňany</b> было полностью остановлено. Транспортное предприятие Праги постепенно вводило замещающие автобусы для пассажиров. По данным <b>Novinky</b>, движение метро восстановили незадолго до 21:00, однако <b>Deník.cz</b> уточняет, что это произошло уже в 20:50.</p>",
+     "<p>На остальных участках линии C - от <b>Ládví</b> до конечной станции <b>Háje</b> - метро продолжало работать без ограничений.</p>",
+     "<h3>Расхождения в данных</h3>",
+     "<p>Информация о происшествии в разных источниках частично расходится. Так, <b>Novinky</b> называют возраст погибшего около 45 лет, а <b>prazsky.denik.cz</b> - около 70. Кроме того, <b>Deník.cz</b> сообщает, что замещающие автобусы курсировали на участке <b>Nádraží Holešovice - Pražského povstání</b>, тогда как <b>prazsky.denik.cz</b> указывает маршрут <b>Florenc - Lehovec</b>. Есть также разногласия относительно линии метро: большинство изданий пишут о линии C, но <b>prazsky.denik.cz</b> упоминает линию B.</p>",
+     "<p>Пресс-секретарь полиции <b>Jan Daněk</b> заявил, что по первым сведениям мужчина совершил самоубийство, однако полиция продолжает проверять все обстоятельства случившегося.</p>",
+     "<blockquote>«По первым сведениям мужчина совершил самоубийство, однако обстоятельства смерти полицейские продолжают проверять».</blockquote>",
+     "<p>Так прокомментировал ситуацию пресс-секретарь полиции <b>Jan Daněk</b>.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Что произошло в пражском метро на станции Prosek?",
+      "a": "Мужчина упал на пути метро линии C и погиб на месте от полученных травм. По предварительным данным полиции, это могло быть самоубийство, но обстоятельства ещё проверяются."
+     },
+     {
+      "q": "Когда восстановили движение метро после инцидента?",
+      "a": "Движение метро на линии C было восстановлено незадолго до 21:00, по данным Deník.cz - в 20:50."
+     },
+     {
+      "q": "Были ли введены замещающие автобусы?",
+      "a": "Да, транспортное предприятие Праги организовало замещающее автобусное сообщение на пострадавшем участке линии C."
+     },
+     {
+      "q": "Какой возраст погибшего называют источники?",
+      "a": "По данным Novinky, мужчине было около 45 лет, а prazsky.denik.cz сообщает, что ему было около 70 лет."
+     }
+    ],
+    "impact": "Происшествие повлияло на работу общественного транспорта в Праге: движение на линии C метро было прервано почти на два часа, пассажирам предлагались замещающие автобусы. Окончательные выводы о причинах трагедии пока не сделаны.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Мужчина упал на пути метро на станции Prosek линии C и погиб на месте; по предварительным данным полиции, это могло быть самоубийство.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Спасатели прибыли незадолго до 19:00, мужчине было около 45 лет, он получил травмы, несовместимые с жизнью, и был вызван коронер.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Движение между станциями Ládví и Letňany было полностью остановлено, вводились замещающие автобусы, метро восстановили незадолго до 21:00 (по Deník.cz — в 20:50).",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На участке линии C от Ládví до конечной станции Háje метро работало без ограничений.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "коронера",
+       "definition": "Специалист, которого вызывают на место смерти для официальной констатации и разбирательства обстоятельств.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "замещающие автобусы",
+       "definition": "Автобусы, которые транспортное предприятие вводит вместо остановленного участка метро для перевозки пассажиров.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "d0694e409428cdfe7ee564bf2195a8f0ca8bb2d576c1cd785b92e1ee6781837a"
+    }
+   },
+   "uk": {
+    "title": "У Празі чоловік загинув під колесами метро на станції Prosek",
+    "lede": "У неділю ввечері на станції Prosek лінії C празького метро чоловік упав на колії та загинув на місці. Рух було перервано майже на дві години.",
+    "meta_description": "У Празі на станції Prosek лінії C метро чоловік загинув під потягом. Рух перервано майже на дві години, введено замінювальні автобуси.",
+    "paras": [
+     "<p>У неділю ввечері в Празі сталася трагічна подія: чоловік упав на колії метро на станції <b>Prosek</b> лінії C і загинув на місці. За попередніми даними поліції, це могло бути самогубство, але обставини смерті ще уточнюються.</p>",
+     "<p>Рятувальники прибули на місце незадовго до 19:00. Речник празької служби порятунку <b>Karel Kirs</b> повідомив, що чоловік, якому було близько 45 років, отримав травми, несумісні з життям. «Він помер на місці, ми викликали коронера», сказав <b>Kirs</b>.</p>",
+     "<h3>Рух метро перервано майже на дві години</h3>",
+     "<p>Через інцидент рух на ділянці між станціями <b>Ládví</b> і <b>Letňany</b> було повністю зупинено. Транспортне підприємство Праги поступово вводило замінювальні автобуси для пасажирів. За даними <b>Novinky</b>, рух метро відновили незадовго до 21:00, однак <b>Deník.cz</b> уточнює, що це сталося вже о 20:50.</p>",
+     "<p>На інших ділянках лінії C, від <b>Ládví</b> до кінцевої станції <b>Háje</b>, метро продовжувало працювати без обмежень.</p>",
+     "<h3>Розбіжності в даних</h3>",
+     "<p>Інформація про подію в різних джерелах частково розходиться. Так, <b>Novinky</b> називають вік загиблого близько 45 років, а <b>prazsky.denik.cz</b> - близько 70. Крім того, <b>Deník.cz</b> повідомляє, що замінювальні автобуси курсували на ділянці <b>Nádraží Holešovice - Pražského povstání</b>, тоді як <b>prazsky.denik.cz</b> вказує маршрут <b>Florenc - Lehovec</b>. Є також розбіжності щодо лінії метро: більшість видань пишуть про лінію C, але <b>prazsky.denik.cz</b> згадує лінію B.</p>",
+     "<p>Речник поліції <b>Jan Daněk</b> заявив, що за першими відомостями чоловік скоїв самогубство, однак поліція продовжує перевіряти всі обставини того, що сталося.</p>",
+     "<blockquote>«За першими відомостями чоловік скоїв самогубство, однак обставини смерті поліцейські продовжують перевіряти».</blockquote>",
+     "<p>Так прокоментував ситуацію речник поліції <b>Jan Daněk</b>.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Що сталося в празькому метро на станції Prosek?",
+      "a": "Чоловік упав на колії метро лінії C і загинув на місці від отриманих травм. За попередніми даними поліції, це могло бути самогубство, але обставини ще перевіряються."
+     },
+     {
+      "q": "Коли відновили рух метро після інциденту?",
+      "a": "Рух метро на лінії C було відновлено незадовго до 21:00, за даними Deník.cz - о 20:50."
+     },
+     {
+      "q": "Чи були введені замінювальні автобуси?",
+      "a": "Так, транспортне підприємство Праги організувало замінювальне автобусне сполучення на постраждалій ділянці лінії C."
+     },
+     {
+      "q": "Який вік загиблого називають джерела?",
+      "a": "За даними Novinky, чоловікові було близько 45 років, а prazsky.denik.cz повідомляє, що йому було близько 70 років."
+     }
+    ],
+    "impact": "Происшествие повлияло на работу общественного транспорта в Праге: движение на линии C метро было прервано почти на два часа, пассажирам предлагались замещающие автобусы. Окончательные выводы о причинах трагедии пока не сделаны.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У неділю ввечері чоловік упав на колії метро на станції Prosek лінії C і загинув на місці.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "За попередніми даними поліції, це могло бути самогубство, але обставини смерті ще уточнюються.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Через інцидент рух на ділянці між станціями Ládví і Letňany було повністю зупинено, а метро відновили незадовго до 21:00.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Інформація про подію в різних джерелах частково розходиться щодо віку загиблого, маршрутів замінювальних автобусів і лінії метро.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "коронера",
+       "definition": "Службовця, який офіційно встановлює причину смерті.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "замінювальні автобуси",
+       "definition": "Автобуси, які транспортне підприємство вводить замість зупиненого руху метро.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "f6a646dcaa5d5ece5d72fab9008425837f121e87f056503100e38a6f0603ca12"
+    }
+   },
+   "rank": 105.0,
+   "sources": [
+    {
+     "domain": "prazsky.denik.cz",
+     "official": false,
+     "url": "https://prazsky.denik.cz/krimi/pad-cloveka-do-kolejiste-zastavil-provoz-metra-na-casti-linky-b/",
+     "title": "Pád člověka do kolejiště zastavil provoz metra linky B. Muž zemřel – Pražský deník"
+    },
+    {
+     "domain": "denik.cz",
+     "official": false,
+     "url": "https://www.denik.cz/nehody/metro-c-v-centru-prahy-zastavilo-stretnuti-soupravy-s-clovekem-20250625.html",
+     "title": "Provoz pražského metra přerušil pád muže do kolejiště. Ten na místě zemřel - Deník.cz"
+    },
+    {
+     "domain": "atlas.centrum.cz",
+     "official": false,
+     "url": "https://atlas.centrum.cz/clanek/ve-stanici-metra-namesti-miru-spadl-pod-vlak-mlady-muz-na-miste-zemrel-241093",
+     "title": "Ve stanici metra Náměstí Míru spadl pod vlak mladý muž, na místě zemřel"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 3
+  },
   {
    "id": "n6708",
    "slug": "ogranichenie-kratkosrochnoi-arendy-chekhiia-airbnb",
@@ -16,8 +237,8 @@
    ],
    "published_at": "2026-10-06T08:14:42.046680+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "6 октября 2026, 08:14",
@@ -325,8 +546,8 @@
    ],
    "published_at": "2026-10-06T07:41:43.231568+02:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "6 октября 2026, 07:41",
@@ -551,8 +772,8 @@
    ],
    "published_at": "2026-10-06T07:41:43.231568+02:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "6 октября 2026, 07:41",
@@ -951,8 +1172,8 @@
    ],
    "published_at": "2026-10-06T06:35:28.357147+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "6 октября 2026, 06:35",
@@ -1276,8 +1497,8 @@
    ],
    "published_at": "2026-10-06T06:35:28.357147+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "6 октября 2026, 06:35",
@@ -1953,8 +2174,8 @@
    ],
    "published_at": "2026-10-06T05:28:46.888637+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "6 октября 2026, 05:28",
@@ -2132,7 +2353,7 @@
      "body_sha256": "665fc7c692b620de9746d98c5577345ab1e798aac96c6ce78f0f787f85f6072e"
     }
    },
-   "rank": 90.0
+   "rank": 89.618
   },
   {
    "id": "n6699",
@@ -2382,7 +2603,7 @@
      "body_sha256": "e0e376959b6984d0120bb616dba4abe1eefd4c6eaf2463521810dea08f718e90"
     }
    },
-   "rank": 94.545,
+   "rank": 93.82,
    "sources": [
     {
      "domain": "metro.cz",
@@ -2537,7 +2758,7 @@
      "body_sha256": "9abacdf3603073b4254faa862d5b91164fe940af8751a001a48de5b8e68214f1"
     }
    },
-   "rank": 88.573,
+   "rank": 87.895,
    "sources": [
     {
      "domain": "fnmotol.cz",
@@ -2888,7 +3109,7 @@
      "body_sha256": "a0eece0b6f41f3a11e7e25f62e7be4f5758ffe5cef4b1955d33a6b043fb7bdb1"
     }
    },
-   "rank": 104.497
+   "rank": 103.696
   },
   {
    "id": "n6695",
@@ -2903,8 +3124,8 @@
    ],
    "published_at": "2026-10-06T04:27:16.268841+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "6 октября 2026, 04:27",
@@ -3159,7 +3380,7 @@
      "body_sha256": "8f06d9ffe2c5d5094a1c7530d27de0975a51415eb8d763fe3ee54d7c03b53723"
     }
    },
-   "rank": 108.744,
+   "rank": 107.905,
    "image_url": "https://img.24n.cz/p/2026/10/energeticheskaia-bednost-v-chekhii-million-zhitelei-pod-ugro-84c90df1bdbd254b.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/energeticheskaia-bednost-v-chekhii-million-zhitelei-pod-ugro-5bfb644e3ee5ac8e.webp"
@@ -3410,8 +3631,8 @@
    ],
    "published_at": "2026-10-06T03:16:15.170596+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "6 октября 2026, 03:16",
@@ -3659,7 +3880,7 @@
      "body_sha256": "c4c9740e8e5bc48f20319ccf67c772be11857413f147589b9b29d9aa405a3201"
     }
    },
-   "rank": 102.006
+   "rank": 101.205
   },
   {
    "id": "n6692",
@@ -3673,8 +3894,8 @@
    ],
    "published_at": "2026-10-06T03:16:15.170596+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "6 октября 2026, 03:16",
@@ -3947,7 +4168,7 @@
      "body_sha256": "6ae096c9455401a48b01e13ad8ac065789a9a909e399d80c76366e447942cdb4"
     }
    },
-   "rank": 81.604,
+   "rank": 80.964,
    "sources": [
     {
      "domain": "rakovnicky.denik.cz",
@@ -3987,8 +4208,8 @@
    ],
    "published_at": "2026-10-06T02:43:00.445249+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "6 октября 2026, 02:43",
@@ -4258,7 +4479,7 @@
      "body_sha256": "c5e495f1bb8629b3f068b9e20970fe9e7450c1268e887c80f0c2296665c2c921"
     }
    },
-   "rank": 109.837,
+   "rank": 108.967,
    "sources": [
     {
      "domain": "domacipolitika.cz",
@@ -4471,7 +4692,7 @@
      "body_sha256": "cb02fa93fa0c123deb0da898bac411d9f56a80ba1da88e9e24fe48ff370f49d5"
     }
    },
-   "rank": 90.852,
+   "rank": 90.127,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -4800,7 +5021,7 @@
      "body_sha256": "276c3348fb3288118594288fe28ddfecfb582ef77ce3ccc68b8928df1c59a0db"
     }
    },
-   "rank": 123.367,
+   "rank": 122.383,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -5033,7 +5254,7 @@
      "body_sha256": "4cc446784e3cbd2ae235739b24efc66e582f42573aef54ca6b44b83369d47e62"
     }
    },
-   "rank": 90.852,
+   "rank": 90.127,
    "image_url": "https://img.24n.cz/p/2026/10/deti-iz-klokanek-v-prage-pereezzhaiut-v-novoe-zhile-9d02629903a608f8.webp",
    "image_w": 1366,
    "image_h": 910
@@ -5181,7 +5402,7 @@
     ],
     "impact": "Для соискателей и работодателей в Чехии Jobs.cz остаётся одним из ключевых инструментов поиска работы и персонала. Внедрение искусственного интеллекта может упростить подбор вакансий, но окончательное решение о найме всегда будет оставаться за человеком. Изменения в API-подключениях, согласованные с антимонопольным ведомством в 2025 году, могут повлиять на работу сторонних рекрутинговых систем, интегрированных с порталом."
    },
-   "rank": 83.201,
+   "rank": 82.538,
    "sources": [
     {
      "domain": "podcasty.info",
@@ -5524,7 +5745,7 @@
      "body_sha256": "60141bc95ceed67648f30210e042271a3eab8ec3a50d497cdaeebfb8837e5786"
     }
    },
-   "rank": 114.76,
+   "rank": 113.845,
    "sources": [
     {
      "domain": "prazska.drbna.cz",
@@ -5560,8 +5781,8 @@
    ],
    "published_at": "2026-10-06T01:36:08.323926+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "6 октября 2026, 01:36",
@@ -5747,7 +5968,7 @@
      "body_sha256": "4445da28e492b3a42d7dc70a16488adc8ab02099b3b15a2359880c8dae4efde9"
     }
    },
-   "rank": 101.37,
+   "rank": 100.554,
    "sources": [
     {
      "domain": "press.news",
@@ -6044,7 +6265,7 @@
      "body_sha256": "f0302275c1d465249b95396c9a553db042bee533814711b0b94c942eb5d88e2f"
     }
    },
-   "rank": 79.844
+   "rank": 79.196
   },
   {
    "id": "n6683",
@@ -6478,7 +6699,7 @@
      "body_sha256": "1dfcfd686229d397c4956c923642dfd0b315186350a48df625da65a6d97b42d4"
     }
    },
-   "rank": 89.581,
+   "rank": 88.841,
    "sources": [
     {
      "domain": "media24.cz",
@@ -6713,7 +6934,7 @@
      "body_sha256": "8ce6418a71693c9d004f7e7dbdb77c9ef552cbc14ab8b2604e71b8198095a829"
     }
    },
-   "rank": 79.575
+   "rank": 78.889
   },
   {
    "id": "n6680",
@@ -6863,7 +7084,7 @@
      "body_sha256": "3beefab1621a5fd051121935b18b5ab457f22981cb62eac1da4af4f91bc2cfb4"
     }
    },
-   "rank": 90.185,
+   "rank": 89.407,
    "sources": [
     {
      "domain": "europesays.com",
@@ -7098,7 +7319,7 @@
      "body_sha256": "006c4ca36dc064126bb1ec011d8a73996ca7d4bc9e54e4fed37de8c05a6172d8"
     }
    },
-   "rank": 92.838,
+   "rank": 92.037,
    "image_url": "https://img.24n.cz/p/2026/10/bezrabotitsa-v-chekhii-rastet-sredi-molodezhi-bez-srednego-o-ddbcdafb93451b96.webp",
    "image_w": 1200,
    "image_h": 675
@@ -7191,7 +7412,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 74.005
+   "rank": 73.364
   },
   {
    "id": "n6677",
@@ -7206,8 +7427,8 @@
    ],
    "published_at": "2026-10-05T20:42:00.696250+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 20:42",
@@ -7407,7 +7628,7 @@
      "body_sha256": "4e2b966ba209a5c67b26c63cf90223c060781bf92db4cc90723a53968eb1aecd"
     }
    },
-   "rank": 78.891,
+   "rank": 78.205,
    "image_url": "https://img.24n.cz/p/2026/10/novyi-cheshskii-film-prinaia-zvezda-pokazhet-iznanku-kukhni-181165efc4262af5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/novyi-cheshskii-film-prinaia-zvezda-pokazhet-iznanku-kukhni-fc7f504cc3093aa4.webp",
@@ -7460,8 +7681,8 @@
    ],
    "published_at": "2026-10-05T20:42:00.696250+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 20:42",
@@ -7657,7 +7878,7 @@
      "body_sha256": "8141108dac6b06d24b8ad289c71a4a4977518e8775f29dde3da46c84e12fbca6"
     }
    },
-   "rank": 78.891,
+   "rank": 78.205,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-spasli-muzhchinu-kotoryi-khotel-sprygnut-so-skaly-922f11f9ec7bee60.webp",
    "image_w": 1200,
    "image_h": 800
@@ -7675,8 +7896,8 @@
    ],
    "published_at": "2026-10-05T20:42:00.696250+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 20:42",
@@ -7822,7 +8043,7 @@
      "body_sha256": "e3f914fc29ed64e08770a6130a85389e6fa639dc63842221328fea9ea148deba"
     }
    },
-   "rank": 92.04
+   "rank": 91.239
   },
   {
    "id": "n6674",
@@ -8045,7 +8266,7 @@
      "body_sha256": "aae81f1e0d9be8edb5189912e62c78460937cd6eb79c89a098b4ea38300390f3"
     }
    },
-   "rank": 95.677,
+   "rank": 94.839,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -8340,7 +8561,7 @@
      "body_sha256": "e41018eec1927e0c77e12eeafcf3bc2172cb3965f9294e3fc5c15e9b16e4f3f0"
     }
    },
-   "rank": 82.631,
+   "rank": 81.906,
    "sources": [
     {
      "domain": "mk.gov.cz",
@@ -8650,7 +8871,7 @@
      "body_sha256": "6cce5878d2de35901233c0ee5bec79c46e0b1c8df8410f279d99721a258f2e7b"
     }
    },
-   "rank": 82.631,
+   "rank": 81.906,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/kfNZZohoH3M"
@@ -8667,8 +8888,8 @@
    ],
    "published_at": "2026-10-05T18:46:10.711804+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 18:46",
@@ -8712,7 +8933,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 69.592,
+   "rank": 68.967,
    "forecast": true
   },
   {
@@ -8922,7 +9143,7 @@
      "body_sha256": "5812ebf517390eec456447ccef15a9d06a4b0228137d03c0fa53a88660bf3d88"
     }
    },
-   "rank": 87.942
+   "rank": 87.141
   },
   {
    "id": "n6669",
@@ -9097,7 +9318,7 @@
      "body_sha256": "0a9a7a3a8dd7d6fe5df1d992f812816d9c0a55bc48beb7ee6a3075d7cc0f2c9b"
     }
    },
-   "rank": 54.44,
+   "rank": 53.945,
    "image_url": "https://img.24n.cz/p/2026/10/legendarnyi-splav-po-ruchiu-vavrinec-proidet-v-vykhodnye-ecfcc896d2343c2c.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/legendarnyi-splav-po-ruchiu-vavrinec-proidet-v-vykhodnye-56995d2e9afe4c86.webp"
@@ -9323,7 +9544,7 @@
      "body_sha256": "1bb581bae724e2d155799c31f691494d8ae7d6511e6917a405e71f3cbc61d10f"
     }
    },
-   "rank": 54.44,
+   "rank": 53.945,
    "image_url": "https://img.24n.cz/p/2026/10/prazhskaia-zvonnitsa-otkryvaet-mrachnye-tainy-sovetskoi-epok-c378d2a80a7528ed.webp",
    "image_w": 1366,
    "image_h": 910
@@ -9341,8 +9562,8 @@
    ],
    "published_at": "2026-10-05T17:26:51.390049+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 17:26",
@@ -9595,7 +9816,7 @@
      "body_sha256": "fa0cbd356a7ddac501184c1e8c7df7b670c3dfd13d03cb88184b25ce00ca64da"
     }
    },
-   "rank": 88.321
+   "rank": 88.005
   },
   {
    "id": "n6666",
@@ -9609,8 +9830,8 @@
    ],
    "published_at": "2026-10-05T17:26:51.390049+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 17:26",
@@ -9905,7 +10126,7 @@
      "body_sha256": "9844cfc8116a6c20941a7a50f4c093b548ac27cad4138dea28efbcb15a7538df"
     }
    },
-   "rank": 87.107,
+   "rank": 86.306,
    "sources": [
     {
      "domain": "blog.root.cz",
@@ -10139,7 +10360,7 @@
      "body_sha256": "d9a167aed786767601bea0e244357b6b042fce3d03ae0c6ec3253769d870e128"
     }
    },
-   "rank": 69.909,
+   "rank": 69.26,
    "image_url": "https://img.24n.cz/p/2026/10/iz-detskikh-platev-dlia-kukol-v-modu-iz-otkhodov-istoriia-br-1ec8053c2c7bb7d2.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/iz-detskikh-platev-dlia-kukol-v-modu-iz-otkhodov-istoriia-br-486c985fd47c5b5c.webp",
@@ -10356,7 +10577,7 @@
      "body_sha256": "a3fcb6d6ebe910dd91aaa52e2f91c47bbb4ab55d1fb9f3641ba00671a2ab7540"
     }
    },
-   "rank": 82.245,
+   "rank": 81.483,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-pokazali-interery-budushchei-filarmonii-na-vltave-59a2706de12be41f.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-pokazali-interery-budushchei-filarmonii-na-vltave-c2396faf0ab39366.webp",
@@ -10594,7 +10815,7 @@
      "body_sha256": "5579e69ec70c71451ecea2bf30c88ccb254fa015ed266fc88c7fcca4911f3cd7"
     }
    },
-   "rank": 53.459,
+   "rank": 52.964,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-otkrylos-novoe-bistro-pomalu-pomalu-9f2c2b8cb9522ef3.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-otkrylos-novoe-bistro-pomalu-pomalu-84dd372c2acfad78.webp"
@@ -10628,8 +10849,8 @@
    ],
    "published_at": "2026-10-05T15:16:43.780125+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 15:16",
@@ -10833,7 +11054,7 @@
      "body_sha256": "b4383bebe6d119cf65e0761ae3e0c0dc604234781678d44d7aadfe09e9992ffb"
     }
    },
-   "rank": 91.8,
+   "rank": 90.923,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-obsuzhdaiut-shirokie-koalitsii-posle-vyborov-kto-s-k-07c94f0549a58890.webp",
    "image_w": 1200,
    "image_h": 675
@@ -10851,8 +11072,8 @@
    ],
    "published_at": "2026-10-05T15:16:43.780125+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 15:16",
@@ -11037,7 +11258,7 @@
      "body_sha256": "5f8c4b9eaa2b6c0cdd2c4c5a68925211a4a76e47ac4e77bbf385151d4a4aed75"
     }
    },
-   "rank": 79.826
+   "rank": 79.064
   },
   {
    "id": "n6660",
@@ -11051,8 +11272,8 @@
    ],
    "published_at": "2026-10-05T13:43:18.415664+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 13:43",
@@ -11220,7 +11441,7 @@
      "body_sha256": "24869f19dfa2e2b845e39e57a11e283e0256e88ec2cc6570ca665516ba1777e9"
     }
    },
-   "rank": 73.651,
+   "rank": 73.38,
    "sources": [
     {
      "domain": "media24.cz",
@@ -11435,7 +11656,7 @@
      "body_sha256": "8266ac8116343818c41e7d25f02344ed84252951ab8008e1cba3fbe10c16e0ef"
     }
    },
-   "rank": 68.349,
+   "rank": 67.67,
    "sources": [
     {
      "domain": "inews.sk",
@@ -11604,7 +11825,7 @@
      "body_sha256": "73d537490fcbb33007a7a87d650c633b6a2ed92015b4f6d961669e4aad56dbbb"
     }
    },
-   "rank": 72.572,
+   "rank": 71.852,
    "sources": [
     {
      "domain": "metro.cz",
@@ -11792,7 +12013,7 @@
      "body_sha256": "3c06e6e96bf33fb7bab66ac92ffbe9117b96dad39dfefb9218ec579b038d1c12"
     }
    },
-   "rank": 80.636
+   "rank": 79.835
   },
   {
    "id": "n6656",
@@ -11806,8 +12027,8 @@
    ],
    "published_at": "2026-10-05T12:41:28.860383+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 12:41",
@@ -11980,7 +12201,7 @@
      "body_sha256": "29bdcf1f6f9e8ff8829db4b88bde90dbd27bbc4b60b0a39cde97ed19ddadd00d"
     }
    },
-   "rank": 83.698,
+   "rank": 82.859,
    "sources": [
     {
      "domain": "tv.idnes.cz",
@@ -12056,8 +12277,8 @@
    ],
    "published_at": "2026-10-05T12:41:28.860383+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "5 октября 2026, 12:41",
@@ -12230,7 +12451,7 @@
      "body_sha256": "35a4647c40a68728aebd8b02c9da4fcae6a91cdd8b65b0f01ad5be88a75dae4f"
     }
    },
-   "rank": 77.611,
+   "rank": 76.833,
    "sources": [
     {
      "domain": "moravskoslezsky.denik.cz",
@@ -12538,7 +12759,7 @@
      "body_sha256": "96b867a01873a8e7f439104ce7576f7c71ddde382aa9718f63f4276a8cb75539"
     }
    },
-   "rank": 71.642
+   "rank": 70.917
   },
   {
    "id": "n6653",
@@ -12696,7 +12917,7 @@
      "body_sha256": "2906f5fbc4982106c97396149282390c1ded9a2ec12ae337f1faa3a51931b834"
     }
    },
-   "rank": 76.921,
+   "rank": 76.143,
    "sources": [
     {
      "domain": "homerlive.cz",
@@ -12842,7 +13063,7 @@
      "body_sha256": "94d2df827b9cdf98ed1b6a1e4f71067383774a56b2989a9d4dc738225b820303"
     }
    },
-   "rank": 84.462,
+   "rank": 83.608,
    "sources": [
     {
      "domain": "cuni.cz",
@@ -12886,8 +13107,8 @@
    ],
    "published_at": "2026-10-05T11:34:21.156921+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "5 октября 2026, 11:34",
@@ -13063,7 +13284,7 @@
      "body_sha256": "c324d1f5d0a9cc8aa2549fc61023cc34d4145b89925bafa843da11cd9de8a737"
     }
    },
-   "rank": 74.473,
+   "rank": 73.71,
    "image_url": "https://img.24n.cz/p/2026/10/predvybornye-materialy-ano-nashli-v-cheshskom-detskom-sadu-k-308cfbc39e9490dc.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13249,7 +13470,7 @@
      "body_sha256": "35ae02c9ce165df1cd3d787a726342fbf2fa04c39f3fe66d721e7d87673ecc0b"
     }
    },
-   "rank": 87.793,
+   "rank": 86.886,
    "sources": [
     {
      "domain": "m.blisty.cz",
@@ -13511,7 +13732,7 @@
      "body_sha256": "c8a1eebc5f8e085cfc2fc7309728ad29cbd0821bf749358fd1d38a9c39db5665"
     }
    },
-   "rank": 70.087,
+   "rank": 69.363,
    "image_url": "https://img.24n.cz/p/2026/10/pochemu-ia-ushla-ot-piratov-raznoglasiia-s-hrib-i-kritika-pa-8bfc50e93e691b59.webp",
    "image_w": 1366,
    "image_h": 910
@@ -13704,7 +13925,7 @@
      "body_sha256": "9577e34bb8f7206b5e8caade058ce19ecc694d90202726a3d0278110563caa40"
     }
    },
-   "rank": 75.82,
+   "rank": 75.02,
    "image_url": "https://img.24n.cz/p/2026/10/iarmarka-shkol-v-prage-meniaet-propisku-posle-etogo-goda-5b57628c505a495a.webp",
    "image_w": 750,
    "image_h": 300
@@ -13886,7 +14107,7 @@
      "body_sha256": "5a406fc85541bee82301826aec1e808aa83626a82442e1bf29714ba34908ea93"
     }
    },
-   "rank": 83.041
+   "rank": 82.164
   },
   {
    "id": "n6646",
@@ -14084,7 +14305,7 @@
      "body_sha256": "9d3b7b4c6326db3ef1a0faf229ec030c510dd6cc0d06af08b0a5e56c8a27bd29"
     }
    },
-   "rank": 70.665
+   "rank": 69.902
   },
   {
    "id": "n6645",
@@ -14099,8 +14320,8 @@
    ],
    "published_at": "2026-10-05T08:25:00.220025+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "5 октября 2026, 08:25",
@@ -14273,7 +14494,7 @@
      "body_sha256": "6938156e86ed0206360be516bfd580e4df6f44f26b6ff9c644a66e90ba7d250e"
     }
    },
-   "rank": 62.923
+   "rank": 62.237
   },
   {
    "id": "n6644",
@@ -14287,8 +14508,8 @@
    ],
    "published_at": "2026-10-05T08:25:00.220025+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "5 октября 2026, 08:25",
@@ -14446,7 +14667,7 @@
      "body_sha256": "c12e6d9627b1c0c684563afcb1169ea98821dd93a3e50d346482c336d21639e9"
     }
    },
-   "rank": 94.384,
+   "rank": 93.355,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -14621,7 +14842,7 @@
      "body_sha256": "1d69f8d4244bf08cd752fc8dc803341834f4954dd283f2ffc65e1d75ebabd6b2"
     }
    },
-   "rank": 72.511
+   "rank": 71.711
   },
   {
    "id": "n6642",
@@ -14920,7 +15141,7 @@
      "body_sha256": "e79f5af0c666786c4402543d64ba4f64f4fb1136916c6c883d75eba28dbbd207"
     }
    },
-   "rank": 65.605
+   "rank": 64.881
   },
   {
    "id": "n6641",
@@ -15174,7 +15395,7 @@
      "body_sha256": "8f4ad0eecfff5737bca6614518dfdd01d22ca9ed63f432b9e6158be660eb4bed"
     }
    },
-   "rank": 68.368,
+   "rank": 67.613,
    "sources": [
     {
      "domain": "komoraplus.cz",
@@ -15439,7 +15660,7 @@
      "body_sha256": "779be484c375a0491544c62c943e7775d08d198b8594ff6fd654b47368e0ca45"
     }
    },
-   "rank": 56.054,
+   "rank": 55.428,
    "sources": [
     {
      "domain": "sport.ceskatelevize.cz",
@@ -15604,7 +15825,7 @@
      "body_sha256": "ca01420c71f535842a34b71597184186ec2aa41321aa632b668cd0fc60d1cb01"
     }
    },
-   "rank": 61.522,
+   "rank": 60.836,
    "image_url": "https://img.24n.cz/p/2026/10/sud-po-delu-dozimetr-doprashivaet-novykh-kliuchevykh-svidete-6fb9924fe1739393.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/sud-po-delu-dozimetr-doprashivaet-novykh-kliuchevykh-svidete-77341b691e06581b.webp",
@@ -15882,7 +16103,7 @@
      "body_sha256": "ff738b0aa0a1d46fd51548a1169c9f056c408f958dad65b15d62ea2593441716"
     }
    },
-   "rank": 61.522,
+   "rank": 60.836,
    "image_url": "https://img.24n.cz/p/2026/10/kak-plzen-sozdala-legendarnoe-pivo-pilsner-urquell-ot-skanda-2365e7f3edeb0224.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/kak-plzen-sozdala-legendarnoe-pivo-pilsner-urquell-ot-skanda-5efff72b35283d0e.webp",
@@ -16173,7 +16394,7 @@
      "body_sha256": "ce37afdeb935e44654132c746a012e24b59ebffdc4fc007424264985acc7120c"
     }
    },
-   "rank": 45.221,
+   "rank": 44.71,
    "sources": [
     {
      "domain": "hithit.com",
@@ -16453,7 +16674,7 @@
      "body_sha256": "2bb00f38b480144b712c0fa440d66a9926e87651ba445e64926781cc5213bbbc"
     }
    },
-   "rank": 86.447,
+   "rank": 86.113,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-otstaivaet-svoi-krupnye-agrokholdingi-pered-briusse-3599106e945b7db8.webp",
    "image_w": 1200,
    "image_h": 675
@@ -16603,7 +16824,7 @@
      "body_sha256": "e2e4a70d22215d87749607a0e4e4716efb95667206c3c3005a1a007247724e54"
     }
    },
-   "rank": 86.447,
+   "rank": 86.113,
    "image_url": "https://img.24n.cz/p/2026/10/lego-downton-abbey-cheshskii-dizainer-novyi-nabor-v-prodazhe-f318e2df8bf68e70.webp",
    "images": [
     "https://cc.cz/wp-content/uploads/fly-images/575776/lego-downton-06-820x512-c.jpg"
@@ -16843,7 +17064,7 @@
      "body_sha256": "ca9e7df98535468da47c3d2a41315e5104e82a1f86f2a53612b2ff8e2909fe81"
     }
    },
-   "rank": 57.369
+   "rank": 56.721
   },
   {
    "id": "n6633",
@@ -16973,7 +17194,7 @@
      "body_sha256": "d89a04c3760ee58bc3018b22f8e4a15f361eb2bd09c94dcb423b6c6a304d554d"
     }
    },
-   "rank": 50.05,
+   "rank": 49.478,
    "image_url": "https://img.24n.cz/p/2026/10/vandaly-isportili-pamiatnik-arkhitektury-iaitsami-v-klatovak-e70a31945972c2c6.webp",
    "image_w": 1200,
    "image_h": 675
@@ -17135,7 +17356,7 @@
      "body_sha256": "9d4a1d923410b5c4fb1d040560a690422fb7f9f807328881b3ecada2b3b7977c"
     }
    },
-   "rank": 74.742,
+   "rank": 73.887,
    "sources": [
     {
      "domain": "zivotvcesku.cz",
@@ -17433,7 +17654,7 @@
      "body_sha256": "662e9fcc3459fe555e528aaa874b86638c04a24dd0a0ccfe499dc15e95435062"
     }
    },
-   "rank": 55.445,
+   "rank": 54.796,
    "image_url": "https://img.24n.cz/p/2026/10/chto-posmotret-v-litomishle-za-odin-den-gid-po-gorodu-c3f574b737303874.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/chto-posmotret-v-litomishle-za-odin-den-gid-po-gorodu-8700d6b33cd126bb.webp",
@@ -17657,7 +17878,7 @@
      "body_sha256": "6f5aa20a1b33f2667880405df9521ba795f999fa3a6a5a326b201448b541adc5"
     }
    },
-   "rank": 65.229
+   "rank": 64.466
   },
   {
    "id": "n6629",
@@ -17927,7 +18148,7 @@
      "body_sha256": "efddd4938f3428d6ce0e546a59ca919559b56448a3dd1497b0ac6f094341d509"
     }
    },
-   "rank": 46.965,
+   "rank": 46.416,
    "sources": [
     {
      "domain": "english.radio.cz",
@@ -18184,7 +18405,7 @@
      "body_sha256": "b26db6a458698bb8a666767e15aed13d5e5559346f1f3081dcf03b154f90a3b6"
     }
    },
-   "rank": 57.971,
+   "rank": 57.285,
    "image_url": "https://img.24n.cz/p/2026/10/3d-pechat-v-meditsine-chekhii-kak-protezy-stanoviatsia-proiz-3a84fd3937c4bbd7.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/3d-pechat-v-meditsine-chekhii-kak-protezy-stanoviatsia-proiz-0b47d079611564f3.webp",
@@ -18380,7 +18601,7 @@
      "body_sha256": "d539a90456da621ff3fa11e7e4371ab9043dc119f5eebb2c4cc7b0c772e90ef4"
     }
    },
-   "rank": 47.788,
+   "rank": 47.216,
    "image_url": "https://img.24n.cz/p/2026/10/luchshie-skanzeny-v-cesku-kuda-poekhat-vsei-semei-62d117406806f86c.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/luchshie-skanzeny-v-cesku-kuda-poekhat-vsei-semei-79c2e164483efe0c.webp",
@@ -18713,7 +18934,7 @@
      "body_sha256": "8440be549c183e2aa1f22c82d52fde138e7e7bde8104fadcf7dfa517ca1efa6d"
     }
    },
-   "rank": 66.001,
+   "rank": 65.2,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-lidiruet-v-es-po-potrebleniiu-antibiotikov-v-bolnit-efda924814596628.webp",
    "image_w": 620,
    "image_h": 349
@@ -18896,7 +19117,7 @@
      "body_sha256": "066534912ad54acfb94ea6b6e53acf3223bf21ac97c7b2dc95ca4bb1df765615"
     }
    },
-   "rank": 65.091,
+   "rank": 64.29,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -19141,7 +19362,7 @@
      "body_sha256": "35386fe10887030494e1450f99524612e3810a8be4a99405aa625651b287fce0"
     }
    },
-   "rank": 92.499,
+   "rank": 92.13,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -19413,7 +19634,7 @@
      "body_sha256": "15cc45731912815285e530715e46f86825eb8b4c5672a2c7f5a191bf9517599c"
     }
    },
-   "rank": 48.964
+   "rank": 48.354
   },
   {
    "id": "n6622",
@@ -19595,7 +19816,7 @@
      "body_sha256": "3975b1c2c3beb042010f38cbf29acf84aca0a52b59e0d199d959ee00f67e2326"
     }
    },
-   "rank": 66.714,
+   "rank": 65.882,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -19847,7 +20068,7 @@
      "body_sha256": "02604eecfa8935bdbaf88ed6f6c7d5d20ee2289ef7a26386325c0b27121056a6"
     }
    },
-   "rank": 76.506,
+   "rank": 75.553,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -20040,7 +20261,7 @@
      "body_sha256": "397b0d9dc2b2f298d087f3efc6d43287c5702ebd745cd24139ecec1940b1da62"
     }
    },
-   "rank": 58.519,
+   "rank": 57.779,
    "sources": [
     {
      "domain": "english.radio.cz",
@@ -20295,7 +20516,7 @@
      "body_sha256": "3b5733eb1d07b3971089516dd4e8a5d5a5a897d352c6a4c88679649f92dd95b2"
     }
    },
-   "rank": 65.51,
+   "rank": 64.671,
    "sources": [
     {
      "domain": "tsk-praha.cz",
@@ -20511,7 +20732,7 @@
      "body_sha256": "dde4824c0a4e856cb1bac345473ce89b627b4d3cbe58fffea7b692db9959131d"
     }
    },
-   "rank": 60.95,
+   "rank": 60.149,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -20767,7 +20988,7 @@
      "body_sha256": "08a3dfde0cb1a502d345affe2e389f63a0b0fa432de89819ecdd39e4380f4a27"
     }
    },
-   "rank": 47.52,
+   "rank": 46.879,
    "sources": [
     {
      "domain": "media24.cz",
@@ -21004,7 +21225,7 @@
      "body_sha256": "88ae980064f757779d65afcb87d77c9139c94cf6208cd93d48e557fce359665d"
     }
    },
-   "rank": 61.663,
+   "rank": 60.831,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -21246,7 +21467,7 @@
      "body_sha256": "28dbc32c8226789601731859d524c408f5a47af0045b85e628e45f410e6e4e44"
     }
    },
-   "rank": 57.164,
+   "rank": 56.371,
    "sources": [
     {
      "domain": "newstream.cz",
@@ -21371,7 +21592,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 44.922
+   "rank": 44.282
   },
   {
    "id": "n6613",
@@ -21540,7 +21761,7 @@
      "body_sha256": "2918eb2147263ad112f4ab51f5090c10ae91ba60f9a2303f1771c0a46f288940"
     }
    },
-   "rank": 52.857,
+   "rank": 52.079,
    "sources": [
     {
      "domain": "media24.cz",
@@ -21825,7 +22046,7 @@
      "body_sha256": "f1c84ef81949589b7422c2ad64549fe84b03dc9a2be81199957261b740090d1b"
     }
    },
-   "rank": 51.82,
+   "rank": 51.058,
    "image_url": "https://img.24n.cz/p/2026/10/kvantovye-proryvy-protsessor-na-orbite-i-zashchita-ot-budush-98a65dd578c61d5a.webp",
    "image_w": 670,
    "image_h": 377
@@ -22031,7 +22252,7 @@
      "body_sha256": "ebb166b4e17fe0517525e2690694ee0c9ea6ece6d5d69eb3fa9561501eb3f10e"
     }
    },
-   "rank": 60.63,
+   "rank": 59.738,
    "sources": [
     {
      "domain": "europesays.com",
@@ -22210,7 +22431,7 @@
      "body_sha256": "8deb2e2edfefd4b59739d717a4198acbc220b4579382714bfd90559a5cfad1d9"
     }
    },
-   "rank": 46.638,
+   "rank": 45.952,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-zakryvaetsia-stareishii-nochnoi-klub-lavka-8ac6361f60dfa0a8.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-zakryvaetsia-stareishii-nochnoi-klub-lavka-5e823485edbd288b.webp"
@@ -22323,7 +22544,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 43.568
+   "rank": 42.912
   },
   {
    "id": "n6608",
@@ -22608,7 +22829,7 @@
      "body_sha256": "45e2ed435c1bdcc7ae00461aab8d8d30c0dca6bffa4bf207c190fbc835e9b6bc"
     }
    },
-   "rank": 57.982,
+   "rank": 57.074,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -22937,7 +23158,7 @@
      "body_sha256": "c74a47b8bd6d7908bf1d68f379ec7f3cc90fffddf69b35edf2235f1fcdc08b81"
     }
    },
-   "rank": 51.16
+   "rank": 50.36
   },
   {
    "id": "n6606",
@@ -23162,7 +23383,7 @@
      "body_sha256": "3c046aed9bb0008884772610cd3e63ac3eeddb5e9d67f2e3531d0c78c2c630ff"
     }
    },
-   "rank": 45.785,
+   "rank": 45.045,
    "sources": [
     {
      "domain": "media24.cz",
@@ -23442,7 +23663,7 @@
      "body_sha256": "58a1e08ab85699fc8216f90296987f11cd857909e572ba0bd750c69be90135a9"
     }
    },
-   "rank": 47.201,
+   "rank": 46.438,
    "image_url": "https://img.24n.cz/p/2026/10/v-chekhii-rastet-chislo-semei-nesposobnykh-oplatit-shkolnye-41caa451c7391c6a.webp",
    "image_w": 1600,
    "image_h": 901
@@ -23627,7 +23848,7 @@
      "body_sha256": "93ddd9ad6a37a99199660a02b2a0bf3eb162ea27c8b321a166289cfc50c50db8"
     }
    },
-   "rank": 47.916,
+   "rank": 47.115,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -23950,7 +24171,7 @@
      "body_sha256": "3023af11b8947d973add58396c94060fb8cdaa58a571ea6865fed29a127b3b99"
     }
    },
-   "rank": 51.11,
+   "rank": 50.256,
    "sources": [
     {
      "domain": "zdravotnickydenik.cz",
@@ -24174,7 +24395,7 @@
      "body_sha256": "d84bdefda5bf706c93d3b504468213aff35ab4ce03ed2c656ccd6d467fdc3632"
     }
    },
-   "rank": 46.284,
+   "rank": 45.483,
    "image_url": "https://img.24n.cz/p/2026/10/ostrava-stradaet-ot-zabroshennogo-areala-s-shakhtnoi-bashnei-7f2783e849d319f6.webp",
    "image_w": 1200,
    "image_h": 675
@@ -24372,7 +24593,7 @@
      "body_sha256": "9a1a2c30901dd9c30aed0d30ad8328e9b54eb5b10f2f04a5b725c23ab25b0407"
     }
    },
-   "rank": 46.284,
+   "rank": 45.483,
    "image_url": "https://img.24n.cz/p/2026/10/stragovskii-stadion-v-prage-milliardy-na-remont-no-spasaiut-287c6a90a9e2a5aa.webp",
    "image_w": 1200,
    "image_h": 675
@@ -24611,7 +24832,7 @@
      "body_sha256": "ff6deb8d4291f2f554a45544be914ec4877342ee7f1f041462e949a852e76a64"
     }
    },
-   "rank": 44.664,
+   "rank": 43.864,
    "image_url": "https://img.24n.cz/p/2026/10/tsentr-dushevnogo-zdorovia-v-ostrave-pochti-udvoit-pomoshch-070f33a6ad7fadc5.webp",
    "image_w": 1200,
    "image_h": 675
@@ -24769,7 +24990,7 @@
      "body_sha256": "ddd172684ef0e5ea79e7c21199159d770084a6d1a63a28ce98cfb349cb8b847f"
     }
    },
-   "rank": 28.5,
+   "rank": 27.989,
    "sources": [
     {
      "domain": "kdykam.com",
@@ -25074,7 +25295,7 @@
      "body_sha256": "d583c896450c13d988f4d48cb192c5cd29d0333f75c6fd7ae79c2a0c273aeeb9"
     }
    },
-   "rank": 24.595,
+   "rank": 24.137,
    "image_url": "https://img.24n.cz/p/2026/10/kak-menialis-shkolnye-kanikuly-v-chekhii-i-po-vsei-evrope-ff6082f3e5213b98.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/kak-menialis-shkolnye-kanikuly-v-chekhii-i-po-vsei-evrope-174114985a9e8f25.webp",
@@ -25324,7 +25545,7 @@
      "body_sha256": "6eeedc1b235380f1c7f0b188c72a821153f339df6fe7faa22621c7814045e54c"
     }
    },
-   "rank": 46.73,
+   "rank": 45.861,
    "sources": [
     {
      "domain": "praha11.cz",
@@ -25496,7 +25717,7 @@
      "body_sha256": "f6d5f3e82c056e9eac63ce64c944b951971b7f5a948ad0a6f8b42f56031c7d54"
     }
    },
-   "rank": 41.532,
+   "rank": 40.732,
    "image_url": "https://img.24n.cz/p/2026/10/osnovatel-uber-trevis-kalanik-vozvrashchaetsia-so-startapom-b7568b25a714a118.webp",
    "video": {
     "kind": "iframe",
@@ -25689,7 +25910,7 @@
      "body_sha256": "fb1350241471b028a799f791133317d3f027e264a8fc9937e8960aae0e5762d0"
     }
    },
-   "rank": 39.555,
+   "rank": 38.792,
    "image_url": "https://img.24n.cz/p/2026/10/samye-krasivye-preobrazheniia-cheshskikh-zamkov-parkov-i-fab-35a3ca2f8099bbd5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/samye-krasivye-preobrazheniia-cheshskikh-zamkov-parkov-i-fab-e0c3b99f3ede6db5.webp",
@@ -25995,7 +26216,7 @@
      "body_sha256": "51d95cef022bbd9571c50356c0f3ef8defa1f390b0acdf5b79a2268c374fc4e1"
     }
    },
-   "rank": 47.07,
+   "rank": 46.162,
    "sources": [
     {
      "domain": "teplicky.denik.cz",
@@ -26263,7 +26484,7 @@
      "body_sha256": "78a2607c2ca3b0e893b9e53dc65d1fb31b7cf7f8f15a0f01ab165c643650c8b2"
     }
    },
-   "rank": 34.233,
+   "rank": 33.547,
    "image_url": "https://img.24n.cz/p/2026/10/klub-ceskych-turistu-istoriia-stareishego-soobshchestva-a545aea5ea0103d4.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/klub-ceskych-turistu-istoriia-stareishego-soobshchestva-f5b4f9cc103bc62f.webp",
@@ -26465,7 +26686,7 @@
      "body_sha256": "1a3700d7810f595181e80de3b79ca9e68b4405d879ceee55b7172162f12f3b19"
     }
    },
-   "rank": 34.233
+   "rank": 33.547
   },
   {
    "id": "n6591",
@@ -26625,7 +26846,7 @@
      "body_sha256": "de3e763d89017ec0fc3456ccfd1a36dda81dc9c8e8d14d7294927c892d6f025e"
     }
    },
-   "rank": 36.135,
+   "rank": 35.41,
    "sources": [
     {
      "domain": "europesays.com",
@@ -26835,7 +27056,7 @@
      "body_sha256": "bce30c0e78ec8109942049b93460529c73475b22240f29483e6061cef98b61d7"
     }
    },
-   "rank": 39.938,
+   "rank": 39.138,
    "image_url": "https://img.24n.cz/p/2026/10/luchshie-smotrovye-bashni-chekhii-gid-po-vsem-14-kraiam-stra-1d04f2d893f79f93.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/luchshie-smotrovye-bashni-chekhii-gid-po-vsem-14-kraiam-stra-5df40f9d98e85990.webp",
@@ -32775,7 +32996,7 @@
      "body_sha256": "5bd16064cf8ca76fe1d7689596724b90bf5ce2e59e176f6756e10a301377d213"
     }
    },
-   "rank": 50.444,
+   "rank": 50.18,
    "image_url": "https://img.24n.cz/p/2026/10/reshenie-prezidenta-propustit-vybory-nazvali-politicheskoi-o-503dc728a2b0d067.webp",
    "image_w": 1200,
    "image_h": 630
@@ -32901,7 +33122,7 @@
      "body_sha256": "8519d70fcb2edadf6993ebb0597819d00df8aeea7ef70873df48792b03dbd1b0"
     }
    },
-   "rank": 54.592,
+   "rank": 54.304,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -34415,7 +34636,7 @@
      "body_sha256": "ac92e964f9fa1a587566be44c1568c92ee7c49ed03488639bc2a4a5b32b5214d"
     }
    },
-   "rank": 63.18,
+   "rank": 62.838,
    "sources": [
     {
      "domain": "media24.cz",
@@ -36489,8 +36710,8 @@
    ],
    "published_at": "2026-10-03T08:25:13.394112+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "3 октября 2026, 08:25",
@@ -36766,8 +36987,8 @@
    ],
    "published_at": "2026-10-03T08:25:13.394112+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "3 октября 2026, 08:25",
@@ -36927,8 +37148,8 @@
    ],
    "published_at": "2026-10-03T08:25:13.394112+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "3 октября 2026, 08:25",
@@ -45579,8 +45800,8 @@
    ],
    "published_at": "2026-10-02T08:37:06.358369+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "2 октября 2026, 08:37",
@@ -64171,8 +64392,8 @@
    ],
    "published_at": "2026-10-01T08:27:35.639409+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "1 октября 2026, 08:27",
@@ -64473,8 +64694,8 @@
    ],
    "published_at": "2026-10-01T08:27:35.639409+02:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "1 октября 2026, 08:27",
@@ -66767,303 +66988,6 @@
    "image_url": "https://img.24n.cz/p/2026/10/spory-v-koalitsii-iz-za-novogo-zakona-o-trude-i-shvartssiste-fed68ad223034e06.webp",
    "image_w": 1200,
    "image_h": 675
-  },
-  {
-   "id": "n6408",
-   "slug": "vita-rakushan-o-biudzhete-vyborakh-i-planakh-dvizheniia-stan",
-   "source": "denik.cz",
-   "original_url": "https://www.denik.cz/komunalni-volby/15-minutr-kateriny-perknerove-vit-rakusan-rozpocet/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=komunalni-volby",
-   "top": false,
-   "tags": [
-    "zakon",
-    "praha",
-    "cesko",
-    "ekonomika"
-   ],
-   "published_at": "2026-10-01T05:41:23.667514+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "1 октября 2026, 05:41",
-    "uk": "1 жовтня 2026, 05:41"
-   },
-   "ru": {
-    "title": "Вита Ракушан о бюджете, выборах и планах движения STAN",
-    "lede": "Лидер движения STAN Вит Ракушан в интервью изданиям представил план бюджетной экономии на 54 миллиарда крон и рассказал о предвыборной стратегии.",
-    "meta_description": "Лидер движения STAN Вит Ракушан рассказал в интервью о планах экономии бюджета на 54 млрд крон, сенатских выборах и переговорах о коалиции в Праге.",
-    "paras": [
-     "<p>Вит Ракушан, глава движения STAN, говорил на дебатах <b>Deník.cz</b> о политической обстановке и об инициативе оппозиции вынести недоверие правительству. Заодно он рассказал, каким видит свое движение перед осенними выборами.</p>",
-     "<p>Оппозиция запустила голосование о вотуме недоверия кабинету Andrej Babiš. Расклад в парламенте при этом не в ее пользу: у правительственной коалиции 108 голосов, у оппозиции 92 мандата. Ракушан считает, что указать на проблемы все равно необходимо.</p>",
-     "<blockquote>Мы знаем, что у правительственного большинства 108, а у нас 92, но это не повод не указывать на то, что у коалиции не получилось.</blockquote>",
-     "<p>Как отметил Vít Rakušan, поводом для критики служат высокий дефицит бюджета и недостаток внимания к вопросам безопасности. Политик также подчеркнул, что дата инициирования голосования была выбрана неслучайно, так как движение хочет напомнить избирателям о возможности выразить свое отношение к кабмину на коммунальных и сенатских выборах 9 и 10 октября.</p>",
-     "<h3>Планы на Сенат и борьба за статутные города</h3>",
-     "<p>В Сенате STAN защищает 11 мандатов. Сам лидер партии оценивает шансы так: получить 7 или 8 мест в верхней палате сейчас было бы большим успехом. Главная цель при этом не меняется, остаться в тройке сильнейших сенатских клубов.</p>",
-     "<p>В коммунальной кампании партия традиционно держит ориентир на Прагу. Лидером столичного списка идёт Petr Hlaváček. Возможными союзниками по будущей коалиции в столице Vít Rakušan назвал Spolu, Praha sobě и Pirátů. Союз с ANO он назвал сложным для личного восприятия. Сторонники партии, по его словам, против такого союза категорически.</p>",
-     "<h3>Бюджетная экономия и финансы</h3>",
-     "<p>Оппозиционное движение подготовило собственный план консолидации публичных финансов. Он предполагает сокращение расходов на 54 миллиарда крон. В плане несколько шагов:</p>",
-     "<ul><li>экономия 10 миллиардов крон на выплатах за возобновляемые источники энергии (POZE) за счёт адресной помощи только нуждающимся;</li><li>потенциальные поступления от системы EET идут в резерв или на погашение государственного долга;</li><li>регулярный анализ бюджетных статей (spending review) должен сэкономить 3,5% ВВП за пять лет;</li><li>снижение на 10 миллиардов крон выплат за государственных застрахованных лиц, увеличенных прежним кабинетом.</li></ul>",
-     "<p>Vít Rakušan скептически отозвался об обещаниях Andrej Babiš снизить дефицит до двух процентов ВВП за два года. Он усомнился, что тот готов идти на жёсткие меры прямо перед выборами.</p>",
-     "<p>Представители STAN поддержали во втором чтении предложение Tomio Okamura о заморозке зарплат политиков до 2030 года. Учли поправку председателя клуба Michaely Šebelové.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Сколько миллиардов крон предлагает сэкономить движение STAN в бюджете?",
-      "a": "Движение STAN подготовило план экономии в размере 54 миллиардов крон."
-     },
-     {
-      "q": "С кем хочет сформировать коалицию в Праге движение STAN?",
-      "a": "STAN ориентируется на коалицию Spolu, объединение Praha sobě и партию Pirátů."
-     }
-    ],
-    "impact": "Предложенный план экономии и предвыборная стратегия STAN задают рамки политической дискуссии в преддверии октябрьских выборов в Сенат и органы местного самоуправления.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "У правительственной коалиции 108 голосов, у оппозиции 92 мандата, но Ракушан считает, что указать на проблемы всё равно необходимо.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "STAN защищает в Сенате 11 мандатов, и получить 7 или 8 мест лидер партии счёл бы большим успехом.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "План консолидации публичных финансов STAN предполагает сокращение расходов на 54 миллиарда крон.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Ракушан усомнился, что Бабиш готов идти на жёсткие меры прямо перед выборами ради снижения дефицита до двух процентов ВВП за два года.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "POZE",
-       "definition": "Возобновляемые источники энергии; в плане STAN на выплатах за них предлагается сэкономить 10 миллиардов крон за счёт адресной помощи только нуждающимся.",
-       "target": {
-        "block": 10,
-        "item": 1
-       }
-      },
-      {
-       "term": "EET",
-       "definition": "Система, поступления от которой, согласно плану STAN, идут в резерв или на погашение государственного долга.",
-       "target": {
-        "block": 10,
-        "item": 2
-       }
-      },
-      {
-       "term": "spending review",
-       "definition": "Регулярный анализ бюджетных статей; по плану STAN он должен сэкономить 3,5% ВВП за пять лет.",
-       "target": {
-        "block": 10,
-        "item": 3
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Что учесть по плану STAN",
-      "items": [
-       {
-        "text": "Проверить, что экономия 10 миллиардов крон на POZE достигается адресной помощью только нуждающимся.",
-        "target": {
-         "block": 10,
-         "item": 1
-        }
-       },
-       {
-        "text": "Учесть, что поступления от EET направляются в резерв или на погашение госдолга.",
-        "target": {
-         "block": 10,
-         "item": 2
-        }
-       },
-       {
-        "text": "Заложить в расчёты, что регулярный анализ бюджетных статей должен сэкономить 3,5% ВВП за пять лет.",
-        "target": {
-         "block": 10,
-         "item": 3
-        }
-       },
-       {
-        "text": "Принять во внимание снижение на 10 миллиардов крон выплат за государственных застрахованных лиц, увеличенных прежним кабинетом.",
-        "target": {
-         "block": 10,
-         "item": 4
-        }
-       }
-      ]
-     },
-     "body_sha256": "64d6db3f8ca610f7699e2ac55473816eb4a1f154ba65691f459dc783ff7bb0f6"
-    }
-   },
-   "uk": {
-    "title": "Віт Ракушан про бюджет, вибори та плани руху STAN",
-    "lede": "Лідер руху STAN Віт Ракушан в інтерв'ю виданням представив план бюджетної економії на 54 мільярди крон і розповів про передвиборчу стратегію.",
-    "meta_description": "Лідер руху STAN Віт Ракушан розповів в інтерв'ю про плани економії бюджету на 54 млрд крон, сенатські вибори та переговори про коаліцію в Празі.",
-    "paras": [
-     "<p>Віт Ракушан, голова руху STAN, говорив на дебатах <b>Deník.cz</b> про політичну обстановку та про ініціативу опозиції висловити недовіру уряду. Заодно він розповів, яким бачить свій рух перед осінніми виборами.</p>",
-     "<p>Опозиція запустила голосування про вотум недовіри кабінету Andrej Babiš. Розклад у парламенті при цьому не на її користь: у урядової коаліції 108 голосів, у опозиції 92 мандати. Ракушан вважає, що вказати на проблеми все одно необхідно.</p>",
-     "<blockquote>Ми знаємо, що у урядової більшості 108, а в нас 92, але це не привід не вказувати на те, що у коаліції не вийшло.</blockquote>",
-     "<p>Як зазначив Vít Rakušan, приводом для критики слугують високий дефіцит бюджету та недостатня увага до питань безпеки. Політик також підкреслив, що дата ініціювання голосування була обрана невипадково, адже рух хоче нагадати виборцям про можливість висловити своє ставлення до кабміну на комунальних і сенатських виборах 9 і 10 жовтня.</p>",
-     "<h3>Плани на Сенат і боротьба за статутні міста</h3>",
-     "<p>У Сенаті STAN захищає 11 мандатів. Сам лідер партії оцінює шанси так: отримати 7 або 8 місць у верхній палаті зараз було б великим успіхом. Головна мета при цьому не змінюється, залишитися в трійці найсильніших сенатських клубів.</p>",
-     "<p>У комунальній кампанії партія традиційно тримає орієнтир на Прагу. Лідером столичного списку йде Petr Hlaváček. Можливими союзниками по майбутній коаліції в столиці Vít Rakušan назвав Spolu, Praha sobě і Pirátů. Союз з ANO він назвав складним для особистого сприйняття. Прихильники партії, за його словами, проти такого союзу категорично.</p>",
-     "<h3>Бюджетна економія та фінанси</h3>",
-     "<p>Опозиційний рух підготував власний план консолідації публічних фінансів. Він передбачає скорочення витрат на 54 мільярди крон. У плані кілька кроків:</p>",
-     "<ul><li>економія 10 мільярдів крон на виплатах за відновлювані джерела енергії (POZE) за рахунок адресної допомоги тільки нужденним;</li><li>потенційні надходження від системи EET йдуть у резерв або на погашення державного боргу;</li><li>регулярний аналіз бюджетних статей (spending review) має заощадити 3,5% ВВП за п'ять років;</li><li>зниження на 10 мільярдів крон виплат за державних застрахованих осіб, збільшених попереднім кабміном.</li></ul>",
-     "<p>Vít Rakušan скептично відгукнувся про обіцянки Andrej Babiš знизити дефіцит до двох відсотків ВВП за два роки. Він засумнівався, що той готовий йти на жорсткі заходи прямо перед виборами.</p>",
-     "<p>Представники STAN підтримали в другому читанні пропозицію Tomio Okamura про заморожування зарплат політиків до 2030 року. Врахували поправку голови клубу Michaely Šebelové.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Скільки мільярдів крон пропонує заощадити рух STAN у бюджеті?",
-      "a": "Рух STAN підготував план економії в розмірі 54 мільярдів крон."
-     },
-     {
-      "q": "З ким хоче сформувати коаліцію в Празі рух STAN?",
-      "a": "STAN орієнтується на коаліцію Spolu, об'єднання Praha sobě та партію Pirátů."
-     }
-    ],
-    "impact": "Предложенный план экономии и предвыборная стратегия STAN задают рамки политической дискуссии в преддверии октябрьских выборов в Сенат и органы местного самоуправления.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Опозиція ініціювала голосування про вотум недовіри уряду, хоча в коаліції 108 голосів проти 92 у опозиції.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "STAN захищає в Сенаті 11 мандатів, і Ракушан вважав би успіхом отримати 7 або 8 місць.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "План консолідації STAN передбачає скорочення витрат на 54 мільярди крон.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "STAN підтримав у другому читанні пропозицію про заморожування зарплат політиків до 2030 року.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "POZE",
-       "definition": "Відновлювані джерела енергії; у плані STAN пропонується заощадити 10 мільярдів крон на виплатах за них, надаючи адресну допомогу лише нужденним.",
-       "target": {
-        "block": 10,
-        "item": 1
-       }
-      },
-      {
-       "term": "EET",
-       "definition": "Система, надходження від якої, за планом STAN, підуть у резерв або на погашення державного боргу.",
-       "target": {
-        "block": 10,
-        "item": 2
-       }
-      },
-      {
-       "term": "spending review",
-       "definition": "Регулярний аналіз бюджетних статей, який має заощадити 3,5% ВВП за п'ять років.",
-       "target": {
-        "block": 10,
-        "item": 3
-       }
-      }
-     ],
-     "checklist": {
-      "title": "План економії STAN",
-      "items": [
-       {
-        "text": "Оцінити економію 10 мільярдів крон на виплатах за відновлювані джерела енергії через адресну допомогу лише нужденним.",
-        "target": {
-         "block": 10,
-         "item": 1
-        }
-       },
-       {
-        "text": "Спрямувати потенційні надходження від системи EET у резерв або на погашення державного боргу.",
-        "target": {
-         "block": 10,
-         "item": 2
-        }
-       },
-       {
-        "text": "Запровадити регулярний аналіз бюджетних статей (spending review) для економії 3,5% ВВП за п'ять років.",
-        "target": {
-         "block": 10,
-         "item": 3
-        }
-       },
-       {
-        "text": "Знизити на 10 мільярдів крон виплати за державних застрахованих осіб, збільшені попереднім кабміном.",
-        "target": {
-         "block": 10,
-         "item": 4
-        }
-       }
-      ]
-     },
-     "body_sha256": "647c9b9cb85fe30e3c00b5e946bbc5d984237c9647f5614fd2e0f7366fe35483"
-    }
-   },
-   "rank": 28.875,
-   "sources": [
-    {
-     "domain": "denikn.cz",
-     "official": false,
-     "url": "https://denikn.cz/minuta/2200138",
-     "title": "Vít Rakušan vzkázal premiérovi Babišovi"
-    }
-   ],
-   "show_sources": true,
-   "image_url": "https://img.24n.cz/p/2026/10/vita-rakushan-o-biudzhete-vyborakh-i-planakh-dvizheniia-stan-4def50a5d48f6d0b.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/10/vita-rakushan-o-biudzhete-vyborakh-i-planakh-dvizheniia-stan-ba474022831ddc76.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/10/vita-rakushan-o-biudzhete-vyborakh-i-planakh-dvizheniia-stan-ba474022831ddc76.webp",
-     "after": 7,
-     "caption": "Представительница движения с очками на голове"
-    }
-   ],
-   "image_w": 1366,
-   "image_h": 910,
-   "images_wh": [
-    [
-     1366,
-     910
-    ]
-   ]
   }
  ]
 }
