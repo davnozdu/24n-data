@@ -1,8 +1,199 @@
 {
- "updated_at": "2026-10-09T09:36:42+00:00",
+ "updated_at": "2026-10-09T10:10:03+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6930",
+   "slug": "drug-prezidenta-chekhii-postradal-v-tiazheloi-avarii-na-otdykhe",
+   "source": "novinky.cz",
+   "original_url": "https://www.novinky.cz/clanek/zahranicni-svet-na-dovolene-petra-pavla-se-vazne-zranil-jeho-pritel-40601694",
+   "top": false,
+   "tags": [
+    "zakon",
+    "cesko"
+   ],
+   "published_at": "2026-10-09T12:10:02.776126+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "9 октября 2026, 12:10",
+    "uk": "9 жовтня 2026, 12:10"
+   },
+   "ru": {
+    "title": "Друг президента Чехии пострадал в тяжелой аварии на отдыхе",
+    "lede": "Во время заграничной поездки чешского президента Petr Pavel произошла авария, в которой серьезно пострадал его близкий друг и водитель.",
+    "meta_description": "На заграничном отдыхе чешского президента Petr Pavel в ДТП с багги тяжело пострадал его друг и водитель Petr Šebor. Президент не пострадал.",
+    "paras": [
+     "<h3>Тяжелая авария на заграничном отдыхе</h3>",
+     "<p>Во время заграничной поездки чешского президента <b>Petr Pavel</b> произошла серьезная авария, в которой пострадал его близкий друг и водитель <b>Petr Šebor</b>. Инцидент случился во время чешской автомобильной экспедиции, куда глава государства отправился в прошлую пятницу.</p>",
+     "<p>Как сообщает издание Aktuálně со ссылкой на источник, знакомый с ходом поездки, авария произошла в начале недели, ориентировочно во вторник или среду. Во время движения одна из багги попала в аварию.</p>",
+     "<blockquote>Одна из багги разбилась, там пострадал прежде всего водитель Petr Šebor. Он, к сожалению, тяжело — у него что-то с позвонками, переломы костей. К счастью, на месте был спасатель, так что он получил первую помощь и его стабилизировали,</blockquote>",
+     "<p>Так описал происшествие источник издания Aktuálně, знакомый с деталями чешской автомобильной экспедиции.</p>",
+     "<h3>Состояние пострадавшего и помощь на месте</h3>",
+     "<p>Водитель получил тяжелые травмы. Врачи диагностировали переломы костей и серьезные повреждения позвоночника.</p>",
+     "<p>На месте происшествия оказался специалист. Он оказал пострадавшему первую помощь и стабилизировал его состояние. По данным источников Aktuálně, раненому предстоит операция. Сейчас решается вопрос о том, как безопасно доставить его домой в Чехию.</p>",
+     "<p>Президент <b>Petr Pavel</b> не пострадал. Об этом сообщил директор департамента коммуникаций Пражского Града <b>Vít Kolář</b>.</p>",
+     "<blockquote>Члены его команды участвовали в оказании первой помощи пострадавшему,</blockquote>",
+     "<p>Об участии команды президента в помощи пострадавшему подтвердил <b>Vít Kolář</b> из пресс-службы Пражского Града.</p>",
+     "<h3>Возвращение к работе</h3>",
+     "<p>Из-за запланированного отпуска <b>Petr Pavel</b> не смог принять участие в муниципальных и сенатских выборах. Президент вернется к исполнению своих рабочих обязанностей 19 октября. Об этом сообщили в Пражском Граде.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Кто пострадал в аварии во время поездки президента?",
+      "a": "Серьезные травмы получил друг и водитель президента Petr Šebor."
+     },
+     {
+      "q": "Пострадал ли сам президент Petr Pavel?",
+      "a": "Нет, сам президент не пострадал и находится в порядке, а члены его команды помогали оказывать первую помощь."
+     },
+     {
+      "q": "Когда президент вернется к работе?",
+      "a": "К своим обязанностям Petr Pavel должен вернуться 19 октября."
+     }
+    ],
+    "impact": "Событие носит личный характер и не меняет график работы госорганов или законы. Президент Petr Pavel вернется к своим обязанностям 19 октября.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Во время чешской автомобильной экспедиции президента Petr Pavel в аварии с багги тяжело пострадал его близкий друг и водитель Petr Šebor.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "По данным источника Aktuálně, авария произошла в начале недели, ориентировочно во вторник или среду.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "У пострадавшего диагностировали переломы костей и серьезные повреждения позвоночника, ему предстоит операция.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Petr Pavel не пострадал, о чем сообщил директор департамента коммуникаций Пражского Града Vít Kolář.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "багги",
+       "definition": "Легкий автомобиль для езды по бездорожью, на котором участники экспедиции попали в аварию.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "dbf6dd1d8b1f84ec74614c2c841594105313dcb4f3039d6dceded2766b33fcef"
+    }
+   },
+   "uk": {
+    "title": "Друг президента Чехії постраждав у важкій аварії під час відпочинку",
+    "lede": "Під час закордонної поїздки чеського президента Petr Pavel сталася аварія, в якій серйозно постраждав його близький друг і водій.",
+    "meta_description": "На закордонному відпочинку чеського президента Petr Pavel у ДТП з баггі важко постраждав його друг і водій Petr Šebor. Президент не постраждав.",
+    "paras": [
+     "<h3>Важка аварія під час закордонного відпочинку</h3>",
+     "<p>Під час закордонної поїздки чеського президента <b>Petr Pavel</b> сталася серйозна аварія, в якій постраждав його близький друг і водій <b>Petr Šebor</b>. Інцидент трапився під час чеської автомобільної експедиції, куди глава держави вирушив минулої п'ятниці.</p>",
+     "<p>Як повідомляє видання Aktuálně з посиланням на джерело, знайоме з ходом поїздки, аварія сталася на початку тижня, орієнтовно у вівторок або середу. Під час руху одна з баггі потрапила в аварію.</p>",
+     "<blockquote>Одна з баггі розбилася, там постраждав насамперед водій Petr Šebor. Він, на жаль, важко, у нього щось із хребцями, переломи кісток. На щастя, на місці був рятувальник, тож він отримав першу допомогу і його стабілізували,</blockquote>",
+     "<p>Так описав подію представник видання Aktuálně, знайомий з деталями чеської автомобільної експедиції.</p>",
+     "<h3>Стан постраждалого та допомога на місці</h3>",
+     "<p>Водій отримав важкі травми. Лікарі діагностували переломи кісток і серйозні пошкодження хребта.</p>",
+     "<p>На місці події опинився фахівець. Він надав постраждалому першу допомогу і стабілізував його стан. За даними джерел Aktuálně, пораненому належить операція. Зараз вирішується питання про те, як безпечно доставити його додому до Чехії.</p>",
+     "<p>Президент <b>Petr Pavel</b> не постраждав. Про це повідомив директор департаменту комунікацій Празького Граду <b>Vít Kolář</b>.</p>",
+     "<blockquote>Члени його команди брали участь у наданні першої допомоги постраждалому,</blockquote>",
+     "<p>Про участь команди президента в допомозі постраждалому підтвердив <b>Vít Kolář</b> з пресслужби Празького Граду.</p>",
+     "<h3>Повернення до роботи</h3>",
+     "<p>Через заплановану відпустку <b>Petr Pavel</b> не зміг узяти участь у муніципальних і сенатських виборах. Президент повернеться до виконання своїх робочих обов'язків 19 жовтня. Про це повідомили в Празькому Граді.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Хто постраждав в аварії під час поїздки президента?",
+      "a": "Серйозні травми отримав друг і водій президента Petr Šebor."
+     },
+     {
+      "q": "Чи постраждав сам президент Petr Pavel?",
+      "a": "Ні, сам президент не постраждав і перебуває в порядку, а члени його команди допомагали надавати першу допомогу."
+     },
+     {
+      "q": "Коли президент повернеться до роботи?",
+      "a": "До своїх обов'язків Petr Pavel має повернутися 19 жовтня."
+     }
+    ],
+    "impact": "Событие носит личный характер и не меняет график работы госорганов или законы. Президент Petr Pavel вернется к своим обязанностям 19 октября.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Під час закордонної поїздки президента Чехії Petr Pavel сталася серйозна аварія, в якій постраждав його близький друг і водій Petr Šebor.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Аварія сталася на початку тижня, орієнтовно у вівторок або середу, коли одна з баггі потрапила в аварію.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Водій отримав важкі травми: лікарі діагностували переломи кісток і серйозні пошкодження хребта.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Президент Petr Pavel не постраждав, про це повідомив директор департаменту комунікацій Празького Граду Vít Kolář.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "баггі",
+       "definition": "Легкий позашляховий автомобіль, на якому учасники експедиції рухалися під час поїздки.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "f1a2c7ee2a8688638aa5a25d6510b65934fc4a0af79f5867994d8ee37b98b9a4"
+    }
+   },
+   "rank": 112.0,
+   "sources": [
+    {
+     "domain": "zpravy.aktualne.cz",
+     "official": false,
+     "url": "https://zpravy.aktualne.cz/domaci/vazna-nehoda-na-dovolene-petra-pavla-zranit-se-mel-blizky-pritel-prezidenta/r~aaa29cc6e282ef16c4cd5321bb4c0d25/",
+     "title": "Vážná nehoda na dovolené Petra Pavla. Zranit se měl blízký přítel prezidenta – Aktuálně.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1
+  },
   {
    "id": "n6929",
    "slug": "popytka-ubiistva-v-libertse-v-kazino-zhestoko-izbili-rabotnika",
@@ -15,8 +206,8 @@
    ],
    "published_at": "2026-10-09T11:36:41.837382+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "9 октября 2026, 11:36",
@@ -205,8 +396,8 @@
    ],
    "published_at": "2026-10-09T11:36:41.837382+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "9 октября 2026, 11:36",
@@ -392,8 +583,8 @@
    ],
    "published_at": "2026-10-09T11:00:36.821236+02:00",
    "time": {
-    "ru": "36 минут назад",
-    "uk": "36 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "9 октября 2026, 11:00",
@@ -1220,8 +1411,8 @@
    ],
    "published_at": "2026-10-09T09:56:12.645353+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "9 октября 2026, 09:56",
@@ -2548,7 +2739,7 @@
      "body_sha256": "0de5539884c188d1097e8314ed5d6541d2c42a76e4a0ec972ce8e6e58a9c4b67"
     }
    },
-   "rank": 114.791,
+   "rank": 113.868,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -2760,7 +2951,7 @@
      "body_sha256": "511c8de3429f4c680f9f22973775eabf5687cac8da2a8422b54bb8da8b477620"
     }
    },
-   "rank": 104.809
+   "rank": 103.966
   },
   {
    "id": "n6917",
@@ -2774,8 +2965,8 @@
    ],
    "published_at": "2026-10-09T07:48:14.263596+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "9 октября 2026, 07:48",
@@ -2941,7 +3132,7 @@
      "body_sha256": "d113132ba01ebb4aa05d05c8d09ef88132b23e33a5e4decac931ef1820e52c1a"
     }
    },
-   "rank": 93.891
+   "rank": 93.129
   },
   {
    "id": "n6916",
@@ -3216,7 +3407,7 @@
      "body_sha256": "aa70bf23ea127fdb5e12c97489824558d29adb4aff42c464c26d44a748183f93"
     }
    },
-   "rank": 93.122,
+   "rank": 92.359,
    "sources": [
     {
      "domain": "frekvence1.cz",
@@ -3411,7 +3602,7 @@
      "body_sha256": "e8fc0c2200f6b75d8aba3f766467f14c09ab9e3e1ae0238a55878111e954449a"
     }
    },
-   "rank": 106.845,
+   "rank": 105.97,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -3468,8 +3659,8 @@
    ],
    "published_at": "2026-10-09T06:40:26.311411+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 06:40",
@@ -3677,7 +3868,7 @@
      "body_sha256": "55ae55d14066dc651e6c499341ee3d44a82b12323a4b86facd13c271b521b653"
     }
    },
-   "rank": 87.481
+   "rank": 86.758
   },
   {
    "id": "n6913",
@@ -3691,8 +3882,8 @@
    ],
    "published_at": "2026-10-09T06:40:26.311411+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 06:40",
@@ -3847,7 +4038,7 @@
      "body_sha256": "6c6507ed3e0a2ede3d8916d02ac67b3aa23799be6edffa6392f0bc59f01f04b7"
     }
    },
-   "rank": 101.089,
+   "rank": 100.254,
    "sources": [
     {
      "domain": "praha3.cz",
@@ -3880,8 +4071,8 @@
    ],
    "published_at": "2026-10-09T06:06:15.754079+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 06:06",
@@ -4249,8 +4440,8 @@
    ],
    "published_at": "2026-10-09T06:06:15.754079+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 06:06",
@@ -4524,7 +4715,7 @@
      "body_sha256": "c2a09cf15a1a64104766db2ab38fc94010223aa7e0b70619098a74f61cd87eee"
     }
    },
-   "rank": 115.654,
+   "rank": 114.69,
    "sources": [
     {
      "domain": "m.echo24.cz",
@@ -4687,7 +4878,7 @@
      "body_sha256": "d796887fcb9a87d867d19bdeb749a111d7b616faa9eebbf0bab2c4425e01f264"
     }
    },
-   "rank": 62.175,
+   "rank": 61.653,
    "image_url": "https://img.24n.cz/p/2026/10/put-cheshskogo-iuvelira-ot-sadovnika-do-mastera-dlia-pervykh-0dbd399192a1babe.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/put-cheshskogo-iuvelira-ot-sadovnika-do-mastera-dlia-pervykh-35fab63a816de87b.webp",
@@ -4886,7 +5077,7 @@
      "body_sha256": "3330a0cec674ac6a4ec183c56f72b4e1e2d024683405aea491ee138fe2a7948a"
     }
    },
-   "rank": 100.436
+   "rank": 99.593
   },
   {
    "id": "n6908",
@@ -5107,7 +5298,7 @@
      "body_sha256": "4b159b96d6801d319c58c3ae3a0e260679fec5cfe6af2a2530ecc48c3c4e1533"
     }
    },
-   "rank": 90.871
+   "rank": 90.108
   },
   {
    "id": "n6907",
@@ -5121,8 +5312,8 @@
    ],
    "published_at": "2026-10-09T03:59:20.677715+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 03:59",
@@ -5312,7 +5503,7 @@
      "body_sha256": "3aff66405e2037608b8836e757ed6d35bde5367e3ee9895f59b4c5cfe61d303d"
     }
    },
-   "rank": 83.99,
+   "rank": 83.268,
    "image_url": "https://img.24n.cz/p/2026/10/v-dolnich-khabrakh-za-dva-dnia-do-vyborov-reshaiut-sudbu-mno-e42df663c3274f77.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-dolnich-khabrakh-za-dva-dnia-do-vyborov-reshaiut-sudbu-mno-05fa95b3495e8864.webp"
@@ -5477,7 +5668,7 @@
      "body_sha256": "845a0c397fd4eb6c03796b073b8bf7646830990d67f39b61db7400add2f8892d"
     }
    },
-   "rank": 83.796,
+   "rank": 83.057,
    "sources": [
     {
      "domain": "newstream.cz",
@@ -5671,7 +5862,7 @@
      "body_sha256": "5dc94b139649a917b03dc9fd52f5e46b807a45672698980a0e98a61ad35ed231"
     }
    },
-   "rank": 95.637,
+   "rank": 94.794,
    "sources": [
     {
      "domain": "topky.sk",
@@ -5885,7 +6076,7 @@
      "body_sha256": "8216f34e70d0941993bab06fdff8fbad60b56a081a3ad4559a5aa512fbab20b0"
     }
    },
-   "rank": 104.745,
+   "rank": 103.822,
    "sources": [
     {
      "domain": "tvspravy.sk",
@@ -6161,7 +6352,7 @@
      "body_sha256": "6bd909cd9b5d68f1e7a94e897afcda85c3f508a722f11b9ef60ab46eae744e3f"
     }
    },
-   "rank": 93.984
+   "rank": 93.141
   },
   {
    "id": "n6902",
@@ -6175,8 +6366,8 @@
    ],
    "published_at": "2026-10-09T00:50:56.152425+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 00:50",
@@ -6395,7 +6586,7 @@
      "body_sha256": "5a41e0d2f512c2a4ed18f0a956bb0fbde2528b35483eb7ca00cd9c9f08d7c5df"
     }
    },
-   "rank": 88.787,
+   "rank": 87.984,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -6588,7 +6779,7 @@
      "body_sha256": "fb49a466fa0390e75ad418b0a8613530ca678334bbad7d7bbdf96ab6af525c5d"
     }
    },
-   "rank": 88.033
+   "rank": 87.23
   },
   {
    "id": "n6900",
@@ -6831,7 +7022,7 @@
      "body_sha256": "757483c7172d1edb2d81cba646d978456f510edc78350582120afd73c8e03b67"
     }
    },
-   "rank": 74.828,
+   "rank": 74.146,
    "image_url": "https://img.24n.cz/p/2026/10/tsena-zolota-v-sentiabre-2026-pochemu-metall-rezko-podesheve-5ba528729e941203.webp",
    "image_w": 1200,
    "image_h": 800
@@ -7056,7 +7247,7 @@
      "body_sha256": "0a4cf6af00e083ce14752ba650cab5a294cb872ef96bec89b0475e0dd49a08ea"
     }
    },
-   "rank": 113.562,
+   "rank": 112.527,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -7357,7 +7548,7 @@
      "body_sha256": "a1596393080bdfde0af2982eafe461c5dff0962ac6647b659c2ab70d8b7734e7"
     }
    },
-   "rank": 66.025,
+   "rank": 65.423,
    "image_url": "https://img.24n.cz/p/2026/10/turisticheskii-proekt-terapie-tichem-otkryvaet-tikhie-ugolki-017bd5895e923fec.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/turisticheskii-proekt-terapie-tichem-otkryvaet-tikhie-ugolki-ae6250fcec5feade.webp",
@@ -7420,8 +7611,8 @@
    ],
    "published_at": "2026-10-08T21:01:46.662427+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 21:01",
@@ -7675,7 +7866,7 @@
      "body_sha256": "0d9cc1e833eee0f8158656e195fff0fe5b81565deb87a9da0c17a2f3f920d892"
     }
    },
-   "rank": 66.616
+   "rank": 65.974
   },
   {
    "id": "n6896",
@@ -7688,8 +7879,8 @@
    ],
    "published_at": "2026-10-08T21:00:31.621307+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 21:00",
@@ -7767,7 +7958,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 69.922
+   "rank": 69.247
   },
   {
    "id": "n6895",
@@ -7929,7 +8120,7 @@
      "body_sha256": "36b6af5f269f6697ea43878701b6bc7f8296a7daa0ee921156d707cae5079162"
     }
    },
-   "rank": 78.395,
+   "rank": 77.633,
    "image_url": "https://img.24n.cz/p/2026/10/rektor-milan-pospisil-predupredil-ob-ukhode-khoroshikh-pedag-efbbca2f00306f0f.webp",
    "image_w": 620,
    "image_h": 349
@@ -8087,7 +8278,7 @@
      "body_sha256": "b494cc619c13dbe956d115f2f4b7fd8c5efe5198051913d3c3ddc7f8fdcec8f4"
     }
    },
-   "rank": 67.668,
+   "rank": 67.009,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -8340,7 +8531,7 @@
      "body_sha256": "a1ad96a81fa1b534f3f9bf68b7354fc92308ea19e46d9613752fb622b15dbb45"
     }
    },
-   "rank": 78.395
+   "rank": 77.633
   },
   {
    "id": "n6892",
@@ -8354,8 +8545,8 @@
    ],
    "published_at": "2026-10-08T19:56:59.392744+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 19:56",
@@ -8564,7 +8755,7 @@
      "body_sha256": "35fb768ac38a57ecf79d8450e45ec66234a7b454981d5e23da622ff0b11381d0"
     }
    },
-   "rank": 85.796,
+   "rank": 84.953,
    "image_url": "https://img.24n.cz/p/2026/10/mera-goroda-nymburk-proveriaiut-iz-za-predvybornoi-broshiury-c1fdb7687efa234d.webp",
    "image_w": 1200,
    "image_h": 674
@@ -8581,8 +8772,8 @@
    ],
    "published_at": "2026-10-08T19:56:59.392744+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 19:56",
@@ -8757,7 +8948,7 @@
      "body_sha256": "f5dd066a25829a873cecea9f0f98b63b682dacb6e727a679ef0293c6bbd48fe7"
     }
    },
-   "rank": 91.516,
+   "rank": 90.617,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -8996,7 +9187,7 @@
      "body_sha256": "dda43cd1ec05e1089a28131662e7f593b63bcab6da513ceedc39de8d11919b7e"
     }
    },
-   "rank": 72.826,
+   "rank": 72.104,
    "image_url": "https://img.24n.cz/p/2026/10/sparta-ne-prinosit-pribyli-no-i-ne-razoriaet-vladeltsa-nol-e-6d2ed723751a7e99.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/sparta-ne-prinosit-pribyli-no-i-ne-razoriaet-vladeltsa-nol-e-abd0aeacd5affe6a.webp",
@@ -9280,7 +9471,7 @@
      "body_sha256": "9fb77a09e48e45b89ddd0f96d10e091f07891902e4e91d368e3c898264a0e91c"
     }
    },
-   "rank": 64.735,
+   "rank": 64.092,
    "image_url": "https://img.24n.cz/p/2026/10/v-pardubitskom-krae-ne-khvataet-deneg-na-sotssferu-iz-za-zar-577ed88ff368b5db.webp",
    "image_w": 620,
    "image_h": 349
@@ -9341,7 +9532,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 65.328,
+   "rank": 64.67,
    "forecast": true
   },
   {
@@ -9502,7 +9693,7 @@
      "body_sha256": "330bcbdddc8579ca8a0c0f276ef5a831f46563af6cd6e6c4f9db1ca14a5748ac"
     }
    },
-   "rank": 51.638,
+   "rank": 51.117,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -9738,7 +9929,7 @@
      "body_sha256": "86d42ee6269fabbbf164a368d7193a3994c695b585514c09633946884fbed4ef"
     }
    },
-   "rank": 99.305,
+   "rank": 98.301,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -9794,8 +9985,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -9981,7 +10172,7 @@
      "body_sha256": "797667b95d9bdfd1496731e4a94c4ed00d0be975bd3e9c1ac4c70813a77bfcf3"
     }
    },
-   "rank": 82.553
+   "rank": 81.71
   },
   {
    "id": "n6884",
@@ -9996,8 +10187,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -10175,7 +10366,7 @@
      "body_sha256": "5d20319c6d49c11e9ce1a023cde509e641220292ea874330bc382e96b1df47f9"
     }
    },
-   "rank": 80.194,
+   "rank": 79.375,
    "sources": [
     {
      "domain": "parabola.cz",
@@ -10206,8 +10397,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -10372,7 +10563,7 @@
      "body_sha256": "ae43d15db7c391549b119b697f5918b7d0b6271a86a98ac7d859f2d48d1131a7"
     }
    },
-   "rank": 70.759,
+   "rank": 70.037,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -10412,8 +10603,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -10626,7 +10817,7 @@
      "body_sha256": "21b264f93722a9dbca69458148e289cd0633c18984ab0c65f41c252ec0bd46be"
     }
    },
-   "rank": 70.759
+   "rank": 70.037
   },
   {
    "id": "n6881",
@@ -10640,8 +10831,8 @@
    ],
    "published_at": "2026-10-08T16:07:31.490519+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 16:07",
@@ -10912,7 +11103,7 @@
      "body_sha256": "169f09d9ed2974860a3a2c118f7fea2d4cafe10ea65a4d3a07a0c838ef480c9c"
     }
    },
-   "rank": 64.758,
+   "rank": 64.076,
    "sources": [
     {
      "domain": "klatovsky.denik.cz",
@@ -11155,7 +11346,7 @@
      "body_sha256": "4caf53cd03723e8b79b411a8dc92411869ae3532d24ebeee2b2229a26ac9a40f"
     }
    },
-   "rank": 94.238,
+   "rank": 93.235,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -11195,8 +11386,8 @@
    ],
    "published_at": "2026-10-08T15:04:34.382060+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "8 октября 2026, 15:04",
@@ -11476,7 +11667,7 @@
      "body_sha256": "8020141bff72ee28b5591200607dd28ce0df91efd7960b018242e1a1db14e891"
     }
    },
-   "rank": 70.937
+   "rank": 70.175
   },
   {
    "id": "n6878",
@@ -11674,7 +11865,7 @@
      "body_sha256": "53d59ba622b55dc501c3b3a57a8f368759a74ff8964d7e04b71e8ea9614f83b5"
     }
    },
-   "rank": 82.747,
+   "rank": 81.848,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -11884,7 +12075,7 @@
      "body_sha256": "58e9e1c984b1f99e178e001f3c1b0326134f0e2b07f20c540bb4e082d753753c"
     }
    },
-   "rank": 66.493,
+   "rank": 65.77,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-10-vmesto-ofisov-poiaviatsia-zhilye-doma-i-shkola-e4461b4736a6d6ec.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-10-vmesto-ofisov-poiaviatsia-zhilye-doma-i-shkola-861db6593881ca5d.webp"
@@ -12055,7 +12246,7 @@
      "body_sha256": "45e534ad5ace615cf07b556d3bf6d969f1ab3e0e7a1446e351dc78c2cdd078c2"
     }
    },
-   "rank": 66.493,
+   "rank": 65.77,
    "image_url": "https://img.24n.cz/p/2026/10/festival-prague-sounds-v-prage-otmetit-30-letie-muzykoi-i-sv-06031fc3f05466a4.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/festival-prague-sounds-v-prage-otmetit-30-letie-muzykoi-i-sv-affd987dda6a6a6d.webp",
@@ -12253,7 +12444,7 @@
      "body_sha256": "e520ba140b023c7b34ef21ff58887f16bf1b91e2883af0b113af6e6a01e877de"
     }
    },
-   "rank": 75.359,
+   "rank": 74.54,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -12280,8 +12471,8 @@
    ],
    "published_at": "2026-10-08T13:59:25.528507+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "8 октября 2026, 13:59",
@@ -12453,7 +12644,7 @@
      "body_sha256": "0e9e5e699e2b3b6a9f9d00510f3eb1108921d7ef4f1b8d6ae892cd80b7aae2ed"
     }
    },
-   "rank": 81.875,
+   "rank": 80.976,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -12789,7 +12980,7 @@
      "body_sha256": "e224ed05715d717fd73a2058bbb1bf7268b206a7881fd06e8286f5b2f4e08ef9"
     }
    },
-   "rank": 65.121,
+   "rank": 64.399,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-pochtili-pamiat-zhertv-natsizma-krov-mundiry-i-ogni-58ca05172a1997e8.webp",
    "image_w": 1366,
    "image_h": 910
@@ -12938,7 +13129,7 @@
      "body_sha256": "856f2df90497d6275bee9e05a473c4e4c8bbccab27ac341e740157de20835c65"
     }
    },
-   "rank": 75.975,
+   "rank": 75.132,
    "image_url": "https://img.24n.cz/p/2026/10/politsiia-zaderzhala-mat-vybroshennogo-v-konteiner-mladentsa-641f01c96d20eb97.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/politsiia-zaderzhala-mat-vybroshennogo-v-konteiner-mladentsa-9b916d1809d293d6.webp",
@@ -12985,8 +13176,8 @@
    ],
    "published_at": "2026-10-08T12:54:44.568778+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "8 октября 2026, 12:54",
@@ -13199,7 +13390,7 @@
      "body_sha256": "01e14e180e4b16fde1ab40782a633d5d823c81d71c9e0672ce06e47f557e9a0a"
     }
    },
-   "rank": 85.854,
+   "rank": 84.891,
    "image_url": "https://img.24n.cz/p/2026/10/ministerstvo-obrazovaniia-chekhii-gotovit-plan-borby-s-segre-68f73c27473598b9.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13216,8 +13407,8 @@
    ],
    "published_at": "2026-10-08T12:54:44.568778+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "8 октября 2026, 12:54",
@@ -13350,7 +13541,7 @@
      "body_sha256": "a2dd5d2ba1dcfc75034a4e171b58f75566ab80ccb7fc4e23fac3ee696d847135"
     }
    },
-   "rank": 67.968,
+   "rank": 67.205,
    "image_url": "https://img.24n.cz/p/2026/10/iz-za-stroiki-prazhskoi-koltsevoi-dorogi-izmeniat-raspisanie-befcde756c805cb8.webp",
    "image_w": 1366,
    "image_h": 910
@@ -13496,7 +13687,7 @@
      "body_sha256": "49d2bc31e30e64bfe031fe51ab54d162a7906ecadb1c717d83583a6199f14104"
     }
    },
-   "rank": 46.027
+   "rank": 45.505
   },
   {
    "id": "n6868",
@@ -13754,7 +13945,7 @@
      "body_sha256": "bf3607cc2eefe7e0c6babfb7d85327fcd4692edc68790b9783ae225d8e0114f8"
     }
    },
-   "rank": 74.351,
+   "rank": 73.508,
    "image_url": "https://img.24n.cz/p/2026/10/tri-marshruta-dlia-osennikh-pokhodov-po-shumve-i-granitse-360bed7aa3db3142.webp",
    "images": [
     "https://cdn.kudyznudy.cz/files/6d/6d018c94-49df-4860-8181-dc83408f8770.webp?v=20221014071637",
@@ -13775,8 +13966,8 @@
    ],
    "published_at": "2026-10-08T12:00:49.276122+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "8 октября 2026, 12:00",
@@ -13908,7 +14099,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 61.817
+   "rank": 61.111
   },
   {
    "id": "n6866",
@@ -13922,8 +14113,8 @@
    ],
    "published_at": "2026-10-08T11:51:50.064705+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "8 октября 2026, 11:51",
@@ -14121,7 +14312,7 @@
      "body_sha256": "f824724b51bbf66e264c30e14b41b84145c50d76eb2feaa2bb86e354017b3a1d"
     }
    },
-   "rank": 73.532,
+   "rank": 72.689,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -14220,8 +14411,8 @@
    ],
    "published_at": "2026-10-08T11:51:50.064705+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "8 октября 2026, 11:51",
@@ -14356,7 +14547,7 @@
      "body_sha256": "14b0b175f36cefb537deaf3d8836e163e047508193b41f4eabe9eff55b4102ab"
     }
    },
-   "rank": 73.532,
+   "rank": 72.689,
    "image_url": "https://img.24n.cz/p/2026/10/v-kladno-razyskivaiut-pozhilogo-velosipedista-f018c66182b525a3.webp",
    "image_w": 1200,
    "image_h": 675
@@ -14373,8 +14564,8 @@
    ],
    "published_at": "2026-10-08T11:51:50.064705+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "8 октября 2026, 11:51",
@@ -14604,7 +14795,7 @@
      "body_sha256": "539ab40bbe30dd6ca36d27a45e19304a95c5a6b6631ef2fdbabd6541e66416f0"
     }
    },
-   "rank": 49.022,
+   "rank": 48.46,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/gd5hNUQDuyQ"
@@ -14820,7 +15011,7 @@
      "body_sha256": "f12e764635c011ec649e5b72678ba144fcf18752f180a1ece164c3892351afcf"
     }
    },
-   "rank": 62.355,
+   "rank": 61.632,
    "image_url": "https://img.24n.cz/p/2026/10/osennie-kanikuly-i-advent-na-cheshskikh-zamkakh-chto-zhdet-t-46ce3412b4ccf4ed.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/osennie-kanikuly-i-advent-na-cheshskikh-zamkakh-chto-zhdet-t-893d3718ee357cb8.webp"
@@ -15066,7 +15257,7 @@
      "body_sha256": "867f424f6cf0ebae34595e8f1ce7998ce5470aceaae17a668d3243718422b540"
     }
    },
-   "rank": 62.355,
+   "rank": 61.632,
    "image_url": "https://img.24n.cz/p/2026/10/rozhdestvenskie-iarmarki-i-ekskursii-v-cheshskikh-zamkakh-pr-8ade377d46a98fdc.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/rozhdestvenskie-iarmarki-i-ekskursii-v-cheshskikh-zamkakh-pr-b752d030ecfc5d92.webp",
@@ -15230,7 +15421,7 @@
      "body_sha256": "17dc68c2335237f3eeb90162bf93895d0f30c76e29199d192e2a21b50db8c4c4"
     }
    },
-   "rank": 71.911,
+   "rank": 71.068,
    "sources": [
     {
      "domain": "hradecky.denik.cz",
@@ -15457,7 +15648,7 @@
      "body_sha256": "4b2d72b40c3fb6c5d252ce6cc00c013d1d530d8bc5b4bde362bef82b65afbc5c"
     }
    },
-   "rank": 51.365
+   "rank": 50.763
   },
   {
    "id": "n6859",
@@ -15739,7 +15930,7 @@
      "body_sha256": "445ce3476ad9b76934788e2047658bdedf383a14e7c7cba46631b89e8eabbc0a"
     }
    },
-   "rank": 75.336,
+   "rank": 74.453,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -15969,7 +16160,7 @@
      "body_sha256": "f238eea541989d8ad5252174cc5e9af4c96feeb9dc79165c20549f9ba3c7746d"
     }
    },
-   "rank": 59.423,
+   "rank": 58.701,
    "image_url": "https://img.24n.cz/p/2026/10/legendarnyi-detektiv-pankrats-iz-poldy-zagovorit-golosom-pav-beff066da9bfe57d.webp",
    "video": {
     "kind": "iframe",
@@ -16166,7 +16357,7 @@
      "body_sha256": "9bc26205c5380304cf9e56a0d33d2336243b13c435c73fef2767ef3e053c83a1"
     }
    },
-   "rank": 59.423,
+   "rank": 58.701,
    "image_url": "https://img.24n.cz/p/2026/10/legendarnye-kino-bobule-vozvrashchaiutsia-s-novym-filmom-6eb57e766d8ca327.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/legendarnye-kino-bobule-vozvrashchaiutsia-s-novym-filmom-3b532c788a7d7499.webp",
@@ -16433,7 +16624,7 @@
      "body_sha256": "ece49fb59351528c3ecbbc61c0f4bb811f9f95e36d2752dd89ac066551528f11"
     }
    },
-   "rank": 73.949,
+   "rank": 73.05,
    "sources": [
     {
      "domain": "tcp-as.cz",
@@ -16631,7 +16822,7 @@
      "body_sha256": "130c22cc06eeedfc199a75a425214782328e8485e5e612bf3ad59bf7c69c3f26"
     }
    },
-   "rank": 58.743,
+   "rank": 58.021,
    "image_url": "https://img.24n.cz/p/2026/10/semia-tiazhelobolnogo-iunoshi-uchitsia-zhit-odnim-dnem-083b91cf2ab25669.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/semia-tiazhelobolnogo-iunoshi-uchitsia-zhit-odnim-dnem-748bdead16e3070e.webp"
@@ -16852,7 +17043,7 @@
      "body_sha256": "ab91500023889680231af0550632e92d39dd7d25273201e5261144c996f3000b"
     }
    },
-   "rank": 77.671,
+   "rank": 76.716,
    "sources": [
     {
      "domain": "prahatv.eu",
@@ -17114,7 +17305,7 @@
      "body_sha256": "7d8faab5040e8ea78d273b4069b3ac8728624cb605fcd8eb2541e096b1269c1f"
     }
    },
-   "rank": 32.279
+   "rank": 31.877
   },
   {
    "id": "n6852",
@@ -17368,7 +17559,7 @@
      "body_sha256": "b5ca99b0c54b70e4893869fe43816da1c26447c3f1838d4b60d0ca68607ddaaf"
     }
    },
-   "rank": 72.304,
+   "rank": 71.405,
    "sources": [
     {
      "domain": "cnb.cz",
@@ -17573,7 +17764,7 @@
      "body_sha256": "3ebc76d94cae4f61fcf657af879b09d4cc95e2a876689ba5708fcf7b8bcf0e74"
     }
    },
-   "rank": 69.076,
+   "rank": 68.217,
    "sources": [
     {
      "domain": "nasepraha.cz",
@@ -17751,7 +17942,7 @@
      "body_sha256": "b3559b4a9b57a5eb54f34d4fa9fad5f18e70a93a50ae6462c2739896b57a411d"
     }
    },
-   "rank": 67.785
+   "rank": 66.942
   },
   {
    "id": "n6849",
@@ -18017,7 +18208,7 @@
      "body_sha256": "eabea943e0dac6e0138fd5687c526bfd48840418d7404132ba938b76040eb9b0"
     }
    },
-   "rank": 60.502,
+   "rank": 59.739,
    "image_url": "https://img.24n.cz/p/2026/10/vezd-burovoi-ustanovki-v-most-v-prage-paralizoval-dvizhenie-94394cb8a2164a33.webp",
    "image_w": 1366,
    "image_h": 910
@@ -18314,7 +18505,7 @@
      "body_sha256": "74786ef5aed20c3fb8382c660e5c317814d77cfa4223e341ab73e920ca8d46cb"
     }
    },
-   "rank": 56.648,
+   "rank": 55.925,
    "image_url": "https://img.24n.cz/p/2026/10/mat-troikh-detei-ostaetsia-s-2-tysiachami-kron-v-mesiats-gro-1c15aa11aea45dde.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/mat-troikh-detei-ostaetsia-s-2-tysiachami-kron-v-mesiats-gro-513e18ed9493e879.webp"
@@ -18530,7 +18721,7 @@
      "body_sha256": "477056aac90bcc5ad23fbe8137878afe2e4942c0501d6b2af2b0d529fbb684ec"
     }
    },
-   "rank": 78.677,
+   "rank": 77.674,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -18769,7 +18960,7 @@
      "body_sha256": "cb82ebed484b5d79a7b49c6d1d27e0caca490ebfc4f0fb7b044e64d1970bfdb6"
     }
    },
-   "rank": 62.942,
+   "rank": 62.139,
    "image_url": "https://img.24n.cz/p/2026/10/shtraf-s-radara-nedeistvitelen-reshenie-suda-v-chekhii-34b3d62167689c93.webp",
    "image_w": 1200,
    "image_h": 674
@@ -19032,7 +19223,7 @@
      "body_sha256": "608faf71d2c4bae01feb31ad0572753416ca5d4c3285996a2d56987cf62e6b06"
     }
    },
-   "rank": 70.495,
+   "rank": 69.596,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -19430,7 +19621,7 @@
      "body_sha256": "83f1ce32e031a53cd320d0dbaf283e17c9576913ab15f7e16570255f14f6ed9a"
     }
    },
-   "rank": 50.354
+   "rank": 49.711
   },
   {
    "id": "n6843",
@@ -19652,7 +19843,7 @@
      "body_sha256": "a77de3a7a0db7f833de79c1c60e49b8fde9162f081e291006f6f521d89872f0d"
     }
    },
-   "rank": 65.249,
+   "rank": 64.406,
    "sources": [
     {
      "domain": "tv.idnes.cz",
@@ -19886,7 +20077,7 @@
      "body_sha256": "604e1ccb7b1aba0a0979889aaa9085e077dbea4376966bfa7423ff088ef60449"
     }
    },
-   "rank": 59.035,
+   "rank": 58.272,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-natland-vpervye-investiruet-v-nedvizhimost-liukse-f4f6208ca69f720c.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -20075,7 +20266,7 @@
      "body_sha256": "cf7bddae1890fd0f4b38f0a88bed44f6fd9a297a3bc46747c5ac165c4bc66217"
     }
    },
-   "rank": 55.928,
+   "rank": 55.205,
    "image_url": "https://img.24n.cz/p/2026/10/spilberk-investicni-skupina-brno-ot-restitutsii-k-millionam-577e3ac6b6aad9b8.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -20294,7 +20485,7 @@
      "body_sha256": "001ae6a869964e31455d08c52c91ca368e74409b5b5d4ce72c62fc7d74dd6d12"
     }
    },
-   "rank": 71.463
+   "rank": 70.54
   },
   {
    "id": "n6839",
@@ -20503,7 +20694,7 @@
      "body_sha256": "d5bf05643109b3977a4d0c65ca4766a0a65e84951bc8e4cae532c5a0281da801"
     }
    },
-   "rank": 64.404,
+   "rank": 63.561,
    "sources": [
     {
      "domain": "abicko.cz",
@@ -20799,7 +20990,7 @@
      "body_sha256": "c736824bd203363afd9e668cc4ec862c0665a8af89c479e0eda413dcc6e631c5"
     }
    },
-   "rank": 61.337
+   "rank": 60.535
   },
   {
    "id": "n6837",
@@ -21003,7 +21194,7 @@
      "body_sha256": "c2ecaa19d9ac0bbd1114e16e91f8b15189cdfb27352c8712d522c67c5cb00ea9"
     }
    },
-   "rank": 60.503,
+   "rank": 59.7,
    "image_url": "https://img.24n.cz/p/2026/10/v-chekhii-otozvali-rozysk-predprinimatelia-albina-arifovicha-d77aac8ad0ed0efe.webp",
    "image_w": 1200,
    "image_h": 674
@@ -21184,7 +21375,7 @@
      "body_sha256": "a377e9f5b46abed2d2b4edffbefa79f5f067ef007aa518e9e522fdfc1f263645"
     }
    },
-   "rank": 54.453,
+   "rank": 53.73,
    "image_url": "https://img.24n.cz/p/2026/10/shest-detei-so-spetspotrebnostiami-v-klasse-trudnosti-uchite-1621f7fde7447795.webp",
    "image_w": 1200,
    "image_h": 675
@@ -21493,7 +21684,7 @@
      "body_sha256": "e641ac33385439311aec39967145709621e018c98d78d17ab366469475ef62b8"
     }
    },
-   "rank": 71.999,
+   "rank": 71.043,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -21796,7 +21987,7 @@
      "body_sha256": "5b4c3798eb13d8abc3aa4e286a4a3081821e08d6c1b8b98402223a78626945bf"
     }
    },
-   "rank": 53.728,
+   "rank": 53.005,
    "sources": [
     {
      "domain": "i117.cz",
@@ -22101,7 +22292,7 @@
      "body_sha256": "b4b772ff37686667ec0a96eaf4e1ef1242b1fe8996e19d244b839655e1bc928b"
     }
    },
-   "rank": 58.891,
+   "rank": 58.088,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-na-39-m-meste-v-reitinge-korruptsii-59-ballov-iz-10-7bd91f2dec7100d1.webp",
    "image_w": 1366,
    "image_h": 910
@@ -22301,7 +22492,7 @@
      "body_sha256": "20bc37cdbbcad8863c2456542d3b6197830332aa214a0ce68b7a59c4f30b7dee"
     }
    },
-   "rank": 55.161,
+   "rank": 54.398,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -22557,7 +22748,7 @@
      "body_sha256": "d1097b8c0ddb84e42d95772ac56cf43a99243d8de256bd550fe5e234a033533c"
     }
    },
-   "rank": 54.87,
+   "rank": 54.112,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -22862,7 +23053,7 @@
      "body_sha256": "fc9dfba03ea4f11721e84c7db35045d6a8578b61faef822ac59f3ca6c9416293"
     }
    },
-   "rank": 72.756,
+   "rank": 71.736,
    "sources": [
     {
      "domain": "praha13.cz",
@@ -23062,7 +23253,7 @@
      "body_sha256": "4226e4687385827d19947efda833e90a17f47e2aba4a1e3ef97c7165d62f8f84"
     }
    },
-   "rank": 59.414,
+   "rank": 58.571,
    "image_url": "https://img.24n.cz/p/2026/09/pechatnye-listovki-vliiaiut-na-vybor-kazhdogo-vtorogo-izbira-63d72e123ec703b7.webp",
    "image_w": 1366,
    "image_h": 910
@@ -23301,7 +23492,7 @@
      "body_sha256": "1b89ccd6e83fd1f584f4a5f996bdc1c869d6e0dac8771a6efd1b9bd3bd008a70"
     }
    },
-   "rank": 56.585,
+   "rank": 55.782,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-startap-theorema-uskoriaet-nauku-s-pomoshchiu-ii-m-7d53d6a66e504031.webp",
    "image_w": 670,
    "image_h": 377
@@ -23590,7 +23781,7 @@
      "body_sha256": "b2837889ddf8f88ac296125d6e660ca637045a714401152556bd0e7a3da11e19"
     }
    },
-   "rank": 63.375,
+   "rank": 62.476,
    "sources": [
     {
      "domain": "prazskypatriot.cz",
@@ -23812,7 +24003,7 @@
      "body_sha256": "6cee5b3e5ec4a34780d88d8c4bf583c364f28c85acea394397a332fa35fdfbb2"
     }
    },
-   "rank": 47.406,
+   "rank": 46.724,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -24063,7 +24254,7 @@
      "body_sha256": "fe8c2bff0ce04e9d2b3f7e6c215afdaba036fac86f316134b2202e0693012859"
     }
    },
-   "rank": 61.349,
+   "rank": 60.466,
    "sources": [
     {
      "domain": "jihlavska.drbna.cz",
@@ -24280,7 +24471,7 @@
      "body_sha256": "5f72e971ab3f047159d7ace3df3d44c8ecc9e150fc7ba856ffd4cb51a29965ee"
     }
    },
-   "rank": 56.123,
+   "rank": 55.304,
    "sources": [
     {
      "domain": "pavelhaasquartet.com",
@@ -24556,7 +24747,7 @@
      "body_sha256": "47db6afecbdd7fdd9e62b3b8abc618ece011d2d8356290e79caafb629818fa42"
     }
    },
-   "rank": 48.113,
+   "rank": 47.391,
    "image_url": "https://img.24n.cz/p/2026/10/raznoobrazie-vkusov-ambiente-gid-po-luchshim-restoranam-i-pe-bfac8fc109e2c4b0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/raznoobrazie-vkusov-ambiente-gid-po-luchshim-restoranam-i-pe-03d2bf2de8cd6bb4.webp",
@@ -24796,7 +24987,7 @@
      "body_sha256": "7306ec788f99e32e257863e47862cc2aef2dcd619d13527716111c64a0bf955d"
     }
    },
-   "rank": 56.132,
+   "rank": 55.289,
    "image_url": "https://img.24n.cz/p/2026/10/andrei-babish-podvel-itogi-raboty-pravitelstva-i-otvetil-na-bd2b1e4079e939cd.webp",
    "image_w": 630,
    "image_h": 350
@@ -25006,7 +25197,7 @@
      "body_sha256": "9eb5b6d262adfcdc983311d71a9a298cd87058e348aa8788dd8aec527a3bd3c9"
     }
    },
-   "rank": 51.855,
+   "rank": 51.077,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -25335,7 +25526,7 @@
      "body_sha256": "c9d7178e1b902535975b9207993459ae6f415a374cd0d59e4141e70b92eeb877"
     }
    },
-   "rank": 49.182,
+   "rank": 48.444,
    "sources": [
     {
      "domain": "czechdesignmag.cz",
@@ -25593,7 +25784,7 @@
      "body_sha256": "aecbe12ec739989acf3e13717212bfdc314eb25523a1f7ba30f6755e1e5c2418"
     }
    },
-   "rank": 51.07,
+   "rank": 50.267,
    "image_url": "https://img.24n.cz/p/2026/10/debaty-liderov-pered-vyborami-havlicek-udivilsia-kritike-pre-e3ea478858d0edac.webp",
    "image_w": 1200,
    "image_h": 674
@@ -25817,7 +26008,7 @@
      "body_sha256": "cc151a33367ce721aa0820273cb495aa3174257c8e4cfb88d84e25d5407d96c4"
     }
    },
-   "rank": 47.819,
+   "rank": 47.057,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -26007,7 +26198,7 @@
      "body_sha256": "e9b7bf6f6770105915ad2acca970cb5cdf6477659cf36115eef889c551e3535e"
     }
    },
-   "rank": 78.585,
+   "rank": 78.233,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -26227,7 +26418,7 @@
      "body_sha256": "79175ab95e2c8755ec525a3198527c7a5e31872c788337155e4d0c9bfa87f255"
     }
    },
-   "rank": 39.0,
+   "rank": 38.358,
    "image_url": "https://img.24n.cz/p/2026/10/rybaki-vo-zlinsky-kraj-biut-trevogu-iz-za-silnoi-zasukhi-a94ee0b5bda0886c.jpeg",
    "image_w": 620,
    "image_h": 349
@@ -26322,7 +26513,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 40.801
+   "rank": 40.126
   },
   {
    "id": "n6814",
@@ -26514,7 +26705,7 @@
      "body_sha256": "aa22ff11a2426e6a37cd96560117a3be0207c7093396954fa8bada298e79b741"
     }
    },
-   "rank": 41.782,
+   "rank": 41.084,
    "sources": [
     {
      "domain": "news.sk",
@@ -26704,7 +26895,7 @@
      "body_sha256": "6d60072f9686e49f3d5fcda66f185ce267493811c3fd612f08492342c65a757a"
     }
    },
-   "rank": 54.065,
+   "rank": 53.15,
    "sources": [
     {
      "domain": "respekt.cz",
@@ -26876,7 +27067,7 @@
      "body_sha256": "27435ceb2eb5916f81e6981365a2a8cefbc1f42f59526b04648bb529d2090e8e"
     }
    },
-   "rank": 51.127,
+   "rank": 50.244,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -27068,7 +27259,7 @@
      "body_sha256": "a097347285afaca8ca7fb68d288c39d432f8af5eb5e3b1f2f5c4a18fa1b76adc"
     }
    },
-   "rank": 48.803,
+   "rank": 47.96,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -27317,7 +27508,7 @@
      "body_sha256": "f4974463912e8319a490a222d60c4ea94f6fb882b1ccd685494cd702dd5bb148"
     }
    },
-   "rank": 48.338,
+   "rank": 47.503,
    "sources": [
     {
      "domain": "czechdaily.cz",
@@ -27549,7 +27740,7 @@
      "body_sha256": "3c7acfda4c1270429df5a4816b1d025f49b941a1be1aa531e5415a04158182a0"
     }
    },
-   "rank": 51.086,
+   "rank": 50.187,
    "sources": [
     {
      "domain": "metro.cz",
@@ -27646,7 +27837,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 36.901,
+   "rank": 36.243,
    "forecast": true
   },
   {
@@ -27839,7 +28030,7 @@
      "body_sha256": "20e4bbf742f22d10d37e510f9a8fce49c86c32e619c1da8ab36c0c828ac3574a"
     }
    },
-   "rank": 49.718,
+   "rank": 48.794,
    "image_url": "https://img.24n.cz/p/2026/10/moshennichestvo-na-95-millionov-rukovodstvo-biogazovoi-stant-12e4b5afcce178ce.webp",
    "image_w": 1200,
    "image_h": 675
@@ -28008,7 +28199,7 @@
      "body_sha256": "47eb804ddddbfe90e6f5fea66b9efb00ebf355f3a86172165332392f1fcabbd6"
     }
    },
-   "rank": 47.621,
+   "rank": 46.721,
    "sources": [
     {
      "domain": "europesays.com",
@@ -28186,7 +28377,7 @@
      "body_sha256": "9fb311f2a015bd6c3ba4340ae2d4b75ecd57c8e8f2ab7401a69e4b18d791e66f"
     }
    },
-   "rank": 42.518,
+   "rank": 41.716,
    "image_url": "https://img.24n.cz/p/2026/10/bezdomnyi-ugnal-avtobus-v-plzeni-i-vrezalsia-v-kiuvet-sud-ot-467107144a6ac66f.webp",
    "image_w": 1200,
    "image_h": 675
@@ -28404,7 +28595,7 @@
      "body_sha256": "5cbf2bfa23d8621e60dc8a772954cb8350fcfc1e0c4e4afad0212b38c3b7ef6f"
     }
    },
-   "rank": 43.791
+   "rank": 42.948
   },
   {
    "id": "n6803",
@@ -28710,7 +28901,7 @@
      "body_sha256": "54759ab43c44b06d1164cfdb48bcb664dc5cdd18bf2388216302da261177f262"
     }
    },
-   "rank": 45.876
+   "rank": 44.993
   },
   {
    "id": "n6802",
@@ -28854,7 +29045,7 @@
      "body_sha256": "b427bac94631ba4041f8d52799e8c684ca30fa6ec92202cefd4caeaf916c104e"
     }
    },
-   "rank": 43.226,
+   "rank": 42.363,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -29075,7 +29266,7 @@
      "body_sha256": "e335fbbb50e112d4ea4467fe14612f675d60b421f955c7b310bfcba2f0550e1f"
     }
    },
-   "rank": 42.221,
+   "rank": 41.378,
    "image_url": "https://img.24n.cz/p/2026/10/strelba-na-velodorozhke-sud-ostavil-v-sile-prigovor-voditeli-76abe2bfda5e05e8.webp",
    "image_w": 1200,
    "image_h": 675
@@ -29211,7 +29402,7 @@
      "body_sha256": "1b5594eae4547f4269c33276e3f01caef4c750e0768d73bff576a52f26f55dea"
     }
    },
-   "rank": 17.773,
+   "rank": 17.412,
    "image_url": "https://img.24n.cz/p/2026/10/osennii-vizit-v-teplye-peshchery-zbrasovske-aragonitove-jesk-9dc57711756a29db.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/osennii-vizit-v-teplye-peshchery-zbrasovske-aragonitove-jesk-549c978b1d927d1c.webp"
@@ -29411,7 +29602,7 @@
      "body_sha256": "da8a7c002dc3a1270cdec7f8bcada0943acdd8e32bcdd79327784c6a2445323e"
     }
    },
-   "rank": 37.521,
+   "rank": 36.758,
    "image_url": "https://img.24n.cz/p/2026/10/rabota-v-spacex-kult-musk-i-mechta-o-marse-vmesto-obychnogo-60296f6a7b208118.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -29650,7 +29841,7 @@
      "body_sha256": "6ff57ea19768c69f422ebfff61109491cc88f31cb4c38f906f7fbde5c9196c7b"
     }
    },
-   "rank": 30.906,
+   "rank": 30.264,
    "image_url": "https://img.24n.cz/p/2026/10/voditeli-fur-poekhali-po-koridoru-dlia-spasatelei-na-trasse-5dd440aa0b4bcd1b.webp",
    "video": {
     "kind": "iframe",
@@ -29849,7 +30040,7 @@
      "body_sha256": "ee448f522568165223b8bde67c274f99c40e21e2d814b2a6a42998a55a982a72"
     }
    },
-   "rank": 46.367,
+   "rank": 45.364,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -30027,7 +30218,7 @@
      "body_sha256": "72b46ccbff71d0f4a23c4c5adc0aa013c814fce0c42809859a61bed81271c605"
     }
    },
-   "rank": 38.949,
+   "rank": 38.106,
    "image_url": "https://img.24n.cz/p/2026/09/v-plzeni-syn-s-nozhami-napal-na-ottsa-i-ubil-brata-prevratil-10b3d4b0b1e18329.webp",
    "image_w": 1200,
    "image_h": 675
@@ -30356,7 +30547,7 @@
      "body_sha256": "d65a9bc0ccfa7f91df1c40d3d5576aa1f769196f07f9faf4635a687b034ddf84"
     }
    },
-   "rank": 38.079,
+   "rank": 37.236,
    "image_url": "https://img.24n.cz/p/2026/10/kak-podtverdit-lichnost-na-vyborakh-s-pomoshchiu-telefona-92a177d489a1cc18.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/pechatnye-listovki-vliiaiut-na-vybor-kazhdogo-vtorogo-izbira-63d72e123ec703b7.webp"
@@ -30552,7 +30743,7 @@
      "body_sha256": "c50a3cb4f5f9e141bf2ced71554a0a1b63cf5d55ef3c33813b03318e291d456a"
     }
    },
-   "rank": 36.266,
+   "rank": 35.463,
    "image_url": "https://img.24n.cz/p/2026/10/50-idei-dlia-poezdok-po-cheshskim-zamkam-i-krepostiam-krugly-f1d71919fbb79901.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/50-idei-dlia-poezdok-po-cheshskim-zamkam-i-krepostiam-krugly-35b9d315fec425f2.webp",
@@ -30605,8 +30796,8 @@
    ],
    "published_at": "2026-10-07T11:53:42.977637+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "7 октября 2026, 11:53",
@@ -30773,7 +30964,7 @@
      "body_sha256": "ae394af9b681652dbc1136a4e1725a024ab9ea5dee457eb8692722df75a6215c"
     }
    },
-   "rank": 39.659,
+   "rank": 39.2,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -42194,7 +42385,7 @@
      "body_sha256": "90b5ec8b1d9b7a888ed7abde62de7ba050fd24fed3c283ec6219f3b843d83d5a"
     }
    },
-   "rank": 56.828,
+   "rank": 56.494,
    "image_url": "https://img.24n.cz/p/2026/10/iz-aptek-chekhii-otzyvaiut-populiarnyi-ingaliator-ot-astmy-7dc41b8eb34194c9.webp",
    "image_w": 1200,
    "image_h": 630
@@ -45963,8 +46154,8 @@
    ],
    "published_at": "2026-10-06T12:05:51.146095+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "6 октября 2026, 12:05",
@@ -46311,8 +46502,8 @@
    ],
    "published_at": "2026-10-06T12:05:51.146095+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "6 октября 2026, 12:05",
@@ -67295,286 +67486,6 @@
     }
    },
    "rank": 35.0
-  },
-  {
-   "id": "n6629",
-   "slug": "tsifrovoi-arkhiv-the-prague-post-pervye-nomera-gazety-vylozhili-onlain",
-   "source": "praguemorning.cz",
-   "original_url": "https://praguemorning.cz/prague-post-digital-archive-anniversary/",
-   "top": false,
-   "tags": [
-    "dosug",
-    "cesko"
-   ],
-   "published_at": "2026-10-05T05:10:22.474938+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "5 октября 2026, 05:10",
-    "uk": "5 жовтня 2026, 05:10"
-   },
-   "ru": {
-    "title": "Цифровой архив The Prague Post: первые номера газеты выложили онлайн к 35-летию",
-    "lede": "К 35-летию со дня выхода первого номера старейшей англоязычной газеты Чехословакии The Prague Post запущен цифровой архив. Теперь любой желающий может читать выпуски 1991-1994 годов и следить за еженедельным пополнением коллекции.",
-    "meta_description": "Цифровой архив The Prague Post открыл доступ к первым номерам газеты, вышедшим в 1991-1994 годах. Проект отмечает 35-летие издания и приглашает…",
-    "paras": [
-     "<p>В честь 35-летия со дня выхода первого номера <b>The Prague Post</b> некоммерческая организация <b>Modrá sova z.s.</b> запустила цифровой архив газеты. Теперь любой желающий может онлайн читать и искать по тексту выпуски, опубликованные с 1991 по 1994 год.</p>",
-     "<p>Первый номер <b>The Prague Post</b> вышел 1 октября 1991 года. Газета стала старейшим англоязычным еженедельником в Чехословакии и за годы существования освещала политические, социальные и культурные изменения в стране. Теперь история этих событий доступна в новом формате.</p>",
-     "<h3>Как работает архив</h3>",
-     "<p>Открывает коллекцию самый первый выпуск, его можно прочитать целиком. Дальше каждую неделю в архив добавляют новый номер: тот самый, что вышел 35 лет назад в это же время. Так читатели увидят, как разворачивались события начала 1990-х, если смотреть на них глазами газеты.</p>",
-     "<p>Администрирует проект Modrá sova z.s., англоязычная библиотека и учебный центр в деревне Loužnice. Там хранятся бумажные архивы The Prague Post. Выпуски за первые три года существования газеты уже отсканированы и обработаны, но работа продолжается.</p>",
-     "<h3>Что дальше</h3>",
-     "<p>Оцифровка оставшихся выпусков - задача на годы. По словам организаторов, предстоит обработать около двух десятилетий газетных номеров. Пока проект финансировался самостоятельно, но теперь <b>Modrá sova z.s.</b> приглашает поддержать его через официальный сайт.</p>",
-     "<p>Архив также принимает запросы на поиск конкретных статей и открыт для посетителей по предварительной записи. Контактное лицо по проекту - <b>Mimi Fronczak-Rogers</b> (email: <b>mimi@modrasova.cz</b>, телефон: <b>+420 721 518 385</b>).</p>",
-     "<h3>История создания газеты</h3>",
-     "<p>Основательницей <b>The Prague Post</b> стала <b>Lisa Leshne</b> (урождённая Франкенберг), которая ранее работала в ежемесячной газете <b>Prognosis</b>. Она уволилась оттуда 4 июля 1991 года и уже через несколько месяцев запустила первый номер нового издания.</p>",
-     "<p>В интервью <b>english.radio.cz</b> Лиза Лешне вспоминала, как быстро всё происходило: <em>«Когда я оглядываюсь назад, меня поражает, как быстро мы нашли свой ритм. Можно сказать, это произошло почти мгновенно»</em>. Она также рассказала, что первая реакция читателей была восторженной, но с оговоркой: <em>«Как здорово, что в Праге появилась англоязычная газета - но было бы ещё лучше, если бы она выходила чаще, чем раз в месяц»</em>.</p>",
-     "<p>Сегодня архив <b>The Prague Post</b> доступен не только на сайте, но и в социальных сетях - на страницах проекта в <b>Facebook</b> и <b>Instagram</b> публикуются обновления о новых оцифрованных выпусках и ходе работы.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Где можно найти цифровой архив The Prague Post?",
-      "a": "Архив доступен онлайн на сайте проекта, который администрирует некоммерческая организация Modrá sova z.s. Также обновления публикуются в социальных сетях Facebook и Instagram."
-     },
-     {
-      "q": "Какие годы газеты уже оцифрованы?",
-      "a": "На данный момент полностью оцифрованы и доступны для чтения выпуски The Prague Post, вышедшие в период с 1991 по 1994 год."
-     },
-     {
-      "q": "Как можно поддержать проект оцифровки архива?",
-      "a": "Организация Modrá sova z.s. приглашает частных лиц и компании поддержать проект финансово через официальный сайт архива. Средства пойдут на оцифровку оставшихся выпусков."
-     },
-     {
-      "q": "Можно ли посетить архив лично?",
-      "a": "Да, физический архив The Prague Post хранится в учебном центре Modrá sova в Loužnice. Посещения возможны по предварительной записи."
-     }
-    ],
-    "impact": "Цифровой архив The Prague Post открывает доступ к первым номерам газеты для всех желающих. Проект позволяет изучать историю Чехии начала 1990-х годов через призму англоязычной прессы. Оцифровка оставшихся выпусков продолжается - поддержать её можно через официальный сайт архива.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Некоммерческая организация Modrá sova z.s. запустила цифровой архив The Prague Post к 35-летию первого номера газеты.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Первый номер The Prague Post вышел 1 октября 1991 года.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Каждую неделю в архив добавляют номер, вышедший 35 лет назад в это же время.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Оцифровка оставшихся выпусков займёт годы: предстоит обработать около двух десятилетий номеров.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Modrá sova z.s.",
-       "definition": "Некоммерческая организация, англоязычная библиотека и учебный центр в деревне Loužnice, где хранятся бумажные архивы The Prague Post.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Как пользоваться архивом",
-      "items": [
-       {
-        "text": "Читать и искать по тексту выпуски 1991-1994 годов онлайн.",
-        "target": {
-         "block": 1,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Следить за еженедельным пополнением: каждую неделю добавляют номер, вышедший 35 лет назад.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Поддержать проект через официальный сайт Modrá sova z.s.",
-        "target": {
-         "block": 7,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Отправить запрос на поиск конкретных статей.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Посетить архив по предварительной записи.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Следить за обновлениями о новых оцифрованных выпусках в Facebook и Instagram.",
-        "target": {
-         "block": 12,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "6a31408f3397de57963b2fe51344bbc56a54ac32e5f542b860ef70772bd76717"
-    }
-   },
-   "uk": {
-    "title": "Цифровий архів The Prague Post: перші номери газети виклали онлайн до 35-річчя",
-    "lede": "До 35-річчя від дня виходу першого номера найстарішої англомовної газети Чехословаччини The Prague Post запущено цифровий архів. Тепер кожен охочий може читати випуски 1991-1994 років і стежити за щотижневим поповненням колекції.",
-    "meta_description": "Цифровий архів The Prague Post відкрив доступ до перших номерів газети, що вийшли у 1991-1994 роках. Проєкт відзначає 35-річчя видання і запрошує...",
-    "paras": [
-     "<p>На честь 35-річчя від дня виходу першого номера <b>The Prague Post</b> некомерційна організація <b>Modrá sova z.s.</b> запустила цифровий архів газети. Тепер кожен охочий може онлайн читати і шукати за текстом випуски, опубліковані з 1991 по 1994 рік.</p>",
-     "<p>Перший номер <b>The Prague Post</b> вийшов 1 жовтня 1991 року. Газета стала найстарішим англомовним тижневиком у Чехословаччині і за роки існування висвітлювала політичні, соціальні та культурні зміни в країні. Тепер історія цих подій доступна в новому форматі.</p>",
-     "<h3>Як працює архів</h3>",
-     "<p>Відкриває колекцію найперший випуск, його можна прочитати повністю. Далі щотижня в архів додають новий номер: той самий, що вийшов 35 років тому в цей же час. Так читачі побачать, як розгорталися події початку 1990-х, якщо дивитися на них очима газети.</p>",
-     "<p>Адмініструє проєкт Modrá sova z.s., англомовна бібліотека та навчальний центр у селі Loužnice. Там зберігаються паперові архіви The Prague Post. Випуски за перші три роки існування газети вже відскановані та оброблені, але робота триває.</p>",
-     "<h3>Що далі</h3>",
-     "<p>Оцифрування випусків, що залишилися, є завданням на роки. За словами організаторів, належить обробити близько двох десятиліть газетних номерів. Поки що проєкт фінансувався самостійно, але тепер <b>Modrá sova z.s.</b> запрошує підтримати його через офіційний сайт.</p>",
-     "<p>Архів також приймає запити на пошук конкретних статей і відкритий для відвідувачів за попереднім записом. Контактна особа щодо проєкту - <b>Mimi Fronczak-Rogers</b> (email: <b>mimi@modrasova.cz</b>, телефон: <b>+420 721 518 385</b>).</p>",
-     "<h3>Історія створення газети</h3>",
-     "<p>Засновницею <b>The Prague Post</b> стала <b>Lisa Leshne</b> (уроджена Франкенберг), яка раніше працювала в щомісячній газеті <b>Prognosis</b>. Вона звільнилася звідти 4 липня 1991 року і вже за кілька місяців запустила перший номер нового видання.</p>",
-     "<p>В інтерв'ю <b>english.radio.cz</b> Ліза Лешне згадувала, як швидко все відбувалося: <em>«Коли я оглядаюся назад, мене вражає, як швидко ми знайшли свій ритм. Можна сказати, це сталося майже миттєво»</em>. Вона також розповіла, що перша реакція читачів була захопленою, але з омовною: <em>«Як чудово, що в Празі з'явилася англомовна газета, але було б ще краще, якби вона виходила частіше, ніж раз на місяць»</em>.</p>",
-     "<p>Сьогодні архів <b>The Prague Post</b> доступний не лише на сайті, а й у соціальних мережах: на сторінках проєкту у <b>Facebook</b> та <b>Instagram</b> публікуються оновлення про нові оцифровані випуски та хід роботи.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Де можна знайти цифровий архів The Prague Post?",
-      "a": "Архів доступний онлайн на сайті проєкту, який адмініструє некомерційна організація Modrá sova z.s. Також оновлення публікуються в соціальних мережах Facebook та Instagram."
-     },
-     {
-      "q": "Які роки газети вже оцифровані?",
-      "a": "Наразі повністю оцифровані та доступні для читання випуски The Prague Post, що вийшли в період з 1991 по 1994 рік."
-     },
-     {
-      "q": "Як можна підтримати проєкт оцифрування архіву?",
-      "a": "Організація Modrá sova z.s. запрошує приватних осіб та компанії підтримати проєкт фінансово через офіційний сайт архіву. Кошти підуть на оцифрування випусків, що залишилися."
-     },
-     {
-      "q": "Чи можна відвідати архів особисто?",
-      "a": "Так, фізичний архів The Prague Post зберігається в навчальному центрі Modrá sova в Loužnice. Відвідування можливі за попереднім записом."
-     }
-    ],
-    "impact": "Цифровой архив The Prague Post открывает доступ к первым номерам газеты для всех желающих. Проект позволяет изучать историю Чехии начала 1990-х годов через призму англоязычной прессы. Оцифровка оставшихся выпусков продолжается - поддержать её можно через официальный сайт архива.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Некомерційна організація Modrá sova z.s. запустила цифровий архів The Prague Post до 35-річчя першого номера, і тепер онлайн доступні випуски 1991-1994 років.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Перший номер The Prague Post вийшов 1 жовтня 1991 року, і газета стала найстарішим англомовним тижневиком у Чехословаччині.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Щотижня в архів додають новий номер — той самий, що вийшов 35 років тому в цей же час.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Оцифрування решти випусків є завданням на роки: обробити належить близько двох десятиліть газетних номерів.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Як скористатися архівом",
-      "items": [
-       {
-        "text": "Читайте онлайн випуски The Prague Post 1991-1994 років і шукайте за текстом.",
-        "target": {
-         "block": 1,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Стежте за щотижневим поповненням: додають номер, що вийшов 35 років тому в цей же час.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Підтримайте проєкт через офіційний сайт Modrá sova z.s.",
-        "target": {
-         "block": 7,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Надішліть запит на пошук конкретних статей.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Відвідайте архів особисто за попереднім записом.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Слідкуйте за оновленнями про нові оцифровані випуски у Facebook та Instagram.",
-        "target": {
-         "block": 12,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "efddd4938f3428d6ce0e546a59ca919559b56448a3dd1497b0ac6f094341d509"
-    }
-   },
-   "rank": 25.2,
-   "sources": [
-    {
-     "domain": "english.radio.cz",
-     "official": false,
-     "url": "https://english.radio.cz/it-was-incredible-period-1991-launch-prague-post-remembered-8729785",
-     "title": "“It was an incredible period”: 1991 launch of Prague Post remembered | Radio Prague International"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1
   }
  ]
 }
