@@ -1,8 +1,167 @@
 {
- "updated_at": "2026-10-09T10:41:07+00:00",
+ "updated_at": "2026-10-09T11:17:03+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n6933",
+   "slug": "v-prage-4-meniaiut-pravila-parkovki-platit-pridetsia-nochiu",
+   "source": "prazsky.denik.cz",
+   "original_url": "https://prazsky.denik.cz/zpravy-region/zony-placeneho-stani-v-praze-4-meni-pravidla-navstevnici-budou-platit-i-v-noci/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zpravy-region",
+   "top": false,
+   "tags": [
+    "praha"
+   ],
+   "published_at": "2026-10-09T13:17:03.049426+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "9 октября 2026, 13:17",
+    "uk": "9 жовтня 2026, 13:17"
+   },
+   "ru": {
+    "title": "В Праге 4 меняют правила парковки: платить придется ночью",
+    "lede": "В Праге 4 кардинально меняются правила работы платных парковочных зон. Нововведения затронут как время оплаты для гостей района, так и потенциальное расширение системы на новые улицы.",
+    "meta_description": "В Праге 4 меняются правила парковочных зон. Новое время оплаты введут для гостей, а жителей спрашивают о расширении системы на новые районы.",
+    "paras": [
+     "<p>В Праге 4 меняются правила работы зон платного паркования. Теперь гостям района придётся платить за стоянку и ночью.</p>",
+     "<p>Парковочные зоны будут работать с воскресных 17:00 до пятничных 17:00. Замена дорожных знаков в городской части уже началась. Менять разметку и знаки будут до весны 2027 года.</p>",
+     "<blockquote>Мы создали эту поправку так, чтобы она была максимально в интересах жителей нашей городской части. Мы учли как многолетний опыт и знания, так и предложения и требования жителей Прага 4.</blockquote>",
+     "<p>Так нововведения прокомментировал советник по вопросам транспорта Праги 4 Jaroslav Míth (ODS). По его словам, изменения разработаны с учетом интересов местных жителей и их многочисленных запросов.</p>",
+     "<h3>Опрос среди жителей</h3>",
+     "<p>На этой неделе ратуша Праги 4 запустила официальную анкету. Местные жители могут высказать мнение о том, стоит ли вводить платные парковочные зоны в других кварталах городской части, где их пока нет.</p>",
+     "<p>Голосование охватывает несколько конкретных локаций. Среди них значатся Hodkovičky, Novodvorskou, Dolní Krč, Tempo, Krč, Starý и Nový Spořilov. Все желающие могут выразить свою позицию до 30 октября.</p>",
+     "<h3>Как устроены парковки в столице</h3>",
+     "<p>Первые подобные зоны в современном виде появились в Праге еще в 1996 году на территории Praha 1, хотя попытки навести порядок с транспортом предпринимались там еще в 1982 году. Со временем система разрослась и охватила Praha 1 до 10, а также Praha 13, 16 и 22.</p>",
+     "<p>В чешской столице традиционно используется три цветовых типа парковочных зон. Оранжевая предназначена исключительно для короткой стоянки гостей, которые могут оставить машину максимум на два часа. Фиолетовая зона носит смешанный характер и доступна как для местных резидентов с долгосрочными разрешениями, так и для приезжих. Синяя зона зарезервирована преимущественно для жителей.</p>",
+     "<p>Для остальных автомобилистов действует общее правило короткой стоянки. В центре города машину можно оставить на один час, а за его пределами - на три часа. На территории Праги 4 первые платные зоны появились на выборочных участках в 2018 и 2019 годах.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Когда начнет действовать новое время парковки в Праге 4?",
+      "a": "Новый режим охватывает период с воскресных 17:00 до пятничных 17:00, а замена знаков продлится до весны 2027 года."
+     },
+     {
+      "q": "До какого числа жители могут голосовать за новые зоны?",
+      "a": "Анкета для жителей кварталов Hodkovičky, Novodvorskou, Dolní Krč, Tempo, Krč, Starý и Nový Spořilov открыта до 30 октября."
+     }
+    ],
+    "impact": "Для водителей, приезжающих в Прагу 4, парковка станет платной в ночное время в рамках нового графика с вечера воскресенья до вечера пятницы. Жители указанных в опросе районов могут до 30 октября высказать свое мнение о возможном появлении зон у их домов.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Парковочные зоны в Праге 4 будут работать с воскресных 17:00 до пятничных 17:00, а замена знаков и разметки продлится до весны 2027 года.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Ратуша Праги 4 запустила официальную анкету о введении платных парковочных зон в других кварталах городской части.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Голосование охватывает Hodkovičky, Novodvorskou, Dolní Krč, Tempo, Krč, Starý и Nový Spořilov, выразить позицию можно до 30 октября.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Оранжевая зона предназначена только для короткой стоянки гостей максимум на два часа, фиолетовая — смешанная, синяя — преимущественно для жителей.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "3e198598cb252b092e04c5ad97ce5e4e086037463b46076a74fff47aef242072"
+    }
+   },
+   "uk": {
+    "title": "У Празі 4 змінюють правила паркування: платити доведеться й уночі",
+    "lede": "У Празі 4 кардинально змінюються правила роботи платних паркувальних зон. Нововведення торкнуться як часу оплати для гостей району, так і можливого розширення системи на нові вулиці.",
+    "meta_description": "У Празі 4 змінюються правила паркувальних зон. Новий час оплати запровадять для гостей, а в мешканців питають про розширення системи на нові райони.",
+    "paras": [
+     "<p>У Празі 4 змінюються правила роботи зон платного паркування. Тепер гостям району доведеться платити за стоянку й уночі.</p>",
+     "<p>Паркувальні зони працюватимуть з неділі 17:00 до п'ятниці 17:00. Заміна дорожніх знаків у міській частині вже почалася. Міняти розмітку та знаки будуть до весни 2027 року.</p>",
+     "<blockquote>Ми створили цю поправку так, щоб вона була максимально в інтересах мешканців нашої міської частини. Ми врахували як багаторічний досвід і знання, так і пропозиції та вимоги мешканців Праги 4.</blockquote>",
+     "<p>Так нововведення прокоментував радник з питань транспорту Праги 4 Jaroslav Míth (ODS). За його словами, зміни розроблені з урахуванням інтересів місцевих мешканців та їхніх численних запитів.</p>",
+     "<h3>Опитування серед мешканців</h3>",
+     "<p>Цього тижня ратуша Праги 4 запустила офіційну анкету. Місцеві мешканці можуть висловити думку про те, чи варто запроваджувати платні паркувальні зони в інших кварталах міської частини, де їх поки немає.</p>",
+     "<p>Голосування охоплює кілька конкретних локацій. Серед них є Hodkovičky, Novodvorskou, Dolní Krč, Tempo, Krč, Starý і Nový Spořilov. Усі охочі можуть висловити свою позицію до 30 жовтня.</p>",
+     "<h3>Як влаштовані парковки у столиці</h3>",
+     "<p>Перші подібні зони в сучасному вигляді з'явилися в Празі ще 1996 року на території Praha 1, хоча спроби навести лад із транспортом там робили ще 1982 року. Згодом система розрослася й охопила Praha 1 до 10, а також Praha 13, 16 і 22.</p>",
+     "<p>У чеській столиці традиційно використовується три кольорові типи паркувальних зон. Помаранчева призначена виключно для короткої стоянки гостей, які можуть залишити машину щонайбільше на дві години. Фіолетова зона має змішаний характер і доступна як для місцевих резидентів із довгостроковими дозволами, так і для приїжджих. Синя зона зарезервована переважно для мешканців.</p>",
+     "<p>Для решти автомобілістів діє загальне правило короткої стоянки. У центрі міста машину можна залишити на одну годину, а за його межами на три години. На території Праги 4 перші платні зони з'явилися на вибіркових ділянках у 2018 і 2019 роках.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Коли почне діяти новий час паркування в Празі 4?",
+      "a": "Новий режим охоплює період з неділі 17:00 до п'ятниці 17:00, а заміна знаків триватиме до весни 2027 року."
+     },
+     {
+      "q": "До якого числа мешканці можуть голосувати за нові зони?",
+      "a": "Анкета для мешканців кварталів Hodkovičky, Novodvorskou, Dolní Krč, Tempo, Krč, Starý і Nový Spořilov відкрита до 30 жовтня."
+     }
+    ],
+    "impact": "Для водителей, приезжающих в Прагу 4, парковка станет платной в ночное время в рамках нового графика с вечера воскресенья до вечера пятницы. Жители указанных в опросе районов могут до 30 октября высказать свое мнение о возможном появлении зон у их домов.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У Празі 4 паркувальні зони працюватимуть з неділі 17:00 до п'ятниці 17:00, а заміна знаків триватиме до весни 2027 року.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Радник з питань транспорту Праги 4 Jaroslav Míth (ODS) каже, що зміни розроблені з урахуванням інтересів місцевих мешканців та їхніх численних запитів.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Ратуша Праги 4 запустила анкету, де місцеві мешканці можуть висловитися, чи варто запроваджувати платні паркувальні зони в інших кварталах міської частини.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Голосування охоплює кілька локацій, зокрема Hodkovičky, Novodvorskou, Dolní Krč, Tempo, Krč, Starý і Nový Spořilov, і триває до 30 жовтня.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "резидентів",
+       "definition": "Місцевих мешканців, які мають довгострокові дозволи на паркування у відповідній зоні.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "f3c526525c457f06cb6150ba048695d72512e017d2e9de2ac010f156831388b6"
+    }
+   },
+   "rank": 110.0
+  },
   {
    "id": "n6932",
    "slug": "vystavka-k-iubileiu-vaclav-havel-otkrylas-v-prage",
@@ -15,8 +174,8 @@
    ],
    "published_at": "2026-10-09T12:41:06.856070+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "35 минут назад",
+    "uk": "35 хвилин тому"
    },
    "date": {
     "ru": "9 октября 2026, 12:41",
@@ -182,8 +341,8 @@
    ],
    "published_at": "2026-10-09T12:41:06.856070+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "35 минут назад",
+    "uk": "35 хвилин тому"
    },
    "date": {
     "ru": "9 октября 2026, 12:41",
@@ -441,8 +600,8 @@
    ],
    "published_at": "2026-10-09T12:10:02.776126+02:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "9 октября 2026, 12:10",
@@ -1009,8 +1168,8 @@
    ],
    "published_at": "2026-10-09T11:00:36.821236+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "9 октября 2026, 11:00",
@@ -1837,8 +1996,8 @@
    ],
    "published_at": "2026-10-09T09:56:12.645353+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "9 октября 2026, 09:56",
@@ -2146,7 +2305,7 @@
      "body_sha256": "2d4f55c2396bfe5b7fdd6ac1fa8f2a7d6ef3c8064cc91905290808e29ad8c26d"
     }
    },
-   "rank": 125.0,
+   "rank": 124.373,
    "sources": [
     {
      "domain": "kunsthallepraha.org",
@@ -2401,7 +2560,7 @@
      "body_sha256": "d626833b05a9e04e07e139f68f8235c6fd121c43476808c7e4542b4f4a92d636"
     }
    },
-   "rank": 74.704,
+   "rank": 74.055,
    "image_url": "https://img.24n.cz/p/2026/10/komunalnye-vybory-v-trekh-gorodakh-groziat-partii-ods-poteri-1641af1743441dae.webp",
    "image_w": 1200,
    "image_h": 630
@@ -2671,7 +2830,7 @@
      "body_sha256": "1b36495e7a209474c646ed775377bc99006cc432a0f5249ffa429f600924aba0"
     }
    },
-   "rank": 96.617,
+   "rank": 95.778,
    "sources": [
     {
      "domain": "ekolist.cz",
@@ -2893,7 +3052,7 @@
      "body_sha256": "3ac5640cc261ecdffd4114cc9c13cac288d04e06fab91d8dcd3fc791876ebd60"
     }
    },
-   "rank": 114.546,
+   "rank": 113.551,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -3165,7 +3324,7 @@
      "body_sha256": "0de5539884c188d1097e8314ed5d6541d2c42a76e4a0ec972ce8e6e58a9c4b67"
     }
    },
-   "rank": 113.008,
+   "rank": 112.013,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -3377,7 +3536,7 @@
      "body_sha256": "511c8de3429f4c680f9f22973775eabf5687cac8da2a8422b54bb8da8b477620"
     }
    },
-   "rank": 103.181
+   "rank": 102.273
   },
   {
    "id": "n6917",
@@ -3391,8 +3550,8 @@
    ],
    "published_at": "2026-10-09T07:48:14.263596+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 07:48",
@@ -3558,7 +3717,7 @@
      "body_sha256": "d113132ba01ebb4aa05d05c8d09ef88132b23e33a5e4decac931ef1820e52c1a"
     }
    },
-   "rank": 92.418
+   "rank": 91.596
   },
   {
    "id": "n6916",
@@ -3572,8 +3731,8 @@
    ],
    "published_at": "2026-10-09T07:14:34.361885+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 07:14",
@@ -3833,7 +3992,7 @@
      "body_sha256": "aa70bf23ea127fdb5e12c97489824558d29adb4aff42c464c26d44a748183f93"
     }
    },
-   "rank": 91.648,
+   "rank": 90.826,
    "sources": [
     {
      "domain": "frekvence1.cz",
@@ -3866,8 +4025,8 @@
    ],
    "published_at": "2026-10-09T07:14:34.361885+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 07:14",
@@ -4028,7 +4187,7 @@
      "body_sha256": "e8fc0c2200f6b75d8aba3f766467f14c09ab9e3e1ae0238a55878111e954449a"
     }
    },
-   "rank": 105.154,
+   "rank": 104.211,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -4294,7 +4453,7 @@
      "body_sha256": "55ae55d14066dc651e6c499341ee3d44a82b12323a4b86facd13c271b521b653"
     }
    },
-   "rank": 86.085
+   "rank": 85.306
   },
   {
    "id": "n6913",
@@ -4464,7 +4623,7 @@
      "body_sha256": "6c6507ed3e0a2ede3d8916d02ac67b3aa23799be6edffa6392f0bc59f01f04b7"
     }
    },
-   "rank": 99.476,
+   "rank": 98.576,
    "sources": [
     {
      "domain": "praha3.cz",
@@ -4497,8 +4656,8 @@
    ],
    "published_at": "2026-10-09T06:06:15.754079+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 06:06",
@@ -4866,8 +5025,8 @@
    ],
    "published_at": "2026-10-09T06:06:15.754079+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 06:06",
@@ -5141,7 +5300,7 @@
      "body_sha256": "c2a09cf15a1a64104766db2ab38fc94010223aa7e0b70619098a74f61cd87eee"
     }
    },
-   "rank": 113.793,
+   "rank": 112.755,
    "sources": [
     {
      "domain": "m.echo24.cz",
@@ -5304,7 +5463,7 @@
      "body_sha256": "d796887fcb9a87d867d19bdeb749a111d7b616faa9eebbf0bab2c4425e01f264"
     }
    },
-   "rank": 61.167,
+   "rank": 60.604,
    "image_url": "https://img.24n.cz/p/2026/10/put-cheshskogo-iuvelira-ot-sadovnika-do-mastera-dlia-pervykh-0dbd399192a1babe.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/put-cheshskogo-iuvelira-ot-sadovnika-do-mastera-dlia-pervykh-35fab63a816de87b.webp",
@@ -5503,7 +5662,7 @@
      "body_sha256": "3330a0cec674ac6a4ec183c56f72b4e1e2d024683405aea491ee138fe2a7948a"
     }
    },
-   "rank": 98.808
+   "rank": 97.899
   },
   {
    "id": "n6908",
@@ -5724,7 +5883,7 @@
      "body_sha256": "4b159b96d6801d319c58c3ae3a0e260679fec5cfe6af2a2530ecc48c3c4e1533"
     }
    },
-   "rank": 89.398
+   "rank": 88.576
   },
   {
    "id": "n6907",
@@ -5738,8 +5897,8 @@
    ],
    "published_at": "2026-10-09T03:59:20.677715+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 03:59",
@@ -5929,7 +6088,7 @@
      "body_sha256": "3aff66405e2037608b8836e757ed6d35bde5367e3ee9895f59b4c5cfe61d303d"
     }
    },
-   "rank": 82.595,
+   "rank": 81.816,
    "image_url": "https://img.24n.cz/p/2026/10/v-dolnich-khabrakh-za-dva-dnia-do-vyborov-reshaiut-sudbu-mno-e42df663c3274f77.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-dolnich-khabrakh-za-dva-dnia-do-vyborov-reshaiut-sudbu-mno-05fa95b3495e8864.webp"
@@ -6094,7 +6253,7 @@
      "body_sha256": "845a0c397fd4eb6c03796b073b8bf7646830990d67f39b61db7400add2f8892d"
     }
    },
-   "rank": 82.369,
+   "rank": 81.573,
    "sources": [
     {
      "domain": "newstream.cz",
@@ -6288,7 +6447,7 @@
      "body_sha256": "5dc94b139649a917b03dc9fd52f5e46b807a45672698980a0e98a61ad35ed231"
     }
    },
-   "rank": 94.008,
+   "rank": 93.1,
    "sources": [
     {
      "domain": "topky.sk",
@@ -6502,7 +6661,7 @@
      "body_sha256": "8216f34e70d0941993bab06fdff8fbad60b56a081a3ad4559a5aa512fbab20b0"
     }
    },
-   "rank": 102.962,
+   "rank": 101.967,
    "sources": [
     {
      "domain": "tvspravy.sk",
@@ -6778,7 +6937,7 @@
      "body_sha256": "6bd909cd9b5d68f1e7a94e897afcda85c3f508a722f11b9ef60ab46eae744e3f"
     }
    },
-   "rank": 92.356
+   "rank": 91.448
   },
   {
    "id": "n6902",
@@ -6792,8 +6951,8 @@
    ],
    "published_at": "2026-10-09T00:50:56.152425+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "9 октября 2026, 00:50",
@@ -7012,7 +7171,7 @@
      "body_sha256": "5a41e0d2f512c2a4ed18f0a956bb0fbde2528b35483eb7ca00cd9c9f08d7c5df"
     }
    },
-   "rank": 87.236,
+   "rank": 86.371,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -7205,7 +7364,7 @@
      "body_sha256": "fb49a466fa0390e75ad418b0a8613530ca678334bbad7d7bbdf96ab6af525c5d"
     }
    },
-   "rank": 86.482
+   "rank": 85.617
   },
   {
    "id": "n6900",
@@ -7448,7 +7607,7 @@
      "body_sha256": "757483c7172d1edb2d81cba646d978456f510edc78350582120afd73c8e03b67"
     }
    },
-   "rank": 73.51,
+   "rank": 72.774,
    "image_url": "https://img.24n.cz/p/2026/10/tsena-zolota-v-sentiabre-2026-pochemu-metall-rezko-podesheve-5ba528729e941203.webp",
    "image_w": 1200,
    "image_h": 800
@@ -7673,7 +7832,7 @@
      "body_sha256": "0a4cf6af00e083ce14752ba650cab5a294cb872ef96bec89b0475e0dd49a08ea"
     }
    },
-   "rank": 111.562,
+   "rank": 110.446,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -7974,7 +8133,7 @@
      "body_sha256": "a1596393080bdfde0af2982eafe461c5dff0962ac6647b659c2ab70d8b7734e7"
     }
    },
-   "rank": 64.862,
+   "rank": 64.213,
    "image_url": "https://img.24n.cz/p/2026/10/turisticheskii-proekt-terapie-tichem-otkryvaet-tikhie-ugolki-017bd5895e923fec.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/turisticheskii-proekt-terapie-tichem-otkryvaet-tikhie-ugolki-ae6250fcec5feade.webp",
@@ -8037,8 +8196,8 @@
    ],
    "published_at": "2026-10-08T21:01:46.662427+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 21:01",
@@ -8292,7 +8451,7 @@
      "body_sha256": "0d9cc1e833eee0f8158656e195fff0fe5b81565deb87a9da0c17a2f3f920d892"
     }
    },
-   "rank": 65.376
+   "rank": 64.683
   },
   {
    "id": "n6896",
@@ -8305,8 +8464,8 @@
    ],
    "published_at": "2026-10-08T21:00:31.621307+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 21:00",
@@ -8384,7 +8543,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 68.619
+   "rank": 67.892
   },
   {
    "id": "n6895",
@@ -8546,7 +8705,7 @@
      "body_sha256": "36b6af5f269f6697ea43878701b6bc7f8296a7daa0ee921156d707cae5079162"
     }
    },
-   "rank": 76.922,
+   "rank": 76.1,
    "image_url": "https://img.24n.cz/p/2026/10/rektor-milan-pospisil-predupredil-ob-ukhode-khoroshikh-pedag-efbbca2f00306f0f.webp",
    "image_w": 620,
    "image_h": 349
@@ -8704,7 +8863,7 @@
      "body_sha256": "b494cc619c13dbe956d115f2f4b7fd8c5efe5198051913d3c3ddc7f8fdcec8f4"
     }
    },
-   "rank": 66.396,
+   "rank": 65.687,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -8957,7 +9116,7 @@
      "body_sha256": "a1ad96a81fa1b534f3f9bf68b7354fc92308ea19e46d9613752fb622b15dbb45"
     }
    },
-   "rank": 76.922
+   "rank": 76.1
   },
   {
    "id": "n6892",
@@ -8971,8 +9130,8 @@
    ],
    "published_at": "2026-10-08T19:56:59.392744+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 19:56",
@@ -9181,7 +9340,7 @@
      "body_sha256": "35fb768ac38a57ecf79d8450e45ec66234a7b454981d5e23da622ff0b11381d0"
     }
    },
-   "rank": 84.168,
+   "rank": 83.259,
    "image_url": "https://img.24n.cz/p/2026/10/mera-goroda-nymburk-proveriaiut-iz-za-predvybornoi-broshiury-c1fdb7687efa234d.webp",
    "image_w": 1200,
    "image_h": 674
@@ -9198,8 +9357,8 @@
    ],
    "published_at": "2026-10-08T19:56:59.392744+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 19:56",
@@ -9374,7 +9533,7 @@
      "body_sha256": "f5dd066a25829a873cecea9f0f98b63b682dacb6e727a679ef0293c6bbd48fe7"
     }
    },
-   "rank": 89.779,
+   "rank": 88.81,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -9613,7 +9772,7 @@
      "body_sha256": "dda43cd1ec05e1089a28131662e7f593b63bcab6da513ceedc39de8d11919b7e"
     }
    },
-   "rank": 71.431,
+   "rank": 70.652,
    "image_url": "https://img.24n.cz/p/2026/10/sparta-ne-prinosit-pribyli-no-i-ne-razoriaet-vladeltsa-nol-e-6d2ed723751a7e99.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/sparta-ne-prinosit-pribyli-no-i-ne-razoriaet-vladeltsa-nol-e-abd0aeacd5affe6a.webp",
@@ -9897,7 +10056,7 @@
      "body_sha256": "9fb77a09e48e45b89ddd0f96d10e091f07891902e4e91d368e3c898264a0e91c"
     }
    },
-   "rank": 63.494,
+   "rank": 62.802,
    "image_url": "https://img.24n.cz/p/2026/10/v-pardubitskom-krae-ne-khvataet-deneg-na-sotssferu-iz-za-zar-577ed88ff368b5db.webp",
    "image_w": 620,
    "image_h": 349
@@ -9958,7 +10117,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 64.057,
+   "rank": 63.347,
    "forecast": true
   },
   {
@@ -10119,7 +10278,7 @@
      "body_sha256": "330bcbdddc8579ca8a0c0f276ef5a831f46563af6cd6e6c4f9db1ca14a5748ac"
     }
    },
-   "rank": 50.63,
+   "rank": 50.068,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10355,7 +10514,7 @@
      "body_sha256": "86d42ee6269fabbbf164a368d7193a3994c695b585514c09633946884fbed4ef"
     }
    },
-   "rank": 97.366,
+   "rank": 96.285,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -10411,8 +10570,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -10598,7 +10757,7 @@
      "body_sha256": "797667b95d9bdfd1496731e4a94c4ed00d0be975bd3e9c1ac4c70813a77bfcf3"
     }
    },
-   "rank": 80.924
+   "rank": 80.016
   },
   {
    "id": "n6884",
@@ -10613,8 +10772,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -10792,7 +10951,7 @@
      "body_sha256": "5d20319c6d49c11e9ce1a023cde509e641220292ea874330bc382e96b1df47f9"
     }
    },
-   "rank": 78.612,
+   "rank": 77.73,
    "sources": [
     {
      "domain": "parabola.cz",
@@ -10823,8 +10982,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -10989,7 +11148,7 @@
      "body_sha256": "ae43d15db7c391549b119b697f5918b7d0b6271a86a98ac7d859f2d48d1131a7"
     }
    },
-   "rank": 69.364,
+   "rank": 68.585,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -11029,8 +11188,8 @@
    ],
    "published_at": "2026-10-08T17:48:40.826050+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "8 октября 2026, 17:48",
@@ -11243,7 +11402,7 @@
      "body_sha256": "21b264f93722a9dbca69458148e289cd0633c18984ab0c65f41c252ec0bd46be"
     }
    },
-   "rank": 69.364
+   "rank": 68.585
   },
   {
    "id": "n6881",
@@ -11257,8 +11416,8 @@
    ],
    "published_at": "2026-10-08T16:07:31.490519+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "8 октября 2026, 16:07",
@@ -11529,7 +11688,7 @@
      "body_sha256": "169f09d9ed2974860a3a2c118f7fea2d4cafe10ea65a4d3a07a0c838ef480c9c"
     }
    },
-   "rank": 63.44,
+   "rank": 62.705,
    "sources": [
     {
      "domain": "klatovsky.denik.cz",
@@ -11772,7 +11931,7 @@
      "body_sha256": "4caf53cd03723e8b79b411a8dc92411869ae3532d24ebeee2b2229a26ac9a40f"
     }
    },
-   "rank": 92.3,
+   "rank": 91.218,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -11812,8 +11971,8 @@
    ],
    "published_at": "2026-10-08T15:04:34.382060+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "8 октября 2026, 15:04",
@@ -12093,7 +12252,7 @@
      "body_sha256": "8020141bff72ee28b5591200607dd28ce0df91efd7960b018242e1a1db14e891"
     }
    },
-   "rank": 69.464
+   "rank": 68.642
   },
   {
    "id": "n6878",
@@ -12291,7 +12450,7 @@
      "body_sha256": "53d59ba622b55dc501c3b3a57a8f368759a74ff8964d7e04b71e8ea9614f83b5"
     }
    },
-   "rank": 81.01,
+   "rank": 80.041,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -12501,7 +12660,7 @@
      "body_sha256": "58e9e1c984b1f99e178e001f3c1b0326134f0e2b07f20c540bb4e082d753753c"
     }
    },
-   "rank": 65.097,
+   "rank": 64.319,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-10-vmesto-ofisov-poiaviatsia-zhilye-doma-i-shkola-e4461b4736a6d6ec.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-10-vmesto-ofisov-poiaviatsia-zhilye-doma-i-shkola-861db6593881ca5d.webp"
@@ -12672,7 +12831,7 @@
      "body_sha256": "45e534ad5ace615cf07b556d3bf6d969f1ab3e0e7a1446e351dc78c2cdd078c2"
     }
    },
-   "rank": 65.097,
+   "rank": 64.319,
    "image_url": "https://img.24n.cz/p/2026/10/festival-prague-sounds-v-prage-otmetit-30-letie-muzykoi-i-sv-06031fc3f05466a4.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/festival-prague-sounds-v-prage-otmetit-30-letie-muzykoi-i-sv-affd987dda6a6a6d.webp",
@@ -12870,7 +13029,7 @@
      "body_sha256": "e520ba140b023c7b34ef21ff58887f16bf1b91e2883af0b113af6e6a01e877de"
     }
    },
-   "rank": 73.777,
+   "rank": 72.895,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -12897,8 +13056,8 @@
    ],
    "published_at": "2026-10-08T13:59:25.528507+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "8 октября 2026, 13:59",
@@ -13070,7 +13229,7 @@
      "body_sha256": "0e9e5e699e2b3b6a9f9d00510f3eb1108921d7ef4f1b8d6ae892cd80b7aae2ed"
     }
    },
-   "rank": 80.138,
+   "rank": 79.169,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -13406,7 +13565,7 @@
      "body_sha256": "e224ed05715d717fd73a2058bbb1bf7268b206a7881fd06e8286f5b2f4e08ef9"
     }
    },
-   "rank": 63.726,
+   "rank": 62.947,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-pochtili-pamiat-zhertv-natsizma-krov-mundiry-i-ogni-58ca05172a1997e8.webp",
    "image_w": 1366,
    "image_h": 910
@@ -13555,7 +13714,7 @@
      "body_sha256": "856f2df90497d6275bee9e05a473c4e4c8bbccab27ac341e740157de20835c65"
     }
    },
-   "rank": 74.347,
+   "rank": 73.438,
    "image_url": "https://img.24n.cz/p/2026/10/politsiia-zaderzhala-mat-vybroshennogo-v-konteiner-mladentsa-641f01c96d20eb97.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/politsiia-zaderzhala-mat-vybroshennogo-v-konteiner-mladentsa-9b916d1809d293d6.webp",
@@ -13602,8 +13761,8 @@
    ],
    "published_at": "2026-10-08T12:54:44.568778+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "8 октября 2026, 12:54",
@@ -13816,7 +13975,7 @@
      "body_sha256": "01e14e180e4b16fde1ab40782a633d5d823c81d71c9e0672ce06e47f557e9a0a"
     }
    },
-   "rank": 83.993,
+   "rank": 82.955,
    "image_url": "https://img.24n.cz/p/2026/10/ministerstvo-obrazovaniia-chekhii-gotovit-plan-borby-s-segre-68f73c27473598b9.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13833,8 +13992,8 @@
    ],
    "published_at": "2026-10-08T12:54:44.568778+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "8 октября 2026, 12:54",
@@ -13967,7 +14126,7 @@
      "body_sha256": "a2dd5d2ba1dcfc75034a4e171b58f75566ab80ccb7fc4e23fac3ee696d847135"
     }
    },
-   "rank": 66.495,
+   "rank": 65.673,
    "image_url": "https://img.24n.cz/p/2026/10/iz-za-stroiki-prazhskoi-koltsevoi-dorogi-izmeniat-raspisanie-befcde756c805cb8.webp",
    "image_w": 1366,
    "image_h": 910
@@ -14113,7 +14272,7 @@
      "body_sha256": "49d2bc31e30e64bfe031fe51ab54d162a7906ecadb1c717d83583a6199f14104"
     }
    },
-   "rank": 45.019
+   "rank": 44.456
   },
   {
    "id": "n6868",
@@ -14371,7 +14530,7 @@
      "body_sha256": "bf3607cc2eefe7e0c6babfb7d85327fcd4692edc68790b9783ae225d8e0114f8"
     }
    },
-   "rank": 72.722,
+   "rank": 71.814,
    "image_url": "https://img.24n.cz/p/2026/10/tri-marshruta-dlia-osennikh-pokhodov-po-shumve-i-granitse-360bed7aa3db3142.webp",
    "images": [
     "https://cdn.kudyznudy.cz/files/6d/6d018c94-49df-4860-8181-dc83408f8770.webp?v=20221014071637",
@@ -14525,7 +14684,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 60.453
+   "rank": 59.691
   },
   {
    "id": "n6866",
@@ -14738,7 +14897,7 @@
      "body_sha256": "f824724b51bbf66e264c30e14b41b84145c50d76eb2feaa2bb86e354017b3a1d"
     }
    },
-   "rank": 71.904,
+   "rank": 70.996,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -14973,7 +15132,7 @@
      "body_sha256": "14b0b175f36cefb537deaf3d8836e163e047508193b41f4eabe9eff55b4102ab"
     }
    },
-   "rank": 71.904,
+   "rank": 70.996,
    "image_url": "https://img.24n.cz/p/2026/10/v-kladno-razyskivaiut-pozhilogo-velosipedista-f018c66182b525a3.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15221,7 +15380,7 @@
      "body_sha256": "539ab40bbe30dd6ca36d27a45e19304a95c5a6b6631ef2fdbabd6541e66416f0"
     }
    },
-   "rank": 47.936,
+   "rank": 47.33,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/gd5hNUQDuyQ"
@@ -15437,7 +15596,7 @@
      "body_sha256": "f12e764635c011ec649e5b72678ba144fcf18752f180a1ece164c3892351afcf"
     }
    },
-   "rank": 60.959,
+   "rank": 60.18,
    "image_url": "https://img.24n.cz/p/2026/10/osennie-kanikuly-i-advent-na-cheshskikh-zamkakh-chto-zhdet-t-46ce3412b4ccf4ed.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/osennie-kanikuly-i-advent-na-cheshskikh-zamkakh-chto-zhdet-t-893d3718ee357cb8.webp"
@@ -15683,7 +15842,7 @@
      "body_sha256": "867f424f6cf0ebae34595e8f1ce7998ce5470aceaae17a668d3243718422b540"
     }
    },
-   "rank": 60.959,
+   "rank": 60.18,
    "image_url": "https://img.24n.cz/p/2026/10/rozhdestvenskie-iarmarki-i-ekskursii-v-cheshskikh-zamkakh-pr-8ade377d46a98fdc.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/rozhdestvenskie-iarmarki-i-ekskursii-v-cheshskikh-zamkakh-pr-b752d030ecfc5d92.webp",
@@ -15847,7 +16006,7 @@
      "body_sha256": "17dc68c2335237f3eeb90162bf93895d0f30c76e29199d192e2a21b50db8c4c4"
     }
    },
-   "rank": 70.283,
+   "rank": 69.375,
    "sources": [
     {
      "domain": "hradecky.denik.cz",
@@ -16074,7 +16233,7 @@
      "body_sha256": "4b2d72b40c3fb6c5d252ce6cc00c013d1d530d8bc5b4bde362bef82b65afbc5c"
     }
    },
-   "rank": 50.202
+   "rank": 49.553
   },
   {
    "id": "n6859",
@@ -16356,7 +16515,7 @@
      "body_sha256": "445ce3476ad9b76934788e2047658bdedf383a14e7c7cba46631b89e8eabbc0a"
     }
    },
-   "rank": 73.63,
+   "rank": 72.678,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -16586,7 +16745,7 @@
      "body_sha256": "f238eea541989d8ad5252174cc5e9af4c96feeb9dc79165c20549f9ba3c7746d"
     }
    },
-   "rank": 58.028,
+   "rank": 57.249,
    "image_url": "https://img.24n.cz/p/2026/10/legendarnyi-detektiv-pankrats-iz-poldy-zagovorit-golosom-pav-beff066da9bfe57d.webp",
    "video": {
     "kind": "iframe",
@@ -16783,7 +16942,7 @@
      "body_sha256": "9bc26205c5380304cf9e56a0d33d2336243b13c435c73fef2767ef3e053c83a1"
     }
    },
-   "rank": 58.028,
+   "rank": 57.249,
    "image_url": "https://img.24n.cz/p/2026/10/legendarnye-kino-bobule-vozvrashchaiutsia-s-novym-filmom-6eb57e766d8ca327.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/legendarnye-kino-bobule-vozvrashchaiutsia-s-novym-filmom-3b532c788a7d7499.webp",
@@ -17050,7 +17209,7 @@
      "body_sha256": "ece49fb59351528c3ecbbc61c0f4bb811f9f95e36d2752dd89ac066551528f11"
     }
    },
-   "rank": 72.212,
+   "rank": 71.243,
    "sources": [
     {
      "domain": "tcp-as.cz",
@@ -17248,7 +17407,7 @@
      "body_sha256": "130c22cc06eeedfc199a75a425214782328e8485e5e612bf3ad59bf7c69c3f26"
     }
    },
-   "rank": 57.347,
+   "rank": 56.569,
    "image_url": "https://img.24n.cz/p/2026/10/semia-tiazhelobolnogo-iunoshi-uchitsia-zhit-odnim-dnem-083b91cf2ab25669.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/semia-tiazhelobolnogo-iunoshi-uchitsia-zhit-odnim-dnem-748bdead16e3070e.webp"
@@ -17469,7 +17628,7 @@
      "body_sha256": "ab91500023889680231af0550632e92d39dd7d25273201e5261144c996f3000b"
     }
    },
-   "rank": 75.826,
+   "rank": 74.796,
    "sources": [
     {
      "domain": "prahatv.eu",
@@ -17731,7 +17890,7 @@
      "body_sha256": "7d8faab5040e8ea78d273b4069b3ac8728624cb605fcd8eb2541e096b1269c1f"
     }
    },
-   "rank": 31.503
+   "rank": 31.071
   },
   {
    "id": "n6852",
@@ -17985,7 +18144,7 @@
      "body_sha256": "b5ca99b0c54b70e4893869fe43816da1c26447c3f1838d4b60d0ca68607ddaaf"
     }
    },
-   "rank": 70.567,
+   "rank": 69.598,
    "sources": [
     {
      "domain": "cnb.cz",
@@ -18190,7 +18349,7 @@
      "body_sha256": "3ebc76d94cae4f61fcf657af879b09d4cc95e2a876689ba5708fcf7b8bcf0e74"
     }
    },
-   "rank": 67.417,
+   "rank": 66.491,
    "sources": [
     {
      "domain": "nasepraha.cz",
@@ -18368,7 +18527,7 @@
      "body_sha256": "b3559b4a9b57a5eb54f34d4fa9fad5f18e70a93a50ae6462c2739896b57a411d"
     }
    },
-   "rank": 66.157
+   "rank": 65.248
   },
   {
    "id": "n6849",
@@ -18634,7 +18793,7 @@
      "body_sha256": "eabea943e0dac6e0138fd5687c526bfd48840418d7404132ba938b76040eb9b0"
     }
    },
-   "rank": 59.028,
+   "rank": 58.206,
    "image_url": "https://img.24n.cz/p/2026/10/vezd-burovoi-ustanovki-v-most-v-prage-paralizoval-dvizhenie-94394cb8a2164a33.webp",
    "image_w": 1366,
    "image_h": 910
@@ -18931,7 +19090,7 @@
      "body_sha256": "74786ef5aed20c3fb8382c660e5c317814d77cfa4223e341ab73e920ca8d46cb"
     }
    },
-   "rank": 55.252,
+   "rank": 54.473,
    "image_url": "https://img.24n.cz/p/2026/10/mat-troikh-detei-ostaetsia-s-2-tysiachami-kron-v-mesiats-gro-1c15aa11aea45dde.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/mat-troikh-detei-ostaetsia-s-2-tysiachami-kron-v-mesiats-gro-513e18ed9493e879.webp"
@@ -19147,7 +19306,7 @@
      "body_sha256": "477056aac90bcc5ad23fbe8137878afe2e4942c0501d6b2af2b0d529fbb684ec"
     }
    },
-   "rank": 76.739,
+   "rank": 75.658,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -19386,7 +19545,7 @@
      "body_sha256": "cb82ebed484b5d79a7b49c6d1d27e0caca490ebfc4f0fb7b044e64d1970bfdb6"
     }
    },
-   "rank": 61.391,
+   "rank": 60.526,
    "image_url": "https://img.24n.cz/p/2026/10/shtraf-s-radara-nedeistvitelen-reshenie-suda-v-chekhii-34b3d62167689c93.webp",
    "image_w": 1200,
    "image_h": 674
@@ -19649,7 +19808,7 @@
      "body_sha256": "608faf71d2c4bae01feb31ad0572753416ca5d4c3285996a2d56987cf62e6b06"
     }
    },
-   "rank": 68.758,
+   "rank": 67.789,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -20047,7 +20206,7 @@
      "body_sha256": "83f1ce32e031a53cd320d0dbaf283e17c9576913ab15f7e16570255f14f6ed9a"
     }
    },
-   "rank": 49.113
+   "rank": 48.421
   },
   {
    "id": "n6843",
@@ -20269,7 +20428,7 @@
      "body_sha256": "a77de3a7a0db7f833de79c1c60e49b8fde9162f081e291006f6f521d89872f0d"
     }
    },
-   "rank": 63.621,
+   "rank": 62.712,
    "sources": [
     {
      "domain": "tv.idnes.cz",
@@ -20503,7 +20662,7 @@
      "body_sha256": "604e1ccb7b1aba0a0979889aaa9085e077dbea4376966bfa7423ff088ef60449"
     }
    },
-   "rank": 57.561,
+   "rank": 56.74,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-natland-vpervye-investiruet-v-nedvizhimost-liukse-f4f6208ca69f720c.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -20692,7 +20851,7 @@
      "body_sha256": "cf7bddae1890fd0f4b38f0a88bed44f6fd9a297a3bc46747c5ac165c4bc66217"
     }
    },
-   "rank": 54.532,
+   "rank": 53.753,
    "image_url": "https://img.24n.cz/p/2026/10/spilberk-investicni-skupina-brno-ot-restitutsii-k-millionam-577e3ac6b6aad9b8.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -20911,7 +21070,7 @@
      "body_sha256": "001ae6a869964e31455d08c52c91ca368e74409b5b5d4ce72c62fc7d74dd6d12"
     }
    },
-   "rank": 69.68
+   "rank": 68.685
   },
   {
    "id": "n6839",
@@ -21120,7 +21279,7 @@
      "body_sha256": "d5bf05643109b3977a4d0c65ca4766a0a65e84951bc8e4cae532c5a0281da801"
     }
    },
-   "rank": 62.776,
+   "rank": 61.868,
    "sources": [
     {
      "domain": "abicko.cz",
@@ -21416,7 +21575,7 @@
      "body_sha256": "c736824bd203363afd9e668cc4ec862c0665a8af89c479e0eda413dcc6e631c5"
     }
    },
-   "rank": 59.787
+   "rank": 58.922
   },
   {
    "id": "n6837",
@@ -21620,7 +21779,7 @@
      "body_sha256": "c2ecaa19d9ac0bbd1114e16e91f8b15189cdfb27352c8712d522c67c5cb00ea9"
     }
    },
-   "rank": 58.952,
+   "rank": 58.087,
    "image_url": "https://img.24n.cz/p/2026/10/v-chekhii-otozvali-rozysk-predprinimatelia-albina-arifovicha-d77aac8ad0ed0efe.webp",
    "image_w": 1200,
    "image_h": 674
@@ -21801,7 +21960,7 @@
      "body_sha256": "a377e9f5b46abed2d2b4edffbefa79f5f067ef007aa518e9e522fdfc1f263645"
     }
    },
-   "rank": 53.057,
+   "rank": 52.279,
    "image_url": "https://img.24n.cz/p/2026/10/shest-detei-so-spetspotrebnostiami-v-klasse-trudnosti-uchite-1621f7fde7447795.webp",
    "image_w": 1200,
    "image_h": 675
@@ -22110,7 +22269,7 @@
      "body_sha256": "e641ac33385439311aec39967145709621e018c98d78d17ab366469475ef62b8"
     }
    },
-   "rank": 70.153,
+   "rank": 69.124,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -22413,7 +22572,7 @@
      "body_sha256": "5b4c3798eb13d8abc3aa4e286a4a3081821e08d6c1b8b98402223a78626945bf"
     }
    },
-   "rank": 52.332,
+   "rank": 51.553,
    "sources": [
     {
      "domain": "i117.cz",
@@ -22718,7 +22877,7 @@
      "body_sha256": "b4b772ff37686667ec0a96eaf4e1ef1242b1fe8996e19d244b839655e1bc928b"
     }
    },
-   "rank": 57.34,
+   "rank": 56.475,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-na-39-m-meste-v-reitinge-korruptsii-59-ballov-iz-10-7bd91f2dec7100d1.webp",
    "image_w": 1366,
    "image_h": 910
@@ -22918,7 +23077,7 @@
      "body_sha256": "20bc37cdbbcad8863c2456542d3b6197830332aa214a0ce68b7a59c4f30b7dee"
     }
    },
-   "rank": 53.687,
+   "rank": 52.866,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -23174,7 +23333,7 @@
      "body_sha256": "d1097b8c0ddb84e42d95772ac56cf43a99243d8de256bd550fe5e234a033533c"
     }
    },
-   "rank": 53.405,
+   "rank": 52.587,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -23479,7 +23638,7 @@
      "body_sha256": "fc9dfba03ea4f11721e84c7db35045d6a8578b61faef822ac59f3ca6c9416293"
     }
    },
-   "rank": 70.786,
+   "rank": 69.688,
    "sources": [
     {
      "domain": "praha13.cz",
@@ -23679,7 +23838,7 @@
      "body_sha256": "4226e4687385827d19947efda833e90a17f47e2aba4a1e3ef97c7165d62f8f84"
     }
    },
-   "rank": 57.786,
+   "rank": 56.877,
    "image_url": "https://img.24n.cz/p/2026/09/pechatnye-listovki-vliiaiut-na-vybor-kazhdogo-vtorogo-izbira-63d72e123ec703b7.webp",
    "image_w": 1366,
    "image_h": 910
@@ -23918,7 +24077,7 @@
      "body_sha256": "1b89ccd6e83fd1f584f4a5f996bdc1c869d6e0dac8771a6efd1b9bd3bd008a70"
     }
    },
-   "rank": 55.034,
+   "rank": 54.169,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-startap-theorema-uskoriaet-nauku-s-pomoshchiu-ii-m-7d53d6a66e504031.webp",
    "image_w": 670,
    "image_h": 377
@@ -24207,7 +24366,7 @@
      "body_sha256": "b2837889ddf8f88ac296125d6e660ca637045a714401152556bd0e7a3da11e19"
     }
    },
-   "rank": 61.638,
+   "rank": 60.669,
    "sources": [
     {
      "domain": "prazskypatriot.cz",
@@ -24429,7 +24588,7 @@
      "body_sha256": "6cee5b3e5ec4a34780d88d8c4bf583c364f28c85acea394397a332fa35fdfbb2"
     }
    },
-   "rank": 46.088,
+   "rank": 45.352,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -24680,7 +24839,7 @@
      "body_sha256": "fe8c2bff0ce04e9d2b3f7e6c215afdaba036fac86f316134b2202e0693012859"
     }
    },
-   "rank": 59.643,
+   "rank": 58.691,
    "sources": [
     {
      "domain": "jihlavska.drbna.cz",
@@ -24897,7 +25056,7 @@
      "body_sha256": "5f72e971ab3f047159d7ace3df3d44c8ecc9e150fc7ba856ffd4cb51a29965ee"
     }
    },
-   "rank": 54.541,
+   "rank": 53.659,
    "sources": [
     {
      "domain": "pavelhaasquartet.com",
@@ -25173,7 +25332,7 @@
      "body_sha256": "47db6afecbdd7fdd9e62b3b8abc618ece011d2d8356290e79caafb629818fa42"
     }
    },
-   "rank": 46.718,
+   "rank": 45.939,
    "image_url": "https://img.24n.cz/p/2026/10/raznoobrazie-vkusov-ambiente-gid-po-luchshim-restoranam-i-pe-bfac8fc109e2c4b0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/raznoobrazie-vkusov-ambiente-gid-po-luchshim-restoranam-i-pe-03d2bf2de8cd6bb4.webp",
@@ -25413,7 +25572,7 @@
      "body_sha256": "7306ec788f99e32e257863e47862cc2aef2dcd619d13527716111c64a0bf955d"
     }
    },
-   "rank": 54.504,
+   "rank": 53.595,
    "image_url": "https://img.24n.cz/p/2026/10/andrei-babish-podvel-itogi-raboty-pravitelstva-i-otvetil-na-bd2b1e4079e939cd.webp",
    "image_w": 630,
    "image_h": 350
@@ -25623,7 +25782,7 @@
      "body_sha256": "9eb5b6d262adfcdc983311d71a9a298cd87058e348aa8788dd8aec527a3bd3c9"
     }
    },
-   "rank": 50.351,
+   "rank": 49.512,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -25952,7 +26111,7 @@
      "body_sha256": "c9d7178e1b902535975b9207993459ae6f415a374cd0d59e4141e70b92eeb877"
     }
    },
-   "rank": 47.756,
+   "rank": 46.96,
    "sources": [
     {
      "domain": "czechdesignmag.cz",
@@ -26210,7 +26369,7 @@
      "body_sha256": "aecbe12ec739989acf3e13717212bfdc314eb25523a1f7ba30f6755e1e5c2418"
     }
    },
-   "rank": 49.519,
+   "rank": 48.654,
    "image_url": "https://img.24n.cz/p/2026/10/debaty-liderov-pered-vyborami-havlicek-udivilsia-kritike-pre-e3ea478858d0edac.webp",
    "image_w": 1200,
    "image_h": 674
@@ -26434,7 +26593,7 @@
      "body_sha256": "cc151a33367ce721aa0820273cb495aa3174257c8e4cfb88d84e25d5407d96c4"
     }
    },
-   "rank": 46.346,
+   "rank": 45.524,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -26624,7 +26783,7 @@
      "body_sha256": "e9b7bf6f6770105915ad2acca970cb5cdf6477659cf36115eef889c551e3535e"
     }
    },
-   "rank": 77.905,
+   "rank": 77.525,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -26844,7 +27003,7 @@
      "body_sha256": "79175ab95e2c8755ec525a3198527c7a5e31872c788337155e4d0c9bfa87f255"
     }
    },
-   "rank": 37.759,
+   "rank": 37.067,
    "image_url": "https://img.24n.cz/p/2026/10/rybaki-vo-zlinsky-kraj-biut-trevogu-iz-za-silnoi-zasukhi-a94ee0b5bda0886c.jpeg",
    "image_w": 620,
    "image_h": 349
@@ -26939,7 +27098,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 39.498
+   "rank": 38.771
   },
   {
    "id": "n6814",
@@ -27131,7 +27290,7 @@
      "body_sha256": "aa22ff11a2426e6a37cd96560117a3be0207c7093396954fa8bada298e79b741"
     }
    },
-   "rank": 40.433,
+   "rank": 39.68,
    "sources": [
     {
      "domain": "news.sk",
@@ -27321,7 +27480,7 @@
      "body_sha256": "6d60072f9686e49f3d5fcda66f185ce267493811c3fd612f08492342c65a757a"
     }
    },
-   "rank": 52.297,
+   "rank": 51.311,
    "sources": [
     {
      "domain": "respekt.cz",
@@ -27493,7 +27652,7 @@
      "body_sha256": "27435ceb2eb5916f81e6981365a2a8cefbc1f42f59526b04648bb529d2090e8e"
     }
    },
-   "rank": 49.421,
+   "rank": 48.47,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -27685,7 +27844,7 @@
      "body_sha256": "a097347285afaca8ca7fb68d288c39d432f8af5eb5e3b1f2f5c4a18fa1b76adc"
     }
    },
-   "rank": 47.175,
+   "rank": 46.266,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -27934,7 +28093,7 @@
      "body_sha256": "f4974463912e8319a490a222d60c4ea94f6fb882b1ccd685494cd702dd5bb148"
     }
    },
-   "rank": 46.725,
+   "rank": 45.826,
    "sources": [
     {
      "domain": "czechdaily.cz",
@@ -28166,7 +28325,7 @@
      "body_sha256": "3c7acfda4c1270429df5a4816b1d025f49b941a1be1aa531e5415a04158182a0"
     }
    },
-   "rank": 49.35,
+   "rank": 48.381,
    "sources": [
     {
      "domain": "metro.cz",
@@ -28263,7 +28422,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 35.63,
+   "rank": 34.92,
    "forecast": true
   },
   {
@@ -28456,7 +28615,7 @@
      "body_sha256": "20e4bbf742f22d10d37e510f9a8fce49c86c32e619c1da8ab36c0c828ac3574a"
     }
    },
-   "rank": 47.934,
+   "rank": 46.939,
    "image_url": "https://img.24n.cz/p/2026/10/moshennichestvo-na-95-millionov-rukovodstvo-biogazovoi-stant-12e4b5afcce178ce.webp",
    "image_w": 1200,
    "image_h": 675
@@ -28625,7 +28784,7 @@
      "body_sha256": "47eb804ddddbfe90e6f5fea66b9efb00ebf355f3a86172165332392f1fcabbd6"
     }
    },
-   "rank": 45.884,
+   "rank": 44.915,
    "sources": [
     {
      "domain": "europesays.com",
@@ -28803,7 +28962,7 @@
      "body_sha256": "9fb311f2a015bd6c3ba4340ae2d4b75ecd57c8e8f2ab7401a69e4b18d791e66f"
     }
    },
-   "rank": 40.968,
+   "rank": 40.102,
    "image_url": "https://img.24n.cz/p/2026/10/bezdomnyi-ugnal-avtobus-v-plzeni-i-vrezalsia-v-kiuvet-sud-ot-467107144a6ac66f.webp",
    "image_w": 1200,
    "image_h": 675
@@ -29021,7 +29180,7 @@
      "body_sha256": "5cbf2bfa23d8621e60dc8a772954cb8350fcfc1e0c4e4afad0212b38c3b7ef6f"
     }
    },
-   "rank": 42.163
+   "rank": 41.254
   },
   {
    "id": "n6803",
@@ -29327,7 +29486,7 @@
      "body_sha256": "54759ab43c44b06d1164cfdb48bcb664dc5cdd18bf2388216302da261177f262"
     }
    },
-   "rank": 44.171
+   "rank": 43.219
   },
   {
    "id": "n6802",
@@ -29471,7 +29630,7 @@
      "body_sha256": "b427bac94631ba4041f8d52799e8c684ca30fa6ec92202cefd4caeaf916c104e"
     }
    },
-   "rank": 41.559,
+   "rank": 40.629,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -29692,7 +29851,7 @@
      "body_sha256": "e335fbbb50e112d4ea4467fe14612f675d60b421f955c7b310bfcba2f0550e1f"
     }
    },
-   "rank": 40.593,
+   "rank": 39.684,
    "image_url": "https://img.24n.cz/p/2026/10/strelba-na-velodorozhke-sud-ostavil-v-sile-prigovor-voditeli-76abe2bfda5e05e8.webp",
    "image_w": 1200,
    "image_h": 675
@@ -29828,7 +29987,7 @@
      "body_sha256": "1b5594eae4547f4269c33276e3f01caef4c750e0768d73bff576a52f26f55dea"
     }
    },
-   "rank": 17.075,
+   "rank": 16.686,
    "image_url": "https://img.24n.cz/p/2026/10/osennii-vizit-v-teplye-peshchery-zbrasovske-aragonitove-jesk-9dc57711756a29db.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/osennii-vizit-v-teplye-peshchery-zbrasovske-aragonitove-jesk-549c978b1d927d1c.webp"
@@ -30028,7 +30187,7 @@
      "body_sha256": "da8a7c002dc3a1270cdec7f8bcada0943acdd8e32bcdd79327784c6a2445323e"
     }
    },
-   "rank": 36.048,
+   "rank": 35.226,
    "image_url": "https://img.24n.cz/p/2026/10/rabota-v-spacex-kult-musk-i-mechta-o-marse-vmesto-obychnogo-60296f6a7b208118.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -30267,7 +30426,7 @@
      "body_sha256": "6ff57ea19768c69f422ebfff61109491cc88f31cb4c38f906f7fbde5c9196c7b"
     }
    },
-   "rank": 29.666,
+   "rank": 28.974,
    "image_url": "https://img.24n.cz/p/2026/10/voditeli-fur-poekhali-po-koridoru-dlia-spasatelei-na-trasse-5dd440aa0b4bcd1b.webp",
    "video": {
     "kind": "iframe",
@@ -30289,8 +30448,8 @@
    ],
    "published_at": "2026-10-07T13:03:41.090091+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "7 октября 2026, 13:03",
@@ -30466,7 +30625,7 @@
      "body_sha256": "ee448f522568165223b8bde67c274f99c40e21e2d814b2a6a42998a55a982a72"
     }
    },
-   "rank": 44.429,
+   "rank": 43.75,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -30502,8 +30661,8 @@
    ],
    "published_at": "2026-10-07T13:03:41.090091+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "7 октября 2026, 13:03",
@@ -30644,7 +30803,7 @@
      "body_sha256": "72b46ccbff71d0f4a23c4c5adc0aa013c814fce0c42809859a61bed81271c605"
     }
    },
-   "rank": 37.32,
+   "rank": 36.75,
    "image_url": "https://img.24n.cz/p/2026/09/v-plzeni-syn-s-nozhami-napal-na-ottsa-i-ubil-brata-prevratil-10b3d4b0b1e18329.webp",
    "image_w": 1200,
    "image_h": 675
@@ -42811,7 +42970,7 @@
      "body_sha256": "90b5ec8b1d9b7a888ed7abde62de7ba050fd24fed3c283ec6219f3b843d83d5a"
     }
    },
-   "rank": 56.183,
+   "rank": 55.824,
    "image_url": "https://img.24n.cz/p/2026/10/iz-aptek-chekhii-otzyvaiut-populiarnyi-ingaliator-ot-astmy-7dc41b8eb34194c9.webp",
    "image_w": 1200,
    "image_h": 630
@@ -45032,8 +45191,8 @@
    ],
    "published_at": "2026-10-06T13:08:38.830394+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "6 октября 2026, 13:08",
@@ -45255,8 +45414,8 @@
    ],
    "published_at": "2026-10-06T13:08:38.830394+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "6 октября 2026, 13:08",
@@ -45431,8 +45590,8 @@
    ],
    "published_at": "2026-10-06T13:08:38.830394+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "6 октября 2026, 13:08",
@@ -61501,8 +61660,8 @@
    ],
    "published_at": "2026-10-05T13:10:51.427756+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "5 октября 2026, 13:10",
@@ -61719,8 +61878,8 @@
    ],
    "published_at": "2026-10-05T13:10:51.427756+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "5 октября 2026, 13:10",
@@ -61886,8 +62045,8 @@
    ],
    "published_at": "2026-10-05T13:10:51.427756+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "5 октября 2026, 13:10",
@@ -62060,8 +62219,8 @@
    ],
    "published_at": "2026-10-05T12:41:28.860383+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "5 октября 2026, 12:41",
@@ -62310,8 +62469,8 @@
    ],
    "published_at": "2026-10-05T12:41:28.860383+02:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "5 октября 2026, 12:41",
@@ -67229,178 +67388,6 @@
    },
    "rank": 26.25,
    "image_url": "https://img.24n.cz/p/2026/10/vandaly-isportili-pamiatnik-arkhitektury-iaitsami-v-klatovak-e70a31945972c2c6.webp",
-   "image_w": 1200,
-   "image_h": 675
-  },
-  {
-   "id": "n6632",
-   "slug": "pokholodanie-v-chekhii-babe-leto-smenitsia-dozhdiami",
-   "source": "novinky.cz",
-   "original_url": "https://www.novinky.cz/clanek/pocasi-do-ceska-se-blizi-citelne-ochlazeni-na-horach-i-zasnezi-40600739",
-   "top": false,
-   "tags": [
-    "cesko"
-   ],
-   "published_at": "2026-10-05T06:12:52.386982+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "5 октября 2026, 06:12",
-    "uk": "5 жовтня 2026, 06:12"
-   },
-   "ru": {
-    "title": "Похолодание в Чехии: бабье лето сменится дождями",
-    "lede": "В Чехию идет резкое похолодание вместе с дождливой и ветреной погодой, которая окончательно вытеснит затянувшееся бабье лето.",
-    "meta_description": "В Чехии ожидается резкое похолодание и дожди. Синоптики прогнозируют падение температуры после завершения бабьего лета.",
-    "paras": [
-     "<p>Погода в Чехии резко изменится во второй половине недели. Как сообщает Чешский гидрометеорологический институт, период солнечных и теплых дней подходит к концу, а на смену ему придет влажное и холодное атлантическое течение.</p>",
-     "<h3>Конец бабьего лета и прогноз на первые дни недели</h3>",
-     "<p>Начало недели еще порадует жителей солнечной погодой. В понедельник утром местами удержится низкая облачность и туманы, но днем воздух прогреется до 18-22 °C. Во вторник и среду сохранится малооблачная погода с утренними туманами и заморозками на почве в отдельных районах. Дневные температуры в эти дни достигнут 20-24 °C.</p>",
-     "<blockquote>Бабье лето продолжается, его последним днем будет с большой вероятностью среда.</blockquote>",
-     "<p>Так охарактеризовал текущую метеорологическую ситуацию Чешский гидрометеорологический институт.</p>",
-     "<h3>Приход холодного фронта и осадков</h3>",
-     "<p>Уже в четверг погода резко переменится. С северо-запада приближается волнообразный холодный фронт. По данным Novinky, дневные температуры в четверг упадут: от 14 °C на западе до 23 °C на юго-востоке. На большей части территории пройдут дожди, а на фронте ожидается свежий северо-западный ветер с порывами до 55 км/h.</p>",
-     "<p>В пятницу характер погоды останется неустойчивым. Прогнозируется переменная облачность и кратковременные осадки, которые будут более частыми в горных районах. На гребнях гор временно могут появиться даже смешанные или снежные осадки, как отмечает zivotvcesku.cz. Ночные температуры опустятся до 5-9 °C, а максимальные значения днем, по информации zivotvcesku.cz, не должны превышать 15 °C.</p>",
-     "<h3>Прогноз погоды на выходные</h3>",
-     "<p>В выходные дни в стране продолжится облачная погода с местными осадками. Согласно прогнозам, дневные температуры установятся на отметке около 14 °C. При этом уже в воскресенье во второй половине дня в Чехии облачность и осадки начнут постепенно отступать, уступая место солнечному свету.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Когда закончится бабье лето в Чехии?",
-      "a": "Согласно прогнозам, бабье лето закончится 11 октября 2023 года."
-     },
-     {
-      "q": "Какое похолодание ожидается в Чехии?",
-      "a": "Ожидается падение температуры на 10 градусов и дожди с четверга."
-     }
-    ],
-    "impact": "Жителям Чехии стоит подготовиться к резкому падению температуры воздуха сразу на 10 градусов и дождливой погоде во второй половине недели, а также учесть возможность осадков в виде мокрого снега в горах.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Во второй половине недели солнечные и теплые дни в Чехии сменятся влажным и холодным атлантическим течением.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В понедельник днем воздух прогреется до 18-22 °C, а во вторник и среду дневные температуры достигнут 20-24 °C.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В четверг с северо-запада приблизится волнообразный холодный фронт: дневные температуры упадут от 14 °C на западе до 23 °C на юго-востоке, пройдут дожди и ожидается северо-западный ветер с порывами до 55 км/h.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В воскресенье во второй половине дня облачность и осадки начнут постепенно отступать, уступая место солнечному свету.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "волнообразный холодный фронт",
-       "definition": "Тип холодного фронта, приближение которого в четверг резко меняет погоду: приносит дожди и свежий северо-западный ветер.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "cdb7d84b62e86f99491f8ac46c068f47f8f406eca2574795a44105da9644836f"
-    }
-   },
-   "uk": {
-    "title": "Похолодання в Чехії: бабине літо зміниться дощами",
-    "lede": "У Чехію йде різке похолодання разом із дощовою та вітряною погодою, яка остаточно витіснить затягнуте бабине літо.",
-    "meta_description": "У Чехії очікується різке похолодання та дощі. Синоптики прогнозують падіння температури після завершення бабиного літа.",
-    "paras": [
-     "<p>Погода в Чехії різко зміниться у другій половині тижня. Як повідомляє Чеський гідрометеорологічний інститут, період сонячних і теплих днів добігає кінця, а на зміну йому прийде вологе та холодне атлантичне повітря.</p>",
-     "<h3>Кінець бабиного літа та прогноз на перші дні тижня</h3>",
-     "<p>Початок тижня ще порадує мешканців сонячною погодою. У понеділок вранці місцями втримається низька хмарність і тумани, але вдень повітря прогріється до 18-22 °C. У вівторок і середу збережеться малохмарна погода з ранковими туманами та заморозками на ґрунті в окремих районах. Денні температури у ці дні досягнуть 20-24 °C.</p>",
-     "<blockquote>Бабине літо триває, його останнім днем буде з великою ймовірністю середа.</blockquote>",
-     "<p>Так охарактеризував поточну метеорологічну ситуацію Чеський гідрометеорологічний інститут.</p>",
-     "<h3>Прихід холодного фронту та опадів</h3>",
-     "<p>Вже у четвер погода різко зміниться. З північного заходу наближається хвилеподібний холодний фронт. За даними Novinky, денні температури у четвер впадуть від 14 °C на заході до 23 °C на південному сході. На більшій частині території пройдуть дощі, а на фронті очікується свіжий північно-західний вітер з поривами до 55 км/h.</p>",
-     "<p>У п'ятницу характер погоди залишиться нестійким. Прогнозується мінлива хмарність і короткочасні опади, які будуть частішими у гірських районах. На гребенях гір тимчасово можуть з'явитися навіть змішані або снігові опади, як зазначає zivotvcesku.cz. Нічні температури опустяться до 5-9 °C, а максимальні значення вдень, за інформацією zivotvcesku.cz, не повинні перевищувати 15 °C.</p>",
-     "<h3>Прогноз погоди на вихідні</h3>",
-     "<p>У вихідні дні в країні продовжиться хмарна погода з місцевими опадами. Згідно з прогнозами, денні температури встановляться на позначці близько 14 °C. При цьому вже в неділю у другій половині дня в Чехії хмарність і опади почнуть поступово відступати, поступаючись місцем сонячному світлу.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Коли закінчиться бабине літо в Чехії?",
-      "a": "Згідно з прогнозами, бабине літо закінчиться 11 жовтня 2023 року."
-     },
-     {
-      "q": "Яке похолодання очікується в Чехії?",
-      "a": "Очікується падіння температури на 10 градусів і дощі з четверга."
-     }
-    ],
-    "impact": "Жителям Чехии стоит подготовиться к резкому падению температуры воздуха сразу на 10 градусов и дождливой погоде во второй половине недели, а также учесть возможность осадков в виде мокрого снега в горах.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "У другій половині тижня сонячні й теплі дні в Чехії закінчаться, їм на зміну прийде вологе та холодне атлантичне повітря.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "У понеділок удень повітря прогріється до 18-22 °C, а у вівторок і середу денні температури досягнуть 20-24 °C.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "У п'ятницю на гребенях гір тимчасово можуть з'явитися змішані або снігові опади, нічні температури опустяться до 5-9 °C, а вдень не повинні перевищувати 15 °C.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "хвилеподібний холодний фронт",
-       "definition": "Фронт, який наближається з північного заходу і приносить різку зміну погоди.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "9d4a1d923410b5c4fb1d040560a690422fb7f9f807328881b3ecada2b3b7977c"
-    }
-   },
-   "rank": 39.2,
-   "sources": [
-    {
-     "domain": "zivotvcesku.cz",
-     "official": false,
-     "url": "https://zivotvcesku.cz/meteorologove-upresnili-kdy-skonci-babi-leto-studena-fronta-prinese-dest-a-vyrazny-pokles-teplot/",
-     "title": "Meteorologové upřesnili, kdy skončí babí léto. Studená fronta přinese déšť a výrazný pokles teplot | Život v Česku"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/10/pokholodanie-v-chekhii-babe-leto-smenitsia-dozhdiami-a14d494b19304b72.webp",
    "image_w": 1200,
    "image_h": 675
   }
