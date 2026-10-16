@@ -1,8 +1,100 @@
 {
- "updated_at": "2026-10-16T18:59:24+00:00",
+ "updated_at": "2026-10-16T19:00:33+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n7387",
+   "slug": "itogi-dnia-tender-na-165-milliardov-vtoroi-tur-vyborov-i-toplivo",
+   "source": "24n.cz",
+   "original_url": "https://24n.cz/roundup/daily/2026-10-16",
+   "top": false,
+   "tags": [
+    "cesko"
+   ],
+   "published_at": "2026-10-16T21:00:33.178948+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "16 октября 2026, 21:00",
+    "uk": "16 жовтня 2026, 21:00"
+   },
+   "ru": {
+    "title": "Итоги дня: тендер на 165 миллиардов, второй тур выборов и топливо",
+    "lede": "Прага и Стředočeský kraj одобрили самый дорогой контракт на пригородные поезда в истории, чехи весь день голосовали во втором туре сенатских выборов, а цены на дизель на выходных пойдут вверх.",
+    "meta_description": "Главное за 16 октября: контракт на пригородные поезда за 165 млрд крон, второй тур выборов в Сенат, рост цен на дизель и новый набор добровольцев в Праге.",
+    "paras": [
+     "<p>День вышел насыщенным: Чехия выбирала верхнюю палату парламента, а власти Праги и Среднечешского края подписали контракт, который определит пригородные поезда на десятилетия вперёд. К вечеру стало известно и другое: сколько прибавит дизель на заправках.</p>",
+     "<h3>Пригородные поезда на 30 лет вперёд</h3>",
+     "<p>Столичные и областные власти одобрили контракт с государственным перевозчиком České dráhy на 30 лет пригородных перевозок. Стоимость сделки превышает 165 миллиардов крон. Это самый крупный железнодорожный тендер в истории страны.</p>",
+     "<p>Что это даёт на практике? Расписание электричек вокруг Праги и по Среднечешскому краю перестанет перекраиваться каждый год при смене подрядчика. Пассажиров ждут стабильный график и постепенное обновление составов. Подробности контракта и что он меняет для тех, кто ездит на работу из области, читайте в материале <a href=\"/ru/istoricheskii-zheleznodorozhnyi-tender-praha-i-stredocesky-kraj\">об историческом железнодорожном тендере Praha и Středočeský kraj</a>.</p>",
+     "<h3>Второй тур сенатских выборов</h3>",
+     "<p>В Чехии прошли решающие матчи за места в верхнюю палату парламента. Во втором туре сенатских выборов за мандаты боролись 22 кандидата в стольких же округах.</p>",
+     "<p>Сенат не формирует правительство. Зато утверждает законы и влияет на то, кто займёт места в Конституционном суде. Кто именно выходит во второй тур в вашем округе и какие расклады сложились, смотрите в разборе <a href=\"/ru/vtoroi-tur-senatskikh-vyborov-v-chekhii-rasklad-sil\">о втором туре сенатских выборов в Чехии</a>.</p>",
+     "<h3>Ценовой потолок на дизель и бензин разошёлся</h3>",
+     "<p>Предельная стоимость автомобильного топлива в Чехии меняется. Лимит на дизель на выходных и в понедельник вырастет. Потолок на бензин продолжит снижаться.</p>",
+     "<p>Для водителей это означает простую вещь: заправляться дизелем лучше до выходных, а с бензином можно не спешить. Разница в лимитах появилась из-за разной динамики цен на мировом рынке. Все цифры и даты, когда новые лимиты вступают в силу, есть в материале <a href=\"/ru/v-chekhii-meniaetsia-cenovy-strop-na-nafta-i-benzin\">о том, как в Чехии меняется cenový strop na nafta i benzin</a>.</p>",
+     "<h3>Прага ищет добровольцев на случай ЧП</h3>",
+     "<p>Столичная мэрия запустила проект Pražský krizový dobrovolník. Он создаёт сеть помощников на случай масштабных ЧП, стихийных бедствий и техногенных аварий. Регистрация желающих уже открыта.</p>",
+     "<p>Живёте в Праге и готовы помочь при наводнении, пожаре или аварии на производстве? Записаться можно заранее. Добровольцев, скорее всего, привлекут к работе с людьми в пунктах эвакуации и к разбору завалов. Как подать заявку и какие требования к кандидатам, читайте в новости <a href=\"/ru/praga-nabiraet-dobrovoltsev-dlia-pomoshchi-pri-chs-prazsky-krizovy-dob\">о наборе добровольцев для помощи при ЧС</a>.</p>",
+     "<h3>Госдолг вырос на 200 миллиардов за три квартала</h3>",
+     "<p>Государственный долг Чехии за первые три квартала вырос более чем на 200 миллиардов крон. Сейчас он составляет 3,882 триллиона крон.</p>",
+     "<p>Завтра жизнь читателя это не изменит. А вот денег на зарплаты бюджетникам, дороги и пособия у государства останется меньше. Цифры и динамика за год в материале <a href=\"/ru/gosudarstvennyi-dolg-chekhii-vyros-bolee-chem-na-200-milliardov\">о росте государственного долга Чехии</a>.</p>",
+     "<h3>Свинец в воде больницы Nový Jičín</h3>",
+     "<p>В водопроводной воде больницы в Nový Jičín нашли опасное превышение содержания свинца. Родильное отделение пришлось экстренно перенести, пациентов обеспечили питьевой водой.</p>",
+     "<p>Речь идёт о конкретном медучреждении, но история касается всех, кто пьёт воду из старых труб. Что именно нашли в анализах и какие отделения закрыли, читайте в новости <a href=\"/ru/svinets-v-vode-bolnitsy-novy-jicin-zakryvaiut-otdeleniia\">о свинце в воде больницы Nový Jičín</a>.</p>",
+     "<h3>Коротко</h3>",
+     "<ul>",
+     "<li>В Праге с 20 октября открываются две обновлённые платформы на Смиховском вокзале, а к концу 2027 года обещают безбарьерную эстакаду до Radlice. Детали в материале <a href=\"/ru/na-smikhovskom-vokzale-v-prage-otkryvaiutsia-novye-platformy-i-peshekh\">о новых платформах и пешеходной эстакаде</a>.</li>",
+     "<li>Топливо в Праге за неделю подорожало, бензин прибавил почти крону, и столица остаётся самым дорогим регионом для автомобилистов. Где заправляться дешевле, смотрите в обзоре <a href=\"/ru/tseny-na-toplivo-v-prage-vyrosli-gde-zapravliatsia-dorozhe-vsego\">о ценах на топливо в Праге</a>.</li>",
+     "<li>Trinity Bank с 19 октября повышает ставку на сберегательном счёте Narozeninový до 4,28 % годовых для вкладов до полумиллиона крон, гарантия держится до конца марта 2027 года. Условия в новости <a href=\"/ru/trinity-bank-povyshaet-stavku-na-sberegatelnom-schete-do-4-28-samaia-d\">о повышении ставки Trinity Bank</a>.</li>",
+     "<li>Рождественские ярмарки в Праге стартуют 20 ноября на площади Миру, а главные площадки на Староместской и Вацлавской начнут работу 28 ноября и продлятся до 6 января 2027 года. Даты и места в материале <a href=\"/ru/rozhdestvenskie-iarmarki-v-prage-2026-daty-mesta-i-vremia-raboty\">о рождественских ярмарках 2026</a>.</li>",
+     "<li>Чехия стареет: в 2026 году родилось всего 77,6 тысячи детей, это минимум за всю историю наблюдений, а людей старше 65 лет почти пятая часть населения. Цифры и последствия в новости <a href=\"/ru/chekhiia-stareet-rozhdaemost-rekordno-nizkaia-piataia-chast-naseleniia\">о рекордно низкой рождаемости</a>.</li>",
+     "</ul>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "uk": {
+    "title": "Підсумки дня: тендер на 165 мільярдів, другий тур виборів і пальне",
+    "lede": "Прага та Стředočeský kraj схвалили найдорожчий контракт на приміські поїзди в історії, чехи цілий день голосували в другому турі сенатських виборів, а ціни на дизель на вихідних підуть угору.",
+    "meta_description": "Головне за 16 жовтня: контракт на приміські поїзди за 165 млрд крон, другий тур виборів до Сенату, зростання цін на дизель і новий набір добровольців у Празі.",
+    "paras": [
+     "<p>День вийшов насиченим: Чехія обирала верхню палату парламенту, а влада Праги та Середньочеського краю підписала контракт, який визначить приміські поїзди на десятиліття вперед. До вечора стало відомо й інше: скільки додасть дизель на заправках.</p>",
+     "<h3>Приміські поїзди на 30 років вперед</h3>",
+     "<p>Столична та обласна влада схвалила контракт з державним перевізником České dráhy на 30 років приміських перевезень. Вартість угоди перевищує 165 мільярдів крон. Це найбільший залізничний тендер в історії країни.</p>",
+     "<p>Що це дає на практиці? Розклад електричок навколо Праги та по Середньочеському краю перестане перекроюватися щороку при зміні підрядника. Пасажирів чекають стабільний графік і поступове оновлення составів. Подробиці контракту та що він змінює для тих, хто їздить на роботу з області, читайте в матеріалі <a href=\"/uk/istoricheskii-zheleznodorozhnyi-tender-praha-i-stredocesky-kraj\">про історичний залізничний тендер Praha і Středočeský kraj</a>.</p>",
+     "<h3>Другий тур сенатських виборів</h3>",
+     "<p>У Чехії відбулися вирішальні матчі за місця у верхній палаті парламенту. У другому турі сенатських виборів за мандати боролися 22 кандидати в стількох же округах.</p>",
+     "<p>Сенат не формує уряд. Зате затверджує закони та впливає на те, хто займе місця в Конституційному суді. Хто саме виходить у другий тур у вашому окрузі та які розклади склалися, дивіться в розборі <a href=\"/uk/vtoroi-tur-senatskikh-vyborov-v-chekhii-rasklad-sil\">про другий тур сенатських виборів у Чехії</a>.</p>",
+     "<h3>Цінова стеля на дизель і бензин розійшлася</h3>",
+     "<p>Гранична вартість автомобільного пального в Чехії змінюється. Ліміт на дизель на вихідних і в понеділок зросте. Стеля на бензин продовжить знижуватися.</p>",
+     "<p>Для водіїв це означає просту річ: заправлятися дизелем краще до вихідних, а з бензином можна не поспішати. Різниця в лімітах з'явилася через різну динаміку цін на світовому ринку. Усі цифри та дати, коли нові ліміти набирають чинності, є в матеріалі <a href=\"/uk/v-chekhii-meniaetsia-cenovy-strop-na-nafta-i-benzin\">про те, як у Чехії змінюється cenový strop na nafta i benzin</a>.</p>",
+     "<h3>Прага шукає добровольців на випадок НС</h3>",
+     "<p>Столична мерія запустила проєкт Pražský krizový dobrovolník. Він створює мережу помічників на випадок масштабних НС, стихійних лих і техногенних аварій. Реєстрація охочих уже відкрита.</p>",
+     "<p>Живете в Празі та готові допомогти при повені, пожежі чи аварії на виробництві? Записатися можна заздалегідь. Добровольців, найімовірніше, залучать до роботи з людьми в пунктах евакуації та до розбору завалів. Як подати заявку та які вимоги до кандидатів, читайте в новині <a href=\"/uk/praga-nabiraet-dobrovoltsev-dlia-pomoshchi-pri-chs-prazsky-krizovy-dob\">про набір добровольців для допомоги при НС</a>.</p>",
+     "<h3>Держборг зріс на 200 мільярдів за три квартали</h3>",
+     "<p>Державний борг Чехії за перші три квартали зріс більш ніж на 200 мільярдів крон. Зараз він становить 3,882 трильйона крон.</p>",
+     "<p>Завтра життя читача це не змінить. А от грошей на зарплати бюджетникам, дороги та допомоги в держави залишиться менше. Цифри та динаміка за рік у матеріалі <a href=\"/uk/gosudarstvennyi-dolg-chekhii-vyros-bolee-chem-na-200-milliardov\">про зростання державного боргу Чехії</a>.</p>",
+     "<h3>Свинець у воді лікарні Nový Jičín</h3>",
+     "<p>У водопровідній воді лікарні в Nový Jičín знайшли небезпечне перевищення вмісту свинцю. Пологове відділення довелося екстрено перенести, пацієнтів забезпечили питною водою.</p>",
+     "<p>Йдеться про конкретний медзаклад, але історія стосується всіх, хто п'є воду зі старих труб. Що саме знайшли в аналізах і які відділення закрили, читайте в новині <a href=\"/uk/svinets-v-vode-bolnitsy-novy-jicin-zakryvaiut-otdeleniia\">про свинець у воді лікарні Nový Jičín</a>.</p>",
+     "<h3>Коротко</h3>",
+     "<ul>",
+     "<li>У Празі з 20 жовтня відкриваються дві оновлені платформи на Сміховському вокзалі, а до кінця 2027 року обіцяють безбар'єрну естакаду до Radlice. Деталі в матеріалі <a href=\"/uk/na-smikhovskom-vokzale-v-prage-otkryvaiutsia-novye-platformy-i-peshekh\">про нові платформи та пішохідну естакаду</a>.</li>",
+     "<li>Пальне в Празі за тиждень подорожчало, бензин додав майже крону, і столиця залишається найдорожчим регіоном для автомобілістів. Де заправлятися дешевше, дивіться в огляді <a href=\"/uk/tseny-na-toplivo-v-prage-vyrosli-gde-zapravliatsia-dorozhe-vsego\">про ціни на пальне в Празі</a>.</li>",
+     "<li>Trinity Bank з 19 жовтня підвищує ставку на ощадному рахунку Narozeninový до 4,28 % річних для вкладів до пів мільйона крон, гарантія тримається до кінця березня 2027 року. Умови в новині <a href=\"/uk/trinity-bank-povyshaet-stavku-na-sberegatelnom-schete-do-4-28-samaia-d\">про підвищення ставки Trinity Bank</a>.</li>",
+     "<li>Різдвяні ярмарки в Празі стартують 20 листопада на площі Миру, а головні майданчики на Старомєстській і Вацлавській почнуть роботу 28 листопада і триватимуть до 6 січня 2027 року. Дати та місця в матеріалі <a href=\"/uk/rozhdestvenskie-iarmarki-v-prage-2026-daty-mesta-i-vremia-raboty\">про різдвяні ярмарки 2026</a>.</li>",
+     "<li>Чехія старіє: у 2026 році народилося всього 77,6 тисячі дітей, це мінімум за всю історію спостережень, а людей старше 65 років майже п'ята частина населення. Цифри та наслідки в новині <a href=\"/uk/chekhiia-stareet-rozhdaemost-rekordno-nizkaia-piataia-chast-naseleniia\">про рекордно низьку народжуваність</a>.</li>",
+     "</ul>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "rank": 84.0
+  },
   {
    "id": "n7386",
    "slug": "v-prage-pokazhut-detektivnuiu-fantastiku-po-chapeku-premera-r-u-r-oper",
@@ -15,8 +107,8 @@
    ],
    "published_at": "2026-10-16T20:59:23.338636+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 минуту назад",
+    "uk": "1 хвилину тому"
    },
    "date": {
     "ru": "16 октября 2026, 20:59",
@@ -247,8 +339,8 @@
    ],
    "published_at": "2026-10-16T20:59:23.338636+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 минуту назад",
+    "uk": "1 хвилину тому"
    },
    "date": {
     "ru": "16 октября 2026, 20:59",
@@ -496,8 +588,8 @@
    ],
    "published_at": "2026-10-16T20:26:57.185136+02:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "16 октября 2026, 20:26",
@@ -1982,7 +2074,7 @@
      "body_sha256": "82efb5ada222c3e8a541429623eedd626adb1a37af6027abd03515e0e10631cb"
     }
    },
-   "rank": 119.675,
+   "rank": 119.641,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -2206,7 +2298,7 @@
      "body_sha256": "c05a8d347be8a3c8db921f79e67f37a9969987c339d81e87326f0c87f46d0ec7"
     }
    },
-   "rank": 89.756,
+   "rank": 89.731,
    "sources": [
     {
      "domain": "infotbal.cz",
@@ -2468,7 +2560,7 @@
      "body_sha256": "58bf7b6f96305b767291de6c652aa966426e1c4360ce8e146e445c8504e1a47f"
     }
    },
-   "rank": 128.673,
+   "rank": 128.637,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -2761,7 +2853,7 @@
      "body_sha256": "6d97bb006d7779ccb7c285e39841f7aea9c7f7141c225aac2cc421769d9387a7"
     }
    },
-   "rank": 125.704,
+   "rank": 125.668,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -2935,7 +3027,7 @@
      "body_sha256": "e21ecf8c9728eccbe9e050fb204038c765e2d20d45a5751c44942fea042eeb19"
     }
    },
-   "rank": 87.449,
+   "rank": 87.424,
    "sources": [
     {
      "domain": "metro.cz",
@@ -3161,7 +3253,7 @@
      "body_sha256": "a54b34472f8163ade9fed0ab0a4918f855aa4501def3921984c174eb2001ab4e"
     }
    },
-   "rank": 97.275,
+   "rank": 97.247,
    "sources": [
     {
      "domain": "tvspravy.sk",
@@ -3415,7 +3507,7 @@
      "body_sha256": "74979216e59b998f2fa5890d915b59f0950dd34db02a57c296bf4f11d4f32e0b"
     }
    },
-   "rank": 103.17,
+   "rank": 103.141,
    "image_url": "https://img.24n.cz/p/2026/10/na-smikhovskom-vokzale-v-prage-otkryvaiutsia-novye-platformy-609866da2023bbae.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/na-smikhovskom-vokzale-v-prage-otkryvaiutsia-novye-platformy-50c367ecc0ad9924.webp"
@@ -3601,7 +3693,7 @@
      "body_sha256": "fb335c2ea29ff38772ba5dcde5df35edc63e0ebf96f932ded600c92477a1d07b"
     }
    },
-   "rank": 106.295,
+   "rank": 106.265,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -3877,7 +3969,7 @@
      "body_sha256": "53efc1ec8e635112a3a5c0676d090aa4a0e08ee98d475204086751c28fe2145e"
     }
    },
-   "rank": 77.306,
+   "rank": 77.283,
    "image_url": "https://img.24n.cz/p/2026/10/velosipedist-s-ruzhem-v-kladno-politsiia-priniala-mery-iz-za-32acc3ad69774fc2.webp",
    "image_w": 1024,
    "image_h": 768
@@ -4070,7 +4162,7 @@
      "body_sha256": "1f600845869cb379bf2475943854cd202aba68c39644a63d1346e180fe3014b8"
     }
    },
-   "rank": 97.872,
+   "rank": 97.843,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -4254,7 +4346,7 @@
      "body_sha256": "316c1f12f9ffbce38461f5207f533a0f41a0a6724a82dc32e7a2b6ee0ac93fac"
     }
    },
-   "rank": 73.884,
+   "rank": 73.862,
    "sources": [
     {
      "domain": "media24.cz",
@@ -4485,7 +4577,7 @@
      "body_sha256": "da6fec1cf2ca7a4c970694e548d5efac71af01c44ae2abc7dd95902a5d707d42"
     }
    },
-   "rank": 97.872,
+   "rank": 97.843,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -4709,7 +4801,7 @@
      "body_sha256": "8b2a33df5e27b81715c33562d1bb4ac61270ad0eb963acab153d9c38dd3582c3"
     }
    },
-   "rank": 98.226,
+   "rank": 98.197,
    "sources": [
     {
      "domain": "cokdekdy.cz",
@@ -4933,7 +5025,7 @@
      "body_sha256": "5e9edca7ccf0fa84d34cd40f4131f9f92efd33354bd593d5d04584a8ef7b5a9d"
     }
    },
-   "rank": 96.337,
+   "rank": 96.309,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -5151,7 +5243,7 @@
      "body_sha256": "498215e7ca286c5bb36e03bd3c929948413c0b4b38d487ed4efe0814aaab522f"
     }
    },
-   "rank": 108.615,
+   "rank": 108.583,
    "sources": [
     {
      "domain": "media24.cz",
@@ -5405,7 +5497,7 @@
      "body_sha256": "b21b30900514a014d82d46075f0e0908cf20b760d069fc2639e56e3b7e772cfc"
     }
    },
-   "rank": 88.893,
+   "rank": 88.866,
    "image_url": "https://img.24n.cz/p/2026/10/bez-koda-ili-s-iskusstvennym-intellektom-kak-cheshskie-razra-a3f4217a5929495f.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -5591,7 +5683,7 @@
      "body_sha256": "758c1b5cf2d62f11a48da15f350e6dd93b92b3f7cbf3627ddcbe2e9f1b41f6e6"
     }
    },
-   "rank": 98.25,
+   "rank": 98.221,
    "image_url": "https://img.24n.cz/p/2026/10/novye-pravila-cheshskikh-kulturnykh-dotatsii-vyzvali-spory-cb3672d892b140f8.webp",
    "image_w": 1200,
    "image_h": 675
@@ -5758,7 +5850,7 @@
      "body_sha256": "0563aeb2684c6e48f78c8b15b4db49b120e744386c5139b6fa50b0622cfa78af"
     }
    },
-   "rank": 97.459,
+   "rank": 97.43,
    "image_url": "https://img.24n.cz/p/2026/10/zhitel-strakonitse-ugrozhal-raspravoi-sude-i-strelboi-ffb4a584fec5f00a.webp",
    "image_w": 1200,
    "image_h": 675
@@ -5920,7 +6012,7 @@
      "body_sha256": "9a95aa5ccb04b63df81b12c136f8ac2368633db5d3deb7288daaca4b24bebf8e"
     }
    },
-   "rank": 74.255,
+   "rank": 74.232,
    "image_url": "https://img.24n.cz/p/2026/10/tereza-hrabini-cheshskaia-muzyka-obrela-zhenskii-golos-v-sti-24bc1503f66f40fc.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/tereza-hrabini-cheshskaia-muzyka-obrela-zhenskii-golos-v-sti-31dd2e3531acc081.webp",
@@ -6253,7 +6345,7 @@
      "body_sha256": "62838349b49dc35ec944e1a45ade3316e8d4970f7b27445adee64d8a33e62dac"
     }
    },
-   "rank": 105.866,
+   "rank": 105.834,
    "image_url": "https://img.24n.cz/p/2026/10/odin-golos-reshil-vybory-v-senat-na-zhdiarshchine-itogi-mogu-002c8b188388af23.webp",
    "image_w": 1200,
    "image_h": 675
@@ -6270,8 +6362,8 @@
    ],
    "published_at": "2026-10-16T11:59:32.732535+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "16 октября 2026, 11:59",
@@ -6530,7 +6622,7 @@
      "body_sha256": "bcc0bc4c4c628417e96ac01a34ec7efd4b27274cb461b4118e4543d462466d05"
     }
    },
-   "rank": 86.77,
+   "rank": 86.744,
    "image_url": "https://img.24n.cz/p/2026/10/tesla-predstavila-novyi-sportkar-roadster-s-tekhnologiiami-s-efa00791c00e87b1.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/tesla-predstavila-novyi-sportkar-roadster-s-tekhnologiiami-s-112c1438dbb227d3.webp"
@@ -6567,8 +6659,8 @@
    ],
    "published_at": "2026-10-16T11:59:32.732535+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "16 октября 2026, 11:59",
@@ -6925,7 +7017,7 @@
      "body_sha256": "9d0f19a2ff17c3c1e5ff65710987f745271dab0aadf3ac37172e1a950939c86b"
     }
    },
-   "rank": 95.03
+   "rank": 95.001
   },
   {
    "id": "n7354",
@@ -7013,7 +7105,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 71.936,
+   "rank": 71.914,
    "leisure": true
   },
   {
@@ -7240,7 +7332,7 @@
      "body_sha256": "9d20861e54a8a463eb256be570c6145181f1d39b8add41e9c4e020bdcfa62052"
     }
    },
-   "rank": 100.514,
+   "rank": 100.483,
    "sources": [
     {
      "domain": "vlada.gov.cz",
@@ -7425,7 +7517,7 @@
      "body_sha256": "1b8c6f3c5d54120fe3a45b0cb8f1a2399747d6181dbb8e1b1d55e1549f7e143d"
     }
    },
-   "rank": 90.788,
+   "rank": 90.76,
    "sources": [
     {
      "domain": "opavsky.denik.cz",
@@ -7637,7 +7729,7 @@
      "body_sha256": "5c762ee1ed9ed0ac268cf2442c19cdc425f6dad6138a9521170e73979779b126"
     }
    },
-   "rank": 99.689,
+   "rank": 99.658,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -7802,7 +7894,7 @@
     ],
     "impact": "Покупателям инвестиционной недвижимости в Чехии нужно учитывать жесткие лимиты Центробанка (ČNB): на третий и последующие кредиты банк выдает не более 70% от стоимости объекта, а общий долг заемщика ограничен семикратным размером годового дохода."
    },
-   "rank": 78.808,
+   "rank": 78.783,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/cm8rpkTDuHI"
@@ -7973,7 +8065,7 @@
      "body_sha256": "7d91ac696628ba98b67601a482e07d40f3ebed886e2b10088fc3108dc1f36481"
     }
    },
-   "rank": 87.565,
+   "rank": 87.537,
    "image_url": "https://img.24n.cz/p/2026/10/film-sladky-domov-v-prage-kak-domashnee-nasilie-stalo-temoi-eb516e3e9bfffb7a.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/ano-nachinaet-peregovory-o-koalitsii-v-prage-11-gotovy-sotru-f2fbfcf6177b0b6c.webp"
@@ -8185,7 +8277,7 @@
      "body_sha256": "2828ca25895b8baa31bc85033570e071d71380135febdc9016acab24a67ac27d"
     }
    },
-   "rank": 84.938,
+   "rank": 84.911,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -8358,7 +8450,7 @@
      "body_sha256": "554dbb62515f82a8b3cbef42e54b0739c875fc0a0145594bb93d747834ce8552"
     }
    },
-   "rank": 104.121,
+   "rank": 104.088,
    "image_url": "https://img.24n.cz/p/2026/10/kontrolery-podtverdili-skandal-s-sovetnitsei-stoil-milliony-9510318b3c732386.webp",
    "image_w": 1200,
    "image_h": 674
@@ -8520,7 +8612,7 @@
      "body_sha256": "c405864e71006cd4baf7747fbefeed6b5615733841a37006bae668127ac2c191"
     }
    },
-   "rank": 84.164,
+   "rank": 84.138,
    "sources": [
     {
      "domain": "centrumnews.cz",
@@ -8772,7 +8864,7 @@
      "body_sha256": "fb4138189ae99f0f828369dfbb05d7d1a38077594af1808753c326c0bacfc289"
     }
    },
-   "rank": 82.429,
+   "rank": 82.403,
    "image_url": "https://img.24n.cz/p/2026/10/tekhnologicheskaia-nedelia-cetin-rasshiriaetsia-apple-obnovl-bc82a1796b4f1182.webp",
    "video": {
     "kind": "iframe",
@@ -8952,7 +9044,7 @@
      "body_sha256": "768e6b407d1cffd95c2d37159e61cddb3b3bce3ebe28b3e98fc8fa55039ab387"
     }
    },
-   "rank": 97.18,
+   "rank": 97.149,
    "story": [
     {
      "slug": "koalitsiia-v-prage-13-posle-vyborov-2026-pobeda-ods",
@@ -9162,7 +9254,7 @@
      "body_sha256": "e3256ce8c8dcecc2e34a02fb0f2b87ddbff9c7b8f2b29313a11afdf1e1851268"
     }
    },
-   "rank": 90.154
+   "rank": 90.125
   },
   {
    "id": "n7342",
@@ -9339,7 +9431,7 @@
      "body_sha256": "98df7cadd3c4b3b80194ed52f205b6cb24c338f5a6017656861dee158f00280d"
     }
    },
-   "rank": 98.741,
+   "rank": 98.709,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-stareet-rozhdaemost-rekordno-nizkaia-piataia-chast-3b6c415fe0e553b8.webp",
    "image_w": 1200,
    "image_h": 675
@@ -9588,7 +9680,7 @@
      "body_sha256": "6d5c5188f41f2d3ea0caa8b033baeac9997b05e5775d932aba40bcb396d7cad6"
     }
    },
-   "rank": 97.023,
+   "rank": 96.992,
    "sources": [
     {
      "domain": "hlidacipes.org",
@@ -9839,7 +9931,7 @@
      "body_sha256": "29506010e426fc42ee0d098e6796ebdc92cc9350dc8865b5039baaed3fe4b7df"
     }
    },
-   "rank": 84.303,
+   "rank": 84.275,
    "image_url": "https://img.24n.cz/p/2026/10/mat-s-rebenkom-ostalis-bez-zhilia-iz-za-sboia-v-vyplatakh-52b8235227bf0dba.webp",
    "image_w": 1200,
    "image_h": 675
@@ -10023,7 +10115,7 @@
      "body_sha256": "83c4ff7b1b763f01886805115d28d3d759e5e27e72325e6bd5a2263012059706"
     }
    },
-   "rank": 75.873
+   "rank": 75.848
   },
   {
    "id": "n7338",
@@ -10186,7 +10278,7 @@
      "body_sha256": "6236c7b7f4d9e2f1af3209070656d545f885142817d76041061e673b798fbc1a"
     }
    },
-   "rank": 84.303,
+   "rank": 84.275,
    "sources": [
     {
      "domain": "cedarnews.net",
@@ -10386,7 +10478,7 @@
      "body_sha256": "a4d0e46fb900859577dab8c24cb8cc1bddfbcb04001a5e9e8e7192f1405e27a0"
     }
    },
-   "rank": 70.986
+   "rank": 70.963
   },
   {
    "id": "n7336",
@@ -10570,7 +10662,7 @@
      "body_sha256": "4733264f1fb31494bf27f36176f4cabf273ff6f0521dafc1168841eddee43a62"
     }
    },
-   "rank": 87.689
+   "rank": 87.66
   },
   {
    "id": "n7335",
@@ -10748,7 +10840,7 @@
      "body_sha256": "aa6087effdd74fe0faabe051342eee1cf98676033b6e9036f035f29fad4f8376"
     }
    },
-   "rank": 91.864,
+   "rank": 91.834,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10787,8 +10879,8 @@
    ],
    "published_at": "2026-10-16T06:00:32.587521+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "16 октября 2026, 06:00",
@@ -10927,7 +11019,7 @@
      "body_sha256": "f6b70ab33b333975b133a618a39383e7f4b78600cd2dd7085002d66b6b9ad826"
     }
    },
-   "rank": 82.694,
+   "rank": 82.666,
    "image_url": "https://img.24n.cz/p/2026/10/v-chekhii-rastut-palatochnye-gorodki-bezdomnykh-kak-tam-zhiv-b0d8bda52093ee6c.webp",
    "image_w": 1366,
    "image_h": 910
@@ -10945,8 +11037,8 @@
    ],
    "published_at": "2026-10-16T06:00:32.587521+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "16 октября 2026, 06:00",
@@ -11205,7 +11297,7 @@
      "body_sha256": "5aed2b92c3cbfd262103345dbb85165bf2d386596aa26c9f543468ad0eae949e"
     }
    },
-   "rank": 95.098
+   "rank": 95.066
   },
   {
    "id": "n7332",
@@ -11493,7 +11585,7 @@
      "body_sha256": "779440fedb310f920e686a9e049eb9fa51e62a249188ac3a0691a9fa9db6d0ad"
     }
    },
-   "rank": 77.854
+   "rank": 77.828
   },
   {
    "id": "n7331",
@@ -11742,7 +11834,7 @@
      "body_sha256": "1e6422f0e0cf729773aa6de2d9289ce25c002eee1591cb4560da100cc45b72eb"
     }
    },
-   "rank": 81.908,
+   "rank": 81.879,
    "sources": [
     {
      "domain": "prahanadlani.cz",
@@ -12054,7 +12146,7 @@
      "body_sha256": "79b42e497630a1bd16ff14ba678ed93c1bfaee01d18ce9f39436c2c5bdc0d120"
     }
    },
-   "rank": 63.56,
+   "rank": 63.538,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-otkrylos-novoe-bistro-traum-concept-s-berlinskim-nas-71e1ad9ef5df2ee0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-otkrylos-novoe-bistro-traum-concept-s-berlinskim-nas-3f133dfa79aec984.webp"
@@ -12258,7 +12350,7 @@
      "body_sha256": "a9b43a20f11963ebbefa939e46fb5f7bbc152a519c1eb72953816da685fd3de6"
     }
    },
-   "rank": 70.136,
+   "rank": 70.111,
    "sources": [
     {
      "domain": "expresskerala.com",
@@ -12495,7 +12587,7 @@
      "body_sha256": "c220cc927497288461693daa2ff84b71536da809c22f11306dac787f9cfba4e0"
     }
    },
-   "rank": 70.136,
+   "rank": 70.111,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -12763,7 +12855,7 @@
      "body_sha256": "73584366f42e8d5dae3745e04312e2aed043243a20751af66628c75664aea5da"
     }
    },
-   "rank": 88.838,
+   "rank": 88.807,
    "sources": [
     {
      "domain": "praha1.cz",
@@ -12945,7 +13037,7 @@
      "body_sha256": "350bfb7c190f40df2c0b644b1cfa3d662251e950151478127ca2ab1f6e39d21b"
     }
    },
-   "rank": 76.377,
+   "rank": 76.349,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -13137,7 +13229,7 @@
      "body_sha256": "774772154b740c3f2a85d6deae4a0f4a60c16b5b5e32ae289ff65715aa07b9a9"
     }
    },
-   "rank": 86.406,
+   "rank": 86.375,
    "sources": [
     {
      "domain": "vecerni-praha.cz",
@@ -13341,7 +13433,7 @@
      "body_sha256": "b271c5391361e3b3bd16e9e9fe1101e2e934a9809892bf0926c254f9d373e50d"
     }
    },
-   "rank": 67.334
+   "rank": 67.309
   },
   {
    "id": "n7323",
@@ -13506,7 +13598,7 @@
      "body_sha256": "f0765c71a52c20a57d46d8a161de7f8894151e636f2a3b7687bb5c1202af66ea"
     }
    },
-   "rank": 77.808,
+   "rank": 77.779,
    "sources": [
     {
      "domain": "zdarsky.denik.cz",
@@ -13751,7 +13843,7 @@
      "body_sha256": "d105e52f6019c5012b0c79fc00432a0c3544573666c6d6380db9240d0814891d"
     }
    },
-   "rank": 71.722
+   "rank": 71.694
   },
   {
    "id": "n7321",
@@ -13913,7 +14005,7 @@
      "body_sha256": "c12cadfcb3b76fd4a148cb9156766248cc3bf26fe80cd18e83c9b31a23b3b3e7"
     }
    },
-   "rank": 56.756,
+   "rank": 56.734,
    "image_url": "https://img.24n.cz/p/2026/10/peregovory-v-kralovegradetskom-krae-novye-koalitsii-e7130dd78911eaa6.webp",
    "image_w": 620,
    "image_h": 349
@@ -14090,7 +14182,7 @@
      "body_sha256": "beb4b5511c20870b7c15d315ee178eace71598bd7418e386389d8491f02428a0"
     }
    },
-   "rank": 79.458,
+   "rank": 79.427,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -14273,7 +14365,7 @@
      "body_sha256": "058382fb6442b976a708d6dc4595522fb3478ed99ad643e71321feb8ba5dc8c9"
     }
    },
-   "rank": 76.548,
+   "rank": 76.518,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -14506,7 +14598,7 @@
      "body_sha256": "f04d69113d85cc74a5201f559dd4e8aba39e313d15a339428f567aa205a0b295"
     }
    },
-   "rank": 87.082,
+   "rank": 87.048,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -14538,8 +14630,8 @@
    ],
    "published_at": "2026-10-15T21:00:32.722029+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "15 октября 2026, 21:00",
@@ -14623,7 +14715,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 58.543
+   "rank": 58.52
   },
   {
    "id": "n7316",
@@ -14784,7 +14876,7 @@
      "body_sha256": "983b96100be3369e3f6ee3022689ec87ec5ca436a59cb5d8aa74ed3020bbbfd6"
     }
    },
-   "rank": 45.159,
+   "rank": 45.141,
    "image_url": "https://img.24n.cz/p/2026/10/novyi-street-fighter-vozvrashchaet-na-ekrany-stil-90-kh-godo-2a2db590e187fea7.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/novyi-street-fighter-vozvrashchaet-na-ekrany-stil-90-kh-godo-465cd870a32e4931.webp"
@@ -14991,7 +15083,7 @@
      "body_sha256": "06e3e12f5ef7642bf0befa6d3b0d7f85a7b2fe484aa4926cb656f6bdba626c80"
     }
    },
-   "rank": 59.054,
+   "rank": 59.03,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-set-innova-healthcare-rasshiriaet-uslugi-lor-klin-4299b9394c4adb26.webp",
    "image_w": 1200,
    "image_h": 600
@@ -15138,7 +15230,7 @@
      "body_sha256": "0a607d4a876c585a095827b5c04ed92b32710ac830e0b2774e943538c0fef327"
     }
    },
-   "rank": 61.174,
+   "rank": 61.149,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -15272,7 +15364,7 @@
      "body_sha256": "6780fbf780a2cda61d041d2c417c8d4c2b19b0184eee6bea4ea2f4ccd05fab5a"
     }
    },
-   "rank": 82.096
+   "rank": 82.084
   },
   {
    "id": "n7312",
@@ -15469,7 +15561,7 @@
      "body_sha256": "16f416815aa17fa9ab494b6117abea87c8162849718b8495ba481ea8f49d9ad1"
     }
    },
-   "rank": 82.925,
+   "rank": 82.891,
    "sources": [
     {
      "domain": "ekonomickydenik.cz",
@@ -15670,7 +15762,7 @@
      "body_sha256": "97d18e1424e62465959606ea99ff8e6f2399285f1b98dda6092f0f6b3e2e5f11"
     }
    },
-   "rank": 41.681,
+   "rank": 41.663,
    "sources": [
     {
      "domain": "urbanstage.cz",
@@ -15914,7 +16006,7 @@
      "body_sha256": "f5b5e1834f5ee8c98a0c4512c0d7e82b6be3dcf37ffa9f58093a66446d239030"
     }
    },
-   "rank": 76.638,
+   "rank": 76.607,
    "sources": [
     {
      "domain": "daily-ninja.com",
@@ -16180,7 +16272,7 @@
      "body_sha256": "cf216a809c4ad68e9560eaa7e6c51fd8f5aa1d2683c7efae97957c83eacf6d2b"
     }
    },
-   "rank": 89.646,
+   "rank": 89.609,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -16447,7 +16539,7 @@
      "body_sha256": "bff6c0f002c35623f28e4777261210728b0b823051fd019646e9192ddcea2a4b"
     }
    },
-   "rank": 59.764
+   "rank": 59.739
   },
   {
    "id": "n7307",
@@ -16505,7 +16597,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 54.212,
+   "rank": 54.189,
    "forecast": true
   },
   {
@@ -16693,7 +16785,7 @@
      "body_sha256": "e3c586d17906b5ff9e8f2e825df0d0038ab5fe931e147ea32569d6531a3f73c4"
     }
    },
-   "rank": 35.668,
+   "rank": 35.653,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/HzraLR2VkNM"
@@ -16998,7 +17090,7 @@
      "body_sha256": "fd7917c1689f73879baba64d3391cf2459d85eaedc3d773dcc14868baaec13b4"
     }
    },
-   "rank": 67.446,
+   "rank": 67.417,
    "sources": [
     {
      "domain": "cd.cz",
@@ -17213,7 +17305,7 @@
      "body_sha256": "4e9ac6f713a72f3def06e29f613e2f2dd5b2cafde9f24c910b39b492e87f987b"
     }
    },
-   "rank": 66.569,
+   "rank": 66.54,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -17424,7 +17516,7 @@
      "body_sha256": "777af264ec3a0b0fa6cdab9219a0ae84c0aa83891131683daeac5a4e2a48990f"
     }
    },
-   "rank": 78.09,
+   "rank": 78.056,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -17648,7 +17740,7 @@
      "body_sha256": "ae7cd98976f3fdef358e7f15413647dd59a2dcce1eb1d40a652f87e95cb3592c"
     }
    },
-   "rank": 74.923
+   "rank": 74.89
   },
   {
    "id": "n7301",
@@ -17834,7 +17926,7 @@
      "body_sha256": "2010920d10748dece33cb2612a8283bf1d5076b9541c574a1580c766ce0a41b4"
     }
    },
-   "rank": 47.784,
+   "rank": 47.763,
    "image_url": "https://img.24n.cz/p/2026/10/v-khebe-nachnut-proizvodit-premium-sidenia-dlia-elektromobil-a23e7a312e57edea.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-khebe-nachnut-proizvodit-premium-sidenia-dlia-elektromobil-57152cb4a45f4fe3.webp",
@@ -18172,7 +18264,7 @@
      "body_sha256": "1f79dec1b1b7b0b95dee8fa80573bdd22c812a95aaa542bd1162d08729005f3c"
     }
    },
-   "rank": 55.491
+   "rank": 55.466
   },
   {
    "id": "n7299",
@@ -18364,7 +18456,7 @@
      "body_sha256": "27f868dffe4bf8b9503344282bada3f2d2b459d07550a2fdd04fb2db5f87decb"
     }
    },
-   "rank": 54.747
+   "rank": 54.722
   },
   {
    "id": "n7298",
@@ -18524,7 +18616,7 @@
      "body_sha256": "b0d77cd9ac8a26bc3758ed64574eb41a816985f61252065c4c92e157408a1b60"
     }
    },
-   "rank": 60.101,
+   "rank": 60.074,
    "image_url": "https://img.24n.cz/p/2026/10/peregovory-v-prage-stan-i-spolu-dogovorilis-po-riadu-sfer-eae0c490f234d935.webp",
    "image_w": 1280,
    "image_h": 719
@@ -18893,7 +18985,7 @@
      "body_sha256": "c2e9652c3a722da09bb01854535867c11ae674a91855b025382267a0b24b1e15"
     }
    },
-   "rank": 45.076,
+   "rank": 45.055,
    "image_url": "https://img.24n.cz/p/2026/09/webgl-sozdanie-3d-grafiki-kak-ustroen-opengl-es-v-brauzere-54e550168ad614df.webp",
    "image_w": 670,
    "image_h": 377
@@ -19117,7 +19209,7 @@
      "body_sha256": "093d0d5d2f1c11c1e0424e7afbe55b19384baf35c38c71809447032db4ff6ec6"
     }
    },
-   "rank": 48.67,
+   "rank": 48.648,
    "sources": [
     {
      "domain": "media24.cz",
@@ -19314,7 +19406,7 @@
      "body_sha256": "224289fddb24754416d4f6c0546964f19914a6b0803eac560e45d713f225e1fc"
     }
    },
-   "rank": 60.541,
+   "rank": 60.513,
    "sources": [
     {
      "domain": "respekt.cz",
@@ -19507,7 +19599,7 @@
      "body_sha256": "36acab0c5cfead298ca3fee602997f9a06f4d4f13d9386325e456657a4601934"
     }
    },
-   "rank": 59.354
+   "rank": 59.326
   },
   {
    "id": "n7293",
@@ -19751,7 +19843,7 @@
      "body_sha256": "05df408ae7ed3a7c4eefbee1edc2031aaee0aecbbad2be5c6c3b5cd337b96110"
     }
    },
-   "rank": 69.653,
+   "rank": 69.62,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -19977,7 +20069,7 @@
      "body_sha256": "7f5cae65608de0397106adf4e41ae13a73297cc2a92c42369e11d6f1470595fe"
     }
    },
-   "rank": 61.459,
+   "rank": 61.43,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -20256,7 +20348,7 @@
      "body_sha256": "75af0f2f3c361bbfa30ea6da14b7a0bd8fd78faf0fbdcba8e088d8d2f8340d50"
     }
    },
-   "rank": 68.71,
+   "rank": 68.677,
    "sources": [
     {
      "domain": "media24.cz",
@@ -20423,7 +20515,7 @@
      "body_sha256": "450267530b33a159c4a478cd3e23f10291e51e2bc8c78ac5e3a7b7d45d7c8328"
     }
    },
-   "rank": 64.669,
+   "rank": 64.638,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -20568,7 +20660,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 49.896
+   "rank": 49.871
   },
   {
    "id": "n7288",
@@ -20735,7 +20827,7 @@
      "body_sha256": "acf36fe12ea0394e5f827902b7833031f32326b6df9459f9889959a890914a28"
     }
    },
-   "rank": 50.016,
+   "rank": 49.991,
    "sources": [
     {
      "domain": "banai.cz",
@@ -20918,7 +21010,7 @@
      "body_sha256": "82e2590e5c57f21c7f05cb3174e25470da05bdd03cfd02d8aee525e98c21d689"
     }
    },
-   "rank": 61.764,
+   "rank": 61.755,
    "sources": [
     {
      "domain": "prerovonline.cz",
@@ -21156,7 +21248,7 @@
      "body_sha256": "59dcdb996691f8026f774eff846f54720b13293acd898000e8e0e9625dd79775"
     }
    },
-   "rank": 55.484
+   "rank": 55.456
   },
   {
    "id": "n7285",
@@ -21419,7 +21511,7 @@
      "body_sha256": "b3bd802d03ec3ef2bae421b38551d7d882fa47753ed2e2a0b062ba0715e35ad4"
     }
    },
-   "rank": 61.032,
+   "rank": 61.001,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -21601,7 +21693,7 @@
      "body_sha256": "5f0ceedeafe53e029ef8a51cf732b63e6eca70e3f68d7710d39087513408d1a8"
     }
    },
-   "rank": 52.709,
+   "rank": 52.683,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-razrabotchik-david-konecny-vypustil-igru-dreadline-406b4d64c9fa32b6.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/cheshskii-razrabotchik-david-konecny-vypustil-igru-dreadline-42cf6f660f0a79c8.webp"
@@ -21827,7 +21919,7 @@
      "body_sha256": "208f8c28d9ba0084b98b8bd77ddf7eb08d20ddbd1ac4c96afdf661e72a43084c"
     }
    },
-   "rank": 57.366,
+   "rank": 57.337,
    "image_url": "https://img.24n.cz/p/2026/10/v-ugerske-gradishte-smenitsia-mer-posle-12-let-pravleniia-od-db42b79328e54a2b.webp",
    "image_w": 1200,
    "image_h": 675
@@ -21999,7 +22091,7 @@
      "body_sha256": "8b2ccb93e17e420e030b8e327aa9096d1ed8750649cee9528ab775297354e87f"
     }
    },
-   "rank": 38.8,
+   "rank": 38.78,
    "sources": [
     {
      "domain": "cedarnews.net",
@@ -22205,7 +22297,7 @@
      "body_sha256": "de192f5022a3f773b1f0627ae328ce378e1f047d263486287cec0971d6e6b9e5"
     }
    },
-   "rank": 56.583,
+   "rank": 56.554,
    "image_url": "https://img.24n.cz/p/2026/10/politseiskii-poluchil-uslovnyi-srok-za-perepisku-s-devochkoi-4c9a41f7b09e0006.webp",
    "image_w": 1200,
    "image_h": 675
@@ -22451,7 +22543,7 @@
      "body_sha256": "8af0dedd18b84b0e891176c393f593e002416411c3b0b2fe1176f8a648f5c4eb"
     }
    },
-   "rank": 56.583,
+   "rank": 56.554,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -22661,7 +22753,7 @@
      "body_sha256": "5101e49bb19fcf5cbf9c0bf13257d9e953b536219cd24cecd39dc6c9468f835c"
     }
    },
-   "rank": 42.501,
+   "rank": 42.479,
    "image_url": "https://img.24n.cz/p/2026/10/mer-iz-ano-ukhodit-iz-politiki-posle-skandala-s-millionami-7d5c5fa59c63725f.webp",
    "image_w": 1200,
    "image_h": 675
@@ -22867,7 +22959,7 @@
      "body_sha256": "2c4d21b1060bb7bc5200eb13c2ad533cc1fbee9da8bd298468d543a23b8e4437"
     }
    },
-   "rank": 44.506,
+   "rank": 44.482,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-parlament-obsudit-novye-soglasheniia-s-germaniei-i-135caab0fcae9555.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/v-chekhii-obsuzhdaiut-vozvrashchenie-eet-spory-iz-za-kart-0c318d148039e3d7.webp"
@@ -23059,7 +23151,7 @@
      "body_sha256": "30102ba8719fb5547956cb1dc8f2f1838f53529bef249e4897a65084e33c8adb"
     }
    },
-   "rank": 47.124,
+   "rank": 47.099,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-film-pramen-poboretsia-za-evropeiskogo-oskara-ecd4cf782e6d8591.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/cheshskii-film-pramen-poboretsia-za-evropeiskogo-oskara-3716fd56e5f44467.webp",
@@ -23340,7 +23432,7 @@
      "body_sha256": "aed97130c7d863175e83a3db82b65c1faf66f9e57149cfcc445a485f149b67c5"
     }
    },
-   "rank": 72.142,
+   "rank": 72.103,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -23586,7 +23678,7 @@
      "body_sha256": "e29f426adac515a3b0b95596c56022e2beb130e7ca9ea823728ad76d2d9134fa"
     }
    },
-   "rank": 46.721,
+   "rank": 46.695,
    "sources": [
     {
      "domain": "press.news",
@@ -23782,7 +23874,7 @@
      "body_sha256": "d1a25ea45e2337cca9aa51eced7e61412cc24181e8246b1714e03c9bd03a97ee"
     }
    },
-   "rank": 53.323,
+   "rank": 53.294,
    "sources": [
     {
      "domain": "bydlet.cz",
@@ -24075,7 +24167,7 @@
      "body_sha256": "dda2e3a5df6b16bb590c2d7488a993b0549e9d427e99dd088d246026a710a03b"
     }
    },
-   "rank": 47.513,
+   "rank": 47.486,
    "sources": [
     {
      "domain": "krkonossky.denik.cz",
@@ -24402,7 +24494,7 @@
      "body_sha256": "d46c26c60fa02fb953d23a3615872852e127d52deea3b4ebbc88349d209d47e6"
     }
    },
-   "rank": 60.016,
+   "rank": 59.983,
    "sources": [
     {
      "domain": "media24.cz",
@@ -24673,7 +24765,7 @@
      "body_sha256": "62ffc543a2d0859bb237d21fc946d5d348e9e6f0640da2eb0157518ce3eb6d33"
     }
    },
-   "rank": 78.783
+   "rank": 78.771
   },
   {
    "id": "n7270",
@@ -24866,7 +24958,7 @@
      "body_sha256": "f3a986c384b260f3ca896bcf9581647695a5fa90b5d54b0fa0168174ee482e19"
     }
    },
-   "rank": 44.346,
+   "rank": 44.321,
    "image_url": "https://img.24n.cz/p/2026/10/v-opava-planiruiut-postroit-novyi-tsentralnyi-avtovokzal-28b998edf492dad0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-opava-planiruiut-postroit-novyi-tsentralnyi-avtovokzal-4f5af286a9f5efc6.webp"
@@ -25052,7 +25144,7 @@
      "body_sha256": "d42c4c312ae90ee2abd1c1a0fbdb8a057988c548a5a2cd3776a6d94806a9c0a1"
     }
    },
-   "rank": 41.883,
+   "rank": 41.859,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -25346,7 +25438,7 @@
      "body_sha256": "b55294ee7742fea20bbd7751397bf60e56494e3cdddf421929d04e849e7d80c0"
     }
    },
-   "rank": 36.955,
+   "rank": 36.934,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-dron-s-iskusstvennym-intellektom-ponimaet-golos-i-6e3262dd46a39828.webp",
    "image_w": 670,
    "image_h": 377
@@ -25565,7 +25657,7 @@
      "body_sha256": "7c79acf21b730dd14f6f625daad75c54e57ec5eed4121baf9651f8e8969b9fa3"
     }
    },
-   "rank": 51.737,
+   "rank": 51.708,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/unPYe448x9g"
@@ -25776,7 +25868,7 @@
      "body_sha256": "927c47bdefd42454321bfce7d5e6488d9a7a063eda5b781778d8632e9076b9bc"
     }
    },
-   "rank": 74.01,
+   "rank": 73.998,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -25934,7 +26026,7 @@
      "body_sha256": "cf571ee030810ca3b36feaccaf0e11ae305a4dcce338c986d301bce83c8c6a07"
     }
    },
-   "rank": 43.654,
+   "rank": 43.629,
    "image_url": "https://img.24n.cz/p/2026/10/populiarnyi-deiting-servis-bumble-prodaiut-za-bestsenok-90a1d14bef909c19.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -26136,7 +26228,7 @@
      "body_sha256": "9437f9f4ca265fb7a143c630a9f49c5b8eba5b7558d172e963a2a7d825e68478"
     }
    },
-   "rank": 45.375,
+   "rank": 45.348,
    "image_url": "https://img.24n.cz/p/2026/10/dostupnost-zhilia-v-chekhii-padaet-a-pokupateli-ukhodiat-iz-72d57f2b230a86d4.webp",
    "image_w": 1200,
    "image_h": 674
@@ -26429,7 +26521,7 @@
      "body_sha256": "dbc86d3fd633d4ddf574e103b5c6779aa1f8ccf11ff823ab6e68f12b1b00bfc6"
     }
    },
-   "rank": 38.589,
+   "rank": 38.566,
    "sources": [
     {
      "domain": "media24.cz",
@@ -26586,7 +26678,7 @@
      "body_sha256": "9bf8ed926edc4fb692712b4423c2b7137c782ca2c4c271e964738a685db43f0f"
     }
    },
-   "rank": 44.706
+   "rank": 44.68
   },
   {
    "id": "n7261",
@@ -26793,7 +26885,7 @@
      "body_sha256": "6e1fbf76d7d4254aae56c2f65506116bbef042644bebded83ee0fe632a7c1ec1"
     }
    },
-   "rank": 49.412,
+   "rank": 49.383,
    "image_url": "https://img.24n.cz/p/2026/10/sud-v-plzene-podtverdil-90-letniuiu-voditelnitsu-zakonno-ots-aa9aa6fb420edd9c.webp",
    "image_w": 1200,
    "image_h": 675
@@ -27057,7 +27149,7 @@
      "body_sha256": "fb4fee930767668c3cc463a7efcc8ae2068f14addb1999e0578b1467d6a03e32"
     }
    },
-   "rank": 41.133,
+   "rank": 41.108,
    "sources": [
     {
      "domain": "prazskypatriot.cz",
@@ -27263,7 +27355,7 @@
      "body_sha256": "e1093b3131b5bab3c517c510709d1bc27914d2de2ba33a983dc427da8916be8a"
     }
    },
-   "rank": 45.415,
+   "rank": 45.388,
    "image_url": "https://img.24n.cz/p/2026/10/munitsipalnye-vybory-v-chekhii-rekordy-iavki-zhenskie-sovety-a15b6d8ec5b3c698.webp",
    "images": [
     "https://img.24n.cz/p/2026/09/pechatnye-listovki-vliiaiut-na-vybor-kazhdogo-vtorogo-izbira-63d72e123ec703b7.webp"
@@ -27455,7 +27547,7 @@
      "body_sha256": "c4edfe793194bef6cc4db27e6365b6deb9ec646b22836826ff8028d0a82bcde2"
     }
    },
-   "rank": 37.984,
+   "rank": 37.961,
    "sources": [
     {
      "domain": "cedarnews.net",
@@ -27623,7 +27715,7 @@
      "body_sha256": "34eef52168fabb120a28b8360ba609e844c983b2913ba7493f1658c0d858e08b"
     }
    },
-   "rank": 35.75,
+   "rank": 35.728,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -27838,7 +27930,7 @@
      "body_sha256": "e608751980654c15bfd65dc6a1a23388d225d717c7641724c813054b66b0401d"
     }
    },
-   "rank": 34.083,
+   "rank": 34.061,
    "image_url": "https://img.24n.cz/p/2026/10/spor-o-dotatsiiakh-i-tsenzure-deiateli-kultury-sporiat-s-vla-f384aecd97733eb0.webp",
    "image_w": 620,
    "image_h": 349
@@ -28039,7 +28131,7 @@
      "body_sha256": "d5a97a57f5ffebe518e560cb1dab3a3d6d051da444e2368f147a27d0d861640b"
     }
    },
-   "rank": 41.779,
+   "rank": 41.752,
    "sources": [
     {
      "domain": "liberecka.drbna.cz",
@@ -28255,7 +28347,7 @@
      "body_sha256": "97d1acd313aa3a135d7191a26d08b2aafb9c6fa4e6b67116a43e8a25e334f95d"
     }
    },
-   "rank": 39.696,
+   "rank": 39.67,
    "sources": [
     {
      "domain": "epochanacestach.cz",
@@ -28521,7 +28613,7 @@
      "body_sha256": "c6ebb6fc5b09cc4066a54f638d4236e259e566fde819b1762fdc7fa257be5731"
     }
    },
-   "rank": 52.494,
+   "rank": 52.46,
    "sources": [
     {
      "domain": "media24.cz",
@@ -28704,7 +28796,7 @@
      "body_sha256": "fd5afffe47d392c9bd7877f27720b83b76ca406a646596547a154d6168202a48"
     }
    },
-   "rank": 43.181,
+   "rank": 43.153,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -28882,7 +28974,7 @@
      "body_sha256": "55ea47ff3874575a31929dda831183d2b56846d2c0fee24a7d63bfcf77dfee50"
     }
    },
-   "rank": 40.217,
+   "rank": 40.191,
    "sources": [
     {
      "domain": "archa-plus.cz",
@@ -29115,7 +29207,7 @@
      "body_sha256": "b6d7561f2691b1d95b192e2062e988192b450bb09fb7e742b26b2d228b441d2c"
     }
    },
-   "rank": 44.451,
+   "rank": 44.422,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -29393,7 +29485,7 @@
      "body_sha256": "ad007d4420845f37e6c26a6366ca713c6a9b3fa8cf23dba820811b6a27f09f7b"
     }
    },
-   "rank": 37.386,
+   "rank": 37.361,
    "image_url": "https://img.24n.cz/p/2026/10/signal-festival-kak-cheshskoe-tsifrovoe-iskusstvo-pokoriaet-284d706e1d7f77a0.webp",
    "image_w": 1200,
    "image_h": 660
@@ -29551,7 +29643,7 @@
      "body_sha256": "0b08c21497f3c3f33ef0c47a561ce76cfe787f553056ca7081c90406cfba7c9e"
     }
    },
-   "rank": 40.735,
+   "rank": 40.707,
    "sources": [
     {
      "domain": "breclavsky.denik.cz",
@@ -29744,7 +29836,7 @@
      "body_sha256": "adf0e5b87b3be5a3b2dc8d5f5e9f4fd2ed07d2a506f037fba66d5ed33eac7494"
     }
    },
-   "rank": 36.755,
+   "rank": 36.727,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -29924,7 +30016,7 @@
      "body_sha256": "c34a80305379916a95e879fecb2b6a4f4d9143949cb36a9dcfedda4c5dc23831"
     }
    },
-   "rank": 34.199,
+   "rank": 34.172,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -30047,7 +30139,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 29.424
+   "rank": 29.401
   },
   {
    "id": "n7243",
@@ -40202,7 +40294,7 @@
      "body_sha256": "d9edcb0a814ee43e8ef7c4c2d4afba648a7c3753626f5e457cc75e39767b9b20"
     }
    },
-   "rank": 62.18,
+   "rank": 62.168,
    "sources": [
     {
      "domain": "wrestlinginc.com",
@@ -42999,7 +43091,7 @@
      "body_sha256": "003332f4b98c4edf1d2a53dc46d01e34e3476182855563a841b9af0ea1d4bc5e"
     }
    },
-   "rank": 71.891,
+   "rank": 71.875,
    "sources": [
     {
      "domain": "prahanadlani.cz",
@@ -43303,8 +43395,8 @@
    ],
    "published_at": "2026-10-13T21:00:29.250602+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "13 октября 2026, 21:00",
@@ -64934,364 +65026,6 @@
    "image_url": "https://img.24n.cz/p/2026/10/koalitsiiu-bez-ano-mozhno-slozhit-vo-vsekh-gorodakh-chekhii-b72d684386f36622.webp",
    "image_w": 1200,
    "image_h": 675
-  },
-  {
-   "id": "n7082",
-   "slug": "gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovishcha",
-   "source": "kudyznudy.cz",
-   "original_url": "https://www.kudyznudy.cz/aktuality/venuse-a-ti-druzi-aneb-10-tipu-na-nejstarsi-ar-1",
-   "top": false,
-   "tags": [
-    "dosug",
-    "cesko"
-   ],
-   "published_at": "2026-10-12T08:08:04.833324+02:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "12 октября 2026, 08:08",
-    "uk": "12 жовтня 2026, 08:08"
-   },
-   "ru": {
-    "title": "Где в Чехии увидеть древнейшие археологические сокровища",
-    "lede": "От палеолитической Венеры до метеорита из Опавы: обзор самых редких и старых находок Чехии, которые можно увидеть в музеях и пещерах страны.",
-    "meta_description": "Самые древние археологические находки Чехии: где увидеть Венеру из Долни-Вестонице, Кел из Павлова, трилобитов и метеорит из Опавы.",
-    "paras": [
-     "<p>Чехия - настоящая сокровищница древностей, возраст которых измеряется десятками тысяч лет. Здесь можно увидеть артефакты, рассказывающие о жизни неандертальцев, охотников на мамонтов и кельтов. Некоторые находки уникальны не только для страны, но и для всего мира.</p>",
-     "<h3>Венера из Долни-Вестонице: древнейшая керамика в мире</h3>",
-     "<p>Одним из самых известных археологических сокровищ Чехии считается <b>Věstonická venuše</b> - статуэтка из лёсса, найденная в 1925 году командой археолога <b>Karel Absolon</b> в бывшем поселении охотников на мамонтов в <b>Dolní Věstonice</b> на юге Моравии. Возраст фигурки - от 29 000 до 25 000 лет до нашей эры, что делает её одной из древнейших керамических изделий в мире. В лёссе, из которого она сделана, сохранились обломки горных пород и юрские окаменелости.</p>",
-     "<p>Увидеть Венеру из Долни-Вестонице непросто: она выставляется крайне редко. Точное место её текущей экспозиции не анонсируется, но иногда артефакт можно встретить на временных выставках в крупных музеях страны.</p>",
-     "<h3>Кел из Павлова: старейшая карта на планете</h3>",
-     "<p>Ещё один уникальный артефакт - <b>Kel z Pavlova</b>, остриё мамонтового бивня длиной около метра с геометрической гравировкой. По мнению специалистов, это <b>старейшая сохранившаяся карта в мире</b>, возраст которой достигает 30 000 лет. Находка была сделана в окрестностях <b>Pavlov</b> и сегодня хранится в депозитарии Археологического института Академии наук Чехии в Брно. Иногда её выставляют в <b>Archeopark Pavlov</b>, где можно узнать больше о жизни древних охотников.</p>",
-     "<h3>Пещеры Моравского карста: рисунки и скелеты древних животных</h3>",
-     "<p>Моравский карст славится не только своими природными красотами, но и археологическими находками. В <b>Kateřinská jeskyně</b> в 2019 году были обнаружены <b>старейшие доисторические рисунки в Чехии</b>, созданные углём на стенах около 4 200 лет до нашей эры. Здесь же, в одном из дымоходов пещеры, в 1936 году <b>Karel Absolon</b> нашёл большое количество скелетов медведей эпохи плейстоцена. Интересно, что это были не пещерные медведи, а животные, провалившиеся в пещеру с поверхности.</p>",
-     "<p>В Главном куполе <b>Kateřinská jeskyně</b> сегодня можно увидеть скелет пещерного медведя и модель медвежьей берлоги с медвежатами. А в соседней <b>jeskyně Švédův stůl</b> 11 500 лет назад обитали крупные хищники и пещерные гиены.</p>",
-     "<p>Не менее значима и <b>jeskyně Pekárna</b>, известная находками каменных и костяных орудий, а также гравировками на костях животных. Это одно из важнейших поселений охотников на северных оленей периода 12 000-15 000 лет назад. А <b>jeskyně Kůlna</b> считается мировым уникумом: здесь найдены следы жизни неандертальцев, обитавших более 120 000 лет назад. Сегодня пещера входит в экскурсионный маршрут <b>Sloupsko-šošůvských jeskyní</b>.</p>",
-     "<h3>Трилобиты и кельтские артефакты</h3>",
-     "<p>Чехия знаменита и находками <b>трилобитов</b> - вымерших членистоногих, живших в палеозойских морях 550-251 миллион лет назад. Исследованием этих окаменелостей в XIX веке занимался французский естествоиспытатель <b>Joachim Barrande</b>. Лучшие образцы трилобитов были найдены в окрестностях деревень <b>Týřovice</b> и <b>Skryje</b>. В филиале <b>Muzeum T.G.M.</b> в <b>Rakovník</b> работает экспозиция, посвящённая этим находкам, а из <b>Skryje</b> ведёт кольцевая учебная тропа «По следу трилобита», где до сих пор можно найти окаменелости.</p>",
-     "<p>От кельтского периода осталась каменная скульптура <b>Hlava Kelta</b>. Её высота около 25 сантиметров, нашли её в 1943 году в карьере у <b>Mšecké Žehrovice</b>. На голове видно типичное кельтское шейное украшение. Оно говорит о высоком статусе владельца. Артефакт относят к III веку до нашей эры, сейчас он выставлен в <b>Muzeum Nové Strašecí</b>.</p>",
-     "<h3>Великоморавские сокровища и египетская мумия</h3>",
-     "<p>От великоморавской культуры осталось много артефактов начала IX века. Это <b>gombíky</b> (круглые декоративные предметы из драгоценных металлов), золотые серьги, шпоры с изображениями лиц. Отдельно стоит украшенный серебряный наконечник пояса с камнями и стеклом, на нём выгравирован конь. Крупнейшие городища: <b>Slovanské hradiště u Mikulčic</b>, <b>Staré Město</b> с <b>Památník Velké Moravy</b>, <b>Uherské Hradiště</b> и <b>Pohansko</b> недалеко от <b>Břeclav</b>.</p>",
-     "<p>В <b>Městské muzeum в České Třebové</b> хранится настоящая египетская мумия. Её датируют 945-715 годами до нашей эры. Музейщики зовут её «принцесса <b>Hereret</b>». Женщину нашли южнее Каира, у города <b>Lahún</b> на краю Файюмского оазиса. Умерла она в возрасте 20-30 лет.</p>",
-     "<h3>Метеорит из Опавы: уникальная находка палеолита</h3>",
-     "<p>В <b>Opava-Kylešovice</b> в 1925 году нашли <b>метеорит</b>. Это была мировая сенсация. Рабочие кирпичного завода выкопали первые фрагменты ржавых и необычно тяжёлых камней под метровым слоем лёссовой глины. Всего нашли семь фрагментов общей массой более 21 килограмма. Металл лежал в культурном слое стоянки палеолитических охотников возрастом 18 000 лет. Учёные до сих пор спорят: охотники видели падение метеорита или подобрали фрагменты позже.</p>",
-     "<p>Сегодня девять фрагментов метеорита хранятся в коллекциях <b>Slezské zemské muzeum</b>, а несколько меньших - в <b>Národní muzeum</b> в Праге и <b>Moravské zemské muzeum</b> в Брно.</p>",
-     "<p>Археологические находки Чехии - это не просто экспонаты в музеях. Они рассказывают о жизни наших далёких предков, их верованиях и мастерстве. Если вы хотите увидеть эти сокровища своими глазами, следите за анонсами выставок и отправляйтесь в путешествие по местам, где история оживает.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Где можно увидеть Венеру из Долни-Вестонице?",
-      "a": "Этот артефакт выставляется крайне редко. Точное место его текущей экспозиции не анонсируется, но иногда статуэтку можно встретить на временных выставках в крупных музеях Чехии."
-     },
-     {
-      "q": "Что такое Кел из Павлова?",
-      "a": "Это остриё мамонтового бивня длиной около метра с геометрической гравировкой возрастом около 30 000 лет. Специалисты считают его старейшей сохранившейся картой в мире."
-     },
-     {
-      "q": "Где были найдены старейшие рисунки в Чехии?",
-      "a": "Они обнаружены в Kateřinská jeskyně в Моравском карсте. Рисунки созданы углём примерно 4 200 лет до нашей эры."
-     },
-     {
-      "q": "Где хранится метеорит из Опавы?",
-      "a": "Девять фрагментов метеорита хранятся в Slezské zemské muzeum в Опаве. Несколько меньших фрагментов можно увидеть в Národní muzeum в Праге и Moravské zemské muzeum в Брно."
-     }
-    ],
-    "impact": "Эти археологические находки доступны для посещения в музеях и пещерах Чехии. Следите за анонсами временных выставок, чтобы увидеть редкие экспонаты, такие как Венера из Долни-Вестонице. Многие объекты, например пещеры Моравского карста или городища Великой Моравии, открыты для туристов круглый год.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Статуэтку Věstonická venuše из лёсса нашли в 1925 году в Dolní Věstonice, её возраст — от 29 000 до 25 000 лет до нашей эры.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Венера из Долни-Вестонице выставляется крайне редко, точное место её текущей экспозиции не анонсируется.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Остриё из мамонтового бивня Kel z Pavlova длиной около метра считают старейшей сохранившейся картой в мире возрастом до 30 000 лет.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В Kateřinská jeskyně в 2019 году нашли старейшие в Чехии доисторические рисунки углём, созданные около 4 200 лет до нашей эры.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "лёсса",
-       "definition": "Осадочная горная порода, из которой сделана статуэтка Věstonická venuše; в ней сохранились обломки горных пород и юрские окаменелости.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "gombíky",
-       "definition": "Круглые декоративные предметы из драгоценных металлов, оставшиеся от великоморавской культуры начала IX века.",
-       "target": {
-        "block": 15,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Что учесть при посещении",
-      "items": [
-       {
-        "text": "Следить за анонсами выставок, чтобы застать редкие экспонаты вроде Венеры из Долни-Вестонице.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Зайти в Archeopark Pavlov, где иногда выставляют Kel z Pavlova и рассказывают о жизни древних охотников.",
-        "target": {
-         "block": 6,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Осмотреть Главный купол Kateřinská jeskyně со скелетом пещерного медведя и моделью медвежьей берлоги.",
-        "target": {
-         "block": 9,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Пройти экскурсионный маршрут Sloupsko-šošůvských jeskyní, в который входит jeskyně Kůlna.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Посетить экспозицию о трилобитах в филиале Muzeum T.G.M. в Rakovník и пройти тропу «По следу трилобита» из Skryje.",
-        "target": {
-         "block": 12,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Увидеть скульптуру Hlava Kelta в Muzeum Nové Strašecí.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "35e78f74964007452a053a57c6c85673ea2f6833409f8439a145e603d532ebbd"
-    }
-   },
-   "uk": {
-    "title": "Де в Чехії побачити найдавніші археологічні скарби",
-    "lede": "Від палеолітичної Венери до метеорита з Опави: огляд найрідкісніших і найстаріших знахідок Чехії, які можна побачити в музеях і печерах країни.",
-    "meta_description": "Найдавніші археологічні знахідки Чехії: де побачити Венеру з Dolní Věstonice, Kel з Pavlov, трилобітів і метеорит з Опави.",
-    "paras": [
-     "<p>Чехія це справжня скарбниця старожитностей, вік яких вимірюється десятками тисяч років. Тут можна побачити артефакти, які розповідають про життя неандертальців, мисливців на мамонтів і кельтів. Деякі знахідки унікальні не лише для країни, а й для всього світу.</p>",
-     "<h3>Венера з Dolní Věstonice: найдавніша кераміка у світі</h3>",
-     "<p>Одним із найвідоміших археологічних скарбів Чехії вважається <b>Věstonická venuše</b>, статуетка з лесу, знайдена 1925 року командою археолога <b>Karel Absolon</b> у колишньому поселенні мисливців на мамонтів у <b>Dolní Věstonice</b> на півдні Моравії. Вік фігурки від 29 000 до 25 000 років до нашої ери, що робить її одним із найдавніших керамічних виробів у світі. У лесі, з якого вона зроблена, збереглися уламки гірських порід і юрські скам'янілості.</p>",
-     "<p>Побачити Венеру з Dolní Věstonice непросто: її виставляють украй рідко. Точне місце її поточної експозиції не анонсується, але іноді артефакт можна зустріти на тимчасових виставках у великих музеях країни.</p>",
-     "<h3>Kel з Pavlov: найстаріша карта на планеті</h3>",
-     "<p>Ще один унікальний артефакт <b>Kel z Pavlova</b>, вістря мамонтового бивня довжиною близько метра з геометричним гравіюванням. На думку фахівців, це <b>найстаріша збережена карта у світі</b>, вік якої сягає 30 000 років. Знахідку зробили в околицях <b>Pavlov</b> і сьогодні вона зберігається в депозитарії Археологічного інституту Академії наук Чехії в Брно. Іноді її виставляють в <b>Archeopark Pavlov</b>, де можна дізнатися більше про життя давніх мисливців.</p>",
-     "<h3>Печери Моравського карсту: малюнки та скелети давніх тварин</h3>",
-     "<p>Моравський карст славиться не лише своїми природними красотами, а й археологічними знахідками. У <b>Kateřinská jeskyně</b> 2019 року виявили <b>найстаріші доісторичні малюнки в Чехії</b>, створені вугіллям на стінах близько 4 200 років до нашої ери. Тут же, в одному з димоходів печери, 1936 року <b>Karel Absolon</b> знайшов велику кількість скелетів ведмедів епохи плейстоцену. Цікаво, що це були не печерні ведмеді, а тварини, які провалилися в печеру з поверхні.</p>",
-     "<p>У Головному куполі <b>Kateřinská jeskyně</b> сьогодні можна побачити скелет печерного ведмедя та модель ведмежого барлогу з ведмежатами. А в сусідній <b>jeskyně Švédův stůl</b> 11 500 років тому мешкали великі хижаки та печерні гієни.</p>",
-     "<p>Не менш значуща й <b>jeskyně Pekárna</b>, відома знахідками кам'яних і кістяних знарядь, а також гравіюваннями на кістках тварин. Це одне з найважливіших поселень мисливців на північних оленів періоду 12 000-15 000 років тому. А <b>jeskyně Kůlna</b> вважається світовим унікумом: тут знайдені сліди життя неандертальців, які мешкали понад 120 000 років тому. Сьогодні печера входить до екскурсійного маршруту <b>Sloupsko-šošůvských jeskyní</b>.</p>",
-     "<h3>Трилобіти та кельтські артефакти</h3>",
-     "<p>Чехія відома й знахідками <b>трилобітів</b>, вимерлих членистоногих, які жили в палеозойських морях 550-251 мільйон років тому. Дослідженням цих скам'янілостей у XIX столітті займався французький природодослідник <b>Joachim Barrande</b>. Найкращі зразки трилобітів були знайдені в околицях сіл <b>Týřovice</b> і <b>Skryje</b>. У філії <b>Muzeum T.G.M.</b> в <b>Rakovník</b> працює експозиція, присвячена цим знахідкам, а з <b>Skryje</b> веде кільцева навчальна стежка «Слідом трилобіта», де досі можна знайти скам'янілості.</p>",
-     "<p>Від кельтського періоду залишилася кам'яна скульптура <b>Hlava Kelta</b>. Її висота близько 25 сантиметрів, знайшли її 1943 року в кар'єрі біля <b>Mšecké Žehrovice</b>. На голові видно типову кельтську шийну прикрасу. Вона говорить про високий статус власника. Артефакт відносять до III століття до нашої ери, зараз він виставлений у <b>Muzeum Nové Strašecí</b>.</p>",
-     "<h3>Великоморавські скарби та єгипетська мумія</h3>",
-     "<p>Від великоморавської культури залишилося багато артефактів початку IX століття. Це <b>gombíky</b> (круглі декоративні предмети з дорогоцінних металів), золоті сережки, шпори із зображеннями облич. Окремо варто згадати прикрашений срібний наконечник пояса з камінням і склом, на ньому вигравіюваний кінь. Найбільші городища: <b>Slovanské hradiště u Mikulčic</b>, <b>Staré Město</b> з <b>Památník Velké Moravy</b>, <b>Uherské Hradiště</b> і <b>Pohansko</b> недалеко від <b>Břeclav</b>.</p>",
-     "<p>У <b>Městské muzeum в České Třebové</b> зберігається справжня єгипетська мумія. Її датують 945-715 роками до нашої ери. Музейники звуть її «принцеса <b>Hereret</b>». Жінку знайшли південніше Каїра, біля міста <b>Lahún</b> на краю Файюмського оазису. Померла вона у віці 20-30 років.</p>",
-     "<h3>Метеорит з Опави: унікальна знахідка палеоліту</h3>",
-     "<p>В <b>Opava-Kylešovice</b> 1925 року знайшли <b>метеорит</b>. Це була світова сенсація. Робітники цегельного заводу викопали перші фрагменти іржавих і незвично важких каменів під метровим шаром лесової глини. Загалом знайшли сім фрагментів загальною масою понад 21 кілограм. Метал лежав у культурному шарі стоянки палеолітичних мисливців віком 18 000 років. Вчені досі сперечаються: мисливці бачили падіння метеорита чи підібрали фрагменти пізніше.</p>",
-     "<p>Сьогодні дев'ять фрагментів метеорита зберігаються в колекціях <b>Slezské zemské muzeum</b>, а кілька менших у <b>Národní muzeum</b> в Празі та <b>Moravské zemské muzeum</b> в Брно.</p>",
-     "<p>Археологічні знахідки Чехії це не просто експонати в музеях. Вони розповідають про життя наших далеких предків, їхні вірування та майстерність. Якщо ви хочете побачити ці скарби на власні очі, стежте за анонсами виставок і вирушайте в подорож місцями, де історія оживає.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Де можна побачити Венеру з Dolní Věstonice?",
-      "a": "Цей артефакт виставляють украй рідко. Точне місце його поточної експозиції не анонсується, але іноді статуетку можна зустріти на тимчасових виставках у великих музеях Чехії."
-     },
-     {
-      "q": "Що таке Kel з Pavlov?",
-      "a": "Це вістря мамонтового бивня довжиною близько метра з геометричним гравіюванням віком близько 30 000 років. Фахівці вважають його найстарішою збереженою картою у світі."
-     },
-     {
-      "q": "Де були знайдені найстаріші малюнки в Чехії?",
-      "a": "Їх виявили в Kateřinská jeskyně у Моравському карсті. Малюнки створені вугіллям приблизно 4 200 років до нашої ери."
-     },
-     {
-      "q": "Де зберігається метеорит з Опави?",
-      "a": "Дев'ять фрагментів метеорита зберігаються в Slezské zemské muzeum в Опаві. Кілька менших фрагментів можна побачити в Národní muzeum в Празі та Moravské zemské muzeum в Брно."
-     }
-    ],
-    "impact": "Эти археологические находки доступны для посещения в музеях и пещерах Чехии. Следите за анонсами временных выставок, чтобы увидеть редкие экспонаты, такие как Венера из Долни-Вестонице. Многие объекты, например пещеры Моравского карста или городища Великой Моравии, открыты для туристов круглый год.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Фігурка Věstonická venuše з лесу, знайдена 1925 року в Dolní Věstonice, має вік від 29 000 до 25 000 років до нашої ери.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Венеру з Dolní Věstonice виставляють украй рідко, а точне місце її поточної експозиції не анонсується.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Kel z Pavlova — вістря мамонтового бивня довжиною близько метра, яке фахівці вважають найстарішою збереженою картою у світі віком 30 000 років.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "У Kateřinská jeskyně 2019 року виявили найстаріші доісторичні малюнки в Чехії, створені вугіллям близько 4 200 років до нашої ери.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Věstonická venuše",
-       "definition": "Статуетка з лесу, знайдена 1925 року в Dolní Věstonice; один із найдавніших керамічних виробів у світі.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "gombíky",
-       "definition": "Круглі декоративні предмети з дорогоцінних металів, що залишилися від великоморавської культури.",
-       "target": {
-        "block": 15,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "трилобітів",
-       "definition": "Вимерлих членистоногих, які жили в палеозойських морях 550-251 мільйон років тому.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Що врахувати перед подорожжю",
-      "items": [
-       {
-        "text": "Стежте за анонсами виставок, щоб побачити рідкісні артефакти, зокрема Венеру з Dolní Věstonice.",
-        "target": {
-         "block": 20,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Врахуйте, що Венеру з Dolní Věstonice виставляють украй рідко і точне місце її експозиції не анонсується.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Відвідайте Archeopark Pavlov, щоб дізнатися більше про життя давніх мисливців.",
-        "target": {
-         "block": 6,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Пройдіть кільцеву навчальну стежку «Слідом трилобіта» від Skryje, де досі можна знайти скам'янілості.",
-        "target": {
-         "block": 12,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Огляньте експозицію про трилобітів у філії Muzeum T.G.M. в Rakovník.",
-        "target": {
-         "block": 12,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Пройдіть екскурсійний маршрут Sloupsko-šošůvských jeskyní, до якого входить jeskyně Kůlna.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "c50f2ef308fa74bde587dc06e47d2ca8f0599694ac60b15e6963832eee607e61"
-    }
-   },
-   "rank": 26.25,
-   "image_url": "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-ecfce1f2d6ad8d1d.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-e35754e8a092d1d4.webp",
-    "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-e7b726fd5497257f.webp",
-    "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-7c35c988b5979edd.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-e35754e8a092d1d4.webp",
-     "after": 4,
-     "caption": "Вход в археопарк, где иногда выставляют древнюю карту на мамонтовом бивне"
-    },
-    {
-     "url": "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-e7b726fd5497257f.webp",
-     "after": 6,
-     "caption": "Главный купол пещеры с экспозицией скелета пещерного медведя"
-    },
-    {
-     "url": "https://img.24n.cz/p/2026/10/gde-v-chekhii-uvidet-drevneishie-arkheologicheskie-sokrovish-7c35c988b5979edd.webp",
-     "after": 10,
-     "caption": "Реконструкция великоморавского городища"
-    }
-   ],
-   "image_w": 1360,
-   "image_h": 900,
-   "images_wh": [
-    [
-     1360,
-     900
-    ],
-    [
-     1360,
-     900
-    ],
-    [
-     1360,
-     900
-    ]
-   ]
   }
  ]
 }
