@@ -1,8 +1,193 @@
 {
- "updated_at": "2026-10-19T21:10:57+00:00",
+ "updated_at": "2026-10-19T21:43:30+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n7525",
+   "slug": "novaia-koalitsiia-v-mlada-boleslave-kto-vozglavit-gorod",
+   "source": "idnes.cz",
+   "original_url": "https://www.idnes.cz/volby/praha/mlada-boleslav-volby-koalice-ano-stan-primator-bouska.A261019_162301_praha-zpravy_ichuc#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+   "top": false,
+   "tags": [
+    "zakon",
+    "cesko"
+   ],
+   "published_at": "2026-10-19T23:43:29.643296+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "19 октября 2026, 23:43",
+    "uk": "19 жовтня 2026, 23:43"
+   },
+   "ru": {
+    "title": "Новая коалиция в Млада-Болеславе: кто возглавит город",
+    "lede": "В Млада-Болеславе завершились коалиционные переговоры. Город продолжит возглавлять мэр Jiří Bouška.",
+    "meta_description": "В Млада-Болеславе подписан коалиционный договор. Город продолжит возглавлять Jiří Bouška, а уставное заседание назначено на 2 ноября.",
+    "paras": [
+     "<p>В Млада-Болеславе закончились долгие переговоры после выборов. Четыре политические силы подписали коалиционный договор. Он определяет, кто будет руководить городом в ближайшие годы.</p>",
+     "<p>Мэром останется Jiří Bouška. Первым заместителем станет Daniel Marek из движения STAN. Заместителями будут также Petr Servus (ANO a Volba pro Mladou Boleslav), Michal Koliáš (ODS) и Robin Povšík (Hlas pro Boleslav).</p>",
+     "<h3>Места в совете и планы на будущее</h3>",
+     "<p>Посты в совете коалиция поделила так: ANO a Volba pro Mladou Boleslav получает пять мест, STAN три, ODS два, Hlas pro Boleslav одно. Учредительное заседание представительства назначено на 2 ноября.</p>",
+     "<p>На период с 2026 по 2030 год лидеры сил назвали главные направления. В списке задач: спасти дом культуры и провести его реконструкцию, сделать работу муниципалитета эффективнее, быть открытыми перед горожанами.</p>",
+     "<blockquote>Если бы я должен был говорить о приоритетах за рамками повседневной работы и уже готовящихся проектов, мы постараемся выделить шесть ключевых областей, сказал Jiří Bouška.</blockquote>",
+     "<p>Число членов узкого руководства города сократится с шести до пяти. Об этом договорились участники коалиции. Комиссий станет меньше как минимум на 20 процентов, а часть городских компаний объединят, чтобы оптимизировать работу.</p>",
+     "<h3>Кто за что отвечает и что было раньше</h3>",
+     "<p>Мэр Jiří Bouška сосредоточится на управлении магистратом через заместителей. Ему же достаются строительное управление, развитие города, экономический отдел, управление проектами, городское имущество и муниципальная полиция. Первый заместитель Daniel Marek будет отвечать за школьное образование, культуру, спорт, транспорт и дорожное хозяйство.</p>",
+     "<p>Экология, энергетика и возобновляемые источники достанутся Петру Сервусу. Михалу Колиашу поручено социальное направление и предпринимательская сфера. Робин Повшик займется безопасностью, общественным порядком и взаимодействием с компанией Škoda Auto и окружной хозяйственной палатой.</p>",
+     "<p>Те же четыре политических субъекта формировали коалицию и в предыдущем периоде. На муниципальных выборах в Млада-Болеславе победу одержало движение ANO a Volba pro Mladou Boleslav с десятью мандатами, второе место занял STAN с семью креслами.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Кто стал мэром Млада-Болеслава?",
+      "a": "Город продолжит возглавлять Jiří Bouška."
+     },
+     {
+      "q": "Когда пройдет учредительное заседание представительства?",
+      "a": "Оно запланировано на 2 ноября."
+     }
+    ],
+    "impact": "Жители Млада-Болеслава могут ожидать изменений в работе городской администрации, сокращения числа комиссий и объединения некоторых муниципальных предприятий, а также реализации заявленных проектов развития инфраструктуры и культуры с 2026 по 2030 год.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Мэром Млада-Болеславы останется Jiří Bouška, его первым заместителем станет Daniel Marek из STAN.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Учредительное заседание представительства назначено на 2 ноября.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Число членов узкого руководства города сократится с шести до пяти, а комиссий станет меньше как минимум на 20 процентов.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На муниципальных выборах победило ANO a Volba pro Mladou Boleslav с десятью мандатами, STAN получил семь кресел.",
+       "target": {
+        "block": 11,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "48a9b04edf0d8258da3812c387f36dc01ea935e8be72db9e58ccfbee984171a0"
+    }
+   },
+   "uk": {
+    "title": "Нова коаліція у Млада-Болеславі: хто очолить місто",
+    "lede": "У Млада-Болеславі завершилися коаліційні переговори. Місто й надалі очолюватиме мер Jiří Bouška.",
+    "meta_description": "У Млада-Болеславі підписано коаліційну угоду. Місто й надалі очолюватиме Jiří Bouška, а установче засідання призначено на 2 листопада.",
+    "paras": [
+     "<p>У Млада-Болеславі закінчилися тривалі переговори після виборів. Чотири політичні сили підписали коаліційну угоду. Вона визначає, хто керуватиме містом у найближчі роки.</p>",
+     "<p>Мером залишиться Jiří Bouška. Першим заступником стане Daniel Marek з руху STAN. Заступниками будуть також Petr Servus (ANO a Volba pro Mladou Boleslav), Michal Koliáš (ODS) і Robin Povšík (Hlas pro Boleslav).</p>",
+     "<h3>Місця в раді та плани на майбутнє</h3>",
+     "<p>Місця в раді коаліція поділила так: ANO a Volba pro Mladou Boleslav отримує п'ять місць, STAN три, ODS два, Hlas pro Boleslav одне. Установче засідання представництва призначено на 2 листопада.</p>",
+     "<p>На період з 2026 по 2030 рік лідери сил назвали головні напрямки. У списку завдань: врятувати будинок культури і провести його реконструкцію, зробити роботу муніципалітету ефективнішою, бути відкритими перед городянами.</p>",
+     "<blockquote>Якби я мав говорити про пріоритети поза щоденною роботою і вже підготовленими проєктами, ми постараємося виділити шість ключових сфер, сказав Jiří Bouška.</blockquote>",
+     "<p>Кількість членів вузького керівництва міста скоротиться з шести до п'яти. Про це домовилися учасники коаліції. Комісій стане менше щонайменше на 20 відсотків, а частину міських компаній об'єднають, щоб оптимізувати роботу.</p>",
+     "<h3>Хто за що відповідає і що було раніше</h3>",
+     "<p>Мер Jiří Bouška зосередиться на управлінні магістратом через заступників. Йому ж дістаються будівельне управління, розвиток міста, економічний відділ, управління проєктами, міське майно і муніципальна поліція. Перший заступник Daniel Marek відповідатиме за шкільну освіту, культуру, спорт, транспорт і дорожнє господарство.</p>",
+     "<p>Екологія, енергетика і відновлювані джерела дістануться Петру Сервусу. Михалу Колиашу доручено соціальний напрямок і підприємницьку сферу. Робін Повшик займеться безпекою, громадським порядком і взаємодією з компанією Škoda Auto та окружною господарською палатою.</p>",
+     "<p>Ті самі чотири політичні сили формували коаліцію і в попередньому періоді. На муніципальних виборах у Млада-Болеславі перемогу здобув рух ANO a Volba pro Mladou Boleslav з десятьма мандатами, друге місце посів STAN із сімома кріслами.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Хто став мером Млада-Болеслава?",
+      "a": "Місто й надалі очолюватиме Jiří Bouška."
+     },
+     {
+      "q": "Коли відбудеться установче засідання представництва?",
+      "a": "Воно заплановане на 2 листопада."
+     }
+    ],
+    "impact": "Жители Млада-Болеслава могут ожидать изменений в работе городской администрации, сокращения числа комиссий и объединения некоторых муниципальных предприятий, а также реализации заявленных проектов развития инфраструктуры и культуры с 2026 по 2030 год.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Мером Млада-Болеславі залишиться Jiří Bouška, першим заступником стане Daniel Marek зі STAN.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Установче засідання представництва призначено на 2 листопада.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Кількість членів вузького керівництва міста скоротиться з шести до п'яти, а комісій стане менше щонайменше на 20 відсотків.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На муніципальних виборах переміг рух ANO a Volba pro Mladou Boleslav з десятьма мандатами, STAN посів друге місце із сімома.",
+       "target": {
+        "block": 11,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "магістратом",
+       "definition": "Міський управлінський апарат, яким мер керуватиме через заступників.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "9bc10b0a5f810f4e4cacc93fb151dd73b038bf7b94a15205e66f41005a51ceb3"
+    }
+   },
+   "rank": 95.0,
+   "sources": [
+    {
+     "domain": "ceskenoviny.cz",
+     "official": false,
+     "url": "https://www.ceskenoviny.cz/zpravy/v-mlade-boleslavi-bude-pokracovat-dosavadni-koalice-primatorem-zustane-bouska/2890068",
+     "title": "V Mladé Boleslavi bude pokračovat dosavadní koalice, primátorem zůstane Bouška | ČeskéNoviny.cz"
+    },
+    {
+     "domain": "boleslavsky.denik.cz",
+     "official": false,
+     "url": "https://boleslavsky.denik.cz/komunalni-volby/mlada-boleslav-komunalni-volby-vedeni-mesta-koalice-opozice/",
+     "title": "Koaliční dohoda je v Mladé Boleslavi podepsaná. Město dál povede Jiří Bouška – Boleslavský deník"
+    },
+    {
+     "domain": "mladaboleslav.cz",
+     "official": false,
+     "url": "https://www.mladaboleslav.cz/mlada-boleslav-ma-novou-koalici-primatorem-ma-zustat-jiri-bouska/",
+     "title": "Mladá Boleslav má novou koalici. Primátorem má zůstat Jiří Bouška – Mladá Boleslav"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 3,
+   "image_url": "https://img.24n.cz/p/2026/10/novaia-koalitsiia-v-mlada-boleslave-kto-vozglavit-gorod-b67b66de084e41a0.webp",
+   "image_w": 630,
+   "image_h": 350
+  },
   {
    "id": "n7524",
    "slug": "volkswagen-zamorozit-zarplaty-do-2030-goda-kak-eto-kosnetsia-skoda-aut",
@@ -15,8 +200,8 @@
    ],
    "published_at": "2026-10-19T23:10:56.205369+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "32 минуты назад",
+    "uk": "32 хвилини тому"
    },
    "date": {
     "ru": "19 октября 2026, 23:10",
@@ -265,8 +450,8 @@
    ],
    "published_at": "2026-10-19T22:36:34.040614+02:00",
    "time": {
-    "ru": "34 минуты назад",
-    "uk": "34 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "19 октября 2026, 22:36",
@@ -634,8 +819,8 @@
    ],
    "published_at": "2026-10-19T21:30:22.522377+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 21:30",
@@ -1179,8 +1364,8 @@
    ],
    "published_at": "2026-10-19T20:26:08.135220+02:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 20:26",
@@ -1344,7 +1529,7 @@
      "body_sha256": "36eef927b9603787b39d521f40c91e12bacb1b83af1334b4523d82585f5d487b"
     }
    },
-   "rank": 90.0,
+   "rank": 89.624,
    "image_url": "https://img.24n.cz/p/2026/10/politsiia-poimala-begletsa-na-volkswagen-pod-melnik-d3624355adf89144.webp",
    "image_w": 1200,
    "image_h": 800
@@ -1578,7 +1763,7 @@
      "body_sha256": "d7687d0f4ad8500cbcceb4f06201a828dbe2ffd3e99b5af6b740c310a47033ff"
     }
    },
-   "rank": 86.65,
+   "rank": 85.968,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -1893,7 +2078,7 @@
      "body_sha256": "81cca0f94320fe4790a43a8b66c68a501c475282d13a2212f1560d760a70bbdc"
     }
    },
-   "rank": 111.549,
+   "rank": 110.671,
    "sources": [
     {
      "domain": "ceskoobjektivem.cz",
@@ -2203,7 +2388,7 @@
      "body_sha256": "f778f2339e628e189e49b86082ff16f80f80e0c956c490fb02528b6fb71099a2"
     }
    },
-   "rank": 117.563,
+   "rank": 116.622,
    "image_url": "https://img.24n.cz/p/2026/10/v-chekhii-meniaiut-sistemu-oplaty-truda-biudzhetnikov-6eecd8f28ff88d52.webp",
    "image_w": 1200,
    "image_h": 675
@@ -2383,7 +2568,7 @@
      "body_sha256": "6d4203cad74ca46f941e1b822f3cc88410c4367f5910313a9b873e023bc6fe64"
     }
    },
-   "rank": 80.334,
+   "rank": 79.692,
    "sources": [
     {
      "domain": "media24.cz",
@@ -2409,8 +2594,8 @@
    ],
    "published_at": "2026-10-19T18:32:37.638204+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 18:32",
@@ -2454,7 +2639,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 80.059,
+   "rank": 79.416,
    "forecast": true
   },
   {
@@ -2469,8 +2654,8 @@
    ],
    "published_at": "2026-10-19T18:15:55.207131+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 18:15",
@@ -2651,7 +2836,7 @@
      "body_sha256": "7608527e197295cb4dca13ded331a6b66cdab9492bbed8aebe92e8d15a7638e8"
     }
    },
-   "rank": 97.231,
+   "rank": 96.447,
    "image_url": "https://img.24n.cz/p/2026/10/politseiskie-sbili-devochku-na-peshekhodnom-perekhode-v-prag-988be0e3cd868dc6.webp",
    "image_w": 1200,
    "image_h": 800
@@ -2668,8 +2853,8 @@
    ],
    "published_at": "2026-10-19T18:15:55.207131+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 18:15",
@@ -2824,7 +3009,7 @@
      "body_sha256": "c33a73e3d03d5ad9ae190c6f4caafea8ee135b32c938c4ccf3a52ac34b3922b5"
     }
    },
-   "rank": 96.259,
+   "rank": 95.483,
    "sources": [
     {
      "domain": "tyden.cz",
@@ -2858,8 +3043,8 @@
    ],
    "published_at": "2026-10-19T17:42:51.526393+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 17:42",
@@ -3043,7 +3228,7 @@
      "body_sha256": "75939935f4da482f1a05d4f524f679f2f55a9b7edfd966c4cbca9d3e5f65ce5f"
     }
    },
-   "rank": 101.257,
+   "rank": 100.434,
    "image_url": "https://img.24n.cz/p/2026/10/kollaps-na-smikhove-avtobusy-stoiali-v-probkakh-chasami-95f816c4ba4c94e8.webp",
    "image_w": 1200,
    "image_h": 674
@@ -3237,8 +3422,8 @@
    ],
    "published_at": "2026-10-19T15:35:22.488580+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 15:35",
@@ -3444,7 +3629,7 @@
      "body_sha256": "ac5333cf9e2f005b959f19ce817615ffca234affc78e01f805761c80fb2b6e51"
     }
    },
-   "rank": 102.702,
+   "rank": 101.84,
    "sources": [
     {
      "domain": "passerinvest.cz",
@@ -3483,8 +3668,8 @@
    ],
    "published_at": "2026-10-19T15:35:22.488580+02:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 15:35",
@@ -3730,7 +3915,7 @@
      "body_sha256": "63de0e005104eef1ba36156aa4d08307a221f56c85dd4b14a5dc85faa3a5bbe6"
     }
    },
-   "rank": 74.693,
+   "rank": 74.066,
    "image_url": "https://img.24n.cz/p/2026/10/zakryvaetsia-prazhskii-servis-po-remontu-elektroniki-i-elekt-fa5196dae1ec3ff8.webp",
    "image_w": 1200,
    "image_h": 660
@@ -4029,8 +4214,8 @@
    ],
    "published_at": "2026-10-19T14:31:33.845508+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 14:31",
@@ -4210,7 +4395,7 @@
      "body_sha256": "547a8ca3093350b7a7598a85a6b5f561dfb2e5f939e8d99d1495df8c48988427"
     }
    },
-   "rank": 68.872,
+   "rank": 68.284,
    "image_url": "https://img.24n.cz/p/2026/10/musornye-vyvozy-podorozhaiut-iz-za-rosta-tsen-na-dizel-obshc-3d58573915413fb1.webp",
    "image_w": 620,
    "image_h": 349
@@ -4228,8 +4413,8 @@
    ],
    "published_at": "2026-10-19T14:31:33.845508+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 14:31",
@@ -4484,7 +4669,7 @@
      "body_sha256": "a5ee5449881c5a7ee4397a0b3992fdd337392e01b9293ca4618d1e2d82df0e47"
     }
    },
-   "rank": 102.849,
+   "rank": 101.971,
    "sources": [
     {
      "domain": "europesays.com",
@@ -4558,8 +4743,8 @@
    ],
    "published_at": "2026-10-19T14:31:33.845508+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 14:31",
@@ -4939,7 +5124,7 @@
      "body_sha256": "e7d8c487335395011beb15f3b644083e28801384089993251ad652f523ddc889"
     }
    },
-   "rank": 81.938,
+   "rank": 81.232,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskie-predprinimateli-vybiraiut-molodye-poderzhannye-avt-3cf6a77bd9a50b8e.jpeg",
    "image_w": 1000,
    "image_h": 667
@@ -5115,7 +5300,7 @@
      "body_sha256": "7b94aec0cd218b956f5aaea92a50a52ee028742b01e716b1dfb6c2b8ed08faf8"
     }
    },
-   "rank": 74.654,
+   "rank": 74.012,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -5325,7 +5510,7 @@
      "body_sha256": "f011edd24a01ef43aeba1ed8c4d3507f82497f57f2431fe70a8a06e4a43de1f5"
     }
    },
-   "rank": 86.49,
+   "rank": 85.745,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -5489,7 +5674,7 @@
      "body_sha256": "ce41d920d54836ecc3beb5d1ba77a6d95bee91e276f1f7cf83cce8634d3ca46c"
     }
    },
-   "rank": 47.342,
+   "rank": 46.934,
    "sources": [
     {
      "domain": "inews.sk",
@@ -5517,8 +5702,8 @@
    ],
    "published_at": "2026-10-19T13:26:03.990045+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:26",
@@ -5762,7 +5947,7 @@
      "body_sha256": "0f95985da4f9930059783c6883f12b9dfb8b78a229d54904be18fd693e2526b4"
     }
    },
-   "rank": 94.765
+   "rank": 93.943
   },
   {
    "id": "n7497",
@@ -5775,8 +5960,8 @@
    ],
    "published_at": "2026-10-19T13:26:03.990045+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:26",
@@ -5886,7 +6071,7 @@
      "body_sha256": "94cf574517f1e9e03fd311bd0f282eaa24ac0d9b3a401221d9cdfd2212cdd860"
     }
    },
-   "rank": 72.202
+   "rank": 71.575
   },
   {
    "id": "n7496",
@@ -5900,8 +6085,8 @@
    ],
    "published_at": "2026-10-19T13:26:03.990045+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:26",
@@ -6055,7 +6240,7 @@
      "body_sha256": "32862edb94eea6b43d142f41f8b20519776394edc66514a13070b0c73367c3bb"
     }
    },
-   "rank": 99.278,
+   "rank": 98.416,
    "sources": [
     {
      "domain": "sportovespravy.sk",
@@ -6297,7 +6482,7 @@
      "body_sha256": "5d1f5b161e7f7146c4975f08a01719a85d5c8b62a0100a7d4bf2b11fa23b2d75"
     }
    },
-   "rank": 115.478,
+   "rank": 114.467,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -6518,7 +6703,7 @@
      "body_sha256": "19f6460124e103a1d2ab2d728d7db7f29e775e0434ddb57558d5611b3364aca6"
     }
    },
-   "rank": 92.33
+   "rank": 91.507
   },
   {
    "id": "n7493",
@@ -6533,8 +6718,8 @@
    ],
    "published_at": "2026-10-19T11:15:08.138364+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 11:15",
@@ -6732,7 +6917,7 @@
      "body_sha256": "77e8c7fcb980ce6cfc267de9238aab6c1de427b8c571c022f5d0fc8b2d1ab3e1"
     }
    },
-   "rank": 80.133,
+   "rank": 79.412,
    "sources": [
     {
      "domain": "prahain.cz",
@@ -6760,8 +6945,8 @@
    ],
    "published_at": "2026-10-19T10:13:35.872602+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 10:13",
@@ -6933,7 +7118,7 @@
      "body_sha256": "0d48ff7330f80267ea75c53308fc6af292681ac58ee8a4594baf29ff9d0eb882"
     }
    },
-   "rank": 89.9,
+   "rank": 89.077,
    "image_url": "https://img.24n.cz/p/2026/10/pensionerka-iz-brno-otmyvala-dengi-dlia-kibermoshennikov-5f4efa598c6bd74b.webp",
    "image_w": 800,
    "image_h": 450
@@ -6951,8 +7136,8 @@
    ],
    "published_at": "2026-10-19T10:13:35.872602+02:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 10:13",
@@ -7265,7 +7450,7 @@
      "body_sha256": "5604ac64c55ff9a12515203ffbc747f9244f12c96d7dae79fb79a68dd9f692d4"
     }
    },
-   "rank": 85.619,
+   "rank": 84.836,
    "image_url": "https://img.24n.cz/p/2026/10/iskusstvennyi-intellekt-v-kode-kak-startapy-platiat-kopeiki-e714c00d4d78471a.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/iskusstvennyi-intellekt-v-kode-kak-startapy-platiat-kopeiki-b8cd64a471fb747d.webp"
@@ -7299,8 +7484,8 @@
    ],
    "published_at": "2026-10-19T09:40:07.030188+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 09:40",
@@ -7500,7 +7685,7 @@
      "body_sha256": "d61a5c2e4e7626e135e1d4ba2df3d733deb13da102945f8a4df3c88ba0926091"
     }
    },
-   "rank": 67.851
+   "rank": 67.224
   },
   {
    "id": "n7489",
@@ -7515,8 +7700,8 @@
    ],
    "published_at": "2026-10-19T09:40:07.030188+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 09:40",
@@ -7724,7 +7909,7 @@
      "body_sha256": "c17f647a0e76956010abaa627e75e9d3df5d4fb953dec9be668e7e974cee1fdd"
     }
    },
-   "rank": 76.332,
+   "rank": 75.627,
    "image_url": "https://img.24n.cz/p/2026/10/reforma-obrazovaniia-vrachei-chto-predlagaiut-molodye-mediki-3f6db4104d730c99.webp",
    "image_w": 620,
    "image_h": 349
@@ -7742,8 +7927,8 @@
    ],
    "published_at": "2026-10-19T09:40:07.030188+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 09:40",
@@ -7889,7 +8074,7 @@
      "body_sha256": "fc16011c616d390f79e485ca0fa9e2df18f09cf245b084cdda744c515ed310ad"
     }
    },
-   "rank": 80.573,
+   "rank": 79.828,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-zaderzhan-organizator-nelegalnoi-perevozki-13-migran-adf53a61c54b226c.webp",
    "image_w": 1366,
    "image_h": 910
@@ -8136,7 +8321,7 @@
      "body_sha256": "62db12aa345b91059587debcb9aaabf60abec35e61808ea1923e87a5c62d5f50"
     }
    },
-   "rank": 83.199,
+   "rank": 82.423,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -8431,7 +8616,7 @@
      "body_sha256": "ad531f5bc19b77a9dc713b183753ce7c45d1afe0d487731045ff1cb1c571ab3b"
     }
    },
-   "rank": 88.241,
+   "rank": 87.418,
    "sources": [
     {
      "domain": "denik.cz",
@@ -8500,8 +8685,8 @@
    ],
    "published_at": "2026-10-19T08:36:59.073409+02:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 08:36",
@@ -8775,7 +8960,7 @@
      "body_sha256": "c571c82dfaac42a3aa17a00c6d862a880d8684c20148b010b696bb261d090df0"
     }
    },
-   "rank": 83.293,
+   "rank": 82.51,
    "sources": [
     {
      "domain": "investujeme.cz",
@@ -9016,7 +9201,7 @@
      "body_sha256": "10a23bd41b4288eab8381002e1d2128529050679fbd4c8f16b87f195e9db1098"
     }
    },
-   "rank": 96.606,
+   "rank": 95.689,
    "sources": [
     {
      "domain": "pctuning.cz",
@@ -9041,8 +9226,8 @@
    ],
    "published_at": "2026-10-19T07:33:00.204742+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 07:33",
@@ -9252,7 +9437,7 @@
      "body_sha256": "afa70a9c1ebdd6fdcd44a6c8c40fa138c2fe2c088b44f42c5e18458273ef93d5"
     }
    },
-   "rank": 112.215
+   "rank": 111.799
   },
   {
    "id": "n7482",
@@ -9266,8 +9451,8 @@
    ],
    "published_at": "2026-10-19T06:31:48.927949+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 06:31",
@@ -9427,7 +9612,7 @@
      "body_sha256": "ef17fc8ff7d20368631d8cdfbad9b2fe09d826d806ecb47c0297d571212a6ac9"
     }
    },
-   "rank": 72.252,
+   "rank": 71.547,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -9467,8 +9652,8 @@
    ],
    "published_at": "2026-10-19T06:31:48.927949+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 06:31",
@@ -9706,7 +9891,7 @@
      "body_sha256": "ff288d3d424a0f867f41e96a150a792a6ce068e3f7ac87d9194f8a9c64f9102c"
     }
    },
-   "rank": 68.238,
+   "rank": 67.572,
    "image_url": "https://img.24n.cz/p/2026/10/skylink-se-meni-na-canal-televizionnaia-platforma-provodit-r-5f7d1d4e01114125.webp",
    "image_w": 670,
    "image_h": 377
@@ -9724,8 +9909,8 @@
    ],
    "published_at": "2026-10-19T06:31:48.927949+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 06:31",
@@ -9913,7 +10098,7 @@
      "body_sha256": "ededb4c20add1308a724787e7f3b7b4f4d34242484bdb27713af8ac4e14ff41f"
     }
    },
-   "rank": 92.322,
+   "rank": 91.421,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10138,7 +10323,7 @@
      "body_sha256": "7598fc9e1dc06ccd4b9a9ef546681c7fe429c6b0c64f45af9ed20042b0c8111e"
     }
    },
-   "rank": 102.537,
+   "rank": 101.525,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -10172,8 +10357,8 @@
    ],
    "published_at": "2026-10-19T05:27:40.473035+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 05:27",
@@ -10446,7 +10631,7 @@
      "body_sha256": "e9f50c72e97a007907e476b5339146d9323606edfb7ef770ac44f64e797fdafe"
     }
    },
-   "rank": 78.736
+   "rank": 77.952
   },
   {
    "id": "n7477",
@@ -10461,8 +10646,8 @@
    ],
    "published_at": "2026-10-19T05:27:40.473035+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 05:27",
@@ -10666,7 +10851,7 @@
      "body_sha256": "1ab2288f457621dd8e8668e8d080732cb7bc60cf295b6cf171ee727357e93588"
     }
    },
-   "rank": 94.483,
+   "rank": 93.543,
    "image_url": "https://img.24n.cz/p/2026/10/ochkovanie-ot-grippa-v-chekhii-kompensatsiia-strakhovykh-71015209be5b0bd7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -10683,8 +10868,8 @@
    ],
    "published_at": "2026-10-19T05:27:40.473035+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 05:27",
@@ -10888,7 +11073,7 @@
      "body_sha256": "bf93c55b0155a61233a6489b943bc28a80764cecf7dc1d32e23b5f5028e9533a"
     }
    },
-   "rank": 84.248,
+   "rank": 83.409,
    "sources": [
     {
      "domain": "kvalifikace-kurzy.cz",
@@ -10915,8 +11100,8 @@
    ],
    "published_at": "2026-10-19T05:27:40.473035+02:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 05:27",
@@ -11096,7 +11281,7 @@
      "body_sha256": "d231f7414143b6d059a24b3f1ab4bb9d2b6193937a40c041372a2c2fc7ad2de6"
     }
    },
-   "rank": 92.121,
+   "rank": 91.204,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -11123,8 +11308,8 @@
    ],
    "published_at": "2026-10-19T04:20:41.808291+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 04:20",
@@ -11306,7 +11491,7 @@
      "body_sha256": "5c2a8569c532c6cd967ba784819c9a2fa2736028e25cb6db177bcaa55fd071b2"
     }
    },
-   "rank": 73.267,
+   "rank": 72.523,
    "sources": [
     {
      "domain": "zlinsky.denik.cz",
@@ -11501,7 +11686,7 @@
      "body_sha256": "ee70522c1a6282bcb6bd866f04f81481e806fe8dfd462f95f8058c9a1a04a479"
     }
    },
-   "rank": 87.797,
+   "rank": 86.895,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-gotovitsia-k-krizisam-pochemu-odnoi-broshiury-malo-c31f819ba1180fbf.webp",
    "image_w": 1024,
    "image_h": 576
@@ -11519,8 +11704,8 @@
    ],
    "published_at": "2026-10-19T03:14:06.472216+02:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 03:14",
@@ -11835,7 +12020,7 @@
      "body_sha256": "bf76c398c42904262ddc05fb749d2e7d81b1569bbe834c8f522f462a99eef735"
     }
    },
-   "rank": 71.744,
+   "rank": 71.0,
    "sources": [
     {
      "domain": "volny.centrum.cz",
@@ -11890,8 +12075,8 @@
    ],
    "published_at": "2026-10-19T02:42:13.131886+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "19 октября 2026, 02:42",
@@ -12052,7 +12237,7 @@
      "body_sha256": "888646b5f3c95bbfb40723ba96a19887c2cb4b407bcee57ab8466112f204c996"
     }
    },
-   "rank": 77.743,
+   "rank": 76.928,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -12102,8 +12287,8 @@
    ],
    "published_at": "2026-10-19T02:42:13.131886+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "19 октября 2026, 02:42",
@@ -12247,7 +12432,7 @@
      "body_sha256": "f4c4f650f51ad831f502dfc14cdcd9df16743c5612a2940ca66fb29d28a3b055"
     }
    },
-   "rank": 78.49,
+   "rank": 77.667,
    "sources": [
     {
      "domain": "uktram.org",
@@ -12274,8 +12459,8 @@
    ],
    "published_at": "2026-10-19T02:42:13.131886+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "19 октября 2026, 02:42",
@@ -12450,7 +12635,7 @@
      "body_sha256": "90e572ba977d4ddccbfec079a1e0fe605dead4f45bfd5f97eaefa89e8912aae5"
     }
    },
-   "rank": 67.278,
+   "rank": 66.572,
    "image_url": "https://img.24n.cz/p/2026/10/pervyi-kinopokaz-v-prage-sostoialsia-130-let-nazad-3ffcb8c1e72308b1.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/pervyi-kinopokaz-v-prage-sostoialsia-130-let-nazad-3e51999cca6d485f.webp"
@@ -12483,8 +12668,8 @@
    ],
    "published_at": "2026-10-19T02:42:13.131886+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "19 октября 2026, 02:42",
@@ -12664,7 +12849,7 @@
      "body_sha256": "832dadf125196d69b49bd67061349ecd8bcb31b745d3f398774f772159b8bde7"
     }
    },
-   "rank": 66.53,
+   "rank": 65.832,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -12703,8 +12888,8 @@
    ],
    "published_at": "2026-10-19T01:36:13.540014+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 01:36",
@@ -12853,7 +13038,7 @@
      "body_sha256": "7b6e604b6e8905a0a33da69164b99fc93459f31177e349a8e52d7b7d1f3b2e94"
     }
    },
-   "rank": 69.506,
+   "rank": 68.761,
    "sources": [
     {
      "domain": "hradecky.denik.cz",
@@ -13009,7 +13194,7 @@
      "body_sha256": "8a151799269fdd9eaa6ad56144197b6d3be4f8c5bc682e55a59aed85255735f5"
     }
    },
-   "rank": 65.216,
+   "rank": 64.51,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-nachinaet-sbor-dannykh-o-kvantovykh-tekhnologiiakh-2d65c55e69c7a07d.webp",
    "image_w": 670,
    "image_h": 377
@@ -13026,8 +13211,8 @@
    ],
    "published_at": "2026-10-19T00:33:37.984700+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 00:33",
@@ -13149,7 +13334,7 @@
      "body_sha256": "1d95b2cc7781c2658f6ee7b160920a083f73911b3be4f83016e833ee13709aa6"
     }
    },
-   "rank": 73.09,
+   "rank": 72.291,
    "sources": [
     {
      "domain": "opavsky.denik.cz",
@@ -13179,8 +13364,8 @@
    ],
    "published_at": "2026-10-19T00:33:37.984700+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 00:33",
@@ -13323,7 +13508,7 @@
      "body_sha256": "9156b12d25423b6a3189f2ea1ae39197c0bdf0dcf52c2cac10fc5ccf92def564"
     }
    },
-   "rank": 87.422,
+   "rank": 86.466,
    "sources": [
     {
      "domain": "domaci.hn.cz",
@@ -13398,8 +13583,8 @@
    ],
    "published_at": "2026-10-18T23:26:07.173966+02:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "18 октября 2026, 23:26",
@@ -13539,7 +13724,7 @@
      "body_sha256": "9cdacaf261e2288f71fb94e1d89987594b114a691d80152d0b221d9731dac0c4"
     }
    },
-   "rank": 31.514,
+   "rank": 31.162,
    "image_url": "https://img.24n.cz/p/2026/10/v-brno-ozhil-roman-letnice-avtor-otsenil-novuiu-teatralnuiu-3fb14f1e3e8ab5d3.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-brno-ozhil-roman-letnice-avtor-otsenil-novuiu-teatralnuiu-5470d2a1839309d8.webp",
@@ -13723,7 +13908,7 @@
      "body_sha256": "de312f8bdf88a960ff2a94704421ffd06acb25dded977d3bd66855ef068af8c4"
     }
    },
-   "rank": 44.474,
+   "rank": 43.965,
    "sources": [
     {
      "domain": "metro.cz",
@@ -13892,7 +14077,7 @@
      "body_sha256": "9a3dd089a2a583692a104f253c7b54eff3ead41c5f741de0574881582c5a69d1"
     }
    },
-   "rank": 76.886
+   "rank": 75.985
   },
   {
    "id": "n7460",
@@ -13944,7 +14129,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 55.879
+   "rank": 55.221
   },
   {
    "id": "n7459",
@@ -14067,7 +14252,7 @@
      "body_sha256": "d354bb596e3f3c4d187d2106e63c8bdcf11e3a06d4c28da9a950d61aaf797d08"
     }
    },
-   "rank": 38.256,
+   "rank": 37.786,
    "image_url": "https://img.24n.cz/p/2026/10/v-zline-proshla-aktsiia-dlia-vinodelov-otelei-i-restoranov-3975100e32bc1aab.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-zline-proshla-aktsiia-dlia-vinodelov-otelei-i-restoranov-de09794b1773bb2e.webp"
@@ -14229,7 +14414,7 @@
      "body_sha256": "2ae862d4c3135476eeb43ac27d333731a814dc40b3f9302ca42f933cbc1de9c8"
     }
    },
-   "rank": 60.572
+   "rank": 59.828
   },
   {
    "id": "n7457",
@@ -14397,7 +14582,7 @@
      "body_sha256": "2f2024421a0fb0f39309bfee14bdfa5bd6c2dbc1f89acff99625311c8fa4eca2"
     }
    },
-   "rank": 73.324,
+   "rank": 72.423,
    "image_url": "https://img.24n.cz/p/2026/10/muzhchina-s-nozhom-ugrozhal-ubiistvom-seme-v-prazhskom-tramv-a3ecd4835f3f5c82.webp",
    "image_w": 1200,
    "image_h": 675
@@ -14450,7 +14635,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 54.727
+   "rank": 54.053
   },
   {
    "id": "n7455",
@@ -14727,7 +14912,7 @@
      "body_sha256": "30c973dfe02a5fbfeb7adda93b998041789759a92ebaaa4b5b7217c5a2b6120e"
     }
    },
-   "rank": 65.308
+   "rank": 64.485
   },
   {
    "id": "n7454",
@@ -14903,7 +15088,7 @@
      "body_sha256": "cab2db7019df197e7f65cb20b1b8ef9217aa9bdbb646625e81f96f122bb37706"
     }
    },
-   "rank": 74.004,
+   "rank": 73.697,
    "image_url": "https://img.24n.cz/p/2026/10/ministr-truda-raskritikoval-smi-za-voprosy-o-mnogomillionnoi-e31e7ae0b8b579f0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/ministr-truda-raskritikoval-smi-za-voprosy-o-mnogomillionnoi-d6237b740d9363e3.webp"
@@ -15054,7 +15239,7 @@
      "body_sha256": "e6a452335b7adc0ee7fbcb63d73ae8db13b332f073ed1b7b5dd3dc19595036f2"
     }
    },
-   "rank": 38.446,
+   "rank": 37.921,
    "sources": [
     {
      "domain": "praha11.cz",
@@ -15268,7 +15453,7 @@
      "body_sha256": "043f0eab96a840979f7280b06cd0226f7485bfd68db780003f90f8a6f94ac6d4"
     }
    },
-   "rank": 60.251,
+   "rank": 59.428,
    "image_url": "https://img.24n.cz/p/2026/10/v-pravitelstve-chekhii-izmenenii-poka-ne-planiruiut-331d30610e3a06ca.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15475,7 +15660,7 @@
      "body_sha256": "1daa7193b1b24f588cd661e2b9d5e7a3d86b3b971742bd610737dc70443c965f"
     }
    },
-   "rank": 69.861,
+   "rank": 68.881,
    "sources": [
     {
      "domain": "praha8.cz",
@@ -15732,7 +15917,7 @@
      "body_sha256": "410ed4e40a56693dc0bd8d016b396cc5f7f54decd1cb3738b8dbfa8726ab026d"
     }
    },
-   "rank": 58.683,
+   "rank": 57.86,
    "image_url": "https://img.24n.cz/p/2026/10/remont-dorogi-iz-trshebicha-v-brno-nachnetsia-vesnoi-sleduiu-11c3d1a2e940ffd6.webp",
    "image_w": 1200,
    "image_h": 674
@@ -15955,7 +16140,7 @@
      "body_sha256": "da2940ebfc6090f71cb561e10051d05f1ea6cb2509d4ed216770f9c85f5277dd"
     }
    },
-   "rank": 57.007,
+   "rank": 56.207,
    "sources": [
     {
      "domain": "mhd86.cz",
@@ -16162,7 +16347,7 @@
     ],
     "impact": "Персональные ИИ-агенты уже доступны пользователям в США и постепенно внедряются в повседневную жизнь. Они могут взять на себя рутинные задачи - от управления расписанием до заказа продуктов - и сэкономить время. Однако для этого придётся преодолеть психологические барьеры, связанные с доверием к технологии, особенно в Европе, где отношение к таким инновациям более осторожное."
    },
-   "rank": 53.094,
+   "rank": 52.35,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/mFvoAqwxZnQ"
@@ -16321,7 +16506,7 @@
      "body_sha256": "c68afd5c8d47ea64490c84719aa7e44f64ed42f6f4f26c5542df58ecf6df89b2"
     }
    },
-   "rank": 56.913
+   "rank": 56.09
   },
   {
    "id": "n7446",
@@ -16624,7 +16809,7 @@
      "body_sha256": "6e7c91f96a42cda1173ba7dd24676f246870b8ac28f21c3e0d6b7f46bc278846"
     }
    },
-   "rank": 48.783,
+   "rank": 48.077,
    "image_url": "https://img.24n.cz/p/2026/10/oplata-s-pomoshchiu-chipa-na-nogte-novaia-tekhnologiia-ot-ba-69f0b8c2ba7bb18a.webp",
    "image_w": 680,
    "image_h": 374
@@ -16821,7 +17006,7 @@
      "body_sha256": "72003a562a0010f13d8b66b49be417e7cc44f1b60ac311b5fc17f3c56b2fd127"
     }
    },
-   "rank": 55.244,
+   "rank": 54.421,
    "image_url": "https://img.24n.cz/p/2026/10/iurist-iz-brno-napal-na-sotrudnika-punkta-vydachi-iz-za-posy-20acd3aec052cfe1.webp",
    "image_w": 1200,
    "image_h": 675
@@ -17022,7 +17207,7 @@
      "body_sha256": "9a8b304a2501d779e2bb1f83ec9c31621352146dc1b3ad05efd07dd3cb4a1505"
     }
    },
-   "rank": 54.593,
+   "rank": 53.755,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -17196,7 +17381,7 @@
      "body_sha256": "7f96604440f880b111affea914fdce7bf6e37dbac0ccae40109e2745ade6ac6f"
     }
    },
-   "rank": 48.471,
+   "rank": 47.726,
    "sources": [
     {
      "domain": "prahanadlani.cz",
@@ -17367,7 +17552,7 @@
      "body_sha256": "d25f26efb0eb7dacf2c7f9ba1ae6e3f5f601a11d7e55bf3d354402f4fbf91c26"
     }
    },
-   "rank": 56.124,
+   "rank": 55.262,
    "sources": [
     {
      "domain": "sport.aktualne.cz",
@@ -17562,7 +17747,7 @@
      "body_sha256": "4cdf12f3f426e9bee544f0d1c31aabbcdfc58cc8611ca4158e554c9d1b199c01"
     }
    },
-   "rank": 49.491,
+   "rank": 48.731,
    "sources": [
     {
      "domain": "eurozpravy.cz",
@@ -17749,7 +17934,7 @@
      "body_sha256": "33b9dbe2e1fbf1448f03d1c988c80f296319a14fec6242d480d077829cffb414"
     }
    },
-   "rank": 45.529,
+   "rank": 44.784,
    "image_url": "https://img.24n.cz/p/2026/10/masshtabnaia-zachistka-politsiia-raskryla-narkodilerov-v-iig-7b446dbbe7b734b2.webp",
    "image_w": 1080,
    "image_h": 810
@@ -18020,7 +18205,7 @@
      "body_sha256": "8643a25026794abedf6c7d3b3a83de1df314a866ced192a72218ce40c141d695"
     }
    },
-   "rank": 49.842,
+   "rank": 49.027,
    "sources": [
     {
      "domain": "media24.cz",
@@ -18259,7 +18444,7 @@
      "body_sha256": "7c316780e355ea6320666d1fb029c18d7d22623c90045331d74d7520a602f499"
     }
    },
-   "rank": 50.968,
+   "rank": 50.105,
    "image_url": "https://img.24n.cz/p/2026/10/kommunisty-poterpeli-sokrushitelnoe-porazhenie-na-vyborakh-fe8f740fe498dc85.webp",
    "image_w": 620,
    "image_h": 349
@@ -18509,7 +18694,7 @@
      "body_sha256": "ee3ef66e3e06c5266b0f6f22cf26c401e10ca163a4fcfb479742f69e6bd33e27"
     }
    },
-   "rank": 33.555,
+   "rank": 32.967,
    "image_url": "https://img.24n.cz/p/2026/10/nasilie-radi-opyta-i-pedokhanting-kak-meniaetsia-prestupnost-697643c0eac8bccd.webp",
    "image_w": 1200,
    "image_h": 675
@@ -18681,7 +18866,7 @@
      "body_sha256": "d90131cebe2c122391a9a1337c4eadeb13286ebb8c0324091e351310811f46a6"
     }
    },
-   "rank": 51.45,
+   "rank": 50.549,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -18975,7 +19160,7 @@
      "body_sha256": "ee6e065592107eb8ccd93f543ae7867cb961e9a8349d7653bb6d0e29bc1a4ed0"
     }
    },
-   "rank": 41.196,
+   "rank": 40.42,
    "sources": [
     {
      "domain": "prazska.drbna.cz",
@@ -19217,7 +19402,7 @@
      "body_sha256": "40775e864c042da24950301868536040d0c5c69a400f69eb46261c478b4c24f2"
     }
    },
-   "rank": 82.281,
+   "rank": 81.901,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -19510,7 +19695,7 @@
      "body_sha256": "81b197c16489e2e680db8ce4a548d23a0398e04c8a3bb7b2420b3bba18cdbfd4"
     }
    },
-   "rank": 33.472,
+   "rank": 32.79,
    "sources": [
     {
      "domain": "media24.cz",
@@ -19688,7 +19873,7 @@
      "body_sha256": "f3d29a7d9fd394eb0f5672603eab147dd03543f82bb4b56782e4716d71610953"
     }
    },
-   "rank": 44.328,
+   "rank": 43.387,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -19908,7 +20093,7 @@
      "body_sha256": "521bd08a2885a71051244d78581bacc4ecc7125d2728435a3872e215d33469a1"
     }
    },
-   "rank": 35.093,
+   "rank": 34.348,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -20083,7 +20268,7 @@
      "body_sha256": "32679a97a7417c3067457af19be9b8575e615cfa4d8ba3e21f5496e7b4bbc202"
     }
    },
-   "rank": 32.138,
+   "rank": 31.456,
    "sources": [
     {
      "domain": "mpolicie.c-budejovice.cz",
@@ -28454,8 +28639,8 @@
    ],
    "published_at": "2026-10-16T23:42:36.564705+02:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "16 октября 2026, 23:42",
@@ -64041,238 +64226,6 @@
      512
     ]
    ]
-  },
-  {
-   "id": "n7222",
-   "slug": "smena-vlasti-v-cheshskikh-gorodakh-mozhno-li-uvolit-chinovnikov",
-   "source": "novinky.cz",
-   "original_url": "https://www.novinky.cz/clanek/ekonomika-volby-meni-starosty-uredniky-ale-jen-tak-propustit-nelze-40602466",
-   "top": false,
-   "tags": [
-    "zakon",
-    "cesko",
-    "ekonomika"
-   ],
-   "published_at": "2026-10-14T12:07:58.453658+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "14 октября 2026, 12:07",
-    "uk": "14 жовтня 2026, 12:07"
-   },
-   "ru": {
-    "title": "Смена власти в чешских городах: можно ли уволить чиновников",
-    "lede": "Победа на выборах и смена руководства в чешских муниципалитетах не означают автоматического увольнения сотрудников или руководителей аппарата.",
-    "meta_description": "Как смена власти на выборах в Чехии влияет на чиновников и сотрудников ведомств. Трудовое право, правила для секретарей и гарантии для избранных депутатов.",
-    "paras": [
-     "<p>Выборы сменили руководство чешских городов и общин. Но сама по себе победа на выборах не даёт права расторгать трудовые договоры с сотрудниками аппарата. Об этом напомнила адвокат Kateřina Poláková из юридической конторы Dostupný advokát.</p>",
-     "<p>Если новое руководство задумало сокращать рабочие места, действовать придётся строго по Трудовому кодексу. Увольнение должно опираться на законное основание. Главное из них: реальная организационная перестановка.</p>",
-     "<p>Для секретарей муниципальных ведомств предусмотрен отдельный порядок. Староста вправе снять такого сотрудника с должности только по причинам, чётко прописанным в законе, и только с официального согласия директора краевого ведомства. Кадровая ротация на посту старосты сама по себе для этого недостаточна. Освобождение от должности не влечёт и автоматического прекращения трудового договора.</p>",
-     "<p>В частных компаниях всё зависит от того, совмещает избранный представитель свои обязанности с основной работой или уходит в политику полностью. Неосвобождённые депутаты имеют законное право на рабочее время, необходимое для исполнения мандата, со сохранением средней заработной платы. Расходы компании, включая страховые отчисления, в этом случае полностью возмещает община.</p>",
-     "<h3>Организация работы при совмещении должностей</h3>",
-     "<p>Стал избранный представитель освобождённым политиком, например старостой, значит, на этой позиции он может работать постоянно. Но прежний трудовой договор с коммерческой структурой не аннулируется. Работодателю придётся заранее учитывать отсутствие сотрудника на прежнем месте и планировать замещение.</p>",
-     "<blockquote>По словам аналитика портала JenPráce.cz Michal Španěl, несколько отсутствий в месяц обычно удается компенсировать корректировкой рабочих процессов, но долгосрочное освобождение от обязанностей требует найма временного сотрудника или перераспределения ответственности внутри команды.</blockquote>",
-     "<p>Серьезных организационных сложностей, по его словам, помогает избежать своевременный и открытый диалог между сотрудником и непосредственным работодателем.</p>",
-     "<h3>Итоги выборов и распределение мандатов</h3>",
-     "<p>Коммунальные выборы в Чехии проходили в октябре, 9 и 10 числа. Больше 40 тысяч мандатов завоевали местные объединения независимых кандидатов. Среди традиционных политических сил заметных результатов добились парламентские оппозиционные партии KDU-ČSL, STAN и ODS, а также входящее в правительственную коалицию движение ANO. На итоговый расклад также серьезно влияло то, выступали ли партии на выборах самостоятельно или в блоке с независимыми кандидатами.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Можно ли уволить чиновника сразу после смены власти в городе?",
-      "a": "Нет. Политическая перестановка сама по себе не является законным основанием для прекращения трудовых отношений."
-     },
-     {
-      "q": "Как можно снять с должности секретаря муниципального ведомства?",
-      "a": "Староста может сделать это только по причинам, предусмотренным законом, и обязательно получив согласие директора краевого ведомства."
-     },
-     {
-      "q": "Кто оплачивает отсутствие на основной работе неосвобожденного депутата?",
-      "a": "Работник имеет право на отгул с сохранением зарплаты, а все связанные с этим расходы и отчисления компании возмещает община."
-     }
-    ],
-    "impact": "Для сотрудников чешских муниципалитетов смена власти не означает автоматической потери работы. Новым руководителям нужно соблюдать трудовой кодекс и оформлять реальные организационные изменения, а уволить секретаря общины можно только по закону и с согласия края.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Победа на выборах в чешских муниципалитетах не дает права автоматически увольнять сотрудников аппарата.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Для увольнения сотрудников при сокращении рабочих мест необходимо опираться на Трудовой кодекс и законное основание в виде реальной организационной перестановки.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Староста может снять секретаря муниципального ведомства с должности только по причинам, прописанным в законе, и с согласия директора краевого ведомства.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Правила увольнения и трудовых отношений при смене власти",
-      "items": [
-       {
-        "text": "При сокращении рабочих мест в муниципалитете руководствуйтесь Трудовым кодексом и реальной организационной перестановкой.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Учитывайте, что для освобождения от должности секретаря муниципальных ведомств требуется официальное согласие директора краевого ведомства.",
-        "target": {
-         "block": 3,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Помните, что кадровая ротация на посту старосты не является достаточной причиной для увольнения секретаря или автоматического прекращения его трудового договора.",
-        "target": {
-         "block": 3,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Обеспечьте неосвобожденным депутатам рабочее время для исполнения мандата с сохранением средней заработной платы, учитывая возмещение расходов общиной.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Заранее планируйте замещение сотрудника на прежнем месте в коммерческой структуре, если он стал освобожденным политиком, так как прежний трудовой договор не аннулируется.",
-        "target": {
-         "block": 6,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Проводите своевременный и открытый диалог между сотрудником и работодателем для избежания организационных сложностей.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "31433bc584d2faf866dc8606464bbefea2be93d939c7a3a1f85ecf9e96b43d10"
-    }
-   },
-   "uk": {
-    "title": "Зміна влади в чеських містах: чи можна звільнити чиновників",
-    "lede": "Перемога на виборах і зміна керівництва в чеських муніципалітетах не означає автоматичного звільнення працівників чи керівників апарату.",
-    "meta_description": "Як зміна влади на виборах у Чехії впливає на чиновників і працівників відомств. Трудове право, правила для секретарів і гарантії для обраних депутатів.",
-    "paras": [
-     "<p>Вибори змінили керівництво чеських міст і громад. Але сама по собі перемога на виборах не дає права розривати трудові договори з працівниками апарату. Про це нагадала адвокатка Kateřina Poláková з юридичної фірми Dostupný advokát.</p>",
-     "<p>Якщо нове керівництво планує скорочувати робочі місця, діяти доведеться суворо за Трудовим кодексом. Звільнення має ґрунтуватися на законній підставі. Головна з них: реальна організаційна перестановка.</p>",
-     "<p>Для секретарів муніципальних відомств передбачено окремий порядок. Староста має право усунути такого працівника з посади лише з причин, чітко прописаних у законі, і тільки за офіційної згоди директора крайового відомства. Кадрова ротація на посаді старости сама по собі для цього недостатня. Звільнення з посади не тягне за собою автоматичного припинення трудового договору.</p>",
-     "<p>У приватних компаніях усе залежить від того, поєднує обраний представник свої обов’язки з основною роботою чи повністю йде в політику. Незвільнені депутати мають законне право на робочий час, необхідний для виконання мандата, зі збереженням середньої заробітної плати. Витрати компанії, включаючи страхові внески, у цьому випадку повністю відшкодовує громада.</p>",
-     "<h3>Організація роботи при поєднанні посад</h3>",
-     "<p>Став обраний представник звільненим політиком, наприклад старостою, значить, на цій посаді він може працювати постійно. Але попередній трудовий договір із комерційною структурою не анулюється. Роботодавцю доведеться заздалегідь враховувати відсутність працівника на попередньому місці й планувати заміщення.</p>",
-     "<blockquote>За словами аналітика порталу JenPráce.cz Michal Španěl, кілька відсутностей на місяць зазвичай вдається компенсувати корегуванням робочих процесів, але довгострокове звільнення від обов’язків вимагає найму тимчасового працівника або перерозподілу відповідальності всередині команди.</blockquote>",
-     "<p>Серйозних організаційних труднощів, за його словами, допомагає уникнути своєчасний і відкритий діалог між працівником і безпосереднім роботодавцем.</p>",
-     "<h3>Підсумки виборів і розподіл мандатів</h3>",
-     "<p>Комунальні вибори в Чехії проходили в жовтні, 9 і 10 числа. Понад 40 тисяч мандатів здобули місцеві об’єднання незалежних кандидатів. Серед традиційних політичних сил помітних результатів досягли парламентські опозиційні партії KDU-ČSL, STAN і ODS, а також партія урядової коаліції ANO. На остаточний розклад також серйозно вплинуло те, чи виступали партії на виборах самостійно, чи в блоці з незалежними кандидатами.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Чи можна звільнити чиновника одразу після зміни влади в місті?",
-      "a": "Ні. Політична перестановка сама по собі не є законною підставою для припинення трудових відносин."
-     },
-     {
-      "q": "Як можна усунути з посади секретаря муніципального відомства?",
-      "a": "Староста може це зробити лише з причин, передбачених законом, і обов’язково отримавши згоду директора крайового відомства."
-     },
-     {
-      "q": "Хто оплачує відсутність на основній роботі незвільненого депутата?",
-      "a": "Працівник має право на відгул зі збереженням зарплати, а всі пов’язані з цим витрати й відрахування компанії відшкодовує громада."
-     }
-    ],
-    "impact": "Для сотрудников чешских муниципалитетов смена власти не означает автоматической потери работы. Новым руководителям нужно соблюдать трудовой кодекс и оформлять реальные организационные изменения, а уволить секретаря общины можно только по закону и с согласия края.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Перемога на виборах у чеських містах не дає новому керівництву права автоматично звільняти працівників апарату.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Скорочення робочих місць новим керівництвом має здійснюватися строго за Трудовим кодексом на підставі реальної організаційної перестановки.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Староста може усунути секретаря муніципального відомства з посади лише за наявності законних підстав та офіційної згоди директора крайового відомства.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Витрати приватних компаній на робочий час депутатів для виконання мандата повністю відшкодовує громада.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Звільнення чиновників у Чехії",
-      "items": [
-       {
-        "text": "Дійте за Трудовим кодексом і проводьте реальну організаційну перестановку для скорочення робочих місць.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Отримайте офіційну згоду директора крайового відомства для усунення секретаря муніципального відомства з посади.",
-        "target": {
-         "block": 3,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Враховуйте відсутність працівника на попередньому місці та плануйте заміщення, якщо обраний представник працює постійно на політичній посаді.",
-        "target": {
-         "block": 6,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Введіть своєчасний і відкритий діалог між працівником і роботодавцем для уникнення серйозних організаційних труднощів.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "0d674189f6fa308f87998c76bbacf24c6635dea7631616dfeffc175366ac7297"
-    }
-   },
-   "rank": 36.75,
-   "image_url": "https://img.24n.cz/p/2026/10/smena-vlasti-v-cheshskikh-gorodakh-mozhno-li-uvolit-chinovni-d67da8f9f8e3556d.webp",
-   "image_w": 1200,
-   "image_h": 675
   }
  ]
 }
