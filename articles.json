@@ -1,8 +1,190 @@
 {
- "updated_at": "2026-10-19T17:54:14+00:00",
+ "updated_at": "2026-10-19T18:26:08+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n7518",
+   "slug": "politsiia-poimala-begletsa-na-volkswagen-pod-melnik",
+   "source": "tydenikpolicie.cz",
+   "original_url": "https://tydenikpolicie.cz/policistum-na-melnicku-ujizdel-ridic-volkswagenu-kdyz-se-pokousel-o-utek-vypatrala-ho-policejni-psovodka-v-dobe-sveho-volna/",
+   "top": false,
+   "tags": [
+    "kriminal",
+    "cesko"
+   ],
+   "published_at": "2026-10-19T20:26:08.135220+02:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "19 октября 2026, 20:26",
+    "uk": "19 жовтня 2026, 20:26"
+   },
+   "ru": {
+    "title": "Полиция поймала беглеца на Volkswagen под Mělník",
+    "lede": "Водитель автомобиля Volkswagen попытался уйти от полицейской погони в районе Mělník. Задержать подозреваемого помогла кинологическая служба.",
+    "meta_description": "Водитель Volkswagen уходил от погони в районе Mělník, врезался в забор и попытался скрыться, но его задержали полицейские с собакой.",
+    "paras": [
+     "<p>В понедельник около 12:40 полицейский патруль проводил обычную дорожную проверку в городе Kralupech nad Vltavou. Водителя Volkswagen он попытался остановить. Тот требования стражей порядка проигнорировал и попробовал скрыться.</p>",
+     "<p>К преследованию быстро подключились другие экипажи, а вместе с ними руководитель полиции из OHS Mělník. Погоня растянулась примерно на пятнадцать километров. На улице Kladenská в деревне Olovnice в районе Mělník машина свернула на лесную дорогу и врезалась в ограждение.</p>",
+     "<p>Водитель выскочил из салона и побежал. На место сразу вызвали кинолога со служебной собакой, а в воздух подняли вертолет авиационной службы полиции с тепловизором.</p>",
+     "<h3>Внезапная помощь от кинологической службы</h3>",
+     "<p>О погоне узнала сотрудница кинологической службы из Kladno по имени Jitka. Женщина живет неподалеку и в тот момент была на отдыхе. В стороне она оставаться не стала: взяла свою служебную собаку и отправилась искать беглеца.</p>",
+     "<blockquote>Подозреваемого в двух километрах от места аварии, в деревне Zeměchy, обнаружила именно служебная собака по кличке Nastassia Soví mlýn.</blockquote>",
+     "<p>После обнаружения беглеца сотрудники полиции задержали мужчину, применив принудительные меры, в том числе угрозу применения табельного оружия. Задержанного доставили обратно к брошенному автомобилю, куда прибыли сотрудники дорожной инспекции для оформления ДТП.</p>",
+     "<p>Как сообщила пресс-секретарь полиции Barbora Schneeweissová, алкотестер дал отрицательный результат, однако от прохождения теста на наличие наркотиков и психотропных веществ водитель отказался. Расследование обстоятельств происшествия продолжается.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Где началась погоня за автомобилем Volkswagen?",
+      "a": "Попытка остановки машины произошла в городе Kralupech nad Vltavou."
+     },
+     {
+      "q": "Как удалось найти убежавшего водителя?",
+      "a": "Его обнаружила служебная собака Nastassia Soví mlýn в деревне Zeměchy."
+     },
+     {
+      "q": "Был ли водитель пьян?",
+      "a": "Проведенный на месте тест на алкоголь дал отрицательный результат, но от проверки на наркотики мужчина отказался."
+     }
+    ],
+    "impact": "Водитель уходил от погони, попал в ДТП и отказался от теста на наркотики. Правоохранители продолжают расследование инцидента.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Водитель Volkswagen проигнорировал требование патруля в Kralupech nad Vltavou и попытался скрыться.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Погоня длилась около пятнадцати километров и закончилась тем, что машина свернула на лесную дорогу в Olovnici и врезалась в ограждение.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Беглеца задержали с применением принудительных мер, включая угрозу применения табельного оружия.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Алкотестер показал отрицательный результат, но от теста на наркотики и психотропные вещества водитель отказался.",
+       "target": {
+        "block": 8,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "OHS Mělník",
+       "definition": "Полицейское подразделение в районе Mělník; его руководитель присоединился к преследованию.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "табельного оружия",
+       "definition": "Служебное оружие, выдаваемое сотрудникам полиции; его применением угрожали при задержании.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "d5ea31d3dec13f7432691e76e682dd29e544f13e3f3ab0eab77493bb8813c135"
+    }
+   },
+   "uk": {
+    "title": "Поліція спіймала втікача на Volkswagen під Mělník",
+    "lede": "Водій автомобіля Volkswagen спробував утекти від поліцейської погоні в районі Mělník. Затримати підозрюваного допомогла кінологічна служба.",
+    "meta_description": "Водій Volkswagen уходив від погоні в районі Mělník, врізався в паркан і спробував сховатися, але його затримали поліцейські з собакою.",
+    "paras": [
+     "<p>У понеділок близько 12:40 поліцейський патруль проводив звичайну дорожню перевірку в місті Kralupech nad Vltavou. Водія Volkswagen він спробував зупинити. Той вимоги правоохоронців проігнорував і спробував утекти.</p>",
+     "<p>До переслідування швидко долучилися інші екіпажі, а разом із ними керівник поліції з OHS Mělník. Погоня розтягнулася приблизно на п'ятнадцять кілометрів. На вулиці Kladenská в селі Olovnice в районі Mělník машина звернула на лісову дорогу і врізалася в огорожу.</p>",
+     "<p>Водій вискочив із салону і побіг. На місце одразу викликали кінолога зі службовим собакою, а в повітря підняли вертоліт авіаційної служби поліції з тепловізором.</p>",
+     "<h3>Несподівана допомога від кінологічної служби</h3>",
+     "<p>Про погоню дізналася співробітниця кінологічної служби з Kladno на ім'я Jitka. Жінка живе неподалік і в той момент була на відпочинку. Осторонь вона не залишилася: взяла свого службового собаку і вирушила шукати втікача.</p>",
+     "<blockquote>Підозрюваного за два кілометри від місця аварії, в селі Zeměchy, знайшов саме службовий собака на кличку Nastassia Soví mlýn.</blockquote>",
+     "<p>Після виявлення втікача співробітники поліції затримали чоловіка, застосувавши примусові заходи, зокрема погрозу застосування табельної зброї. Затриманого доставили назад до покинутого автомобіля, куди прибули співробітники дорожньої інспекції для оформлення ДТП.</p>",
+     "<p>Як повідомила речниця поліції Barbora Schneeweissová, алкотестер дав негативний результат, однак від проходження тесту на наявність наркотиків і психотропних речовин водій відмовився. Розслідування обставин події триває.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Де почалася погоня за автомобілем Volkswagen?",
+      "a": "Спроба зупинки машини сталася в місті Kralupech nad Vltavou."
+     },
+     {
+      "q": "Як вдалося знайти водія, що втік?",
+      "a": "Його виявив службовий собака Nastassia Soví mlýn у селі Zeměchy."
+     },
+     {
+      "q": "Чи був водій п'яний?",
+      "a": "Проведений на місці тест на алкоголь дав негативний результат, але від перевірки на наркотики чоловік відмовився."
+     }
+    ],
+    "impact": "Водитель уходил от погони, попал в ДТП и отказался от теста на наркотики. Правоохранители продолжают расследование инцидента.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Водій Volkswagen проігнорував вимогу патруля в Kralupech nad Vltavou і спробував утекти.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Погоня тривала приблизно п'ятнадцять кілометрів і завершилася тим, що машина звернула на лісову дорогу в Olovnici та врізалася в огорожу.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Водія затримали із застосуванням примусових заходів, зокрема погрози табельною зброєю.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Алкотестер показав негативний результат, але від тесту на наркотики й психотропні речовини водій відмовився.",
+       "target": {
+        "block": 8,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "алкотестер",
+       "definition": "Прилад для перевірки вмісту алкоголю в організмі. У цьому випадку він дав негативний результат.",
+       "target": {
+        "block": 8,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "36eef927b9603787b39d521f40c91e12bacb1b83af1334b4523d82585f5d487b"
+    }
+   },
+   "rank": 90.0,
+   "image_url": "https://img.24n.cz/p/2026/10/politsiia-poimala-begletsa-na-volkswagen-pod-melnik-d3624355adf89144.webp",
+   "image_w": 1200,
+   "image_h": 800
+  },
   {
    "id": "n7517",
    "slug": "v-brno-ushel-v-otstavku-glava-mestnogo-otdeleniia-ods-robert-kerndl",
@@ -15,8 +197,8 @@
    ],
    "published_at": "2026-10-19T19:54:13.602955+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "19 октября 2026, 19:54",
@@ -259,8 +441,8 @@
    ],
    "published_at": "2026-10-19T19:54:13.602955+02:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "19 октября 2026, 19:54",
@@ -1123,8 +1305,8 @@
    ],
    "published_at": "2026-10-19T18:15:55.207131+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 18:15",
@@ -1322,8 +1504,8 @@
    ],
    "published_at": "2026-10-19T18:15:55.207131+02:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 18:15",
@@ -1714,8 +1896,8 @@
    ],
    "published_at": "2026-10-19T16:05:34.855084+02:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "19 октября 2026, 16:05",
@@ -2098,7 +2280,7 @@
      "body_sha256": "ac5333cf9e2f005b959f19ce817615ffca234affc78e01f805761c80fb2b6e51"
     }
    },
-   "rank": 107.912,
+   "rank": 107.067,
    "sources": [
     {
      "domain": "passerinvest.cz",
@@ -2384,7 +2566,7 @@
      "body_sha256": "63de0e005104eef1ba36156aa4d08307a221f56c85dd4b14a5dc85faa3a5bbe6"
     }
    },
-   "rank": 78.481,
+   "rank": 77.867,
    "image_url": "https://img.24n.cz/p/2026/10/zakryvaetsia-prazhskii-servis-po-remontu-elektroniki-i-elekt-fa5196dae1ec3ff8.webp",
    "image_w": 1200,
    "image_h": 660
@@ -2401,8 +2583,8 @@
    ],
    "published_at": "2026-10-19T15:01:36.745025+02:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 15:01",
@@ -2864,7 +3046,7 @@
      "body_sha256": "547a8ca3093350b7a7598a85a6b5f561dfb2e5f939e8d99d1495df8c48988427"
     }
    },
-   "rank": 72.424,
+   "rank": 71.848,
    "image_url": "https://img.24n.cz/p/2026/10/musornye-vyvozy-podorozhaiut-iz-za-rosta-tsen-na-dizel-obshc-3d58573915413fb1.webp",
    "image_w": 620,
    "image_h": 349
@@ -3138,7 +3320,7 @@
      "body_sha256": "a5ee5449881c5a7ee4397a0b3992fdd337392e01b9293ca4618d1e2d82df0e47"
     }
    },
-   "rank": 108.153,
+   "rank": 107.293,
    "sources": [
     {
      "domain": "europesays.com",
@@ -3386,8 +3568,8 @@
    ],
    "published_at": "2026-10-19T13:58:50.156686+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:58",
@@ -3593,7 +3775,7 @@
      "body_sha256": "e7d8c487335395011beb15f3b644083e28801384089993251ad652f523ddc889"
     }
    },
-   "rank": 86.2,
+   "rank": 85.508,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskie-predprinimateli-vybiraiut-molodye-poderzhannye-avt-3cf6a77bd9a50b8e.jpeg",
    "image_w": 1000,
    "image_h": 667
@@ -3610,8 +3792,8 @@
    ],
    "published_at": "2026-10-19T13:58:50.156686+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:58",
@@ -3769,7 +3951,7 @@
      "body_sha256": "7b94aec0cd218b956f5aaea92a50a52ee028742b01e716b1dfb6c2b8ed08faf8"
     }
    },
-   "rank": 78.537,
+   "rank": 77.908,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -3796,8 +3978,8 @@
    ],
    "published_at": "2026-10-19T13:58:50.156686+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:58",
@@ -3979,7 +4161,7 @@
      "body_sha256": "f011edd24a01ef43aeba1ed8c4d3507f82497f57f2431fe70a8a06e4a43de1f5"
     }
    },
-   "rank": 90.988,
+   "rank": 90.259,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -4018,8 +4200,8 @@
    ],
    "published_at": "2026-10-19T13:58:50.156686+02:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:58",
@@ -4143,7 +4325,7 @@
      "body_sha256": "ce41d920d54836ecc3beb5d1ba77a6d95bee91e276f1f7cf83cce8634d3ca46c"
     }
    },
-   "rank": 49.804,
+   "rank": 49.405,
    "sources": [
     {
      "domain": "inews.sk",
@@ -4171,8 +4353,8 @@
    ],
    "published_at": "2026-10-19T13:26:03.990045+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:26",
@@ -4416,7 +4598,7 @@
      "body_sha256": "0f95985da4f9930059783c6883f12b9dfb8b78a229d54904be18fd693e2526b4"
     }
    },
-   "rank": 99.738
+   "rank": 98.931
   },
   {
    "id": "n7497",
@@ -4429,8 +4611,8 @@
    ],
    "published_at": "2026-10-19T13:26:03.990045+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:26",
@@ -4540,7 +4722,7 @@
      "body_sha256": "94cf574517f1e9e03fd311bd0f282eaa24ac0d9b3a401221d9cdfd2212cdd860"
     }
    },
-   "rank": 75.991
+   "rank": 75.376
   },
   {
    "id": "n7496",
@@ -4554,8 +4736,8 @@
    ],
    "published_at": "2026-10-19T13:26:03.990045+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 13:26",
@@ -4709,7 +4891,7 @@
      "body_sha256": "32862edb94eea6b43d142f41f8b20519776394edc66514a13070b0c73367c3bb"
     }
    },
-   "rank": 104.487,
+   "rank": 103.642,
    "sources": [
     {
      "domain": "sportovespravy.sk",
@@ -4746,8 +4928,8 @@
    ],
    "published_at": "2026-10-19T12:55:32.452361+02:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 12:55",
@@ -4951,7 +5133,7 @@
      "body_sha256": "5d1f5b161e7f7146c4975f08a01719a85d5c8b62a0100a7d4bf2b11fa23b2d75"
     }
    },
-   "rank": 121.587,
+   "rank": 120.596,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -5172,7 +5354,7 @@
      "body_sha256": "19f6460124e103a1d2ab2d728d7db7f29e775e0434ddb57558d5611b3364aca6"
     }
    },
-   "rank": 97.303
+   "rank": 96.496
   },
   {
    "id": "n7493",
@@ -5187,8 +5369,8 @@
    ],
    "published_at": "2026-10-19T11:15:08.138364+02:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 11:15",
@@ -5386,7 +5568,7 @@
      "body_sha256": "77e8c7fcb980ce6cfc267de9238aab6c1de427b8c571c022f5d0fc8b2d1ab3e1"
     }
    },
-   "rank": 84.49,
+   "rank": 83.783,
    "sources": [
     {
      "domain": "prahain.cz",
@@ -5414,8 +5596,8 @@
    ],
    "published_at": "2026-10-19T10:13:35.872602+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 10:13",
@@ -5587,7 +5769,7 @@
      "body_sha256": "0d48ff7330f80267ea75c53308fc6af292681ac58ee8a4594baf29ff9d0eb882"
     }
    },
-   "rank": 94.873,
+   "rank": 94.066,
    "image_url": "https://img.24n.cz/p/2026/10/pensionerka-iz-brno-otmyvala-dengi-dlia-kibermoshennikov-5f4efa598c6bd74b.webp",
    "image_w": 800,
    "image_h": 450
@@ -5605,8 +5787,8 @@
    ],
    "published_at": "2026-10-19T10:13:35.872602+02:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 10:13",
@@ -5919,7 +6101,7 @@
      "body_sha256": "5604ac64c55ff9a12515203ffbc747f9244f12c96d7dae79fb79a68dd9f692d4"
     }
    },
-   "rank": 90.355,
+   "rank": 89.587,
    "image_url": "https://img.24n.cz/p/2026/10/iskusstvennyi-intellekt-v-kode-kak-startapy-platiat-kopeiki-e714c00d4d78471a.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/iskusstvennyi-intellekt-v-kode-kak-startapy-platiat-kopeiki-b8cd64a471fb747d.webp"
@@ -6154,7 +6336,7 @@
      "body_sha256": "d61a5c2e4e7626e135e1d4ba2df3d733deb13da102945f8a4df3c88ba0926091"
     }
    },
-   "rank": 71.639
+   "rank": 71.025
   },
   {
    "id": "n7489",
@@ -6378,7 +6560,7 @@
      "body_sha256": "c17f647a0e76956010abaa627e75e9d3df5d4fb953dec9be668e7e974cee1fdd"
     }
    },
-   "rank": 80.594,
+   "rank": 79.903,
    "image_url": "https://img.24n.cz/p/2026/10/reforma-obrazovaniia-vrachei-chto-predlagaiut-molodye-mediki-3f6db4104d730c99.webp",
    "image_w": 620,
    "image_h": 349
@@ -6543,7 +6725,7 @@
      "body_sha256": "fc16011c616d390f79e485ca0fa9e2df18f09cf245b084cdda744c515ed310ad"
     }
    },
-   "rank": 85.072,
+   "rank": 84.342,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-zaderzhan-organizator-nelegalnoi-perevozki-13-migran-adf53a61c54b226c.webp",
    "image_w": 1366,
    "image_h": 910
@@ -6560,8 +6742,8 @@
    ],
    "published_at": "2026-10-19T09:07:57.370093+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 09:07",
@@ -6790,7 +6972,7 @@
      "body_sha256": "62db12aa345b91059587debcb9aaabf60abec35e61808ea1923e87a5c62d5f50"
     }
    },
-   "rank": 87.887,
+   "rank": 87.126,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -6890,8 +7072,8 @@
    ],
    "published_at": "2026-10-19T09:07:57.370093+02:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 09:07",
@@ -7085,7 +7267,7 @@
      "body_sha256": "ad531f5bc19b77a9dc713b183753ce7c45d1afe0d487731045ff1cb1c571ab3b"
     }
    },
-   "rank": 93.213,
+   "rank": 92.407,
    "sources": [
     {
      "domain": "denik.cz",
@@ -7429,7 +7611,7 @@
      "body_sha256": "c571c82dfaac42a3aa17a00c6d862a880d8684c20148b010b696bb261d090df0"
     }
    },
-   "rank": 88.029,
+   "rank": 87.261,
    "sources": [
     {
      "domain": "investujeme.cz",
@@ -7485,8 +7667,8 @@
    ],
    "published_at": "2026-10-19T08:06:53.887580+02:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 08:06",
@@ -7670,7 +7852,7 @@
      "body_sha256": "10a23bd41b4288eab8381002e1d2128529050679fbd4c8f16b87f195e9db1098"
     }
    },
-   "rank": 102.147,
+   "rank": 101.248,
    "sources": [
     {
      "domain": "pctuning.cz",
@@ -7906,7 +8088,7 @@
      "body_sha256": "afa70a9c1ebdd6fdcd44a6c8c40fa138c2fe2c088b44f42c5e18458273ef93d5"
     }
    },
-   "rank": 114.729
+   "rank": 114.321
   },
   {
    "id": "n7482",
@@ -8081,7 +8263,7 @@
      "body_sha256": "ef17fc8ff7d20368631d8cdfbad9b2fe09d826d806ecb47c0297d571212a6ac9"
     }
    },
-   "rank": 76.514,
+   "rank": 75.823,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -8360,7 +8542,7 @@
      "body_sha256": "ff288d3d424a0f867f41e96a150a792a6ce068e3f7ac87d9194f8a9c64f9102c"
     }
    },
-   "rank": 72.263,
+   "rank": 71.61,
    "image_url": "https://img.24n.cz/p/2026/10/skylink-se-meni-na-canal-televizionnaia-platforma-provodit-r-5f7d1d4e01114125.webp",
    "image_w": 670,
    "image_h": 377
@@ -8567,7 +8749,7 @@
      "body_sha256": "ededb4c20add1308a724787e7f3b7b4f4d34242484bdb27713af8ac4e14ff41f"
     }
    },
-   "rank": 97.768,
+   "rank": 96.885,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -8607,8 +8789,8 @@
    ],
    "published_at": "2026-10-19T05:58:48.901071+02:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 05:58",
@@ -8792,7 +8974,7 @@
      "body_sha256": "7598fc9e1dc06ccd4b9a9ef546681c7fe429c6b0c64f45af9ed20042b0c8111e"
     }
    },
-   "rank": 108.645,
+   "rank": 107.655,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -9100,7 +9282,7 @@
      "body_sha256": "e9f50c72e97a007907e476b5339146d9323606edfb7ef770ac44f64e797fdafe"
     }
    },
-   "rank": 83.472
+   "rank": 82.703
   },
   {
    "id": "n7477",
@@ -9320,7 +9502,7 @@
      "body_sha256": "1ab2288f457621dd8e8668e8d080732cb7bc60cf295b6cf171ee727357e93588"
     }
    },
-   "rank": 100.166,
+   "rank": 99.244,
    "image_url": "https://img.24n.cz/p/2026/10/ochkovanie-ot-grippa-v-chekhii-kompensatsiia-strakhovykh-71015209be5b0bd7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -9542,7 +9724,7 @@
      "body_sha256": "bf93c55b0155a61233a6489b943bc28a80764cecf7dc1d32e23b5f5028e9533a"
     }
    },
-   "rank": 89.315,
+   "rank": 88.493,
    "sources": [
     {
      "domain": "kvalifikace-kurzy.cz",
@@ -9750,7 +9932,7 @@
      "body_sha256": "d231f7414143b6d059a24b3f1ab4bb9d2b6193937a40c041372a2c2fc7ad2de6"
     }
    },
-   "rank": 97.662,
+   "rank": 96.763,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -9777,8 +9959,8 @@
    ],
    "published_at": "2026-10-19T04:20:41.808291+02:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 04:20",
@@ -9960,7 +10142,7 @@
      "body_sha256": "5c2a8569c532c6cd967ba784819c9a2fa2736028e25cb6db177bcaa55fd071b2"
     }
    },
-   "rank": 77.766,
+   "rank": 77.036,
    "sources": [
     {
      "domain": "zlinsky.denik.cz",
@@ -10155,7 +10337,7 @@
      "body_sha256": "ee70522c1a6282bcb6bd866f04f81481e806fe8dfd462f95f8058c9a1a04a479"
     }
    },
-   "rank": 93.243,
+   "rank": 92.359,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-gotovitsia-k-krizisam-pochemu-odnoi-broshiury-malo-c31f819ba1180fbf.webp",
    "image_w": 1024,
    "image_h": 576
@@ -10173,8 +10355,8 @@
    ],
    "published_at": "2026-10-19T03:14:06.472216+02:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 03:14",
@@ -10489,7 +10671,7 @@
      "body_sha256": "bf76c398c42904262ddc05fb749d2e7d81b1569bbe834c8f522f462a99eef735"
     }
    },
-   "rank": 76.243,
+   "rank": 75.514,
    "sources": [
     {
      "domain": "volny.centrum.cz",
@@ -10706,7 +10888,7 @@
      "body_sha256": "888646b5f3c95bbfb40723ba96a19887c2cb4b407bcee57ab8466112f204c996"
     }
    },
-   "rank": 82.668,
+   "rank": 81.869,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10901,7 +11083,7 @@
      "body_sha256": "f4c4f650f51ad831f502dfc14cdcd9df16743c5612a2940ca66fb29d28a3b055"
     }
    },
-   "rank": 83.463,
+   "rank": 82.656,
    "sources": [
     {
      "domain": "uktram.org",
@@ -11104,7 +11286,7 @@
      "body_sha256": "90e572ba977d4ddccbfec079a1e0fe605dead4f45bfd5f97eaefa89e8912aae5"
     }
    },
-   "rank": 71.54,
+   "rank": 70.848,
    "image_url": "https://img.24n.cz/p/2026/10/pervyi-kinopokaz-v-prage-sostoialsia-130-let-nazad-3ffcb8c1e72308b1.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/pervyi-kinopokaz-v-prage-sostoialsia-130-let-nazad-3e51999cca6d485f.webp"
@@ -11318,7 +11500,7 @@
      "body_sha256": "832dadf125196d69b49bd67061349ecd8bcb31b745d3f398774f772159b8bde7"
     }
    },
-   "rank": 70.745,
+   "rank": 70.061,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -11507,7 +11689,7 @@
      "body_sha256": "7b6e604b6e8905a0a33da69164b99fc93459f31177e349a8e52d7b7d1f3b2e94"
     }
    },
-   "rank": 74.005,
+   "rank": 73.275,
    "sources": [
     {
      "domain": "hradecky.denik.cz",
@@ -11533,8 +11715,8 @@
    ],
    "published_at": "2026-10-19T01:07:03.891703+02:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "19 октября 2026, 01:07",
@@ -11663,7 +11845,7 @@
      "body_sha256": "8a151799269fdd9eaa6ad56144197b6d3be4f8c5bc682e55a59aed85255735f5"
     }
    },
-   "rank": 69.478,
+   "rank": 68.787,
    "image_url": "https://img.24n.cz/p/2026/10/chekhiia-nachinaet-sbor-dannykh-o-kvantovykh-tekhnologiiakh-2d65c55e69c7a07d.webp",
    "image_w": 670,
    "image_h": 377
@@ -11803,7 +11985,7 @@
      "body_sha256": "1d95b2cc7781c2658f6ee7b160920a083f73911b3be4f83016e833ee13709aa6"
     }
    },
-   "rank": 77.921,
+   "rank": 77.137,
    "sources": [
     {
      "domain": "opavsky.denik.cz",
@@ -11977,7 +12159,7 @@
      "body_sha256": "9156b12d25423b6a3189f2ea1ae39197c0bdf0dcf52c2cac10fc5ccf92def564"
     }
    },
-   "rank": 93.199,
+   "rank": 92.262,
    "sources": [
     {
      "domain": "domaci.hn.cz",
@@ -12052,8 +12234,8 @@
    ],
    "published_at": "2026-10-18T23:26:07.173966+02:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "18 октября 2026, 23:26",
@@ -12193,7 +12375,7 @@
      "body_sha256": "9cdacaf261e2288f71fb94e1d89987594b114a691d80152d0b221d9731dac0c4"
     }
    },
-   "rank": 33.645,
+   "rank": 33.3,
    "image_url": "https://img.24n.cz/p/2026/10/v-brno-ozhil-roman-letnice-avtor-otsenil-novuiu-teatralnuiu-3fb14f1e3e8ab5d3.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-brno-ozhil-roman-letnice-avtor-otsenil-novuiu-teatralnuiu-5470d2a1839309d8.webp",
@@ -12246,8 +12428,8 @@
    ],
    "published_at": "2026-10-18T22:19:15.020667+02:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "18 октября 2026, 22:19",
@@ -12377,7 +12559,7 @@
      "body_sha256": "de312f8bdf88a960ff2a94704421ffd06acb25dded977d3bd66855ef068af8c4"
     }
    },
-   "rank": 47.553,
+   "rank": 47.053,
    "sources": [
     {
      "domain": "metro.cz",
@@ -12417,8 +12599,8 @@
    ],
    "published_at": "2026-10-18T21:14:15.479131+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "18 октября 2026, 21:14",
@@ -12546,7 +12728,7 @@
      "body_sha256": "9a3dd089a2a583692a104f253c7b54eff3ead41c5f741de0574881582c5a69d1"
     }
    },
-   "rank": 82.332
+   "rank": 81.449
   },
   {
    "id": "n7460",
@@ -12559,8 +12741,8 @@
    ],
    "published_at": "2026-10-18T21:00:22.241840+02:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "18 октября 2026, 21:00",
@@ -12598,7 +12780,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 59.857
+   "rank": 59.212
   },
   {
    "id": "n7459",
@@ -12721,7 +12903,7 @@
      "body_sha256": "d354bb596e3f3c4d187d2106e63c8bdcf11e3a06d4c28da9a950d61aaf797d08"
     }
    },
-   "rank": 41.098,
+   "rank": 40.637,
    "image_url": "https://img.24n.cz/p/2026/10/v-zline-proshla-aktsiia-dlia-vinodelov-otelei-i-restoranov-3975100e32bc1aab.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-zline-proshla-aktsiia-dlia-vinodelov-otelei-i-restoranov-de09794b1773bb2e.webp"
@@ -12883,7 +13065,7 @@
      "body_sha256": "2ae862d4c3135476eeb43ac27d333731a814dc40b3f9302ca42f933cbc1de9c8"
     }
    },
-   "rank": 65.071
+   "rank": 64.341
   },
   {
    "id": "n7457",
@@ -13051,7 +13233,7 @@
      "body_sha256": "2f2024421a0fb0f39309bfee14bdfa5bd6c2dbc1f89acff99625311c8fa4eca2"
     }
    },
-   "rank": 78.77,
+   "rank": 77.887,
    "image_url": "https://img.24n.cz/p/2026/10/muzhchina-s-nozhom-ugrozhal-ubiistvom-seme-v-prazhskom-tramv-a3ecd4835f3f5c82.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13104,7 +13286,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 58.8
+   "rank": 58.139
   },
   {
    "id": "n7455",
@@ -13381,7 +13563,7 @@
      "body_sha256": "30c973dfe02a5fbfeb7adda93b998041789759a92ebaaa4b5b7217c5a2b6120e"
     }
    },
-   "rank": 70.28
+   "rank": 69.474
   },
   {
    "id": "n7454",
@@ -13557,7 +13739,7 @@
      "body_sha256": "cab2db7019df197e7f65cb20b1b8ef9217aa9bdbb646625e81f96f122bb37706"
     }
    },
-   "rank": 75.862,
+   "rank": 75.561,
    "image_url": "https://img.24n.cz/p/2026/10/ministr-truda-raskritikoval-smi-za-voprosy-o-mnogomillionnoi-e31e7ae0b8b579f0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/ministr-truda-raskritikoval-smi-za-voprosy-o-mnogomillionnoi-d6237b740d9363e3.webp"
@@ -13708,7 +13890,7 @@
      "body_sha256": "e6a452335b7adc0ee7fbcb63d73ae8db13b332f073ed1b7b5dd3dc19595036f2"
     }
    },
-   "rank": 41.619,
+   "rank": 41.104,
    "sources": [
     {
      "domain": "praha11.cz",
@@ -13922,7 +14104,7 @@
      "body_sha256": "043f0eab96a840979f7280b06cd0226f7485bfd68db780003f90f8a6f94ac6d4"
     }
    },
-   "rank": 65.224,
+   "rank": 64.417,
    "image_url": "https://img.24n.cz/p/2026/10/v-pravitelstve-chekhii-izmenenii-poka-ne-planiruiut-331d30610e3a06ca.webp",
    "image_w": 1200,
    "image_h": 675
@@ -14129,7 +14311,7 @@
      "body_sha256": "1daa7193b1b24f588cd661e2b9d5e7a3d86b3b971742bd610737dc70443c965f"
     }
    },
-   "rank": 75.781,
+   "rank": 74.82,
    "sources": [
     {
      "domain": "praha8.cz",
@@ -14386,7 +14568,7 @@
      "body_sha256": "410ed4e40a56693dc0bd8d016b396cc5f7f54decd1cb3738b8dbfa8726ab026d"
     }
    },
-   "rank": 63.656,
+   "rank": 62.849,
    "image_url": "https://img.24n.cz/p/2026/10/remont-dorogi-iz-trshebicha-v-brno-nachnetsia-vesnoi-sleduiu-11c3d1a2e940ffd6.webp",
    "image_w": 1200,
    "image_h": 674
@@ -14609,7 +14791,7 @@
      "body_sha256": "da2940ebfc6090f71cb561e10051d05f1ea6cb2509d4ed216770f9c85f5277dd"
     }
    },
-   "rank": 61.837,
+   "rank": 61.053,
    "sources": [
     {
      "domain": "mhd86.cz",
@@ -14816,7 +14998,7 @@
     ],
     "impact": "Персональные ИИ-агенты уже доступны пользователям в США и постепенно внедряются в повседневную жизнь. Они могут взять на себя рутинные задачи - от управления расписанием до заказа продуктов - и сэкономить время. Однако для этого придётся преодолеть психологические барьеры, связанные с доверием к технологии, особенно в Европе, где отношение к таким инновациям более осторожное."
    },
-   "rank": 57.593,
+   "rank": 56.863,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/mFvoAqwxZnQ"
@@ -14975,7 +15157,7 @@
      "body_sha256": "c68afd5c8d47ea64490c84719aa7e44f64ed42f6f4f26c5542df58ecf6df89b2"
     }
    },
-   "rank": 61.886
+   "rank": 61.079
   },
   {
    "id": "n7446",
@@ -15278,7 +15460,7 @@
      "body_sha256": "6e7c91f96a42cda1173ba7dd24676f246870b8ac28f21c3e0d6b7f46bc278846"
     }
    },
-   "rank": 53.045,
+   "rank": 52.353,
    "image_url": "https://img.24n.cz/p/2026/10/oplata-s-pomoshchiu-chipa-na-nogte-novaia-tekhnologiia-ot-ba-69f0b8c2ba7bb18a.webp",
    "image_w": 680,
    "image_h": 374
@@ -15475,7 +15657,7 @@
      "body_sha256": "72003a562a0010f13d8b66b49be417e7cc44f1b60ac311b5fc17f3c56b2fd127"
     }
    },
-   "rank": 60.217,
+   "rank": 59.41,
    "image_url": "https://img.24n.cz/p/2026/10/iurist-iz-brno-napal-na-sotrudnika-punkta-vydachi-iz-za-posy-20acd3aec052cfe1.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15676,7 +15858,7 @@
      "body_sha256": "9a8b304a2501d779e2bb1f83ec9c31621352146dc1b3ad05efd07dd3cb4a1505"
     }
    },
-   "rank": 59.66,
+   "rank": 58.839,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -15850,7 +16032,7 @@
      "body_sha256": "7f96604440f880b111affea914fdce7bf6e37dbac0ccae40109e2745ade6ac6f"
     }
    },
-   "rank": 52.97,
+   "rank": 52.24,
    "sources": [
     {
      "domain": "prahanadlani.cz",
@@ -16021,7 +16203,7 @@
      "body_sha256": "d25f26efb0eb7dacf2c7f9ba1ae6e3f5f601a11d7e55bf3d354402f4fbf91c26"
     }
    },
-   "rank": 61.333,
+   "rank": 60.488,
    "sources": [
     {
      "domain": "sport.aktualne.cz",
@@ -16216,7 +16398,7 @@
      "body_sha256": "4cdf12f3f426e9bee544f0d1c31aabbcdfc58cc8611ca4158e554c9d1b199c01"
     }
    },
-   "rank": 54.085,
+   "rank": 53.34,
    "sources": [
     {
      "domain": "eurozpravy.cz",
@@ -16403,7 +16585,7 @@
      "body_sha256": "33b9dbe2e1fbf1448f03d1c988c80f296319a14fec6242d480d077829cffb414"
     }
    },
-   "rank": 50.027,
+   "rank": 49.298,
    "image_url": "https://img.24n.cz/p/2026/10/masshtabnaia-zachistka-politsiia-raskryla-narkodilerov-v-iig-7b446dbbe7b734b2.webp",
    "image_w": 1080,
    "image_h": 810
@@ -16674,7 +16856,7 @@
      "body_sha256": "8643a25026794abedf6c7d3b3a83de1df314a866ced192a72218ce40c141d695"
     }
    },
-   "rank": 54.767,
+   "rank": 53.968,
    "sources": [
     {
      "domain": "media24.cz",
@@ -16913,7 +17095,7 @@
      "body_sha256": "7c316780e355ea6320666d1fb029c18d7d22623c90045331d74d7520a602f499"
     }
    },
-   "rank": 56.177,
+   "rank": 55.332,
    "image_url": "https://img.24n.cz/p/2026/10/kommunisty-poterpeli-sokrushitelnoe-porazhenie-na-vyborakh-fe8f740fe498dc85.webp",
    "image_w": 620,
    "image_h": 349
@@ -17163,7 +17345,7 @@
      "body_sha256": "ee3ef66e3e06c5266b0f6f22cf26c401e10ca163a4fcfb479742f69e6bd33e27"
     }
    },
-   "rank": 37.106,
+   "rank": 36.53,
    "image_url": "https://img.24n.cz/p/2026/10/nasilie-radi-opyta-i-pedokhanting-kak-meniaetsia-prestupnost-697643c0eac8bccd.webp",
    "image_w": 1200,
    "image_h": 675
@@ -17335,7 +17517,7 @@
      "body_sha256": "d90131cebe2c122391a9a1337c4eadeb13286ebb8c0324091e351310811f46a6"
     }
    },
-   "rank": 56.896,
+   "rank": 56.013,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -17629,7 +17811,7 @@
      "body_sha256": "ee6e065592107eb8ccd93f543ae7867cb961e9a8349d7653bb6d0e29bc1a4ed0"
     }
    },
-   "rank": 45.884,
+   "rank": 45.123,
    "sources": [
     {
      "domain": "prazska.drbna.cz",
@@ -17871,7 +18053,7 @@
      "body_sha256": "40775e864c042da24950301868536040d0c5c69a400f69eb46261c478b4c24f2"
     }
    },
-   "rank": 84.576,
+   "rank": 84.204,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -18164,7 +18346,7 @@
      "body_sha256": "81b197c16489e2e680db8ce4a548d23a0398e04c8a3bb7b2420b3bba18cdbfd4"
     }
    },
-   "rank": 37.592,
+   "rank": 36.924,
    "sources": [
     {
      "domain": "media24.cz",
@@ -18342,7 +18524,7 @@
      "body_sha256": "f3d29a7d9fd394eb0f5672603eab147dd03543f82bb4b56782e4716d71610953"
     }
    },
-   "rank": 50.01,
+   "rank": 49.089,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -18562,7 +18744,7 @@
      "body_sha256": "521bd08a2885a71051244d78581bacc4ecc7125d2728435a3872e215d33469a1"
     }
    },
-   "rank": 39.592,
+   "rank": 38.862,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -18737,7 +18919,7 @@
      "body_sha256": "32679a97a7417c3067457af19be9b8575e615cfa4d8ba3e21f5496e7b4bbc202"
     }
    },
-   "rank": 36.258,
+   "rank": 35.589,
    "sources": [
     {
      "domain": "mpolicie.c-budejovice.cz",
@@ -18923,7 +19105,7 @@
      "body_sha256": "f7e353403d60990e906f6187689da46d22a60306afb1084da58715da60e17a41"
     }
    },
-   "rank": 35.494,
+   "rank": 34.787,
    "sources": [
     {
      "domain": "praha13.cz",
@@ -19116,7 +19298,7 @@
      "body_sha256": "80261f54b31e703bf82a3d30249460f4761c95609b7f57839b02987c4944a4b3"
     }
    },
-   "rank": 34.336,
+   "rank": 33.652,
    "sources": [
     {
      "domain": "iliberecko.cz",
@@ -19190,8 +19372,8 @@
    ],
    "published_at": "2026-10-17T20:10:34.937738+02:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "17 октября 2026, 20:10",
@@ -19381,7 +19563,7 @@
      "body_sha256": "178516f436a651580d536048efbdd32671b77e6b06cdec30091f8df551d2da85"
     }
    },
-   "rank": 36.101,
+   "rank": 35.7,
    "sources": [
     {
      "domain": "media24.cz",
@@ -27953,7 +28135,7 @@
      "body_sha256": "54d73b0224eda18eb7cccada64533eae2329345ff1c8e8940e85982797b147e5"
     }
    },
-   "rank": 53.132,
+   "rank": 52.823,
    "sources": [
     {
      "domain": "stream.cz",
@@ -64365,157 +64547,6 @@
      512
     ]
    ]
-  },
-  {
-   "id": "n7215",
-   "slug": "novyi-volebni-model-stem-rijna-kto-lidiruet-v-chekhii",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/volby/stan-posilili-na-17-procent-ano-oslabilo-motoriste-by-se-dostali-do-snemovny.A261014_063631_domaci_ijan#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "zakon",
-    "cesko",
-    "ekonomika"
-   ],
-   "published_at": "2026-10-14T09:24:29.338229+02:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "14 октября 2026, 09:24",
-    "uk": "14 жовтня 2026, 09:24"
-   },
-   "ru": {
-    "title": "Новый volební model STEM října: кто лидирует в Чехии",
-    "lede": "В октябре движение ANO сохраняет лидерство в чешской политике, хотя его поддержка постепенно снижается. На второе место выходит движение STAN, демонстрирующее уверенный рост.",
-    "meta_description": "Свежий октябрьский volební model STEM показал расклад сил на политической сцене в Чехии. Лидирует ANO, второе место занимает STAN.",
-    "paras": [
-     "<p>Агентство STEM представило свежий volební model STEM října, отражающий актуальные настроения избирателей в Чехии. Исследование проводилось с 1 по 6 октября, в нем приняли участие 1332 респондента. Расчеты модели учитывают предполагаемую явку на уровне 65 процентов, а статистическая погрешность составляет от 1,1 до 3,3 процентного пункта в зависимости от размера политической силы.</p>",
-     "<h3>Кто побеждает в октябрьском рейтинге</h3>",
-     "<p>По данным агентства, победителю прошлых выборов по-прежнему удается удерживать первую строчку. Если бы голосование проходило в начале октября, первое место заняло бы правительственное движение ANO с результатом 31,3 процента голосов. При этом аналитики фиксируют постепенное ослабление позиций политической силы. Еще в начале года ее поддержка превышала 34 процента, а в сентябре составляла 31,1 процента.</p>",
-     "<p>Вторую позицию уверенно занимает оппозиционное движение STAN, которое продолжает набирать популярность. С показателей в 11,2 процента на прошлых выборах уровень поддержки этого движения рос от январских 12,6 процента до сентябрьских 14,8 процента и достиг нынешних 16,6 процента.</p>",
-     "<h3>Кто проходит в парламент</h3>",
-     "<p>Помимо лидеров гонки, преодолеть пятипроцентный барьер для прохода в парламент депутатов смогли бы еще три политических субъекта. Партия ODS заручилась поддержкой 11,3 процента избирателей, движение SPD получило 7,5 процента, а Пиратская партия - 7,2 процента.</p>",
-     "<p>Правительственные Motoristé набрали 4,6 процента и остановились в шаге от проходного порога. У TOP 09 результат 3,7 процента. Христианские демократы (KDU-ČSL) получили 2,5 процента, Зеленые - 2,1. Остальные политические объединения в исследовании не перешагнули двух процентов.</p>",
-     "<p>Опрос провели еще до завершения осенних муниципальных выборов. Это тоже могло сказаться на настроениях граждан. На парламентских выборах 2025 года ODS шла в составе коалиции Spolu вместе с KDU-ČSL и TOP 09, а в нынешних замерах партии оценивают по отдельности.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Кто лидирует в октябрьском опросе STEM?",
-      "a": "Первое место в модели занимает движение ANO со значительным отрывом и результатом 31,3 процента голосов."
-     },
-     {
-      "q": "Какие партии проходят в парламент по данным исследования?",
-      "a": "Пятипроцентный барьер преодолевают ANO, STAN, ODS, SPD и Пираты."
-     }
-    ],
-    "impact": "Октябрьский рейтинг агентства STEM показывает текущий сдвиг в предпочтениях избирателей, где оппозиционный STAN укрепляет позиции на втором месте, а правящее ANO теряет часть поддержки, хотя все еще сохраняет лидерство перед будущими политическими циклами.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "В октябре движение ANO занимает первое место с результатом 31,3 процента голосов, хотя его поддержка постепенно снижается.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Оппозиционное движение STAN находится на втором месте и продолжает набирать популярность, достигнув 16,6 процента поддержки.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Пятипроцентный барьер для прохода в парламент также смогли бы преодолеть партии ODS с 11,3 процента, SPD с 7,5 процента и Пиратская партия с 7,2 процента.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "96545934e637c58400e4b7161086fed9248944430c8b158e395a2316bb1f7ab1"
-    }
-   },
-   "uk": {
-    "title": "Нова модель виборів від STEM за жовтень: хто лідирує в Чехії",
-    "lede": "У жовтні рух ANO зберігає лідерство в чеській політиці, хоча його підтримка поступово знижується. На друге місце виходить рух STAN, що демонструє впевнене зростання.",
-    "meta_description": "Свіжа жовтнева модель виборів від STEM показала розклад сил на політичній сцені в Чехії. Лідирує ANO, друге місце займає STAN.",
-    "paras": [
-     "<p>Агентство STEM представило свіжу модель виборів за жовтень, яка показує актуальні настрої виборців у Чехії. Дослідження проводилося з 1 по 6 жовтня, у ньому взяли участь 1332 респонденти. Розрахунки моделі враховують очікувану явку на рівні 65 відсотків, а статистична похибка становить від 1,1 до 3,3 відсоткового пункту залежно від розміру політичної сили.</p>",
-     "<h3>Хто перемагає в жовтневому рейтингу</h3>",
-     "<p>За даними агентства, переможцю минулих виборів досі вдається утримувати першу сходинку. Якби голосування проходило на початку жовтня, перше місце зайняв би рух ANO з результатом 31,3 відсотка голосів. При цьому аналітики фіксують поступове ослаблення позицій політичної сили. Ще на початку року її підтримка перевищувала 34 відсотки, а у вересні становила 31,1 відсотка.</p>",
-     "<p>Другу позицію впевнено займає рух STAN, який продовжує набирати популярність. З показників у 11,2 відсотка на минулих виборах рівень підтримки цього руху зростав від січневих 12,6 відсотка до вересневих 14,8 відсотка і досяг нинішніх 16,6 відсотка.</p>",
-     "<h3>Хто проходить до парламенту</h3>",
-     "<p>Окрім лідерів перегонів, подолати п'ятивідсотковий бар'єр для проходу до парламенту депутатів змогли б ще три політичні суб'єкти. Партія ODS заручилася підтримкою 11,3 відсотка виборців, рух SPD отримав 7,5 відсотка, а Піратська партія - 7,2 відсотка.</p>",
-     "<p>Motoristé набрали 4,6 відсотка і зупинилися за крок від прохідного порога. У TOP 09 результат 3,7 відсотка. Християнські демократи (KDU-ČSL) отримали 2,5 відсотка, Зелені - 2,1. Решта політичних об'єднань у дослідженні не переступили двох відсотків.</p>",
-     "<p>Опитування провели ще до завершення осінніх муніципальних виборів. Це також могло позначитися на настроях громадян. На парламентських виборах 2025 року ODS йшла у складі коаліції Spolu разом з KDU-ČSL та TOP 09, а в нинішніх вимірах партії оцінюють окремо.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Хто лідирує в жовтневому опитуванні STEM?",
-      "a": "Перше місце в моделі займає рух ANO зі значним відривом і результатом 31,3 відсотка голосів."
-     },
-     {
-      "q": "Які партії проходять до парламенту за даними дослідження?",
-      "a": "П'ятивідсотковий бар'єр подолають ANO, STAN, ODS, SPD та Пірати."
-     }
-    ],
-    "impact": "Октябрьский рейтинг агентства STEM показывает текущий сдвиг в предпочтениях избирателей, где оппозиционный STAN укрепляет позиции на втором месте, а правящее ANO теряет часть поддержки, хотя все еще сохраняет лидерство перед будущими политическими циклами.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Рух ANO у жовтні зберігає перше місце з результатом 31,3 відсотка голосів, хоча на початку року його підтримка перевищувала 34 відсотки.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Рух STAN упевнено займає другу позицію з показником 16,6 відсотка підтримки.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Окрім лідерів, до парламенту змогли б пройти ODS з 11,3 відсотка, SPD з 7,5 відсотка та Піратська партія з 7,2 відсотка.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "96fe61baa6b858810cad8be3cb6b95ecd9797aed6af535211aa54bba8dbc1b2d"
-    }
-   },
-   "rank": 35.525,
-   "sources": [
-    {
-     "domain": "zpravy.aktualne.cz",
-     "official": false,
-     "url": "https://zpravy.aktualne.cz/domaci/volby-by-vyhralo-ano-o-druhou-pricku-se-deli-ods-a-stan/r~aaa29fcc1f994a13a4d3b9534d522f00/",
-     "title": "Volby by vyhrálo ANO, o druhou příčku se dělí ODS a STAN – Aktuálně.cz"
-    },
-    {
-     "domain": "newstream.cz",
-     "official": false,
-     "url": "https://www.newstream.cz/politika/volby-by-ted-vyhralo-ano-jediny-stan-si-polepsil",
-     "title": "Volby by vyhrálo ANO, Motoristé by byli bez poslanců | Newstream"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 2,
-   "image_url": "https://img.24n.cz/p/2026/10/novyi-volebni-model-stem-rijna-kto-lidiruet-v-chekhii-9c63e3d24d3324eb.webp",
-   "image_w": 660,
-   "image_h": 440
   }
  ]
 }
