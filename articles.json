@@ -1,8 +1,209 @@
 {
- "updated_at": "2026-10-29T05:45:02+00:00",
+ "updated_at": "2026-10-29T06:16:43+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n7987",
+   "slug": "cheshskii-predprinimatel-zapustil-servis-matevolno",
+   "source": "cc.cz",
+   "original_url": "https://cc.cz/covid-mu-odstrihl-byznys-ale-dotahl-ho-k-exitu-ted-uz-ma-novy-projekt-nabizi-last-minute-chalupy/",
+   "top": false,
+   "tags": [
+    "it",
+    "ekonomika",
+    "cesko"
+   ],
+   "published_at": "2026-10-29T07:16:42.317124+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "29 октября 2026, 07:16",
+    "uk": "29 жовтня 2026, 07:16"
+   },
+   "ru": {
+    "title": "Чешский предприниматель запустил сервис MáteVolno",
+    "lede": "Основатель сервиса по поиску бригадиров Grason Karel Mařík после продажи своей доли инвесторам представил новый стартап. Платформа MáteVolno.cz помогает бронировать загородное жилье на последнюю минуту со скидкой.",
+    "meta_description": "Чешский предприниматель Karel Mařík после выхода из стартапа Grason запустил проект MáteVolno для бронирования загородного жилья со скидкой на последнюю…",
+    "paras": [
+     "Шестидесятилетний предприниматель и создатель известного приложения для поиска персонала Grason Karel Mařík продал свой оставшийся пакет акций группе Miton. После этого он запустил новый проект MáteVolno.cz, который специализируется на бронировании коттеджей, срубов и глэмпингов в самый последний момент.",
+     "По словам основателя, идея нового бизнеса выросла из личного опыта управления несколькими объектами недвижимости вместе с партнеркой Klárou Honzíkovou. Вечерами им часто поступали спонтанные запросы от путешественников, пытавшихся найти свободные места на ближайшие дни.",
+     "<h3>Как устроен проект MáteVolno</h3>",
+     "Новая платформа показывает только свободные даты на ближайшие четырнадцать дней. При этом арендодатели обязаны делать скидку минимум в двадцать процентов, а в некоторых случаях стоимость падает наполовину.",
+     "В настоящее время на портале зарегистрировано свыше 350 различных объектов, включая шале и палатки для глэмпинга. До конца года Karel Mařík планирует расширить базу до пяти сотен мест.",
+     "<h3>Путь от Grason к новой идее</h3>",
+     "Проект Grason был запущен в 2018 году вместе с Jarmilou Kowolowská. Приложение предлагало строгие правила для работников ресторанов, благодаря чему неявка на смену составляла всего три с половиной процента против стандартных для рынка показателей.",
+     "Во время пандемии коронавируса сервис столкнулся с серьезными трудностями, но инвесторы из группы Miton помогли проекту выстоять. Позднее бизнес вошел в структуру Piano, объединившую несколько гастрономических проектов.",
+     "Платформа MáteVolno.cz создается силами всего двух человек с активным использованием искусственного интеллекта. В будущем автор рассчитывает масштабировать проект и подключить к нему отели по аналогии с известными международными сервисами."
+    ],
+    "faq": [
+     {
+      "q": "Что представляет собой платформа MáteVolno?",
+      "a": "Это чешский онлайн-сервис для бронирования загородного жилья на последние дни со скидками, запущенный в январе 2025 года."
+     },
+     {
+      "q": "Кто создал новый проект?",
+      "a": "Платформу разработал предприниматель Karel Mařík после продажи своей доли в приложении Grason группе Miton."
+     },
+     {
+      "q": "Какие скидки предлагают пользователям?",
+      "a": "Арендодатели обязаны устанавливать скидку не менее двадцати процентов, а в отдельных случаях цены снижаются вполовину."
+     }
+    ],
+    "impact": "Новый сервис позволяет путешественникам в Чехии бронировать загородное жилье со скидкой от 20% на ближайшие две недели, а владельцам объектов - быстро заполнять пустующие ночи.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Karel Mařík продал оставшийся пакет акций Grason группе Miton и после этого запустил проект MáteVolno.cz.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Платформа показывает только свободные даты на ближайшие четырнадцать дней, а арендодатели обязаны давать скидку минимум в двадцать процентов.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Сейчас на портале зарегистрировано свыше 350 объектов, а до конца года Karel Mařík планирует расширить базу до пяти сотен мест.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Платформа создается силами всего двух человек с активным использованием искусственного интеллекта.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "глэмпингов",
+       "definition": "Глэмпинг — вид отдыха на природе в палатках или иных сооружениях с комфортом; в тексте такие объекты тоже можно бронировать на платформе.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "глэмпинга",
+       "definition": "Глэмпинг — отдых на природе в палатках с удобствами; среди объектов на портале есть и палатки для глэмпинга.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "c9f84af0aa0d8c945c8f91be02767e64c7f158c05621464347fe09e65f4704c6"
+    }
+   },
+   "uk": {
+    "title": "Чеський підприємець запустив сервіс MáteVolno",
+    "lede": "Засновник сервісу з пошуку бригадирів Grason Karel Mařík після продажу своєї частки інвесторам представив новий стартап. Платформа MáteVolno.cz допомагає бронювати заміське житло в останню мить зі знижкою.",
+    "meta_description": "Чеський підприємець Karel Mařík після виходу зі стартапу Grason запустив проєкт MáteVolno для бронювання заміського житла зі знижкою в останню мить.",
+    "paras": [
+     "Шістдесятирічний підприємець і творець відомого застосунку для пошуку персоналу Grason Karel Mařík продав свій залишковий пакет акцій групі Miton. Після цього він запустив новий проєкт MáteVolno.cz, який спеціалізується на бронюванні котеджів, зрубів і глемпінгів в останню мить.",
+     "За словами засновника, ідея нового бізнесу виросла з особистого досвіду управління кількома об'єктами нерухомості разом з партнеркою Klára Honzíková. Вечорами їм часто надходили спонтанні запити від мандрівників, які намагалися знайти вільні місця на найближчі дні.",
+     "<h3>Як влаштований проєкт MáteVolno</h3>",
+     "Нова платформа показує лише вільні дати на найближчі чотирнадцять днів. При цьому орендодавці зобов'язані робити знижку щонайменше у двадцять відсотків, а в деяких випадках вартість падає наполовину.",
+     "Наразі на порталі зареєстровано понад 350 різних об'єктів, зокрема шале й намети для глемпінгу. До кінця року Karel Mařík планує розширити базу до п'яти сотень місць.",
+     "<h3>Шлях від Grason до нової ідеї</h3>",
+     "Проєкт Grason було запущено у 2018 році разом з Jarmila Kowolowská. Застосунок пропонував суворі правила для працівників ресторанів, завдяки чому неявка на зміну становила лише три з половиною відсотка проти стандартних для ринку показників.",
+     "Під час пандемії коронавірусу сервіс зіткнувся з серйозними труднощами, але інвестори з групи Miton допомогли проєкту вистояти. Пізніше бізнес увійшов до структури Piano, яка об'єднала кілька гастрономічних проєктів.",
+     "Платформу MáteVolno.cz створюють силами всього двох людей з активним використанням штучного інтелекту. У майбутньому автор розраховує масштабувати проєкт і підключити до нього готелі за аналогією з відомими міжнародними сервісами."
+    ],
+    "faq": [
+     {
+      "q": "Що являє собою платформа MáteVolno?",
+      "a": "Це чеський онлайн-сервіс для бронювання заміського житла на останні дні зі знижками, запущений у січні 2025 року."
+     },
+     {
+      "q": "Хто створив новий проєкт?",
+      "a": "Платформу розробив підприємець Karel Mařík після продажу своєї частки в застосунку Grason групі Miton."
+     },
+     {
+      "q": "Які знижки пропонують користувачам?",
+      "a": "Орендодавці зобов'язані встановлювати знижку не менше двадцяти відсотків, а в окремих випадках ціни знижуються наполовину."
+     }
+    ],
+    "impact": "Новый сервис позволяет путешественникам в Чехии бронировать загородное жилье со скидкой от 20% на ближайшие две недели, а владельцам объектов - быстро заполнять пустующие ночи.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Karel Mařík продав залишковий пакет акцій Grason групі Miton і після цього запустив MáteVolno.cz для бронювання житла в останню мить.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Платформа показує лише вільні дати на найближчі чотирнадцять днів, а орендодавці мають давати знижку щонайменше 20 відсотків.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Зараз на порталі понад 350 об'єктів, а до кінця року засновник планує розширити базу до п'яти сотень місць.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Платформу створюють двоє людей з активним використанням штучного інтелекту.",
+       "target": {
+        "block": 9,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "глемпінгів",
+       "definition": "Різновид заміського житла для відпочинку, який згадується серед об'єктів бронювання на платформі.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "fa53321deee1bd60591b87906ee523763732a0350a070eb8a91cfdcf1dbf2463"
+    }
+   },
+   "rank": 90.0,
+   "image_url": "https://img.24n.cz/p/2026/10/cheshskii-predprinimatel-zapustil-servis-matevolno-81fe73b29a97e5be.webp",
+   "images": [
+    "https://img.24n.cz/p/2026/10/cheshskii-predprinimatel-zapustil-servis-matevolno-e322c3df9c45a917.webp"
+   ],
+   "photo_spots": [
+    {
+     "url": "https://img.24n.cz/p/2026/10/cheshskii-predprinimatel-zapustil-servis-matevolno-e322c3df9c45a917.webp",
+     "after": 2,
+     "caption": "Мужчина и женщина стоят в кафе, на фоне доска с надписями"
+    }
+   ],
+   "image_w": 1600,
+   "image_h": 1000,
+   "images_wh": [
+    [
+     1600,
+     1067
+    ]
+   ]
+  },
   {
    "id": "n7986",
    "slug": "starosta-orlovoi-izbavilas-ot-stroitelnoi-firmy-posle-zakazov",
@@ -16,8 +217,8 @@
    ],
    "published_at": "2026-10-29T06:45:01.457448+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "29 октября 2026, 06:45",
@@ -883,8 +1084,8 @@
    ],
    "published_at": "2026-10-29T05:10:51.763765+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 05:10",
@@ -1063,8 +1264,8 @@
    ],
    "published_at": "2026-10-29T05:10:51.763765+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 05:10",
@@ -1364,8 +1565,8 @@
    ],
    "published_at": "2026-10-29T05:10:51.763765+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 05:10",
@@ -1570,8 +1771,8 @@
    ],
    "published_at": "2026-10-29T04:05:30.014437+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 04:05",
@@ -1735,7 +1936,7 @@
      "body_sha256": "f5443925da8170fae0e316ceac5aa9c524d3735c3c8bf3b78c7ff145eb74e775"
     }
    },
-   "rank": 100.0,
+   "rank": 99.73,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -1775,8 +1976,8 @@
    ],
    "published_at": "2026-10-29T03:03:52.915595+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 03:03",
@@ -1974,7 +2175,7 @@
      "body_sha256": "c10bc71a31f689ad17ec23ab7bd4018f81b3ce4089e99db66018c26a95610f2a"
     }
    },
-   "rank": 113.861,
+   "rank": 112.984,
    "sources": [
     {
      "domain": "europesays.com",
@@ -2014,8 +2215,8 @@
    ],
    "published_at": "2026-10-29T02:01:21.176878+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 02:01",
@@ -2265,7 +2466,7 @@
      "body_sha256": "c39ac946ee4b9b773379e46c5f767740e6bd4ae34e6a33666c8b2a96dd5b3293"
     }
    },
-   "rank": 116.03,
+   "rank": 115.122,
    "sources": [
     {
      "domain": "firkusny.cz",
@@ -2464,7 +2665,7 @@
      "body_sha256": "408ebea42f9d1d592204df2dafd90bd7543f7ec999a9dcb088a16578d7d95ad6"
     }
    },
-   "rank": 82.241,
+   "rank": 81.593,
    "image_url": "https://img.24n.cz/p/2026/10/uborka-ulits-v-prage-daet-bezdomnym-shans-na-novuiu-zhizn-21893d78649bb658.webp",
    "image_w": 600,
    "image_h": 315
@@ -2705,7 +2906,7 @@
      "body_sha256": "88d7dc349e4743d87b48af92bac2b278e05202d81cee493c3abc87045bada642"
     }
    },
-   "rank": 87.079,
+   "rank": 86.392,
    "image_url": "https://img.24n.cz/p/2026/10/polnoe-zakrytie-sitensky-most-v-kladno-obezdy-i-sroki-d3626f924028c371.webp",
    "image_w": 1600,
    "image_h": 1200
@@ -2865,7 +3066,7 @@
      "body_sha256": "4c3037074a6a9da6186783b7713c6364ea33dde586c4c5ddc08c1f6a45b7679e"
     }
    },
-   "rank": 111.267,
+   "rank": 110.39,
    "image_url": "https://img.24n.cz/p/2026/10/instagram-bezopasnost-detei-suitsid-v-britanskom-kino-d017996cb54c27ba.webp",
    "image_w": 1200,
    "image_h": 675
@@ -3047,7 +3248,7 @@
      "body_sha256": "3bd6dd0ebc87422cd2f7520d9dd5fb66f409745d113f759824289c10461d6cbb"
     }
    },
-   "rank": 106.43,
+   "rank": 105.591,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -3087,8 +3288,8 @@
    ],
    "published_at": "2026-10-29T00:58:10.010550+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 00:58",
@@ -3873,7 +4074,7 @@
      "body_sha256": "f3a61169a2692b65dcccf2169a0bdd2f7781f18d1e069f446d11a613ff4ed1b2"
     }
    },
-   "rank": 80.936,
+   "rank": 80.288,
    "image_url": "https://img.24n.cz/p/2026/10/micro-udobnyi-tekstovyi-redaktor-dlia-linux-s-podderzhkoi-my-c4159e00c99f398a.webp",
    "video": {
     "kind": "iframe",
@@ -4077,7 +4278,7 @@
      "body_sha256": "cdf18138d493f6869fba17e91fca0b5c8afa5c8fa3a77a3d144308376f5fbaf5"
     }
    },
-   "rank": 95.219,
+   "rank": 94.456,
    "sources": [
     {
      "domain": "twistedvoxel.com",
@@ -4113,8 +4314,8 @@
    ],
    "published_at": "2026-10-28T23:52:13.187460+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 23:52",
@@ -4316,7 +4517,7 @@
      "body_sha256": "d2994a42c638e07cef3a0e912a0854cec32688286dbb5e7568c405dbabc4b6e4"
     }
    },
-   "rank": 80.236,
+   "rank": 79.588,
    "image_url": "https://img.24n.cz/p/2026/10/biznesmen-bez-opyta-stroit-v-jizera-gorakh-shale-na-meste-sg-73c1a547f0c478b2.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -4543,7 +4744,7 @@
      "body_sha256": "f8494a65bedb961a2d93bab6e6db58c091e6b380d6b790877468b29e192ceed3"
     }
    },
-   "rank": 70.199,
+   "rank": 69.627,
    "sources": [
     {
      "domain": "atlas.centrum.cz",
@@ -4768,7 +4969,7 @@
      "body_sha256": "f0558c69e207712ff15389c0e635877e99e6fda7ea0b21ff17b042a917512abf"
     }
    },
-   "rank": 112.318,
+   "rank": 111.403,
    "image_url": "https://img.24n.cz/p/2026/10/prezident-chekhii-posmertno-nagradil-legendarnuiu-vera-casla-1963361cdd978c8e.webp",
    "image_w": 800,
    "image_h": 450
@@ -4785,8 +4986,8 @@
    ],
    "published_at": "2026-10-28T22:14:36.770004+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 22:14",
@@ -4943,7 +5144,7 @@
      "body_sha256": "733769256235b01c04b5464578dbaaee9bce994444de5db0ed394ce5702e39ea"
     }
    },
-   "rank": 105.852,
+   "rank": 104.975,
    "image_url": "https://img.24n.cz/p/2026/10/prezident-pavel-dolgi-za-komfort-segodnia-oplatiat-deti-zavt-338ad9ae659fca8d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -5096,7 +5297,7 @@
      "body_sha256": "a09c00962273eaf80755dbc8e645590b5694a71277e081467a5640d725039364"
     }
    },
-   "rank": 86.742,
+   "rank": 86.017,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-prezident-nagradil-metsenatov-vlckovi-za-pomoshch-529831662db4c36f.webp",
    "image_w": 620,
    "image_h": 349
@@ -5249,7 +5450,7 @@
      "body_sha256": "a6c55dde8d1745c9dce28352f5a6cc14a36fbbbe1f019d3fcd753c37e5dfd32c"
     }
    },
-   "rank": 94.959,
+   "rank": 94.166,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -5441,7 +5642,7 @@
      "body_sha256": "c8e73314645d98e7554ef916ac61df8f70e34047b9b6b04193ae1576bcb6735e"
     }
    },
-   "rank": 109.569,
+   "rank": 108.653,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/Tyu2-wJxSt0"
@@ -5459,8 +5660,8 @@
    ],
    "published_at": "2026-10-28T21:12:32.269396+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 21:12",
@@ -5634,7 +5835,7 @@
      "body_sha256": "b5f4f94a8e262300ccbb99dcf4861497a0424aba2fc6c4cda23cab6084d60e4e"
     }
    },
-   "rank": 110.472,
+   "rank": 109.542,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -5660,8 +5861,8 @@
    ],
    "published_at": "2026-10-28T21:00:29.047562+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 21:00",
@@ -5701,7 +5902,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 75.819
+   "rank": 75.178
   },
   {
    "id": "n7960",
@@ -5866,7 +6067,7 @@
      "body_sha256": "b0e2754e3005098eb4183fea8d098561f96895c48b79240222a7813daef6c501"
     }
    },
-   "rank": 78.615,
+   "rank": 77.936,
    "sources": [
     {
      "domain": "radiotv.cz",
@@ -6153,7 +6354,7 @@
      "body_sha256": "c4ed4df167f7b14c55b27716dc3f0b92a9d4a3bd750f535699838a792f17f7e0"
     }
    },
-   "rank": 97.165,
+   "rank": 96.326,
    "image_url": "https://img.24n.cz/p/2026/10/kompaniia-apple-vpervye-predstavila-macbook-pro-s-sensornym-c765c9e9cf1f10c6.webp",
    "video": {
     "kind": "iframe",
@@ -6174,8 +6375,8 @@
    ],
    "published_at": "2026-10-28T19:08:08.215215+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 19:08",
@@ -6328,7 +6529,7 @@
      "body_sha256": "3d14d5963ef486c30d320727d963fdd1afdf4abf23ba468f063c936558b1c849"
     }
    },
-   "rank": 100.689,
+   "rank": 99.812,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -6383,8 +6584,8 @@
    ],
    "published_at": "2026-10-28T19:08:08.215215+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 19:08",
@@ -6537,7 +6738,7 @@
      "body_sha256": "515a644d2bfe1729e453da53ea8ceddef615e713f13103bc50b9511a39b8caa4"
     }
    },
-   "rank": 51.658,
+   "rank": 51.208,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -6591,8 +6792,8 @@
    ],
    "published_at": "2026-10-28T19:08:08.215215+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 19:08",
@@ -6793,7 +6994,7 @@
      "body_sha256": "d4d3a0c282aaeac4fd37b2db8e3214a1e0bf02ed26e32c643bfdd9fc823e3cde"
     }
    },
-   "rank": 100.689,
+   "rank": 99.812,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -7085,7 +7286,7 @@
      "body_sha256": "ce703265ef1c9f3da08fbacbeec8c8ca1d8ee3b0463d52f914807c348c513376"
     }
    },
-   "rank": 98.872,
+   "rank": 98.003,
    "sources": [
     {
      "domain": "rockcellarmagazine.com",
@@ -7162,7 +7363,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 71.094,
+   "rank": 70.468,
    "forecast": true
   },
   {
@@ -7178,8 +7379,8 @@
    ],
    "published_at": "2026-10-28T18:03:13.766893+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 18:03",
@@ -7353,7 +7554,7 @@
      "body_sha256": "981127c28d641b47df83757b7c6cd6f79bab3557dc9a2159cafbe25e4cb0dfde"
     }
    },
-   "rank": 96.313,
+   "rank": 95.459,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -7582,7 +7783,7 @@
      "body_sha256": "ddf12622901dd0cd294d2564e3e2e5ef3fb2343efd31f1a530d4e9ab254479d1"
     }
    },
-   "rank": 97.977
+   "rank": 97.1
   },
   {
    "id": "n7951",
@@ -7597,8 +7798,8 @@
    ],
    "published_at": "2026-10-28T16:59:42.564916+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 16:59",
@@ -7796,7 +7997,7 @@
      "body_sha256": "1d9011e029fec669da74f2810659221ec981b98eaa9ab3fdabdd1a5e91ca8c0e"
     }
    },
-   "rank": 100.513,
+   "rank": 99.605,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -7865,8 +8066,8 @@
    ],
    "published_at": "2026-10-28T16:59:42.564916+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 16:59",
@@ -8156,7 +8357,7 @@
      "body_sha256": "ef696d95afaf22b9eaf248b9e53c4cb02d5f4a875b7d0b8ff3d280929beec1ae"
     }
    },
-   "rank": 88.688
+   "rank": 87.887
   },
   {
    "id": "n7949",
@@ -8171,8 +8372,8 @@
    ],
    "published_at": "2026-10-28T16:59:42.564916+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 16:59",
@@ -8324,7 +8525,7 @@
      "body_sha256": "4faf6f66e60eabca4b26605cafe36686ba2c07d2adf80cd776de0d2003f9ab95"
     }
    },
-   "rank": 54.902
+   "rank": 54.406
   },
   {
    "id": "n7948",
@@ -8485,7 +8686,7 @@
      "body_sha256": "b4bf96ed8eadc72d2e7b5e42a35b1c1f8d23d97ff5e6a8aa9a0b5d090225a97a"
     }
    },
-   "rank": 75.213,
+   "rank": 74.527,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-13-masshtabnaia-rekonstruktsiia-preobrazit-panskuiu-7b984850cf97d8f5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-13-masshtabnaia-rekonstruktsiia-preobrazit-panskuiu-e3b3db97d58bbec9.webp"
@@ -8519,8 +8720,8 @@
    ],
    "published_at": "2026-10-28T15:50:59.634281+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 15:50",
@@ -8714,7 +8915,7 @@
      "body_sha256": "2f6501fcc66aaae9c011c17390542e0e2749f342cbc7a069504913242ec25fc7"
     }
    },
-   "rank": 86.122,
+   "rank": 85.329,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -8898,7 +9099,7 @@
      "body_sha256": "d65943bc6e3868c67cab7d39fc3ed343c7bf74c963b09d8d16ba0f3cdb32c8c6"
     }
    },
-   "rank": 86.116,
+   "rank": 85.315,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -8938,8 +9139,8 @@
    ],
    "published_at": "2026-10-28T14:47:22.648142+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 14:47",
@@ -9152,7 +9353,7 @@
      "body_sha256": "e04c0f2e97f56ee42d50bc6c9b34857075d5b71e8239bb2c3b0b9732401a25ea"
     }
    },
-   "rank": 65.023,
+   "rank": 64.413,
    "image_url": "https://img.24n.cz/p/2026/10/la-fabrika-zavershaet-god-iarkimi-premerami-i-kontsertami-e07406bbd0a1d8b5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/la-fabrika-zavershaet-god-iarkimi-premerami-i-kontsertami-3eeffff6940e95c3.webp",
@@ -9375,7 +9576,7 @@
      "body_sha256": "34087d5b43c6b5202c79c7013be2090d4e2f415c68431dce88493cf1e7011a33"
     }
    },
-   "rank": 52.366,
+   "rank": 51.87,
    "image_url": "https://img.24n.cz/p/2026/10/otkaz-v-uchebe-privel-ee-v-kafe-i-k-brendu-dorogikh-ukrashen-7a183817780b41fd.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/otkaz-v-uchebe-privel-ee-v-kafe-i-k-brendu-dorogikh-ukrashen-4b89168a2796f3da.webp"
@@ -9673,7 +9874,7 @@
      "body_sha256": "516fd8240d93a072e516a2c4dcd0f10f32fba4b3fb8bd4408800c4b10badc4e9"
     }
    },
-   "rank": 68.478
+   "rank": 67.83
   },
   {
    "id": "n7942",
@@ -9897,7 +10098,7 @@
      "body_sha256": "30916d62145df32c5f3f57750fd087b3e101eeff56332d419dbabcf80b7b0abc"
     }
    },
-   "rank": 84.591,
+   "rank": 83.79,
    "sources": [
     {
      "domain": "media24.cz",
@@ -10095,7 +10296,7 @@
      "body_sha256": "dcd2bcab8bddaa2c7d6c6df65e4571fa53de083b34f0127bc124c94d04297ec7"
     }
    },
-   "rank": 74.264,
+   "rank": 73.539,
    "image_url": "https://img.24n.cz/p/2026/10/premer-ministr-chekhii-i-uroki-prava-chto-skazat-studentam-o-ce426cf00ef73bb3.webp",
    "image_w": 1200,
    "image_h": 674
@@ -10263,7 +10464,7 @@
      "body_sha256": "f446f70c0b87ac39a49b620798dcba36d9f306be9a7235a2fb8c6079b218c743"
     }
    },
-   "rank": 62.538,
+   "rank": 61.928,
    "image_url": "https://img.24n.cz/p/2026/10/v-zline-reshaiut-kakoi-budet-novaia-koalitsiia-21-golos-ili-067a4774e6a5a129.webp",
    "image_w": 620,
    "image_h": 349
@@ -10451,7 +10652,7 @@
      "body_sha256": "05d695457b11fd940bbbb7c78e5a04645ea349a0b2c7cd6c70db63c70e3e8e17"
     }
    },
-   "rank": 62.538,
+   "rank": 61.928,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-otkryvaetsia-novyi-iaponskii-restoran-s-firmennymi-s-445b94418914a83d.webp",
    "image_w": 1600,
    "image_h": 901
@@ -10629,7 +10830,7 @@
      "body_sha256": "45a1a32d8c7e6e7042f685f9f6e13124a99692e81104affede4b960c27d78cce"
     }
    },
-   "rank": 79.736,
+   "rank": 78.958,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -10661,8 +10862,8 @@
    ],
    "published_at": "2026-10-28T12:06:43.668195+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 12:06",
@@ -10988,7 +11189,7 @@
      "body_sha256": "5dbe29606a4f31bdde1c0a3dbde780270a3b6b7c0704fef78382fbe3855881bd"
     }
    },
-   "rank": 77.411,
+   "rank": 76.648,
    "image_url": "https://img.24n.cz/p/2026/10/zimnie-shiny-v-chekhii-pravila-shtrafy-i-tseny-na-sezon-2026-5bcd8e969c0335f0.webp",
    "image_w": 1366,
    "image_h": 910
@@ -11205,7 +11406,7 @@
      "body_sha256": "d0a1dfe746f40f258bd07caced0403562773aa96961a2f35d13130c2549b45af"
     }
    },
-   "rank": 69.037,
+   "rank": 68.35,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskie-birzhi-truda-massovo-perekladyvaiut-klientov-na-nk-2ceda7eb799fb1b7.webp",
    "image_w": 1200,
    "image_h": 674
@@ -11403,7 +11604,7 @@
      "body_sha256": "d0cd90d83736b34c57bf1d46baf1ce8a7d01c76dcf9c37cec67e2298ce69c879"
     }
    },
-   "rank": 90.487,
+   "rank": 90.153,
    "image_url": "https://img.24n.cz/p/2026/10/parlament-chekhii-zapreshchaet-semku-bez-analiza-riskov-chto-23facae908ad1f16.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/parlament-chekhii-zapreshchaet-semku-bez-analiza-riskov-chto-fbf93b9fa59db9c8.webp",
@@ -11617,7 +11818,7 @@
      "body_sha256": "56e3852b3325d76156da059ad3809d351ee3cc089f6edd678c1868e33fadee2b"
     }
    },
-   "rank": 69.037,
+   "rank": 68.35,
    "image_url": "https://img.24n.cz/p/2026/10/voditel-skoda-vrezalas-v-zabor-u-prazhskogo-aeroporta-72484d5e773666ec.webp",
    "image_w": 1200,
    "image_h": 800
@@ -11635,8 +11836,8 @@
    ],
    "published_at": "2026-10-28T11:03:46.004248+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:03",
@@ -11866,7 +12067,7 @@
      "body_sha256": "cf0b7f085136c4d18016a778b590f7fe7a720537e3a856207f40da67f0581d1d"
     }
    },
-   "rank": 102.459,
+   "rank": 101.429,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -11906,8 +12107,8 @@
    ],
    "published_at": "2026-10-28T11:03:46.004248+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:03",
@@ -12078,7 +12279,7 @@
      "body_sha256": "a697f52e3216b4459e25dbf3e5ba66bbb8503f35e081a70be85448531734a303"
     }
    },
-   "rank": 77.413,
+   "rank": 76.635,
    "sources": [
     {
      "domain": "inews.sk",
@@ -12101,8 +12302,8 @@
    ],
    "published_at": "2026-10-28T11:03:46.004248+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:03",
@@ -12259,7 +12460,7 @@
      "body_sha256": "33e10bba4844aa7123ace1448fab784ae5a5cdec5ccce5e04c7d36036210458c"
     }
    },
-   "rank": 85.003,
+   "rank": 84.149,
    "sources": [
     {
      "domain": "europesays.com",
@@ -12286,8 +12487,8 @@
    ],
    "published_at": "2026-10-28T11:03:46.004248+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:03",
@@ -12451,7 +12652,7 @@
      "body_sha256": "a55e92f1002f125ed8b8803013150069c89c6b6c08a702fa111ed9d0417db03e"
     }
    },
-   "rank": 79.69,
+   "rank": 78.889,
    "image_url": "https://img.24n.cz/p/2026/10/napadenie-v-plzni-zakliuchennyi-izranil-troikh-nadziratelei-4b716e373cc46575.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12468,8 +12669,8 @@
    ],
    "published_at": "2026-10-28T10:01:05.782630+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "28 октября 2026, 10:01",
@@ -12671,7 +12872,7 @@
      "body_sha256": "f11f08237a3d2b553bcee9c7c23466d120ef94122e241073fba5d74c4bfd3a64"
     }
    },
-   "rank": 85.545,
+   "rank": 84.667,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -12697,8 +12898,8 @@
    ],
    "published_at": "2026-10-28T10:01:05.782630+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "28 октября 2026, 10:01",
@@ -12913,7 +13114,7 @@
      "body_sha256": "130ac89bae06fd511259b139ed2ad53d4cb9766d13c5c7eb13e8bf4cb6a17ae9"
     }
    },
-   "rank": 78.106,
+   "rank": 77.305,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-diaspora-v-chikago-chto-ostalos-ot-istorii-2916c58a6817e8ad.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13110,7 +13311,7 @@
      "body_sha256": "95105256d8bf177f5cd5624d3578b4c64363800fa26c13779b871429b48dfc13"
     }
    },
-   "rank": 55.224
+   "rank": 54.652
   },
   {
    "id": "n7926",
@@ -13293,7 +13494,7 @@
      "body_sha256": "fbb0c7e9b5e3c4cadfabfb8f8b34fc1c8f7bd376bc4c5ee823619381b7a644e7"
     }
    },
-   "rank": 44.179,
+   "rank": 43.721,
    "image_url": "https://img.24n.cz/p/2026/10/gulliverovy-cesty-vyroci-znamenityi-roman-otmechaet-vek-9690110395640939.jpeg",
    "image_w": 630,
    "image_h": 350
@@ -13310,8 +13511,8 @@
    ],
    "published_at": "2026-10-28T08:55:20.567868+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 08:55",
@@ -13476,7 +13677,7 @@
      "body_sha256": "d6c40902d89d5804062d5537a829c903011332bc3ebb160ae78da3044a078037"
     }
    },
-   "rank": 58.243,
+   "rank": 57.633,
    "image_url": "https://img.24n.cz/p/2026/10/v-cheshskie-kinoteatry-vykhodit-epicheskaia-ramaiana-rozhden-c2e5aded0731f537.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-cheshskie-kinoteatry-vykhodit-epicheskaia-ramaiana-rozhden-6ba5d3fdc1676234.webp",
@@ -13519,8 +13720,8 @@
    ],
    "published_at": "2026-10-28T08:55:20.567868+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 08:55",
@@ -13714,7 +13915,7 @@
      "body_sha256": "495aefc57b24553f817118891810994465d719f4bc0cb50cd2cf4cf54c1bce87"
     }
    },
-   "rank": 69.163,
+   "rank": 68.439,
    "image_url": "https://img.24n.cz/p/2026/10/tiche-propousteni-v-praci-6-priznakov-skrytogo-uvolneniia-b2246ceaeaaca07e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13732,8 +13933,8 @@
    ],
    "published_at": "2026-10-28T08:55:20.567868+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 08:55",
@@ -14006,7 +14207,7 @@
      "body_sha256": "f7bd4864b79674fdc9ac0a23a12173dfb08b512aeb9c40b1a1ee3a751c2627e2"
     }
    },
-   "rank": 88.775,
+   "rank": 88.441,
    "sources": [
     {
      "domain": "zdravotnickydenik.cz",
@@ -14220,7 +14421,7 @@
      "body_sha256": "b4764b81b4e89b521b892063e1c50e3fe3a0ce77df98b94eafb03a253643d2a9"
     }
    },
-   "rank": 82.823,
+   "rank": 81.946,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -14263,8 +14464,8 @@
    ],
    "published_at": "2026-10-28T07:50:18.487546+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 07:50",
@@ -14428,7 +14629,7 @@
      "body_sha256": "ab17cd5272b831fc33cbefde08102468e4933ea34e0abd22b77c8b6ec3c5927c"
     }
    },
-   "rank": 56.99
+   "rank": 56.38
   },
   {
    "id": "n7920",
@@ -14443,8 +14644,8 @@
    ],
    "published_at": "2026-10-28T07:50:18.487546+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 07:50",
@@ -14717,7 +14918,7 @@
      "body_sha256": "e799435ac580464d733cfdde18932ee5b5ce18aeebe64658a7d642e9aebb1937"
     }
    },
-   "rank": 60.552,
+   "rank": 59.904,
    "image_url": "https://img.24n.cz/p/2026/10/halloween-zlute-lazne-praha-predlozhit-detiam-kvesty-d9897ce0e2bf3c6a.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/halloween-zlute-lazne-praha-predlozhit-detiam-kvesty-c20b8849a4eac1ff.webp"
@@ -14971,7 +15172,7 @@
      "body_sha256": "f6ffeddefd5304d5bc54bceffd57bd5fe35cbb43a4c5febd8f783d835873f386"
     }
    },
-   "rank": 63.396,
+   "rank": 62.71,
    "image_url": "https://img.24n.cz/p/2026/10/pochemu-vitse-prezident-soiuza-promyshlennosti-ezdit-na-tesl-d84b01b9d37467c6.webp",
    "video": {
     "kind": "iframe",
@@ -15143,7 +15344,7 @@
      "body_sha256": "2cc08723f894e7221ba2b6ab81255bf3d50ecb35f215bc37f18de81237aaebbf"
     }
    },
-   "rank": 81.007
+   "rank": 80.13
   },
   {
    "id": "n7917",
@@ -15427,7 +15628,7 @@
      "body_sha256": "c92bc75589720410bc3f1798570067417a5dc01273bde32e226e7290b0ba57a3"
     }
    },
-   "rank": 74.185,
+   "rank": 73.373,
    "sources": [
     {
      "domain": "media24.cz",
@@ -15593,7 +15794,7 @@
      "body_sha256": "b83d5333d6d6a6c2e1611523447693baacbc3785510c198348d3c388ee336775"
     }
    },
-   "rank": 52.707,
+   "rank": 52.096,
    "sources": [
     {
      "domain": "metro.cz",
@@ -15869,7 +16070,7 @@
      "body_sha256": "cca61001bb81f3272820b9825576e850ac9fbff645e0c4e00f97d386f2177d99"
     }
    },
-   "rank": 56.001
+   "rank": 55.352
   },
   {
    "id": "n7914",
@@ -16041,7 +16242,7 @@
      "body_sha256": "bd51ef7fe4053ba6d351c5d1bb0141974b5284ea9cddce64245f4aa977d236de"
     }
    },
-   "rank": 72.102,
+   "rank": 71.225,
    "sources": [
     {
      "domain": "ekolist.cz",
@@ -16254,7 +16455,7 @@
      "body_sha256": "af1e96b7a860ebf531a1791b0bc5e350e03f12f766a4aebe70d705f5c42320f8"
     }
    },
-   "rank": 70.221,
+   "rank": 69.366,
    "sources": [
     {
      "domain": "press.news",
@@ -16596,7 +16797,7 @@
      "body_sha256": "1594dca2b21f75d24930c8bcdd23ddd4c72917dacc52b1e040b5cc9d6fe488c3"
     }
    },
-   "rank": 58.865,
+   "rank": 58.14,
    "image_url": "https://img.24n.cz/p/2026/10/opros-po-parkovke-v-prage-4-zony-khotiat-rasshirit-d293377d541431f6.webp",
    "image_w": 1366,
    "image_h": 910
@@ -16858,7 +17059,7 @@
      "body_sha256": "2fdf9a033a9d3a01874334aea4bec0015c2191556bd45e15b4dcad3336230f5b"
     }
    },
-   "rank": 64.441,
+   "rank": 63.648,
    "sources": [
     {
      "domain": "thingstodo.cz",
@@ -17215,7 +17416,7 @@
      "body_sha256": "7d11d5713e250aa0388d77bb8daae1608604587454ca73983f89899e86eff739"
     }
    },
-   "rank": 48.945,
+   "rank": 48.335,
    "image_url": "https://img.24n.cz/p/2026/10/gravel-running-nabiraet-populiarnost-salomon-vypustil-krosso-8f7c6c4e5d5f23e3.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -17421,7 +17622,7 @@
      "body_sha256": "db058dd813e1f0e6acf0a24fcc30913be69b52d63b93b0cba2d12a5a117bdae6"
     }
    },
-   "rank": 55.845,
+   "rank": 55.09,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -17652,7 +17853,7 @@
      "body_sha256": "240a96a736531eaf555d07f85d2c669e7210685d29066f74e57f1903aceda9e2"
     }
    },
-   "rank": 69.597,
+   "rank": 68.644,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -17757,7 +17958,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 46.702
+   "rank": 46.061
   },
   {
    "id": "n7906",
@@ -18023,7 +18224,7 @@
      "body_sha256": "c693cd2e5340d7ebb8ba0c827ebd3e7b3252addb90a1f5c70dbd0795f9d9e6a1"
     }
    },
-   "rank": 70.636,
+   "rank": 69.652,
    "sources": [
     {
      "domain": "praha.eu",
@@ -18241,7 +18442,7 @@
      "body_sha256": "894cd85d6282a38c116474a8093915be3a8ded7ffb0ffbc23b3efab3a87011a0"
     }
    },
-   "rank": 72.286,
+   "rank": 71.264,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -18418,7 +18619,7 @@
      "body_sha256": "02d2b1ae06372e805ea05b4771b7ce2783bc501a1c2c662c70e1b409e291e3f2"
     }
    },
-   "rank": 59.507,
+   "rank": 58.653,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -18602,7 +18803,7 @@
      "body_sha256": "f7f5c78a8785d19a4877fa630b0f41853ba317e5ffd692c1b233fbb66ef54a8e"
     }
    },
-   "rank": 54.404,
+   "rank": 53.61,
    "sources": [
     {
      "domain": "aktuality.sk",
@@ -18735,7 +18936,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 42.661,
+   "rank": 42.036,
    "forecast": true
   },
   {
@@ -18923,7 +19124,7 @@
      "body_sha256": "7dea352b0d40753c1e77b0e36856828eb10c21dd51da9ac3e51a33c9c2ba2530"
     }
    },
-   "rank": 56.945,
+   "rank": 56.09,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -19156,7 +19357,7 @@
      "body_sha256": "f527848fb91d41d6d32280ff8225c1b6c553c598e8b87ec3f9cee71f7ca6948c"
     }
    },
-   "rank": 57.605,
+   "rank": 56.728,
    "image_url": "https://img.24n.cz/p/2026/10/otets-i-syn-prigovorili-bezdomnykh-k-rabskomu-trudu-7-i-6-le-f2cd021246143ebe.webp",
    "image_w": 1200,
    "image_h": 675
@@ -19340,7 +19541,7 @@
      "body_sha256": "a5db8125deafe759deb7e6b3dd7756c34f847244c3cc96ac7fd9e93c6810c886"
     }
    },
-   "rank": 34.507,
+   "rank": 33.973,
    "image_url": "https://img.24n.cz/p/2026/10/na-kolinsku-zakryvaiut-malokomplektnye-shkoly-ne-khvataet-de-2592220cd1fe93aa.webp",
    "image_w": 620,
    "image_h": 349
@@ -19526,7 +19727,7 @@
      "body_sha256": "c5ce4d9051d515e9a87b079dcc4100f6b3b5666058a96faf9289c00aa4b7705f"
     }
    },
-   "rank": 54.225
+   "rank": 53.386
   },
   {
    "id": "n7897",
@@ -19726,7 +19927,7 @@
      "body_sha256": "9c7226be4859fad10c1f1e7f5dd2d1278495a49b0046a4d27ae3d6dc19619b83"
     }
    },
-   "rank": 41.292,
+   "rank": 40.644,
    "image_url": "https://img.24n.cz/p/2026/10/kto-reshaet-o-krupnykh-tratakh-i-investitsiiakh-v-cheshskikh-b244f6358ab4b1ef.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -19917,7 +20118,7 @@
      "body_sha256": "4d74311637d2b6ea2830ae508b9b276708bcf4044fc50ee235bc9acf99fe02a5"
     }
    },
-   "rank": 58.295,
+   "rank": 57.38,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -20132,7 +20333,7 @@
      "body_sha256": "cfdd07375d40020d2b3149da8611fdcac875cf996e544f755608b3b27d2e174f"
     }
    },
-   "rank": 49.551,
+   "rank": 48.773,
    "sources": [
     {
      "domain": "e15.cz",
@@ -20387,7 +20588,7 @@
      "body_sha256": "8bdb5979381ed53d12da5cc403e45eb677ef1ccec4ccea7d0872452ef2c4d9fd"
     }
    },
-   "rank": 58.291,
+   "rank": 57.361,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -20661,7 +20862,7 @@
      "body_sha256": "3ee1e6a2f99c19238c8cf289314b60772247b5112e43aef736e003381eb25618"
     }
    },
-   "rank": 49.691,
+   "rank": 48.898,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -20974,7 +21175,7 @@
      "body_sha256": "3807b482653a7f27d534a7744ae7f3175cded8424329d67f6aaaec4db60f057c"
     }
    },
-   "rank": 59.724,
+   "rank": 58.771,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -21191,7 +21392,7 @@
      "body_sha256": "a39d05a7c8df34ac16175ac486749c9a63e39030266bd1a9d0ff93f34158af1e"
     }
    },
-   "rank": 51.701,
+   "rank": 50.862,
    "sources": [
     {
      "domain": "jicinsky.denik.cz",
@@ -21402,7 +21603,7 @@
      "body_sha256": "1ca0eb9e3f04283ff0045b1add866957e5cc73965c3325f2c314b285dab72de8"
     }
    },
-   "rank": 54.051,
+   "rank": 53.174,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -21702,7 +21903,7 @@
      "body_sha256": "2a768982f2ec41176db44ef1f9520f91032478d6b188fd40e5907aa87d83b9ad"
     }
    },
-   "rank": 58.751,
+   "rank": 57.798,
    "sources": [
     {
      "domain": "prahain.cz",
@@ -21915,7 +22116,7 @@
      "body_sha256": "100cf1a1e43c19dc3b1ccadb538a734078b908789aed72d872b9b0abd660d6eb"
     }
    },
-   "rank": 44.822,
+   "rank": 44.044,
    "sources": [
     {
      "domain": "press.news",
@@ -22078,7 +22279,7 @@
      "body_sha256": "8a2418deb1d7ffbd3c4830cdd8fc45cfaa1766e067310721cbe42d2652c98303"
     }
    },
-   "rank": 50.534
+   "rank": 49.657
   },
   {
    "id": "n7886",
@@ -22229,7 +22430,7 @@
      "body_sha256": "50ffc67de5a738b3d58a35a46391af563bfb99d537e71c21f3c77855e79a86c7"
     }
    },
-   "rank": 46.14
+   "rank": 45.339
   },
   {
    "id": "n7885",
@@ -22402,7 +22603,7 @@
      "body_sha256": "96435a10b394b3b093328f7b02ff6463741a01586615c00a5b7140e772ddaec6"
     }
    },
-   "rank": 50.534,
+   "rank": 49.657,
    "image_url": "https://img.24n.cz/p/2026/10/sud-v-znoimo-vynes-prigovor-za-izdevatelstva-nad-zhenshchino-d92b4a84bf7fc0b4.webp",
    "image_w": 1200,
    "image_h": 675
@@ -22591,7 +22792,7 @@
      "body_sha256": "1d8c579983ba5387df17b24138b6820b7f8481643f735062cda89b1b4f1e94c9"
     }
    },
-   "rank": 40.069,
+   "rank": 39.348,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -22834,7 +23035,7 @@
      "body_sha256": "f1e7cb0bd2e6981cdf1054b30f7728ad00a6a20a3eba08daf36cf01552d7a5ea"
     }
    },
-   "rank": 83.026
+   "rank": 82.657
   },
   {
    "id": "n7882",
@@ -23041,7 +23242,7 @@
      "body_sha256": "9bca2aa34cbb6e249befaa61ac7f7eb2014b264ef6268015237ea3f1a0d99a9a"
     }
    },
-   "rank": 47.49,
+   "rank": 46.62,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -23138,7 +23339,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 34.984
+   "rank": 34.335
   },
   {
    "id": "n7880",
@@ -23338,7 +23539,7 @@
      "body_sha256": "b890bc2277e86e614ac6805699a7e832c3483e31297be9071b7cac186c240302"
     }
    },
-   "rank": 46.621,
+   "rank": 45.752,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -23500,7 +23701,7 @@
      "body_sha256": "3ce55c8aea1f488fbb8e12e9b7e2617bdb518d8bb21d108d919acd9cbd2f94dd"
     }
    },
-   "rank": 37.624,
+   "rank": 36.922,
    "sources": [
     {
      "domain": "metro.cz",
@@ -23769,7 +23970,7 @@
      "body_sha256": "fd8d3160915eed190f11de9a4b11fb9279a5382641444db00fd0bfb04a3d6b99"
     }
    },
-   "rank": 41.714,
+   "rank": 40.936,
    "sources": [
     {
      "domain": "namireno.cz",
@@ -23981,7 +24182,7 @@
      "body_sha256": "a63b9098ded6172118af89dd05070b89dc8f02e226ca7213cbee37dde853c0f6"
     }
    },
-   "rank": 34.665
+   "rank": 33.979
   },
   {
    "id": "n7876",
@@ -24224,7 +24425,7 @@
      "body_sha256": "f4a7f1694517a848f9d6f8f9a23f0ce549ba227acd330edd38bae0813c16dd7f"
     }
    },
-   "rank": 35.436,
+   "rank": 34.734,
    "sources": [
     {
      "domain": "apexnews.com",
@@ -24383,7 +24584,7 @@
      "body_sha256": "d4fe8e6f7e6bd6dc8f80633fe38247f8a9ba760d44aa7220ea75e846febfc10e"
     }
    },
-   "rank": 36.591,
+   "rank": 35.867,
    "image_url": "https://img.24n.cz/p/2026/10/transformatsiia-staroi-shakhty-kak-v-chekhii-delaiut-aviatop-71b5cd85a039db82.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/transformatsiia-staroi-shakhty-kak-v-chekhii-delaiut-aviatop-ccc1515188e35651.webp"
@@ -24714,7 +24915,7 @@
      "body_sha256": "d4ba565461044c7b7e97dece93449cd6cbb1179499d431bf22f2c5700cfea899"
     }
    },
-   "rank": 33.917,
+   "rank": 33.231,
    "image_url": "https://img.24n.cz/p/2026/10/god-posle-vstupleniia-zakona-o-kiberbezopasnosti-tret-firm-n-d154a0d09c3161a7.webp",
    "image_w": 620,
    "image_h": 349
@@ -24935,7 +25136,7 @@
      "body_sha256": "cb3839b958935685548d69d51b6eec4395d1779f61fcfe0d2d1cd5ecfb3b5d87"
     }
    },
-   "rank": 40.58,
+   "rank": 39.726,
    "sources": [
     {
      "domain": "tsk-praha.cz",
@@ -25151,7 +25352,7 @@
      "body_sha256": "7147998c35dc7a855dcdda5b9ac1592108831c435d91a2e41b15c3c6bdecc344"
     }
    },
-   "rank": 33.334,
+   "rank": 32.632,
    "sources": [
     {
      "domain": "praguedaily.news",
@@ -25218,8 +25419,8 @@
    ],
    "published_at": "2026-10-27T07:02:19.928084+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "27 октября 2026, 07:02",
@@ -25384,7 +25585,7 @@
      "body_sha256": "99269917638d3d33c18b83dcdbfbd001ee2923479ffdce6b58facb56e6127416"
     }
    },
-   "rank": 33.646,
+   "rank": 33.25,
    "image_url": "https://img.24n.cz/p/2026/10/microsoft-predlagaet-desiatkam-tysiach-sotrudnikov-uiti-po-s-15926700900d7af7.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -36063,7 +36264,7 @@
      "body_sha256": "f6f902385933342e33a43ab72bfcaa6ee4980f5d79b73c6afd8cb30d5dd33142"
     }
    },
-   "rank": 62.897,
+   "rank": 62.563,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -38149,7 +38350,7 @@
      "body_sha256": "f51af716e74894a4e5ba82101df9c31dc6d177dfdffabcb6337ceb6d8774896f"
     }
    },
-   "rank": 68.021,
+   "rank": 67.651,
    "sources": [
     {
      "domain": "n1.cz",
@@ -55960,8 +56161,8 @@
    ],
    "published_at": "2026-10-23T06:53:02.549486+02:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "23 октября 2026, 06:53",
@@ -56221,8 +56422,8 @@
    ],
    "published_at": "2026-10-23T06:53:02.549486+02:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "23 октября 2026, 06:53",
@@ -56436,8 +56637,8 @@
    ],
    "published_at": "2026-10-23T06:53:02.549486+02:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "23 октября 2026, 06:53",
@@ -64659,217 +64860,6 @@
     "impact": ""
    },
    "rank": 30.8
-  },
-  {
-   "id": "n7684",
-   "slug": "afera-s-akvaponnymi-fermami-v-chekhii-ushcherb-v-milliardy",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/zpravy/domaci/policie-obvinila-dva-lidi-z-investicniho-podvodu-s-dvoumiliardovou-skodou.A261022_101909_domaci_aoc#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "zakon",
-    "kriminal",
-    "cesko"
-   ],
-   "published_at": "2026-10-22T10:40:09.280835+02:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "22 октября 2026, 10:40",
-    "uk": "22 жовтня 2026, 10:40"
-   },
-   "ru": {
-    "title": "Афера с аквапонными фермами в Чехии: ущерб в миллиарды",
-    "lede": "Чешская полиция обвинила двух человек в создании масштабной финансовой пирамиды под видом инвестиций в аквапонные фермы. Ущерб исчисляется миллиардами крон.",
-    "meta_description": "Полиция Чехии раскрыла масштабную финансовую пирамиду, связанную с инвестициями в аквапонные фермы. Ущерб составляет миллиарды крон, двое арестованы.",
-    "paras": [
-     "<p>Схема мошенников строилась вокруг инвестиций в аквапонные фермы. Не позднее 2018 года фигуранты дела создали структуру примерно из 70 связанных между собой коммерческих компаний и взяли её под контроль. Через эту сеть они долго привлекали деньги частных инвесторов.</p>",
-     "<p>Клиентам обещали высокую и стабильную прибыль. Вкладчиков завлекали гарантированным годовым доходом от 6 до 15 процентов. Основную часть капитала собирали через выпуск облигаций, акций и других финансовых инструментов. Об этом сообщил представитель правоохранительных органов.</p>",
-     "<h3>Признаки финансовой пирамиды и куда уходили деньги</h3>",
-     "<p>Собранные средства шли не на развитие обещанных проектов, связанных с экологичным сельским хозяйством. Следователи установили: деньги тратили на работу связанных фирм, на личные нужды организаторов и на выплаты старым инвесторам за счёт новых.</p>",
-     "<blockquote>Вся эта система имела признаки так называемой схемы Понци, жизнеспособность которой полностью зависит от непрерывного притока свежего капитала от новых участников.</blockquote>",
-     "<p>Делом занимается Национальная штабная борьба с организованной преступностью. Недавно силовики провели серию обысков в жилых и офисных помещениях в разных регионах Чехии. Эпицентром оперативных мероприятий стал Южноморавский край.</p>",
-     "<p>Во время обысков следователи изъяли много доказательств: бумажные документы и электронные носители. Кроме того, правоохранители конфисковали около полусотни единиц спецтехники. Её использовали для майнинга криптовалюты.</p>",
-     "<h3>Арест подозреваемых</h3>",
-     "<p>Следствие полагает, что двое обвиняемых управляли всей корпоративной структурой и распоряжались деньгами доверчивых граждан. Обоим фигурантам суд избрал меру пресечения и отправил под стражу.</p>",
-     "<p>За ходом этого уголовного дела следит Краевая прокуратура в городе Brno.</p>"
-    ],
-    "faq": [
-     {
-      "q": "В чем суть мошенничества с аквапонными фермами?",
-      "a": "Организаторы создали сеть примерно из 70 компаний и привлекали деньги инвесторов под видом развития ферм, обещая от 6% до 15% годовых, но средства шли на личные нужды и выплаты старым вкладчикам."
-     },
-     {
-      "q": "Какой ущерб нанесли подозреваемые?",
-      "a": "Сумма ущерба исчисляется миллиардами крон."
-     },
-     {
-      "q": "Что стало с организаторами?",
-      "a": "Двое обвиняемых, занимавших ключевые роли в управлении схемой, решением суда отправлены под стражу."
-     },
-     {
-      "q": "Где проходили обыски?",
-      "a": "Обыски состоялись в нескольких местах на территории Чехии, главным образом на территории региона Jihomoravském kraji."
-     }
-    ],
-    "impact": "Дело касается масштабной финансовой пирамиды с миллиардным ущербом. Если вы или ваши знакомые вкладывали средства в аквапонные фермы или связанные с ними облигации, стоит следить за ходом расследования и обращаться в полицию как потерпевшие.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Не позднее 2018 года фигуранты создали и взяли под контроль структуру примерно из 70 связанных коммерческих компаний, через которую привлекали деньги частных инвесторов.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Вкладчикам обещали гарантированный годовой доход от 6 до 15 процентов, а капитал собирали в основном через облигации, акции и другие финансовые инструменты.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Собранные деньги, по данным следователей, шли на работу связанных фирм, личные нужды организаторов и выплаты старым инвесторам за счёт новых.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Суд отправил обоих обвиняемых под стражу; следствие полагает, что они управляли всей корпоративной структурой и распоряжались деньгами граждан.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "аквапонные фермы",
-       "definition": "Хозяйства, где выращивание растений сочетается с разведением рыбы; именно в такие проекты, по версии следствия, обещали вкладывать деньги инвесторов.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "облигаций",
-       "definition": "Долговые ценные бумаги, через выпуск которых, наряду с акциями, собирали основную часть капитала.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "98b9750bcb32f88e6f5b051fb98e186e14e04ba2856aeb3fc26c7fd44e97e864"
-    }
-   },
-   "uk": {
-    "title": "Афера з аквапонними фермами в Чехії: збитки в мільярди",
-    "lede": "Чеська поліція звинуватила двох осіб у створенні масштабної фінансової піраміди під виглядом інвестицій в аквапонні ферми. Збитки обчислюються мільярдами крон.",
-    "meta_description": "Поліція Чехії розкрила масштабну фінансову піраміду, пов'язану з інвестиціями в аквапонні ферми. Збитки становлять мільярди крон, двох осіб заарештовано.",
-    "paras": [
-     "<p>Схема шахраїв будувалася навколо інвестицій в аквапонні ферми. Не пізніше 2018 року фігуранти справи створили структуру приблизно з 70 пов'язаних між собою комерційних компаній і взяли її під контроль. Через цю мережу вони довго залучали гроші приватних інвесторів.</p>",
-     "<p>Клієнтам обіцяли високий і стабільний прибуток. Вкладників приваблювали гарантованим річним доходом від 6 до 15 відсотків. Основну частину капіталу збирали через випуск облігацій, акцій та інших фінансових інструментів. Про це повідомив представник правоохоронних органів.</p>",
-     "<h3>Ознаки фінансової піраміди і куди йшли гроші</h3>",
-     "<p>Зібрані кошти йшли не на розвиток обіцяних проєктів, пов'язаних з екологічним сільським господарством. Слідчі встановили: гроші витрачали на роботу пов'язаних фірм, на особисті потреби організаторів і на виплати старим інвесторам за рахунок нових.</p>",
-     "<blockquote>Уся ця система мала ознаки так званої схеми Понці, життєздатність якої повністю залежить від безперервного припливу свіжого капіталу від нових учасників.</blockquote>",
-     "<p>Справу веде Національний штаб боротьби з організованою злочинністю. Нещодавно силовики провели серію обшуків у житлових і офісних приміщеннях у різних регіонах Чехії. Епіцентром оперативних заходів став Південноморавський край.</p>",
-     "<p>Під час обшуків слідчі вилучили багато доказів: паперові документи та електронні носії. Крім того, правоохоронці конфіскували близько півсотні одиниць спецтехніки. Її використовували для майнінгу криптовалюти.</p>",
-     "<h3>Арешт підозрюваних</h3>",
-     "<p>Слідство вважає, що двоє обвинувачених керували всією корпоративною структурою і розпоряджалися грошима довірливих громадян. Обом фігурантам суд обрав запобіжний захід і відправив під варту.</p>",
-     "<p>За ходом цієї кримінальної справи стежить Крайова прокуратура в місті Brno.</p>"
-    ],
-    "faq": [
-     {
-      "q": "У чому суть шахрайства з аквапонними фермами?",
-      "a": "Організатори створили мережу приблизно з 70 компаній і залучали гроші інвесторів під виглядом розвитку ферм, обіцяючи від 6% до 15% річних, але кошти йшли на особисті потреби та виплати старим вкладникам."
-     },
-     {
-      "q": "Яких збитків завдали підозрювані?",
-      "a": "Сума збитків обчислюється мільярдами крон."
-     },
-     {
-      "q": "Що сталося з організаторами?",
-      "a": "Двох обвинувачених, які відігравали ключові ролі в управлінні схемою, рішенням суду відправлено під варту."
-     },
-     {
-      "q": "Де проходили обшуки?",
-      "a": "Обшуки відбулися в кількох місцях на території Чехії, головним чином на території Південноморавського краю."
-     }
-    ],
-    "impact": "Дело касается масштабной финансовой пирамиды с миллиардным ущербом. Если вы или ваши знакомые вкладывали средства в аквапонные фермы или связанные с ними облигации, стоит следить за ходом расследования и обращаться в полицию как потерпевшие.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Не пізніше 2018 року фігуранти створили мережу приблизно з 70 пов'язаних комерційних компаній і взяли її під контроль.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Вкладникам обіцяли гарантований річний дохід від 6 до 15 відсотків, а капітал збирали переважно через облігації, акції та інші фінансові інструменти.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "За даними слідства, гроші витрачали на пов'язані фірми, особисті потреби організаторів і виплати старим інвесторам за рахунок нових.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Під час обшуків вилучили документи, електронні носії та близько півсотні одиниць спецтехніки для майнінгу криптовалюти.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "аквапонні ферми",
-       "definition": "Господарства, які поєднують вирощування рослин і риби; саме в інвестиції в них, за версією поліції, вкладали гроші клієнти.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "облігацій",
-       "definition": "Боргові цінні папери, через випуск яких, за даними правоохоронців, збирали основну частину капіталу.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "майнінгу криптовалюти",
-       "definition": "Обчислювальний процес створення криптовалюти; для нього, за даними слідства, використовували вилучену спецтехніку.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "52752f3b9f8ed7813bf4da0a29dff577d572a39cbc8b5ef879c69589cd86fca2"
-    }
-   },
-   "rank": 35.0,
-   "image_url": "https://img.24n.cz/p/2026/10/afera-s-akvaponnymi-fermami-v-chekhii-ushcherb-v-milliardy-5f04a66755fa91eb.webp",
-   "image_w": 630,
-   "image_h": 350
   }
  ]
 }
