@@ -1,8 +1,192 @@
 {
- "updated_at": "2026-10-29T08:23:31+00:00",
+ "updated_at": "2026-10-29T08:53:36+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n7993",
+   "slug": "v-turnov-deputaty-ot-ano-vyshli-iz-dvizheniia",
+   "source": "novinky.cz",
+   "original_url": "https://www.novinky.cz/clanek/volby-komunalni-dalsi-odchod-z-ano-hnuti-opousteji-turnovsti-zastupitele-uvedl-tamni-starosta-40605456",
+   "top": false,
+   "tags": [
+    "zakon",
+    "cesko"
+   ],
+   "published_at": "2026-10-29T09:53:35.747783+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "29 октября 2026, 09:53",
+    "uk": "29 жовтня 2026, 09:53"
+   },
+   "ru": {
+    "title": "В Turnov депутаты от ANO вышли из движения",
+    "lede": "Двое ведущих представителей движения ANO в Turnov объявили о выходе из организации и переходе в статус независимых депутатов.",
+    "meta_description": "В Turnov депутаты от движения ANO Jaroslav Knížek и Miroslav Reichl выходят из партии и планируют работать как неаффилированные лица.",
+    "paras": [
+     "Местное отделение движения ANO в Turnov столкнулось с внутренними изменениями после прошедших муниципальных выборов, на которых политическая сила заняла третье место, набрав 16 процентов голосов избирателей. Первоначально объединение должно было получить в муниципальном собрании четыре мандата, однако планы изменились. Лидер предвыборного списка Jaroslav Knížek и кандидат, шедший под вторым номером, Miroslav Reichl, приняли официальное решение покинуть ряды движения ANO.",
+     "Информацию об изменениях среди представителей политической силы обнародовал портал Deník, ссылаясь на заявление старосты Tomáš Hocke, сделанное им на публичном мероприятии в среду. Позднее староста подтвердил эту информацию в беседе с журналистами издания Novinky.",
+     "blockquote\n„Я получил сообщение от pana Knížka, который сообщил мне о том, что избранные депутаты от ANO будут действовать в собрании как внефракционные,“uvedl starosta Tomáš Hocke.\n\nПо словам старосты, аналогичная участь ждет и тех депутатов, которые формально не состояли в партийных рядах движения, но шли на выборы под его эгидой. Они также намерены продолжить работу в качестве независимых и неаффилированных представителей. Связаться напрямую с самими депутатами журналистам пока не удалось.",
+     "Аналогичные процессы происходят и в других чешских городах, в частности в Česká Semilech или Semily. В Česká Semilech из десяти прошедших в местное собрание представителей движения ANO двое вышли из состава организации, а к ним присоединился еще один беспартийный депутат, который также отказался ассоциировать себя с брендом ANO. Все трое присоединились к формирующейся новой коалиции в городской администрации.",
+     "В городе Semily из партии вышел депутат парламента и избранный член местного собрания David Pražák, аналогичный шаг предприняли еще два его коллеги, состоявшие в движении ANO. Что касается ситуации в Turnov, там в настоящее время коалицию пытаются сформировать победивший Независимый блок старосты Tomáš Hocke и политическое объединение PROTO. Ожидается, что уход депутатов от движения ANO не окажет существенного влияния на текущие поствыборные переговоры, и в состав будущего руководства города они войти не должны."
+    ],
+    "faq": [
+     {
+      "q": "Кто именно покинул движение ANO в Turnov?",
+      "a": "Из движения вышли лидер предвыборного списка Jaroslav Knížek и кандидат под вторым номером Miroslav Reichl."
+     },
+     {
+      "q": "Как депутаты продолжат работу в собрании?",
+      "a": "Они будут действовать в качестве независимых и неаффилированных депутатов."
+     },
+     {
+      "q": "Повлияет ли этот шаг на формирование коалиции?",
+      "a": "По данным руководства города, уход этих депутатов не должен повлиять на текущие переговоры о создании коалиции между Независимым блоком и объединением PROTO."
+     }
+    ],
+    "impact": "Уход депутатов от движения ANO в Turnov перераспределяет политические силы в местном собрании, однако переговоры о создании коалиции между Независимым блоком старосты Tomáš Hocke и объединением PROTO продолжаются без их участия.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "На муниципальных выборах в Turnov ANO заняло третье место с 16 процентами голосов и должно было получить четыре мандата.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Лидер списка Jaroslav Knížek и шедший вторым Miroslav Reichl решили покинуть ANO.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "По словам старосты Tomáš Hocke, избранные депутаты от ANO будут работать в собрании как внефракционные.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Ожидается, что уход депутатов от ANO не повлияет существенно на поствыборные переговоры, и в будущее руководство города они не войдут.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "внефракционные",
+       "definition": "Депутаты, которые не входят ни в одну фракцию собрания и действуют как независимые и неаффилированные представители.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "старосты",
+       "definition": "Глава городской администрации; в тексте Tomáš Hocke в этой должности сообщает о решении депутатов от ANO.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "84bc3d327f6fc943b94cdc50a65aa1b2fd480962e56bda43e06a7ffee6b0fa0d"
+    }
+   },
+   "uk": {
+    "title": "У Turnov депутати від ANO вийшли з руху",
+    "lede": "Двоє провідних представників руху ANO у Turnov оголосили про вихід з організації та перехід у статус незалежних депутатів.",
+    "meta_description": "У Turnov депутати від руху ANO Jaroslav Knížek і Miroslav Reichl виходять із партії та планують працювати як неафілійовані особи.",
+    "paras": [
+     "Місцевий осередок руху ANO у Turnov зіткнувся з внутрішніми змінами після муніципальних виборів, на яких політична сила посіла третє місце, набравши 16 відсотків голосів виборців. Спочатку об'єднання мало отримати в муніципальних зборах чотири мандати, однак плани змінилися. Лідер передвиборчого списку Jaroslav Knížek і кандидат, який ішов під другим номером, Miroslav Reichl, ухвалили офіційне рішення залишити лави руху ANO.",
+     "Інформацію про зміни серед представників політичної сили оприлюднив портал Deník, посилаючись на заяву старости Tomáš Hocke, яку він зробив на публічному заході в середу. Пізніше староста підтвердив цю інформацію в розмові з журналістами видання Novinky.",
+     "blockquote\n„Я отримав повідомлення від pana Knížka, який повідомив мені про те, що обрані депутати від ANO діятимуть у зборах як позафракційні,“uvedl starosta Tomáš Hocke.\n\nЗа словами старости, така сама доля чекає й на тих депутатів, які формально не перебували в партійних лавах руху, але йшли на вибори під його егідою. Вони також мають намір продовжити роботу як незалежні та неафілійовані представники. Зв'язатися напряму з самими депутатами журналістам поки не вдалося.",
+     "Аналогічні процеси відбуваються і в інших чеських містах, зокрема в Česká Semilech чи Semily. У Česká Semilech із десяти представників руху ANO, які пройшли до місцевих зборів, двоє вийшли зі складу організації, а до них приєднався ще один безпартійний депутат, який також відмовився асоціювати себе з брендом ANO. Усі троє приєдналися до нової коаліції, що формується в міській адміністрації.",
+     "У місті Semily з партії вийшов депутат парламенту й обраний член місцевих зборів David Pražák, аналогічний крок зробили ще двоє його колег, які перебували в русі ANO. Що стосується ситуації в Turnov, там нині коаліцію намагаються сформувати переможний Незалежний блок старости Tomáš Hocke і політичне об'єднання PROTO. Очікується, що вихід депутатів від руху ANO не матиме істотного впливу на поточні післявиборчі переговори, і до складу майбутнього керівництва міста вони не увійдуть."
+    ],
+    "faq": [
+     {
+      "q": "Хто саме залишив рух ANO у Turnov?",
+      "a": "З руху вийшли лідер передвиборчого списку Jaroslav Knížek і кандидат під другим номером Miroslav Reichl."
+     },
+     {
+      "q": "Як депутати продовжать роботу в зборах?",
+      "a": "Вони діятимуть як незалежні та неафілійовані депутати."
+     },
+     {
+      "q": "Чи вплине цей крок на формування коаліції?",
+      "a": "За даними керівництва міста, вихід цих депутатів не повинен вплинути на поточні переговори про створення коаліції між Незалежним блоком і об'єднанням PROTO."
+     }
+    ],
+    "impact": "Уход депутатов от движения ANO в Turnov перераспределяет политические силы в местном собрании, однако переговоры о создании коалиции между Независимым блоком старосты Tomáš Hocke и объединением PROTO продолжаются без их участия.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Рух ANO у Turnov на муніципальних виборах посів третє місце з 16 відсотками голосів і мав отримати чотири мандати.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Jaroslav Knížek і Miroslav Reichl ухвалили рішення вийти з руху ANO.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "За словами старости Tomáš Hocke, обрані депутати від ANO діятимуть у зборах як позафракційні.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Очікується, що вихід депутатів від ANO не матиме істотного впливу на післявиборчі переговори в Turnov.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "позафракційні",
+       "definition": "Депутати, які не входять до жодної фракції чи партійного об'єднання у зборах.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "старости",
+       "definition": "Голова місцевої адміністрації міста чи громади в Чехії.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "e373c9f0c5044f374b7acdd896c06d76f3d43e888eb6c8f48ad7cfa127f9650b"
+    }
+   },
+   "rank": 90.0,
+   "image_url": "https://img.24n.cz/p/2026/10/v-turnov-deputaty-ot-ano-vyshli-iz-dvizheniia-4833813dde87de02.webp",
+   "image_w": 1200,
+   "image_h": 675
+  },
   {
    "id": "n7992",
    "slug": "dvizhenie-stan-predlozhilo-zamenit-ano-v-pardubitskom-krae",
@@ -15,8 +199,8 @@
    ],
    "published_at": "2026-10-29T09:23:30.247775+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "30 минут назад",
+    "uk": "30 хвилин тому"
    },
    "date": {
     "ru": "29 октября 2026, 09:23",
@@ -225,8 +409,8 @@
    ],
    "published_at": "2026-10-29T08:51:55.883149+01:00",
    "time": {
-    "ru": "31 минуту назад",
-    "uk": "31 хвилину тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "29 октября 2026, 08:51",
@@ -422,8 +606,8 @@
    ],
    "published_at": "2026-10-29T07:51:17.785060+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 07:51",
@@ -602,8 +786,8 @@
    ],
    "published_at": "2026-10-29T07:51:17.785060+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 07:51",
@@ -887,8 +1071,8 @@
    ],
    "published_at": "2026-10-29T07:51:17.785060+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 07:51",
@@ -1269,8 +1453,8 @@
    ],
    "published_at": "2026-10-29T06:45:01.457448+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 06:45",
@@ -1444,7 +1628,7 @@
      "body_sha256": "65ec061d17307e78c1dc427d974e71e331e7e6ce2f6042c74c3acfd808be8222"
     }
    },
-   "rank": 85.0,
+   "rank": 84.824,
    "image_url": "https://img.24n.cz/p/2026/10/starosta-orlovoi-izbavilas-ot-stroitelnoi-firmy-posle-zakazo-c3d5dc51f6951d2d.webp",
    "image_w": 1200,
    "image_h": 674
@@ -1462,8 +1646,8 @@
    ],
    "published_at": "2026-10-29T05:43:10.372347+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 05:43",
@@ -1755,7 +1939,7 @@
      "body_sha256": "9d24c3159a6e1f765aa28415769cfc269e7f5111e75999bd34e063f6a97b93ac"
     }
    },
-   "rank": 94.077,
+   "rank": 93.389,
    "sources": [
     {
      "domain": "forum24.cz",
@@ -1830,8 +2014,8 @@
    ],
    "published_at": "2026-10-29T05:43:10.372347+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 05:43",
@@ -2082,7 +2266,7 @@
      "body_sha256": "c27ebc310fb0f8f4b2acd8938189074515ec16227e7c713d723fb386fe7b0ab6"
     }
    },
-   "rank": 110.912,
+   "rank": 110.101,
    "sources": [
     {
      "domain": "stavbaweb.cz",
@@ -2299,7 +2483,7 @@
      "body_sha256": "42b32e07fd32bead1ac1d71419905316a5fa6f5c3c2b21954e4ce8b32269a431"
     }
    },
-   "rank": 93.338,
+   "rank": 92.65,
    "image_url": "https://img.24n.cz/p/2026/10/predprinimatel-zarabotal-100-millionov-kron-na-sdelke-so-svo-dc8ed8fc2b809bdf.webp",
    "image_w": 1200,
    "image_h": 675
@@ -2593,7 +2777,7 @@
      "body_sha256": "c6952bbd4c9cd33b3f8e0e3d8355e416c4fb04a99a11ace99c5468d5d2364926"
     }
    },
-   "rank": 110.041,
+   "rank": 109.23,
    "sources": [
     {
      "domain": "heroine.cz",
@@ -2806,7 +2990,7 @@
      "body_sha256": "5bc612567386559094f01431cf287f8f40a8771b1d47836a95413adc4d08d4ba"
     }
    },
-   "rank": 108.076,
+   "rank": 107.279,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-armiia-ne-gotova-k-bolshomu-konfliktu-i-ne-vypoln-1db649f454ef7922.webp",
    "image_w": 620,
    "image_h": 349
@@ -2988,7 +3172,7 @@
      "body_sha256": "f5443925da8170fae0e316ceac5aa9c524d3735c3c8bf3b78c7ff145eb74e775"
     }
    },
-   "rank": 96.677,
+   "rank": 95.953,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -3227,7 +3411,7 @@
      "body_sha256": "c10bc71a31f689ad17ec23ab7bd4018f81b3ce4089e99db66018c26a95610f2a"
     }
    },
-   "rank": 109.473,
+   "rank": 108.64,
    "sources": [
     {
      "domain": "europesays.com",
@@ -3518,7 +3702,7 @@
      "body_sha256": "c39ac946ee4b9b773379e46c5f767740e6bd4ae34e6a33666c8b2a96dd5b3293"
     }
    },
-   "rank": 111.49,
+   "rank": 110.627,
    "sources": [
     {
      "domain": "firkusny.cz",
@@ -3577,8 +3761,8 @@
    ],
    "published_at": "2026-10-29T01:30:12.799844+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 01:30",
@@ -3717,7 +3901,7 @@
      "body_sha256": "408ebea42f9d1d592204df2dafd90bd7543f7ec999a9dcb088a16578d7d95ad6"
     }
    },
-   "rank": 78.998,
+   "rank": 78.382,
    "image_url": "https://img.24n.cz/p/2026/10/uborka-ulits-v-prage-daet-bezdomnym-shans-na-novuiu-zhizn-21893d78649bb658.webp",
    "image_w": 600,
    "image_h": 315
@@ -3734,8 +3918,8 @@
    ],
    "published_at": "2026-10-29T01:30:12.799844+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 01:30",
@@ -3958,7 +4142,7 @@
      "body_sha256": "88d7dc349e4743d87b48af92bac2b278e05202d81cee493c3abc87045bada642"
     }
    },
-   "rank": 83.645,
+   "rank": 82.993,
    "image_url": "https://img.24n.cz/p/2026/10/polnoe-zakrytie-sitensky-most-v-kladno-obezdy-i-sroki-d3626f924028c371.webp",
    "image_w": 1600,
    "image_h": 1200
@@ -3976,8 +4160,8 @@
    ],
    "published_at": "2026-10-29T01:30:12.799844+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 01:30",
@@ -4118,7 +4302,7 @@
      "body_sha256": "4c3037074a6a9da6186783b7713c6364ea33dde586c4c5ddc08c1f6a45b7679e"
     }
    },
-   "rank": 106.88,
+   "rank": 106.047,
    "image_url": "https://img.24n.cz/p/2026/10/instagram-bezopasnost-detei-suitsid-v-britanskom-kino-d017996cb54c27ba.webp",
    "image_w": 1200,
    "image_h": 675
@@ -4135,8 +4319,8 @@
    ],
    "published_at": "2026-10-29T01:30:12.799844+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 01:30",
@@ -4300,7 +4484,7 @@
      "body_sha256": "3bd6dd0ebc87422cd2f7520d9dd5fb66f409745d113f759824289c10461d6cbb"
     }
    },
-   "rank": 102.233,
+   "rank": 101.436,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -4573,8 +4757,8 @@
    ],
    "published_at": "2026-10-29T00:26:27.009711+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 00:26",
@@ -4779,8 +4963,8 @@
    ],
    "published_at": "2026-10-29T00:26:27.009711+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 00:26",
@@ -5126,7 +5310,7 @@
      "body_sha256": "f3a61169a2692b65dcccf2169a0bdd2f7781f18d1e069f446d11a613ff4ed1b2"
     }
    },
-   "rank": 77.693,
+   "rank": 77.078,
    "image_url": "https://img.24n.cz/p/2026/10/micro-udobnyi-tekstovyi-redaktor-dlia-linux-s-podderzhkoi-my-c4159e00c99f398a.webp",
    "video": {
     "kind": "iframe",
@@ -5147,8 +5331,8 @@
    ],
    "published_at": "2026-10-29T00:26:27.009711+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 00:26",
@@ -5330,7 +5514,7 @@
      "body_sha256": "cdf18138d493f6869fba17e91fca0b5c8afa5c8fa3a77a3d144308376f5fbaf5"
     }
    },
-   "rank": 91.404,
+   "rank": 90.68,
    "sources": [
     {
      "domain": "twistedvoxel.com",
@@ -5366,8 +5550,8 @@
    ],
    "published_at": "2026-10-28T23:52:13.187460+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 23:52",
@@ -5569,7 +5753,7 @@
      "body_sha256": "d2994a42c638e07cef3a0e912a0854cec32688286dbb5e7568c405dbabc4b6e4"
     }
    },
-   "rank": 76.993,
+   "rank": 76.377,
    "image_url": "https://img.24n.cz/p/2026/10/biznesmen-bez-opyta-stroit-v-jizera-gorakh-shale-na-meste-sg-73c1a547f0c478b2.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -5796,7 +5980,7 @@
      "body_sha256": "f8494a65bedb961a2d93bab6e6db58c091e6b380d6b790877468b29e192ceed3"
     }
    },
-   "rank": 67.338,
+   "rank": 66.794,
    "sources": [
     {
      "domain": "atlas.centrum.cz",
@@ -6021,7 +6205,7 @@
      "body_sha256": "f0558c69e207712ff15389c0e635877e99e6fda7ea0b21ff17b042a917512abf"
     }
    },
-   "rank": 107.74,
+   "rank": 106.871,
    "image_url": "https://img.24n.cz/p/2026/10/prezident-chekhii-posmertno-nagradil-legendarnuiu-vera-casla-1963361cdd978c8e.webp",
    "image_w": 800,
    "image_h": 450
@@ -6196,7 +6380,7 @@
      "body_sha256": "733769256235b01c04b5464578dbaaee9bce994444de5db0ed394ce5702e39ea"
     }
    },
-   "rank": 101.465,
+   "rank": 100.632,
    "image_url": "https://img.24n.cz/p/2026/10/prezident-pavel-dolgi-za-komfort-segodnia-oplatiat-deti-zavt-338ad9ae659fca8d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -6213,8 +6397,8 @@
    ],
    "published_at": "2026-10-28T21:43:57.097569+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 21:43",
@@ -6349,7 +6533,7 @@
      "body_sha256": "a09c00962273eaf80755dbc8e645590b5694a71277e081467a5640d725039364"
     }
    },
-   "rank": 83.117,
+   "rank": 82.429,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-prezident-nagradil-metsenatov-vlckovi-za-pomoshch-529831662db4c36f.webp",
    "image_w": 620,
    "image_h": 349
@@ -6367,8 +6551,8 @@
    ],
    "published_at": "2026-10-28T21:43:57.097569+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 21:43",
@@ -6502,7 +6686,7 @@
      "body_sha256": "a6c55dde8d1745c9dce28352f5a6cc14a36fbbbe1f019d3fcd753c37e5dfd32c"
     }
    },
-   "rank": 90.992,
+   "rank": 90.238,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -6535,8 +6719,8 @@
    ],
    "published_at": "2026-10-28T21:43:57.097569+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 21:43",
@@ -6694,7 +6878,7 @@
      "body_sha256": "c8e73314645d98e7554ef916ac61df8f70e34047b9b6b04193ae1576bcb6735e"
     }
    },
-   "rank": 104.99,
+   "rank": 104.121,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/Tyu2-wJxSt0"
@@ -6887,7 +7071,7 @@
      "body_sha256": "b5f4f94a8e262300ccbb99dcf4861497a0424aba2fc6c4cda23cab6084d60e4e"
     }
    },
-   "rank": 105.818,
+   "rank": 104.934,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -6954,7 +7138,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 72.614
+   "rank": 72.006
   },
   {
    "id": "n7960",
@@ -6968,8 +7152,8 @@
    ],
    "published_at": "2026-10-28T19:40:21.332670+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 19:40",
@@ -7119,7 +7303,7 @@
      "body_sha256": "b0e2754e3005098eb4183fea8d098561f96895c48b79240222a7813daef6c501"
     }
    },
-   "rank": 75.22,
+   "rank": 74.575,
    "sources": [
     {
      "domain": "radiotv.cz",
@@ -7149,8 +7333,8 @@
    ],
    "published_at": "2026-10-28T19:40:21.332670+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 19:40",
@@ -7406,7 +7590,7 @@
      "body_sha256": "c4ed4df167f7b14c55b27716dc3f0b92a9d4a3bd750f535699838a792f17f7e0"
     }
    },
-   "rank": 92.968,
+   "rank": 92.171,
    "image_url": "https://img.24n.cz/p/2026/10/kompaniia-apple-vpervye-predstavila-macbook-pro-s-sensornym-c765c9e9cf1f10c6.webp",
    "video": {
     "kind": "iframe",
@@ -7581,7 +7765,7 @@
      "body_sha256": "3d14d5963ef486c30d320727d963fdd1afdf4abf23ba468f063c936558b1c849"
     }
    },
-   "rank": 96.302,
+   "rank": 95.469,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -7790,7 +7974,7 @@
      "body_sha256": "515a644d2bfe1729e453da53ea8ceddef615e713f13103bc50b9511a39b8caa4"
     }
    },
-   "rank": 49.407,
+   "rank": 48.98,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -8046,7 +8230,7 @@
      "body_sha256": "d4d3a0c282aaeac4fd37b2db8e3214a1e0bf02ed26e32c643bfdd9fc823e3cde"
     }
    },
-   "rank": 96.302,
+   "rank": 95.469,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -8101,8 +8285,8 @@
    ],
    "published_at": "2026-10-28T18:33:49.874969+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 18:33",
@@ -8338,7 +8522,7 @@
      "body_sha256": "ce703265ef1c9f3da08fbacbeec8c8ca1d8ee3b0463d52f914807c348c513376"
     }
    },
-   "rank": 94.523,
+   "rank": 93.697,
    "sources": [
     {
      "domain": "rockcellarmagazine.com",
@@ -8370,8 +8554,8 @@
    ],
    "published_at": "2026-10-28T18:32:33.398561+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 18:32",
@@ -8415,7 +8599,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 67.965,
+   "rank": 67.371,
    "forecast": true
   },
   {
@@ -8606,7 +8790,7 @@
      "body_sha256": "981127c28d641b47df83757b7c6cd6f79bab3557dc9a2159cafbe25e4cb0dfde"
     }
    },
-   "rank": 92.04,
+   "rank": 91.228,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -8634,8 +8818,8 @@
    ],
    "published_at": "2026-10-28T17:30:09.303150+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 17:30",
@@ -8835,7 +9019,7 @@
      "body_sha256": "ddf12622901dd0cd294d2564e3e2e5ef3fb2343efd31f1a530d4e9ab254479d1"
     }
    },
-   "rank": 93.589
+   "rank": 92.756
   },
   {
    "id": "n7951",
@@ -9049,7 +9233,7 @@
      "body_sha256": "1d9011e029fec669da74f2810659221ec981b98eaa9ab3fdabdd1a5e91ca8c0e"
     }
    },
-   "rank": 95.972,
+   "rank": 95.11,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -9409,7 +9593,7 @@
      "body_sha256": "ef696d95afaf22b9eaf248b9e53c4cb02d5f4a875b7d0b8ff3d280929beec1ae"
     }
    },
-   "rank": 84.682
+   "rank": 83.921
   },
   {
    "id": "n7949",
@@ -9577,7 +9761,7 @@
      "body_sha256": "4faf6f66e60eabca4b26605cafe36686ba2c07d2adf80cd776de0d2003f9ab95"
     }
    },
-   "rank": 52.422
+   "rank": 51.951
   },
   {
    "id": "n7948",
@@ -9738,7 +9922,7 @@
      "body_sha256": "b4bf96ed8eadc72d2e7b5e42a35b1c1f8d23d97ff5e6a8aa9a0b5d090225a97a"
     }
    },
-   "rank": 71.779,
+   "rank": 71.127,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-13-masshtabnaia-rekonstruktsiia-preobrazit-panskuiu-7b984850cf97d8f5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-13-masshtabnaia-rekonstruktsiia-preobrazit-panskuiu-e3b3db97d58bbec9.webp"
@@ -9772,8 +9956,8 @@
    ],
    "published_at": "2026-10-28T15:50:59.634281+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 15:50",
@@ -9967,7 +10151,7 @@
      "body_sha256": "2f6501fcc66aaae9c011c17390542e0e2749f342cbc7a069504913242ec25fc7"
     }
    },
-   "rank": 82.155,
+   "rank": 81.401,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -10151,7 +10335,7 @@
      "body_sha256": "d65943bc6e3868c67cab7d39fc3ed343c7bf74c963b09d8d16ba0f3cdb32c8c6"
     }
    },
-   "rank": 82.11,
+   "rank": 81.349,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -10191,8 +10375,8 @@
    ],
    "published_at": "2026-10-28T14:47:22.648142+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "28 октября 2026, 14:47",
@@ -10405,7 +10589,7 @@
      "body_sha256": "e04c0f2e97f56ee42d50bc6c9b34857075d5b71e8239bb2c3b0b9732401a25ea"
     }
    },
-   "rank": 61.971,
+   "rank": 61.391,
    "image_url": "https://img.24n.cz/p/2026/10/la-fabrika-zavershaet-god-iarkimi-premerami-i-kontsertami-e07406bbd0a1d8b5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/la-fabrika-zavershaet-god-iarkimi-premerami-i-kontsertami-3eeffff6940e95c3.webp",
@@ -10628,7 +10812,7 @@
      "body_sha256": "34087d5b43c6b5202c79c7013be2090d4e2f415c68431dce88493cf1e7011a33"
     }
    },
-   "rank": 49.886,
+   "rank": 49.415,
    "image_url": "https://img.24n.cz/p/2026/10/otkaz-v-uchebe-privel-ee-v-kafe-i-k-brendu-dorogikh-ukrashen-7a183817780b41fd.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/otkaz-v-uchebe-privel-ee-v-kafe-i-k-brendu-dorogikh-ukrashen-4b89168a2796f3da.webp"
@@ -10926,7 +11110,7 @@
      "body_sha256": "516fd8240d93a072e516a2c4dcd0f10f32fba4b3fb8bd4408800c4b10badc4e9"
     }
    },
-   "rank": 65.235
+   "rank": 64.62
   },
   {
    "id": "n7942",
@@ -11150,7 +11334,7 @@
      "body_sha256": "30916d62145df32c5f3f57750fd087b3e101eeff56332d419dbabcf80b7b0abc"
     }
    },
-   "rank": 80.585,
+   "rank": 79.824,
    "sources": [
     {
      "domain": "media24.cz",
@@ -11189,8 +11373,8 @@
    ],
    "published_at": "2026-10-28T12:38:21.490616+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "28 октября 2026, 12:38",
@@ -11348,7 +11532,7 @@
      "body_sha256": "dcd2bcab8bddaa2c7d6c6df65e4571fa53de083b34f0127bc124c94d04297ec7"
     }
    },
-   "rank": 70.639,
+   "rank": 69.951,
    "image_url": "https://img.24n.cz/p/2026/10/premer-ministr-chekhii-i-uroki-prava-chto-skazat-studentam-o-ce426cf00ef73bb3.webp",
    "image_w": 1200,
    "image_h": 674
@@ -11365,8 +11549,8 @@
    ],
    "published_at": "2026-10-28T12:38:21.490616+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "28 октября 2026, 12:38",
@@ -11516,7 +11700,7 @@
      "body_sha256": "f446f70c0b87ac39a49b620798dcba36d9f306be9a7235a2fb8c6079b218c743"
     }
    },
-   "rank": 59.486,
+   "rank": 58.906,
    "image_url": "https://img.24n.cz/p/2026/10/v-zline-reshaiut-kakoi-budet-novaia-koalitsiia-21-golos-ili-067a4774e6a5a129.webp",
    "image_w": 620,
    "image_h": 349
@@ -11533,8 +11717,8 @@
    ],
    "published_at": "2026-10-28T12:38:21.490616+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "28 октября 2026, 12:38",
@@ -11704,7 +11888,7 @@
      "body_sha256": "05d695457b11fd940bbbb7c78e5a04645ea349a0b2c7cd6c70db63c70e3e8e17"
     }
    },
-   "rank": 59.486,
+   "rank": 58.906,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-otkryvaetsia-novyi-iaponskii-restoran-s-firmennymi-s-445b94418914a83d.webp",
    "image_w": 1600,
    "image_h": 901
@@ -11721,8 +11905,8 @@
    ],
    "published_at": "2026-10-28T12:38:21.490616+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "28 октября 2026, 12:38",
@@ -11882,7 +12066,7 @@
      "body_sha256": "45a1a32d8c7e6e7042f685f9f6e13124a99692e81104affede4b960c27d78cce"
     }
    },
-   "rank": 75.844,
+   "rank": 75.106,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -12241,7 +12425,7 @@
      "body_sha256": "5dbe29606a4f31bdde1c0a3dbde780270a3b6b7c0704fef78382fbe3855881bd"
     }
    },
-   "rank": 73.596,
+   "rank": 72.871,
    "image_url": "https://img.24n.cz/p/2026/10/zimnie-shiny-v-chekhii-pravila-shtrafy-i-tseny-na-sezon-2026-5bcd8e969c0335f0.webp",
    "image_w": 1366,
    "image_h": 910
@@ -12259,8 +12443,8 @@
    ],
    "published_at": "2026-10-28T11:37:29.871611+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:37",
@@ -12458,7 +12642,7 @@
      "body_sha256": "d0a1dfe746f40f258bd07caced0403562773aa96961a2f35d13130c2549b45af"
     }
    },
-   "rank": 65.603,
+   "rank": 64.951,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskie-birzhi-truda-massovo-perekladyvaiut-klientov-na-nk-2ceda7eb799fb1b7.webp",
    "image_w": 1200,
    "image_h": 674
@@ -12475,8 +12659,8 @@
    ],
    "published_at": "2026-10-28T11:37:29.871611+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:37",
@@ -12656,7 +12840,7 @@
      "body_sha256": "d0cd90d83736b34c57bf1d46baf1ce8a7d01c76dcf9c37cec67e2298ce69c879"
     }
    },
-   "rank": 88.814,
+   "rank": 88.497,
    "image_url": "https://img.24n.cz/p/2026/10/parlament-chekhii-zapreshchaet-semku-bez-analiza-riskov-chto-23facae908ad1f16.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/parlament-chekhii-zapreshchaet-semku-bez-analiza-riskov-chto-fbf93b9fa59db9c8.webp",
@@ -12709,8 +12893,8 @@
    ],
    "published_at": "2026-10-28T11:37:29.871611+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "28 октября 2026, 11:37",
@@ -12870,7 +13054,7 @@
      "body_sha256": "56e3852b3325d76156da059ad3809d351ee3cc089f6edd678c1868e33fadee2b"
     }
    },
-   "rank": 65.603,
+   "rank": 64.951,
    "image_url": "https://img.24n.cz/p/2026/10/voditel-skoda-vrezalas-v-zabor-u-prazhskogo-aeroporta-72484d5e773666ec.webp",
    "image_w": 1200,
    "image_h": 800
@@ -13119,7 +13303,7 @@
      "body_sha256": "cf0b7f085136c4d18016a778b590f7fe7a720537e3a856207f40da67f0581d1d"
     }
    },
-   "rank": 97.308,
+   "rank": 96.33,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -13331,7 +13515,7 @@
      "body_sha256": "a697f52e3216b4459e25dbf3e5ba66bbb8503f35e081a70be85448531734a303"
     }
    },
-   "rank": 73.522,
+   "rank": 72.783,
    "sources": [
     {
      "domain": "inews.sk",
@@ -13512,7 +13696,7 @@
      "body_sha256": "33e10bba4844aa7123ace1448fab784ae5a5cdec5ccce5e04c7d36036210458c"
     }
    },
-   "rank": 80.73,
+   "rank": 79.918,
    "sources": [
     {
      "domain": "europesays.com",
@@ -13704,7 +13888,7 @@
      "body_sha256": "a55e92f1002f125ed8b8803013150069c89c6b6c08a702fa111ed9d0417db03e"
     }
    },
-   "rank": 75.684,
+   "rank": 74.923,
    "image_url": "https://img.24n.cz/p/2026/10/napadenie-v-plzni-zakliuchennyi-izranil-troikh-nadziratelei-4b716e373cc46575.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13924,7 +14108,7 @@
      "body_sha256": "f11f08237a3d2b553bcee9c7c23466d120ef94122e241073fba5d74c4bfd3a64"
     }
    },
-   "rank": 81.157,
+   "rank": 80.324,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -14166,7 +14350,7 @@
      "body_sha256": "130ac89bae06fd511259b139ed2ad53d4cb9766d13c5c7eb13e8bf4cb6a17ae9"
     }
    },
-   "rank": 74.1,
+   "rank": 73.339,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-diaspora-v-chikago-chto-ostalos-ot-istorii-2916c58a6817e8ad.webp",
    "image_w": 1200,
    "image_h": 675
@@ -14184,8 +14368,8 @@
    ],
    "published_at": "2026-10-28T09:29:44.301957+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "28 октября 2026, 09:29",
@@ -14363,7 +14547,7 @@
      "body_sha256": "95105256d8bf177f5cd5624d3578b4c64363800fa26c13779b871429b48dfc13"
     }
    },
-   "rank": 52.362
+   "rank": 51.819
   },
   {
    "id": "n7926",
@@ -14377,8 +14561,8 @@
    ],
    "published_at": "2026-10-28T09:29:44.301957+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "28 октября 2026, 09:29",
@@ -14546,7 +14730,7 @@
      "body_sha256": "fbb0c7e9b5e3c4cadfabfb8f8b34fc1c8f7bd376bc4c5ee823619381b7a644e7"
     }
    },
-   "rank": 41.89,
+   "rank": 41.455,
    "image_url": "https://img.24n.cz/p/2026/10/gulliverovy-cesty-vyroci-znamenityi-roman-otmechaet-vek-9690110395640939.jpeg",
    "image_w": 630,
    "image_h": 350
@@ -14729,7 +14913,7 @@
      "body_sha256": "d6c40902d89d5804062d5537a829c903011332bc3ebb160ae78da3044a078037"
     }
    },
-   "rank": 55.191,
+   "rank": 54.611,
    "image_url": "https://img.24n.cz/p/2026/10/v-cheshskie-kinoteatry-vykhodit-epicheskaia-ramaiana-rozhden-c2e5aded0731f537.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-cheshskie-kinoteatry-vykhodit-epicheskaia-ramaiana-rozhden-6ba5d3fdc1676234.webp",
@@ -14967,7 +15151,7 @@
      "body_sha256": "495aefc57b24553f817118891810994465d719f4bc0cb50cd2cf4cf54c1bce87"
     }
    },
-   "rank": 65.539,
+   "rank": 64.851,
    "image_url": "https://img.24n.cz/p/2026/10/tiche-propousteni-v-praci-6-priznakov-skrytogo-uvolneniia-b2246ceaeaaca07e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15259,7 +15443,7 @@
      "body_sha256": "f7bd4864b79674fdc9ac0a23a12173dfb08b512aeb9c40b1a1ee3a751c2627e2"
     }
    },
-   "rank": 87.103,
+   "rank": 86.785,
    "sources": [
     {
      "domain": "zdravotnickydenik.cz",
@@ -15473,7 +15657,7 @@
      "body_sha256": "b4764b81b4e89b521b892063e1c50e3fe3a0ce77df98b94eafb03a253643d2a9"
     }
    },
-   "rank": 78.436,
+   "rank": 77.603,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -15681,7 +15865,7 @@
      "body_sha256": "ab17cd5272b831fc33cbefde08102468e4933ea34e0abd22b77c8b6ec3c5927c"
     }
    },
-   "rank": 53.938
+   "rank": 53.359
   },
   {
    "id": "n7920",
@@ -15970,7 +16154,7 @@
      "body_sha256": "e799435ac580464d733cfdde18932ee5b5ce18aeebe64658a7d642e9aebb1937"
     }
    },
-   "rank": 57.309,
+   "rank": 56.694,
    "image_url": "https://img.24n.cz/p/2026/10/halloween-zlute-lazne-praha-predlozhit-detiam-kvesty-d9897ce0e2bf3c6a.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/halloween-zlute-lazne-praha-predlozhit-detiam-kvesty-c20b8849a4eac1ff.webp"
@@ -16224,7 +16408,7 @@
      "body_sha256": "f6ffeddefd5304d5bc54bceffd57bd5fe35cbb43a4c5febd8f783d835873f386"
     }
    },
-   "rank": 59.963,
+   "rank": 59.311,
    "image_url": "https://img.24n.cz/p/2026/10/pochemu-vitse-prezident-soiuza-promyshlennosti-ezdit-na-tesl-d84b01b9d37467c6.webp",
    "video": {
     "kind": "iframe",
@@ -16396,7 +16580,7 @@
      "body_sha256": "2cc08723f894e7221ba2b6ab81255bf3d50ecb35f215bc37f18de81237aaebbf"
     }
    },
-   "rank": 76.619
+   "rank": 75.786
   },
   {
    "id": "n7917",
@@ -16680,7 +16864,7 @@
      "body_sha256": "c92bc75589720410bc3f1798570067417a5dc01273bde32e226e7290b0ba57a3"
     }
    },
-   "rank": 70.122,
+   "rank": 69.35,
    "sources": [
     {
      "domain": "media24.cz",
@@ -16846,7 +17030,7 @@
      "body_sha256": "b83d5333d6d6a6c2e1611523447693baacbc3785510c198348d3c388ee336775"
     }
    },
-   "rank": 49.654,
+   "rank": 49.075,
    "sources": [
     {
      "domain": "metro.cz",
@@ -17122,7 +17306,7 @@
      "body_sha256": "cca61001bb81f3272820b9825576e850ac9fbff645e0c4e00f97d386f2177d99"
     }
    },
-   "rank": 52.758
+   "rank": 52.142
   },
   {
    "id": "n7914",
@@ -17294,7 +17478,7 @@
      "body_sha256": "bd51ef7fe4053ba6d351c5d1bb0141974b5284ea9cddce64245f4aa977d236de"
     }
    },
-   "rank": 67.714,
+   "rank": 66.881,
    "sources": [
     {
      "domain": "ekolist.cz",
@@ -17507,7 +17691,7 @@
      "body_sha256": "af1e96b7a860ebf531a1791b0bc5e350e03f12f766a4aebe70d705f5c42320f8"
     }
    },
-   "rank": 65.948,
+   "rank": 65.136,
    "sources": [
     {
      "domain": "press.news",
@@ -17849,7 +18033,7 @@
      "body_sha256": "1594dca2b21f75d24930c8bcdd23ddd4c72917dacc52b1e040b5cc9d6fe488c3"
     }
    },
-   "rank": 55.24,
+   "rank": 54.552,
    "image_url": "https://img.24n.cz/p/2026/10/opros-po-parkovke-v-prage-4-zony-khotiat-rasshirit-d293377d541431f6.webp",
    "image_w": 1366,
    "image_h": 910
@@ -18111,7 +18295,7 @@
      "body_sha256": "2fdf9a033a9d3a01874334aea4bec0015c2191556bd45e15b4dcad3336230f5b"
     }
    },
-   "rank": 60.474,
+   "rank": 59.72,
    "sources": [
     {
      "domain": "thingstodo.cz",
@@ -18468,7 +18652,7 @@
      "body_sha256": "7d11d5713e250aa0388d77bb8daae1608604587454ca73983f89899e86eff739"
     }
    },
-   "rank": 45.893,
+   "rank": 45.313,
    "image_url": "https://img.24n.cz/p/2026/10/gravel-running-nabiraet-populiarnost-salomon-vypustil-krosso-8f7c6c4e5d5f23e3.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -18674,7 +18858,7 @@
      "body_sha256": "db058dd813e1f0e6acf0a24fcc30913be69b52d63b93b0cba2d12a5a117bdae6"
     }
    },
-   "rank": 52.068,
+   "rank": 51.351,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -18905,7 +19089,7 @@
      "body_sha256": "240a96a736531eaf555d07f85d2c669e7210685d29066f74e57f1903aceda9e2"
     }
    },
-   "rank": 64.828,
+   "rank": 63.922,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -19010,7 +19194,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 43.497
+   "rank": 42.889
   },
   {
    "id": "n7906",
@@ -19276,7 +19460,7 @@
      "body_sha256": "c693cd2e5340d7ebb8ba0c827ebd3e7b3252addb90a1f5c70dbd0795f9d9e6a1"
     }
    },
-   "rank": 65.714,
+   "rank": 64.78,
    "sources": [
     {
      "domain": "praha.eu",
@@ -19494,7 +19678,7 @@
      "body_sha256": "894cd85d6282a38c116474a8093915be3a8ded7ffb0ffbc23b3efab3a87011a0"
     }
    },
-   "rank": 67.173,
+   "rank": 66.203,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -19671,7 +19855,7 @@
      "body_sha256": "02d2b1ae06372e805ea05b4771b7ce2783bc501a1c2c662c70e1b409e291e3f2"
     }
    },
-   "rank": 55.234,
+   "rank": 54.423,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -19855,7 +20039,7 @@
      "body_sha256": "f7f5c78a8785d19a4877fa630b0f41853ba317e5ffd692c1b233fbb66ef54a8e"
     }
    },
-   "rank": 50.436,
+   "rank": 49.682,
    "sources": [
     {
      "domain": "aktuality.sk",
@@ -19988,7 +20172,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 39.533,
+   "rank": 38.939,
    "forecast": true
   },
   {
@@ -20176,7 +20360,7 @@
      "body_sha256": "7dea352b0d40753c1e77b0e36856828eb10c21dd51da9ac3e51a33c9c2ba2530"
     }
    },
-   "rank": 52.672,
+   "rank": 51.86,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -20409,7 +20593,7 @@
      "body_sha256": "f527848fb91d41d6d32280ff8225c1b6c553c598e8b87ec3f9cee71f7ca6948c"
     }
    },
-   "rank": 53.218,
+   "rank": 52.385,
    "image_url": "https://img.24n.cz/p/2026/10/otets-i-syn-prigovorili-bezdomnykh-k-rabskomu-trudu-7-i-6-le-f2cd021246143ebe.webp",
    "image_w": 1200,
    "image_h": 675
@@ -20593,7 +20777,7 @@
      "body_sha256": "a5db8125deafe759deb7e6b3dd7756c34f847244c3cc96ac7fd9e93c6810c886"
     }
    },
-   "rank": 31.836,
+   "rank": 31.329,
    "image_url": "https://img.24n.cz/p/2026/10/na-kolinsku-zakryvaiut-malokomplektnye-shkoly-ne-khvataet-de-2592220cd1fe93aa.webp",
    "image_w": 620,
    "image_h": 349
@@ -20779,7 +20963,7 @@
      "body_sha256": "c5ce4d9051d515e9a87b079dcc4100f6b3b5666058a96faf9289c00aa4b7705f"
     }
    },
-   "rank": 50.028
+   "rank": 49.231
   },
   {
    "id": "n7897",
@@ -20979,7 +21163,7 @@
      "body_sha256": "9c7226be4859fad10c1f1e7f5dd2d1278495a49b0046a4d27ae3d6dc19619b83"
     }
    },
-   "rank": 38.049,
+   "rank": 37.433,
    "image_url": "https://img.24n.cz/p/2026/10/kto-reshaet-o-krupnykh-tratakh-i-investitsiiakh-v-cheshskikh-b244f6358ab4b1ef.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -21170,7 +21354,7 @@
      "body_sha256": "4d74311637d2b6ea2830ae508b9b276708bcf4044fc50ee235bc9acf99fe02a5"
     }
    },
-   "rank": 53.717,
+   "rank": 52.847,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -21385,7 +21569,7 @@
      "body_sha256": "cfdd07375d40020d2b3149da8611fdcac875cf996e544f755608b3b27d2e174f"
     }
    },
-   "rank": 45.659,
+   "rank": 44.92,
    "sources": [
     {
      "domain": "e15.cz",
@@ -21640,7 +21824,7 @@
      "body_sha256": "8bdb5979381ed53d12da5cc403e45eb677ef1ccec4ccea7d0872452ef2c4d9fd"
     }
    },
-   "rank": 53.637,
+   "rank": 52.753,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -21914,7 +22098,7 @@
      "body_sha256": "3ee1e6a2f99c19238c8cf289314b60772247b5112e43aef736e003381eb25618"
     }
    },
-   "rank": 45.723,
+   "rank": 44.97,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -22227,7 +22411,7 @@
      "body_sha256": "3807b482653a7f27d534a7744ae7f3175cded8424329d67f6aaaec4db60f057c"
     }
    },
-   "rank": 54.955,
+   "rank": 54.05,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -22444,7 +22628,7 @@
      "body_sha256": "a39d05a7c8df34ac16175ac486749c9a63e39030266bd1a9d0ff93f34158af1e"
     }
    },
-   "rank": 47.504,
+   "rank": 46.708,
    "sources": [
     {
      "domain": "jicinsky.denik.cz",
@@ -22655,7 +22839,7 @@
      "body_sha256": "1ca0eb9e3f04283ff0045b1add866957e5cc73965c3325f2c314b285dab72de8"
     }
    },
-   "rank": 49.664,
+   "rank": 48.831,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -22955,7 +23139,7 @@
      "body_sha256": "2a768982f2ec41176db44ef1f9520f91032478d6b188fd40e5907aa87d83b9ad"
     }
    },
-   "rank": 53.982,
+   "rank": 53.077,
    "sources": [
     {
      "domain": "prahain.cz",
@@ -23168,7 +23352,7 @@
      "body_sha256": "100cf1a1e43c19dc3b1ccadb538a734078b908789aed72d872b9b0abd660d6eb"
     }
    },
-   "rank": 40.93,
+   "rank": 40.191,
    "sources": [
     {
      "domain": "press.news",
@@ -23331,7 +23515,7 @@
      "body_sha256": "8a2418deb1d7ffbd3c4830cdd8fc45cfaa1766e067310721cbe42d2652c98303"
     }
    },
-   "rank": 46.147
+   "rank": 45.314
   },
   {
    "id": "n7886",
@@ -23482,7 +23666,7 @@
      "body_sha256": "50ffc67de5a738b3d58a35a46391af563bfb99d537e71c21f3c77855e79a86c7"
     }
    },
-   "rank": 42.134
+   "rank": 41.374
   },
   {
    "id": "n7885",
@@ -23655,7 +23839,7 @@
      "body_sha256": "96435a10b394b3b093328f7b02ff6463741a01586615c00a5b7140e772ddaec6"
     }
    },
-   "rank": 46.147,
+   "rank": 45.314,
    "image_url": "https://img.24n.cz/p/2026/10/sud-v-znoimo-vynes-prigovor-za-izdevatelstva-nad-zhenshchino-d92b4a84bf7fc0b4.webp",
    "image_w": 1200,
    "image_h": 675
@@ -23844,7 +24028,7 @@
      "body_sha256": "1d8c579983ba5387df17b24138b6820b7f8481643f735062cda89b1b4f1e94c9"
     }
    },
-   "rank": 36.464,
+   "rank": 35.779,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -24087,7 +24271,7 @@
      "body_sha256": "f1e7cb0bd2e6981cdf1054b30f7728ad00a6a20a3eba08daf36cf01552d7a5ea"
     }
    },
-   "rank": 81.177
+   "rank": 80.826
   },
   {
    "id": "n7882",
@@ -24294,7 +24478,7 @@
      "body_sha256": "9bca2aa34cbb6e249befaa61ac7f7eb2014b264ef6268015237ea3f1a0d99a9a"
     }
    },
-   "rank": 43.14,
+   "rank": 42.314,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -24391,7 +24575,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 31.741
+   "rank": 31.125
   },
   {
    "id": "n7880",
@@ -24591,7 +24775,7 @@
      "body_sha256": "b890bc2277e86e614ac6805699a7e832c3483e31297be9071b7cac186c240302"
     }
    },
-   "rank": 42.272,
+   "rank": 41.446,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -24753,7 +24937,7 @@
      "body_sha256": "3ce55c8aea1f488fbb8e12e9b7e2617bdb518d8bb21d108d919acd9cbd2f94dd"
     }
    },
-   "rank": 34.114,
+   "rank": 33.448,
    "sources": [
     {
      "domain": "metro.cz",
@@ -25022,7 +25206,7 @@
      "body_sha256": "fd8d3160915eed190f11de9a4b11fb9279a5382641444db00fd0bfb04a3d6b99"
     }
    },
-   "rank": 37.822,
+   "rank": 37.083,
    "sources": [
     {
      "domain": "namireno.cz",
@@ -37316,7 +37500,7 @@
      "body_sha256": "f6f902385933342e33a43ab72bfcaa6ee4980f5d79b73c6afd8cb30d5dd33142"
     }
    },
-   "rank": 61.225,
+   "rank": 60.907,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -39402,7 +39586,7 @@
      "body_sha256": "f51af716e74894a4e5ba82101df9c31dc6d177dfdffabcb6337ceb6d8774896f"
     }
    },
-   "rank": 66.172,
+   "rank": 65.821,
    "sources": [
     {
      "domain": "n1.cz",
@@ -41731,8 +41915,8 @@
    ],
    "published_at": "2026-10-26T09:37:48.657184+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "26 октября 2026, 09:37",
@@ -41927,8 +42111,8 @@
    ],
    "published_at": "2026-10-26T09:37:48.657184+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "26 октября 2026, 09:37",
@@ -42176,8 +42360,8 @@
    ],
    "published_at": "2026-10-26T09:37:48.657184+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "26 октября 2026, 09:37",
@@ -64642,196 +64826,6 @@
    "image_url": "https://img.24n.cz/p/2026/10/v-poezdakh-chekhii-teper-mozhno-platit-kartoi-dazhe-bez-mobi-bacc70a7f3764e14.webp",
    "image_w": 1000,
    "image_h": 550
-  },
-  {
-   "id": "n7690",
-   "slug": "advokat-rasskazala-o-domashnem-nasilii-i-bezdeistvii-politsii",
-   "source": "novinky.cz",
-   "original_url": "https://www.novinky.cz/clanek/podcasty-verim-ti-svedectvi-lucie-partner-me-skrtil-a-nicil-veci-po-rozchodu-prisly-vyhruzky-a-stalking-40603642",
-   "top": false,
-   "tags": [
-    "cesko",
-    "kriminal"
-   ],
-   "published_at": "2026-10-22T12:50:09.034739+02:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "22 октября 2026, 12:50",
-    "uk": "22 жовтня 2026, 12:50"
-   },
-   "ru": {
-    "title": "Адвокат рассказала о домашнем насилии и бездействии полиции",
-    "lede": "Чешский адвокат Lucie поделилась историей о домашнем насилии со стороны бывшего партнера, столкнувшись с равнодушием полиции и органов опеки.",
-    "meta_description": "Адвокат Lucie рассказала о пережитом домашнем насилии, преследованиях и бездействии полиции в подкасте организации Věřím ti.",
-    "paras": [
-     "Адвокат Lucie поделилась тяжелым опытом домашнего насилия, с которым столкнулась шесть лет назад. Хотя сами отношения длились меньше двух лет, а после расставания прошло уже шесть лет, последствия тех событий она ощущает до сих пор. Ее история прозвучала в подкасте Nejseš sám, который выходит под эгидой организации Věřím ti.",
-     "После распада брака она завязала новые отношения. Первые два или три месяца всё складывалось благополучно, однако вскоре стали возникать сцены ревности, особенно под воздействием алкоголя. Партнеру не нравилось, когда она общалась со знакомыми или с бывшим мужем по поводу детей, а со временем ситуация переросла в физическое агрессию.",
-     "Во время одного из конфликтов мужчина попытался отобрать у нее телефон. Когда она отказалась его отдавать, он начал ее толкать и душить, из-за чего она ударилась головой. Шум разбудил детей, и соседи вызвали полицию, которая отвезла мужчину в вытрезвитель.",
-     "Ситуация осложнилась реакцией правоохранительных органов. В тот день у Lucie были гости, и она выпила около трех бокалов вина. На следующий день во время дачи показаний ей заявили, что она вряд ли хочет слышать слухи о себе в доме как о пьющей женщине, после чего происшествие оформили просто как обычную ссору.",
-     "Не удалось найти поддержку и в органах опеки OSPODu. Сотрудница заявила, что они ничего не могут предпринять, так как пара не проживает совместно. Хотя у мужчины была своя квартира, он пользовался ключами от ее жилья и бывал там по несколько недель в неделю.",
-     "После каждого проявления насилия партнер обещал исправиться, но одновременно убеждал женщину в ее собственной вине. Из-за этого она постепенно прекратила общение со старыми друзьями. Мужчина постоянно заставлял ее ударять сообщения с оскорблениями и угрозами, лишая ее доказательств.",
-     "Очередной серьезный инцидент произошел в отеле в Праге, где Lucie остановилась перед сдачей важного экзамена. После посещения паба, где она не пила алкоголь, мужчина устроил сцену из-за того, что к ней обратился знакомый мужчина нетрадиционной ориентации. Он разбил в гостинице телефон, которым она хотела вызвать помощь, и порвал ее одежду.",
-     "В течение всего романа он неоднократно ломал ее телефоны или прокалывал шины на машине, хотя обычно возмещал причиненный ущерб. Позже она самостоятельно подготовила материалы для подачи заявления в полицию, однако разорвать эти отношения окончательно тогда не получилось.",
-     "После расставания преследования продолжились. Мужчина поджидал ее возле работы и дома, прячась в кустах, из-за чего друзьям приходилось ее провожать. В почтовый ящик он бросал разрезанные на части подарки и интимные фотографии, сделанные им без ее ведома во время видеозвонков, а также угрожал их обнародовать.",
-     "Однажды полиция обнаружила его спрятанным возле ее дома, причем он утверждал, что просто наблюдает за птицами. Его снова отправили в вытрезвитель, куда за все время его доставляли около четырех раз. Когда она собрала новые улики и нашла в себе силы снова обратиться в полицию, ей сообщили, что дело уже закрыто, несмотря на продолжающуюся клевету о ее якобы нестабильном психическом состоянии и проблемах с алкоголем.",
-     "Ситуация сдвинулась с мертвой точки, когда с ней связалась новая партнерша этого мужчины, столкнувшаяся с аналогичным поведением. Это известие вызвало у Lucie посттравматическое стрессовое расстройство, после чего она вместе с адвокатом решила подать официальное заявление.",
-     "Уголовное преследование было условно остановлено с испытательным сроком на 18 месяцев. Мужчина обязан был перечислить 20 тысяч крон на помощь жертвам преступлений и выплатить Lucie около 50 тысяч крон в качестве компенсации ущерба."
-    ],
-    "faq": [
-     {
-      "q": "Кто такая Lucie?",
-      "a": "Она адвокат и бывшая жертва домашнего насилия, которая поделилась своей историей в подкасте."
-     },
-     {
-      "q": "Какое наказание понес партнер?",
-      "a": "Уголовное преследование было условно остановлено на 18 месяцев, он выплатил 20 тысяч крон на помощь жертвам и около 50 тысяч крон компенсации."
-     }
-    ],
-    "impact": "Уголовное преследование обидчика завершилось условным прекращением дела с испытательным сроком на 18 месяцев, выплатой 20 тысяч крон в фонд помощи жертвам и компенсацией пострадавшей около 50 тысяч крон.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "После расставания преследования продолжились: мужчина поджидал Lucie у работы и дома, бросал в почтовый ящик разрезанные подарки и интимные фото и угрожал их обнародовать.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Полиция закрыла дело, несмотря на новые улики и продолжающуюся клевету о её психическом состоянии и проблемах с алкоголем.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Уголовное преследование было условно остановлено с испытательным сроком 18 месяцев.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Мужчина обязан перечислить 20 тысяч крон в помощь жертвам преступлений и выплатить Lucie около 50 тысяч крон компенсации ущерба.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "вытрезвитель",
-       "definition": "Учреждение, куда полиция доставляла мужчину после инцидентов; за всё время его доставляли туда около четырёх раз.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "органах опеки OSPODu",
-       "definition": "Орган, куда Lucie обратилась за поддержкой; сотрудница заявила, что они ничего не могут предпринять, так как пара не проживает совместно.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "3a95694eb15f04099961076f527811b68343ed06a527a9c8a656a60157f86d1d"
-    }
-   },
-   "uk": {
-    "title": "Адвокатка розповіла про домашнє насильство та бездіяльність поліції",
-    "lede": "Чеська адвокатка Lucie поділилася історією про домашнє насильство з боку колишнього партнера, зіткнувшись із байдужістю поліції та органів опіки.",
-    "meta_description": "Адвокатка Lucie розповіла про пережите домашнє насильство, переслідування та бездіяльність поліції в подкасті організації Věřím ti.",
-    "paras": [
-     "Адвокатка Lucie поділилася важким досвідом домашнього насильства, з яким зіткнулася шість років тому. Хоча самі стосунки тривали менше ніж два роки, а після розставання минуло вже шість років, наслідки тих подій вона відчуває досі. Її історія пролунала в подкасті Nejseš sám, який виходить під егідою організації Věřím ti.",
-     "Після розпаду шлюбу вона зав'язала нові стосунки. Перші два чи три місяці все складалося благополучно, проте незабаром почали виникати сцени ревнощів, особливо під впливом алкоголю. Партнеру не подобалося, коли вона спілкувалася зі знайомими чи з колишнім чоловіком з приводу дітей, а з часом ситуація переросла у фізичну агресію.",
-     "Під час одного з конфліктів чоловік спробував відібрати в неї телефон. Коли вона відмовилася його віддавати, він почав її штовхати і душити, через що вона вдарилася головою. Шум розбудив дітей, і сусіди викликали поліцію, яка відвезла чоловіка у витверезник.",
-     "Ситуація ускладнилася реакцією правоохоронних органів. Того дня у Lucie були гості, і вона випила близько трьох бокалів вина. Наступного дня під час дачі показів їй заявили, що вона навряд чи хоче чути чутки про себе в будинку як про жінки, що п'є, після чого подію оформили просто як звичайну сварку.",
-     "Не вдалося знайти підтримку і в органах опіки OSPODu. Співробітниця заявила, що вони нічого не можуть вжити, оскільки пара не проживає спільно. Хоча у чоловіка була своя квартира, він користувався ключами від її житла і бував там по кілька тижнів на тиждень.",
-     "Після кожного прояву насильства партнер обіцяв виправитися, але водночас переконував жінку в її власній вині. Через це вона поступово припинила спілкування зі старими друзями. Чоловік постійно змушував її видаляти повідомлення з образами та погрозами, позбавляючи її доказів.",
-     "Черговий серйозний інцидент стався в готелі у Празі, де Lucie зупинилася перед здаванням важливого іспиту. Після відвідування пабу, де вона не пила алкоголь, чоловік влаштував сцену через те, що до неї звернувся знайомий чоловік нетрадиційної орієнтації. Він розбив у готелі телефон, яким вона хотіла викликати допомогу, і порвав її одяг.",
-     "Протягом усього роману він неодноразово ламав її телефони або прокалывал шини на машині, хоча зазвичай відшкодовував заподіяну шкоду. Пізніше вона самостійно підготувала матеріали для подання заяви до поліції, проте розірвати ці стосунки остаточно тоді не вийшло.",
-     "Після розставання переслідування продовжилися. Чоловік чекав на неї біля роботи і будинку, ховаючись у кущах, через що друзям доводилося її проводжати. У поштову скриньку він кидав розрізані на частини подарунки та інтимні фотографії, зроблені ним без її відома під час відеодзвінків, а також погрожував їх оприлюднити.",
-     "Одного разу поліція виявила його захованим біля її будинку, причому він стверджував, що просто спостерігає за птахами. Його знову відправили у витверезник, куди за весь час його доставляли близько чотирьох разів. Коли вона зібрала нові докази і знайшла в собі сили знову звернутися до поліції, їй повідомили, що справу вже зарито, незважаючи на триваючі наклепи про її нібито нестабільний психічний стан і проблеми з алкоголем.",
-     "Ситуація зрушила з мертвої точки, коли з нею зв'язалася нова партнерка цього чоловіка, яка зіткнулася з аналогічною поведінкою. Ця звістка викликала у Lucie посттравматичний стресовий розлад, після чого вона разом з адвокаткою вирішила подати офіційну заяву.",
-     "Кримінальне переслідування було умовно зупинено з випробувальним терміном на 18 місяців. Чоловік був зобов'язаний перерахувати 20 тисяч крон на допомогу жертвам злочинів і виплатити Lucie близько 50 тисяч крон як компенсацію збитку."
-    ],
-    "faq": [
-     {
-      "q": "Хто така Lucie?",
-      "a": "Вона адвокатка та колишня жертва домашнього насильства, яка поділилася своєю історією в подкасті."
-     },
-     {
-      "q": "Яке покарання зазнав партнер?",
-      "a": "Кримінальне переслідування було умовно зупинено на 18 місяців, він виплатив 20 тисяч крон на допомогу жертвам і близько 50 тисяч крон компенсації."
-     }
-    ],
-    "impact": "Уголовное преследование обидчика завершилось условным прекращением дела с испытательным сроком на 18 месяцев, выплатой 20 тысяч крон в фонд помощи жертвам и компенсацией пострадавшей около 50 тысяч крон.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Lucie зазнала домашнього насильства від партнера, з яким стосунки тривали менше ніж два роки, а наслідки відчуває й через шість років після розставання.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Поліція оформила інцидент як звичайну сварку, згадавши, що Lucie того дня випила близько трьох бокалів вина.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В органах опіки OSPOD відмовили в допомозі, пояснивши це тим, що пара не проживає спільно.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Кримінальне переслідування умовно зупинили з випробувальним терміном на 18 місяців, зобов'язавши чоловіка сплатити 20 тисяч крон на допомогу жертвам і близько 50 тисяч крон компенсації Lucie.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "витверезник",
-       "definition": "Місце, куди поліція доставляла чоловіка після інцидентів; за весь час його відвозили туди близько чотирьох разів.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "органах опіки OSPODu",
-       "definition": "Установа, до якої Lucie зверталася по підтримку; там заявили, що нічого не можуть вжити, оскільки пара не проживає спільно.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "a0bbdd246d3c893c8b1b8cda6dc4d526713761483d8cae136f89c08c70a1cc10"
-    }
-   },
-   "rank": 63.0,
-   "image_url": "https://img.24n.cz/p/2026/10/advokat-rasskazala-o-domashnem-nasilii-i-bezdeistvii-politsi-9cdaebd3ca097c04.webp",
-   "image_w": 1200,
-   "image_h": 675
   }
  ]
 }
