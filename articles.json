@@ -1,8 +1,186 @@
 {
- "updated_at": "2026-10-30T08:04:53+00:00",
+ "updated_at": "2026-10-30T08:35:49+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8049",
+   "slug": "krazha-koshelka-v-bare-praga-s-karty-ukrali-30-tysiach-kron",
+   "source": "nasepraha.cz",
+   "original_url": "https://www.nasepraha.cz/zmizela-penezenka-z-uctu-pres-30-tisic-policie-resi-zahadu-jak-se-zlodej-dostal-k-pin-kodu/",
+   "top": false,
+   "tags": [
+    "praha",
+    "kriminal",
+    "cesko"
+   ],
+   "published_at": "2026-10-30T09:35:48.560903+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "30 октября 2026, 09:35",
+    "uk": "30 жовтня 2026, 09:35"
+   },
+   "ru": {
+    "title": "Кража кошелька в баре Прага: с карты украли 30 тысяч крон",
+    "lede": "Поход в бар в центре Праги обернулся для 35-летнего иностранца потерей кошелька и крупной суммы денег. Пока владелец пытался заблокировать карты, злоумышленник успел снять наличные в банкомате.",
+    "meta_description": "В пражском баре на улице Jakubská у иностранца украли кошелек. С карты сняли более 30 тысяч крон. Полиция ищет подозреваемого.",
+    "paras": [
+     "<p>Ночь в центре столицы закончилась для 35-летнего иностранца крупной потерей. Отдыхал он в заведении на улице Jakubská в Праге 1 и не заметил, как лишился кошелька с банковскими картами. Пропажу мужчина обнаружил не сразу. Когда попытался заблокировать счета, стало ясно: чужими деньгами уже воспользовались.</p>",
+     "<p>Пражский портал prazsky.denik.cz пишет, что случилось это 17 октября около часу ночи. Перед входом в помещение потерпевший проверил карман куртки, где лежал кошелек. Все было на месте. А спустя какое-то время портмоне исчезло.</p>",
+     "<h3>Загадка с пин-кодом</h3>",
+     "<p>Заблокировать карты вовремя не вышло. Преступник дошел до ближайшего банкомата на улице Dlážděná и снял с чужого счета больше 30 000 крон. Весь ущерб оказался выше этой суммы.</p>",
+     "<p>Дело ведут полицейские из отделения Můstek. У них есть записи камер видеонаблюдения: на них видно, как обналичивали деньги. Подозреваемого пока не установили. Следователи не понимают главного: откуда он узнал PIN-код, без которого такую сумму со счета не снять.</p>",
+     "<h3>Полиция просит о помощи</h3>",
+     "<p>Полиция просит помочь найти этого человека. Мужчине грозит до двух лет тюрьмы: его подозревают в неправомерном приобретении, подделке и изменении платежного средства.</p>",
+     "<blockquote>Если вы узнаете мужчину на записи с камеры или у вас есть любая информация, которая поможет его найти, звоните, пожалуйста, по номеру 158.</blockquote>",
+     "<p>Кадры с разыскиваемым полиция опубликовала в пресс-службе.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Где произошла кража кошелька?",
+      "a": "В баре на улице Jakubská в Праге 1."
+     },
+     {
+      "q": "Сколько денег сняли с украденной карты?",
+      "a": "Более 30 000 крон."
+     },
+     {
+      "q": "Куда звонить, если я узнал подозреваемого?",
+      "a": "По номеру 158."
+     },
+     {
+      "q": "Какое наказание грозит подозреваемому?",
+      "a": "До двух лет лишения свободы."
+     }
+    ],
+    "impact": "Если вы стали жертвой кражи банковских карт в Чехии, немедленно заблокируйте их через мобильное приложение банка или горячую линию и обратитесь в полицию по номеру 158.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "35-летний иностранец потерял кошелек с банковскими картами в баре на улице Jakubská в Праге 1.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Преступник снял с чужого счета более 30 000 крон через банкомат на улице Dlážděná.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Полиция не установила, как злоумышленник узнал PIN-код карты.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Подозреваемому грозит до двух лет тюрьмы за неправомерное приобретение и изменение платежного средства.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "152b19c564d53e9efd66d5c655b8b032cea61ee060426b7d267941990437ad34"
+    }
+   },
+   "uk": {
+    "title": "Крадіжка гаманця в барі Праги: з картки зняли 30 тисяч крон",
+    "lede": "Похід до бару в центрі Праги обернувся для 35-річного іноземця втратою гаманця й великої суми грошей. Поки власник намагався заблокувати картки, зловмисник встиг зняти готівку в банкоматі.",
+    "meta_description": "У празькому барі на вулиці Jakubská в іноземця вкрали гаманець. З картки зняли понад 30 тисяч крон. Поліція шукає підозрюваного.",
+    "paras": [
+     "<p>Ніч у центрі столиці закінчилася для 35-річного іноземця великою втратою. Відпочивав він у закладі на вулиці Jakubská у Празі 1 і не помітив, як позбувся гаманця з банківськими картками. Пропажу чоловік виявив не одразу. Коли спробував заблокувати рахунки, стало ясно: чужими грошима вже скористалися.</p>",
+     "<p>Празький портал prazsky.denik.cz пише, що сталося це 17 жовтня близько першої години ночі. Перед входом до приміщення потерпілий перевірив кишеню куртки, де лежав гаманець. Усе було на місці. А за якийсь час гаманець зник.</p>",
+     "<h3>Загадка з пін-кодом</h3>",
+     "<p>Заблокувати картки вчасно не вдалося. Зловмисник дійшов до найближчого банкомата на вулиці Dlážděná і зняв із чужого рахунку понад 30 000 крон. Загальна шкода виявилася більшою за цю суму.</p>",
+     "<p>Справу ведуть поліцейські з відділення Můstek. У них є записи камер відеоспостереження: на них видно, як знімали гроші. Підозрюваного поки не встановили. Слідчі не розуміють головного: звідки він дізнався PIN-код, без якого таку суму з рахунку не зняти.</p>",
+     "<h3>Поліція просить про допомогу</h3>",
+     "<p>Поліція просить допомогти знайти цього чоловіка. Йому загрожує до двох років тюрми: його підозрюють у незаконному придбанні, підробці та зміні платіжного засобу.</p>",
+     "<blockquote>Якщо ви впізнаєте чоловіка на записі з камери або маєте будь-яку інформацію, яка допоможе його знайти, телефонуйте, будь ласка, за номером 158.</blockquote>",
+     "<p>Кадри з розшукуваним поліція опублікувала у пресслужбі.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Де сталася крадіжка гаманця?",
+      "a": "У барі на вулиці Jakubská у Празі 1."
+     },
+     {
+      "q": "Скільки грошей зняли з украденої картки?",
+      "a": "Понад 30 000 крон."
+     },
+     {
+      "q": "Куди телефонувати, якщо я впізнав підозрюваного?",
+      "a": "За номером 158."
+     },
+     {
+      "q": "Яке покарання загрожує підозрюваному?",
+      "a": "До двох років позбавлення волі."
+     }
+    ],
+    "impact": "Если вы стали жертвой кражи банковских карт в Чехии, немедленно заблокируйте их через мобильное приложение банка или горячую линию и обратитесь в полицию по номеру 158.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "35-річний іноземець втратив гаманець з банківськими картками у барі на вулиці Jakubská в Празі 1, не помітивши пропажі одразу.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Зловмисник зняв понад 30 000 крон з рахунку потерпілого через банкомат на вулиці Dlážděná до блокування карток.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Поліція розслідує справу, але не знає, як зловмисник дізнався PIN-код картки.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Підозрюваному загрожує до двох років ув’язнення за незаконне придбання, підробку та зміну платіжного засобу.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "144cf52efb3d4e48eb2f78e6b33b2c2b6c603905bf391bd25451b569e540c839"
+    }
+   },
+   "rank": 97.0,
+   "sources": [
+    {
+     "domain": "prazsky.denik.cz",
+     "official": false,
+     "url": "https://prazsky.denik.cz/krimi/zlodej-vzal-cizinci-v-baru-penezenku-z-karty-vybral-30-tisic-hleda-ho-policie/",
+     "title": "Zloděj vzal cizinci v baru peněženku, z karty vybral 30 tisíc. Hledá ho policie – Pražský deník"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "video": {
+    "kind": "iframe",
+    "url": "https://www.youtube-nocookie.com/embed/eXFB_PwDMtM"
+   }
+  },
   {
    "id": "n8048",
    "slug": "ftc-proveriaet-walmart-uber-i-aviakompanii-za-personalizirovannye-tsen",
@@ -15,8 +193,8 @@
    ],
    "published_at": "2026-10-30T09:04:52.775808+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "30 минут назад",
+    "uk": "30 хвилин тому"
    },
    "date": {
     "ru": "30 октября 2026, 09:04",
@@ -297,8 +475,8 @@
    ],
    "published_at": "2026-10-30T08:29:31.439334+01:00",
    "time": {
-    "ru": "35 минут назад",
-    "uk": "35 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "30 октября 2026, 08:29",
@@ -491,8 +669,8 @@
    ],
    "published_at": "2026-10-30T08:29:31.439334+01:00",
    "time": {
-    "ru": "35 минут назад",
-    "uk": "35 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "30 октября 2026, 08:29",
@@ -978,8 +1156,8 @@
    ],
    "published_at": "2026-10-30T07:24:48.256119+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 07:24",
@@ -1152,7 +1330,7 @@
    "slug": "v-chekhii-izmeniatsia-limity-na-otchisleniia-dlia-brigadnikov",
    "source": "novinky.cz",
    "original_url": "https://www.novinky.cz/clanek/ekonomika-brigadnici-si-budou-moci-vydelat-vice-40603073",
-   "top": false,
+   "top": true,
    "tags": [
     "zakon",
     "ekonomika",
@@ -1160,8 +1338,8 @@
    ],
    "published_at": "2026-10-30T07:24:48.256119+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 07:24",
@@ -1968,8 +2146,8 @@
    ],
    "published_at": "2026-10-30T06:20:29.748998+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 06:20",
@@ -2197,7 +2375,7 @@
      "body_sha256": "a52bad3fef5d03701fbe6cc5f5d4a719cf302da61519a69b78ca1b995c83c7c4"
     }
    },
-   "rank": 95.0,
+   "rank": 94.65,
    "sources": [
     {
      "domain": "media24.cz",
@@ -2237,8 +2415,8 @@
    ],
    "published_at": "2026-10-30T06:20:29.748998+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 06:20",
@@ -2587,7 +2765,7 @@
      "body_sha256": "b809d18674e89664963daef65277856beb5cab00d4698c654c02179230e7e3d9"
     }
    },
-   "rank": 74.651,
+   "rank": 74.093,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -2653,8 +2831,8 @@
    ],
    "published_at": "2026-10-30T05:17:09.002785+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 05:17",
@@ -2788,7 +2966,7 @@
      "body_sha256": "277809568f7861ff9afcac0c118006e0e1e8460bacea6961c98cb5994cfa233a"
     }
    },
-   "rank": 93.908,
+   "rank": 93.201,
    "image_url": "https://img.24n.cz/p/2026/10/legendarnaia-plastilinovaia-igra-the-neverhood-otmechaet-iub-c591b18050257324.webp",
    "video": {
     "kind": "iframe",
@@ -2810,8 +2988,8 @@
    ],
    "published_at": "2026-10-30T05:17:09.002785+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 05:17",
@@ -2955,7 +3133,7 @@
      "body_sha256": "5ab2a12a3352abdbc1451915a89da91730262aee8b5a519659b872b0e28b2b30"
     }
    },
-   "rank": 103.793,
+   "rank": 103.011,
    "sources": [
     {
      "domain": "bild.de",
@@ -2987,8 +3165,8 @@
    ],
    "published_at": "2026-10-30T05:17:09.002785+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 05:17",
@@ -3182,7 +3360,7 @@
      "body_sha256": "ff6cbe8217eeb711d81003748d1d7db642b423e4f7cccaef41763b3d2ea8f74b"
     }
    },
-   "rank": 88.966,
+   "rank": 88.295,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/HcY3a4jzJLk"
@@ -3201,8 +3379,8 @@
    ],
    "published_at": "2026-10-30T05:17:09.002785+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 05:17",
@@ -3516,7 +3694,7 @@
      "body_sha256": "1086b248fe43633849fc79c136094eb193bd826be505e60e5deafef3fb6fe20f"
     }
    },
-   "rank": 98.851
+   "rank": 98.106
   },
   {
    "id": "n8033",
@@ -3530,8 +3708,8 @@
    ],
    "published_at": "2026-10-30T05:17:09.002785+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "30 октября 2026, 05:17",
@@ -3818,7 +3996,7 @@
      "body_sha256": "2c4869f814092b4a3a13736b3d281b3a2dd39eb845c98eb8ea5ddc5c3bfdc4c4"
     }
    },
-   "rank": 93.908
+   "rank": 93.201
   },
   {
    "id": "n8032",
@@ -3832,8 +4010,8 @@
    ],
    "published_at": "2026-10-30T04:11:51.660272+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 04:11",
@@ -3995,7 +4173,7 @@
      "body_sha256": "fe0b50b615c5778cf8fefb10f8ee3f95ec6c72a47e1f7d8d26ed72067e7efc9e"
     }
    },
-   "rank": 87.551,
+   "rank": 86.881,
    "sources": [
     {
      "domain": "metro.cz",
@@ -4212,7 +4390,7 @@
      "body_sha256": "09ade1eba2c81fea2eb77421ded7e8e67c7575256514d6f697c0bc15065b5647"
     }
    },
-   "rank": 89.493,
+   "rank": 88.786,
    "image_url": "https://img.24n.cz/p/2026/10/prazhskie-strazhniki-poimali-opasnykh-voditelei-i-narushitel-80fedb31b0fea3eb.webp",
    "image_w": 1200,
    "image_h": 752
@@ -4229,8 +4407,8 @@
    ],
    "published_at": "2026-10-30T01:32:04.189903+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 01:32",
@@ -4367,7 +4545,7 @@
      "body_sha256": "a72dc56ea5e36b4bf949f57f6c73b1dc7d5dfe60e4a7cc870936b1dbc9ee0b65"
     }
    },
-   "rank": 111.184,
+   "rank": 110.298,
    "sources": [
     {
      "domain": "polar.cz",
@@ -4427,8 +4605,8 @@
    ],
    "published_at": "2026-10-30T01:32:04.189903+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 01:32",
@@ -4556,7 +4734,7 @@
      "body_sha256": "66dce5494765ca83376516dbf5d4038ad632f98da7c64c2964711b4b574bb8b3"
     }
    },
-   "rank": 112.118,
+   "rank": 111.225,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -4594,8 +4772,8 @@
    ],
    "published_at": "2026-10-30T01:32:04.189903+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 01:32",
@@ -4811,7 +4989,7 @@
      "body_sha256": "4851568e30f22a83e91ce276a38fb77c802c20c44dc2787fef2a9ad1ef52402a"
     }
    },
-   "rank": 93.432
+   "rank": 92.687
   },
   {
    "id": "n8027",
@@ -4825,8 +5003,8 @@
    ],
    "published_at": "2026-10-30T01:32:04.189903+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 01:32",
@@ -4978,7 +5156,7 @@
      "body_sha256": "28cc3dcd3434177e603cceb46c4191e18c66b2a09f89e36ccf71989da9ea91a3"
     }
    },
-   "rank": 102.775,
+   "rank": 101.956,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -5021,8 +5199,8 @@
    ],
    "published_at": "2026-10-30T00:23:56.134939+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 00:23",
@@ -5136,7 +5314,7 @@
     ],
     "impact": "Обновление принесет поддержку новых устройств и рост производительности для пользователей Linux, однако конкретные сроки релиза финальной версии 7.4 зависят от завершения тестирования патчей."
    },
-   "rank": 82.613,
+   "rank": 81.942,
    "sources": [
     {
      "domain": "holographica.space",
@@ -5172,8 +5350,8 @@
    ],
    "published_at": "2026-10-30T00:23:56.134939+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "30 октября 2026, 00:23",
@@ -5365,7 +5543,7 @@
      "body_sha256": "66b00844d52c7705f95499c21a8988785d3e2b40f4b739858604a1db8523c575"
     }
    },
-   "rank": 82.613,
+   "rank": 81.942,
    "sources": [
     {
      "domain": "boleslavsky.denik.cz",
@@ -5395,8 +5573,8 @@
    ],
    "published_at": "2026-10-29T23:17:41.435909+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 23:17",
@@ -5557,7 +5735,7 @@
      "body_sha256": "19eb08a7aad5057f2b295f32095ea513e06d266e1c2f9ce59a200b727d918646"
     }
    },
-   "rank": 101.021,
+   "rank": 100.187,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -5769,7 +5947,7 @@
      "body_sha256": "fe842841551b29b44d8cfac96ab2300a9c82336308159fb5eacfbc1474755fdd"
     }
    },
-   "rank": 84.996,
+   "rank": 84.289,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -6069,7 +6247,7 @@
      "body_sha256": "dce4f3ac2561bc438693c2921d7f363640ab18568e1e56a50df83adba381bacf"
     }
    },
-   "rank": 83.505,
+   "rank": 82.797,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -6108,8 +6286,8 @@
    ],
    "published_at": "2026-10-29T21:11:12.848312+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 21:11",
@@ -6328,7 +6506,7 @@
      "body_sha256": "9a06cb45a3ada92c02f0836bc3442dadb3faa0a82947d584a0a3243099bd6fc3"
     }
    },
-   "rank": 112.426,
+   "rank": 111.466,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -6403,7 +6581,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 72.992
+   "rank": 72.367
   },
   {
    "id": "n8019",
@@ -6589,7 +6767,7 @@
      "body_sha256": "ec7f7d5bccb799b54133f77c8f9dc4ecfb7901c6b7ef94dbb7b9e3b08c41b50b"
     }
    },
-   "rank": 95.038,
+   "rank": 94.219,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -6621,7 +6799,7 @@
    "slug": "afrikanskii-mor-svinei-chekhiia-frydlantsko-otmena-karantina",
    "source": "novinky.cz",
    "original_url": "https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-na-frydlantsku-skoncilo-posledni-pasmo-vymezene-kvuli-africkemu-moru-prasat-40605269",
-   "top": true,
+   "top": false,
    "tags": [
     "zakon",
     "cesko"
@@ -6866,7 +7044,7 @@
      "body_sha256": "4c83f3c1abf6715fd9be5588c3db93378c1353a5075376971b3d110c363a3074"
     }
    },
-   "rank": 120.958,
+   "rank": 119.916,
    "sources": [
     {
      "domain": "press.news",
@@ -6921,8 +7099,8 @@
    ],
    "published_at": "2026-10-29T19:34:16.031452+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 19:34",
@@ -7171,7 +7349,7 @@
      "body_sha256": "e61d9e568ec2b4f324dd4e419bbd239b8a3694f6311f21cdc7aa70a88b4dc592"
     }
    },
-   "rank": 100.934,
+   "rank": 100.048,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -7203,8 +7381,8 @@
    ],
    "published_at": "2026-10-29T18:32:32.473323+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 18:32",
@@ -7248,7 +7426,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 68.332,
+   "rank": 67.722,
    "forecast": true
   },
   {
@@ -7465,7 +7643,7 @@
      "body_sha256": "50e850dc8ec232c8c87ff498bde92d4c9a0b450ed69034cb4fda1848fd554c1a"
     }
    },
-   "rank": 103.09,
+   "rank": 102.16,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -7504,8 +7682,8 @@
    ],
    "published_at": "2026-10-29T17:29:23.054192+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 17:29",
@@ -7660,7 +7838,7 @@
      "body_sha256": "c1546334467ca65be4afe92224ca630fd5b57f2bd963da103dfa77d087d731d9"
     }
    },
-   "rank": 89.993,
+   "rank": 89.174,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -7695,8 +7873,8 @@
    ],
    "published_at": "2026-10-29T17:29:23.054192+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 17:29",
@@ -7873,7 +8051,7 @@
      "body_sha256": "844e7e353c27f49c0955494f2d78491fa7ca50d7cd5eb338fcbcc59fd00707a8"
     }
    },
-   "rank": 85.084,
+   "rank": 84.31,
    "sources": [
     {
      "domain": "pragueexaminer.com",
@@ -8201,7 +8379,7 @@
      "body_sha256": "6502a6fae9ce5960417ac9d5adf19ff3b35962bea9f335333d7ab81b7af745f9"
     }
    },
-   "rank": 91.381,
+   "rank": 90.525,
    "image_url": "https://img.24n.cz/p/2026/10/s-2027-goda-v-chekhii-izmeniatsia-pravila-trudovogo-prava-po-9af081dfa28aa23c.webp",
    "image_w": 750,
    "image_h": 300
@@ -8414,7 +8592,7 @@
      "body_sha256": "27c57aa3722cab9fc3045ec4529a8009918c540a34ff4a7388d2588fab4c9e84"
     }
    },
-   "rank": 96.944,
+   "rank": 96.035,
    "sources": [
     {
      "domain": "tvspravy.sk",
@@ -8443,8 +8621,8 @@
    ],
    "published_at": "2026-10-29T15:22:20.795430+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 15:22",
@@ -8606,7 +8784,7 @@
      "body_sha256": "ffa88d24d7b957572f5ef4b391ecd969de437b7a0be5ec1379a87a4dd68ea4f9"
     }
    },
-   "rank": 82.691,
+   "rank": 81.909,
    "image_url": "https://img.24n.cz/p/2026/10/nochnoi-klub-evropy-pochemu-tsentr-pragi-ne-spit-po-nocham-eddc05680be51c82.webp",
    "image_w": 1200,
    "image_h": 675
@@ -8623,8 +8801,8 @@
    ],
    "published_at": "2026-10-29T15:22:20.795430+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 15:22",
@@ -8796,7 +8974,7 @@
      "body_sha256": "5dec5bcdd8d0402a6f5099f587c251da64ca3c59e9dabff9eebe022d4c0b1d0a"
     }
    },
-   "rank": 77.966,
+   "rank": 77.229,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -8846,8 +9024,8 @@
    ],
    "published_at": "2026-10-29T15:22:20.795430+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 15:22",
@@ -9074,7 +9252,7 @@
      "body_sha256": "e0462e5af02e1df50aebe5478c3c515465501ed211bc940bb54cd271724edaf8"
     }
    },
-   "rank": 88.204,
+   "rank": 87.37,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -9322,7 +9500,7 @@
      "body_sha256": "2482f41954d195b1cb8b4a2e272021f123bcde6c16a4802a30fa3be485c5af18"
     }
    },
-   "rank": 70.17
+   "rank": 69.5
   },
   {
    "id": "n8006",
@@ -9495,7 +9673,7 @@
      "body_sha256": "ffe4d407e5936943ec45e1654ee31a1cb6bb2b9d37903e922fd18689aa7fe279"
     }
    },
-   "rank": 81.866,
+   "rank": 81.084,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -9733,7 +9911,7 @@
      "body_sha256": "902de358e21c05bc33612254cad275c25203482912617f1c22f89ab92440cc1c"
     }
    },
-   "rank": 39.727,
+   "rank": 39.34,
    "sources": [
     {
      "domain": "genus.cz",
@@ -9923,7 +10101,7 @@
      "body_sha256": "daff8579700e6877c651ce0863dac6ae865d79005f50e378f03f18205cbcdca9"
     }
    },
-   "rank": 80.218,
+   "rank": 79.436,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10002,8 +10180,8 @@
    ],
    "published_at": "2026-10-29T13:08:26.875824+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "29 октября 2026, 13:08",
@@ -10161,7 +10339,7 @@
      "body_sha256": "89f9890757715e0bd19104fcaa25d6bf44265e2170406121c434679745c73a03"
     }
    },
-   "rank": 82.328,
+   "rank": 81.516,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -10424,7 +10602,7 @@
      "body_sha256": "35b2faa5edd775619e168c6b8502a0da59433d58352f778c526933ea0b98f99d"
     }
    },
-   "rank": 71.07,
+   "rank": 70.362,
    "image_url": "https://img.24n.cz/p/2026/10/praga-gotova-k-zime-tekhnika-reagenty-i-uborka-ulits-5b5a3541cee70b17.webp",
    "image_w": 904,
    "image_h": 509
@@ -10648,7 +10826,7 @@
      "body_sha256": "b36a234ea87c80e1e24c3488aeb2dd60309727b8d44624f39c084c30a41e76d2"
     }
    },
-   "rank": 74.81
+   "rank": 74.066
   },
   {
    "id": "n8000",
@@ -10904,7 +11082,7 @@
      "body_sha256": "1d794d8f61198d59d8b4cc273a2d6b40cc9c0630b2667028e373b07fc62a6683"
     }
    },
-   "rank": 85.094,
+   "rank": 84.238,
    "sources": [
     {
      "domain": "divadlo.cz",
@@ -11204,7 +11382,7 @@
      "body_sha256": "451726289357f2b7cd229dcc21d3fad0780cee5c4dc0ccabf8c994a4ae4b5bc6"
     }
    },
-   "rank": 85.094,
+   "rank": 84.238,
    "sources": [
     {
      "domain": "hygpraha.cz",
@@ -11426,7 +11604,7 @@
      "body_sha256": "bb3cd70b3d95a1ef7a977113612e2739c4637e025e45fd4d1a025bc8ac9b0cfd"
     }
    },
-   "rank": 77.695
+   "rank": 76.913
   },
   {
    "id": "n7997",
@@ -11592,7 +11770,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 65.039
+   "rank": 64.384
   },
   {
    "id": "n7996",
@@ -11606,8 +11784,8 @@
    ],
    "published_at": "2026-10-29T11:31:04.742178+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 11:31",
@@ -11784,7 +11962,7 @@
      "body_sha256": "d319bed804c0c9f75c7f84c80ee3641f41d02b68a7fb4b4298b01191049f51e8"
     }
    },
-   "rank": 84.164,
+   "rank": 83.308,
    "sources": [
     {
      "domain": "plzen.cz",
@@ -11860,8 +12038,8 @@
    ],
    "published_at": "2026-10-29T11:31:04.742178+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 11:31",
@@ -11995,7 +12173,7 @@
      "body_sha256": "adc82486335f48a0023ecb63f2fe42419533bc382dc5af1edca5f2f356c01822"
     }
    },
-   "rank": 69.527,
+   "rank": 68.819,
    "image_url": "https://img.24n.cz/p/2026/10/na-kolee-v-chekhii-poezd-protaranil-konia-i-kamen-3a8be24d31cffc29.webp",
    "image_w": 675,
    "image_h": 506
@@ -12013,8 +12191,8 @@
    ],
    "published_at": "2026-10-29T10:23:44.545720+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "29 октября 2026, 10:23",
@@ -12186,7 +12364,7 @@
      "body_sha256": "fb70ab158efd6e1fef26a1de9ec0d075533a79c2b078f3aa0fb774f6360682f0"
     }
    },
-   "rank": 67.987,
+   "rank": 67.279,
    "image_url": "https://img.24n.cz/p/2026/10/troikh-muzhchin-obvinili-v-popytke-podkupa-izbiratelei-na-vy-4f0ed7751b9e6d15.webp",
    "image_w": 916,
    "image_h": 599
@@ -12370,7 +12548,7 @@
      "body_sha256": "e373c9f0c5044f374b7acdd896c06d76f3d43e888eb6c8f48ad7cfa127f9650b"
     }
    },
-   "rank": 63.755,
+   "rank": 63.085,
    "image_url": "https://img.24n.cz/p/2026/10/v-turnov-deputaty-ot-ano-vyshli-iz-dvizheniia-4833813dde87de02.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12387,8 +12565,8 @@
    ],
    "published_at": "2026-10-29T09:23:30.247775+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "29 октября 2026, 09:23",
@@ -12548,7 +12726,7 @@
      "body_sha256": "ca311f4d7615b48427a37a1f73de32ad6482445e4ce2f67c4074c9178b79a09a"
     }
    },
-   "rank": 83.436,
+   "rank": 82.55,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -12754,7 +12932,7 @@
      "body_sha256": "2d3bd0d6ea5e2896101103f5435366e06c4240b4e17f3d77596541c8059b17d2"
     }
    },
-   "rank": 86.693,
+   "rank": 85.763,
    "sources": [
     {
      "domain": "tvspravy.sk",
@@ -12947,7 +13125,7 @@
      "body_sha256": "51de3ee8bcc9002bf4ea9041cc3d3b8c21f37209c0bee58daf9f966a84e61d9f"
     }
    },
-   "rank": 82.832,
+   "rank": 81.923,
    "sources": [
     {
      "domain": "prosvet.cz",
@@ -13203,7 +13381,7 @@
      "body_sha256": "8ad4e0877be59f5e0e8035416abf07fad17c226f52246ef5cbc3cc927eef3fdb"
     }
    },
-   "rank": 81.474,
+   "rank": 80.58,
    "sources": [
     {
      "domain": "itbiz.cz",
@@ -13422,7 +13600,7 @@
      "body_sha256": "dd51aae2398a9d0390d773970288c50496a107a75886f77afca0a04db9d8e25f"
     }
    },
-   "rank": 78.079,
+   "rank": 77.223,
    "image_url": "https://img.24n.cz/p/2026/10/sud-reshil-chto-psikhotravma-v-missii-mozhet-byt-travmoi-cfd1b1c0f9d97ed6.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13607,7 +13785,7 @@
      "body_sha256": "fa53321deee1bd60591b87906ee523763732a0350a070eb8a91cfdcf1dbf2463"
     }
    },
-   "rank": 60.356,
+   "rank": 59.686,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-predprinimatel-zapustil-servis-matevolno-81fe73b29a97e5be.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/cheshskii-predprinimatel-zapustil-servis-matevolno-e322c3df9c45a917.webp"
@@ -13816,7 +13994,7 @@
      "body_sha256": "65ec061d17307e78c1dc427d974e71e331e7e6ce2f6042c74c3acfd808be8222"
     }
    },
-   "rank": 56.354,
+   "rank": 55.722,
    "image_url": "https://img.24n.cz/p/2026/10/starosta-orlovoi-izbavilas-ot-stroitelnoi-firmy-posle-zakazo-c3d5dc51f6951d2d.webp",
    "image_w": 1200,
    "image_h": 674
@@ -14127,7 +14305,7 @@
      "body_sha256": "9d24c3159a6e1f765aa28415769cfc269e7f5111e75999bd34e063f6a97b93ac"
     }
    },
-   "rank": 61.57,
+   "rank": 60.863,
    "sources": [
     {
      "domain": "forum24.cz",
@@ -14454,7 +14632,7 @@
      "body_sha256": "c27ebc310fb0f8f4b2acd8938189074515ec16227e7c713d723fb386fe7b0ab6"
     }
    },
-   "rank": 72.588,
+   "rank": 71.754,
    "sources": [
     {
      "domain": "stavbaweb.cz",
@@ -14671,7 +14849,7 @@
      "body_sha256": "42b32e07fd32bead1ac1d71419905316a5fa6f5c3c2b21954e4ce8b32269a431"
     }
    },
-   "rank": 60.831,
+   "rank": 60.124,
    "image_url": "https://img.24n.cz/p/2026/10/predprinimatel-zarabotal-100-millionov-kron-na-sdelke-so-svo-dc8ed8fc2b809bdf.webp",
    "image_w": 1200,
    "image_h": 675
@@ -14965,7 +15143,7 @@
      "body_sha256": "c6952bbd4c9cd33b3f8e0e3d8355e416c4fb04a99a11ace99c5468d5d2364926"
     }
    },
-   "rank": 71.716,
+   "rank": 70.883,
    "sources": [
     {
      "domain": "heroine.cz",
@@ -15178,7 +15356,7 @@
      "body_sha256": "5bc612567386559094f01431cf287f8f40a8771b1d47836a95413adc4d08d4ba"
     }
    },
-   "rank": 70.436,
+   "rank": 69.617,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-armiia-ne-gotova-k-bolshomu-konfliktu-i-ne-vypoln-1db649f454ef7922.webp",
    "image_w": 620,
    "image_h": 349
@@ -15360,7 +15538,7 @@
      "body_sha256": "f5443925da8170fae0e316ceac5aa9c524d3735c3c8bf3b78c7ff145eb74e775"
     }
    },
-   "rank": 62.459,
+   "rank": 61.715,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -15599,7 +15777,7 @@
      "body_sha256": "c10bc71a31f689ad17ec23ab7bd4018f81b3ce4089e99db66018c26a95610f2a"
     }
    },
-   "rank": 70.122,
+   "rank": 69.266,
    "sources": [
     {
      "domain": "europesays.com",
@@ -15890,7 +16068,7 @@
      "body_sha256": "c39ac946ee4b9b773379e46c5f767740e6bd4ae34e6a33666c8b2a96dd5b3293"
     }
    },
-   "rank": 70.77,
+   "rank": 69.884,
    "sources": [
     {
      "domain": "firkusny.cz",
@@ -16089,7 +16267,7 @@
      "body_sha256": "408ebea42f9d1d592204df2dafd90bd7543f7ec999a9dcb088a16578d7d95ad6"
     }
    },
-   "rank": 49.913,
+   "rank": 49.28,
    "image_url": "https://img.24n.cz/p/2026/10/uborka-ulits-v-prage-daet-bezdomnym-shans-na-novuiu-zhizn-21893d78649bb658.webp",
    "image_w": 600,
    "image_h": 315
@@ -16330,7 +16508,7 @@
      "body_sha256": "88d7dc349e4743d87b48af92bac2b278e05202d81cee493c3abc87045bada642"
     }
    },
-   "rank": 52.849,
+   "rank": 52.179,
    "image_url": "https://img.24n.cz/p/2026/10/polnoe-zakrytie-sitensky-most-v-kladno-obezdy-i-sroki-d3626f924028c371.webp",
    "image_w": 1600,
    "image_h": 1200
@@ -16490,7 +16668,7 @@
      "body_sha256": "4c3037074a6a9da6186783b7713c6364ea33dde586c4c5ddc08c1f6a45b7679e"
     }
    },
-   "rank": 67.529,
+   "rank": 66.673,
    "image_url": "https://img.24n.cz/p/2026/10/instagram-bezopasnost-detei-suitsid-v-britanskom-kino-d017996cb54c27ba.webp",
    "image_w": 1200,
    "image_h": 675
@@ -16672,7 +16850,7 @@
      "body_sha256": "3bd6dd0ebc87422cd2f7520d9dd5fb66f409745d113f759824289c10461d6cbb"
     }
    },
-   "rank": 64.593,
+   "rank": 63.774,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -16905,7 +17083,7 @@
      "body_sha256": "faa12a61167562c83677c05475d3bc24594a55da60a55f4ec478de1421e39ecd"
     }
    },
-   "rank": 90.056,
+   "rank": 89.698,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -17118,7 +17296,7 @@
      "body_sha256": "b3b275416df8c26d6be80722c17ca3dd3c34d1d59edea93598fb66dcb01babbe"
     }
    },
-   "rank": 89.689,
+   "rank": 89.332,
    "sources": [
     {
      "domain": "plus.rozhlas.cz",
@@ -17498,7 +17676,7 @@
      "body_sha256": "f3a61169a2692b65dcccf2169a0bdd2f7781f18d1e069f446d11a613ff4ed1b2"
     }
    },
-   "rank": 48.608,
+   "rank": 47.975,
    "image_url": "https://img.24n.cz/p/2026/10/micro-udobnyi-tekstovyi-redaktor-dlia-linux-s-podderzhkoi-my-c4159e00c99f398a.webp",
    "video": {
     "kind": "iframe",
@@ -17702,7 +17880,7 @@
      "body_sha256": "cdf18138d493f6869fba17e91fca0b5c8afa5c8fa3a77a3d144308376f5fbaf5"
     }
    },
-   "rank": 57.186,
+   "rank": 56.441,
    "sources": [
     {
      "domain": "twistedvoxel.com",
@@ -17941,7 +18119,7 @@
      "body_sha256": "d2994a42c638e07cef3a0e912a0854cec32688286dbb5e7568c405dbabc4b6e4"
     }
    },
-   "rank": 47.907,
+   "rank": 47.274,
    "image_url": "https://img.24n.cz/p/2026/10/biznesmen-bez-opyta-stroit-v-jizera-gorakh-shale-na-meste-sg-73c1a547f0c478b2.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -18168,7 +18346,7 @@
      "body_sha256": "f8494a65bedb961a2d93bab6e6db58c091e6b380d6b790877468b29e192ceed3"
     }
    },
-   "rank": 41.674,
+   "rank": 41.115,
    "sources": [
     {
      "domain": "atlas.centrum.cz",
@@ -18393,7 +18571,7 @@
      "body_sha256": "f0558c69e207712ff15389c0e635877e99e6fda7ea0b21ff17b042a917512abf"
     }
    },
-   "rank": 66.678,
+   "rank": 65.785,
    "image_url": "https://img.24n.cz/p/2026/10/prezident-chekhii-posmertno-nagradil-legendarnuiu-vera-casla-1963361cdd978c8e.webp",
    "image_w": 800,
    "image_h": 450
@@ -18568,7 +18746,7 @@
      "body_sha256": "733769256235b01c04b5464578dbaaee9bce994444de5db0ed394ce5702e39ea"
     }
    },
-   "rank": 62.113,
+   "rank": 61.257,
    "image_url": "https://img.24n.cz/p/2026/10/prezident-pavel-dolgi-za-komfort-segodnia-oplatiat-deti-zavt-338ad9ae659fca8d.webp",
    "image_w": 1200,
    "image_h": 675
@@ -18721,7 +18899,7 @@
      "body_sha256": "a09c00962273eaf80755dbc8e645590b5694a71277e081467a5640d725039364"
     }
    },
-   "rank": 50.61,
+   "rank": 49.903,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-prezident-nagradil-metsenatov-vlckovi-za-pomoshch-529831662db4c36f.webp",
    "image_w": 620,
    "image_h": 349
@@ -18874,7 +19052,7 @@
      "body_sha256": "a6c55dde8d1745c9dce28352f5a6cc14a36fbbbe1f019d3fcd753c37e5dfd32c"
     }
    },
-   "rank": 55.405,
+   "rank": 54.63,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -19066,7 +19244,7 @@
      "body_sha256": "c8e73314645d98e7554ef916ac61df8f70e34047b9b6b04193ae1576bcb6735e"
     }
    },
-   "rank": 63.928,
+   "rank": 63.035,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/Tyu2-wJxSt0"
@@ -19259,7 +19437,7 @@
      "body_sha256": "b5f4f94a8e262300ccbb99dcf4861497a0424aba2fc6c4cda23cab6084d60e4e"
     }
    },
-   "rank": 64.071,
+   "rank": 63.163,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -19326,7 +19504,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 43.871
+   "rank": 43.245
   },
   {
    "id": "n7960",
@@ -19491,7 +19669,7 @@
      "body_sha256": "b0e2754e3005098eb4183fea8d098561f96895c48b79240222a7813daef6c501"
     }
    },
-   "rank": 44.765,
+   "rank": 44.103,
    "sources": [
     {
      "domain": "radiotv.cz",
@@ -19778,7 +19956,7 @@
      "body_sha256": "c4ed4df167f7b14c55b27716dc3f0b92a9d4a3bd750f535699838a792f17f7e0"
     }
    },
-   "rank": 55.328,
+   "rank": 54.509,
    "image_url": "https://img.24n.cz/p/2026/10/kompaniia-apple-vpervye-predstavila-macbook-pro-s-sensornym-c765c9e9cf1f10c6.webp",
    "video": {
     "kind": "iframe",
@@ -19953,7 +20131,7 @@
      "body_sha256": "3d14d5963ef486c30d320727d963fdd1afdf4abf23ba468f063c936558b1c849"
     }
    },
-   "rank": 56.951,
+   "rank": 56.095,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -20162,7 +20340,7 @@
      "body_sha256": "515a644d2bfe1729e453da53ea8ceddef615e713f13103bc50b9511a39b8caa4"
     }
    },
-   "rank": 29.218,
+   "rank": 28.779,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -20418,7 +20596,7 @@
      "body_sha256": "d4d3a0c282aaeac4fd37b2db8e3214a1e0bf02ed26e32c643bfdd9fc823e3cde"
     }
    },
-   "rank": 56.951,
+   "rank": 56.095,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -20710,7 +20888,7 @@
      "body_sha256": "ce703265ef1c9f3da08fbacbeec8c8ca1d8ee3b0463d52f914807c348c513376"
     }
    },
-   "rank": 55.514,
+   "rank": 54.665,
    "sources": [
     {
      "domain": "rockcellarmagazine.com",
@@ -20787,7 +20965,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 39.906,
+   "rank": 39.296,
    "forecast": true
   },
   {
@@ -20978,7 +21156,7 @@
      "body_sha256": "981127c28d641b47df83757b7c6cd6f79bab3557dc9a2159cafbe25e4cb0dfde"
     }
    },
-   "rank": 53.715,
+   "rank": 52.881,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -21207,7 +21385,7 @@
      "body_sha256": "ddf12622901dd0cd294d2564e3e2e5ef3fb2343efd31f1a530d4e9ab254479d1"
     }
    },
-   "rank": 54.238
+   "rank": 53.382
   },
   {
    "id": "n7951",
@@ -21421,7 +21599,7 @@
      "body_sha256": "1d9011e029fec669da74f2810659221ec981b98eaa9ab3fdabdd1a5e91ca8c0e"
     }
    },
-   "rank": 55.253,
+   "rank": 54.367,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -21781,7 +21959,7 @@
      "body_sha256": "ef696d95afaf22b9eaf248b9e53c4cb02d5f4a875b7d0b8ff3d280929beec1ae"
     }
    },
-   "rank": 48.752
+   "rank": 47.971
   },
   {
    "id": "n7949",
@@ -21949,7 +22127,7 @@
      "body_sha256": "4faf6f66e60eabca4b26605cafe36686ba2c07d2adf80cd776de0d2003f9ab95"
     }
    },
-   "rank": 30.18
+   "rank": 29.696
   },
   {
    "id": "n7948",
@@ -22110,7 +22288,7 @@
      "body_sha256": "b4bf96ed8eadc72d2e7b5e42a35b1c1f8d23d97ff5e6a8aa9a0b5d090225a97a"
     }
    },
-   "rank": 40.983,
+   "rank": 40.313,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-13-masshtabnaia-rekonstruktsiia-preobrazit-panskuiu-7b984850cf97d8f5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/v-prage-13-masshtabnaia-rekonstruktsiia-preobrazit-panskuiu-e3b3db97d58bbec9.webp"
@@ -22339,7 +22517,7 @@
      "body_sha256": "2f6501fcc66aaae9c011c17390542e0e2749f342cbc7a069504913242ec25fc7"
     }
    },
-   "rank": 46.568,
+   "rank": 45.793,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -22523,7 +22701,7 @@
      "body_sha256": "d65943bc6e3868c67cab7d39fc3ed343c7bf74c963b09d8d16ba0f3cdb32c8c6"
     }
    },
-   "rank": 46.181,
+   "rank": 45.399,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -22777,7 +22955,7 @@
      "body_sha256": "e04c0f2e97f56ee42d50bc6c9b34857075d5b71e8239bb2c3b0b9732401a25ea"
     }
    },
-   "rank": 34.596,
+   "rank": 34.0,
    "image_url": "https://img.24n.cz/p/2026/10/la-fabrika-zavershaet-god-iarkimi-premerami-i-kontsertami-e07406bbd0a1d8b5.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/la-fabrika-zavershaet-god-iarkimi-premerami-i-kontsertami-3eeffff6940e95c3.webp",
@@ -23000,7 +23178,7 @@
      "body_sha256": "34087d5b43c6b5202c79c7013be2090d4e2f415c68431dce88493cf1e7011a33"
     }
    },
-   "rank": 27.644,
+   "rank": 27.16,
    "image_url": "https://img.24n.cz/p/2026/10/otkaz-v-uchebe-privel-ee-v-kafe-i-k-brendu-dorogikh-ukrashen-7a183817780b41fd.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/otkaz-v-uchebe-privel-ee-v-kafe-i-k-brendu-dorogikh-ukrashen-4b89168a2796f3da.webp"
@@ -23298,7 +23476,7 @@
      "body_sha256": "516fd8240d93a072e516a2c4dcd0f10f32fba4b3fb8bd4408800c4b10badc4e9"
     }
    },
-   "rank": 36.15
+   "rank": 35.517
   },
   {
    "id": "n7942",
@@ -23522,7 +23700,7 @@
      "body_sha256": "30916d62145df32c5f3f57750fd087b3e101eeff56332d419dbabcf80b7b0abc"
     }
    },
-   "rank": 44.655,
+   "rank": 43.874,
    "sources": [
     {
      "domain": "media24.cz",
@@ -23720,7 +23898,7 @@
      "body_sha256": "dcd2bcab8bddaa2c7d6c6df65e4571fa53de083b34f0127bc124c94d04297ec7"
     }
    },
-   "rank": 38.132,
+   "rank": 37.425,
    "image_url": "https://img.24n.cz/p/2026/10/premer-ministr-chekhii-i-uroki-prava-chto-skazat-studentam-o-ce426cf00ef73bb3.webp",
    "image_w": 1200,
    "image_h": 674
@@ -23888,7 +24066,7 @@
      "body_sha256": "f446f70c0b87ac39a49b620798dcba36d9f306be9a7235a2fb8c6079b218c743"
     }
    },
-   "rank": 32.111,
+   "rank": 31.516,
    "image_url": "https://img.24n.cz/p/2026/10/v-zline-reshaiut-kakoi-budet-novaia-koalitsiia-21-golos-ili-067a4774e6a5a129.webp",
    "image_w": 620,
    "image_h": 349
@@ -24076,7 +24254,7 @@
      "body_sha256": "05d695457b11fd940bbbb7c78e5a04645ea349a0b2c7cd6c70db63c70e3e8e17"
     }
    },
-   "rank": 32.111,
+   "rank": 31.516,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-otkryvaetsia-novyi-iaponskii-restoran-s-firmennymi-s-445b94418914a83d.webp",
    "image_w": 1600,
    "image_h": 901
@@ -24254,7 +24432,7 @@
      "body_sha256": "45a1a32d8c7e6e7042f685f9f6e13124a99692e81104affede4b960c27d78cce"
     }
    },
-   "rank": 40.942,
+   "rank": 40.182,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -24613,7 +24791,7 @@
      "body_sha256": "5dbe29606a4f31bdde1c0a3dbde780270a3b6b7c0704fef78382fbe3855881bd"
     }
    },
-   "rank": 39.377,
+   "rank": 38.633,
    "image_url": "https://img.24n.cz/p/2026/10/zimnie-shiny-v-chekhii-pravila-shtrafy-i-tseny-na-sezon-2026-5bcd8e969c0335f0.webp",
    "image_w": 1366,
    "image_h": 910
@@ -24830,7 +25008,7 @@
      "body_sha256": "d0a1dfe746f40f258bd07caced0403562773aa96961a2f35d13130c2549b45af"
     }
    },
-   "rank": 34.806,
+   "rank": 34.136,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskie-birzhi-truda-massovo-perekladyvaiut-klientov-na-nk-2ceda7eb799fb1b7.webp",
    "image_w": 1200,
    "image_h": 674
@@ -25028,7 +25206,7 @@
      "body_sha256": "d0cd90d83736b34c57bf1d46baf1ce8a7d01c76dcf9c37cec67e2298ce69c879"
     }
    },
-   "rank": 73.811,
+   "rank": 73.484,
    "image_url": "https://img.24n.cz/p/2026/10/parlament-chekhii-zapreshchaet-semku-bez-analiza-riskov-chto-23facae908ad1f16.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/parlament-chekhii-zapreshchaet-semku-bez-analiza-riskov-chto-fbf93b9fa59db9c8.webp",
@@ -25242,7 +25420,7 @@
      "body_sha256": "56e3852b3325d76156da059ad3809d351ee3cc089f6edd678c1868e33fadee2b"
     }
    },
-   "rank": 34.806,
+   "rank": 34.136,
    "image_url": "https://img.24n.cz/p/2026/10/voditel-skoda-vrezalas-v-zabor-u-prazhskogo-aeroporta-72484d5e773666ec.webp",
    "image_w": 1200,
    "image_h": 800
@@ -25491,7 +25669,7 @@
      "body_sha256": "cf0b7f085136c4d18016a778b590f7fe7a720537e3a856207f40da67f0581d1d"
     }
    },
-   "rank": 51.113,
+   "rank": 50.108,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -25703,7 +25881,7 @@
      "body_sha256": "a697f52e3216b4459e25dbf3e5ba66bbb8503f35e081a70be85448531734a303"
     }
    },
-   "rank": 38.619,
+   "rank": 37.86,
    "sources": [
     {
      "domain": "inews.sk",
@@ -25884,7 +26062,7 @@
      "body_sha256": "33e10bba4844aa7123ace1448fab784ae5a5cdec5ccce5e04c7d36036210458c"
     }
    },
-   "rank": 42.405,
+   "rank": 41.571,
    "sources": [
     {
      "domain": "europesays.com",
@@ -26076,7 +26254,7 @@
      "body_sha256": "a55e92f1002f125ed8b8803013150069c89c6b6c08a702fa111ed9d0417db03e"
     }
    },
-   "rank": 39.755,
+   "rank": 38.973,
    "image_url": "https://img.24n.cz/p/2026/10/napadenie-v-plzni-zakliuchennyi-izranil-troikh-nadziratelei-4b716e373cc46575.webp",
    "image_w": 1200,
    "image_h": 675
@@ -26296,7 +26474,7 @@
      "body_sha256": "f11f08237a3d2b553bcee9c7c23466d120ef94122e241073fba5d74c4bfd3a64"
     }
    },
-   "rank": 41.806,
+   "rank": 40.95,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -26538,7 +26716,7 @@
      "body_sha256": "130ac89bae06fd511259b139ed2ad53d4cb9766d13c5c7eb13e8bf4cb6a17ae9"
     }
    },
-   "rank": 38.171,
+   "rank": 37.389,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskaia-diaspora-v-chikago-chto-ostalos-ot-istorii-2916c58a6817e8ad.webp",
    "image_w": 1200,
    "image_h": 675
@@ -26556,8 +26734,8 @@
    ],
    "published_at": "2026-10-28T09:29:44.301957+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "28 октября 2026, 09:29",
@@ -26735,7 +26913,7 @@
      "body_sha256": "95105256d8bf177f5cd5624d3578b4c64363800fa26c13779b871429b48dfc13"
     }
    },
-   "rank": 26.699
+   "rank": 26.25
   },
   {
    "id": "n7926",
@@ -26749,8 +26927,8 @@
    ],
    "published_at": "2026-10-28T09:29:44.301957+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "28 октября 2026, 09:29",
@@ -26918,7 +27096,7 @@
      "body_sha256": "fbb0c7e9b5e3c4cadfabfb8f8b34fc1c8f7bd376bc4c5ee823619381b7a644e7"
     }
    },
-   "rank": 21.359,
+   "rank": 21.0,
    "image_url": "https://img.24n.cz/p/2026/10/gulliverovy-cesty-vyroci-znamenityi-roman-otmechaet-vek-9690110395640939.jpeg",
    "image_w": 630,
    "image_h": 350
@@ -27631,7 +27809,7 @@
      "body_sha256": "f7bd4864b79674fdc9ac0a23a12173dfb08b512aeb9c40b1a1ee3a751c2627e2"
     }
    },
-   "rank": 72.099,
+   "rank": 71.773,
    "sources": [
     {
      "domain": "zdravotnickydenik.cz",
@@ -36459,7 +36637,7 @@
      "body_sha256": "f1e7cb0bd2e6981cdf1054b30f7728ad00a6a20a3eba08daf36cf01552d7a5ea"
     }
    },
-   "rank": 64.595
+   "rank": 64.234
   },
   {
    "id": "n7882",
@@ -37422,8 +37600,8 @@
    ],
    "published_at": "2026-10-27T09:11:07.583482+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "27 октября 2026, 09:11",
@@ -37620,8 +37798,8 @@
    ],
    "published_at": "2026-10-27T09:11:07.583482+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "27 октября 2026, 09:11",
@@ -37876,8 +38054,8 @@
    ],
    "published_at": "2026-10-27T09:11:07.583482+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "27 октября 2026, 09:11",
@@ -65341,230 +65519,6 @@
    "image_url": "https://img.24n.cz/p/2026/10/podozrenie-v-falsifikatsii-vyborov-v-obshchine-prameny-10-iz-1591c851247bd8d0.webp",
    "image_w": 1200,
    "image_h": 674
-  },
-  {
-   "id": "n7747",
-   "slug": "avariia-shiuroka-niva-bruntal-zhenshchina-vrezalas-v-derevo",
-   "source": "tydenikpolicie.cz",
-   "original_url": "https://tydenikpolicie.cz/ridicka-u-siroke-nivy-na-bruntalsku-nabourala-do-stromu/",
-   "top": false,
-   "tags": [
-    "kriminal",
-    "cesko"
-   ],
-   "published_at": "2026-10-23T16:37:33.647607+02:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "23 октября 2026, 16:37",
-    "uk": "23 жовтня 2026, 16:37"
-   },
-   "ru": {
-    "title": "Авария Шюрока Нива Брунтал: женщина врезалась в дерево",
-    "lede": "В пятницу вскоре после полудня на дороге у общины Široká Niva на Bruntálsku произошло тяжелое ДТП. Автомобиль под управлением женщины съел с трассы и врезался в дерево, после чего пострадавшую зажало в салоне.",
-    "meta_description": "Тяжелая авария у Široká Niva на Bruntálsku: женщина на машине врезалась в дерево. Спасатели деблокировали пострадавшую, ее увезли на вертолете.",
-    "paras": [
-     "Вскоре после полудня все службы интегрированной системы экстренного спасения выехали к общине Široká Niva на Bruntálsku на дорогу класса II номер 451, ведущую от Karlovice в сторону главного направления из Bruntál в Krnov. По предварительным данным полиции, водитель по не установленным пока причинам съехала с полосы движения и врезалась в дерево.",
-     "Данные о возрасте пострадавшей в источниках немного разнятся. В начале отчетов упоминается, что за рулем находилась почти 40-летняя женщина, в то время как медицинская служба уточняет возраст и сообщает о 37-летней пострадавшей.",
-     "<h3>Спасательная операция на дороге</h3>",
-     "Прибывшие на место пожарные оперативно зафиксировали автомобиль против возможного возгорания и самопроизвольного движения. Женщина осталась зажатой на своем месте, поэтому спасателям пришлось деблокировать ее с помощью гидравлического инструмента. Как сообщила пресс-секретарь пожарных Eliška Trefilová, пострадавшую аккуратно извлекли через заднюю часть автомобиля с использованием спинального щита и передали медикам.",
-     "<blockquote>По прибытии к месту происшествия пожарные зафиксировали автомобиль для предотвращения возникновения пожара и движения. Водитель автомобиля осталась зажатой на своем месте. Высвободить ее пожарные были вынуждены с помощью гидравлических спасательных инструментов и затем осторожно вытащили водителя через заднюю часть машины с использованием спинального щита.</blockquote>, Так описала работу на месте пресс-секретарь пожарных Eliška Trefilová.",
-     "<h3>Медицинская помощь и госпитализация</h3>",
-     "Пострадавшая находилась в сознании и постоянно общалась со спасателями. Первичное обследование выявило тяжелую травму верхней конечности, а прибывшие врачи при этом не исключили и другие возможные повреждения.",
-     "<blockquote>37-летняя женщина осталась зажатой в попавшем в аварию автомобиле, и ее пришлось освобождать пожарным. Она оставалась в сознании и контактировала со спасателями. Первичное обследование показало тяжелую травму верхней конечности, работающие на месте врачи не исключили и другие возможные травмы. Пациентке внутривенно ввели обезболивающие препараты и инфузионные растворы, ингаляционно применили кислород,</blockquote>, Уточнил представитель спасателей Lukáš Humpl.",
-     "Экипажи скорой зафиксировали шею пациентки шейным воротником, уложили ее в вакуумный матрас, а также внутривенно ввели обезболивающие препараты и инфузионные растворы с подачей кислорода через ингалятор. Вертолет экстренной медицинской помощи доставил женщину на отделение неотложной помощи FN Ostrava.",
-     "<h3>Ограничение движения и проверка</h3>",
-     "Полицейские провели у водителя ориентационный алкотест, и результат оказался отрицательным. Из-за спасательной операции и эвакуации разбитой машины дорогу пришлось полностью перекрыть в обоих направлениях. Как отметила пресс-секретарь полиции Soňa Štětínská, позднее движение организовали в реверсивном режиме, а в настоящее время трасса полностью открыта для проезда.",
-     "Пожарные с помощью спецавтомобиля вытащили машину обратно на дорогу, а после завершения работы полиции убрали проезжую часть. Обстоятельствами аварии продолжают заниматься дорожные инспекторы полиции из Bruntál."
-    ],
-    "faq": [
-     {
-      "q": "Что произошло у Široká Niva на Bruntálsku?",
-      "a": "Автомобиль под управлением женщины съехал с дороги и врезался в дерево, водителя зажало в салоне."
-     },
-     {
-      "q": "Какие травмы получила женщина?",
-      "a": "У нее зафиксировано тяжелое травмирование верхней конечности, она была доставлена вертолетом в больницу Ostrava."
-     },
-     {
-      "q": "Была ли женщина пьяна?",
-      "a": "Нет, проведенный полицией алкотест дал отрицательный результат."
-     }
-    ],
-    "impact": "Движение на месте аварии у Široká Niva полностью восстановлено, ограничения на дороге № 451 сняты.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "По предварительным данным полиции, водитель по не установленным пока причинам съехала с полосы движения и врезалась в дерево.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Женщина осталась зажатой на своем месте, и спасателям пришлось деблокировать ее гидравлическим инструментом через заднюю часть автомобиля.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Первичное обследование выявило тяжелую травму верхней конечности, при этом врачи не исключили и другие повреждения.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Ориентационный алкотест у водителя дал отрицательный результат.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "деблокировать",
-       "definition": "Освободить зажатую в машине пострадавшую с помощью гидравлического инструмента.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "спинального щита",
-       "definition": "Средство для переноски пострадавшего, которым его аккуратно извлекли через заднюю часть автомобиля.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "ориентационный алкотест",
-       "definition": "Проверка водителя на алкоголь, результат которой оказался отрицательным.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "7d5cee537d123f679e379a86174e170a610c71c0c896948ce8376f953fd59eac"
-    }
-   },
-   "uk": {
-    "title": "Аварія у Широкій Ниві на Брунтальщині: жінка врізалася в дерево",
-    "lede": "У п'ятницю по обіді на дорозі біля громади Široká Niva на Bruntálsku сталася тяжка ДТП. Автомобіль під керуванням жінки з'їхав із траси та врізався в дерево, після чого постраждалу затиснуло в салоні.",
-    "meta_description": "Тяжка аварія біля Široká Niva на Bruntálsku: жінка на машині врізалася в дерево. Рятувальники деблокували постраждалу, її забрали гелікоптером.",
-    "paras": [
-     "Невдовзі після полудня всі служби інтегрованої системи екстреного порятунку виїхали до громади Široká Niva на Bruntálsku на дорогу класу II номер 451, що веде від Karlovice у бік основного напрямку з Bruntál у Krnov. За попередніми даними поліції, водійка з не встановлених поки що причин з'їхала з смуги руху та врізалася в дерево.",
-     "Дані про вік постраждалої в джерелах трохи відрізняються. На початку звітів згадується, що за кермом перебувала майже 40-річна жінка, тоді як медична служба уточнює вік і повідомляє про 37-річну постраждалу.",
-     "<h3>Рятувальна операція на дорозі</h3>",
-     "Пожежники, які прибули на місце, оперативно зафіксували автомобіль проти можливого займання та мимовільного руху. Жінка залишилася затиснутою на своєму місці, тому рятувальникам довелося деблокувати її за допомогою гідравлічного інструменту. Як повідомила прессекретарка пожежників Eliška Trefilová, постраждалу акуратно витягли через задню частину автомобіля з використанням спінального щита та передали медикам.",
-     "<blockquote>Після прибуття до місця події пожежники зафіксували автомобіль для запобігання виникненню пожежі та руху. Водійка автомобіля залишилася затиснутою на своєму місці. Вивільнити її пожежники були змушені за допомогою гідравлічних рятувальних інструментів та потім обережно витягли водійку через задню частину машини з використанням спінального щита.</blockquote>, Так описала роботу на місці прессекретарка пожежників Eliška Trefilová.",
-     "<h3>Медична допомога та госпіталізація</h3>",
-     "Постраждала перебувала у свідомості та постійно спілкувалася зі рятувальниками. Первинне обстеження виявило тяжку травму верхньої кінцівки, а лікарі, які прибули на місце, при цьому не виключили й інші можливі пошкодження.",
-     "<blockquote>37-річна жінка залишилася затиснутою в автомобілі, що потрапив в аварію, і її довелося звільняти пожежникам. Вона залишалася у свідомості та контактувала зі рятувальниками. Первинне обстеження показало тяжку травму верхньої кінцівки, лікарі, які працюють на місці, не виключили й інші можливі травми. Пацієнтці внутрішньовенно ввели знеболювальні препарати та інфузійні розчини, інгаляційно застосували кисень,</blockquote>, Уточнив представник рятувальників Lukáš Humpl.",
-     "Екіпажі швидкої зафіксували шию паціентки шийним коміром, уклали її у вакуумний матрац, а також внутрішньовенно ввели знеболювальні препарати та інфузійні розчини з подачею кисню через інгалятор. Гелікоптер екстреної медичної допомоги доставив жінку на відділення невідкладної допомоги FN Ostrava.",
-     "<h3>Обмеження руху та перевірка</h3>",
-     "Поліціянти провели у водійки орієнтаційний алкотест, і результат виявився негативним. Через рятувальну операцію та евакуацію розбитої машини дорогу довелося повністю перекрити в обох напрямках. Як зазначила прессекретарка поліції Soňa Štětínská, пізніше рух організували в реверсному режимі, а наразі траса повністю відкрита для проїзду.",
-     "Пожежники за допомогою спецавтомобіля витягли машину назад на дорогу, а після завершення роботи поліції прибрали проїжджу частину. Обставинами аварії продовжують займатися дорожні інспектори поліції з Bruntál."
-    ],
-    "faq": [
-     {
-      "q": "Що сталося біля Široká Niva на Bruntálsku?",
-      "a": "Автомобіль під керуванням жінки з'їхав з дороги та врізався в дерево, водійку затиснуло в салоні."
-     },
-     {
-      "q": "Які травми отримала жінка?",
-      "a": "У неї зафіксовано важку травму верхньої кінцівки, її доставили гелікоптером до лікарні Ostrava."
-     },
-     {
-      "q": "Чи була жінка п'яною?",
-      "a": "Ні, проведений поліцією алкотест дав негативний результат."
-     }
-    ],
-    "impact": "Движение на месте аварии у Široká Niva полностью восстановлено, ограничения на дороге № 451 сняты.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "За попередніми даними поліції, водійка з не встановлених причин з'їхала зі смуги руху та врізалася в дерево.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Жінку деблокували з салону гідравлічним інструментом і витягли через задню частину авто на спінальному щиті.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Постраждала була при свідомості; обстеження виявило тяжку травму верхньої кінцівки, інші пошкодження не виключені.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Орієнтаційний алкотест у водійки дав негативний результат.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "спінального щита",
-       "definition": "Жорстка ношівка для перенесення постраждалих із підозрою на травму хребта, яка фіксує тіло нерухомо.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "вакуумний матрац",
-       "definition": "Матрац, з якого відкачують повітря, щоб він затвердів і нерухомо зафіксував тіло пацієнта.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "реверсному режимі",
-       "definition": "Організація руху, коли машини по черзі проїжджають однією смугою в обох напрямках.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "d9a98e8888197d8029ee448b90cc14a40529950aa127fa7e38892c677bfc6bee"
-    }
-   },
-   "rank": 35.7,
-   "sources": [
-    {
-     "domain": "bruntalsky.denik.cz",
-     "official": false,
-     "url": "https://bruntalsky.denik.cz/nehody/bruntalsko-siroka-niva-vazna-nehoda-ridicka-auto-strom-vyprosteni-hasici-zachranari-vrtulnik/",
-     "title": "Vážná nehoda na Bruntálsku. Žena narazila do stromu, letěl pro ni vrtulník – Bruntálský a krnovský deník"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/10/avariia-shiuroka-niva-bruntal-zhenshchina-vrezalas-v-derevo-0ca0a72f56c958f7.webp",
-   "image_w": 1200,
-   "image_h": 900
   }
  ]
 }
