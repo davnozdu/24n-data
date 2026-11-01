@@ -1,14 +1,188 @@
 {
- "updated_at": "2026-11-01T04:59:55+00:00",
+ "updated_at": "2026-11-01T06:04:32+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8129",
+   "slug": "legenda-repa-xzibit-vystupit-v-klube-roxy-s-kontsertom",
+   "source": "praguemorning.cz",
+   "original_url": "https://praguemorning.cz/xzibit-prague-concert/",
+   "top": false,
+   "tags": [
+    "dosug",
+    "praha"
+   ],
+   "published_at": "2026-11-01T07:04:31.738548+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "1 ноября 2026, 07:04",
+    "uk": "1 листопада 2026, 07:04"
+   },
+   "ru": {
+    "title": "Легенда рэпа Xzibit выступит в клубе ROXY с концертом",
+    "lede": "Знаменитый хип-хоп-исполнитель с Западного побережья Xzibit приедет в Прагу в рамках европейского турне Kingmaker European Tour.",
+    "meta_description": "Концерт легендарного хип-хоп-исполнителя Xzibit пройдет в пражском клубе ROXY 17 ноября 2026 года в рамках европейского турне.",
+    "paras": [
+     "<p>Xzibit приедет в Прагу. Концерт хип-хоп-исполнителя с Западного побережья пройдёт в клубе <b>ROXY</b> на Dlouhá 33 в районе Prague 1. Дата: 17 ноября 2026 года. Выступление входит в европейское турне Kingmaker European Tour, организуют его Gotobeat и Enjoy Events.</p>",
+     "<h3>Возвращение с новой пластинкой</h3>",
+     "<p>Чешской публике музыкант покажет треки из альбома <b>Kingmaker</b>, вышедшего 16 мая 2025 года. Это его первый сольный релиз с 2012-го. На пластинке двадцать три трека, в записи участвовали Dr. Dre, Ice Cube, Busta Rhymes, Ty Dolla $ign, Royce da 5’9”, Redman и B-Real.</p>",
+     "<p>За свою многолетнюю карьеру, начавшуюся еще в 1990-х годах, исполнитель выпустил такие влиятельные пластинки, как Restless, Man vs. Machine и Weapons of Mass Destruction. По информации gotobeat.com, его глубокий голос и узнаваемая манера исполнения принесли ему мировую известность, а сотрудничество с Dr. Dre, Eminem, Snoop Dogg и Ice Cube закрепило за ним статус классика жанра.</p>",
+     "<h3>Программа и детали мероприятия</h3>",
+     "<p>Кроме новых композиций, прозвучат главные хиты: <i>«X»</i>, <i>«Multiply»</i>, <i>«Paparazzi»</i> и <i>«What’s the Difference»</i>. Широкую публику Xzibit завоевал и вне музыки: он вёл реалити-шоу MTV <b>Pimp My Ride</b> и снимался в фильмах 8 Mile и Gridiron Gang, а также в сериале Empire.</p>",
+     "<p>Двери откроются в 19:00, шоу начнётся в 20:00. Возрастное ограничение 16+, посетители младше 18 лет должны быть на площадке со взрослыми, уточняет gotobeat.com. Билеты продаются на официальных платформах организаторов.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Когда пройдет концерт Xzibit в Праге?",
+      "a": "Концерт состоится 17 ноября 2026 года в клубе ROXY."
+     },
+     {
+      "q": "Где купить билеты и во сколько начинается шоу?",
+      "a": "Двери клуба открываются в 19:00, начало шоу в 20:00. Билеты можно приобрести на официальных платформах организаторов."
+     },
+     {
+      "q": "Какие возрастные ограничения действуют на концерте?",
+      "a": "На концерт допускаются зрители с 16 лет, а лица младше 18 лет должны быть в сопровождении взрослых."
+     }
+    ],
+    "impact": "Концерт предназначен для поклонников хип-хопа возрастом от 16 лет. Посетителям младше 18 лет потребуется сопровождение взрослых.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Концерт Xzibit пройдёт в пражском клубе ROXY 17 ноября 2026 года в рамках турне Kingmaker European Tour.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На концерте прозвучат треки из альбома Kingmaker (2025), первого сольного релиза Xzibit с 2012 года.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "В программе также хиты «X», «Multiply», «Paparazzi» и «What’s the Difference».",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Концерт начнётся в 20:00, возрастное ограничение — 16+, посетители до 18 лет должны быть со взрослыми.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "3e4274f6f2651d07c6c364dd5b15d0dda46a7c746f5b213ebd14d3160000fe4c"
+    }
+   },
+   "uk": {
+    "title": "Легенда репу Xzibit виступить у клубі ROXY з концертом",
+    "lede": "Відомий хіп-хоп виконавець із Західного узбережжя Xzibit приїде до Праги в межах європейського турне Kingmaker European Tour.",
+    "meta_description": "Концерт легендарного хіп-хоп виконавця Xzibit відбудеться у празькому клубі ROXY 17 листопада 2026 року в межах європейського турне.",
+    "paras": [
+     "<p>Xzibit приїде до Праги. Концерт хіп-хоп виконавця із Західного узбережжя пройде в клубі <b>ROXY</b> на Dlouhá 33 у районі Prague 1. Дата: 17 листопада 2026 року. Виступ входить до європейського турне Kingmaker European Tour, організовують його Gotobeat і Enjoy Events.</p>",
+     "<h3>Повернення з новою платівкою</h3>",
+     "<p>Чеській публіці музикант покаже треки з альбому <b>Kingmaker</b>, що вийшов 16 травня 2025 року. Це його перший сольний реліз із 2012-го. На платівці двадцять три треки, у записі брали участь Dr. Dre, Ice Cube, Busta Rhymes, Ty Dolla $ign, Royce da 5’9”, Redman і B-Real.</p>",
+     "<p>За свою багаторічну кар’єру, що почалася ще в 1990-х роках, виконавець випустив такі впливові платівки, як Restless, Man vs. Machine і Weapons of Mass Destruction. За інформацією gotobeat.com, його глибокий голос і впізнавана манера виконання принесли йому світову славу, а співпраця з Dr. Dre, Eminem, Snoop Dogg і Ice Cube закріпила за ним статус класика жанру.</p>",
+     "<h3>Програма та деталі заходу</h3>",
+     "<p>Крім нових композицій, прозвучать головні хіти: <i>«X»</i>, <i>«Multiply»</i>, <i>«Paparazzi»</i> і <i>«What’s the Difference»</i>. Широку публіку Xzibit завоював і поза музикою: він вів реаліті-шоу MTV <b>Pimp My Ride</b> і знімався у фільмах 8 Mile і Gridiron Gang, а також у серіалі Empire.</p>",
+     "<p>Двері відчиняться о 19:00, шоу почнеться о 20:00. Вікове обмеження 16+, відвідувачі молодші за 18 років мають бути на майданчику з дорослими, уточнює gotobeat.com. Квитки продаються на офіційних платформах організаторів.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Коли відбудеться концерт Xzibit у Празі?",
+      "a": "Концерт відбудеться 17 листопада 2026 року в клубі ROXY."
+     },
+     {
+      "q": "Де купити квитки і о котрій починається шоу?",
+      "a": "Двері клубу відчиняються о 19:00, початок шоу о 20:00. Квитки можна придбати на офіційних платформах організаторів."
+     },
+     {
+      "q": "Які вікові обмеження діють на концерті?",
+      "a": "На концерт допускаються глядачі з 16 років, а особи молодші за 18 років мають бути в супроводі дорослих."
+     }
+    ],
+    "impact": "Концерт предназначен для поклонников хип-хопа возрастом от 16 лет. Посетителям младше 18 лет потребуется сопровождение взрослых.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Концерт Xzibit відбудеться 17 листопада 2026 року в празькому клубі ROXY на Dlouhá 33 у межах турне Kingmaker European Tour.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На концерті музикант презентує треки з альбому Kingmaker, випущеного 16 травня 2025 року — першого сольного релізу з 2012 року.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Окрім нових композицій, на виступі прозвучать хіти «X», «Multiply», «Paparazzi» та «What’s the Difference».",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Вхід на концерт дозволено з 16 років, а відвідувачі віком до 18 років мають бути в супроводі дорослих.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "eb8990edbb91ea91c921884649f644bf2dbac19f5e7113e91468440d37ab41cf"
+    }
+   },
+   "rank": 89.0,
+   "sources": [
+    {
+     "domain": "gotobeat.com",
+     "official": false,
+     "url": "https://gotobeat.com/gig/xzibit-prague-roxy-kingmaker-tour-2026/",
+     "title": "Xzibit Tickets at Roxy, Prague — 17 November 2026 | Gotobeat"
+    },
+    {
+     "domain": "roxy.cz",
+     "official": false,
+     "url": "https://www.roxy.cz/en/events/detail/5132/xzibit",
+     "title": "XZIBIT (US) | ROXY PRAGUE"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 2,
+   "image_url": "https://img.24n.cz/p/2026/11/legenda-repa-xzibit-vystupit-v-klube-roxy-s-kontsertom-d8bd70d21baaa5a5.webp",
+   "video": {
+    "kind": "iframe",
+    "url": "https://www.youtube-nocookie.com/embed/wawM-BA-gcU"
+   },
+   "image_w": 1600,
+   "image_h": 902
+  },
   {
    "id": "n8128",
    "slug": "sud-otkazal-chinovniku-zashchishchavshemu-agrofert-v-dele-ob-otravleni",
    "source": "irozhlas.cz",
    "original_url": "https://www.irozhlas.cz/zpravy-domov/muz-ktery-pri-otrave-becvy-rozhodoval-ve-prospech-agrofertu-prohral-spor-o_2611010500_hrk",
-   "top": false,
+   "top": true,
    "tags": [
     "cesko",
     "zakon",
@@ -16,8 +190,8 @@
    ],
    "published_at": "2026-11-01T05:59:54.464024+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "1 ноября 2026, 05:59",
@@ -193,8 +367,8 @@
    ],
    "published_at": "2026-11-01T05:59:54.464024+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "1 ноября 2026, 05:59",
@@ -359,8 +533,8 @@
    ],
    "published_at": "2026-11-01T04:54:40.508801+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "1 ноября 2026, 04:54",
@@ -519,8 +693,8 @@
    ],
    "published_at": "2026-11-01T03:50:53.072026+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "1 ноября 2026, 03:50",
@@ -670,7 +844,7 @@
      "body_sha256": "80804185360926e1daecb691639b35cc45a1c0d60c8fa5d3321e872e88f9ec8d"
     }
    },
-   "rank": 94.0,
+   "rank": 93.691,
    "sources": [
     {
      "domain": "metro.cz",
@@ -703,8 +877,8 @@
    ],
    "published_at": "2026-11-01T02:44:01.509111+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "1 ноября 2026, 02:44",
@@ -834,7 +1008,7 @@
      "body_sha256": "514c77235508ea21043f5ae6fb8b29cc084e71b42a385943f75ade1a63fa6723"
     }
    },
-   "rank": 59.77,
+   "rank": 58.837,
    "image_url": "https://img.24n.cz/p/2026/11/ischeznuvshii-vodoem-v-brzhevnove-istoriia-vodokhranilishcha-ff7ebcad21e95b4d.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/ischeznuvshii-vodoem-v-brzhevnove-istoriia-vodokhranilishcha-600339b808d8a531.webp"
@@ -867,8 +1041,8 @@
    ],
    "published_at": "2026-11-01T02:44:01.509111+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "1 ноября 2026, 02:44",
@@ -1114,7 +1288,7 @@
      "body_sha256": "105cb6e45139f40f4a50dc086fcf020fa1a7d521c4e3171b9a739e9e15945cdf"
     }
    },
-   "rank": 86.667,
+   "rank": 85.314,
    "sources": [
     {
      "domain": "inews.sk",
@@ -1142,8 +1316,8 @@
    ],
    "published_at": "2026-11-01T01:35:15.028712+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "1 ноября 2026, 01:35",
@@ -1308,7 +1482,7 @@
      "body_sha256": "27ec6270f3d3b495d2fd6c20d9df243e5f71b8ff57d00213bc4ce2d3ecb8e155"
     }
    },
-   "rank": 95.023,
+   "rank": 93.514,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -1352,8 +1526,8 @@
    ],
    "published_at": "2026-11-01T01:35:15.028712+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "1 ноября 2026, 01:35",
@@ -1600,7 +1774,7 @@
      "body_sha256": "00b4f0b235449e5b90ab9e7893160956a7e9c065c1c3e8efc09885fe1012b6c7"
     }
    },
-   "rank": 88.166,
+   "rank": 86.765,
    "image_url": "https://img.24n.cz/p/2026/11/dusicky-2026-hrbitovy-doprava-kradeze-politsiia-preduprezhda-43cce429156da98c.jpeg",
    "image_w": 1600,
    "image_h": 1200
@@ -1618,8 +1792,8 @@
    ],
    "published_at": "2026-11-01T01:35:15.028712+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "1 ноября 2026, 01:35",
@@ -1866,7 +2040,7 @@
      "body_sha256": "80abcc322c8d51297a62b8b5cc9dd9556b2763a5ab64d9d90c2874d7c8cdcb38"
     }
    },
-   "rank": 107.758,
+   "rank": 106.047,
    "sources": [
     {
      "domain": "litomericky.denik.cz",
@@ -1905,8 +2079,8 @@
    ],
    "published_at": "2026-11-01T01:35:15.028712+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "1 ноября 2026, 01:35",
@@ -2036,7 +2210,7 @@
      "body_sha256": "7e867e67c6a500706e037b2da7724cda8c088b4d617875d8f8631c1529dd08cb"
     }
    },
-   "rank": 93.064,
+   "rank": 91.586,
    "image_url": "https://img.24n.cz/p/2026/11/wildwood-film-laika-shestnadtsat-let-raboty-bez-ai-3eec076da97a6432.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/wildwood-film-laika-shestnadtsat-let-raboty-bez-ai-87f3ef91c4782062.webp"
@@ -2074,8 +2248,8 @@
    ],
    "published_at": "2026-10-31T23:29:34.224993+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 23:29",
@@ -2233,7 +2407,7 @@
      "body_sha256": "680b987c5070c13d55f040a57ee3344886bc767cea24eb9f0350ffa35d025a09"
     }
    },
-   "rank": 104.43,
+   "rank": 102.718,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -2285,15 +2459,15 @@
    "slug": "moshennichestvo-pri-pokupke-garazha-v-chekhii-poteriany-dengi",
    "source": "novinky.cz",
    "original_url": "https://www.novinky.cz/clanek/krimi-koupe-garaze-nevysla-prodejce-jen-od-kupujiciho-vylakal-desitky-tisic-40605890",
-   "top": true,
+   "top": false,
    "tags": [
     "cesko",
     "kriminal"
    ],
    "published_at": "2026-10-31T23:29:34.224993+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 23:29",
@@ -2409,7 +2583,7 @@
      "body_sha256": "910f3a414c78fa92bb892dcb11acf1de4444d0205fa600b43b8dbada8ad46d93"
     }
    },
-   "rank": 112.974,
+   "rank": 111.123,
    "sources": [
     {
      "domain": "pisecky.denik.cz",
@@ -2443,8 +2617,8 @@
    ],
    "published_at": "2026-10-31T22:25:57.663526+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 22:25",
@@ -2714,7 +2888,7 @@
      "body_sha256": "15a7ec13913b8c6d2c2228ac2f19d4188285c1dcbdb2ad4f605bccbd145c2ea8"
     }
    },
-   "rank": 104.613,
+   "rank": 102.871,
    "sources": [
     {
      "domain": "invarena.cz",
@@ -2738,8 +2912,8 @@
    ],
    "published_at": "2026-10-31T21:21:40.609381+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 21:21",
@@ -2913,7 +3087,7 @@
      "body_sha256": "8b10b74be7ddf31753813b519901f830d235dd16b170a3c295e7aeb1799c509f"
     }
    },
-   "rank": 96.45,
+   "rank": 94.817,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -2955,8 +3129,8 @@
    ],
    "published_at": "2026-10-31T21:00:30.716968+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 21:00",
@@ -2998,7 +3172,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 76.732
+   "rank": 75.425
   },
   {
    "id": "n8113",
@@ -3012,8 +3186,8 @@
    ],
    "published_at": "2026-10-31T19:17:51.085879+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 19:17",
@@ -3219,7 +3393,7 @@
      "body_sha256": "5526c36392ee4d985c788e315c4b4616a8d0c4803e57f57b2e0a89a5f6528f87"
     }
    },
-   "rank": 108.429,
+   "rank": 106.531,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -3245,8 +3419,8 @@
    ],
    "published_at": "2026-10-31T18:12:51.106196+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 18:12",
@@ -3374,7 +3548,7 @@
      "body_sha256": "4cb4225838b57f064412e6ac017aa3a1f7d722bb10b79cd768d30874c41f5db9"
     }
    },
-   "rank": 56.752,
+   "rank": 55.741,
    "sources": [
     {
      "domain": "pragueexaminer.com",
@@ -3414,8 +3588,8 @@
    ],
    "published_at": "2026-10-31T18:12:51.106196+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 18:12",
@@ -3561,7 +3735,7 @@
      "body_sha256": "7da229fea87b20018c9928f99d8249eb5f66533ea8157ed8392ca65ba0f568d0"
     }
    },
-   "rank": 95.169,
+   "rank": 93.474,
    "sources": [
     {
      "domain": "tydenikpolicie.cz",
@@ -3594,8 +3768,8 @@
    ],
    "published_at": "2026-10-31T17:07:02.366467+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 17:07",
@@ -3759,7 +3933,7 @@
      "body_sha256": "362bc1354a253ac38934f830df20376dd8b0e9bfd4b66b2186449577996c2672"
     }
    },
-   "rank": 84.87,
+   "rank": 83.33,
    "sources": [
     {
      "domain": "novinykraje.cz",
@@ -3793,8 +3967,8 @@
    ],
    "published_at": "2026-10-31T16:04:17.507222+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 16:04",
@@ -3996,7 +4170,7 @@
      "body_sha256": "787e4023e7861079689e39c13fc93c926d757f6bf86b8a7ed0aa913a26135da2"
     }
    },
-   "rank": 71.584,
+   "rank": 70.262,
    "image_url": "https://img.24n.cz/p/2026/10/zhiteli-bubenecha-protiv-stroiki-penty-za-sotsialnuiu-pomosh-a4b1ef08aed42ca2.webp",
    "image_w": 1200,
    "image_h": 674
@@ -4014,8 +4188,8 @@
    ],
    "published_at": "2026-10-31T15:00:28.220969+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 15:00",
@@ -4175,7 +4349,7 @@
      "body_sha256": "04f863bdda92b8277db88d72978a507336f502a212da9beb3034f69b0dbfe09d"
     }
    },
-   "rank": 98.389,
+   "rank": 96.538,
    "sources": [
     {
      "domain": "odkryto.cz",
@@ -4208,8 +4382,8 @@
    ],
    "published_at": "2026-10-31T13:55:57.818084+01:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 13:55",
@@ -4356,7 +4530,7 @@
      "body_sha256": "664c48702db201fe2af33c1e710ed7dbff26e5237171a72cb93dc070c4861e91"
     }
    },
-   "rank": 52.733
+   "rank": 51.721
   },
   {
    "id": "n8106",
@@ -4370,8 +4544,8 @@
    ],
    "published_at": "2026-10-31T12:52:19.104764+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 12:52",
@@ -4525,7 +4699,7 @@
      "body_sha256": "58c98e14fa8107835836705d5bc68892c245acf66b768bd574f511344743313c"
     }
    },
-   "rank": 61.288,
+   "rank": 60.09,
    "sources": [
     {
      "domain": "press.news",
@@ -4552,8 +4726,8 @@
    ],
    "published_at": "2026-10-31T11:46:01.090664+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 11:46",
@@ -4773,7 +4947,7 @@
      "body_sha256": "9eabbb0863e29a49cf7c291f00b131acc94f4f3c7c3be37b0a919638e04356ac"
     }
    },
-   "rank": 66.299,
+   "rank": 64.977,
    "sources": [
     {
      "domain": "jablonecky.denik.cz",
@@ -4806,8 +4980,8 @@
    ],
    "published_at": "2026-10-31T11:46:01.090664+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 11:46",
@@ -4956,7 +5130,7 @@
      "body_sha256": "db33e347675f13dee379d2f992faff97d9df36338454b26ea142cf477fc38895"
     }
    },
-   "rank": 71.759,
+   "rank": 70.328,
    "sources": [
     {
      "domain": "liberecka.drbna.cz",
@@ -4999,8 +5173,8 @@
    ],
    "published_at": "2026-10-31T10:38:06.225182+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "31 октября 2026, 10:38",
@@ -5215,7 +5389,7 @@
      "body_sha256": "ffab5459b505ac5fe48c1e8ecf665cc1d6cd51b2e22b98865a3bca959bc32135"
     }
    },
-   "rank": 69.873,
+   "rank": 68.449,
    "sources": [
     {
      "domain": "metro.cz",
@@ -5279,8 +5453,8 @@
    ],
    "published_at": "2026-10-31T10:01:08.279827+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "31 октября 2026, 10:01",
@@ -5322,7 +5496,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 60.379
+   "rank": 59.134
   },
   {
    "id": "n8101",
@@ -5337,8 +5511,8 @@
    ],
    "published_at": "2026-10-31T09:36:16.085842+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "31 октября 2026, 09:36",
@@ -5560,7 +5734,7 @@
      "body_sha256": "b1c0d9a70e7ff7e98316aebd09596e2b10a824ea550de47458f3f19deb26b1c9"
     }
    },
-   "rank": 82.363,
+   "rank": 80.651,
    "sources": [
     {
      "domain": "bydlet.cz",
@@ -5597,8 +5771,8 @@
    ],
    "published_at": "2026-10-31T09:36:16.085842+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "31 октября 2026, 09:36",
@@ -5773,7 +5947,7 @@
      "body_sha256": "5c3612e79ecf8a944e30d3cbfa6404ba74a14c4944ee45847921643fa6ae199c"
     }
    },
-   "rank": 76.373,
+   "rank": 74.786,
    "sources": [
     {
      "domain": "mujrozhlas.cz",
@@ -5817,8 +5991,8 @@
    ],
    "published_at": "2026-10-31T09:36:16.085842+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "31 октября 2026, 09:36",
@@ -6042,7 +6216,7 @@
      "body_sha256": "beed3ab7630c32a69be801195c8bb98130b38120528c04d0f85ea3d7471dc750"
     }
    },
-   "rank": 83.86,
+   "rank": 82.118,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -6069,8 +6243,8 @@
    ],
    "published_at": "2026-10-31T08:28:00.039206+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 08:28",
@@ -6226,7 +6400,7 @@
      "body_sha256": "8c51e792bb6af1bcb65ea9335b70eb85f0071cad7954024c510da3966f01c842"
     }
    },
-   "rank": 80.555,
+   "rank": 78.843,
    "sources": [
     {
      "domain": "fm.denik.cz",
@@ -6265,8 +6439,8 @@
    ],
    "published_at": "2026-10-31T08:28:00.039206+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 08:28",
@@ -6491,7 +6665,7 @@
      "body_sha256": "51b502da2cc28d683277c6e02ebf6ed9b0c2946971b6ad7b2fde4fc2b871e237"
     }
    },
-   "rank": 87.878,
+   "rank": 86.011,
    "image_url": "https://img.24n.cz/p/2026/10/podacha-zaiavlenii-v-konservatorii-chekhii-2026-novye-sroki-945b82ac2a435b8e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -6509,8 +6683,8 @@
    ],
    "published_at": "2026-10-31T07:27:30.405893+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 07:27",
@@ -6683,7 +6857,7 @@
      "body_sha256": "56bbe528d582d02b09ac20dcf5c380d8d1670ae8eecb73e9ab550538b6fbcbdb"
     }
    },
-   "rank": 92.59,
+   "rank": 90.583,
    "sources": [
     {
      "domain": "inews.sk",
@@ -6716,8 +6890,8 @@
    ],
    "published_at": "2026-10-31T07:27:30.405893+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 07:27",
@@ -6913,7 +7087,7 @@
      "body_sha256": "fa15166fadbb54207e6ef90cab863c8689d8f406f95c916155a43183c1e7507b"
     }
    },
-   "rank": 64.598
+   "rank": 63.198
   },
   {
    "id": "n8094",
@@ -6927,8 +7101,8 @@
    ],
    "published_at": "2026-10-31T07:27:30.405893+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 07:27",
@@ -7168,7 +7342,7 @@
      "body_sha256": "b6af240b52017da3876e82e095216dfe20e831b8c84edf9962d0648480ea8b8f"
     }
    },
-   "rank": 68.186
+   "rank": 66.709
   },
   {
    "id": "n8093",
@@ -7183,8 +7357,8 @@
    ],
    "published_at": "2026-10-31T07:27:30.405893+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 07:27",
@@ -7302,7 +7476,7 @@
      "body_sha256": "6525df9de90e820370a7acc750d209521f75c559d6f65843f292adbbfede2c4c"
     }
    },
-   "rank": 82.542
+   "rank": 80.753
   },
   {
    "id": "n8092",
@@ -7316,8 +7490,8 @@
    ],
    "published_at": "2026-10-31T07:27:30.405893+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "31 октября 2026, 07:27",
@@ -7459,7 +7633,7 @@
      "body_sha256": "05f0bfab9eceec3d7ddb46ef55717795565de7ed5cf844d40615735ed2edcc0d"
     }
    },
-   "rank": 85.413,
+   "rank": 83.561,
    "sources": [
     {
      "domain": "eurozpravy.cz",
@@ -7489,8 +7663,8 @@
    ],
    "published_at": "2026-10-31T06:18:39.812225+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "31 октября 2026, 06:18",
@@ -7633,7 +7807,7 @@
      "body_sha256": "5b64661283acf9dfc0853193e8ab54598fddb2b5d362ea298d12bdfbf1a8205c"
     }
    },
-   "rank": 77.13,
+   "rank": 75.418,
    "sources": [
     {
      "domain": "okpraha.com",
@@ -7842,7 +8016,7 @@
      "body_sha256": "47ca87aa52f2cac7a0912f13c984db56457051d06878c39376244efe914ccab3"
     }
    },
-   "rank": 56.233,
+   "rank": 54.958,
    "sources": [
     {
      "domain": "mujrozhlas.cz",
@@ -8041,7 +8215,7 @@
      "body_sha256": "b3fd25d01712a4f9f5a4facf93c1fcfcf75a92d5e2f12518df332af17a9e1a5b"
     }
    },
-   "rank": 70.439
+   "rank": 68.806
   },
   {
    "id": "n8088",
@@ -8317,7 +8491,7 @@
      "body_sha256": "601dcf6f3a303edd1a24a6c39b740ca685088760b519a7a8f432dbff9f739f82"
     }
    },
-   "rank": 70.335,
+   "rank": 68.624,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -8602,7 +8776,7 @@
      "body_sha256": "cdca724d5080ed2ac66ea5174a50891cfe8a25ca22c7b8445bbb823c19982a0d"
     }
    },
-   "rank": 64.212,
+   "rank": 62.501,
    "sources": [
     {
      "domain": "pvk.cz",
@@ -8795,7 +8969,7 @@
      "body_sha256": "77dc7aa62fc07e1f7be5ed3b3a63e221ca4527b725af4b8e30f15e58597fecaf"
     }
    },
-   "rank": 66.261,
+   "rank": 64.472,
    "image_url": "https://img.24n.cz/p/2026/10/medsestra-spasla-mat-i-rebenka-posle-dtp-na-trasse-i-uekhala-1ece65e00546d7eb.webp",
    "image_w": 1079,
    "image_h": 606
@@ -8951,7 +9125,7 @@
      "body_sha256": "f43474bcda82d45dbad2cac75d19342c8ea2ce06f7aeb93c63144acbd08f5980"
     }
    },
-   "rank": 62.577,
+   "rank": 60.865,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -9125,7 +9299,7 @@
      "body_sha256": "169dd8a360a7115d439fde6d2713f0c4bbb9a471174fb7973f0245afff55a087"
     }
    },
-   "rank": 63.714,
+   "rank": 61.972,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -9343,7 +9517,7 @@
      "body_sha256": "18a851405e50515e3ca40b97dfcc4d25522d6421bdccc667c2b5d61933433e40"
     }
    },
-   "rank": 52.542,
+   "rank": 51.064,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-student-vypustil-khorror-igru-i-poborol-zastenchiv-6025e380f18a40a8.webp",
    "video": {
     "kind": "iframe",
@@ -9589,7 +9763,7 @@
      "body_sha256": "df97d6776b1a60450808543008fd8c35909a20a07108de219c5ba52982625d72"
     }
    },
-   "rank": 67.475,
+   "rank": 65.577,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -9832,7 +10006,7 @@
      "body_sha256": "7be43b7c9b8abc779884b41b6a7ffa04a6dd1999b726be020977acee7be8d45e"
     }
    },
-   "rank": 52.812,
+   "rank": 51.303,
    "sources": [
     {
      "domain": "media24.cz",
@@ -10028,7 +10202,7 @@
      "body_sha256": "5a89218e707c300afed5730acd121d9c0cfade1c9d41820630b258a594492a58"
     }
    },
-   "rank": 55.839,
+   "rank": 54.221,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -10180,7 +10354,7 @@
     ],
     "impact": "Новая армейская концепция Чехии до 2040 года определит приоритеты развития вооружённых сил страны на ближайшие десятилетия. Документ повышает целевую численность профессиональных военных до 32 000 человек к 2030 году, однако ограниченное финансирование может повлиять на реализацию всех планов. Окончательное утверждение концепции ожидается в ближайшее время."
    },
-   "rank": 72.483,
+   "rank": 70.383,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -10263,7 +10437,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 43.546,
+   "rank": 42.271,
    "forecast": true
   },
   {
@@ -10463,7 +10637,7 @@
      "body_sha256": "78e0dff72c1e0c7b107500f369c40cb87bd5a2ebe76cb11844c236f9ca8195c9"
     }
    },
-   "rank": 56.559,
+   "rank": 54.894,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10601,7 +10775,7 @@
      "body_sha256": "14c9f687103b716f4a3f56fc895e5898a09c1c8514df08640543e701e688ebcd"
     }
    },
-   "rank": 57.616,
+   "rank": 55.92,
    "sources": [
     {
      "domain": "n1.cz",
@@ -10872,7 +11046,7 @@
      "body_sha256": "f44bc193987238ac94fa6399298c5bd631c69b3cf0a0fbbe39a4ef1d9331eb43"
     }
    },
-   "rank": 65.052,
+   "rank": 63.107,
    "sources": [
     {
      "domain": "art.ceskatelevize.cz",
@@ -11099,7 +11273,7 @@
      "body_sha256": "88f2546e1f67eefa922c1d7f267466991b0db935541abac0f12d91a3ea4d4c34"
     }
    },
-   "rank": 45.276,
+   "rank": 43.923,
    "sources": [
     {
      "domain": "sita.sk",
@@ -11374,7 +11548,7 @@
      "body_sha256": "1845725b81794f00c2f9f702122b0add8d89e921b23d02537319366d65d525b3"
     }
    },
-   "rank": 66.112,
+   "rank": 64.105,
    "sources": [
     {
      "domain": "mnof.cz",
@@ -11629,7 +11803,7 @@
      "body_sha256": "ff0852290379c84367c08c07db302eba0f98838e2f5c123fc2eb107e93558773"
     }
    },
-   "rank": 53.812,
+   "rank": 52.179,
    "image_url": "https://img.24n.cz/p/2026/10/lider-organizatsii-nedoklubko-poluchila-gosnagradu-3f6564116e0e88cb.webp",
    "image_w": 1200,
    "image_h": 675
@@ -11870,7 +12044,7 @@
      "body_sha256": "487bb6c00cd743533b56e4a0eeb451163cf0c819e765a4e67806856ee33238ee"
     }
    },
-   "rank": 61.608,
+   "rank": 59.71,
    "sources": [
     {
      "domain": "hygpraha.cz",
@@ -12035,7 +12209,7 @@
      "body_sha256": "df01f6ef268656a771bc9814c0b35d2e2daee0ca6a232dfb62046cb01931412c"
     }
    },
-   "rank": 47.974,
+   "rank": 46.496,
    "image_url": "https://img.24n.cz/p/2026/10/kak-sozdateli-pata-i-mata-vyzhivaiut-v-epokhu-iskusstvennogo-12b763a480584dc0.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/kak-sozdateli-pata-i-mata-vyzhivaiut-v-epokhu-iskusstvennogo-1847a2f0056b436e.webp"
@@ -12307,7 +12481,7 @@
      "body_sha256": "303c6b0ffa71e12ccd0690dbcac333267c90ea1030151048034bc491ce8c3955"
     }
    },
-   "rank": 64.082,
+   "rank": 62.075,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -12477,7 +12651,7 @@
      "body_sha256": "42eaea694157febc2eacde470545fe9f02e3f95761febba11a71f3d3171975db"
     }
    },
-   "rank": 49.676,
+   "rank": 48.12,
    "image_url": "https://img.24n.cz/p/2026/10/praga-nachinaet-zimnee-obsluzhivanie-dorog-s-1-noiabria-1adc1818d085c88e.webp",
    "image_w": 1600,
    "image_h": 902
@@ -12643,7 +12817,7 @@
      "body_sha256": "7c9e8902a419d0fdede4bf5aa8b93ccb34ae6f67f3a5878027834a94ff05ee01"
     }
    },
-   "rank": 54.147,
+   "rank": 52.451,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -12910,7 +13084,7 @@
      "body_sha256": "27eccbeb6bba18c75c0ba58352ccea7522053e7cc4a7c203be0d21e5d85e1c54"
     }
    },
-   "rank": 51.23,
+   "rank": 49.596,
    "image_url": "https://img.24n.cz/p/2026/10/v-prage-6-uberut-parkovku-u-pisecke-brany-radi-novogo-parka-f8fa35312c2787a7.webp",
    "image_w": 750,
    "image_h": 300
@@ -13151,7 +13325,7 @@
      "body_sha256": "9ec607ac39a8b892615fad27e0cb092d756d5f7bdcd7a5798cdeceb70116e9ed"
     }
    },
-   "rank": 55.267,
+   "rank": 53.478,
    "image_url": "https://img.24n.cz/p/2026/10/dorogaia-praga-zastavliaet-tridtsatiletnikh-iskat-skidki-e93f559ef4fee934.webp",
    "image_w": 1200,
    "image_h": 674
@@ -13293,7 +13467,7 @@
      "body_sha256": "25eea6208f00e1fbce4b1a01fc70a57de370ed102dd827961d41e30bec7ea1ba"
     }
    },
-   "rank": 50.461
+   "rank": 48.828
   },
   {
    "id": "n8062",
@@ -13520,7 +13694,7 @@
      "body_sha256": "2c2a57424183cbb07116f1b75a6f21adc0f00acdb18a4021f1d81a18c741e4c2"
     }
    },
-   "rank": 42.531,
+   "rank": 41.131,
    "image_url": "https://img.24n.cz/p/2026/10/ot-galstuka-k-uliam-cheshskii-biznes-iz-meda-zavoeval-gastro-89dce82606f3d64b.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -13678,7 +13852,7 @@
      "body_sha256": "eec57d54a92f27622d490f8c8443b7b3def1ad1b7185809656c2bd6025372f22"
     }
    },
-   "rank": 63.796,
+   "rank": 61.696,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -13963,7 +14137,7 @@
      "body_sha256": "0edb71acbc251dcf81c53d3c2051654e6685f1039a6ee82ce9e30c49c6d3e521"
     }
    },
-   "rank": 46.784,
+   "rank": 45.244,
    "sources": [
     {
      "domain": "pribramsky.denik.cz",
@@ -14150,7 +14324,7 @@
      "body_sha256": "214de89fd421cdaa7123c6a461c730341a46ed69a29e3b5cf96df4d702ab5c87"
     }
    },
-   "rank": 38.54,
+   "rank": 37.225,
    "sources": [
     {
      "domain": "metro.cz",
@@ -14328,7 +14502,7 @@
      "body_sha256": "71702f3b1ac57c33fb0917bfdaae85a5c670e4f34c87f133ebbdb4c9d0788b19"
     }
    },
-   "rank": 48.828,
+   "rank": 47.132,
    "sources": [
     {
      "domain": "enviweb.cz",
@@ -14525,7 +14699,7 @@
      "body_sha256": "50afc5fd955bc204a56c70bab5365665445298302ee80da3521dad90d2ccc13b"
     }
    },
-   "rank": 50.172,
+   "rank": 48.429,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -14806,7 +14980,7 @@
      "body_sha256": "bb2d9e8ad3c3be1a8cc75b7810ffd0fab781fdf63ae92e098ff9d66dab58c202"
     }
    },
-   "rank": 50.684,
+   "rank": 48.895,
    "image_url": "https://img.24n.cz/p/2026/09/prazhskie-shkolniki-vliubliaiutsia-v-ii-issledovanie-vskrylo-4cc5613c3eb5512f.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15016,7 +15190,7 @@
      "body_sha256": "294bc22aae89e8322b7b785882803be98fca631ac702125f8ec23a6cdf348764"
     }
    },
-   "rank": 41.429,
+   "rank": 39.966,
    "sources": [
     {
      "domain": "prnews.sk",
@@ -15181,7 +15355,7 @@
      "body_sha256": "abf728ef8970f88f1e8757be4abb0550c0902419a8d7a7c94285525bfa887e3d"
     }
    },
-   "rank": 44.962,
+   "rank": 43.344,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -15284,7 +15458,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 33.792,
+   "rank": 32.548,
    "leisure": true
   },
   {
@@ -15505,7 +15679,7 @@
      "body_sha256": "92f29a70e8942d1df2c1afd17d7c885da1f65a4208fcd528ac88599f502fcedd"
     }
    },
-   "rank": 45.986
+   "rank": 44.275
   },
   {
    "id": "n8051",
@@ -15677,7 +15851,7 @@
      "body_sha256": "d0ae53f838bcd88195ff3bc612d6a269ab764a0f532c5e22095da71acd082151"
     }
    },
-   "rank": 46.822,
+   "rank": 45.08,
    "sources": [
     {
      "domain": "europesays.com",
@@ -15867,7 +16041,7 @@
      "body_sha256": "6a9174de4470ebf1d10c36b63abe55ba2689a77154a743535806d6b64bbe010d"
     }
    },
-   "rank": 45.986,
+   "rank": 44.275,
    "image_url": "https://img.24n.cz/p/2026/10/set-supermarketov-tesco-ukhodit-iz-chekhii-magaziny-zaberet-cc4e6d6890299fc6.webp",
    "image_w": 1200,
    "image_h": 660
@@ -16034,7 +16208,7 @@
      "body_sha256": "144cf52efb3d4e48eb2f78e6b33b2c2b6c603905bf391bd25451b569e540c839"
     }
    },
-   "rank": 38.991,
+   "rank": 37.482,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -16306,7 +16480,7 @@
      "body_sha256": "ab8d456fb654938cf547e5b5704e9ad8213acf68eb22ef45a066df849b67d3cf"
     }
    },
-   "rank": 33.535,
+   "rank": 32.213,
    "sources": [
     {
      "domain": "whalesbook.com",
@@ -16511,7 +16685,7 @@
      "body_sha256": "48ca83005a1ed89ab950a64f634bb37e6f554fc4db6804efce06aa24f34e5ab4"
     }
    },
-   "rank": 37.444,
+   "rank": 35.935,
    "sources": [
     {
      "domain": "daily-ninja.com",
@@ -16678,7 +16852,7 @@
      "body_sha256": "12fa26d9edc8de523a7bceaabf78e8c9bb27df271c7f408dedadd08316ee8a48"
     }
    },
-   "rank": 40.146,
+   "rank": 38.528,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -16961,7 +17135,7 @@
      "body_sha256": "3f7c0ea612aca04abe61160a245402fa0ae6781fb76cf2b5fa1be469048c55e1"
     }
    },
-   "rank": 40.496,
+   "rank": 38.831,
    "sources": [
     {
      "domain": "cz.energyhub.eu",
@@ -17173,7 +17347,7 @@
      "body_sha256": "831120460b9755d6a7cb734f3cac87521837bcea3a8a679d97534c61846e3957"
     }
    },
-   "rank": 33.339,
+   "rank": 31.939,
    "image_url": "https://img.24n.cz/p/2026/10/literarni-soutez-praha-5-otkryvaet-dveri-dlia-vsekh-bbe0bda9c48a3c0f.webp",
    "images": [
     "https://img.24n.cz/p/2026/10/literarni-soutez-praha-5-otkryvaet-dveri-dlia-vsekh-31b01ff4a06cb85e.webp"
@@ -17530,7 +17704,7 @@
      "body_sha256": "8ebecacd8d7db244ad360b88da2cc0860e1dff67040676abd8cfb2dc4f27cb16"
     }
    },
-   "rank": 44.452
+   "rank": 42.585
   },
   {
    "id": "n8042",
@@ -17545,8 +17719,8 @@
    ],
    "published_at": "2026-10-30T06:52:54.005305+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "30 октября 2026, 06:52",
@@ -17764,7 +17938,7 @@
      "body_sha256": "b3371ff9aa4fb0ec156b31c5c48535751f5379468f94ad2dfab74248cf2ec02f"
     }
    },
-   "rank": 38.089,
+   "rank": 36.75,
    "sources": [
     {
      "domain": "fox5vegas.com",
@@ -17832,8 +18006,8 @@
    ],
    "published_at": "2026-10-30T06:52:54.005305+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "30 октября 2026, 06:52",
@@ -17979,7 +18153,7 @@
      "body_sha256": "491e268d8857e0a82a3f70981e21ca9c0417111f62b39575c79dfce3736b0438"
     }
    },
-   "rank": 32.285,
+   "rank": 31.15,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -18015,8 +18189,8 @@
    ],
    "published_at": "2026-10-30T06:20:29.748998+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "30 октября 2026, 06:20",
@@ -18244,7 +18418,7 @@
      "body_sha256": "a52bad3fef5d03701fbe6cc5f5d4a719cf302da61519a69b78ca1b995c83c7c4"
     }
    },
-   "rank": 33.721,
+   "rank": 33.25,
    "sources": [
     {
      "domain": "media24.cz",
@@ -18284,8 +18458,8 @@
    ],
    "published_at": "2026-10-30T06:20:29.748998+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "30 октября 2026, 06:20",
@@ -18452,7 +18626,7 @@
      "body_sha256": "cd8511cd3264e675c5458c34fe080ede0ccdabdad2f991362c54c7cb1de10834"
     }
    },
-   "rank": 68.606,
+   "rank": 67.96,
    "image_url": "https://img.24n.cz/p/2026/10/cheshskii-startap-kardi-ai-vyshel-na-indiiskii-rynok-b6662a91d12d4917.jpeg",
    "images": [
     "https://img.24n.cz/p/2026/10/cheshskii-startap-kardi-ai-vyshel-na-indiiskii-rynok-234fa38516ef40aa.webp"
@@ -29688,8 +29862,8 @@
    ],
    "published_at": "2026-10-29T06:45:01.457448+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "29 октября 2026, 06:45",
@@ -44830,8 +45004,8 @@
    ],
    "published_at": "2026-10-28T06:44:39.040997+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "28 октября 2026, 06:44",
@@ -54584,8 +54758,8 @@
    ],
    "published_at": "2026-10-27T07:02:19.928084+01:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "27 октября 2026, 07:02",
@@ -64774,280 +64948,6 @@
    "image_url": "https://img.24n.cz/p/2026/10/kak-investirovanie-i-sberezheniia-v-chekhii-meniaiut-podkhod-625573402dab03bf.webp",
    "image_w": 1200,
    "image_h": 800
-  },
-  {
-   "id": "n7826",
-   "slug": "ryanair-otmeniaet-12-marshrutov-iz-berlina-kakie-napravleniia-ostanuts",
-   "source": "penize.cz",
-   "original_url": "https://www.penize.cz/doprava/498862-ryanair-rusi-12-linek-z-berlina-nektere-destinace-prijdou-o-prime-spojeni",
-   "top": false,
-   "tags": [
-    "ekonomika",
-    "svet"
-   ],
-   "published_at": "2026-10-26T16:33:40.509152+01:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "26 октября 2026, 16:33",
-    "uk": "26 жовтня 2026, 16:33"
-   },
-   "ru": {
-    "title": "Ryanair отменяет 12 маршрутов из Берлина: какие направления останутся без прямых рейсов",
-    "lede": "С 25 октября авиакомпания Ryanair сокращает число рейсов из берлинского аэропорта Brandenburg почти вдвое и закрывает 12 маршрутов. Шесть направлений полностью потеряют прямое сообщение с Берлином.",
-    "meta_description": "Ryanair с 25 октября отменяет 12 маршрутов из Берлина, шесть направлений лишатся прямых рейсов. Причины сокращений и альтернативы для пассажиров.",
-    "paras": [
-     "<p>С 25 октября, воскресенья, Ryanair резко сворачивает работу в берлинском аэропорту Brandenburg (BER). Из расписания пропадут 12 маршрутов, а рейсов станет примерно вдвое меньше. Об этом пишет немецкое издание Handelsblatt со ссылкой на данные перевозчика.</p>",
-     "<p>Причина в том, что Ryanair закрывает берлинскую базу. До сих пор там стояли семь самолётов, теперь их переведут в другие европейские аэропорты. Представители компании говорят, что изменения затронут и пассажиров, и маршрутную сеть.</p>",
-     "<h3>Какие направления потеряют прямое сообщение</h3>",
-     "<p>Летать из Берлина без пересадок не смогут жители шести городов. Вот они:</p>",
-     "<ul>",
-     "<li>итальянские Palermo, Terst, Reggio Calabria и Pisa;</li>",
-     "<li>французская Marseille;</li>",
-     "<li>эстонский Tallinn.</li>",
-     "</ul>",
-     "<p>Пассажирам, планирующим поездки в эти города, теперь придётся искать альтернативные варианты - либо лететь с пересадкой, либо выбирать другие аэропорты.</p>",
-     "<h3>Где сохранится прямое сообщение, но без Ryanair</h3>",
-     "<p>Ещё на шести маршрутах Ryanair прекращает полёты, однако конкурирующие авиакомпании продолжат обслуживать эти направления. Речь идёт о:</p>",
-     "<ul>",
-     "<li>Gran Canaria, Fuerteventura и Lanzarote (Канарские острова);</li>",
-     "<li>итальянской Boloňa;</li>",
-     "<li>греческой Soluň;</li>",
-     "<li>литовском Vilnius.</li>",
-     "</ul>",
-     "<p>Эти рейсы возьмут на себя другие перевозчики: easyJet, Eurowings, Wizz Air и Aegean Airlines.</p>",
-     "<h3>Почему Ryanair уходит из Берлина</h3>",
-     "<p>В авиакомпании объясняют решение высокими эксплуатационными расходами в Германии. Основные причины: рост аэропортовых сборов и налог на авиаперевозки. С момента пандемии сборы в берлинском аэропорту выросли примерно на 50%, такие данные приводит Ryanair.</p>",
-     "<p>Решение о закрытии базы приняли ещё весной. Последствия пассажиры почувствуют только сейчас. В Берлине Ryanair продолжит работать, но рейсов будет значительно меньше.</p>",
-     "<p>Сокращения коснутся не только Берлина. В зимнем сезоне 2026/2027 Ryanair планирует предложить по всей Германии примерно на 700 тысяч мест меньше, чем годом ранее. Это снижение предложения примерно на 10%.</p>",
-     "<h3>Как это отразится на чешских пассажирах</h3>",
-     "<p>Жители северной и западной Чехии охотно летают из берлинского аэропорта Brandenburg. Многим он удобнее пражского: до него проще добраться на машине или поезде, да и направлений больше. Из Берлина можно было улететь напрямую туда, куда из Праги рейсов нет. Иногда и билеты выходили дешевле.</p>",
-     "<p>Теперь пассажирам из Чехии придётся менять планы или подбирать другие аэропорты, если они собирались в отменённые направления.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Какие направления полностью потеряют прямое сообщение с Берлином?",
-      "a": "Прямые рейсы из Берлина будут отменены в Palermo, Terst, Reggio Calabria, Pisa, Marseille и Tallinn."
-     },
-     {
-      "q": "Почему Ryanair сокращает рейсы из Берлина?",
-      "a": "Авиакомпания объясняет это высокими эксплуатационными расходами в Германии, в том числе ростом аэропортовых сборов и налогом на авиаперевозки."
-     },
-     {
-      "q": "Когда вступают в силу изменения в расписании Ryanair?",
-      "a": "Сокращение маршрутов и рейсов начнётся с воскресенья, 25 октября."
-     },
-     {
-      "q": "Останется ли Ryanair работать в Берлине?",
-      "a": "Да, Ryanair продолжит выполнять рейсы из Берлина, но их количество значительно сократится."
-     }
-    ],
-    "impact": "Сокращение рейсов Ryanair из Берлина коснётся пассажиров, планирующих поездки в шесть направлений, которые теперь останутся без прямых рейсов. Жителям северной и западной Чехии, привыкшим пользоваться берлинским аэропортом, придётся искать альтернативные маршруты или перевозчиков. Изменения вступят в силу с 25 октября.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "С 25 октября Ryanair сокращает число рейсов из берлинского аэропорта Brandenburg почти вдвое и закрывает 12 маршрутов.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Шесть городов полностью потеряют прямое авиасообщение с Берлином: Палермо, Триест, Реджо-Калабрия, Пиза, Марсель и Таллин.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Ryanair закрывает базу в Берлине из-за роста аэропортовых сборов и налога на авиаперевозки, которые выросли примерно на 50% с момента пандемии.",
-       "target": {
-        "block": 21,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В зимнем сезоне 2026/2027 Ryanair планирует сократить количество мест на рейсах по Германии примерно на 10%.",
-       "target": {
-        "block": 23,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Что делать пассажирам",
-      "items": [
-       {
-        "text": "Проверить, не затронут ли ваш маршрут отменой рейсов Ryanair из Берлина.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Рассмотреть альтернативные варианты: полёты с пересадкой или другие аэропорты для поездок в отменённые направления.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Уточнить, какие авиакомпании продолжат обслуживать маршруты, ранее выполнявшиеся Ryanair (например, easyJet, Eurowings, Wizz Air, Aegean Airlines).",
-        "target": {
-         "block": 19,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Сравнить цены и удобство маршрутов из других аэропортов, если берлинский Brandenburg перестал быть оптимальным вариантом.",
-        "target": {
-         "block": 25,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "06697c3cfaa3882253639e8208aafeb454aaa044c0388f309131147355de0dfd"
-    }
-   },
-   "uk": {
-    "title": "Ryanair скасовує 12 маршрутів із Берліна: які напрямки залишаться без прямих рейсів",
-    "lede": "З 25 жовтня авіакомпанія Ryanair скорочує кількість рейсів із берлінського аеропорту Brandenburg майже вдвічі та закриває 12 маршрутів. Шість напрямків повністю втратять пряме сполучення з Берліном.",
-    "meta_description": "Ryanair з 25 жовтня скасовує 12 маршрутів із Берліна, шість напрямків втратять прямі рейси. Причини скорочень і альтернативи для пасажирів.",
-    "paras": [
-     "<p>З 25 жовтня, у неділю, Ryanair різко згортає роботу в берлінському аеропорту Brandenburg (BER). З розкладу зникнуть 12 маршрутів, а рейсів стане приблизно вдвічі менше. Про це пише німецьке видання Handelsblatt із посиланням на дані перевізника.</p>",
-     "<p>Причина в тому, що Ryanair закриває берлінську базу. Досі там стояли сім літаків, тепер їх переведуть до інших європейських аеропортів. Представники компанії кажуть, що зміни торкнуться і пасажирів, і маршрутної мережі.</p>",
-     "<h3>Які напрямки втратять пряме сполучення</h3>",
-     "<p>Літати з Берліна без пересадок не зможуть жителі шести міст. Ось вони:</p>",
-     "<ul>",
-     "<li>італійські Palermo, Terst, Reggio Calabria і Pisa;</li>",
-     "<li>французький Marseille;</li>",
-     "<li>естонський Tallinn.</li>",
-     "</ul>",
-     "<p>Пасажирам, які планують поїздки до цих міст, тепер доведеться шукати альтернативні варіанти: або летіти з пересадкою, або обирати інші аеропорти.</p>",
-     "<h3>Де збережеться пряме сполучення, але без Ryanair</h3>",
-     "<p>Ще на шести маршрутах Ryanair припиняє польоти, однак конкуруючі авіакомпанії продовжать обслуговувати ці напрямки. Йдеться про:</p>",
-     "<ul>",
-     "<li>Gran Canaria, Fuerteventura і Lanzarote (Канарські острови);</li>",
-     "<li>італійську Boloňa;</li>",
-     "<li>грецькі Soluň;</li>",
-     "<li>литовський Vilnius.</li>",
-     "</ul>",
-     "<p>Ці рейси візьмуть на себе інші перевізники: easyJet, Eurowings, Wizz Air і Aegean Airlines.</p>",
-     "<h3>Чому Ryanair іде з Берліна</h3>",
-     "<p>В авіакомпанії пояснюють рішення високими витратами на роботу в Німеччині. Основні причини: зростання аеропортових зборів і податок на авіаперевезення. Від початку пандемії збори в берлінському аеропорту зросли приблизно на 50%, такі дані наводить Ryanair.</p>",
-     "<p>Рішення про закриття бази ухвалили ще навесні. Наслідки пасажири відчують тільки зараз. У Берліні Ryanair продовжить працювати, але рейсів буде значно менше.</p>",
-     "<p>Скорочення торкнуться не лише Берліна. У зимовому сезоні 2026/2027 Ryanair планує запропонувати по всій Німеччині приблизно на 700 тисяч місць менше, ніж роком раніше. Це зниження пропозиції приблизно на 10%.</p>",
-     "<h3>Як це позначиться на чеських пасажирах</h3>",
-     "<p>Жителі північної та західної Чехії охоче літають із берлінського аеропорту Brandenburg. Багатьом він зручніший за празький: до нього простіше дістатися машиною чи потягом, та й напрямків більше. З Берліна можна було полетіти напряму туди, куди з Праги рейсів немає. Іноді й квитки виходили дешевше.</p>",
-     "<p>Тепер пасажирам із Чехії доведеться змінювати плани або підбирати інші аеропорти, якщо вони збиралися до скасованих напрямків.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Які напрямки повністю втратять пряме сполучення з Берліном?",
-      "a": "Прямі рейси з Берліна скасують до Palermo, Terst, Reggio Calabria, Pisa, Marseille і Tallinn."
-     },
-     {
-      "q": "Чому Ryanair скорочує рейси з Берліна?",
-      "a": "Авіакомпанія пояснює це високими витратами на роботу в Німеччині, зокрема зростанням аеропортових зборів і податком на авіаперевезення."
-     },
-     {
-      "q": "Коли набувають чинності зміни в розкладі Ryanair?",
-      "a": "Скорочення маршрутів і рейсів почнеться з неділі, 25 жовтня."
-     },
-     {
-      "q": "Чи залишиться Ryanair працювати в Берліні?",
-      "a": "Так, Ryanair продовжить виконувати рейси з Берліна, але їхня кількість значно скоротиться."
-     }
-    ],
-    "impact": "Сокращение рейсов Ryanair из Берлина коснётся пассажиров, планирующих поездки в шесть направлений, которые теперь останутся без прямых рейсов. Жителям северной и западной Чехии, привыкшим пользоваться берлинским аэропортом, придётся искать альтернативные маршруты или перевозчиков. Изменения вступят в силу с 25 октября.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "З 25 жовтня Ryanair закриває берлінську базу і скорочує кількість рейсів із BER приблизно вдвічі.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Шість міст — Palermo, Terst, Reggio Calabria, Pisa, Marseille і Tallinn — втратять пряме сполучення з Берліном.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Ще на шести маршрутах Ryanair припиняє польоти, але конкуруючі авіакомпанії продовжать обслуговувати ці напрямки.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Ryanair пояснює рішення високими витратами в Німеччині: зростанням аеропортових зборів і податком на авіаперевезення.",
-       "target": {
-        "block": 21,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Що врахувати пасажирам",
-      "items": [
-       {
-        "text": "Перевірте, чи ваш напрямок серед шести міст без прямих рейсів із Берліна.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Якщо пряме сполучення зникає, шукайте рейс із пересадкою або інший аеропорт.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "На маршрутах, де Ryanair припиняє польоти, уточніть розклад easyJet, Eurowings, Wizz Air і Aegean Airlines.",
-        "target": {
-         "block": 19,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Жителям Чехії варто заздалегідь підібрати інший аеропорт для скасованих напрямків.",
-        "target": {
-         "block": 26,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "c58acdca3ada0befc4df73d1f65d98139016d81887c3fb2fbbef4f5cbe5b16be"
-    }
-   },
-   "rank": 32.2,
-   "sources": [
-    {
-     "domain": "daily-ninja.com",
-     "official": false,
-     "url": "https://www.daily-ninja.com/cs/article/ryanair-rusi-12-linek-z-berlina-nektere-destinace-prijdou-o-prime-spojeni-3492244",
-     "title": "Ryanair ruší 12 linek z Berlína. Některé destinace přijdou o přímé spojení - Daily Ninja"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/10/ryanair-otmeniaet-12-marshrutov-iz-berlina-kakie-napravlenii-6653163c988d5a9e.webp",
-   "image_w": 1200,
-   "image_h": 660
   }
  ]
 }
