@@ -99,6 +99,9 @@ def main() -> int:
     else:
         articles = []
     data["articles"] = articles
+    # Сюжеты со страницей (робот, app/n420/context.stories) — генератор строит
+    # из них /<lang>/syuzhet/<slug>/. Нет ключа — страниц сюжетов просто нет.
+    data["stories"] = (arts.get("stories") if isinstance(arts, dict) else None) or []
     # Полный список адресов для карты сайта — рядом с окном статей.
     # Корень репо считаем от articles.json: в CI скрипт зовут из корня, но
     # завязываться на текущий каталог не стоит.

@@ -69,6 +69,9 @@ def main() -> int:
         "count": len(articles),
         "generated_by": "full_articles.py (срезы архива + окно)",
         "articles": articles,
+        # Сюжеты (страницы /<lang>/syuzhet/) робот кладёт рядом с окном — их
+        # список всегда полный и свежий, срезы архива его не содержат.
+        "stories": window.get("stories") or [],
     }
     with open(out_path, "w", encoding="utf-8") as fh:
         json.dump(out, fh, ensure_ascii=False)
