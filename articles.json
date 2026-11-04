@@ -1,8 +1,199 @@
 {
- "updated_at": "2026-11-04T20:43:02+00:00",
+ "updated_at": "2026-11-04T21:11:40+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8353",
+   "slug": "komediia-neco-jako-rodina-vyidet-v-cheshskii-prokat-26-noiabria",
+   "source": "vecerni-praha.cz",
+   "original_url": "https://www.vecerni-praha.cz/boj-o-dedictvi-rozehraje-novou-ceskou-komedii-neco-jako-rodina-film-predstavuje-prvni-trailer/",
+   "top": false,
+   "tags": [
+    "zvezdy",
+    "dosug"
+   ],
+   "published_at": "2026-11-04T22:11:39.992630+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "4 ноября 2026, 22:11",
+    "uk": "4 листопада 2026, 22:11"
+   },
+   "ru": {
+    "title": "Комедия Něco jako rodina выйдет в чешский прокат 26 ноября",
+    "lede": "В Чехии выпустили первый трейлер новой комедии Něco jako rodina, которая рассказывает о семейном застолье из-за наследства. Звездный актерский состав соберется на экранах кинотеатров уже 26 ноября.",
+    "meta_description": "Новая чешская комедия Něco jako rodina представила первый трейлер. Премьера фильма состоится 26 ноября, в главных ролях Tereza Ramba и Jakub Prachař.",
+    "paras": [
+     "<p>В чешских кинотеатрах выходит комедия Něco jako rodina. Создатели показали первый официальный трейлер: он знакомит зрителей с главными персонажами, а тон у картины черно-юморной.</p>",
+     "<p>Сюжет строится вокруг семейной встречи на роскошной вилле богатого Виктора Хоффманна. Неожиданное наследство спустя годы взбудоражило всю родню, и на выходные дом заполняют гости, уверенные, что каждому достанется своя доля.</p>",
+     "<p>Среди собравшихся оказывается почтальон с большими амбициями (его играет Якуб Прахарж) и его жена Линда, которая тянет на себе всю семью, в исполнении Терезы Рамбы. Компанию им составляют бывшая любовница, амбициозный агент по недвижимости и эксцентричный парикмахер со своей чихуахуа.</p>",
+     "<blockquote>Если вы любите острый черный юмор, неожиданные сюжетные повороты и секреты, а вдобавок отличную актерскую компанию, то этот фильм создан специально для вас.</blockquote>",
+     "<p>Так приглашает зрителей в кинотеатры Элизавета Максимова. В актерский состав также вошли Петр Штепанек, Петр Лненичка, Зузана Мауреры, Станислав Маер и Томаш Машталир. Режиссер картины Зузана Мариянкова, известная по таким хитам, как Známí neznámí и Jedeme na teambuilding.</p>",
+     "<h3>Закулисье съемочного процесса</h3>",
+     "<p>Съемки стартовали в январе этого года. Площадкой стал барочный замок Лука-над-Йихлавой с английским парком вокруг. Для широкой публики это место обычно закрыто. Часть эпизодов снимали в Рокицанах и Бероуне.</p>",
+     "<blockquote>Когда я читал сценарий фильма Něco jako rodina, мне было совсем не скучно, а в финале меня ждал совершенно неожиданный сюрприз. Я верю, что такие же эмоции испытают и зрители в зрительных залах.</blockquote>",
+     "<p>Своими впечатлениями поделился Якуб Прахарж.</p>",
+     "<blockquote>Люди в кино увидят своих любимых артистов в весьма необычных для них амплуа. Я верю, что наша картина отличается от привычных чешских и словацких комедий, и надеюсь, что эта непохожесть придется зрителям по душе.</blockquote>",
+     "<p>Об этом добавила режиссер и сценарист Зузана Мариянкова. Проект создавался силами производственной и дистрибьюторской компании DONART Film при финансовой поддержке Плзеньского края.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Когда выходит фильм Něco jako rodina?",
+      "a": "Премьера комедии в чешских кинотеатрах назначена на 26 ноября."
+     },
+     {
+      "q": "Кто снял фильм?",
+      "a": "Режиссером и сценаристом картины выступила Зызана Марианкова."
+     },
+     {
+      "q": "Где проходили съемки?",
+      "a": "Съемочный процесс шел в январе на закрытом для публики барочном замке Лука-над-Йихлавой, а также в Рокицанах и Бероуне."
+     }
+    ],
+    "impact": "Премьера комедии Něco jako rodina состоится в кинотеатрах Чехии 26 ноября.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Сюжет строится вокруг семейной встречи на роскошной вилле богатого Виктора Хоффманна из-за неожиданного наследства.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Тон картины определен как черно-юморной.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Режиссером картины является Зузана Мариянкова.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Съемки проходили в барочном замке Лука-над-Йихлавой, а также в Рокицанах и Бероуне.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Лука-над-Йихлавой",
+       "definition": "Барочный замок в деревне Лука-над-Йихлавой, который используется для свадеб, мероприятий и корпоративных акций.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Рокицанах",
+       "definition": "Рокицани — город в Пльзенском крае Чехии, расположенный примерно в 16 км к востоку от Пльзеня.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "DONART Film",
+       "definition": "DONART Film — чешская производственная и дистрибьюторская компания, основанная в 2016 году, со студией в Праге.",
+       "target": {
+        "block": 11,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "04aedc6504de700bbd2d74786a95091f84fe5ebfac29fd14d2c1e0cf8774a99c"
+    }
+   },
+   "uk": {
+    "title": "Комедія Něco jako rodina вийде в чеський прокат 26 листопада",
+    "lede": "У Чехії випустили перший трейлер нової комедії Něco jako rodina, яка розповідає про сімейне застілля через спадщину. Зірковий акторський склад збереться на екранах кінотеатрів уже 26 листопада.",
+    "meta_description": "Нова чеська комедія Něco jako rodina представила перший трейлер. Прем'єра фільму відбудеться 26 листопада, у головних ролях Tereza Ramba і Jakub Prachař.",
+    "paras": [
+     "<p>У чеських кінотеатрах виходить комедія Něco jako rodina. Творці показали перший офіційний трейлер: він знайомить глядачів з головними персонажами, а тон у картини чорногуморний.</p>",
+     "<p>Сюжет будується навколо сімейної зустрічі на розкішній віллі багатого Віктора Хоффманна. Несподівана спадщина за багато років збурила всю рідню, і на вихідні дім заповнюють гості, впевнені, що кожному дістанеться своя частка.</p>",
+     "<p>Серед присутніх опиняється листоноша з великими амбіціями (його грає Якуб Прахарж) і його дружина Лінда, яка тягне на собі всю сім'ю, у виконанні Терези Рамби. Компанію їм складають колишня коханка, амбітний агент з нерухомості та ексцентричний перукар зі своєю чихуахуа.</p>",
+     "<blockquote>Якщо ви любите гострий чорний гумор, несподівані сюжетні повороти й секрети, а до того ж чудову акторську компанію, то цей фільм створений спеціально для вас.</blockquote>",
+     "<p>Так запрошує глядачів до кінотеатрів Елізавета Максимова. До акторського складу також увійшли Петр Штепанек, Петр Лненичка, Зузана Маурери, Станіслав Маєр і Томаш Машталір. Режисерка картини Зузана Маріянкова, відома за такими хітами, як Známí neznámí і Jedeme na teambuilding.</p>",
+     "<h3>Закулісся знімального процесу</h3>",
+     "<p>Зйомки стартували в січні цього року. Майданчиком став бароковий замок Лука-над-Їглавою з англійським парком навколо. Для широкої публіки це місце зазвичай закрите. Частину епізодів знімали в Рокицанах і Бероуні.</p>",
+     "<blockquote>Коли я читав сценарій фільму Něco jako rodina, мені було зовсім не нудно, а у фіналі на мене чекав цілком несподіваний сюрприз. Я вірю, що такі самі емоції відчують і глядачі в глядацьких залах.</blockquote>",
+     "<p>Своїми враженнями поділився Якуб Прахарж.</p>",
+     "<blockquote>Люди в кіно побачать своїх улюблених артистів у вельми незвичних для них амплуа. Я вірю, що наша картина відрізняється від звичних чеських і словацьких комедій, і сподіваюся, що ця несхожість припаде глядачам до душі.</blockquote>",
+     "<p>Про це додала режисерка й сценаристка Зузана Маріянкова. Проєкт створювався силами виробничої та дистриб'юторської компанії DONART Film за фінансової підтримки Плзеньського краю.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Коли виходить фільм Něco jako rodina?",
+      "a": "Прем'єра комедії в чеських кінотеатрах призначена на 26 листопада."
+     },
+     {
+      "q": "Хто зняв фільм?",
+      "a": "Режисеркою і сценаристкою картини виступила Зузана Маріянкова."
+     },
+     {
+      "q": "Де проходили зйомки?",
+      "a": "Знімальний процес ішов у січні в закритому для публіки бароковому замку Лука-над-Їглавою, а також у Рокицанах і Бероуні."
+     }
+    ],
+    "impact": "Премьера комедии Něco jako rodina состоится в кинотеатрах Чехии 26 ноября.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У чеських кінотеатрах виходить комедія Něco jako rodina з чорногуморним тоном.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Сюжет будується навколо сімейної зустрічі на віллі багатого Віктора Хоффманна через несподівану спадщину.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Якуб Прахарж зіграє листоношу з амбіціями, а Тереза Рамба — його дружину.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Зйомки фільму проходили в бароковому замку Лука-над-Їглавою.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "8db3207b92b3de7f6867f48a970817674a5a2d5720dd4b3c77403da842f07a47"
+    }
+   },
+   "rank": 55.0,
+   "image_url": "https://img.24n.cz/p/2026/11/komediia-neco-jako-rodina-vyidet-v-cheshskii-prokat-26-noiab-e4c412dbf1c2233a.webp",
+   "video": {
+    "kind": "iframe",
+    "url": "https://www.youtube-nocookie.com/embed/7yhC9Va9EaY"
+   },
+   "image_w": 1200,
+   "image_h": 800
+  },
   {
    "id": "n8352",
    "slug": "miluoki-brewers-vpervye-vyigral-titul-mlb-pri-biudzhete-vtroe-menshe",
@@ -15,8 +206,8 @@
    ],
    "published_at": "2026-11-04T21:43:01.603418+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "28 минут назад",
+    "uk": "28 хвилин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:43",
@@ -213,8 +404,8 @@
    ],
    "published_at": "2026-11-04T21:43:01.603418+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "28 минут назад",
+    "uk": "28 хвилин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:43",
@@ -484,8 +675,8 @@
    ],
    "published_at": "2026-11-04T21:10:57.744211+01:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:10",
@@ -699,8 +890,8 @@
    ],
    "published_at": "2026-11-04T21:10:57.744211+01:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:10",
@@ -1018,8 +1209,8 @@
    ],
    "published_at": "2026-11-04T21:10:57.744211+01:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:10",
@@ -1242,8 +1433,8 @@
    ],
    "published_at": "2026-11-04T21:10:57.744211+01:00",
    "time": {
-    "ru": "32 минуты назад",
-    "uk": "32 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:10",
@@ -1447,8 +1638,8 @@
    ],
    "published_at": "2026-11-04T21:00:27.753317+01:00",
    "time": {
-    "ru": "42 минуты назад",
-    "uk": "42 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "4 ноября 2026, 21:00",
@@ -1828,8 +2019,8 @@
    ],
    "published_at": "2026-11-04T18:57:11.153560+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "4 ноября 2026, 18:57",
@@ -2174,7 +2365,7 @@
      ]
     }
    },
-   "rank": 92.0,
+   "rank": 91.679,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -2504,7 +2695,7 @@
      ]
     }
    },
-   "rank": 99.798,
+   "rank": 99.108,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -2748,7 +2939,7 @@
      "body_sha256": "032338b28451a6bc6d00916139ecf526d4ede6c1456b62b990280299d479b84d"
     }
    },
-   "rank": 64.868,
+   "rank": 64.42,
    "sources": [
     {
      "domain": "media24.cz",
@@ -3182,7 +3373,7 @@
      ]
     }
    },
-   "rank": 119.757,
+   "rank": 118.93,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -3437,7 +3628,7 @@
      ]
     }
    },
-   "rank": 66.864,
+   "rank": 66.402,
    "sources": [
     {
      "domain": "o2universum.cz",
@@ -3614,7 +3805,7 @@
      ]
     }
    },
-   "rank": 81.834,
+   "rank": 81.269,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -3685,7 +3876,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 81.787,
+   "rank": 81.222,
    "forecast": true
   },
   {
@@ -3700,8 +3891,8 @@
    ],
    "published_at": "2026-11-04T17:53:42.766419+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "4 ноября 2026, 17:53",
@@ -4011,7 +4202,7 @@
      ]
     }
    },
-   "rank": 71.145,
+   "rank": 70.649,
    "story": [
     {
      "slug": "pat-a-mat-prazdnuiut-50-let-novyi-film-s-8-oktiabria",
@@ -4314,7 +4505,7 @@
      "body_sha256": "8bb5fa5301c68527e9f6a55ab7a70fa84ee136f4dc0ba0bba409eb7078c74d28"
     }
    },
-   "rank": 83.446,
+   "rank": 82.86,
    "image_url": "https://img.24n.cz/p/2026/11/starcraft-vyshel-nastolnoi-igroi-za-4-499-kron-989890a57dacfa41.webp",
    "video": {
     "kind": "iframe",
@@ -4516,7 +4707,7 @@
      ]
     }
    },
-   "rank": 80.501,
+   "rank": 79.936,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -4860,7 +5051,7 @@
      ]
     }
    },
-   "rank": 98.172,
+   "rank": 97.483,
    "thread": {
     "slug": "kiberataka-na-ahold-delhaize-i-sboi-muj-albert",
     "title": {
@@ -4907,8 +5098,8 @@
    ],
    "published_at": "2026-11-04T16:59:26.595993+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 16:59",
@@ -5178,7 +5369,7 @@
      ]
     }
    },
-   "rank": 82.88,
+   "rank": 82.294,
    "sources": [
     {
      "domain": "szu.gov.cz",
@@ -5235,8 +5426,8 @@
    ],
    "published_at": "2026-11-04T16:59:26.595993+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 16:59",
@@ -5485,7 +5676,7 @@
      "also": []
     }
    },
-   "rank": 95.068,
+   "rank": 94.396,
    "thread": {
     "slug": "spor-o-raspredelenii-nalogov-mezhdu-gorodami-chekhii",
     "title": {
@@ -5555,8 +5746,8 @@
    ],
    "published_at": "2026-11-04T16:59:26.595993+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 16:59",
@@ -5770,7 +5961,7 @@
      ]
     }
    },
-   "rank": 97.506,
+   "rank": 96.817,
    "story": [
     {
      "slug": "chekhiia-otmenit-nadbavku-za-detei-k-pensii-s-2027-goda-kogo-kosnetsia",
@@ -5997,7 +6188,7 @@
      ]
     }
    },
-   "rank": 86.911,
+   "rank": 86.291,
    "story": [
     {
      "slug": "velosipedist-s-ruzhem-v-kladno-politsiia-priniala-mery-iz-za-airsoft-o",
@@ -6186,7 +6377,7 @@
      "body_sha256": "4f18b98afbd69a488831c1cb5b7181eddb1ab647c7a7ec12e5de8739c4834943"
     }
    },
-   "rank": 101.397,
+   "rank": 100.673,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -6279,8 +6470,8 @@
    ],
    "published_at": "2026-11-04T15:51:39.101260+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 15:51",
@@ -6460,7 +6651,7 @@
      ]
     }
    },
-   "rank": 64.236,
+   "rank": 63.774,
    "sources": [
     {
      "domain": "amazingplaces.cz",
@@ -6512,8 +6703,8 @@
    ],
    "published_at": "2026-11-04T15:51:39.101260+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 15:51",
@@ -6749,7 +6940,7 @@
      ]
     }
    },
-   "rank": 62.318,
+   "rank": 61.87,
    "image_url": "https://img.24n.cz/p/2026/11/bolt-food-nazval-sem-neobychnykh-restoranov-dlia-zakaza-edy-607fc7e0a676ac32.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/bolt-food-nazval-sem-neobychnykh-restoranov-dlia-zakaza-edy-4fbaa839119e5af2.webp"
@@ -7140,7 +7331,7 @@
      ]
     }
    },
-   "rank": 109.174,
+   "rank": 108.381,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -7456,7 +7647,7 @@
      ]
     }
    },
-   "rank": 105.893,
+   "rank": 105.118,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -7805,7 +7996,7 @@
      ]
     }
    },
-   "rank": 102.828,
+   "rank": 102.069,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -8055,7 +8246,7 @@
      "body_sha256": "1932404cd4dcb5817bdf79b04406f345e16ec9f72b7be71de0eae271487412eb"
     }
    },
-   "rank": 116.85,
+   "rank": 115.988,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -8317,7 +8508,7 @@
      ]
     }
    },
-   "rank": 116.85,
+   "rank": 115.988,
    "sources": [
     {
      "domain": "prf.osu.cz",
@@ -8381,8 +8572,8 @@
    ],
    "published_at": "2026-11-04T13:03:41.819327+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 13:03",
@@ -8687,7 +8878,7 @@
      ]
     }
    },
-   "rank": 109.279,
+   "rank": 108.458,
    "thread": {
     "slug": "konflikt-vokrug-rukovodstva-krkonoshskogo-parka",
     "title": {
@@ -9254,7 +9445,7 @@
      ]
     }
    },
-   "rank": 59.145,
+   "rank": 58.697,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -9513,7 +9704,7 @@
      ]
     }
    },
-   "rank": 92.813,
+   "rank": 92.11,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -9538,8 +9729,8 @@
    ],
    "published_at": "2026-11-04T12:02:54.803778+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 12:02",
@@ -9790,7 +9981,7 @@
      ]
     }
    },
-   "rank": 76.812,
+   "rank": 76.226,
    "image_url": "https://img.24n.cz/p/2026/11/slaviia-otkryla-novyi-fanshop-v-tsentre-pragi-za-3-5-mln-kro-fc0ca303696d9f13.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/slaviia-otkryla-novyi-fanshop-v-tsentre-pragi-za-3-5-mln-kro-ae66b60a25d3b4a7.webp"
@@ -9823,8 +10014,8 @@
    ],
    "published_at": "2026-11-04T12:02:54.803778+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 12:02",
@@ -10065,7 +10256,7 @@
      ]
     }
    },
-   "rank": 76.812,
+   "rank": 76.226,
    "sources": [
     {
      "domain": "japan.cz",
@@ -10131,8 +10322,8 @@
    ],
    "published_at": "2026-11-04T12:02:54.803778+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 12:02",
@@ -10381,7 +10572,7 @@
      ]
     }
    },
-   "rank": 89.464,
+   "rank": 88.781,
    "thread": {
     "slug": "infliatsiia-v-chekhii-v-2026-godu",
     "title": {
@@ -10451,8 +10642,8 @@
    ],
    "published_at": "2026-11-04T12:02:54.803778+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 12:02",
@@ -10871,8 +11062,8 @@
    ],
    "published_at": "2026-11-04T12:02:54.803778+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 12:02",
@@ -11282,7 +11473,7 @@
      ]
     }
    },
-   "rank": 121.996,
+   "rank": 121.065,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -11388,8 +11579,8 @@
    ],
    "published_at": "2026-11-04T10:58:53.032598+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 10:58",
@@ -11674,7 +11865,7 @@
      ]
     }
    },
-   "rank": 74.614,
+   "rank": 74.035,
    "story": [
     {
      "slug": "iana-vitova-ia-khotela-prosto-perestat-sushchestvovat-na-vremia",
@@ -11969,7 +12160,7 @@
      ]
     }
    },
-   "rank": 70.42,
+   "rank": 69.868,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -12030,8 +12221,8 @@
    ],
    "published_at": "2026-11-04T09:53:35.350501+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 09:53",
@@ -12281,7 +12472,7 @@
      "body_sha256": "3957464637da2e67a8352a57e6f4ad2364ebc6a60b001cd0d83f5845ec0e67ae"
     }
    },
-   "rank": 103.832,
+   "rank": 103.012,
    "sources": [
     {
      "domain": "regionpraha.cz",
@@ -12577,7 +12768,7 @@
      "also": []
     }
    },
-   "rank": 99.379,
+   "rank": 98.586,
    "story": [
     {
      "slug": "pokushenie-na-ubiistvo-v-chekhii-sud-po-delu-s-nozhom",
@@ -12603,8 +12794,8 @@
    ],
    "published_at": "2026-11-04T08:47:46.408384+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 08:47",
@@ -12789,7 +12980,7 @@
      ]
     }
    },
-   "rank": 68.536,
+   "rank": 67.984,
    "image_url": "https://img.24n.cz/p/2026/11/vrachi-ugerske-gradishte-vyiavili-rak-prostaty-u-muzhchin-27-bb7624c51a3d3c99.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/vrachi-ugerske-gradishte-vyiavili-rak-prostaty-u-muzhchin-27-9856daa211b9b2cb.webp"
@@ -12822,8 +13013,8 @@
    ],
    "published_at": "2026-11-04T08:47:46.408384+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 08:47",
@@ -13086,7 +13277,7 @@
      ]
     }
    },
-   "rank": 89.096,
+   "rank": 88.379,
    "story": [
     {
      "slug": "katerzhina-konechna-meniaet-evropeiskuiu-fraktsiiu",
@@ -13264,7 +13455,7 @@
     ],
     "impact": "Решение городского собрания определяет руководство и политику Ричан на весь четырехлетний период до 2026 года."
    },
-   "rank": 92.474,
+   "rank": 91.722,
    "sources": [
     {
      "domain": "ricany.cz",
@@ -13454,7 +13645,7 @@
      ]
     }
    },
-   "rank": 67.284,
+   "rank": 66.733,
    "image_url": "https://img.24n.cz/p/2026/11/ambulatoriia-v-beneshove-za-god-pomogla-150-zavisimym-dc4a99c3f5da0eb2.webp",
    "image_w": 620,
    "image_h": 349
@@ -13696,7 +13887,7 @@
      ]
     }
    },
-   "rank": 83.264,
+   "rank": 82.581,
    "sources": [
     {
      "domain": "metro.cz",
@@ -14030,7 +14221,7 @@
      ]
     }
    },
-   "rank": 83.462,
+   "rank": 82.773,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -14377,7 +14568,7 @@
      ]
     }
    },
-   "rank": 102.302,
+   "rank": 101.971,
    "thread": {
     "slug": "vykhod-politikov-iz-dvizheniia-ano",
     "title": {
@@ -14664,7 +14855,7 @@
      ]
     }
    },
-   "rank": 79.289,
+   "rank": 78.634,
    "image_url": "https://img.24n.cz/p/2026/11/prazhskii-startap-apify-narastil-vyruchku-do-80-mln-dollarov-f318d4dd5f54e2c0.webp",
    "image_w": 670,
    "image_h": 377
@@ -14970,7 +15161,7 @@
      ]
     }
    },
-   "rank": 91.809,
+   "rank": 91.05,
    "thread": {
     "slug": "poshliny-na-posylki-iz-za-predelov-es",
     "title": {
@@ -15258,7 +15449,7 @@
      "body_sha256": "46bd88c434e5dec2f23c1a74db941082e036e706767a07cf3708b32a9b075a8a"
     }
    },
-   "rank": 98.897,
+   "rank": 98.07,
    "sources": [
     {
      "domain": "ehutnik.cz",
@@ -15428,7 +15619,7 @@
      ]
     }
    },
-   "rank": 94.777,
+   "rank": 93.984,
    "image_url": "https://img.24n.cz/p/2026/11/zhiteli-ostravy-trebuiut-sokhranit-pivovarniu-ostravar-v-gor-5b5b1458783124d4.webp",
    "image_w": 1200,
    "image_h": 674
@@ -15560,7 +15751,7 @@
      ]
     }
    },
-   "rank": 70.008,
+   "rank": 69.779,
    "sources": [
     {
      "domain": "media24.cz",
@@ -15893,7 +16084,7 @@
      ]
     }
    },
-   "rank": 78.576,
+   "rank": 77.907,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -16218,7 +16409,7 @@
      ]
     }
    },
-   "rank": 97.207,
+   "rank": 96.38,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -16670,7 +16861,7 @@
      ]
     }
    },
-   "rank": 86.676,
+   "rank": 85.939,
    "thread": {
     "slug": "edinoe-sotsialnoe-posobie-v-chekhii",
     "title": {
@@ -17080,7 +17271,7 @@
      ]
     }
    },
-   "rank": 97.207,
+   "rank": 96.38,
    "thread": {
     "slug": "tesco-ukhodit-iz-chekhii-i-slovakii",
     "title": {
@@ -17252,7 +17443,7 @@
     ],
     "impact": "Кадровые изменения в Banky Creditas могут привести к новому направлению в их стратегии на финансовом рынке, что важно как для клиентов, так и для сотрудников."
    },
-   "rank": 78.56,
+   "rank": 77.877,
    "sources": [
     {
      "domain": "cbaeducaplus.cz",
@@ -17451,7 +17642,7 @@
      "body_sha256": "55c3f86221345c97829e38eab2e0cd985eaba8e3fd8d9bf2d85949068a22432a"
     }
    },
-   "rank": 80.941,
+   "rank": 80.237,
    "sources": [
     {
      "domain": "studujvpk.cz",
@@ -17665,7 +17856,7 @@
      ]
     }
    },
-   "rank": 92.844,
+   "rank": 92.037,
    "story": [
     {
      "slug": "el-nino-2026-pochemu-zima-v-chekhii-mozhet-stat-nepredskazuemoi",
@@ -17976,7 +18167,7 @@
      ]
     }
    },
-   "rank": 78.56,
+   "rank": 77.877,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -18115,8 +18306,8 @@
    ],
    "published_at": "2026-11-04T03:48:39.994794+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 03:48",
@@ -18398,7 +18589,7 @@
      ]
     }
    },
-   "rank": 62.775,
+   "rank": 62.223,
    "image_url": "https://img.24n.cz/p/2026/11/iz-pragi-v-boltsano-zapustiat-priamye-reisy-dvazhdy-v-nedeli-a02d4b1b160bd208.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/iz-pragi-v-boltsano-zapustiat-priamye-reisy-dvazhdy-v-nedeli-000f38bd7af3bf3b.webp"
@@ -18678,7 +18869,7 @@
      ]
     }
    },
-   "rank": 73.937,
+   "rank": 73.268,
    "sources": [
     {
      "domain": "dopravacek.eu",
@@ -18721,8 +18912,8 @@
    ],
    "published_at": "2026-11-04T01:44:49.890765+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "4 ноября 2026, 01:44",
@@ -18951,7 +19142,7 @@
      "also": []
     }
    },
-   "rank": 71.713,
+   "rank": 71.058,
    "story": [
     {
      "slug": "milan-shta-ndler-smert-mozhet-byt-uteshitelnoi",
@@ -19345,7 +19536,7 @@
      ]
     }
    },
-   "rank": 63.501,
+   "rank": 62.915,
    "story": [
     {
      "slug": "pensionnye-nakopleniia-v-chekhii-pochemu-kopiat-malo",
@@ -19706,7 +19897,7 @@
      ]
     }
    },
-   "rank": 44.366,
+   "rank": 43.953,
    "official_url": "https://mzd.gov.cz/vysledek-vyberoveho-rizeni-pred-uzavrenim-smlouvy-o-poskytovani-a-uhrade-hrazenych-sluzeb-dlouhodobe-intenzivni-osetrovatelske-pece-pro-uzemi-stredoceskeho-kraje",
    "image_url": "https://img.24n.cz/p/2026/10/kak-vypolnit-klonirovanie-debian-zfs-na-drugoi-disk-5fd0707dbd7700a6.webp",
    "image_w": 670,
@@ -19865,7 +20056,7 @@
      ]
     }
    },
-   "rank": 92.43,
+   "rank": 91.568,
    "thread": {
     "slug": "infliatsiia-v-chekhii-v-2026-godu",
     "title": {
@@ -20130,7 +20321,7 @@
      ]
     }
    },
-   "rank": 70.247,
+   "rank": 69.592,
    "sources": [
     {
      "domain": "art.hn.cz",
@@ -20166,8 +20357,8 @@
    ],
    "published_at": "2026-11-03T22:03:06.880596+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "3 ноября 2026, 22:03",
@@ -20321,7 +20512,7 @@
      ]
     }
    },
-   "rank": 87.688,
+   "rank": 86.826,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -20360,8 +20551,8 @@
    ],
    "published_at": "2026-11-03T22:03:06.880596+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "3 ноября 2026, 22:03",
@@ -20682,7 +20873,7 @@
      ]
     }
    },
-   "rank": 94.001,
+   "rank": 93.077,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -21196,7 +21387,7 @@
      ]
     }
    },
-   "rank": 75.521,
+   "rank": 74.769,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -21381,7 +21572,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 57.659
+   "rank": 57.08
   },
   {
    "id": "n8276",
@@ -21583,7 +21774,7 @@
      "body_sha256": "b17751f85bdb7de75f35f2a9b1e7c1a29f5e096c11915c5cb41ccee8f2f61ddd"
     }
    },
-   "rank": 82.15,
+   "rank": 81.323,
    "sources": [
     {
      "domain": "domaci.hn.cz",
@@ -21824,7 +22015,7 @@
      ]
     }
    },
-   "rank": 57.573
+   "rank": 56.987
   },
   {
    "id": "n8274",
@@ -22068,7 +22259,7 @@
      "also": []
     }
    },
-   "rank": 73.151,
+   "rank": 72.407,
    "thread": {
     "slug": "vozvrat-eet-i-zapusk-eet-2-0",
     "title": {
@@ -22342,7 +22533,7 @@
      ]
     }
    },
-   "rank": 80.288,
+   "rank": 79.461,
    "image_url": "https://img.24n.cz/p/2026/11/v-pardubitse-sudiat-mat-i-otchima-za-istiazaniia-detei-3cb0646939000234.webp",
    "image_w": 1200,
    "image_h": 675
@@ -22666,7 +22857,7 @@
      ]
     }
    },
-   "rank": 67.468,
+   "rank": 66.765,
    "thread": {
     "slug": "reforma-pensionnykh-nakoplenii-lepsi-penzijko",
     "title": {
@@ -22960,7 +23151,7 @@
      "also": []
     }
    },
-   "rank": 62.173,
+   "rank": 61.518,
    "story": [
     {
      "slug": "passerinvest-arendnoe-zhile-praga-balance-home-sotni-kvartir",
@@ -23033,7 +23224,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 53.369,
+   "rank": 52.803,
    "forecast": true
   },
   {
@@ -23282,7 +23473,7 @@
      ]
     }
    },
-   "rank": 59.425,
+   "rank": 58.791,
    "story": [
     {
      "slug": "ministerstvo-obrazovaniia-chekhii-gotovit-plan-borby-s-segregatsiei",
@@ -23529,7 +23720,7 @@
      ]
     }
    },
-   "rank": 54.904,
+   "rank": 54.318,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -23712,7 +23903,7 @@
      ]
     }
    },
-   "rank": 59.815,
+   "rank": 59.16,
    "image_url": "https://img.24n.cz/p/2026/11/igra-silica-ot-cheshskogo-razrabotchika-prinesla-okolo-50-mi-0cdf25dc20153310.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/igra-silica-ot-cheshskogo-razrabotchika-prinesla-okolo-50-mi-a0d2e06011314324.webp"
@@ -23952,7 +24143,7 @@
      ]
     }
    },
-   "rank": 65.33,
+   "rank": 64.606,
    "image_url": "https://img.24n.cz/p/2026/11/v-plzene-sudiat-eks-chinovnitsu-za-tender-na-20-millionov-d7ff37197f290223.webp",
    "image_w": 1200,
    "image_h": 675
@@ -24265,7 +24456,7 @@
      ]
     }
    },
-   "rank": 79.246,
+   "rank": 78.357,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -24579,7 +24770,7 @@
      ]
     }
    },
-   "rank": 49.697,
+   "rank": 49.132,
    "story": [
     {
      "slug": "v-usti-nad-labem-smenilas-vlast-koalitsiia-jedno-usti-poluchila-bolshi",
@@ -24798,7 +24989,7 @@
      ]
     }
    },
-   "rank": 66.061,
+   "rank": 65.31,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -25145,7 +25336,7 @@
      ]
     }
    },
-   "rank": 56.864,
+   "rank": 56.209,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -25402,7 +25593,7 @@
      ]
     }
    },
-   "rank": 68.237,
+   "rank": 67.451,
    "sources": [
     {
      "domain": "zlinsky.denik.cz",
@@ -25653,7 +25844,7 @@
      ]
     }
    },
-   "rank": 60.222,
+   "rank": 59.519,
    "story": [
     {
      "slug": "sud-v-chekhii-dal-uslovnyi-srok-za-nasilie-nad-dvumia-detmi-12-i-10-le",
@@ -25788,7 +25979,7 @@
      ]
     }
    },
-   "rank": 56.09,
+   "rank": 55.435,
    "image_url": "https://img.24n.cz/p/2026/11/v-prage-za-polgoda-sbili-45-zhivotnykh-chashche-vsego-kosul-94a8104b58813400.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/v-prage-za-polgoda-sbili-45-zhivotnykh-chashche-vsego-kosul-73c524593afd6aaa.webp"
@@ -26124,7 +26315,7 @@
      ]
     }
    },
-   "rank": 62.421,
+   "rank": 61.684,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -26460,7 +26651,7 @@
      ]
     }
    },
-   "rank": 72.922,
+   "rank": 72.06,
    "thread": {
     "slug": "novyi-mer-brno-iakub-grushka",
     "title": {
@@ -26796,7 +26987,7 @@
      ]
     }
    },
-   "rank": 60.496,
+   "rank": 59.772,
    "thread": {
     "slug": "stavki-cheshskogo-natsionalnogo-banka",
     "title": {
@@ -27082,7 +27273,7 @@
      ]
     }
    },
-   "rank": 67.41,
+   "rank": 66.603,
    "thread": {
     "slug": "konflikt-vokrug-rukovodstva-krkonoshskogo-parka",
     "title": {
@@ -27351,7 +27542,7 @@
      ]
     }
    },
-   "rank": 54.734,
+   "rank": 54.079,
    "image_url": "https://img.24n.cz/p/2026/11/v-prage-deviat-iz-desiati-pokhoron-prokhodiat-krematsiei-b1b49bf2983c6325.webp",
    "image_w": 1366,
    "image_h": 910
@@ -27599,7 +27790,7 @@
      ]
     }
    },
-   "rank": 48.685,
+   "rank": 48.102,
    "story": [
     {
      "slug": "v-moldave-na-vyborakh-starosta-vycherknul-17-izbiratelei-politsiia-otk",
@@ -27762,7 +27953,7 @@
      "also": []
     }
    },
-   "rank": 56.072
+   "rank": 55.382
   },
   {
    "id": "n8251",
@@ -28022,7 +28213,7 @@
      ]
     }
    },
-   "rank": 47.661,
+   "rank": 47.075,
    "thread": {
     "slug": "turek-i-ego-diplom",
     "title": {
@@ -28373,7 +28564,7 @@
      ]
     }
    },
-   "rank": 61.812,
+   "rank": 61.04,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -28664,7 +28855,7 @@
      ]
     }
    },
-   "rank": 60.708,
+   "rank": 59.95,
    "image_url": "https://d15-a.sdn.cz/d_15/c_img_gY_f/uk2OPn.jpeg?fl=cro,0,76,1280,720%7Cres,1200,,1%7Cwebp,75"
   },
   {
@@ -28907,7 +29098,7 @@
      ]
     }
    },
-   "rank": 50.094,
+   "rank": 49.459,
    "sources": [
     {
      "domain": "media24.cz",
@@ -29128,7 +29319,7 @@
      ]
     }
    },
-   "rank": 39.204,
+   "rank": 38.707,
    "sources": [
     {
      "domain": "dovolte.cz",
@@ -29227,7 +29418,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 46.075
+   "rank": 45.489
   },
   {
    "id": "n8245",
@@ -29502,7 +29693,7 @@
      ]
     }
    },
-   "rank": 52.866,
+   "rank": 52.176,
    "sources": [
     {
      "domain": "nasepraha.cz",
@@ -29807,7 +29998,7 @@
      ]
     }
    },
-   "rank": 41.227,
+   "rank": 40.676,
    "story": [
     {
      "slug": "chekhi-okazalis-odnimi-iz-samykh-schastlivykh-v-evrosoiuze",
@@ -30093,7 +30284,7 @@
      ]
     }
    },
-   "rank": 43.804,
+   "rank": 43.218,
    "image_url": "https://img.24n.cz/p/2026/11/penta-postroit-v-londone-otel-na-350-nomerov-za-6-7-mlrd-kro-929caf3833580cb7.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/penta-postroit-v-londone-otel-na-350-nomerov-za-6-7-mlrd-kro-2b3bcd0ca282963c.webp"
@@ -30383,7 +30574,7 @@
      ]
     }
    },
-   "rank": 32.992,
+   "rank": 32.544,
    "image_url": "https://img.24n.cz/p/2026/11/politseiskie-v-ostrave-vyveli-iz-goriashchei-kvartiry-pozhil-4605a9fa892aeda3.webp",
    "image_w": 950,
    "image_h": 630
@@ -30605,7 +30796,7 @@
      "also": []
     }
    },
-   "rank": 48.219,
+   "rank": 47.564,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -30940,7 +31131,7 @@
      ]
     }
    },
-   "rank": 65.477,
+   "rank": 64.587,
    "sources": [
     {
      "domain": "mf.gov.cz",
@@ -31270,7 +31461,7 @@
      ]
     }
    },
-   "rank": 55.494,
+   "rank": 54.721,
    "sources": [
     {
      "domain": "europesays.com",
@@ -31611,7 +31802,7 @@
      "also": []
     }
    },
-   "rank": 27.251,
+   "rank": 26.872,
    "story": [
     {
      "slug": "kak-sozdat-3d-stsenu-s-pomoshchiu-webgl-poshagovoe-rukovodstvo-ot-ches",
@@ -31916,7 +32107,7 @@
      ]
     }
    },
-   "rank": 41.395,
+   "rank": 40.809,
    "story": [
     {
      "slug": "komercni-banka-zapustila-kb-broker-teper-aktsii-i-etf-mozhno-pokupat-p",
@@ -32074,7 +32265,7 @@
      ]
     }
    },
-   "rank": 43.204,
+   "rank": 42.583,
    "thread": {
     "slug": "novyi-mer-brno-iakub-grushka",
     "title": {
@@ -32435,7 +32626,7 @@
      ]
     }
    },
-   "rank": 43.204,
+   "rank": 42.583,
    "story": [
     {
      "slug": "kak-ii-agenty-meniaiut-rabotu-osnovatel-startapa-pen-o-novoi-realnosti",
@@ -32700,7 +32891,7 @@
      "also": []
     }
    },
-   "rank": 43.204,
+   "rank": 42.583,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/EyZ79PJnZw0"
@@ -33026,7 +33217,7 @@
      ]
     }
    },
-   "rank": 40.804
+   "rank": 40.218
   },
   {
    "id": "n8232",
@@ -33294,7 +33485,7 @@
      ]
     }
    },
-   "rank": 59.996,
+   "rank": 59.121,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -33494,7 +33685,7 @@
      ]
     }
    },
-   "rank": 46.531,
+   "rank": 45.841,
    "official_url": "https://ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.cs.html",
    "image_url": "https://img.24n.cz/p/2026/11/82-krupnykh-kompanii-chekhii-rastut-za-schet-sobstvennoi-pri-f76310da29251fca.webp",
    "image_w": 1200,
@@ -33737,7 +33928,7 @@
      "also": []
     }
    },
-   "rank": 41.412,
+   "rank": 40.799,
    "story": [
     {
      "slug": "festival-bread-dance-prague-cheshskii-tanets-pokoriaet-pragu-i-mir",
@@ -33950,7 +34141,7 @@
      ]
     }
    },
-   "rank": 45.747,
+   "rank": 45.058,
    "story": [
     {
      "slug": "pvzp-ugolovnoe-zaiavlenie-audit-nashel-podozritelnye-vyplaty",
@@ -34182,7 +34373,7 @@
      ]
     }
    },
-   "rank": 38.885,
+   "rank": 38.299,
    "sources": [
     {
      "domain": "pravda.sk",
@@ -34538,7 +34729,7 @@
      ]
     }
    },
-   "rank": 43.46,
+   "rank": 42.805,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -34812,7 +35003,7 @@
      ]
     }
    },
-   "rank": 39.191,
+   "rank": 38.557,
    "story": [
     {
      "slug": "diuna-3-novye-mstiteli-i-kruz-v-roli-magnata-kino-do-kontsa-2026",
@@ -35156,7 +35347,7 @@
      ]
     }
    },
-   "rank": 41.419,
+   "rank": 40.736,
    "story": [
     {
      "slug": "credo-ventures-ai-investice-puzyr-na-rynke-i-uspekh-fondov",
@@ -35399,7 +35590,7 @@
      "also": []
     }
    },
-   "rank": 34.307,
+   "rank": 33.741,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -35533,7 +35724,7 @@
      ]
     }
    },
-   "rank": 56.771,
+   "rank": 56.541,
    "sources": [
     {
      "domain": "media24.cz",
@@ -35837,7 +36028,7 @@
      ]
     }
    },
-   "rank": 27.584,
+   "rank": 27.122,
    "story": [
     {
      "slug": "molitva-za-mir-v-izraile-praga-aktsiia-na-barrandove",
@@ -36148,7 +36339,7 @@
      ]
     }
    },
-   "rank": 63.078,
+   "rank": 62.824,
    "thread": {
     "slug": "vozvrat-eet-i-zapusk-eet-2-0",
     "title": {
@@ -36489,7 +36680,7 @@
      ]
     }
    },
-   "rank": 29.643,
+   "rank": 29.146,
    "story": [
     {
      "slug": "festival-dia-de-muertos-vozvrashchaetsia-v-pragu-v-noiabre",
@@ -36799,7 +36990,7 @@
      ]
     }
    },
-   "rank": 54.392,
+   "rank": 53.462,
    "story": [
     {
      "slug": "sud-po-delu-dozimetr-doprashivaet-novykh-kliuchevykh-svidetelei",
@@ -37170,7 +37361,7 @@
      ]
     }
    },
-   "rank": 48.349,
+   "rank": 47.521,
    "story": [
     {
      "slug": "kvantovye-proryvy-protsessor-na-orbite-i-zashchita-ot-budushchikh-atak",
@@ -37516,7 +37707,7 @@
      ]
     }
    },
-   "rank": 38.276,
+   "rank": 37.621,
    "story": [
     {
      "slug": "gepatit-a-v-prage-v-sentiabre-zaboleli-20-chelovek-vdvoe-bolshe-chem-v",
@@ -37900,7 +38091,7 @@
      ]
     }
    },
-   "rank": 50.363,
+   "rank": 49.501,
    "story": [
     {
      "slug": "chekhiia-zapustila-besprotsentnye-kredity-na-uteplenie-domov-do-2-mln",
@@ -38206,7 +38397,7 @@
      ]
     }
    },
-   "rank": 27.619,
+   "rank": 27.136,
    "image_url": "https://img.24n.cz/p/2026/11/konferentsiia-openalt-proidet-v-brno-7-i-8-noiabria-besplatn-e84c84c8f88cbdf8.webp",
    "image_w": 1600,
    "image_h": 1066
@@ -38418,7 +38609,7 @@
      ]
     }
    },
-   "rank": 37.129,
+   "rank": 36.439,
    "story": [
     {
      "slug": "politiki-v-prage-osporiat-itogi-vyborov-v-sude-iz-za-oshibok",
@@ -38649,7 +38840,7 @@
      ]
     }
    },
-   "rank": 34.159,
+   "rank": 33.524,
    "story": [
     {
      "slug": "politsiia-zaderzhala-proizvoditelei-pervitina-vo-vsetin",
@@ -38983,7 +39174,7 @@
      ]
     }
    },
-   "rank": 38.985,
+   "rank": 38.261,
    "story": [
     {
      "slug": "kitaitsa-obviniaemogo-v-shpionazhe-v-chekhii-ostavili-pod-strazhei",
@@ -39402,7 +39593,7 @@
      ]
     }
    },
-   "rank": 40.726,
+   "rank": 39.954,
    "sources": [
     {
      "domain": "aktualnizpravy.cz",
@@ -39701,7 +39892,7 @@
      ]
     }
    },
-   "rank": 46.908,
+   "rank": 46.019,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -65039,8 +65230,8 @@
    ],
    "published_at": "2026-10-30T22:10:51.711404+01:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "30 октября 2026, 22:10",
@@ -72490,184 +72681,6 @@
    "image_url": "https://img.24n.cz/p/2026/10/set-supermarketov-tesco-ukhodit-iz-chekhii-magaziny-zaberet-cc4e6d6890299fc6.webp",
    "image_w": 1200,
    "image_h": 660
-  },
-  {
-   "id": "n8049",
-   "slug": "krazha-koshelka-v-bare-praga-s-karty-ukrali-30-tysiach-kron",
-   "source": "nasepraha.cz",
-   "original_url": "https://www.nasepraha.cz/zmizela-penezenka-z-uctu-pres-30-tisic-policie-resi-zahadu-jak-se-zlodej-dostal-k-pin-kodu/",
-   "top": false,
-   "tags": [
-    "praha",
-    "kriminal",
-    "cesko"
-   ],
-   "published_at": "2026-10-30T09:35:48.560903+01:00",
-   "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
-   },
-   "date": {
-    "ru": "30 октября 2026, 09:35",
-    "uk": "30 жовтня 2026, 09:35"
-   },
-   "ru": {
-    "title": "Кража кошелька в баре Прага: с карты украли 30 тысяч крон",
-    "lede": "Поход в бар в центре Праги обернулся для 35-летнего иностранца потерей кошелька и крупной суммы денег. Пока владелец пытался заблокировать карты, злоумышленник успел снять наличные в банкомате.",
-    "meta_description": "В пражском баре на улице Jakubská у иностранца украли кошелек. С карты сняли более 30 тысяч крон. Полиция ищет подозреваемого.",
-    "paras": [
-     "<p>Ночь в центре столицы закончилась для 35-летнего иностранца крупной потерей. Отдыхал он в заведении на улице Jakubská в Праге 1 и не заметил, как лишился кошелька с банковскими картами. Пропажу мужчина обнаружил не сразу. Когда попытался заблокировать счета, стало ясно: чужими деньгами уже воспользовались.</p>",
-     "<p>Пражский портал prazsky.denik.cz пишет, что случилось это 17 октября около часу ночи. Перед входом в помещение потерпевший проверил карман куртки, где лежал кошелек. Все было на месте. А спустя какое-то время портмоне исчезло.</p>",
-     "<h3>Загадка с пин-кодом</h3>",
-     "<p>Заблокировать карты вовремя не вышло. Преступник дошел до ближайшего банкомата на улице Dlážděná и снял с чужого счета больше 30 000 крон. Весь ущерб оказался выше этой суммы.</p>",
-     "<p>Дело ведут полицейские из отделения Můstek. У них есть записи камер видеонаблюдения: на них видно, как обналичивали деньги. Подозреваемого пока не установили. Следователи не понимают главного: откуда он узнал PIN-код, без которого такую сумму со счета не снять.</p>",
-     "<h3>Полиция просит о помощи</h3>",
-     "<p>Полиция просит помочь найти этого человека. Мужчине грозит до двух лет тюрьмы: его подозревают в неправомерном приобретении, подделке и изменении платежного средства.</p>",
-     "<blockquote>Если вы узнаете мужчину на записи с камеры или у вас есть любая информация, которая поможет его найти, звоните, пожалуйста, по номеру 158.</blockquote>",
-     "<p>Кадры с разыскиваемым полиция опубликовала в пресс-службе.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Где произошла кража кошелька?",
-      "a": "В баре на улице Jakubská в Праге 1."
-     },
-     {
-      "q": "Сколько денег сняли с украденной карты?",
-      "a": "Более 30 000 крон."
-     },
-     {
-      "q": "Куда звонить, если я узнал подозреваемого?",
-      "a": "По номеру 158."
-     },
-     {
-      "q": "Какое наказание грозит подозреваемому?",
-      "a": "До двух лет лишения свободы."
-     }
-    ],
-    "impact": "Если вы стали жертвой кражи банковских карт в Чехии, немедленно заблокируйте их через мобильное приложение банка или горячую линию и обратитесь в полицию по номеру 158.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "35-летний иностранец потерял кошелек с банковскими картами в баре на улице Jakubská в Праге 1.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Преступник снял с чужого счета более 30 000 крон через банкомат на улице Dlážděná.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Полиция не установила, как злоумышленник узнал PIN-код карты.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Подозреваемому грозит до двух лет тюрьмы за неправомерное приобретение и изменение платежного средства.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "152b19c564d53e9efd66d5c655b8b032cea61ee060426b7d267941990437ad34"
-    }
-   },
-   "uk": {
-    "title": "Крадіжка гаманця в барі Праги: з картки зняли 30 тисяч крон",
-    "lede": "Похід до бару в центрі Праги обернувся для 35-річного іноземця втратою гаманця й великої суми грошей. Поки власник намагався заблокувати картки, зловмисник встиг зняти готівку в банкоматі.",
-    "meta_description": "У празькому барі на вулиці Jakubská в іноземця вкрали гаманець. З картки зняли понад 30 тисяч крон. Поліція шукає підозрюваного.",
-    "paras": [
-     "<p>Ніч у центрі столиці закінчилася для 35-річного іноземця великою втратою. Відпочивав він у закладі на вулиці Jakubská у Празі 1 і не помітив, як позбувся гаманця з банківськими картками. Пропажу чоловік виявив не одразу. Коли спробував заблокувати рахунки, стало ясно: чужими грошима вже скористалися.</p>",
-     "<p>Празький портал prazsky.denik.cz пише, що сталося це 17 жовтня близько першої години ночі. Перед входом до приміщення потерпілий перевірив кишеню куртки, де лежав гаманець. Усе було на місці. А за якийсь час гаманець зник.</p>",
-     "<h3>Загадка з пін-кодом</h3>",
-     "<p>Заблокувати картки вчасно не вдалося. Зловмисник дійшов до найближчого банкомата на вулиці Dlážděná і зняв із чужого рахунку понад 30 000 крон. Загальна шкода виявилася більшою за цю суму.</p>",
-     "<p>Справу ведуть поліцейські з відділення Můstek. У них є записи камер відеоспостереження: на них видно, як знімали гроші. Підозрюваного поки не встановили. Слідчі не розуміють головного: звідки він дізнався PIN-код, без якого таку суму з рахунку не зняти.</p>",
-     "<h3>Поліція просить про допомогу</h3>",
-     "<p>Поліція просить допомогти знайти цього чоловіка. Йому загрожує до двох років тюрми: його підозрюють у незаконному придбанні, підробці та зміні платіжного засобу.</p>",
-     "<blockquote>Якщо ви впізнаєте чоловіка на записі з камери або маєте будь-яку інформацію, яка допоможе його знайти, телефонуйте, будь ласка, за номером 158.</blockquote>",
-     "<p>Кадри з розшукуваним поліція опублікувала у пресслужбі.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Де сталася крадіжка гаманця?",
-      "a": "У барі на вулиці Jakubská у Празі 1."
-     },
-     {
-      "q": "Скільки грошей зняли з украденої картки?",
-      "a": "Понад 30 000 крон."
-     },
-     {
-      "q": "Куди телефонувати, якщо я впізнав підозрюваного?",
-      "a": "За номером 158."
-     },
-     {
-      "q": "Яке покарання загрожує підозрюваному?",
-      "a": "До двох років позбавлення волі."
-     }
-    ],
-    "impact": "Если вы стали жертвой кражи банковских карт в Чехии, немедленно заблокируйте их через мобильное приложение банка или горячую линию и обратитесь в полицию по номеру 158.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "35-річний іноземець втратив гаманець з банківськими картками у барі на вулиці Jakubská в Празі 1, не помітивши пропажі одразу.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Зловмисник зняв понад 30 000 крон з рахунку потерпілого через банкомат на вулиці Dlážděná до блокування карток.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Поліція розслідує справу, але не знає, як зловмисник дізнався PIN-код картки.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Підозрюваному загрожує до двох років ув’язнення за незаконне придбання, підробку та зміну платіжного засобу.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "144cf52efb3d4e48eb2f78e6b33b2c2b6c603905bf391bd25451b569e540c839"
-    }
-   },
-   "rank": 33.95,
-   "sources": [
-    {
-     "domain": "prazsky.denik.cz",
-     "official": false,
-     "url": "https://prazsky.denik.cz/krimi/zlodej-vzal-cizinci-v-baru-penezenku-z-karty-vybral-30-tisic-hleda-ho-policie/",
-     "title": "Zloděj vzal cizinci v baru peněženku, z karty vybral 30 tisíc. Hledá ho policie – Pražský deník"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "video": {
-    "kind": "iframe",
-    "url": "https://www.youtube-nocookie.com/embed/eXFB_PwDMtM"
-   }
   }
  ],
  "stories": [
