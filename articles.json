@@ -1,8 +1,290 @@
 {
- "updated_at": "2026-11-06T10:00:29+00:00",
+ "updated_at": "2026-11-06T10:01:07+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8448",
+   "slug": "praga-dvazhdy-za-den-ostalas-bez-sveta-zasedanie-parlamenta-prervali",
+   "source": "denik.cz",
+   "original_url": "https://www.denik.cz/regiony/levy-breh-vltavy-predevsim-prahu-5-a-6-postihl-dopoledne-vypadek-elektriny/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=regiony",
+   "top": false,
+   "tags": [
+    "cesko",
+    "praha"
+   ],
+   "published_at": "2026-11-06T11:01:06.007277+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "6 ноября 2026, 11:01",
+    "uk": "6 листопада 2026, 11:01"
+   },
+   "ru": {
+    "title": "Прага дважды за день осталась без света, заседание парламента прервали",
+    "lede": "Утром и днём в Праге произошли два крупных отключения электроэнергии из-за аварий на подстанциях Прага-запада и Стршеда. Без света остались Малая Страна, Нове-Место и Винограды, а заседание Палаты депутатов пришлось прервать.",
+    "meta_description": "В Праге из-за аварий на подстанциях Прага-запада и Стршеда произошли масштабные отключения света. Пострадали Малая Страна, Нове-Место, Винограды, прервано…",
+    "paras": [
+     "<p>В Праге в четверг дважды отключали электроэнергию. Первый сбой случился около 9:30. Причина: авария на подстанции Прага-Запада и на подстанции Червеного врха. Свет пропал у большой части левого берега Влтавы, в том числе в Малой Стране.</p>",
+     "<p>Светофоры на всей пострадавшей территории не работали, трамваи ходили с ограничениями, фуникулер на Петршин встал. Пожарные выезжали на 5 экстренных вызовов: освобождали людей из застрявших лифтов.</p>",
+     "<p>Серьёзных проблем на дорогах спасатели не зафиксировали. Маршруты трамваев 1 и 2 не ходили примерно полчаса между остановками «Возовна Стршешовице» и Петршин. Движение возобновилось в 10:10.</p>",
+     "<p>Затронуло отключение и парламент. В здании Палаты депутатов на Снемовни улице на Малой Стране горело только аварийное освещение, остальная техника не работала. Депутаты не могли ни обсуждать законопроекты, ни голосовать. Без электричества парламент просидел около получаса.</p>",
+     "<blockquote>«Мы предполагаем, что сможем решить проблему в течение часа», заявил пресс-секретарь компании Pražská energetika Карел Ганзелька.</blockquote>",
+     "<p>Второй сбой пришёлся на центр города после 13:00. Примерно на 20 минут без электричества остались районы Нове Место и Винограды. Причиной стала авария на подстанции Стршеда. Такая же случилась десять дней назад, 10 октября. В центре из-за этого нарушилось движение трамваев: пострадали 11 линий.</p>",
+     "<blockquote>«Это неисправность на распределительном щите, питание будет переключено на другое направление», пояснил Карел Ганзелька представитель PRE.</blockquote>",
+     "<p>В стране 6,3 миллиона точек подключения к электросети, пишет e15.cz. Крупный сбой фиксировали в Чехии 4 июля 2025 года: без света на несколько часов остались около миллиона абонентов. В октябре 2025 года отключение в центре Праги было кратким. Причиной тоже стала поломка на подстанции.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Почему в Праге пропал свет?",
+      "a": "Отключения были вызваны авариями на подстанциях Praha-Západ (утром) и Střed (после 13:00)."
+     },
+     {
+      "q": "Какие районы Праги пострадали?",
+      "a": "Утром без света осталась Малая Страна (включая здание парламента), после обеда - Нове-Место и Винограды."
+     },
+     {
+      "q": "Работал ли общественный транспорт?",
+      "a": "Движение трамваев было временно ограничено: утром не ходили маршруты 1 и 2, днём пострадали 11 линий в центре. Также не работал фуникулер на Петршин и светофоры."
+     }
+    ],
+    "impact": "Жители и гости Праги столкнулись с временными перебоями в работе светофоров, трамваев и фуникулера, а также с остановкой лифтов. Заседание Палаты депутатов было приостановлено примерно на полчаса.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Первый сбой в Праге произошёл около 9:30 из-за аварий на подстанциях Прага-Запада и Червеного врха.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Из-за отключения пожарные выезжали на 5 вызовов и освобождали людей из застрявших лифтов.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "В здании Палаты депутатов депутаты не могли обсуждать законопроекты и голосовать и просидели без электричества около получаса.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Второй сбой после 13:00 затронул Нове Место и Винограды примерно на 20 минут из-за аварии на подстанции Стршеда.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Палаты депутатов",
+       "definition": "Одна из палат парламента Чехии; в её здании на Снемовни улице во время отключения горело только аварийное освещение.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "подстанции",
+       "definition": "Объекты электросети, аварии на которых в тексте названы причиной обоих отключений в Праге.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Червеного врха",
+       "definition": "Это электрическая подстанция 110/22 кВ в Воковице, Прага.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Петршин",
+       "definition": "Петршин — холм в Праге, на который ведёт фуникулёр Újezd — Nebozízek — Petřín, ежедневно с 7:00 до 22:15 с интервалом 10 минут.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "0e3701e0610d732e004610c06733c04bc8de95fb3063ca8a9b4d9c90de0808d8"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "funikuler-na-petrshine-ostanovilsia-iz-za-otkliucheniia-elektrichestva",
+       "title": "Фуникулёр на Петршине остановился из-за отключения электричества: пассажиров эвакуировали",
+       "desc": "Фуникулёр на Петршине остановился из-за отключения электричества. Пассажиров эвакуировали без травм, движение возобновили через 50 минут.",
+       "date": "21 октября 2026, 08:10",
+       "img": "",
+       "block": 1,
+       "phrase": "фуникулер на Петршин встал"
+      }
+     ],
+     "also": [
+      {
+       "slug": "nochnoe-zasedanie-snemovny-zavershilos-skandalom-iz-za-oskorbleniia",
+       "title": "Ночное заседание Снемовны завершилось скандалом из-за оскорбления",
+       "desc": "Ночное заседание Снемовны прервалось после скандала, когда депутат оскорбил коллегу непристойной репликой, спровоцировав жесткую реакцию руководства…",
+       "date": "22 октября 2026, 09:06",
+       "img": ""
+      },
+      {
+       "slug": "snemovna-priniala-zakon-o-tsifrovoi-ekonomike-142-golosami",
+       "title": "Снемовна приняла закон о цифровой экономике 142 голосами",
+       "desc": "Снемовна приняла закон о цифровой экономике (142 голоса за). Он адаптирует чешское право к регламенту ЕС DSA и защищает детей в интернете.",
+       "date": "4 ноября 2026, 18:34",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Прага двічі за день залишилася без світла, засідання парламенту перервали",
+    "lede": "Уранці та вдень у Празі сталися два великі відключення електроенергії через аварії на підстанціях Прага-Захід і Стршед. Без світла залишилися Мала Страна, Нове-Мєсто і Виногради, а засідання Палати депутатів довелося перервати.",
+    "meta_description": "У Празі через аварії на підстанціях Прага-Захід і Стршед сталися масштабні відключення світла. Постраждали Мала Страна, Нове-Мєсто, Виногради, перервано…",
+    "paras": [
+     "<p>У Празі в четвер двічі вимикали електроенергію. Перший збій стався близько 9:30. Причина: аварія на підстанції Прага-Захід і на підстанції Червеного врху. Світло зникло у великої частини лівого берега Влтави, зокрема в Малій Стране.</p>",
+     "<p>Світлофори на всій постраждалій території не працювали, трамваї ходили з обмеженнями, фунікулер на Петршин зупинився. Пожежники виїжджали на 5 екстрених викликів: визволяли людей із застряглих ліфтів.</p>",
+     "<p>Серйозних проблем на дорогах рятувальники не зафіксували. Маршрути трамваїв 1 і 2 не ходили приблизно пів години між зупинками «Возовна Стршешовице» і Петршин. Рух відновився о 10:10.</p>",
+     "<p>Зачепило відключення й парламент. У будівлі Палати депутатів на вулиці Снемовні в Малій Стране горіло лише аварійне освітлення, решта техніки не працювала. Депутати не могли ні обговорювати законопроєкти, ні голосувати. Без електрики парламент просидів близько пів години.</p>",
+     "<blockquote>«Ми припускаємо, що зможемо вирішити проблему протягом години», заявив речник компанії Pražská energetika Карел Ганзелька.</blockquote>",
+     "<p>Другий збій припав на центр міста після 13:00. Приблизно на 20 хвилин без електрики залишилися райони Нове Мєсто і Виногради. Причиною стала аварія на підстанції Стршед. Така сама сталася десять днів тому, 10 жовтня. У центрі через це порушився рух трамваїв: постраждали 11 ліній.</p>",
+     "<blockquote>«Це несправність на розподільчому щиті, живлення буде переключено на інший напрямок», пояснив Карел Ганзелька, представник PRE.</blockquote>",
+     "<p>У країні 6,3 мільйона точок підключення до електромережі, пише e15.cz. Великий збій фіксували в Чехії 4 липня 2025 року: без світла на кілька годин залишилися близько мільйона абонентів. У жовтні 2025 року відключення в центрі Праги було коротким. Причиною теж стала поломка на підстанції.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Чому в Празі зникло світло?",
+      "a": "Відключення були спричинені аваріями на підстанціях Praha-Západ (уранці) і Střed (після 13:00)."
+     },
+     {
+      "q": "Які райони Праги постраждали?",
+      "a": "Уранці без світла залишилася Мала Страна (включно з будівлею парламенту), після обіду - Нове-Мєсто і Виногради."
+     },
+     {
+      "q": "Чи працював громадський транспорт?",
+      "a": "Рух трамваїв було тимчасово обмежено: уранці не ходили маршрути 1 і 2, вдень постраждали 11 ліній у центрі. Також не працював фунікулер на Петршин і світлофори."
+     }
+    ],
+    "impact": "Жители и гости Праги столкнулись с временными перебоями в работе светофоров, трамваев и фуникулера, а также с остановкой лифтов. Заседание Палаты депутатов было приостановлено примерно на полчаса.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Перший збій стався близько 9:30 через аварію на підстанціях Прага-Захід і Червеного врху, без світла залишилася велика частина лівого берега Влтави.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Через відключення не працювали світлофори, трамваї ходили з обмеженнями, а фунікулер на Петршин зупинився.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "У будівлі Палати депутатів на Снемовні горіло лише аварійне освітлення, депутати не могли обговорювати законопроєкти чи голосувати близько пів години.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Другий збій після 13:00 через аварію на підстанції Стршед на 20 хвилин знеструмив Нове Мєсто і Виногради та порушив рух 11 трамвайних ліній.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Палати депутатів",
+       "definition": "Нижня палата парламенту Чехії, засідання якої перервало відключення електроенергії.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "фунікулер",
+       "definition": "Підйомний транспорт, що курсує на Петршин; під час першого збою він зупинився.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "63850095e937180ea2b339a85a79139dd727158e182238e604faa14353d94910"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "funikuler-na-petrshine-ostanovilsia-iz-za-otkliucheniia-elektrichestva",
+       "title": "Фунікулер на Петршині зупинився через відключення електрики: пасажирів евакуювали",
+       "desc": "Фунікулер на Петршині зупинився через відключення електрики. Пасажирів евакуювали без травм, рух відновили за 50 хвилин.",
+       "date": "21 жовтня 2026, 08:10",
+       "img": "",
+       "block": 1,
+       "phrase": "фунікулер на Петршин зупинився"
+      }
+     ],
+     "also": [
+      {
+       "slug": "nochnoe-zasedanie-snemovny-zavershilos-skandalom-iz-za-oskorbleniia",
+       "title": "Нічне засідання Снемовни закінчилося скандалом через образу",
+       "desc": "Нічне засідання Снемовни перервалося після скандалу, коли депутат образив колегу непристойною реплікою, спровокувавши жорстку реакцію керівництва…",
+       "date": "22 жовтня 2026, 09:06",
+       "img": ""
+      },
+      {
+       "slug": "snemovna-priniala-zakon-o-tsifrovoi-ekonomike-142-golosami",
+       "title": "Снемовна ухвалила закон про цифрову економіку 142 голосами",
+       "desc": "Снемовна ухвалила закон про цифрову економіку (142 голоси за). Він адаптує чеське право до регламенту ЄС DSA і захищає дітей в інтернеті.",
+       "date": "4 листопада 2026, 18:34",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "rank": 117.0,
+   "sources": [
+    {
+     "domain": "e15.cz",
+     "official": false,
+     "url": "https://www.e15.cz/domaci/prahu-postihl-dalsi-vypadek-elektriny-1428191",
+     "title": "Další výpadek elektřiny v Praze | e15.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/11/praga-dvazhdy-za-den-ostalas-bez-sveta-zasedanie-parlamenta-acfd51630dd9927a.webp",
+   "image_w": 1366,
+   "image_h": 910
+  },
   {
    "id": "n8447",
    "slug": "kuda-skhodit-v-chekhii-na-vykhodnykh-6-8-noiabria-2026-goda",
@@ -1432,7 +1714,7 @@
      ]
     }
    },
-   "rank": 111.472,
+   "rank": 111.455,
    "story": [
     {
      "slug": "premialnye-vyplaty-strakhovykh-kompanii-chekhiia-2026",
@@ -1661,7 +1943,7 @@
      ]
     }
    },
-   "rank": 73.494,
+   "rank": 73.483,
    "sources": [
     {
      "domain": "loreum.cz",
@@ -1910,7 +2192,7 @@
      ]
     }
    },
-   "rank": 93.093
+   "rank": 93.079
   },
   {
    "id": "n8439",
@@ -2293,7 +2575,7 @@
      ]
     }
    },
-   "rank": 82.618,
+   "rank": 82.605,
    "thread": {
     "slug": "zasukha-v-chekhii-i-padenie-vyrabotki-ges",
     "title": {
@@ -2618,7 +2900,7 @@
      ]
     }
    },
-   "rank": 96.412,
+   "rank": 96.397,
    "official_url": "https://mzd.gov.cz/vyzva-k-podani-zadosti-o-udeleni-statusu-pracoviste-pro-screening-karcinomu-delozniho-hrdla-v-programu-screeningu-karcinomu-delozniho-hrdla"
   },
   {
@@ -2881,7 +3163,7 @@
      ]
     }
    },
-   "rank": 101.232,
+   "rank": 101.217,
    "image_url": "https://img.24n.cz/p/2026/11/babish-golosoval-v-parlamente-lish-v-32-sluchaev-e99cdd51d8de6cce.webp",
    "image_w": 1200,
    "image_h": 675
@@ -3060,7 +3342,7 @@
      "body_sha256": "0f1048eef0e5eb27e1b8e384e5a39f4c8ea60571affc0d67ee5eaaf8189b17f0"
     }
    },
-   "rank": 64.114,
+   "rank": 64.104,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -3320,7 +3602,7 @@
      ]
     }
    },
-   "rank": 101.435,
+   "rank": 101.419,
    "sources": [
     {
      "domain": "infodnes.cz",
@@ -3563,7 +3845,7 @@
      ]
     }
    },
-   "rank": 91.058,
+   "rank": 91.044,
    "sources": [
     {
      "domain": "prahadnes.info",
@@ -3812,7 +4094,7 @@
      ]
     }
    },
-   "rank": 89.371,
+   "rank": 89.356,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -4043,7 +4325,7 @@
      ]
     }
    },
-   "rank": 55.487,
+   "rank": 55.478,
    "image_url": "https://img.24n.cz/p/2026/11/vatslav-shafarzh-postroil-shale-v-krkonoshakh-i-vstretil-tam-a25f55a143b674e1.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/vatslav-shafarzh-postroil-shale-v-krkonoshakh-i-vstretil-tam-bf296e97a57005ee.webp",
@@ -4282,7 +4564,7 @@
      "body_sha256": "c746a6ce906fc24dd82e01fc42892a3a3a2cbc851c77aece36181df4ce457bef"
     }
    },
-   "rank": 78.607,
+   "rank": 78.594,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -4655,7 +4937,7 @@
      ]
     }
    },
-   "rank": 82.538,
+   "rank": 82.524,
    "sources": [
     {
      "domain": "domazlicky.denik.cz",
@@ -5027,7 +5309,7 @@
      ]
     }
    },
-   "rank": 78.5,
+   "rank": 78.487,
    "thread": {
     "slug": "rost-ipotechnykh-stavok-v-chekhii",
     "title": {
@@ -5355,7 +5637,7 @@
      ]
     }
    },
-   "rank": 87.523,
+   "rank": 87.508,
    "sources": [
     {
      "domain": "media24.cz",
@@ -5633,7 +5915,7 @@
      ]
     }
    },
-   "rank": 99.253,
+   "rank": 99.236,
    "sources": [
     {
      "domain": "logistika.tv",
@@ -5934,7 +6216,7 @@
      ]
     }
    },
-   "rank": 93.896,
+   "rank": 93.881,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -6266,7 +6548,7 @@
      ]
     }
    },
-   "rank": 101.945,
+   "rank": 101.928,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -6737,7 +7019,7 @@
      ]
     }
    },
-   "rank": 75.377,
+   "rank": 75.365,
    "image_url": "https://img.24n.cz/p/2026/11/malyi-biznes-v-chekhii-beret-avto-v-lizing-bez-pervogo-vznos-4c0d5167060d7ac4.webp",
    "image_w": 1200,
    "image_h": 660
@@ -6989,7 +7271,7 @@
      "also": []
     }
    },
-   "rank": 83.435,
+   "rank": 83.421,
    "image_url": "https://img.24n.cz/p/2026/11/bloger-duklock-prodal-5-millionov-banok-vody-qapka-za-pervyi-12011005b7ba4852.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/bloger-duklock-prodal-5-millionov-banok-vody-qapka-za-pervyi-65058c80803abfb3.webp",
@@ -7247,7 +7529,7 @@
      ]
     }
    },
-   "rank": 82.666
+   "rank": 82.652
   },
   {
    "id": "n8421",
@@ -7560,7 +7842,7 @@
      ]
     }
    },
-   "rank": 87.127,
+   "rank": 87.111,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -7965,7 +8247,7 @@
      ]
     }
    },
-   "rank": 66.876,
+   "rank": 66.864,
    "thread": {
     "slug": "cesky-slavik-2026-i-bratia-nedvedy",
     "title": {
@@ -8116,7 +8398,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 70.667
+   "rank": 70.654
   },
   {
    "id": "n8418",
@@ -8351,7 +8633,7 @@
      ]
     }
    },
-   "rank": 91.415,
+   "rank": 91.398,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -8725,7 +9007,7 @@
      ]
     }
    },
-   "rank": 79.673,
+   "rank": 79.659,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -9124,7 +9406,7 @@
      "body_sha256": "f87570593821c885be7db38d6173378ed890d33bea31d4426491a71298a3c0de"
     }
    },
-   "rank": 70.613,
+   "rank": 70.6,
    "image_url": "https://img.24n.cz/p/2026/11/iurist-erik-gaibazo-vypustit-knigu-o-kukhne-chetyrekh-stran-7d27f9e3874f583d.webp",
    "image_w": 1280,
    "image_h": 800
@@ -9388,7 +9670,7 @@
      ]
     }
    },
-   "rank": 86.397,
+   "rank": 86.381,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -9807,7 +10089,7 @@
      ]
     }
    },
-   "rank": 87.228,
+   "rank": 87.212,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -10241,7 +10523,7 @@
      ]
     }
    },
-   "rank": 81.375,
+   "rank": 81.36,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -10528,7 +10810,7 @@
      ]
     }
    },
-   "rank": 84.737,
+   "rank": 84.721,
    "sources": [
     {
      "domain": "press.news",
@@ -10734,7 +11016,7 @@
      "body_sha256": "5ba0c8474d021c1db9ffcedb5d083409eeb4eebedbcd92caeb55b5b40dae6898"
     }
    },
-   "rank": 81.478,
+   "rank": 81.463,
    "image_url": "https://img.24n.cz/p/2026/11/zhivye-elki-v-chekhii-podorozhaiut-na-desiat-protsentov-a6b59130beb2bec6.webp",
    "image_w": 1366,
    "image_h": 910
@@ -10933,7 +11215,7 @@
      "body_sha256": "506dd1b905f4c459b76c100183ad9aac74a9dac21b9b7a2c3389223c1a0c017d"
     }
    },
-   "rank": 101.847,
+   "rank": 101.828,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -11016,7 +11298,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 66.083,
+   "rank": 66.071,
    "forecast": true
   },
   {
@@ -11251,7 +11533,7 @@
      ]
     }
    },
-   "rank": 43.565,
+   "rank": 43.562,
    "image_url": "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-bec03b0ee4259aea.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-90c94e3e5ad09492.webp",
@@ -11542,7 +11824,7 @@
      "also": []
     }
    },
-   "rank": 68.078,
+   "rank": 68.065,
    "sources": [
     {
      "domain": "psp.cz",
@@ -11714,7 +11996,7 @@
      "body_sha256": "aac0a8ba78910443c2d821599d410ba0e683ecf9480964af4384d03902126c21"
     }
    },
-   "rank": 89.703,
+   "rank": 89.686,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -12065,7 +12347,7 @@
      ]
     }
    },
-   "rank": 99.138,
+   "rank": 99.119,
    "thread": {
     "slug": "urozhai-v-chekhii-upal-iz-za-zasukhi",
     "title": {
@@ -12387,7 +12669,7 @@
      "also": []
     }
    },
-   "rank": 91.207,
+   "rank": 91.19,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -12804,7 +13086,7 @@
      ]
     }
    },
-   "rank": 87.241,
+   "rank": 87.225,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -13088,7 +13370,7 @@
      "body_sha256": "817bface45d3b3d5c091c4ae904423c17e27fd0d34ca39128fa193acde9ca51d"
     }
    },
-   "rank": 62.477,
+   "rank": 62.472,
    "image_url": "https://img.24n.cz/p/2026/11/v-kino-vyshel-film-o-kholms-sniatyi-v-ee-dome-pered-tiurmoi-40413e98b56079a8.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/v-kino-vyshel-film-o-kholms-sniatyi-v-ee-dome-pered-tiurmoi-131c7fc349bc60b2.webp"
@@ -13340,7 +13622,7 @@
      ]
     }
    },
-   "rank": 77.804,
+   "rank": 77.789,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -13604,7 +13886,7 @@
      ]
     }
    },
-   "rank": 74.66,
+   "rank": 74.646,
    "image_url": "https://img.24n.cz/p/2026/11/sud-v-karvine-oshtrafoval-kompaniiu-na-6-mln-za-dtp-s-poezdo-ee7ebc21054eb600.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/sud-v-karvine-oshtrafoval-kompaniiu-na-6-mln-za-dtp-s-poezdo-b0bc56ed7ff25b7a.webp",
@@ -14028,7 +14310,7 @@
      "also": []
     }
    },
-   "rank": 65.487,
+   "rank": 65.474,
    "image_url": "https://img.24n.cz/p/2026/11/praga-s-11-noiabria-nachinaet-sezon-gusia-i-sviatmartinskogo-3b3766c90576e1a3.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/praga-s-11-noiabria-nachinaet-sezon-gusia-i-sviatmartinskogo-bbbb6f04809ec9aa.webp",
@@ -14303,7 +14585,7 @@
      ]
     }
    },
-   "rank": 77.043,
+   "rank": 77.028,
    "image_url": "https://img.24n.cz/p/2026/11/armiia-spaseniia-s-1-dekabria-rasshirit-pomoshch-bezdomnym-v-09cb1319ec150aa4.webp",
    "image_w": 800,
    "image_h": 533
@@ -14570,7 +14852,7 @@
      "body_sha256": "c42232b89c4064c6063d66ed0be294145e7c1af87d762425e211a6d1f88d659d"
     }
    },
-   "rank": 78.584,
+   "rank": 78.569,
    "sources": [
     {
      "domain": "moravskoslezsky.denik.cz",
@@ -14880,7 +15162,7 @@
      ]
     }
    },
-   "rank": 80.125,
+   "rank": 80.109,
    "story": [
     {
      "slug": "novyi-volebni-model-stem-rijna-kto-lidiruet-v-chekhii",
@@ -15111,7 +15393,7 @@
      "body_sha256": "181a0a45fdce68d35d1fb71b0d62bb0689c3bee43e07f7056aa8f9921861c505"
     }
    },
-   "rank": 83.769,
+   "rank": 83.753,
    "image_url": "https://img.24n.cz/p/2026/11/prokuror-prosit-shest-let-ottsu-za-iznasilovanie-docheri-4e8ae200cbff0e5e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -15373,7 +15655,7 @@
      ]
     }
    },
-   "rank": 75.43,
+   "rank": 75.415,
    "thread": {
     "slug": "stavki-cheshskogo-natsionalnogo-banka",
     "title": {
@@ -15670,7 +15952,7 @@
      "also": []
     }
    },
-   "rank": 86.745,
+   "rank": 86.727,
    "story": [
     {
      "slug": "rakushan-potreboval-ot-babisha-vstrechi-po-bezopasnosti-premer-otkazal",
@@ -15967,7 +16249,7 @@
      ]
     }
    },
-   "rank": 84.264,
+   "rank": 84.246,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -16225,7 +16507,7 @@
      "body_sha256": "2a129e4827f73a1c9d6fb7058317aee18b55c984813e2dc9df9cd7117d139683"
     }
    },
-   "rank": 86.846,
+   "rank": 86.828,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -16579,7 +16861,7 @@
      ]
     }
    },
-   "rank": 73.819,
+   "rank": 73.804,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -16945,7 +17227,7 @@
      ]
     }
    },
-   "rank": 72.977,
+   "rank": 72.961,
    "sources": [
     {
      "domain": "iprerovsko.cz",
@@ -17039,7 +17321,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 62.607
+   "rank": 62.594
   },
   {
    "id": "n8387",
@@ -17233,7 +17515,7 @@
      ]
     }
    },
-   "rank": 75.494,
+   "rank": 75.478,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -17474,7 +17756,7 @@
      ]
     }
    },
-   "rank": 78.957,
+   "rank": 78.94,
    "story": [
     {
      "slug": "v-ostrave-vory-popalis-kameram-pri-krazhe-kabelia-na-stroike",
@@ -17827,7 +18109,7 @@
      ]
     }
    },
-   "rank": 78.957,
+   "rank": 78.94,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -18081,7 +18363,7 @@
      ]
     }
    },
-   "rank": 63.72,
+   "rank": 63.706,
    "sources": [
     {
      "domain": "nasekladno.cz",
@@ -18305,7 +18587,7 @@
      ]
     }
    },
-   "rank": 77.854,
+   "rank": 77.837,
    "sources": [
     {
      "domain": "tv.idnes.cz",
@@ -18698,7 +18980,7 @@
      ]
     }
    },
-   "rank": 71.084,
+   "rank": 71.069,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/rH7shA2KWQg"
@@ -18887,7 +19169,7 @@
      ]
     }
    },
-   "rank": 41.974,
+   "rank": 41.964,
    "sources": [
     {
      "domain": "mpplzen.cz",
@@ -19144,7 +19426,7 @@
      ]
     }
    },
-   "rank": 70.266,
+   "rank": 70.251,
    "image_url": "https://img.24n.cz/p/2026/11/dalnoboishchik-s-2-64-promille-vilial-po-trasse-i-lishilsia-af5440952e77a3f3.webp",
    "image_w": 1200,
    "image_h": 675
@@ -19299,7 +19581,7 @@
     ],
     "impact": "Для жителей Чехии, интересующихся инвестициями: вход в основной фонд J&T Arch I фактически закрыт из-за 20-процентного сбора, а новый фонд J&T Arch II расширяет доступ к активам Jiří Šmejc, включая энергетику и ставки. Сама сделка на повседневную жизнь не влияет."
    },
-   "rank": 68.259,
+   "rank": 68.243,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -19603,7 +19885,7 @@
      ]
     }
    },
-   "rank": 67.37,
+   "rank": 67.355,
    "sources": [
     {
      "domain": "infodnes.cz",
@@ -19804,7 +20086,7 @@
      "body_sha256": "27e84917c6051ce5f6f97b53cabd4fa2257210fe6c0606d227bf5a387c629352"
     }
    },
-   "rank": 69.352
+   "rank": 69.336
   },
   {
    "id": "n8376",
@@ -20057,7 +20339,7 @@
      ]
     }
    },
-   "rank": 54.825,
+   "rank": 54.812,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-tepleet-bystree-mira-pokazal-otchet-o-klimate-cc7ff974900b41ed.webp",
    "image_w": 620,
    "image_h": 349
@@ -20221,7 +20503,7 @@
      ]
     }
    },
-   "rank": 67.725,
+   "rank": 67.709,
    "image_url": "https://img.24n.cz/p/2026/11/startap-hypersonica-privlek-2-5-mlrd-kron-na-giperzvukovuiu-f6a52934ca761422.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/startap-hypersonica-privlek-2-5-mlrd-kron-na-giperzvukovuiu-6d343eb4d734fd7c.webp"
@@ -20451,7 +20733,7 @@
      ]
     }
    },
-   "rank": 70.95,
+   "rank": 70.933,
    "image_url": "https://img.24n.cz/p/2026/11/eks-mera-pardubitse-sudiat-za-ekspertizu-pomeshavshuiu-firme-28d5ae24a5f309e7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -20763,7 +21045,7 @@
      ]
     }
    },
-   "rank": 63.756
+   "rank": 63.74
   },
   {
    "id": "n8372",
@@ -20978,7 +21260,7 @@
      "body_sha256": "11ef97c8e6d5c8c9b06ea63e08f1b69f52147bb39ba3e707a4c30fcadec10827"
     }
    },
-   "rank": 59.954,
+   "rank": 59.94,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -21293,7 +21575,7 @@
      ]
     }
    },
-   "rank": 58.061,
+   "rank": 58.047,
    "sources": [
     {
      "domain": "aktualnizpravy.cz",
@@ -21536,7 +21818,7 @@
      ]
     }
    },
-   "rank": 66.265,
+   "rank": 66.249,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -21873,7 +22155,7 @@
      ]
     }
    },
-   "rank": 75.904,
+   "rank": 75.885,
    "thread": {
     "slug": "ano-pobezhdaet-na-vyborakh-no-teriaet-vlast",
     "title": {
@@ -22085,7 +22367,7 @@
      ]
     }
    },
-   "rank": 68.781,
+   "rank": 68.764,
    "sources": [
     {
      "domain": "olomoucky.denik.cz",
@@ -22371,7 +22653,7 @@
      ]
     }
    },
-   "rank": 64.483,
+   "rank": 64.467,
    "official_url": "https://policie.gov.cz/zlinsky-kraj/zlinsti-kriminaliste-zadrzeli-muze-podezreleho-ze-znasilneni-ve-zline"
   },
   {
@@ -22731,7 +23013,7 @@
      ]
     }
    },
-   "rank": 64.483,
+   "rank": 64.467,
    "thread": {
     "slug": "vozvrat-eet-i-zapusk-eet-2-0",
     "title": {
@@ -23054,7 +23336,7 @@
      ]
     }
    },
-   "rank": 48.486,
+   "rank": 48.474,
    "image_url": "https://img.24n.cz/p/2026/11/meditsinskie-kliniki-zaniali-11-sprosa-na-ofisy-v-prage-679207287d85ac5e.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/meditsinskie-kliniki-zaniali-11-sprosa-na-ofisy-v-prage-0adc96df5ef072cf.webp"
@@ -23296,7 +23578,7 @@
      ]
     }
    },
-   "rank": 43.086,
+   "rank": 43.075,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -23526,7 +23808,7 @@
      ]
     }
    },
-   "rank": 55.717,
+   "rank": 55.702,
    "sources": [
     {
      "domain": "prazske-noviny.cz",
@@ -23815,7 +24097,7 @@
      ]
     }
    },
-   "rank": 57.44,
+   "rank": 57.425,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -24153,7 +24435,7 @@
      ]
     }
    },
-   "rank": 70.541,
+   "rank": 70.535,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -24474,7 +24756,7 @@
      ]
     }
    },
-   "rank": 61.609,
+   "rank": 61.593,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -24740,7 +25022,7 @@
      ]
     }
    },
-   "rank": 58.809,
+   "rank": 58.793,
    "story": [
     {
      "slug": "novaia-koalitsiia-v-prage-2-neozhidannyi-soiuz-posle-vyborov",
@@ -25006,7 +25288,7 @@
      ]
     }
    },
-   "rank": 57.894,
+   "rank": 57.879,
    "image_url": "https://img.24n.cz/p/2026/11/zhitelnitsa-olomoutsa-poteriala-425-tysiach-kron-prodavaia-l-e2070431239e4bc3.webp",
    "image_w": 1200,
    "image_h": 675
@@ -25222,7 +25504,7 @@
      ]
     }
    },
-   "rank": 58.2,
+   "rank": 58.184,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -25451,7 +25733,7 @@
      ]
     }
    },
-   "rank": 54.393,
+   "rank": 54.378,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -25746,7 +26028,7 @@
      ]
     }
    },
-   "rank": 62.552,
+   "rank": 62.534,
    "thread": {
     "slug": "prazhskie-novostroiki-dorozhaiut",
     "title": {
@@ -26182,7 +26464,7 @@
      ]
     }
    },
-   "rank": 48.622,
+   "rank": 48.608,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -26449,7 +26731,7 @@
      "body_sha256": "8db3207b92b3de7f6867f48a970817674a5a2d5720dd4b3c77403da842f07a47"
     }
    },
-   "rank": 28.137,
+   "rank": 28.129,
    "image_url": "https://img.24n.cz/p/2026/11/komediia-neco-jako-rodina-vyidet-v-cheshskii-prokat-26-noiab-e4c412dbf1c2233a.webp",
    "video": {
     "kind": "iframe",
@@ -26650,7 +26932,7 @@
      ]
     }
    },
-   "rank": 47.945,
+   "rank": 47.931,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/FhS6HMboU-c"
@@ -26909,7 +27191,7 @@
      ]
     }
    },
-   "rank": 44.917,
+   "rank": 44.904,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -27115,7 +27397,7 @@
      ]
     }
    },
-   "rank": 54.666,
+   "rank": 54.65,
    "sources": [
     {
      "domain": "fm.denik.cz",
@@ -27418,7 +27700,7 @@
      ]
     }
    },
-   "rank": 43.236,
+   "rank": 43.223,
    "story": [
     {
      "slug": "praha-13-koalice-ods-stan-kto-voshel-v-novoe-rukovodstvo",
@@ -27668,7 +27950,7 @@
      ]
     }
    },
-   "rank": 44.727,
+   "rank": 44.713,
    "story": [
     {
      "slug": "prague-music-week-2026-nazvala-programmu-i-uchastnikov",
@@ -27886,7 +28168,7 @@
      "also": []
     }
    },
-   "rank": 37.273,
+   "rank": 37.261,
    "image_url": "https://img.24n.cz/p/2026/11/angloiazychnyi-muzhchina-izbil-prokhozhego-v-prage-iz-za-ras-7298180b012e68c6.webp",
    "image_w": 1600,
    "image_h": 901
@@ -27945,7 +28227,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 41.533
+   "rank": 41.52
   },
   {
    "id": "n8345",
@@ -28266,7 +28548,7 @@
      ]
     }
    },
-   "rank": 44.897,
+   "rank": 44.883,
    "image_url": "https://img.24n.cz/p/2026/11/tamozhenniki-iziali-640-upakovok-lekarstv-na-iuge-chekhii-89c2fd30f96e6687.webp",
    "image_w": 1280,
    "image_h": 720
@@ -28629,7 +28911,7 @@
      ]
     }
    },
-   "rank": 42.758,
+   "rank": 42.744,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -28959,7 +29241,7 @@
      ]
     }
    },
-   "rank": 45.933,
+   "rank": 45.918,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -29203,7 +29485,7 @@
      "body_sha256": "032338b28451a6bc6d00916139ecf526d4ede6c1456b62b990280299d479b84d"
     }
    },
-   "rank": 29.857,
+   "rank": 29.847,
    "sources": [
     {
      "domain": "media24.cz",
@@ -29637,7 +29919,7 @@
      ]
     }
    },
-   "rank": 55.12,
+   "rank": 55.102,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -29892,7 +30174,7 @@
      ]
     }
    },
-   "rank": 30.775,
+   "rank": 30.765,
    "sources": [
     {
      "domain": "o2universum.cz",
@@ -30069,7 +30351,7 @@
      ]
     }
    },
-   "rank": 37.665,
+   "rank": 37.653,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -30140,7 +30422,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 37.618,
+   "rank": 37.606,
    "forecast": true
   },
   {
@@ -30466,7 +30748,7 @@
      ]
     }
    },
-   "rank": 32.363,
+   "rank": 32.352,
    "story": [
     {
      "slug": "pat-a-mat-prazdnuiut-50-let-novyi-film-s-8-oktiabria",
@@ -30769,7 +31051,7 @@
      "body_sha256": "8bb5fa5301c68527e9f6a55ab7a70fa84ee136f4dc0ba0bba409eb7078c74d28"
     }
    },
-   "rank": 37.661,
+   "rank": 37.649,
    "image_url": "https://img.24n.cz/p/2026/11/starcraft-vyshel-nastolnoi-igroi-za-4-499-kron-989890a57dacfa41.webp",
    "video": {
     "kind": "iframe",
@@ -30971,7 +31253,7 @@
      ]
     }
    },
-   "rank": 36.332,
+   "rank": 36.32,
    "sources": [
     {
      "domain": "denikzruc.cz",
@@ -31315,7 +31597,7 @@
      ]
     }
    },
-   "rank": 44.308,
+   "rank": 44.293,
    "thread": {
     "slug": "kiberataka-na-ahold-delhaize-i-sboi-muj-albert",
     "title": {
@@ -31633,7 +31915,7 @@
      ]
     }
    },
-   "rank": 37.095,
+   "rank": 37.083,
    "sources": [
     {
      "domain": "szu.gov.cz",
@@ -31940,7 +32222,7 @@
      "also": []
     }
    },
-   "rank": 42.551,
+   "rank": 42.536,
    "thread": {
     "slug": "spor-o-raspredelenii-nalogov-mezhdu-gorodami-chekhii",
     "title": {
@@ -32225,7 +32507,7 @@
      ]
     }
    },
-   "rank": 43.642,
+   "rank": 43.627,
    "story": [
     {
      "slug": "chekhiia-otmenit-nadbavku-za-detei-k-pensii-s-2027-goda-kogo-kosnetsia",
@@ -32452,7 +32734,7 @@
      ]
     }
    },
-   "rank": 38.433,
+   "rank": 38.42,
    "story": [
     {
      "slug": "velosipedist-s-ruzhem-v-kladno-politsiia-priniala-mery-iz-za-airsoft-o",
@@ -32641,7 +32923,7 @@
      "body_sha256": "4f18b98afbd69a488831c1cb5b7181eddb1ab647c7a7ec12e5de8739c4834943"
     }
    },
-   "rank": 44.839,
+   "rank": 44.823,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -32915,7 +33197,7 @@
      ]
     }
    },
-   "rank": 28.146,
+   "rank": 28.136,
    "sources": [
     {
      "domain": "amazingplaces.cz",
@@ -33204,7 +33486,7 @@
      ]
     }
    },
-   "rank": 27.306,
+   "rank": 27.296,
    "image_url": "https://img.24n.cz/p/2026/11/bolt-food-nazval-sem-neobychnykh-restoranov-dlia-zakaza-edy-607fc7e0a676ac32.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/bolt-food-nazval-sem-neobychnykh-restoranov-dlia-zakaza-edy-4fbaa839119e5af2.webp"
@@ -33595,7 +33877,7 @@
      ]
     }
    },
-   "rank": 47.23,
+   "rank": 47.212,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -33911,7 +34193,7 @@
      ]
     }
    },
-   "rank": 45.296,
+   "rank": 45.279,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -34260,7 +34542,7 @@
      ]
     }
    },
-   "rank": 43.577,
+   "rank": 43.56,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -34500,7 +34782,7 @@
      "body_sha256": "1932404cd4dcb5817bdf79b04406f345e16ec9f72b7be71de0eae271487412eb"
     }
    },
-   "rank": 49.519,
+   "rank": 49.5,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -34762,7 +35044,7 @@
      ]
     }
    },
-   "rank": 49.519,
+   "rank": 49.5,
    "sources": [
     {
      "domain": "prf.osu.cz",
@@ -35132,7 +35414,7 @@
      ]
     }
    },
-   "rank": 45.18,
+   "rank": 45.162,
    "thread": {
     "slug": "konflikt-vokrug-rukovodstva-krkonoshskogo-parka",
     "title": {
@@ -35478,7 +35760,7 @@
      ]
     }
    },
-   "rank": 80.831
+   "rank": 80.824
   },
   {
    "id": "n8318",
@@ -35699,7 +35981,7 @@
      ]
     }
    },
-   "rank": 24.133,
+   "rank": 24.124,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -35958,7 +36240,7 @@
      ]
     }
    },
-   "rank": 37.871,
+   "rank": 37.856,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -36235,7 +36517,7 @@
      ]
     }
    },
-   "rank": 31.027,
+   "rank": 31.015,
    "image_url": "https://img.24n.cz/p/2026/11/slaviia-otkryla-novyi-fanshop-v-tsentre-pragi-za-3-5-mln-kro-fc0ca303696d9f13.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/slaviia-otkryla-novyi-fanshop-v-tsentre-pragi-za-3-5-mln-kro-ae66b60a25d3b4a7.webp"
@@ -36510,7 +36792,7 @@
      ]
     }
    },
-   "rank": 31.027,
+   "rank": 31.015,
    "sources": [
     {
      "domain": "japan.cz",
@@ -36826,7 +37108,7 @@
      ]
     }
    },
-   "rank": 36.138,
+   "rank": 36.123,
    "thread": {
     "slug": "infliatsiia-v-chekhii-v-2026-godu",
     "title": {
@@ -37222,7 +37504,7 @@
      ]
     }
    },
-   "rank": 88.198,
+   "rank": 88.19,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -37717,7 +37999,7 @@
      ]
     }
    },
-   "rank": 49.279,
+   "rank": 49.259,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -40812,7 +41094,7 @@
      ]
     }
    },
-   "rank": 76.447,
+   "rank": 76.44,
    "thread": {
     "slug": "vykhod-politikov-iz-dvizheniia-ano",
     "title": {
@@ -41995,7 +42277,7 @@
      ]
     }
    },
-   "rank": 52.109,
+   "rank": 52.104,
    "sources": [
     {
      "domain": "media24.cz",
@@ -55368,8 +55650,8 @@
    ],
    "published_at": "2026-11-03T11:00:48.341951+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "3 ноября 2026, 11:00",
@@ -79711,208 +79993,6 @@
    ],
    "show_sources": true,
    "corroboration": 1
-  },
-  {
-   "id": "n8145",
-   "slug": "budushchee-obshchestvennye-smi-v-chekhii-finansirovanie-redefi",
-   "source": "ceskenoviny.cz",
-   "original_url": "http://www.ceskenoviny.cz/zpravy/nacher-chce-debatu-o-definici-verejne-sluzby-opozice-resi-podle-grolicha-postup/2895722?utm_source=rss&utm_medium=feed",
-   "top": false,
-   "tags": [
-    "zakon",
-    "cesko",
-    "ekonomika"
-   ],
-   "published_at": "2026-11-01T14:38:29.009506+01:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "1 ноября 2026, 14:38",
-    "uk": "1 листопада 2026, 14:38"
-   },
-   "ru": {
-    "title": "Будущее общественные СМИ в Чехии финансирование редефи",
-    "lede": "В Чехии развернулась масштабная политическая дискуссия о судьбе Чешского телевидения и Чешского радио, затрагивающая не только вопросы их финансирования, но и саму концепцию общественной службы.",
-    "meta_description": "В Чехии обсуждают редефиницию общественной службы Чешского телевидения и Чешского радио, отмену сборов и новые правила финансирования.",
-    "paras": [
-     "<p>В Праге спорят о будущем главных вещателей страны. Первый зампред Снемовноты Patrik Nacher говорит, что обсуждать нужно не только деньги, но и саму суть работы вещателей. Определение их общественной службы не менялось 34 года.</p>",
-     "<p>Коалиция раньше продвигала отмену традиционных сборов и переход на финансирование из госбюджета со снижением общей суммы. Сначала телевизионные пошлины хотели поднять со 135 до 150 крон в месяц, радиовещательные с расширением круга плательщиков - с 45 до 55 крон. Законопроект внесли в парламент ночью в субботу: в программу его включили неожиданно, в пятницу. Это вызвало недовольство и протесты горожан на улицах.</p>",
-     "<p>Премьер Andrej Babiš в эфире телеканала Nova заявил: готовящийся проект предполагает добровольность взносов без прямой привязки к государственному бюджету, компании платить их не будут. Определенная сумма для медиа останется гарантированной. Окончательные параметры еще обсудит коалиционный совет.</p>",
-     "<h3>Позиция оппозиции и критика</h3>",
-     "<p>Оппозиция координирует свои шаги. Председатель партии KDU-ČSL Jan Grolich отметил, что оппозиция думает над собственными поправками или комплексным законопроектом. Принять его удастся после прихода к власти в 2029 году, чтобы обеспечить независимость медиа от политиков.</p>",
-     "<p><blockquote>Совершенно интенсивно мы об этом сейчас говорим, и по мне вопрос в том, понятно ли вообще, чтобы мы выступали с каким-то компромиссом в рамках той дискуссии, в рамках Poslanecké sněmovny, или должны ли мы просто подготовить четкое предложение (на будущее).</blockquote></p>",
-     "<p>Так охарактеризовал ситуацию Jan Grolich.</p>",
-     "<p>Представители партии Пиратов приветствуют реакцию властей на общественное давление, но выступают против прямого бюджетного финансирования. В то же время депутат от партии Motoristé Filip Turek отметил, что детальное обсуждение пока ведется в закрытом режиме, а публичные слушания в парламенте пройдут позже.</p>"
-    ],
-    "faq": [
-     {
-      "q": "О чем спорят политики по поводу Чешского телевидения и Чешского радио?",
-      "a": "Дискуссия касается не только финансирования и отмены или изменения сборов, но и необходимости редефиниции самой общественной службы медиа."
-     },
-     {
-      "q": "Какую позицию занимает движение ANO?",
-      "a": "Патрик Нахер настаивает на глубокой дискуссии о роли общественных медиа, а Андрей Бабиш заявил о планах сделать взносы добровольными без прямого финансирования из бюджета."
-     },
-     {
-      "q": "Как на инициативы реагирует оппозиция?",
-      "a": "Оппозиционные партии координируют свои действия, критикуют поспешность коалиции и планируют в будущем разработать собственный закон для обеспечения независимости медиа."
-     }
-    ],
-    "impact": "Изменения затронут каждого жителя Чехии, так как касаются принципов работы и финансирования ключевых вещателей страны, включая возможное изменение размера и порядка сборов.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Обсуждение будущего Чешского телевидения и Чешского радио касается не только финансирования, но и концепции общественной службы, которая не менялась 34 года.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Коалиция предлагала отменить традиционные сборы и перейти на финансирование из госбюджета с сокращением общей суммы, повысив телевизионные пошлины до 150 крон и радиовещательные до 55 крон в месяц.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Премьер Andrej Babiš заявил, что новый проект предполагает добровольность взносов без прямой привязки к бюджету, но гарантирует определённую сумму для медиа.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Оппозиция планирует внести собственные поправки или законопроект после прихода к власти в 2029 году, чтобы обеспечить независимость медиа от политиков.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Poslanecké sněmovny",
-       "definition": "Нижняя палата парламента Чехии, где обсуждаются и принимаются законопроекты.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "ce18c81113610180cca316c0f0c0f05a67a5039b2997d0ff6cfe3d1c2ef9c3c6"
-    }
-   },
-   "uk": {
-    "title": "Майбутнє суспільних медіа в Чехії: суперечки про фінансування та нове визначення",
-    "lede": "У Чехії розгорнулася масштабна політична дискусія про долю Чеського телебачення і Чеського радіо, яка стосується не лише питань їхнього фінансування, а й самої концепції суспільної служби.",
-    "meta_description": "У Чехії обговорюють нове визначення суспільної служби Чеського телебачення і Чеського радіо, скасування зборів і нові правила фінансування.",
-    "paras": [
-     "<p>У Празі сперечаються про майбутнє головних мовників країни. Перший заступник голови Палати депутатів Patrik Nacher каже, що обговорювати треба не лише гроші, а й саму суть роботи мовників. Визначення їхньої суспільної служби не змінювалося 34 роки.</p>",
-     "<p>Коаліція раніше просувала скасування традиційних зборів і перехід на фінансування з держбюджету зі зниженням загальної суми. Спочатку телевізійні збори хотіли підняти зі 135 до 150 крон на місяць, радіомовні з розширенням кола платників - з 45 до 55 крон. Законопроєкт внесли до парламенту вночі в суботу: до програми його включили несподівано, у п'ятницю. Це викликало невдоволення і протести городян на вулицях.</p>",
-     "<p>Прем'єр Andrej Babiš в ефірі телеканалу Nova заявив: підготовлюваний проєкт передбачає добровільність внесків без прямого прив'язування до державного бюджету, компанії платити їх не будуть. Певна сума для медіа залишиться гарантованою. Остаточні параметри ще обговорить коаліційна рада.</p>",
-     "<h3>Позиція опозиції та критика</h3>",
-     "<p>Опозиція координує свої кроки. Голова партії KDU-ČSL Jan Grolich зазначив, що опозиція думає над власними поправками або комплексним законопроєктом. Ухвалити його вдасться після приходу до влади у 2029 році, щоб забезпечити незалежність медіа від політиків.</p>",
-     "<p><blockquote>Цілком інтенсивно ми про це зараз говоримо, і, на мою думку, питання в тому, чи взагалі зрозуміло, чи виступати нам з якимось компромісом у межах тієї дискусії, у межах Poslanecké sněmovny, чи маємо ми просто підготувати чітку пропозицію (на майбутнє).</blockquote></p>",
-     "<p>Так схарактеризував ситуацію Jan Grolich.</p>",
-     "<p>Представники партії піратів вітають реакцію влади на суспільний тиск, але виступають проти прямого бюджетного фінансування. Водночас депутат від партії Motoristé Filip Turek зазначив, що детальне обговорення поки ведеться в закритому режимі, а публічні слухання в парламенті пройдуть пізніше.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Про що сперечаються політики щодо Чеського телебачення і Чеського радіо?",
-      "a": "Дискусія стосується не лише фінансування і скасування чи зміни зборів, а й необхідності нового визначення самої суспільної служби медіа."
-     },
-     {
-      "q": "Яку позицію займає рух ANO?",
-      "a": "Patrik Nacher наполягає на глибокій дискусії про роль суспільних медіа, а Andrej Babiš заявив про плани зробити внески добровільними без прямого фінансування з бюджету."
-     },
-     {
-      "q": "Як на ініціативи реагує опозиція?",
-      "a": "Опозиційні партії координують свої дії, критикують поспішність коаліції і планують у майбутньому розробити власний закон для забезпечення незалежності медіа."
-     }
-    ],
-    "impact": "Изменения затронут каждого жителя Чехии, так как касаются принципов работы и финансирования ключевых вещателей страны, включая возможное изменение размера и порядка сборов.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Визначення суспільної служби чеських мовників не змінювалося 34 роки, і тепер обговорюють не лише фінансування, а й саму суть їхньої роботи.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Коаліція пропонувала скасувати традиційні збори та перейти на фінансування з держбюджету зі зниженням загальної суми, але законопроєкт внесли до парламенту несподівано, що викликало протести.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Прем’єр Andrej Babiš заявив, що внески стануть добровільними, компанії їх не платитимуть, але певна сума для медіа залишиться гарантованою.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Опозиція планує ухвалити власний законопроєкт після приходу до влади у 2029 році, щоб забезпечити незалежність медіа від політиків.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "4630a43cb8db1c7caeb122a4bf9a9cdcf7dd709ff382616cda17fa426696da01"
-    }
-   },
-   "rank": 44.45,
-   "sources": [
-    {
-     "domain": "cnn.iprima.cz",
-     "official": false,
-     "url": "https://cnn.iprima.cz/letocha-zvyseni-televiznich-poplatku-napravuje-nespravedlnost-chybi-debata-namita-nacher-467150",
-     "title": "Nacher: Služby veřejnoprávních médií potřebují redefinovat. Letocha zvýšení poplatků hájil - CNN Prima NEWS"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/11/budushchee-obshchestvennye-smi-v-chekhii-finansirovanie-rede-83814622aa51daff.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/11/budushchee-obshchestvennye-smi-v-chekhii-finansirovanie-rede-c63d5da8c53e8df7.webp",
-    "https://img.24n.cz/p/2026/11/budushchee-obshchestvennye-smi-v-chekhii-finansirovanie-rede-d7e2206ba94d254b.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/11/budushchee-obshchestvennye-smi-v-chekhii-finansirovanie-rede-c63d5da8c53e8df7.webp",
-     "after": 3,
-     "caption": "мужчина в костюме и галстуке в телестудии с синим фоном"
-    },
-    {
-     "url": "https://img.24n.cz/p/2026/11/budushchee-obshchestvennye-smi-v-chekhii-finansirovanie-rede-d7e2206ba94d254b.webp",
-     "after": 5,
-     "caption": "мужчина в очках и пиджаке в студии с синим фоном"
-    }
-   ],
-   "image_w": 1200,
-   "image_h": 625,
-   "images_wh": [
-    [
-     1600,
-     1067
-    ],
-    [
-     1600,
-     900
-    ]
-   ]
   }
  ],
  "stories": [
