@@ -1,8 +1,306 @@
 {
- "updated_at": "2026-11-06T18:51:01+00:00",
+ "updated_at": "2026-11-06T19:24:05+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8471",
+   "slug": "zhitel-pardubitse-zalez-na-derevo-a-potom-zastrial-v-kanalizatsii",
+   "source": "tydenikpolicie.cz",
+   "original_url": "https://tydenikpolicie.cz/zdrogovaneho-muze-museli-v-pardubicich-sundat-ze-stromu-hasici-dalsi-den-ho-hledali-v-kanalizaci/",
+   "top": false,
+   "tags": [
+    "kriminal",
+    "cesko"
+   ],
+   "published_at": "2026-11-06T20:24:04.815348+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "6 ноября 2026, 20:24",
+    "uk": "6 листопада 2026, 20:24"
+   },
+   "ru": {
+    "title": "Житель Пардубице залез на дерево, а потом застрял в канализации",
+    "lede": "В среду в лесу Не Гуркахе в Пардубице мужчина под действием амфетамина и алкоголя залез на дерево высотой 17 метров, откуда его спускали пожарные. В пятницу того же мужчину после вытрезвителя искали в канализации и нашли через пять часов.",
+    "meta_description": "В Пардубице мужчина под кайфом залез на дерево на 17 метров, а на следующий день его нашли в канализации после пяти часов поисков.",
+    "paras": [
+     "<p>В среду, вскоре после полудня, в лесу Не Гуркахе в Пардубице поступил звонок: на дереве мужчина. По данным nasregion.cz, он забрался на высоту около 17 метров под действием первитина и алкоголя. Спуститься сам не смог. Вел себя возбужденно, временами в кроне показывал что-то вроде танцевальных движений.</p>",
+     "<h3>Спасательная операция на дереве</h3>",
+     "<p>На место выехали пожарные, полицейские и городские стражи порядка. К мужчине поднялась альпинистская группа пожарных из Пардубице и с помощью снаряжения спустила его на землю. «Пожарные с помощью альпинистских техник и снаряжения обеспечили ему безопасный путь обратно на землю», пояснила пресс-секретарь пожарных Пардубицкого края Луция Пипиш. После спуска им занялась бригада скорой помощи.</p>",
+     "<p>Экспресс-тест подтвердил алкоголь и амфетамин в крови. Стражи порядка и полицейские отвезли мужчину в вытрезвитель.</p>",
+     "<blockquote>«На этот раз это был не обычный грибной чай. Но амфетамин и алкоголь, да. Под их действием мужчина залез на дерево на высоту 17 метров, и только там до него дошло, где он находится»</blockquote>",
+     "<p>Так случай прокомментировал пресс-секретарь городской полиции Пардубице Иржи Сейкора. «А дальше мы уже отвезли его в вытрезвитель. Лучше...», добавил он.</p>",
+     "<h3>Пять часов поисков в канализации</h3>",
+     "<p>На этом история не закончилась. Из вытрезвителя мужчина попал в канализацию. Искали его в пятницу полицейские, стражи порядка и пожарные. Пять часов продолжались поиски, и в 17:00 мужчину нашли.</p>",
+     "<blockquote>«В пятницу мы снова выезжали к этому мужчине. На этот раз он оказался в канализации. После пяти часов напряженных поисков вместе с полицией мы нашли мужчину в 17:00»</blockquote>",
+     "<p>Сообщила Луция Пипиш, пресс-секретарь пожарных Пардубицкого края.</p>"
+    ],
+    "faq": [
+     {
+      "q": "На какой высоте находился мужчина на дереве?",
+      "a": "Примерно на высоте 17 метров."
+     },
+     {
+      "q": "Что показал экспресс-тест?",
+      "a": "Наличие алкоголя и амфетамина в крови."
+     },
+     {
+      "q": "Где искали мужчину в пятницу?",
+      "a": "В канализации. Поиски заняли пять часов, мужчину нашли в 17:00."
+     },
+     {
+      "q": "Кто участвовал в спасении мужчины с дерева?",
+      "a": "Пожарные, полицейские и городские стражи порядка."
+     }
+    ],
+    "impact": "",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "В среду в лесу Не Гуркахе в Пардубице мужчина под действием первитина и алкоголя забрался на дерево высотой около 17 метров и не смог спуститься сам.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Альпинистская группа пожарных из Пардубице спустила его на землю, после чего им занялась скорая.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Экспресс-тест подтвердил алкоголь и амфетамин в крови, мужчину отвезли в вытрезвитель.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Из вытрезвителя мужчина попал в канализацию; поиски длились пять часов и закончились находкой в 17:00.",
+       "target": {
+        "block": 8,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "первитина",
+       "definition": "Наркотик амфетаминового типа; по данным nasregion.cz, мужчина забрался на дерево под его действием вместе с алкоголем.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "вытрезвитель",
+       "definition": "Учреждение, куда полицейские и стражи порядка отвезли мужчину после случая с деревом.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Луция Пипиш",
+       "definition": "Луция Пипиш — пресс-секретарь пожарной службы Пардубицкого края.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Иржи Сейкора",
+       "definition": "Иржи Сейкора — пресс-секретарь городской полиции Пардубице.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "482c3366587892987ddb4f0113fd90bf88754ec283608420680edbdf778dff74"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "zhenshchina-s-koltsom-faraona-na-vokzale-v-plzeni-popala-v-vytrezvitel",
+       "title": "Женщина с «кольцом фараона» на вокзале в Пльзени попала в вытрезвитель",
+       "desc": "В Пльзени на главном вокзале 31 октября задержали 28-летнюю женщину с положительным тестом на метамфетамин.",
+       "date": "5 ноября 2026, 09:38",
+       "img": "https://img.24n.cz/p/2026/11/zhenshchina-s-koltsom-faraona-na-vokzale-v-plzeni-popala-v-v-6e29748c281625cd.webp",
+       "block": 3,
+       "phrase": "отвезли мужчину в вытрезвитель"
+      }
+     ],
+     "also": [
+      {
+       "slug": "v-brno-golyi-muzhchina-zalez-po-vodostoku-i-zavis-na-fasade",
+       "title": "В Брно голый мужчина залез по водостоку и завис на фасаде",
+       "desc": "В Брно мужчина под наркотиками залез по водосточной трубе на фасад здания. Полиция и спецназ провели операцию по его задержанию.",
+       "date": "23 октября 2026, 12:19",
+       "img": ""
+      },
+      {
+       "slug": "voditel-na-kokaine-vrezalsia-v-stenu-i-zabralsia-na-kryshu-mashiny-v-p",
+       "title": "Водитель на кокаине врезался в стену и забрался на крышу машины в Праге",
+       "desc": "В Праге 7 водитель под воздействием кокаина врезался в стену, а затем забрался на крышу автомобиля. Полиция и спасатели доставили его в больницу.",
+       "date": "28 октября 2026, 08:22",
+       "img": "https://img.24n.cz/p/2026/10/voditel-na-kokaine-vrezalsia-v-stenu-i-zabralsia-na-kryshu-m-6e480eac6896edab.webp"
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Житель Пардубіце заліз на дерево, а потім застряг у каналізації",
+    "lede": "У середу в лісі Не Гуркахе в Пардубіце чоловік під дією амфетаміну та алкоголю заліз на дерево заввишки 17 метрів, звідки його знімали пожежники. У п'ятницю того ж чоловіка після витверезника шукали в каналізації і знайшли через п'ять годин.",
+    "meta_description": "У Пардубіце чоловік під кайфом заліз на дерево на 17 метрів, а наступного дня його знайшли в каналізації після п'яти годин пошуків.",
+    "paras": [
+     "<p>У середу, незабаром після полудня, з лісу Не Гуркахе в Пардубіце надійшов дзвінок: на дереві чоловік. За даними nasregion.cz, він заліз на висоту близько 17 метрів під дією первитину та алкоголю. Спуститися сам не зміг. Поводився збуджено, часом у кроні показував щось схоже на танцювальні рухи.</p>",
+     "<h3>Рятувальна операція на дереві</h3>",
+     "<p>На місце приїхали пожежники, поліцейські та міські вартові порядку. До чоловіка піднялася альпіністська група пожежників із Пардубіце і за допомогою спорядження спустила його на землю. «Пожежники за допомогою альпіністських технік і спорядження забезпечили йому безпечний шлях назад на землю», пояснила речниця пожежників Пардубіцького краю Луція Піпіш. Після спуску ним зайнялася бригада швидкої допомоги.</p>",
+     "<p>Експрес-тест підтвердив алкоголь і амфетамін у крові. Вартові порядку та поліцейські відвезли чоловіка до витверезника.</p>",
+     "<blockquote>«Цього разу це був не звичайний грибний чай. Але амфетамін і алкоголь, так. Під їхньою дією чоловік заліз на дерево на висоту 17 метрів, і лише там до нього дійшло, де він перебуває»</blockquote>",
+     "<p>Так випадок прокоментував речник міської поліції Пардубіце Іржі Сейкора. «А далі ми вже відвезли його до витверезника. Краще...», додав він.</p>",
+     "<h3>П'ять годин пошуків у каналізації</h3>",
+     "<p>На цьому історія не закінчилася. З витверезника чоловік потрапив до каналізації. Шукали його в п'ятницю поліцейські, вартові порядку та пожежники. П'ять годин тривали пошуки, і о 17:00 чоловіка знайшли.</p>",
+     "<blockquote>«У п'ятницю ми знову виїжджали до цього чоловіка. Цього разу він опинився в каналізації. Після п'яти годин напружених пошуків разом із поліцією ми знайшли чоловіка о 17:00»</blockquote>",
+     "<p>Повідомила Луція Піпіш, речниця пожежників Пардубіцького краю.</p>"
+    ],
+    "faq": [
+     {
+      "q": "На якій висоті перебував чоловік на дереві?",
+      "a": "Приблизно на висоті 17 метрів."
+     },
+     {
+      "q": "Що показав експрес-тест?",
+      "a": "Наявність алкоголю та амфетаміну в крові."
+     },
+     {
+      "q": "Де шукали чоловіка в п'ятницю?",
+      "a": "У каналізації. Пошуки тривали п'ять годин, чоловіка знайшли о 17:00."
+     },
+     {
+      "q": "Хто брав участь у рятуванні чоловіка з дерева?",
+      "a": "Пожежники, поліцейські та міські вартові порядку."
+     }
+    ],
+    "impact": "",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У середу чоловік під дією первитину та алкоголю заліз на дерево заввишки близько 17 метрів у лісі Не Гуркахе в Пардубіце і сам спуститися не зміг.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Пожежники-альпіністи з Пардубіце спустили його на землю, після чого ним зайнялася швидка допомога.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Експрес-тест підтвердив алкоголь і амфетамін у крові, чоловіка відвезли до витверезника.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "З витверезника чоловік потрапив до каналізації, де його шукали п'ять годин і знайшли о 17:00.",
+       "target": {
+        "block": 8,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "первитину",
+       "definition": "Наркотик, сліди якого разом з алкоголем підтвердив експрес-тест у крові чоловіка.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "витверезника",
+       "definition": "Заклад, куди вартові порядку та поліцейські відвезли чоловіка після підтвердження алкоголю в крові.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "895d7f8fe12a385c75e75ab98adff59ef3135dce3e596a3aa2c34d95bbde74f7"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "zhenshchina-s-koltsom-faraona-na-vokzale-v-plzeni-popala-v-vytrezvitel",
+       "title": "Жінку з «перснем фараона» на вокзалі в Пльзені відвезли до витверезника",
+       "desc": "У Пльзені на головному вокзалі 31 жовтня затримали 28-річну жінку з позитивним тестом на метамфетамін.",
+       "date": "5 листопада 2026, 09:38",
+       "img": "https://img.24n.cz/p/2026/11/zhenshchina-s-koltsom-faraona-na-vokzale-v-plzeni-popala-v-v-6e29748c281625cd.webp",
+       "block": 3,
+       "phrase": "відвезли чоловіка до витверезника"
+      }
+     ],
+     "also": [
+      {
+       "slug": "v-brno-golyi-muzhchina-zalez-po-vodostoku-i-zavis-na-fasade",
+       "title": "У Брно голий чоловік заліз по водостоку і завис на фасаді",
+       "desc": "У Брно чоловік під наркотиками заліз по водостічній трубі на фасад будівлі. Поліція та спецназ провели операцію з його затримання.",
+       "date": "23 жовтня 2026, 12:19",
+       "img": ""
+      },
+      {
+       "slug": "voditel-na-kokaine-vrezalsia-v-stenu-i-zabralsia-na-kryshu-mashiny-v-p",
+       "title": "Водій під кокаїном врізався у стіну і заліз на дах автівки в Празі",
+       "desc": "У Празі 7 водій під дією кокаїну врізався у стіну, а потім заліз на дах автомобіля. Поліція та рятувальники доправили його до лікарні.",
+       "date": "28 жовтня 2026, 08:22",
+       "img": "https://img.24n.cz/p/2026/10/voditel-na-kokaine-vrezalsia-v-stenu-i-zabralsia-na-kryshu-m-6e480eac6896edab.webp"
+      }
+     ]
+    }
+   },
+   "rank": 57.0,
+   "sources": [
+    {
+     "domain": "nasregion.cz",
+     "official": false,
+     "url": "https://nasregion.cz/tanecni-vystoupeni-17-metru-nad-zemi-opily-a-zdrogovany-muz-vylezl-na-strom-v-pardubicich-466682/",
+     "title": "Taneční vystoupení 17 metrů nad zemí. Opilý a zdrogovaný muž vylezl na strom v Pardubicích | Náš REGION"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/11/zhitel-pardubitse-zalez-na-derevo-a-potom-zastrial-v-kanaliz-cd86533f4a52e996.webp",
+   "video": {
+    "kind": "iframe",
+    "url": "https://www.youtube-nocookie.com/embed/FFgEgJbaYEI"
+   },
+   "image_w": 600,
+   "image_h": 368
+  },
   {
    "id": "n8470",
    "slug": "v-prage-5-otkryvaiut-tsentr-podderzhki-dlia-semei-s-bolezniu-altsgeime",
@@ -15,8 +313,8 @@
    ],
    "published_at": "2026-11-06T19:51:00.997387+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "6 ноября 2026, 19:51",
@@ -349,8 +647,8 @@
    ],
    "published_at": "2026-11-06T19:51:00.997387+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "6 ноября 2026, 19:51",
@@ -697,8 +995,8 @@
    ],
    "published_at": "2026-11-06T19:17:02.256010+01:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "6 ноября 2026, 19:17",
@@ -1535,8 +1833,8 @@
    ],
    "published_at": "2026-11-06T18:10:06.457775+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "6 ноября 2026, 18:10",
@@ -2522,7 +2820,7 @@
      ]
     }
    },
-   "rank": 91.581,
+   "rank": 90.849,
    "sources": [
     {
      "domain": "praha2.cz",
@@ -2731,7 +3029,7 @@
      ]
     }
    },
-   "rank": 99.545,
+   "rank": 98.749,
    "sources": [
     {
      "domain": "zlatapraharestaurant.cz",
@@ -3184,7 +3482,7 @@
      ]
     }
    },
-   "rank": 119.473,
+   "rank": 118.502,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -3281,8 +3579,8 @@
    ],
    "published_at": "2026-11-06T14:52:11.422874+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 14:52",
@@ -3498,7 +3796,7 @@
      ]
     }
    },
-   "rank": 92.282,
+   "rank": 91.526,
    "sources": [
     {
      "domain": "e15.cz",
@@ -3535,8 +3833,8 @@
    ],
    "published_at": "2026-11-06T14:19:43.185599+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 14:19",
@@ -3717,7 +4015,7 @@
      ]
     }
    },
-   "rank": 91.54,
+   "rank": 90.783,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -3756,8 +4054,8 @@
    ],
    "published_at": "2026-11-06T14:19:43.185599+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 14:19",
@@ -3978,7 +4276,7 @@
      ]
     }
    },
-   "rank": 107.92,
+   "rank": 107.029,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -4214,7 +4512,7 @@
      ]
     }
    },
-   "rank": 100.377
+   "rank": 99.541
   },
   {
    "id": "n8456",
@@ -4476,7 +4774,7 @@
      ]
     }
    },
-   "rank": 105.157,
+   "rank": 104.281,
    "story": [
     {
      "slug": "v-bolnitsakh-valasske-mezirici-i-rumburk-sokrashchaiut-detskuiu-medpom",
@@ -4718,7 +5016,7 @@
      ]
     }
    },
-   "rank": 81.257,
+   "rank": 80.581,
    "image_url": "https://img.24n.cz/p/2026/11/teatr-giberniia-pokazhet-miuzikl-o-merline-s-miroslavom-tabo-4c44496ccada50cb.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/teatr-giberniia-pokazhet-miuzikl-o-merline-s-miroslavom-tabo-3dff2492788d52a3.webp",
@@ -4765,8 +5063,8 @@
    ],
    "published_at": "2026-11-06T13:17:07.144234+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 13:17",
@@ -4992,7 +5290,7 @@
      ]
     }
    },
-   "rank": 80.623,
+   "rank": 79.946,
    "sources": [
     {
      "domain": "brnensky.denik.cz",
@@ -5071,8 +5369,8 @@
    ],
    "published_at": "2026-11-06T13:17:07.144234+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 13:17",
@@ -5364,7 +5662,7 @@
      ]
     }
    },
-   "rank": 128.048,
+   "rank": 126.973,
    "thread": {
     "slug": "biudzhetnyi-defitsit-i-rost-gosdolga-chekhii",
     "title": {
@@ -5629,7 +5927,7 @@
      "body_sha256": "69da04bf60ab45dae312db4c7d043d85317e45b67405748f049fc25db8bb2e68"
     }
    },
-   "rank": 89.314
+   "rank": 88.557
   },
   {
    "id": "n8451",
@@ -5858,7 +6156,7 @@
      ]
     }
    },
-   "rank": 126.919,
+   "rank": 125.845,
    "sources": [
     {
      "domain": "digital-strategy.ec.europa.eu",
@@ -5898,8 +6196,8 @@
    ],
    "published_at": "2026-11-06T12:10:02.370039+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 12:10",
@@ -6098,7 +6396,7 @@
      ]
     }
    },
-   "rank": 97.897
+   "rank": 97.061
   },
   {
    "id": "n8449",
@@ -6370,7 +6668,7 @@
      ]
     }
    },
-   "rank": 100.652,
+   "rank": 99.784,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -6403,8 +6701,8 @@
    ],
    "published_at": "2026-11-06T11:01:06.007277+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 11:01",
@@ -6658,7 +6956,7 @@
      ]
     }
    },
-   "rank": 107.144,
+   "rank": 106.212,
    "sources": [
     {
      "domain": "e15.cz",
@@ -6684,8 +6982,8 @@
    ],
    "published_at": "2026-11-06T11:00:28.997153+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 11:00",
@@ -6711,7 +7009,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 73.249,
+   "rank": 72.612,
    "leisure": true
   },
   {
@@ -6726,8 +7024,8 @@
    ],
    "published_at": "2026-11-06T09:56:06.597331+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 09:56",
@@ -6955,7 +7253,7 @@
      ]
     }
    },
-   "rank": 99.012,
+   "rank": 98.137,
    "image_url": "https://img.24n.cz/p/2026/11/muzhchina-obstrelivaet-iz-pnevmatiki-kvartiru-byvshei-v-vele-ddd3b87a6b081446.webp",
    "image_w": 1200,
    "image_h": 674
@@ -6972,8 +7270,8 @@
    ],
    "published_at": "2026-11-06T09:56:06.597331+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 09:56",
@@ -7216,7 +7514,7 @@
      ]
     }
    },
-   "rank": 45.006
+   "rank": 44.608
   },
   {
    "id": "n8444",
@@ -7448,7 +7746,7 @@
      "also": []
     }
    },
-   "rank": 105.206,
+   "rank": 104.259,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -7704,7 +8002,7 @@
      "also": []
     }
    },
-   "rank": 61.886,
+   "rank": 61.329,
    "image_url": "https://img.24n.cz/p/2026/11/v-iindrzhikhuve-gradetse-otkryli-priiut-na-vosem-mest-dlia-d-b4c6013f70717380.webp",
    "image_w": 620,
    "image_h": 349
@@ -8102,7 +8400,7 @@
      ]
     }
    },
-   "rank": 97.167,
+   "rank": 96.276,
    "story": [
     {
      "slug": "premialnye-vyplaty-strakhovykh-kompanii-chekhiia-2026",
@@ -8331,7 +8629,7 @@
      ]
     }
    },
-   "rank": 63.915,
+   "rank": 63.318,
    "sources": [
     {
      "domain": "loreum.cz",
@@ -8580,7 +8878,7 @@
      ]
     }
    },
-   "rank": 80.959
+   "rank": 80.203
   },
   {
    "id": "n8439",
@@ -8594,8 +8892,8 @@
    ],
    "published_at": "2026-11-06T06:04:04.678335+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 06:04",
@@ -8963,7 +9261,7 @@
      ]
     }
    },
-   "rank": 71.761,
+   "rank": 71.085,
    "thread": {
     "slug": "zasukha-v-chekhii-i-padenie-vyrabotki-ges",
     "title": {
@@ -9288,7 +9586,7 @@
      ]
     }
    },
-   "rank": 83.64,
+   "rank": 82.844,
    "official_url": "https://mzd.gov.cz/vyzva-k-podani-zadosti-o-udeleni-statusu-pracoviste-pro-screening-karcinomu-delozniho-hrdla-v-programu-screeningu-karcinomu-delozniho-hrdla"
   },
   {
@@ -9551,7 +9849,7 @@
      ]
     }
    },
-   "rank": 87.822,
+   "rank": 86.986,
    "image_url": "https://img.24n.cz/p/2026/11/babish-golosoval-v-parlamente-lish-v-32-sluchaev-e99cdd51d8de6cce.webp",
    "image_w": 1200,
    "image_h": 675
@@ -9567,8 +9865,8 @@
    ],
    "published_at": "2026-11-06T05:01:35.228489+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 05:01",
@@ -9730,7 +10028,7 @@
      "body_sha256": "0f1048eef0e5eb27e1b8e384e5a39f4c8ea60571affc0d67ee5eaaf8189b17f0"
     }
    },
-   "rank": 55.557,
+   "rank": 55.024,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -9773,8 +10071,8 @@
    ],
    "published_at": "2026-11-06T05:01:35.228489+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 05:01",
@@ -9990,7 +10288,7 @@
      ]
     }
    },
-   "rank": 87.896,
+   "rank": 87.052,
    "sources": [
     {
      "domain": "infodnes.cz",
@@ -10233,7 +10531,7 @@
      ]
     }
    },
-   "rank": 78.797,
+   "rank": 78.033,
    "sources": [
     {
      "domain": "prahadnes.info",
@@ -10270,8 +10568,8 @@
    ],
    "published_at": "2026-11-06T03:54:20.400399+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 03:54",
@@ -10482,7 +10780,7 @@
      ]
     }
    },
-   "rank": 77.237,
+   "rank": 76.481,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10713,7 +11011,7 @@
      ]
     }
    },
-   "rank": 47.824,
+   "rank": 47.346,
    "image_url": "https://img.24n.cz/p/2026/11/vatslav-shafarzh-postroil-shale-v-krkonoshakh-i-vstretil-tam-a25f55a143b674e1.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/vatslav-shafarzh-postroil-shale-v-krkonoshakh-i-vstretil-tam-bf296e97a57005ee.webp",
@@ -10952,7 +11250,7 @@
      "body_sha256": "c746a6ce906fc24dd82e01fc42892a3a3a2cbc851c77aece36181df4ce457bef"
     }
    },
-   "rank": 67.751,
+   "rank": 67.074,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10991,8 +11289,8 @@
    ],
    "published_at": "2026-11-06T02:16:04.215554+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 02:16",
@@ -11325,7 +11623,7 @@
      ]
     }
    },
-   "rank": 71.043,
+   "rank": 70.326,
    "sources": [
     {
      "domain": "domazlicky.denik.cz",
@@ -11364,8 +11662,8 @@
    ],
    "published_at": "2026-11-06T01:14:39.221255+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 01:14",
@@ -11697,7 +11995,7 @@
      ]
     }
    },
-   "rank": 67.388,
+   "rank": 66.696,
    "thread": {
     "slug": "rost-ipotechnykh-stavok-v-chekhii",
     "title": {
@@ -11791,8 +12089,8 @@
    ],
    "published_at": "2026-11-06T01:14:39.221255+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 01:14",
@@ -12025,7 +12323,7 @@
      ]
     }
    },
-   "rank": 75.134,
+   "rank": 74.362,
    "sources": [
     {
      "domain": "media24.cz",
@@ -12052,8 +12350,8 @@
    ],
    "published_at": "2026-11-06T01:14:39.221255+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 01:14",
@@ -12303,7 +12601,7 @@
      ]
     }
    },
-   "rank": 85.203,
+   "rank": 84.328,
    "sources": [
     {
      "domain": "logistika.tv",
@@ -12604,7 +12902,7 @@
      ]
     }
    },
-   "rank": 80.485,
+   "rank": 79.65,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -12936,7 +13234,7 @@
      ]
     }
    },
-   "rank": 87.384,
+   "rank": 86.477,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -13035,8 +13333,8 @@
    ],
    "published_at": "2026-11-06T00:10:14.510802+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 00:10",
@@ -13407,7 +13705,7 @@
      ]
     }
    },
-   "rank": 64.521,
+   "rank": 63.844,
    "image_url": "https://img.24n.cz/p/2026/11/malyi-biznes-v-chekhii-beret-avto-v-lizing-bez-pervogo-vznos-4c0d5167060d7ac4.webp",
    "image_w": 1200,
    "image_h": 660
@@ -13659,7 +13957,7 @@
      "also": []
     }
    },
-   "rank": 71.301,
+   "rank": 70.545,
    "image_url": "https://img.24n.cz/p/2026/11/bloger-duklock-prodal-5-millionov-banok-vody-qapka-za-pervyi-12011005b7ba4852.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/bloger-duklock-prodal-5-millionov-banok-vody-qapka-za-pervyi-65058c80803abfb3.webp",
@@ -13706,8 +14004,8 @@
    ],
    "published_at": "2026-11-05T23:01:12.076832+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "5 ноября 2026, 23:01",
@@ -13917,7 +14215,7 @@
      ]
     }
    },
-   "rank": 70.533
+   "rank": 69.776
   },
   {
    "id": "n8421",
@@ -13931,8 +14229,8 @@
    ],
    "published_at": "2026-11-05T21:54:46.743987+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "5 ноября 2026, 21:54",
@@ -14230,7 +14528,7 @@
      ]
     }
    },
-   "rank": 74.099,
+   "rank": 73.287,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -14297,8 +14595,8 @@
    ],
    "published_at": "2026-11-05T21:23:00.409394+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "5 ноября 2026, 21:23",
@@ -14635,7 +14933,7 @@
      ]
     }
    },
-   "rank": 56.786,
+   "rank": 56.157,
    "thread": {
     "slug": "cesky-slavik-2026-i-bratia-nedvedy",
     "title": {
@@ -14713,8 +15011,8 @@
    ],
    "published_at": "2026-11-05T21:01:10.024964+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "5 ноября 2026, 21:01",
@@ -14786,7 +15084,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 59.938
+   "rank": 59.27
   },
   {
    "id": "n8418",
@@ -15021,7 +15319,7 @@
      ]
     }
    },
-   "rank": 77.493,
+   "rank": 76.625,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -15395,7 +15693,7 @@
      ]
     }
    },
-   "rank": 67.54,
+   "rank": 66.783,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -15520,8 +15818,8 @@
    ],
    "published_at": "2026-11-05T20:17:23.828074+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "5 ноября 2026, 20:17",
@@ -15794,7 +16092,7 @@
      "body_sha256": "f87570593821c885be7db38d6173378ed890d33bea31d4426491a71298a3c0de"
     }
    },
-   "rank": 59.756,
+   "rank": 59.08,
    "image_url": "https://img.24n.cz/p/2026/11/iurist-erik-gaibazo-vypustit-knigu-o-kukhne-chetyrekh-stran-7d27f9e3874f583d.webp",
    "image_w": 1280,
    "image_h": 800
@@ -15811,8 +16109,8 @@
    ],
    "published_at": "2026-11-05T20:17:23.828074+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "5 ноября 2026, 20:17",
@@ -16058,7 +16356,7 @@
      ]
     }
    },
-   "rank": 73.114,
+   "rank": 72.286,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -16118,8 +16416,8 @@
    ],
    "published_at": "2026-11-05T20:17:23.828074+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "5 ноября 2026, 20:17",
@@ -16477,7 +16775,7 @@
      ]
     }
    },
-   "rank": 73.817,
+   "rank": 72.981,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -16911,7 +17209,7 @@
      ]
     }
    },
-   "rank": 68.731,
+   "rank": 67.943,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -17198,7 +17496,7 @@
      ]
     }
    },
-   "rank": 71.454,
+   "rank": 70.626,
    "sources": [
     {
      "domain": "press.news",
@@ -17404,7 +17702,7 @@
      "body_sha256": "5ba0c8474d021c1db9ffcedb5d083409eeb4eebedbcd92caeb55b5b40dae6898"
     }
    },
-   "rank": 68.705,
+   "rank": 67.909,
    "image_url": "https://img.24n.cz/p/2026/11/zhivye-elki-v-chekhii-podorozhaiut-na-desiat-protsentov-a6b59130beb2bec6.webp",
    "image_w": 1366,
    "image_h": 910
@@ -17603,7 +17901,7 @@
      "body_sha256": "506dd1b905f4c459b76c100183ad9aac74a9dac21b9b7a2c3389223c1a0c017d"
     }
    },
-   "rank": 85.882,
+   "rank": 84.887,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -17686,7 +17984,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 55.61,
+   "rank": 54.957,
    "forecast": true
   },
   {
@@ -17921,7 +18219,7 @@
      ]
     }
    },
-   "rank": 40.913,
+   "rank": 40.747,
    "image_url": "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-bec03b0ee4259aea.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-90c94e3e5ad09492.webp",
@@ -18212,7 +18510,7 @@
      "also": []
     }
    },
-   "rank": 57.222,
+   "rank": 56.545,
    "sources": [
     {
      "domain": "psp.cz",
@@ -18384,7 +18682,7 @@
      "body_sha256": "aac0a8ba78910443c2d821599d410ba0e683ecf9480964af4384d03902126c21"
     }
    },
-   "rank": 75.398,
+   "rank": 74.506,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -18735,7 +19033,7 @@
      ]
     }
    },
-   "rank": 83.172,
+   "rank": 82.178,
    "thread": {
     "slug": "urozhai-v-chekhii-upal-iz-za-zasukhi",
     "title": {
@@ -19057,7 +19355,7 @@
      "also": []
     }
    },
-   "rank": 76.519,
+   "rank": 75.603,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -19474,7 +19772,7 @@
      ]
     }
    },
-   "rank": 73.192,
+   "rank": 72.316,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -19758,7 +20056,7 @@
      "body_sha256": "817bface45d3b3d5c091c4ae904423c17e27fd0d34ca39128fa193acde9ca51d"
     }
    },
-   "rank": 58.645,
+   "rank": 58.406,
    "image_url": "https://img.24n.cz/p/2026/11/v-kino-vyshel-film-o-kholms-sniatyi-v-ee-dome-pered-tiurmoi-40413e98b56079a8.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/v-kino-vyshel-film-o-kholms-sniatyi-v-ee-dome-pered-tiurmoi-131c7fc349bc60b2.webp"
@@ -20010,7 +20308,7 @@
      ]
     }
    },
-   "rank": 65.159,
+   "rank": 64.371,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -20274,7 +20572,7 @@
      ]
     }
    },
-   "rank": 62.526,
+   "rank": 61.77,
    "image_url": "https://img.24n.cz/p/2026/11/sud-v-karvine-oshtrafoval-kompaniiu-na-6-mln-za-dtp-s-poezdo-ee7ebc21054eb600.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/sud-v-karvine-oshtrafoval-kompaniiu-na-6-mln-za-dtp-s-poezdo-b0bc56ed7ff25b7a.webp",
@@ -20698,7 +20996,7 @@
      "also": []
     }
    },
-   "rank": 54.63,
+   "rank": 53.954,
    "image_url": "https://img.24n.cz/p/2026/11/praga-s-11-noiabria-nachinaet-sezon-gusia-i-sviatmartinskogo-3b3766c90576e1a3.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/praga-s-11-noiabria-nachinaet-sezon-gusia-i-sviatmartinskogo-bbbb6f04809ec9aa.webp",
@@ -20973,7 +21271,7 @@
      ]
     }
    },
-   "rank": 64.271,
+   "rank": 63.475,
    "image_url": "https://img.24n.cz/p/2026/11/armiia-spaseniia-s-1-dekabria-rasshirit-pomoshch-bezdomnym-v-09cb1319ec150aa4.webp",
    "image_w": 800,
    "image_h": 533
@@ -21240,7 +21538,7 @@
      "body_sha256": "c42232b89c4064c6063d66ed0be294145e7c1af87d762425e211a6d1f88d659d"
     }
    },
-   "rank": 65.556,
+   "rank": 64.744,
    "sources": [
     {
      "domain": "moravskoslezsky.denik.cz",
@@ -21550,7 +21848,7 @@
      ]
     }
    },
-   "rank": 66.842,
+   "rank": 66.014,
    "story": [
     {
      "slug": "novyi-volebni-model-stem-rijna-kto-lidiruet-v-chekhii",
@@ -21781,7 +22079,7 @@
      "body_sha256": "181a0a45fdce68d35d1fb71b0d62bb0689c3bee43e07f7056aa8f9921861c505"
     }
    },
-   "rank": 69.72,
+   "rank": 68.844,
    "image_url": "https://img.24n.cz/p/2026/11/prokuror-prosit-shest-let-ottsu-za-iznasilovanie-docheri-4e8ae200cbff0e5e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -22043,7 +22341,7 @@
      ]
     }
    },
-   "rank": 62.658,
+   "rank": 61.862,
    "thread": {
     "slug": "stavki-cheshskogo-natsionalnogo-banka",
     "title": {
@@ -22340,7 +22638,7 @@
      "also": []
     }
    },
-   "rank": 72.056,
+   "rank": 71.141,
    "story": [
     {
      "slug": "rakushan-potreboval-ot-babisha-vstrechi-po-bezopasnosti-premer-otkazal",
@@ -22637,7 +22935,7 @@
      ]
     }
    },
-   "rank": 69.703,
+   "rank": 68.796,
    "thread": {
     "slug": "remont-dorog-na-severe-pragi",
     "title": {
@@ -22925,7 +23223,7 @@
      "body_sha256": "2a129e4827f73a1c9d6fb7058317aee18b55c984813e2dc9df9cd7117d139683"
     }
    },
-   "rank": 71.519,
+   "rank": 70.564,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -23279,7 +23577,7 @@
      ]
     }
    },
-   "rank": 60.791,
+   "rank": 59.98,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -23645,7 +23943,7 @@
      ]
     }
    },
-   "rank": 59.949,
+   "rank": 59.137,
    "sources": [
     {
      "domain": "iprerovsko.cz",
@@ -23739,7 +24037,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 51.367
+   "rank": 50.667
   },
   {
    "id": "n8387",
@@ -23933,7 +24231,7 @@
      ]
     }
    },
-   "rank": 61.573,
+   "rank": 60.705,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -24174,7 +24472,7 @@
      ]
     }
    },
-   "rank": 64.397,
+   "rank": 63.49,
    "story": [
     {
      "slug": "v-ostrave-vory-popalis-kameram-pri-krazhe-kabelia-na-stroike",
@@ -24527,7 +24825,7 @@
      ]
     }
    },
-   "rank": 64.397,
+   "rank": 63.49,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -24781,7 +25079,7 @@
      ]
     }
    },
-   "rank": 51.969,
+   "rank": 51.237,
    "sources": [
     {
      "domain": "nasekladno.cz",
@@ -25005,7 +25303,7 @@
      ]
     }
    },
-   "rank": 63.166,
+   "rank": 62.251,
    "sources": [
     {
      "domain": "tv.idnes.cz",
@@ -25398,7 +25696,7 @@
      ]
     }
    },
-   "rank": 57.674,
+   "rank": 56.838,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/rH7shA2KWQg"
@@ -25587,7 +25885,7 @@
      ]
     }
    },
-   "rank": 34.055,
+   "rank": 33.561,
    "sources": [
     {
      "domain": "mpplzen.cz",
@@ -25844,7 +26142,7 @@
      ]
     }
    },
-   "rank": 56.855,
+   "rank": 56.02,
    "image_url": "https://img.24n.cz/p/2026/11/dalnoboishchik-s-2-64-promille-vilial-po-trasse-i-lishilsia-af5440952e77a3f3.webp",
    "image_w": 1200,
    "image_h": 675
@@ -25999,7 +26297,7 @@
     ],
     "impact": "Для жителей Чехии, интересующихся инвестициями: вход в основной фонд J&T Arch I фактически закрыт из-за 20-процентного сбора, а новый фонд J&T Arch II расширяет доступ к активам Jiří Šmejc, включая энергетику и ставки. Сама сделка на повседневную жизнь не влияет."
    },
-   "rank": 55.231,
+   "rank": 54.419,
    "sources": [
     {
      "domain": "forbes.cz",
@@ -26303,7 +26601,7 @@
      ]
     }
    },
-   "rank": 54.343,
+   "rank": 53.531,
    "story": [
     {
      "slug": "chekhiia-predlagaet-borotsia-s-sinteticheskimi-narkotikami-po-novomu-z",
@@ -26526,7 +26824,7 @@
      "body_sha256": "27e84917c6051ce5f6f97b53cabd4fa2257210fe6c0606d227bf5a387c629352"
     }
    },
-   "rank": 55.941
+   "rank": 55.105
   },
   {
    "id": "n8376",
@@ -26779,7 +27077,7 @@
      ]
     }
    },
-   "rank": 43.968,
+   "rank": 43.292,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-tepleet-bystree-mira-pokazal-otchet-o-klimate-cc7ff974900b41ed.webp",
    "image_w": 620,
    "image_h": 349
@@ -26943,7 +27241,7 @@
      ]
     }
    },
-   "rank": 54.314,
+   "rank": 53.478,
    "image_url": "https://img.24n.cz/p/2026/11/startap-hypersonica-privlek-2-5-mlrd-kron-na-giperzvukovuiu-f6a52934ca761422.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/startap-hypersonica-privlek-2-5-mlrd-kron-na-giperzvukovuiu-6d343eb4d734fd7c.webp"
@@ -27173,7 +27471,7 @@
      ]
     }
    },
-   "rank": 56.9,
+   "rank": 56.025,
    "image_url": "https://img.24n.cz/p/2026/11/eks-mera-pardubitse-sudiat-za-ekspertizu-pomeshavshuiu-firme-28d5ae24a5f309e7.webp",
    "image_w": 1200,
    "image_h": 675
@@ -27485,7 +27783,7 @@
      ]
     }
    },
-   "rank": 50.983
+   "rank": 50.187
   },
   {
    "id": "n8372",
@@ -27700,7 +27998,7 @@
      "body_sha256": "11ef97c8e6d5c8c9b06ea63e08f1b69f52147bb39ba3e707a4c30fcadec10827"
     }
    },
-   "rank": 47.821,
+   "rank": 47.064,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -28015,7 +28313,7 @@
      ]
     }
    },
-   "rank": 46.31,
+   "rank": 45.578,
    "sources": [
     {
      "domain": "aktualnizpravy.cz",
@@ -28258,7 +28556,7 @@
      ]
     }
    },
-   "rank": 52.854,
+   "rank": 52.019,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -28595,7 +28893,7 @@
      ]
     }
    },
-   "rank": 60.322,
+   "rank": 59.35,
    "thread": {
     "slug": "ano-pobezhdaet-na-vyborakh-no-teriaet-vlast",
     "title": {
@@ -28807,7 +29105,7 @@
      ]
     }
    },
-   "rank": 54.476,
+   "rank": 53.585,
    "sources": [
     {
      "domain": "olomoucky.denik.cz",
@@ -29093,7 +29391,7 @@
      ]
     }
    },
-   "rank": 51.072,
+   "rank": 50.236,
    "official_url": "https://policie.gov.cz/zlinsky-kraj/zlinsti-kriminaliste-zadrzeli-muze-podezreleho-ze-znasilneni-ve-zline"
   },
   {
@@ -29453,7 +29751,7 @@
      ]
     }
    },
-   "rank": 51.072,
+   "rank": 50.236,
    "thread": {
     "slug": "vozvrat-eet-i-zapusk-eet-2-0",
     "title": {
@@ -29776,7 +30074,7 @@
      ]
     }
    },
-   "rank": 38.268,
+   "rank": 37.631,
    "image_url": "https://img.24n.cz/p/2026/11/meditsinskie-kliniki-zaniali-11-sprosa-na-ofisy-v-prage-679207287d85ac5e.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/meditsinskie-kliniki-zaniali-11-sprosa-na-ofisy-v-prage-0adc96df5ef072cf.webp"
@@ -30018,7 +30316,7 @@
      ]
     }
    },
-   "rank": 33.889,
+   "rank": 33.316,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -30248,7 +30546,7 @@
      ]
     }
    },
-   "rank": 43.328,
+   "rank": 42.555,
    "sources": [
     {
      "domain": "prazske-noviny.cz",
@@ -30537,7 +30835,7 @@
      ]
     }
    },
-   "rank": 44.668,
+   "rank": 43.872,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -30875,7 +31173,7 @@
      ]
     }
    },
-   "rank": 65.707,
+   "rank": 65.406,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -31196,7 +31494,7 @@
      ]
     }
    },
-   "rank": 47.56,
+   "rank": 46.684,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -31462,7 +31760,7 @@
      ]
     }
    },
-   "rank": 45.398,
+   "rank": 44.562,
    "story": [
     {
      "slug": "novaia-koalitsiia-v-prage-2-neozhidannyi-soiuz-posle-vyborov",
@@ -31728,7 +32026,7 @@
      ]
     }
    },
-   "rank": 44.483,
+   "rank": 43.648,
    "image_url": "https://img.24n.cz/p/2026/11/zhitelnitsa-olomoutsa-poteriala-425-tysiach-kron-prodavaia-l-e2070431239e4bc3.webp",
    "image_w": 1200,
    "image_h": 675
@@ -31944,7 +32242,7 @@
      ]
     }
    },
-   "rank": 44.534,
+   "rank": 43.682,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -32173,7 +32471,7 @@
      ]
     }
    },
-   "rank": 41.62,
+   "rank": 40.824,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -32468,7 +32766,7 @@
      ]
     }
    },
-   "rank": 47.864,
+   "rank": 46.948,
    "thread": {
     "slug": "prazhskie-novostroiki-dorozhaiut",
     "title": {
@@ -32904,7 +33202,7 @@
      ]
     }
    },
-   "rank": 36.872,
+   "rank": 36.139,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -33171,7 +33469,7 @@
      "body_sha256": "8db3207b92b3de7f6867f48a970817674a5a2d5720dd4b3c77403da842f07a47"
     }
    },
-   "rank": 21.112,
+   "rank": 20.674,
    "image_url": "https://img.24n.cz/p/2026/11/komediia-neco-jako-rodina-vyidet-v-cheshskii-prokat-26-noiab-e4c412dbf1c2233a.webp",
    "video": {
     "kind": "iframe",
@@ -33372,7 +33670,7 @@
      ]
     }
    },
-   "rank": 35.811,
+   "rank": 35.055,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/FhS6HMboU-c"
@@ -33631,7 +33929,7 @@
      ]
     }
    },
-   "rank": 33.55,
+   "rank": 32.841,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -33837,7 +34135,7 @@
      ]
     }
    },
-   "rank": 40.617,
+   "rank": 39.741,
    "sources": [
     {
      "domain": "fm.denik.cz",
@@ -34140,7 +34438,7 @@
      ]
     }
    },
-   "rank": 32.124,
+   "rank": 31.432,
    "story": [
     {
      "slug": "praha-13-koalice-ods-stan-kto-voshel-v-novoe-rukovodstvo",
@@ -34390,7 +34688,7 @@
      ]
     }
    },
-   "rank": 33.232,
+   "rank": 32.516,
    "story": [
     {
      "slug": "prague-music-week-2026-nazvala-programmu-i-uchastnikov",
@@ -34608,7 +34906,7 @@
      "also": []
     }
    },
-   "rank": 27.693,
+   "rank": 27.096,
    "image_url": "https://img.24n.cz/p/2026/11/angloiazychnyi-muzhchina-izbil-prokhozhego-v-prage-iz-za-ras-7298180b012e68c6.webp",
    "image_w": 1600,
    "image_h": 901
@@ -34667,7 +34965,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 30.804
+   "rank": 30.136
   },
   {
    "id": "n8345",
@@ -42200,7 +42498,7 @@
      ]
     }
    },
-   "rank": 74.642
+   "rank": 74.256
   },
   {
    "id": "n8318",
@@ -43944,7 +44242,7 @@
      ]
     }
    },
-   "rank": 81.419,
+   "rank": 80.996,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -47534,7 +47832,7 @@
      ]
     }
    },
-   "rank": 70.316,
+   "rank": 69.934,
    "thread": {
     "slug": "vykhod-politikov-iz-dvizheniia-ano",
     "title": {
@@ -54617,8 +54915,8 @@
    ],
    "published_at": "2026-11-03T20:22:42.144284+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "3 ноября 2026, 20:22",
@@ -54833,8 +55131,8 @@
    ],
    "published_at": "2026-11-03T20:22:42.144284+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "3 ноября 2026, 20:22",
@@ -81695,309 +81993,6 @@
    ],
    "show_sources": true,
    "corroboration": 2
-  },
-  {
-   "id": "n8167",
-   "slug": "cheshskii-startap-na-grani-investor-otkazalsia-za-dva-dnia-do-podpisan",
-   "source": "cc.cz",
-   "original_url": "https://cc.cz/investor-couvl-dva-dny-pred-podpisem-firme-zbyly-penize-na-30-dni-zakladatele-prepadl-zachvat-uzkosti/",
-   "top": false,
-   "tags": [
-    "it",
-    "ekonomika",
-    "cesko"
-   ],
-   "published_at": "2026-11-02T07:31:34.423542+01:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "2 ноября 2026, 07:31",
-    "uk": "2 листопада 2026, 07:31"
-   },
-   "ru": {
-    "title": "Чешский стартап на грани: инвестор отказался за два дня до подписания",
-    "lede": "Основатель HR-стартапа Talentpilot Том Зрубецкий рассказал, как компания осталась с деньгами всего на месяц после отказа инвестора в последний момент.",
-    "meta_description": "Основатель Talentpilot Том Зрубецкий о кризисе стартапа: инвестор отказался от сделки за два дня до подписания, фирма осталась с деньгами на 30 дней.",
-    "paras": [
-     "<p>Чешский стартап <b>Talentpilot</b> делает HR-инструменты на основе искусственного интеллекта. Он оказался на грани краха: инвестор отказался от сделки за два дня до подписания соглашения. Основатель и <b>CEO</b> компании <b>Tom Zrubecký</b> рассказал, как пережил один из самых тяжёлых периодов в жизни. И почему роль руководителя стартапа оказалась самой одинокой.</p>",
-     "<p>Переговоры и подготовка шли несколько месяцев. Потом инвестор неожиданно отозвал своё предложение. На счетах <b>Talentpilot</b> остались средства всего на 30 дней работы, а это меньше, чем требовалось на месячную зарплату всей команде. К этому добавился личный кризис: у Зрубецкого распались отношения, и в 36 лет ему пришлось переехать обратно к родителям в <b>Пльзень</b>.</p>",
-     "<h3>От оптимизма к панике</h3>",
-     "<p>Однажды по дороге из <b>Пльзни</b> в Прагу у него случился сильнейший приступ паники. «Перед глазами была пелена, я чувствовал, что это накрывает меня с огромной силой», вспоминает он. В тот момент на него обрушилось всё сразу: провал сделки, финансовые проблемы компании, личные неудачи и необходимость сохранять видимость контроля перед командой.</p>",
-     "<p><b>Talentpilot</b> помогает компаниям автоматизировать подбор персонала с помощью <b>AI</b>. Среди клиентов стартапа крупные чешские и международные компании: <b>Česká spořitelna</b>, <b>Rohlík</b>, <b>O2</b> и <b>Generali</b>. К концу 2026 года на платформе зарегистрировались более 100 тысяч пользователей. Но от финансового кризиса это компанию не спасло.</p>",
-     "<h3>Сделка, которая не состоялась</h3>",
-     "<p>В конце 2025 года Зрубецкий решил привлечь нового инвестора, чтобы выйти на рынок <b>USA</b>. В январе 2026 года была подписана предварительная договорённость (<i>term sheet</i>) с оценкой компании в 30 раз выше её выручки - по нынешним меркам рынка стартапов это очень щедрое предложение. За этим последовали четыре месяца <i>due diligence</i>, пересмотр юридической структуры и подготовка акционерного соглашения.</p>",
-     "<p>Всё было готово к подписанию, но в понедельник, за два дня до назначенной даты, инвестор неожиданно отказался от сделки. Причины были расплывчатыми: «Мы перестали это чувствовать», заявили они, хотя ещё за четыре дня до этого прислали на согласование пресс-релиз об инвестиции. Зрубецкий подозревает, что инвестор либо нашёл более выгодную возможность, либо столкнулся с проблемами в другом стартапе и перенаправил средства туда.</p>",
-     "<blockquote>«Быть CEO - самая одинокая роль, какая существует. Моя ответственность - впитать всё это и оградить от этого остальных. Не могу сказать команде, что боюсь банкротства. Это никому не поможет».</blockquote>",
-     "<p>Так прокомментировал ситуацию <b>Tom Zrubecký</b>.</p>",
-     "<h3>Команда спасла компанию</h3>",
-     "<p>Когда стало ясно, что инвестиция не состоится, у <b>Talentpilot</b> оставались деньги всего на месяц. Зрубецкий поставил команду перед выбором: либо сократить 30% сотрудников, либо согласиться на снижение зарплат на такую же сумму. Все 12 человек выбрали второе - никто не уволился. Это стало для основателя одним из самых сильных моментов в истории компании.</p>",
-     "<p>«30 дней - это ничто. Мы сократили другие расходы и взяли финансовую помощь от нашего текущего инвестора, <b>Notino</b>, который владеет 30% компании. Нам повезло, что он был готов помочь. Многие инвесторы в такой ситуации уже бы отказались», говорит Зрубецкий.</p>",
-     "<p>Он признаётся, что в тот момент думал о худшем. «На ум приходили мысли о смерти. Не то чтобы я всерьёз об этом размышлял, но такие мысли в такие моменты появляются. Чувствуешь себя полным ничтожеством: подвёл команду, инвесторов, родителей, которые оплачивали моё образование, подвёл девушку. И при этом нужно было улыбаться перед командой и делать вид, что всё под контролем».</p>",
-     "<h3>Как выжить и начать заново</h3>",
-     "<p>Что помогло Зрубецкому справиться с кризисом? Оптимизм и поддержка клиентов. «Когда видишь, что клиенты вроде <b>Rohlík</b> или <b>O2</b> довольны твоим продуктом, это придаёт сил», говорит он. Постепенно компания стабилизировалась: сократились расходы, появились новые клиенты, и сейчас <b>Talentpilot</b> вышел на уровень <i>anualizované profitability</i> - если удастся продлить контракты с текущими клиентами, компания будет в плюсе.</p>",
-     "<p>Сегодня в команде осталось семь человек, но благодаря <b>AI</b>-агентам, которые берут на себя рутинные задачи, производительность осталась на уровне 12 сотрудников. Зрубецкий уже не ищет инвестора от отчаяния, но уверен, что видение компании остаётся правильным. Сейчас он живёт в <b>San Francisco</b> и строит команду для выхода на американский рынок. Цель - привлечь новую инвестицию в первой половине 2027 года.</p>",
-     "<h3>Америка vs Европа: разные подходы к бизнесу</h3>",
-     "<p>Переезд в San Francisco показал Зрубецкому, насколько по-разному смотрят на бизнес в Америке и в Европе. «В Европе часто слышишь: „Может быть“, „Надеюсь“, „Если получится“. В США всё по-другому: „Мы это сделаем“. Это небольшая разница в словах, но она сильно влияет на ментальный настрой», объясняет он.</p>",
-     "<p>Амбиции у него по-прежнему глобальные: «Мой цель - чтобы Talentpilot повлиял на 100 миллионов людей по всему миру. В Европе мне часто говорили, что это невозможно. В США такие амбиции воспринимаются как норма».</p>",
-     "<p>Сейчас компания фокусируется не только на подборе персонала, но и на трансформации рабочей силы в эпоху <b>AI</b>. Недавно был запущен проект <i>AI-Native Workforce Operating System</i>, который помогает сотрудникам адаптироваться к быстро меняющемуся миру. «Одна из наших задач - научить людей не просто использовать <b>ChatGPT</b>, но и понимать, что их работа завтра будет выглядеть иначе», говорит Зрубецкий.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Что такое Talentpilot?",
-      "a": "Talentpilot - это чешский стартап, который разрабатывает HR-инструменты с использованием искусственного интеллекта. Платформа помогает компаниям автоматизировать подбор персонала и адаптироваться к изменениям на рынке труда."
-     },
-     {
-      "q": "Почему инвестор отказался от сделки?",
-      "a": "Инвестор заявил, что «перестал чувствовать» проект, хотя ещё за несколько дней до отказа присылал на согласование пресс-релиз об инвестиции. Основатель стартапа подозревает, что причиной могли стать внутренние проблемы инвестора или более выгодная возможность."
-     },
-     {
-      "q": "Как компания справилась с кризисом?",
-      "a": "Команда согласилась на снижение зарплат на 30%, а текущий инвестор, Notino, предоставил финансовую помощь. Сейчас компания сократила расходы, нашла новых клиентов и вышла на уровень годовой прибыльности."
-     },
-     {
-      "q": "Какие планы у Talentpilot сейчас?",
-      "a": "Стартап планирует выйти на американский рынок и привлечь новую инвестицию в первой половине 2027 года. Сейчас компания фокусируется на трансформации рабочей силы в эпоху искусственного интеллекта."
-     }
-    ],
-    "impact": "История Talentpilot показывает, как быстро может измениться ситуация в стартапе и почему важно иметь запасной план. Для основателей бизнеса это напоминание о необходимости диверсифицировать источники финансирования и готовиться к неожиданным отказам инвесторов. Сейчас компания стабилизировалась, но кризис стал важным уроком для всей команды.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Инвестор отказался от сделки с Talentpilot за два дня до подписания соглашения, оставив компанию с деньгами всего на 30 дней работы.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Все 12 сотрудников Talentpilot согласились на снижение зарплат на 30%, чтобы избежать увольнений.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Компания получила финансовую помощь от текущего инвестора Notino, владеющего 30% Talentpilot.",
-       "target": {
-        "block": 13,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Talentpilot вышел на уровень anualizované profitability, и компания будет в плюсе, если удастся продлить контракты с текущими клиентами.",
-       "target": {
-        "block": 16,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "due diligence",
-       "definition": "Комплексная проверка компании перед инвестицией, включающая анализ финансов, юридической структуры и других аспектов бизнеса.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "term sheet",
-       "definition": "Предварительное соглашение между инвестором и стартапом, в котором фиксируются ключевые условия будущей сделки.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "anualizované profitability",
-       "definition": "Показатель прибыльности компании, рассчитанный на годовой основе с учётом текущих контрактов и доходов.",
-       "target": {
-        "block": 16,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "4a772ec792b032c769e02ef0e6cde9bc3288536449791e9b1cc5273fce8ea811"
-    }
-   },
-   "uk": {
-    "title": "Чеський стартап на межі: інвестор відмовився за два дні до підписання",
-    "lede": "Засновник HR-стартапу Talentpilot Tom Zrubecký розповів, як компанія залишилася з грошима лише на місяць після відмови інвестора в останній момент.",
-    "meta_description": "Засновник Talentpilot Tom Zrubecký про кризу стартапу: інвестор відмовився від угоди за два дні до підписання, фірма залишилася з грошима на 30 днів.",
-    "paras": [
-     "<p>Чеський стартап <b>Talentpilot</b> робить HR-інструменти на основі штучного інтелекту. Він опинився на межі краху: інвестор відмовився від угоди за два дні до підписання договору. Засновник і <b>CEO</b> компанії <b>Tom Zrubecký</b> розповів, як пережив один із найважчих періодів у житті. І чому роль керівника стартапу виявилася найсамотнішою.</p>",
-     "<p>Переговори й підготовка тривали кілька місяців. Потім інвестор несподівано відкликав свою пропозицію. На рахунках <b>Talentpilot</b> залишилися кошти лише на 30 днів роботи, а це менше, ніж потрібно на місячну зарплату всій команді. До цього додалася особиста криза: у Zrubecký розпалися стосунки, і в 36 років йому довелося переїхати назад до батьків у <b>Пльзень</b>.</p>",
-     "<h3>Від оптимізму до паніки</h3>",
-     "<p>Одного разу дорогою з <b>Пльзня</b> до Праги в нього стався найсильніший напад паніки. «Перед очима була пелена, я відчував, що це накриває мене з величезною силою», згадує він. У той момент на нього обрушилося все одразу: провал угоди, фінансові проблеми компанії, особисті невдачі й необхідність зберігати видимість контролю перед командою.</p>",
-     "<p><b>Talentpilot</b> допомагає компаніям автоматизувати підбір персоналу за допомогою <b>AI</b>. Серед клієнтів стартапу великі чеські та міжнародні компанії: <b>Česká spořitelna</b>, <b>Rohlík</b>, <b>O2</b> і <b>Generali</b>. До кінця 2026 року на платформі зареєструвалися понад 100 тисяч користувачів. Але від фінансової кризи це компанію не врятувало.</p>",
-     "<h3>Угода, яка не відбулася</h3>",
-     "<p>Наприкінці 2025 року Zrubecký вирішив залучити нового інвестора, щоб вийти на ринок <b>USA</b>. У січні 2026 року була підписана попередня домовленість (<i>term sheet</i>) з оцінкою компанії в 30 разів вище за її виручку. За нинішніми мірками ринку стартапів це дуже щедра пропозиція. За цим пішли чотири місяці <i>due diligence</i>, перегляд юридичної структури й підготовка акціонерної угоди.</p>",
-     "<p>Все було готове до підписання, але в понеділок, за два дні до призначеної дати, інвестор несподівано відмовився від угоди. Причини були розпливчасті: «Ми перестали це відчувати», заявили вони, хоча ще за чотири дні до цього надіслали на погодження пресреліз про інвестицію. Zrubecký підозрює, що інвестор або знайшов вигіднішу можливість, або зіткнувся з проблемами в іншому стартапі й перенаправив кошти туди.</p>",
-     "<blockquote>«Бути CEO, це найсамотніша роль, яка існує. Моя відповідальність, увібрати все це і захистити від цього інших. Не можу сказати команді, що боюся банкрутства. Це нікому не допоможе».</blockquote>",
-     "<p>Так прокоментував ситуацію <b>Tom Zrubecký</b>.</p>",
-     "<h3>Команда врятувала компанію</h3>",
-     "<p>Коли стало зрозуміло, що інвестиції не буде, у <b>Talentpilot</b> залишалися гроші лише на місяць. Zrubecký поставив команду перед вибором: або скоротити 30% співробітників, або погодитися на зниження зарплат на таку саму суму. Усі 12 людей вибрали друге, ніхто не звільнився. Це стало для засновника одним із найсильніших моментів в історії компанії.</p>",
-     "<p>«30 днів, це ніщо. Ми скоротили інші витрати й узяли фінансову допомогу від нашого поточного інвестора, <b>Notino</b>, який володіє 30% компанії. Нам пощастило, що він був готовий допомогти. Багато інвесторів у такій ситуації вже б відмовилися», каже Zrubecký.</p>",
-     "<p>Він зізнається, що в той момент думав про найгірше. «На думку приходили думки про смерть. Не те щоб я всерйоз про це розмірковував, але такі думки в такі моменти з'являються. Відчуваєш себе повним нікчемою: підвів команду, інвесторів, батьків, які оплачували мою освіту, підвів дівчину. І при цьому треба було посміхатися перед командою і робити вигляд, що все під контролем».</p>",
-     "<h3>Як вижити й почати заново</h3>",
-     "<p>Що допомогло Zrubecký впоратися з кризою? Оптимізм і підтримка клієнтів. «Коли бачиш, що клієнти на кшталт <b>Rohlík</b> або <b>O2</b> задоволені твоїм продуктом, це додає сил», каже він. Поступово компанія стабілізувалася: скоротилися витрати, з'явилися нові клієнти, і зараз <b>Talentpilot</b> вийшов на рівень <i>anualizované profitability</i>. Якщо вдасться продовжити контракти з поточними клієнтами, компанія буде в плюсі.</p>",
-     "<p>Сьогодні в команді залишилося семеро людей, але завдяки <b>AI</b>-агентам, які беруть на себе рутинні завдання, продуктивність залишилася на рівні 12 співробітників. Zrubecký вже не шукає інвестора з відчаю, але впевнений, що бачення компанії залишається правильним. Зараз він живе в <b>San Francisco</b> і будує команду для виходу на американський ринок. Мета, залучити нову інвестицію в першій половині 2027 року.</p>",
-     "<h3>Америка vs Європа: різні підходи до бізнесу</h3>",
-     "<p>Переїзд до San Francisco показав Zrubecký, наскільки по-різному дивляться на бізнес в Америці й у Європі. «У Європі часто чуєш: „Можливо“, „Сподіваюся“, „Якщо вийде“. У США все по-іншому: „Ми це зробимо“. Це невелика різниця в словах, але вона сильно впливає на ментальний настрій», пояснює він.</p>",
-     "<p>Амбіції в нього по-колишньому глобальні: «Моя мета, щоб Talentpilot вплинув на 100 мільйонів людей по всьому світу. У Європі мені часто казали, що це неможливо. У США такі амбіції сприймаються як норма».</p>",
-     "<p>Зараз компанія фокусується не лише на підборі персоналу, а й на трансформації робочої сили в епоху <b>AI</b>. Нещодавно був запущений проєкт <i>AI-Native Workforce Operating System</i>, який допомагає співробітникам адаптуватися до світу, що швидко змінюється. «Одне з наших завдань, навчити людей не просто використовувати <b>ChatGPT</b>, а й розуміти, що їхня робота завтра виглядатиме інакше», каже Zrubecký.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Що таке Talentpilot?",
-      "a": "Talentpilot, це чеський стартап, який розробляє HR-інструменти з використанням штучного інтелекту. Платформа допомагає компаніям автоматизувати підбір персоналу й адаптуватися до змін на ринку праці."
-     },
-     {
-      "q": "Чому інвестор відмовився від угоди?",
-      "a": "Інвестор заявив, що «перестав відчувати» проєкт, хоча ще за кілька днів до відмови надсилав на погодження пресреліз про інвестицію. Засновник стартапу підозрює, що причиною могли стати внутрішні проблеми інвестора або вигідніша можливість."
-     },
-     {
-      "q": "Як компанія впоралася з кризою?",
-      "a": "Команда погодилася на зниження зарплат на 30%, а поточний інвестор, Notino, надав фінансову допомогу. Зараз компанія скоротила витрати, знайшла нових клієнтів і вийшла на рівень річної прибутковості."
-     },
-     {
-      "q": "Які плани у Talentpilot зараз?",
-      "a": "Стартап планує вийти на американський ринок і залучити нову інвестицію в першій половині 2027 року. Зараз компанія фокусується на трансформації робочої сили в епоху штучного інтелекту."
-     }
-    ],
-    "impact": "История Talentpilot показывает, как быстро может измениться ситуация в стартапе и почему важно иметь запасной план. Для основателей бизнеса это напоминание о необходимости диверсифицировать источники финансирования и готовиться к неожиданным отказам инвесторов. Сейчас компания стабилизировалась, но кризис стал важным уроком для всей команды.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Інвестор відмовився від угоди з Talentpilot за два дні до підписання, залишивши стартап з коштами лише на 30 днів роботи.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Після відмови інвестора команда Talentpilot погодилася на зниження зарплат на 30%, щоб уникнути скорочень.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Стартап отримав фінансову допомогу від поточного інвестора Notino, який володіє 30% компанії.",
-       "target": {
-        "block": 13,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Talentpilot вийшов на рівень anualizované profitability і планує залучити нову інвестицію в першій половині 2027 року.",
-       "target": {
-        "block": 16,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "term sheet",
-       "definition": "Попередня домовленість між стартапом та інвестором, яка містить ключові умови майбутньої угоди, зокрема оцінку компанії та обсяг інвестицій.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "due diligence",
-       "definition": "Комплексна перевірка фінансового, юридичного та операційного стану компанії перед укладенням угоди, яку проводить інвестор.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "anualizované profitability",
-       "definition": "Показник прибутковості компанії, розрахований на річній основі, навіть якщо фактичний період діяльності коротший.",
-       "target": {
-        "block": 16,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Як діяти в кризі",
-      "items": [
-       {
-        "text": "Оцініть фінансові резерви компанії та визначте термін їх вичерпання.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Запропонуйте команді альтернативи скороченням: зниження зарплат або скорочення робочого часу.",
-        "target": {
-         "block": 12,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Зверніться за підтримкою до поточних інвесторів або партнерів.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Скорочуйте непріоритетні витрати, щоб продовжити термін роботи компанії.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Зосередьтеся на задоволенні поточних клієнтів, щоб зберегти джерело доходів.",
-        "target": {
-         "block": 16,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Розгляньте можливість оптимізації команди за допомогою автоматизації та AI.",
-        "target": {
-         "block": 17,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "5347e6698a63c5d672f50bd5b929f176a33ff13ad25e77f24a7dc6330e4134fe"
-    }
-   },
-   "rank": 33.25,
-   "image_url": "https://img.24n.cz/p/2026/11/cheshskii-startap-na-grani-investor-otkazalsia-za-dva-dnia-d-510e28ba9f5687e0.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/11/cheshskii-startap-na-grani-investor-otkazalsia-za-dva-dnia-d-2cd25b046ac2f7a8.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/11/cheshskii-startap-na-grani-investor-otkazalsia-za-dva-dnia-d-2cd25b046ac2f7a8.webp",
-     "after": 2,
-     "caption": "Основатель компании переехал обратно к родителям в Пльзень"
-    }
-   ],
-   "image_w": 1600,
-   "image_h": 1000,
-   "images_wh": [
-    [
-     1600,
-     900
-    ]
-   ]
   }
  ],
  "stories": [
