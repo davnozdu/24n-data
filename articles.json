@@ -1,8 +1,178 @@
 {
- "updated_at": "2026-11-07T09:01:59+00:00",
+ "updated_at": "2026-11-07T09:26:19+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8504",
+   "slug": "v-prage-5-otkrylsia-novyi-obshchestvennyi-kompleks-s-klubom",
+   "source": "nasepraha.cz",
+   "original_url": "https://www.nasepraha.cz/sousede-si-prosadili-nove-misto-k-setkavani/",
+   "top": false,
+   "tags": [
+    "dosug",
+    "praha"
+   ],
+   "published_at": "2026-11-07T10:26:18.620711+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "7 ноября 2026, 10:26",
+    "uk": "7 листопада 2026, 10:26"
+   },
+   "ru": {
+    "title": "В Праге 5 открылся новый общественный комплекс с клубом",
+    "lede": "Между улицами Кроуповой и Заверце в Праге 5 появился новый общественный комплекс с клубом, детской площадкой и уличными тренажерами.",
+    "meta_description": "В Праге 5 между улицами Кроупова и К Заверце открылся новый комплекс с клубом, детской площадкой и тренажерами по инициативе жителей.",
+    "paras": [
+     "<p>Между улицами Кроуповой и Заверце в Праге 5 появился новый комплекс с клубом, детской площадкой и уличной спортплощадкой. Создание пространства инициировало общественное объединение Дивчи грады догромады через проект партиципаторного бюджета.</p>",
+     "<p>Члены совета района приняли решение передать клуб в аренду именно этой организации. Раньше в этом районе негде было собираться вместе, поэтому местные жители сами предложили проект и воплотили его в жизнь благодаря программе народного бюджета.</p>",
+     "<blockquote>Практически такие проекты имеют огромный смысл. Они отвечают на реальные запросы людей и помогают создавать пространства, где соседи могут встречаться, организовывать совместные события и укреплять отношения.</blockquote>",
+     "<p>Так охарактеризовал проект мэр Праги 5 Лукаш Герольд (ОДС). По данным документов о вводе объекта в эксплуатацию, здание может работать как кафе. Управлением заведением займется объединение Дивчи грады догромады, а за порядок и уход за прилегающим парком ответит отдел управления общественными пространствами и зеленью управления Праги 5 городской части.</p>",
+     "<blockquote>Это отличный пример того, как районная администрация вместе с активными горожанами может делать жизнь в Праге 5 комфортнее.</blockquote>",
+     "<p>Добавил Герольд, комментируя сотрудничество властей и местных жителей.</p>",
+     "<p>Власти района использовали опыт похожего проекта в парке На плани в районе Мальвазинека, где клуб находится на попечении объединения Пршателе Мальвазинека. По оценке руководства района, такой формат совместной работы уже доказал свою эффективность.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Кто создал новый комплекс?",
+      "a": "Общественное объединение Dívčí hrady dohromady через проект партиципаторного бюджета."
+     },
+     {
+      "q": "Кто будет управлять клубом?",
+      "a": "Объединение Dívčí hrady dohromady, а уходом за парком займется районная администрация."
+     },
+     {
+      "q": "Где находится новый комплекс?",
+      "a": "Между улицами Kroupova и K Závěrce в Праге 5."
+     }
+    ],
+    "impact": "Местные жители получили новое пространство для отдыха и встреч, а также возможность посещать кафе в районе улиц Кроупова и К Заверце в Праге 5.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "В Праге 5 между улицами Кроуповой и Заверце открылся новый общественный комплекс, включающий клуб, детскую площадку и уличные тренажеры.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Создание пространства инициировало общественное объединение Дивчи грады догромады через проект партиципаторного бюджета.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Совет района решил передать клуб в аренду организации Дивчи грады догромады.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Согласно документам о вводе объекта в эксплуатацию, здание может работать как кафе.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "11173029345fe3544f4d3d8fec826ed075b956ebcd29af0298db60e85f0e642d"
+    }
+   },
+   "uk": {
+    "title": "У Празі 5 відкрився новий громадський комплекс із клубом",
+    "lede": "Між вулицями Kroupova та K Závěrce у Празі 5 з'явився новий громадський комплекс із клубом, дитячим майданчиком та вуличними тренажерами.",
+    "meta_description": "У Празі 5 між вулицями Kroupova та K Závěrce відкрився новий комплекс із клубом, дитячим майданчиком та тренажерами за ініціативою мешканців.",
+    "paras": [
+     "<p>Між вулицями Kroupova та K Závěrce у Празі 5 з'явився новий комплекс із клубом, дитячим майданчиком та вуличним спортивним майданчиком. Створення простору ініціювало громадське об'єднання Dívčí hrady dohromady через проєкт партиципаторного бюджету.</p>",
+     "<p>Члени ради району ухвалили рішення передати клуб в оренду саме цій організації. Раніше в цьому районі ніде було збиратися разом, тому місцеві жителі самі запропонували проєкт і втілили його в життя завдяки програмі народного бюджету.</p>",
+     "<blockquote>Практично такі проєкти мають величезний сенс. Вони відповідають на реальні запити людей і допомагають створювати простори, де сусіди можуть зустрічатися, організовувати спільні події та зміцнювати стосунки.</blockquote>",
+     "<p>Так охарактеризував проєкт мер Праги 5 Lukáš Herold (ODS). За даними документів про введення об'єкта в експлуатацію, будівля може працювати як кафе. Управлінням закладом займатиметься об'єднання Dívčí hrady dohromady, а за порядок і догляд за прилеглим парком відповідатиме відділ управління громадськими просторами та зеленню управління Праги 5 міської частини.</p>",
+     "<blockquote>Це чудовий приклад того, як районна адміністрація разом з активними городянами може робити життя у Празі 5 комфортнішим.</blockquote>",
+     "<p>Додав Lukáš Herold, коментуючи співпрацю влади та місцевих жителів.</p>",
+     "<p>Влада району використала досвід схожого проєкту в парку Na плани в районі Malvazinky, де клуб перебуває під опікою об'єднання Přátelé Malvazinek. За оцінкою керівництва району, такий формат спільної роботи вже довів свою ефективність.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Хто створив новий комплекс?",
+      "a": "Громадське об'єднання Dívčí hrady dohromady через проєкт партиципаторного бюджету."
+     },
+     {
+      "q": "Хто керуватиме клубом?",
+      "a": "Об'єднання Dívčí hrady dohromady, а доглядом за парком займеться районна адміністрація."
+     },
+     {
+      "q": "Де знаходиться новий комплекс?",
+      "a": "Між вулицями Kroupova та K Závěrce у Празі 5."
+     }
+    ],
+    "impact": "Местные жители получили новое пространство для отдыха и встреч, а также возможность посещать кафе в районе улиц Кроупова и К Заверце в Праге 5.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Між вулицями Kroupova та K Závěrce у Празі 5 відкрився новий громадський комплекс із клубом, дитячим майданчиком та вуличними тренажерами.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Створення простору ініціювало громадське об'єднання Dívčí hrady dohromady через проєкт партиципаторного бюджету.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Члени ради району ухвалили рішення передати клуб в оренду громадському об'єднанню Dívčí hrady dohromady.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Згідно з документами про введення об'єкта в експлуатацію, будівля може працювати як кафе.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "b66b7683dbc271d4c1b0e4fb04ef0d2bba534f518491c584caf4f2d0aa109f2c"
+    }
+   },
+   "rank": 85.0,
+   "image_url": "https://img.24n.cz/p/2026/11/v-prage-5-otkrylsia-novyi-obshchestvennyi-kompleks-s-klubom-9b37bf4266df7262.webp",
+   "images": [
+    "https://img.24n.cz/p/2026/11/v-prage-5-otkrylsia-novyi-obshchestvennyi-kompleks-s-klubom-8fe955fc81ba023a.webp"
+   ],
+   "photo_spots": [
+    {
+     "url": "https://img.24n.cz/p/2026/11/v-prage-5-otkrylsia-novyi-obshchestvennyi-kompleks-s-klubom-8fe955fc81ba023a.webp",
+     "after": 2,
+     "caption": "новое одноэтажное деревянное здание комплекса среди деревьев осенью"
+    }
+   ],
+   "image_w": 600,
+   "image_h": 315,
+   "images_wh": [
+    [
+     820,
+     590
+    ]
+   ]
+  },
   {
    "id": "n8503",
    "slug": "finansovyi-obzor-2-6-noiabria-2026-goda",
@@ -14,8 +184,8 @@
    ],
    "published_at": "2026-11-07T10:01:58.908791+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "24 минуты назад",
+    "uk": "24 хвилини тому"
    },
    "date": {
     "ru": "7 ноября 2026, 10:01",
@@ -71,8 +241,8 @@
    ],
    "published_at": "2026-11-07T09:28:31.664458+01:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "57 минут назад",
+    "uk": "57 хвилин тому"
    },
    "date": {
     "ru": "7 ноября 2026, 09:28",
@@ -284,8 +454,8 @@
    ],
    "published_at": "2026-11-07T09:28:31.664458+01:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "57 минут назад",
+    "uk": "57 хвилин тому"
    },
    "date": {
     "ru": "7 ноября 2026, 09:28",
@@ -452,8 +622,8 @@
    ],
    "published_at": "2026-11-07T09:28:31.664458+01:00",
    "time": {
-    "ru": "33 минуты назад",
-    "uk": "33 хвилини тому"
+    "ru": "57 минут назад",
+    "uk": "57 хвилин тому"
    },
    "date": {
     "ru": "7 ноября 2026, 09:28",
@@ -1425,8 +1595,8 @@
    ],
    "published_at": "2026-11-07T07:20:19.064915+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "7 ноября 2026, 07:20",
@@ -1599,7 +1769,7 @@
      "body_sha256": "14cc9912cdf02a0bac8e10341fab9aee93285a32cc9163050fd7e698fe45181d"
     }
    },
-   "rank": 112.0,
+   "rank": 111.838,
    "sources": [
     {
      "domain": "vtm.zive.cz",
@@ -1630,8 +1800,8 @@
    ],
    "published_at": "2026-11-07T07:20:19.064915+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "7 ноября 2026, 07:20",
@@ -1759,7 +1929,7 @@
      "body_sha256": "bd40bf0444c9739aa61b9e805509bcb23a0a4785e9e98005b97b82424c18041e"
     }
    },
-   "rank": 104.0,
+   "rank": 103.85,
    "sources": [
     {
      "domain": "ahaonline.cz",
@@ -1807,8 +1977,8 @@
    ],
    "published_at": "2026-11-07T07:20:19.064915+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "7 ноября 2026, 07:20",
@@ -1954,7 +2124,7 @@
      "body_sha256": "7a00ccc47fb4e05e33bcad8604ca834c633bebbfbb2df109777dcd889d0b757f"
     }
    },
-   "rank": 125.0,
+   "rank": 124.819,
    "sources": [
     {
      "domain": "denik.cz",
@@ -1990,8 +2160,8 @@
    ],
    "published_at": "2026-11-07T06:06:43.368619+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "7 ноября 2026, 06:06",
@@ -2122,7 +2292,7 @@
      "body_sha256": "f5dbcffeb21ea408d67dee66da5894692c8c691d4bea723fd7c03a2f77bd205f"
     }
    },
-   "rank": 93.736,
+   "rank": 93.18,
    "sources": [
     {
      "domain": "neviditelnypes.lidovky.cz",
@@ -2160,8 +2330,8 @@
    ],
    "published_at": "2026-11-07T05:09:56.086807+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "7 ноября 2026, 05:09",
@@ -2278,7 +2448,7 @@
      "body_sha256": "3fe0f238af6ee473b9fc8ebc9b7dae0b0f59fc00af288a62c7689c0ce6437f31"
     }
    },
-   "rank": 72.004,
+   "rank": 71.57,
    "sources": [
     {
      "domain": "mpplzen.cz",
@@ -2318,8 +2488,8 @@
    ],
    "published_at": "2026-11-07T05:09:56.086807+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "7 ноября 2026, 05:09",
@@ -2438,7 +2608,7 @@
      "body_sha256": "1083c88fac12b0225a42a4656025afaea43498f62b1e776cbf0db9c1930ce66e"
     }
    },
-   "rank": 92.437,
+   "rank": 91.881,
    "image_url": "https://img.24n.cz/p/2026/11/chssz-izmenil-grafik-vyplaty-cheshskikh-pensii-na-noiabr-iz-682e74990aa04a9b.webp",
    "image_w": 1366,
    "image_h": 910
@@ -2455,8 +2625,8 @@
    ],
    "published_at": "2026-11-07T05:09:56.086807+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "7 ноября 2026, 05:09",
@@ -2641,7 +2811,7 @@
      "body_sha256": "3f414595db4bc5c0cfd1fffaadadbd019f70a896100058da16f76037fc1fff0d"
     }
    },
-   "rank": 102.168,
+   "rank": 101.552,
    "sources": [
     {
      "domain": "mzd.gov.cz",
@@ -2802,7 +2972,7 @@
      "body_sha256": "8398fe76d933e0f80c5f3ad757c15f5889594d4ef19689b2a1038d7ddd8f30a5"
     }
    },
-   "rank": 83.134,
+   "rank": 82.624,
    "sources": [
     {
      "domain": "plus.rozhlas.cz",
@@ -2949,7 +3119,7 @@
     ],
     "impact": "Решение Минэнерго США напрямую затрагивает американские энергетические рынки и развитие инфраструктуры для дата-центров. Для обычных потребителей это означает перестройку энергосистемы под растущие потребности цифровых гигантов, при этом проекты должны поддержать более 10 тысяч рабочих мест в США."
    },
-   "rank": 93.236,
+   "rank": 92.656,
    "sources": [
     {
      "domain": "fxstreet.cz",
@@ -3175,7 +3345,7 @@
      "body_sha256": "48447c9a21dd6254d7842c15e5b3e7cbea57772d0a570678c58bb481a88e0afc"
     }
    },
-   "rank": 84.76,
+   "rank": 84.232,
    "image_url": "https://img.24n.cz/p/2026/11/byvshaia-model-adela-martynkova-sozdala-set-studii-pilatesa-8dcbc8c8f9d3462d.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/byvshaia-model-adela-martynkova-sozdala-set-studii-pilatesa-8df0902d7333ffda.webp"
@@ -3377,7 +3547,7 @@
      "body_sha256": "0df04e8d26abf026772bff2c06bb587ae588534d75a000868e2f6aca7cd3da16"
     }
    },
-   "rank": 117.722,
+   "rank": 116.989,
    "sources": [
     {
      "domain": "ceskolipsky.denik.cz",
@@ -3730,7 +3900,7 @@
      ]
     }
    },
-   "rank": 77.733,
+   "rank": 77.24,
    "sources": [
     {
      "domain": "mujrozhlas.cz",
@@ -4041,7 +4211,7 @@
      ]
     }
    },
-   "rank": 85.136,
+   "rank": 84.597,
    "thread": {
     "slug": "novaia-bolnitsa-v-prage",
     "title": {
@@ -4318,7 +4488,7 @@
      "body_sha256": "f3891a43d7b1a888841c32cb8c52dcc7bdb46216fff59be1db525e70939c8fc9"
     }
    },
-   "rank": 60.15,
+   "rank": 59.769,
    "sources": [
     {
      "domain": "e15.cz",
@@ -4547,7 +4717,7 @@
      ]
     }
    },
-   "rank": 82.36,
+   "rank": 81.838,
    "sources": [
     {
      "domain": "media24.cz",
@@ -4795,7 +4965,7 @@
      ]
     }
    },
-   "rank": 60.876,
+   "rank": 60.483,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -5014,7 +5184,7 @@
      ]
     }
    },
-   "rank": 81.774,
+   "rank": 81.246,
    "official_url": "https://policie.gov.cz/hlavni-mesto-praha/shromazdeni-v-praze",
    "image_url": "https://img.24n.cz/p/2026/11/praga-6-nachala-perestroiku-perekrestka-vokovitskoi-i-evrops-d783f10bb29f1814.webp",
    "images": [
@@ -5253,7 +5423,7 @@
      ]
     }
    },
-   "rank": 40.198,
+   "rank": 39.934,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-parni-iz-pokoleniia-z-vse-dolshe-ostaiutsia-zhit-s-4818b6ed5d6f4b8b.webp",
    "image_w": 620,
    "image_h": 349
@@ -5269,8 +5439,8 @@
    ],
    "published_at": "2026-11-06T23:08:15.709795+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 23:08",
@@ -5522,8 +5692,8 @@
    ],
    "published_at": "2026-11-06T23:08:15.709795+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 23:08",
@@ -5777,7 +5947,7 @@
      ]
     }
    },
-   "rank": 110.744,
+   "rank": 110.012,
    "story": [
     {
      "slug": "chekhiia-i-16-stran-es-trebuiut-otlozhit-sertifikatsiiu-metana-dlia-ga",
@@ -6178,7 +6348,7 @@
      ]
     }
    },
-   "rank": 87.841,
+   "rank": 87.255,
    "thread": {
     "slug": "obvineniia-mashinistam-posle-avarii-s-benzolom",
     "title": {
@@ -6248,8 +6418,8 @@
    ],
    "published_at": "2026-11-06T22:03:19.546523+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 22:03",
@@ -6539,7 +6709,7 @@
      ]
     }
    },
-   "rank": 97.476,
+   "rank": 96.82,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -6624,7 +6794,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 71.85
+   "rank": 71.358
   },
   {
    "id": "n8472",
@@ -6846,7 +7016,7 @@
      ]
     }
    },
-   "rank": 94.016,
+   "rank": 93.372,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -6901,8 +7071,8 @@
    ],
    "published_at": "2026-11-06T20:24:04.815348+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 20:24",
@@ -7168,7 +7338,7 @@
      ]
     }
    },
-   "rank": 48.247,
+   "rank": 47.913,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -7516,7 +7686,7 @@
      ]
     }
    },
-   "rank": 75.462,
+   "rank": 74.935,
    "image_url": "https://img.24n.cz/p/2026/11/v-prage-5-otkryvaiut-tsentr-podderzhki-dlia-semei-s-bolezniu-0902cf2aff822441.webp",
    "image_w": 600,
    "image_h": 315
@@ -7818,7 +7988,7 @@
      ]
     }
    },
-   "rank": 91.393,
+   "rank": 90.755,
    "thread": {
     "slug": "onsemi-otmenila-rasshirenie-zavoda-v-chekhii",
     "title": {
@@ -7881,8 +8051,8 @@
    ],
    "published_at": "2026-11-06T19:17:02.256010+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 19:17",
@@ -8225,7 +8395,7 @@
      ]
     }
    },
-   "rank": 111.259,
+   "rank": 110.474,
    "thread": {
     "slug": "remont-dorog-na-severe-pragi",
     "title": {
@@ -8612,7 +8782,7 @@
      ]
     }
    },
-   "rank": 86.355,
+   "rank": 85.74,
    "story": [
     {
      "slug": "v-chekhii-483-klienta-vzp-otravilis-kratomom-za-piat-mesiatsev",
@@ -8705,7 +8875,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 67.224,
+   "rank": 66.744,
    "forecast": true
   },
   {
@@ -8719,8 +8889,8 @@
    ],
    "published_at": "2026-11-06T18:10:06.457775+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 18:10",
@@ -8931,7 +9101,7 @@
      ]
     }
    },
-   "rank": 88.745,
+   "rank": 88.107,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -9325,7 +9495,7 @@
      ]
     }
    },
-   "rank": 94.311,
+   "rank": 93.626,
    "thread": {
     "slug": "delo-o-krazhe-v-cheshskom-sokole",
     "title": {
@@ -9706,7 +9876,7 @@
      ]
     }
    },
-   "rank": 72.734,
+   "rank": 72.195,
    "sources": [
     {
      "domain": "praha2.cz",
@@ -9915,7 +10085,7 @@
      ]
     }
    },
-   "rank": 79.059,
+   "rank": 78.473,
    "sources": [
     {
      "domain": "zlatapraharestaurant.cz",
@@ -9970,8 +10140,8 @@
    ],
    "published_at": "2026-11-06T15:24:59.130519+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 15:24",
@@ -10368,7 +10538,7 @@
      ]
     }
    },
-   "rank": 94.48,
+   "rank": 93.765,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -10682,7 +10852,7 @@
      ]
     }
    },
-   "rank": 72.82,
+   "rank": 72.264,
    "sources": [
     {
      "domain": "e15.cz",
@@ -10719,8 +10889,8 @@
    ],
    "published_at": "2026-11-06T14:19:43.185599+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 14:19",
@@ -10901,7 +11071,7 @@
      ]
     }
    },
-   "rank": 72.078,
+   "rank": 71.521,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -10940,8 +11110,8 @@
    ],
    "published_at": "2026-11-06T14:19:43.185599+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "6 ноября 2026, 14:19",
@@ -11162,7 +11332,7 @@
      ]
     }
    },
-   "rank": 84.976,
+   "rank": 84.32,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -11398,7 +11568,7 @@
      ]
     }
    },
-   "rank": 78.867
+   "rank": 78.251
   },
   {
    "id": "n8456",
@@ -11660,7 +11830,7 @@
      ]
     }
    },
-   "rank": 82.622,
+   "rank": 81.978,
    "story": [
     {
      "slug": "v-bolnitsakh-valasske-mezirici-i-rumburk-sokrashchaiut-detskuiu-medpom",
@@ -11902,7 +12072,7 @@
      ]
     }
    },
-   "rank": 63.844,
+   "rank": 63.346,
    "image_url": "https://img.24n.cz/p/2026/11/teatr-giberniia-pokazhet-miuzikl-o-merline-s-miroslavom-tabo-4c44496ccada50cb.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/teatr-giberniia-pokazhet-miuzikl-o-merline-s-miroslavom-tabo-3dff2492788d52a3.webp",
@@ -11949,8 +12119,8 @@
    ],
    "published_at": "2026-11-06T13:17:07.144234+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "6 ноября 2026, 13:17",
@@ -12176,7 +12346,7 @@
      ]
     }
    },
-   "rank": 63.21,
+   "rank": 62.712,
    "sources": [
     {
      "domain": "brnensky.denik.cz",
@@ -12255,8 +12425,8 @@
    ],
    "published_at": "2026-11-06T13:17:07.144234+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "6 ноября 2026, 13:17",
@@ -12548,7 +12718,7 @@
      ]
     }
    },
-   "rank": 100.392,
+   "rank": 99.601,
    "thread": {
     "slug": "biudzhetnyi-defitsit-i-rost-gosdolga-chekhii",
     "title": {
@@ -12813,7 +12983,7 @@
      "body_sha256": "69da04bf60ab45dae312db4c7d043d85317e45b67405748f049fc25db8bb2e68"
     }
    },
-   "rank": 69.852
+   "rank": 69.295
   },
   {
    "id": "n8451",
@@ -13042,7 +13212,7 @@
      ]
     }
    },
-   "rank": 99.263,
+   "rank": 98.472,
    "sources": [
     {
      "domain": "digital-strategy.ec.europa.eu",
@@ -13082,8 +13252,8 @@
    ],
    "published_at": "2026-11-06T12:10:02.370039+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "6 ноября 2026, 12:10",
@@ -13282,7 +13452,7 @@
      ]
     }
    },
-   "rank": 76.387
+   "rank": 75.772
   },
   {
    "id": "n8449",
@@ -13554,7 +13724,7 @@
      ]
     }
    },
-   "rank": 78.322,
+   "rank": 77.683,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -13842,7 +14012,7 @@
      ]
     }
    },
-   "rank": 83.175,
+   "rank": 82.49,
    "sources": [
     {
      "domain": "e15.cz",
@@ -13895,7 +14065,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 56.86,
+   "rank": 56.391,
    "leisure": true
   },
   {
@@ -14139,7 +14309,7 @@
      ]
     }
    },
-   "rank": 76.478,
+   "rank": 75.833,
    "image_url": "https://img.24n.cz/p/2026/11/muzhchina-obstrelivaet-iz-pnevmatiki-kvartiru-byvshei-v-vele-ddd3b87a6b081446.webp",
    "image_w": 1200,
    "image_h": 674
@@ -14400,7 +14570,7 @@
      ]
     }
    },
-   "rank": 34.763
+   "rank": 34.47
   },
   {
    "id": "n8444",
@@ -14632,7 +14802,7 @@
      "also": []
     }
    },
-   "rank": 80.828,
+   "rank": 80.131,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -14888,7 +15058,7 @@
      "also": []
     }
    },
-   "rank": 47.546,
+   "rank": 47.136,
    "image_url": "https://img.24n.cz/p/2026/11/v-iindrzhikhuve-gradetse-otkryli-priiut-na-vosem-mest-dlia-d-b4c6013f70717380.webp",
    "image_w": 620,
    "image_h": 349
@@ -15286,7 +15456,7 @@
      ]
     }
    },
-   "rank": 74.223,
+   "rank": 73.567,
    "story": [
     {
      "slug": "premialnye-vyplaty-strakhovykh-kompanii-chekhiia-2026",
@@ -15515,7 +15685,7 @@
      ]
     }
    },
-   "rank": 48.551,
+   "rank": 48.111,
    "sources": [
     {
      "domain": "loreum.cz",
@@ -15764,7 +15934,7 @@
      ]
     }
    },
-   "rank": 61.498
+   "rank": 60.941
   },
   {
    "id": "n8439",
@@ -16147,7 +16317,7 @@
      ]
     }
    },
-   "rank": 54.348,
+   "rank": 53.85,
    "thread": {
     "slug": "zasukha-v-chekhii-i-padenie-vyrabotki-ges",
     "title": {
@@ -16472,7 +16642,7 @@
      ]
     }
    },
-   "rank": 63.154,
+   "rank": 62.568,
    "official_url": "https://mzd.gov.cz/vyzva-k-podani-zadosti-o-udeleni-statusu-pracoviste-pro-screening-karcinomu-delozniho-hrdla-v-programu-screeningu-karcinomu-delozniho-hrdla"
   },
   {
@@ -16735,7 +16905,7 @@
      ]
     }
    },
-   "rank": 66.311,
+   "rank": 65.696,
    "image_url": "https://img.24n.cz/p/2026/11/babish-golosoval-v-parlamente-lish-v-32-sluchaev-e99cdd51d8de6cce.webp",
    "image_w": 1200,
    "image_h": 675
@@ -16914,7 +17084,7 @@
      "body_sha256": "0f1048eef0e5eb27e1b8e384e5a39f4c8ea60571affc0d67ee5eaaf8189b17f0"
     }
    },
-   "rank": 41.831,
+   "rank": 41.439,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -17174,7 +17344,7 @@
      ]
     }
    },
-   "rank": 66.181,
+   "rank": 65.56,
    "sources": [
     {
      "domain": "infodnes.cz",
@@ -17417,7 +17587,7 @@
      ]
     }
    },
-   "rank": 59.13,
+   "rank": 58.568,
    "sources": [
     {
      "domain": "prahadnes.info",
@@ -17666,7 +17836,7 @@
      ]
     }
    },
-   "rank": 57.775,
+   "rank": 57.219,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -17897,7 +18067,7 @@
      ]
     }
    },
-   "rank": 35.532,
+   "rank": 35.181,
    "image_url": "https://img.24n.cz/p/2026/11/vatslav-shafarzh-postroil-shale-v-krkonoshakh-i-vstretil-tam-a25f55a143b674e1.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/vatslav-shafarzh-postroil-shale-v-krkonoshakh-i-vstretil-tam-bf296e97a57005ee.webp",
@@ -18136,7 +18306,7 @@
      "body_sha256": "c746a6ce906fc24dd82e01fc42892a3a3a2cbc851c77aece36181df4ce457bef"
     }
    },
-   "rank": 50.338,
+   "rank": 49.84,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -18509,7 +18679,7 @@
      ]
     }
    },
-   "rank": 52.605,
+   "rank": 52.078,
    "sources": [
     {
      "domain": "domazlicky.denik.cz",
@@ -18881,7 +19051,7 @@
      ]
     }
    },
-   "rank": 49.565,
+   "rank": 49.056,
    "thread": {
     "slug": "rost-ipotechnykh-stavok-v-chekhii",
     "title": {
@@ -19199,7 +19369,7 @@
      ]
     }
    },
-   "rank": 55.263,
+   "rank": 54.694,
    "sources": [
     {
      "domain": "media24.cz",
@@ -19477,7 +19647,7 @@
      ]
     }
    },
-   "rank": 62.669,
+   "rank": 62.024,
    "sources": [
     {
      "domain": "logistika.tv",
@@ -19778,7 +19948,7 @@
      ]
     }
    },
-   "rank": 58.975,
+   "rank": 58.36,
    "sources": [
     {
      "domain": "chomutovsky.denik.cz",
@@ -20110,7 +20280,7 @@
      ]
     }
    },
-   "rank": 64.03,
+   "rank": 63.362,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -20581,7 +20751,7 @@
      ]
     }
    },
-   "rank": 47.108,
+   "rank": 46.61,
    "image_url": "https://img.24n.cz/p/2026/11/malyi-biznes-v-chekhii-beret-avto-v-lizing-bez-pervogo-vznos-4c0d5167060d7ac4.webp",
    "image_w": 1200,
    "image_h": 660
@@ -20833,7 +21003,7 @@
      "also": []
     }
    },
-   "rank": 51.84,
+   "rank": 51.283,
    "image_url": "https://img.24n.cz/p/2026/11/bloger-duklock-prodal-5-millionov-banok-vody-qapka-za-pervyi-12011005b7ba4852.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/bloger-duklock-prodal-5-millionov-banok-vody-qapka-za-pervyi-65058c80803abfb3.webp",
@@ -21091,7 +21261,7 @@
      ]
     }
    },
-   "rank": 51.071
+   "rank": 50.514
   },
   {
    "id": "n8421",
@@ -21404,7 +21574,7 @@
      ]
     }
    },
-   "rank": 53.203,
+   "rank": 52.605,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -21809,7 +21979,7 @@
      ]
     }
    },
-   "rank": 40.602,
+   "rank": 40.139,
    "thread": {
     "slug": "cesky-slavik-2026-i-bratia-nedvedy",
     "title": {
@@ -21960,7 +22130,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 42.73
+   "rank": 42.238
   },
   {
    "id": "n8418",
@@ -22195,7 +22365,7 @@
      ]
     }
    },
-   "rank": 55.163,
+   "rank": 54.524,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -22569,7 +22739,7 @@
      ]
     }
    },
-   "rank": 48.078,
+   "rank": 47.521,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -22968,7 +23138,7 @@
      "body_sha256": "f87570593821c885be7db38d6173378ed890d33bea31d4426491a71298a3c0de"
     }
    },
-   "rank": 42.343,
+   "rank": 41.845,
    "image_url": "https://img.24n.cz/p/2026/11/iurist-erik-gaibazo-vypustit-knigu-o-kukhne-chetyrekh-stran-7d27f9e3874f583d.webp",
    "image_w": 1280,
    "image_h": 800
@@ -23232,7 +23402,7 @@
      ]
     }
    },
-   "rank": 51.808,
+   "rank": 51.199,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -23651,7 +23821,7 @@
      ]
     }
    },
-   "rank": 52.306,
+   "rank": 51.691,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -24085,7 +24255,7 @@
      ]
     }
    },
-   "rank": 48.45,
+   "rank": 47.869,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -24372,7 +24542,7 @@
      ]
     }
    },
-   "rank": 50.148,
+   "rank": 49.539,
    "sources": [
     {
      "domain": "press.news",
@@ -24578,7 +24748,7 @@
      "body_sha256": "5ba0c8474d021c1db9ffcedb5d083409eeb4eebedbcd92caeb55b5b40dae6898"
     }
    },
-   "rank": 48.219,
+   "rank": 47.633,
    "image_url": "https://img.24n.cz/p/2026/11/zhivye-elki-v-chekhii-podorozhaiut-na-desiat-protsentov-a6b59130beb2bec6.webp",
    "image_w": 1366,
    "image_h": 910
@@ -24777,7 +24947,7 @@
      "body_sha256": "506dd1b905f4c459b76c100183ad9aac74a9dac21b9b7a2c3389223c1a0c017d"
     }
    },
-   "rank": 60.274,
+   "rank": 59.542,
    "sources": [
     {
      "domain": "echo24.cz",
@@ -24860,7 +25030,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 38.811,
+   "rank": 38.331,
    "forecast": true
   },
   {
@@ -25095,7 +25265,7 @@
      ]
     }
    },
-   "rank": 36.658,
+   "rank": 36.536,
    "image_url": "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-bec03b0ee4259aea.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-90c94e3e5ad09492.webp",
@@ -25386,7 +25556,7 @@
      "also": []
     }
    },
-   "rank": 39.809,
+   "rank": 39.311,
    "sources": [
     {
      "domain": "psp.cz",
@@ -25558,7 +25728,7 @@
      "body_sha256": "aac0a8ba78910443c2d821599d410ba0e683ecf9480964af4384d03902126c21"
     }
    },
-   "rank": 52.454,
+   "rank": 51.797,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -25909,7 +26079,7 @@
      ]
     }
    },
-   "rank": 57.565,
+   "rank": 56.833,
    "thread": {
     "slug": "urozhai-v-chekhii-upal-iz-za-zasukhi",
     "title": {
@@ -26231,7 +26401,7 @@
      "also": []
     }
    },
-   "rank": 52.96,
+   "rank": 52.286,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -26648,7 +26818,7 @@
      ]
     }
    },
-   "rank": 50.657,
+   "rank": 50.013,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -26932,7 +27102,7 @@
      "body_sha256": "817bface45d3b3d5c091c4ae904423c17e27fd0d34ca39128fa193acde9ca51d"
     }
    },
-   "rank": 52.499,
+   "rank": 52.324,
    "image_url": "https://img.24n.cz/p/2026/11/v-kino-vyshel-film-o-kholms-sniatyi-v-ee-dome-pered-tiurmoi-40413e98b56079a8.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/v-kino-vyshel-film-o-kholms-sniatyi-v-ee-dome-pered-tiurmoi-131c7fc349bc60b2.webp"
@@ -27184,7 +27354,7 @@
      ]
     }
    },
-   "rank": 44.878,
+   "rank": 44.298,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -27448,7 +27618,7 @@
      ]
     }
    },
-   "rank": 43.065,
+   "rank": 42.508,
    "image_url": "https://img.24n.cz/p/2026/11/sud-v-karvine-oshtrafoval-kompaniiu-na-6-mln-za-dtp-s-poezdo-ee7ebc21054eb600.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/sud-v-karvine-oshtrafoval-kompaniiu-na-6-mln-za-dtp-s-poezdo-b0bc56ed7ff25b7a.webp",
@@ -27872,7 +28042,7 @@
      "also": []
     }
    },
-   "rank": 37.217,
+   "rank": 36.719,
    "image_url": "https://img.24n.cz/p/2026/11/praga-s-11-noiabria-nachinaet-sezon-gusia-i-sviatmartinskogo-3b3766c90576e1a3.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/praga-s-11-noiabria-nachinaet-sezon-gusia-i-sviatmartinskogo-bbbb6f04809ec9aa.webp",
@@ -28147,7 +28317,7 @@
      ]
     }
    },
-   "rank": 43.785,
+   "rank": 43.199,
    "image_url": "https://img.24n.cz/p/2026/11/armiia-spaseniia-s-1-dekabria-rasshirit-pomoshch-bezdomnym-v-09cb1319ec150aa4.webp",
    "image_w": 800,
    "image_h": 533
@@ -28414,7 +28584,7 @@
      "body_sha256": "c42232b89c4064c6063d66ed0be294145e7c1af87d762425e211a6d1f88d659d"
     }
    },
-   "rank": 44.66,
+   "rank": 44.063,
    "sources": [
     {
      "domain": "moravskoslezsky.denik.cz",
@@ -28724,7 +28894,7 @@
      ]
     }
    },
-   "rank": 45.536,
+   "rank": 44.927,
    "story": [
     {
      "slug": "novyi-volebni-model-stem-rijna-kto-lidiruet-v-chekhii",
@@ -28955,7 +29125,7 @@
      "body_sha256": "181a0a45fdce68d35d1fb71b0d62bb0689c3bee43e07f7056aa8f9921861c505"
     }
    },
-   "rank": 47.185,
+   "rank": 46.541,
    "image_url": "https://img.24n.cz/p/2026/11/prokuror-prosit-shest-let-ottsu-za-iznasilovanie-docheri-4e8ae200cbff0e5e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -29217,7 +29387,7 @@
      ]
     }
    },
-   "rank": 42.172,
+   "rank": 41.586,
    "thread": {
     "slug": "stavki-cheshskogo-natsionalnogo-banka",
     "title": {
@@ -29514,7 +29684,7 @@
      "also": []
     }
    },
-   "rank": 48.498,
+   "rank": 47.824,
    "story": [
     {
      "slug": "rakushan-potreboval-ot-babisha-vstrechi-po-bezopasnosti-premer-otkazal",
@@ -29811,7 +29981,7 @@
      ]
     }
    },
-   "rank": 46.349,
+   "rank": 45.681,
    "thread": {
     "slug": "remont-dorog-na-severe-pragi",
     "title": {
@@ -30099,7 +30269,7 @@
      "body_sha256": "2a129e4827f73a1c9d6fb7058317aee18b55c984813e2dc9df9cd7117d139683"
     }
    },
-   "rank": 46.936,
+   "rank": 46.233,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -30453,7 +30623,7 @@
      ]
     }
    },
-   "rank": 39.896,
+   "rank": 39.298,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -30819,7 +30989,7 @@
      ]
     }
    },
-   "rank": 39.053,
+   "rank": 38.456,
    "sources": [
     {
      "domain": "iprerovsko.cz",
@@ -30913,7 +31083,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 33.34
+   "rank": 32.824
   },
   {
    "id": "n8387",
@@ -31107,7 +31277,7 @@
      ]
     }
    },
-   "rank": 39.243,
+   "rank": 38.604,
    "thread": {
     "slug": "spory-vokrug-vyborov-v-prage",
     "title": {
@@ -31348,7 +31518,7 @@
      ]
     }
    },
-   "rank": 41.043,
+   "rank": 40.375,
    "story": [
     {
      "slug": "v-ostrave-vory-popalis-kameram-pri-krazhe-kabelia-na-stroike",
@@ -31701,7 +31871,7 @@
      ]
     }
    },
-   "rank": 41.043,
+   "rank": 40.375,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -31955,7 +32125,7 @@
      ]
     }
    },
-   "rank": 33.122,
+   "rank": 32.583,
    "sources": [
     {
      "domain": "nasekladno.cz",
@@ -38049,7 +38219,7 @@
      ]
     }
    },
-   "rank": 57.954,
+   "rank": 57.732,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -49374,7 +49544,7 @@
      ]
     }
    },
-   "rank": 64.714
+   "rank": 64.43
   },
   {
    "id": "n8318",
@@ -51118,7 +51288,7 @@
      ]
     }
    },
-   "rank": 70.545,
+   "rank": 70.234,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -52076,8 +52246,8 @@
    ],
    "published_at": "2026-11-04T10:25:36.010643+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "4 ноября 2026, 10:25",
@@ -69209,8 +69379,8 @@
    ],
    "published_at": "2026-11-03T10:05:09.641309+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "3 ноября 2026, 10:05",
@@ -81715,235 +81885,6 @@
      354
     ]
    ]
-  },
-  {
-   "id": "n8200",
-   "slug": "komercni-banka-podniala-stavku-po-vkladam-do-4-2-protsenta",
-   "source": "penize.cz",
-   "original_url": "https://www.penize.cz/sporici-ucty/499191-dalsi-banka-zveda-sporici-ucet-nad-4-vysoky-urok-nevydrzi-dlouho",
-   "top": false,
-   "tags": [
-    "ekonomika",
-    "cesko"
-   ],
-   "published_at": "2026-11-02T18:48:25.861317+01:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "2 ноября 2026, 18:48",
-    "uk": "2 листопада 2026, 18:48"
-   },
-   "ru": {
-    "title": "Komerční banka подняла ставку по вкладам до 4,2 процента",
-    "lede": "Komerční banka с ноября повысила ставку по вкладам до миллиона крон до 4,2 процента годовых. При этом повышенный процент будет действовать всего три месяца вместо прежних шести.",
-    "meta_description": "Komerční banka повысила ставку по сберегательным счетам до 4,2 процента годовых для вкладов до миллиона крон, но сократила срок действия акции до трех…",
-    "paras": [
-     "Komerční banka начала предлагать годовую процентную ставку 4,2 процента для вкладов размером до миллиона крон. Раньше по такой акции банк начислял 3,5 процента годовых. Однако новый повышенный процент будет действовать всего три месяца вместо прежних шести.",
-     "Чтобы получить бонусную ставку, нужно перевести на сберегательный счет не менее 100 тысяч крон одним платежом из другого банка. Клиенту также необходимо активировать бонус в мобильном приложении KB+.",
-     "Новые клиенты, у которых до этого не было расчетного счета в Komerční banka и которые откроют его одновременно со вкладом, получат бонус автоматически даже при меньшей сумме вклада. Базовый вариант расчетного счета под названием Start предоставляется без ежемесячной платы за обслуживание.",
-     "Выгодный процент банк начисляет только за первые три месяца, в то время как прошлая акция длилась полгода. После этого срока начисление автоматически перейдет на ставку Odměna, которая сейчас составляет 3 процента годовых.",
-     "На своем официальном сайте банк изначально указывал, что по истечении трех месяцев процент упадет до стандартного уровня для конкретного тарифного плана. Для бесплатного счета Start он составляет всего 1 процент, для платного счета Standard — 1,5 процента, а для счетов Komfort или Exclusive — 2,5 процента при лимите до 200 тысяч крон. При премиальном обслуживании стандартная ставка держится на уровне 3,5 процента для суммы до миллиона.",
-     "В ответ на запрос издания Peníze.cz банк подтвердил, что на практике действуют правила из официального обзора процентных ставок. «После окончания трехмесячного периода клиенту автоматически активируется ставка Odměna на срок 12 месяцев, то есть актуально 3 процента. Лимит для льготного начисления процентов при этом остается миллион крон», пояснила Клара Вомочилова из пресс-службы KB.",
-     "Остальные чешские банки также могут менять проценты по сберегательным счетам в любой момент, если они не давали гарантий сохранения ставки до конкретной даты. В последние месяцы доходность вкладов идет вверх, и на фоне рыночных тенденций эксперты ожидают дальнейшего роста или как минимум стабильности. Шаг Komerční banka, которая сокращает срок повышенной ставки до трех месяцев, идет вразрез с общим направлением рынка. Для повторного получения бонусного процента клиенту потребуется перевести на счет еще сто тысяч крон."
-    ],
-    "faq": [
-     {
-      "q": "Какую ставку предлагает Komerční banka по сберегательному счету?",
-      "a": "Банк предлагает 4,2 процента годовых для вкладов до миллиона крон сроком на три месяца."
-     },
-     {
-      "q": "Что нужно сделать для получения бонусного процента?",
-      "a": "Необходимо перевести на счет не менее 100 тысяч крон из другого банка одной операцией и активировать бонус в приложении KB+."
-     },
-     {
-      "q": "Что произойдет через три месяца после открытия счета?",
-      "a": "Ставка автоматически снизится до уровня Odměna, который в настоящее время составляет 3 процента годовых сроком на один год."
-     }
-    ],
-    "impact": "Клиенты Komerční banka со вкладами до миллиона крон могут получить ставку 4,2% годовых при переводе от 100 тысяч крон из другого банка и активации в приложении KB+, но повышенный процент будет начисляться только три месяца.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [],
-     "glossary": [
-      {
-       "term": "Komerční banka",
-       "definition": "Komerční banka — это чешская банковская организация, предлагающая финансовые услуги и продукты, расположенная в Праге.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "KB+",
-       "definition": "KB+ — это мобильное и интернет-банковство Komerční banka, предлагающее функции управления счетами и финансами.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Что учесть при открытии вклада",
-      "items": [
-       {
-        "text": "Убедитесь, что сумма вклада составляет не менее 100 тысяч крон.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Активируйте бонус в мобильном приложении KB+.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Проверьте, есть ли у вас расчетный счет в Komerční banka.",
-        "target": {
-         "block": 3,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Узнайте, какая ставка будет действовать после трех месяцев.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Проверьте условия для получения бонусной ставки для новых клиентов.",
-        "target": {
-         "block": 3,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "76795fed88932048d06c6c24234eb2485b0f2205127f4dcb8efac8bd460e68db"
-    }
-   },
-   "uk": {
-    "title": "Komerční banka підняла ставку за вкладами до 4,2 відсотка",
-    "lede": "Komerční banka з листопада підвищила ставку за вкладами до мільйона крон до 4,2 відсотка річних. Водночас підвищений відсоток діятиме лише три місяці замість попередніх шести.",
-    "meta_description": "Komerční banka підвищила ставку за ощадними рахунками до 4,2 відсотка річних для вкладів до мільйона крон, але скоротила термін дії акції до трьох місяців.",
-    "paras": [
-     "Komerční banka почала пропонувати річну процентну ставку 4,2 відсотка для вкладів розміром до мільйона крон. Раніше за такою акцією банк нараховував 3,5 відсотка річних. Однак новий підвищений відсоток діятиме лише три місяці замість попередніх шести.",
-     "Щоб отримати бонусну ставку, потрібно переказати на ощадний рахунок щонайменше 100 тисяч крон одним платежем з іншого банку. Клієнту також необхідно активувати бонус у мобільному застосунку KB+.",
-     "Нові клієнти, які до цього не мали розрахункового рахунку в Komerční banka і відкриють його одночасно з вкладом, отримають бонус автоматично навіть за меншої суми вкладу. Базовий варіант розрахункового рахунку під назвою Start надається без щомісячної плати за обслуговування.",
-     "Вигідний відсоток банк нараховує лише за перші три місяці, тоді як минула акція тривала пів року. Після цього строку нарахування автоматично перейде на ставку Odměna, яка зараз становить 3 відсотки річних.",
-     "На своєму офіційному сайті банк спочатку вказував, що після трьох місяців відсоток впаде до стандартного рівня для конкретного тарифного плану. Для безкоштовного рахунку Start він становить лише 1 відсоток, для платного рахунку Standard 1,5 відсотка, а для рахунків Komfort або Exclusive 2,5 відсотка за ліміту до 200 тисяч крон. За преміального обслуговування стандартна ставка тримається на рівні 3,5 відсотка для суми до мільйона.",
-     "У відповідь на запит видання Peníze.cz банк підтвердив, що на практиці діють правила з офіційного огляду процентних ставок. «Після закінчення тримісячного періоду клієнту автоматично активується ставка Odměna на строк 12 місяців, тобто актуально 3 відсотки. Ліміт для пільгового нарахування відсотків при цьому залишається мільйон крон», пояснила Клара Вомочилова з пресслужби KB.",
-     "Інші чеські банки також можуть змінювати відсотки за ощадними рахунками будь-коли, якщо вони не давали гарантій збереження ставки до конкретної дати. Останніми місяцями дохідність вкладів зростає, і на тлі ринкових тенденцій експерти очікують подальшого зростання або принаймні стабільності. Крок Komerční banka, яка скорочує строк підвищеної ставки до трьох місяців, іде врозріз із загальним напрямом ринку. Для повторного отримання бонусного відсотка клієнту потрібно переказати на рахунок ще сто тисяч крон."
-    ],
-    "faq": [
-     {
-      "q": "Яку ставку пропонує Komerční banka за ощадним рахунком?",
-      "a": "Банк пропонує 4,2 відсотка річних для вкладів до мільйона крон строком на три місяці."
-     },
-     {
-      "q": "Що потрібно зробити для отримання бонусного відсотка?",
-      "a": "Необхідно переказати на рахунок щонайменше 100 тисяч крон з іншого банку однією операцією та активувати бонус у застосунку KB+."
-     },
-     {
-      "q": "Що станеться через три місяці після відкриття рахунку?",
-      "a": "Ставка автоматично знизиться до рівня Odměna, який наразі становить 3 відсотки річних строком на один рік."
-     }
-    ],
-    "impact": "Клиенты Komerční banka со вкладами до миллиона крон могут получить ставку 4,2% годовых при переводе от 100 тысяч крон из другого банка и активации в приложении KB+, но повышенный процент будет начисляться только три месяца.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Komerční banka підвищила ставку за вкладами до 4,2 відсотка, але вона діятиме лише три місяці.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Щоб отримати бонусну ставку, потрібно переказати на ощадний рахунок щонайменше 100 тисяч крон з іншого банку.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Нові клієнти, які відкриють розрахунковий рахунок одночасно з вкладом, отримають бонус автоматично.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Після трьох місяців ставка автоматично перейде на Odměna, яка становить 3 відсотки річних.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Odměna",
-       "definition": "Ставка, яка діє після закінчення тримісячного періоду підвищеної ставки, становить 3 відсотки річних.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Що перевірити перед відкриттям вкладу",
-      "items": [
-       {
-        "text": "Переконайтеся, що ви можете переказати 100 тисяч крон з іншого банку.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Активуйте бонус у мобільному застосунку KB+.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Перевірте умови для нових клієнтів, які відкривають рахунок.",
-        "target": {
-         "block": 3,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Зверніть увагу на зміну ставки після трьох місяців.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Досліджуйте інші банки для порівняння процентних ставок.",
-        "target": {
-         "block": 7,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "eaad6d07385e72e00864512ead8e06a43563423e62b407b1f645bad302f86bde"
-    }
-   },
-   "rank": 31.5,
-   "image_url": "https://img.24n.cz/p/2026/11/komercni-banka-podniala-stavku-po-vkladam-do-4-2-protsenta-09594bf6fb5b060e.webp",
-   "image_w": 1200,
-   "image_h": 660
   }
  ],
  "stories": [
