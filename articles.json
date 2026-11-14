@@ -1,8 +1,64 @@
 {
- "updated_at": "2026-11-14T07:38:37+00:00",
+ "updated_at": "2026-11-14T09:03:26+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8884",
+   "slug": "chekhiia-i-rynki-itogi-nedeli-9-12-noiabria-2026",
+   "source": "24n.cz",
+   "original_url": "https://24n.cz/eco-forecast/2026-11-14",
+   "top": false,
+   "tags": [
+    "ekonomika"
+   ],
+   "published_at": "2026-11-14T10:03:25.844644+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "14 ноября 2026, 10:03",
+    "uk": "14 листопада 2026, 10:03"
+   },
+   "ru": {
+    "title": "Чехия и рынки: итоги недели 9-12 ноября 2026",
+    "lede": "Пражский индекс почти не изменился, но за этим спокойствием скрывались обвал CSG на 26,09%, рост страховых и разнонаправленная динамика банков. Европейские рынки выросли, тогда как укрепление доллара и доходностей облигаций США ударило по золоту, криптовалютам и части технологического сектора.",
+    "meta_description": "Итоги 9-12 ноября: CSG −26,09%, крона, ставки, ипотека, цены на энергию и продукты, прогноз для Чехии и Европы.",
+    "paras": [
+     "<h3>Динамика за неделю</h3><div class=\"eco-charts\"><div class=\"eco-row\"><span class=\"eco-name\">Индекс PX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,14.5 51.5,3.0 100.0,21.6 148.5,33.0 197.0,17.8 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,14.5 51.5,3.0 100.0,21.6 148.5,33.0 197.0,17.8\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2 652</span><span class=\"eco-chg down\">▼0.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,29.5 100.0,25.2 148.5,16.8 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,29.5 100.0,25.2 148.5,16.8 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">24.4</span><span class=\"eco-chg up\">▲0.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">USD/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,24.1 51.5,33.0 100.0,25.6 148.5,14.9 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,24.1 51.5,33.0 100.0,25.6 148.5,14.9 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">22.12</span><span class=\"eco-chg up\">▲1.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ČEZ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,3.0 100.0,16.6 148.5,33.0 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,3.0 100.0,16.6 148.5,33.0 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 340</span><span class=\"eco-chg up\">▲0.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Kom. banka</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,15.2 100.0,26.3 148.5,33.0 197.0,16.3 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,15.2 100.0,26.3 148.5,33.0 197.0,16.3\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 005</span><span class=\"eco-chg down\">▼1.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">STOXX 50</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,22.7 100.0,4.5 148.5,3.0 197.0,6.4 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,22.7 100.0,4.5 148.5,3.0 197.0,6.4\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6 387</span><span class=\"eco-chg up\">▲1.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">DAX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,28.2 100.0,9.5 148.5,3.0 197.0,4.3 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,28.2 100.0,9.5 148.5,3.0 197.0,4.3\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">26 750</span><span class=\"eco-chg up\">▲1.8%</span></div><div class=\"eco-row\"><span class=\"eco-name\">S&amp;P 500</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,24.2 51.5,33.0 100.0,3.0 148.5,11.2 197.0,28.5 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,24.2 51.5,33.0 100.0,3.0 148.5,11.2 197.0,28.5\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">7 536</span><span class=\"eco-chg down\">▼0.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Nasdaq</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,18.4 51.5,31.9 100.0,3.0 148.5,10.2 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,18.4 51.5,31.9 100.0,3.0 148.5,10.2 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">25 050</span><span class=\"eco-chg down\">▼0.8%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Shanghai</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,27.0 67.7,23.5 132.3,3.0 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,27.0 67.7,23.5 132.3,3.0 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3 656</span><span class=\"eco-chg down\">▼0.1%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Hang Seng</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,8.9 67.7,3.0 132.3,16.2 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,8.9 67.7,3.0 132.3,16.2 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">24 009</span><span class=\"eco-chg down\">▼1.8%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,15.0 51.5,3.0 100.0,11.5 148.5,23.3 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,15.0 51.5,3.0 100.0,11.5 148.5,23.3 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1.103</span><span class=\"eco-chg down\">▼1.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Индекс DXY</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,22.8 100.0,10.9 148.5,6.3 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,22.8 100.0,10.9 148.5,6.3 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">103.4</span><span class=\"eco-chg up\">▲1.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">10Y US, %</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,19.7 100.0,18.1 148.5,6.3 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,19.7 100.0,18.1 148.5,6.3 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">5.133</span><span class=\"eco-chg up\">▲5.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Нефть Brent</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,25.5 51.5,33.0 100.0,24.2 148.5,3.0 197.0,3.3 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,25.5 51.5,33.0 100.0,24.2 148.5,3.0 197.0,3.3\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">95.77</span><span class=\"eco-chg up\">▲3.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Газ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,32.3 51.5,13.6 100.0,33.0 148.5,3.0 197.0,27.7 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,32.3 51.5,13.6 100.0,33.0 148.5,3.0 197.0,27.7\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3.237</span><span class=\"eco-chg up\">▲0.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Золото</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,14.0 100.0,17.9 148.5,33.0 197.0,32.9 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,14.0 100.0,17.9 148.5,33.0 197.0,32.9\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3 886</span><span class=\"eco-chg down\">▼5.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Медь</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,16.9 100.0,9.9 148.5,21.6 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,16.9 100.0,9.9 148.5,21.6 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6.093</span><span class=\"eco-chg down\">▼3.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Пшеница</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,25.6 51.5,16.3 100.0,3.0 148.5,33.0 197.0,14.3 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,25.6 51.5,16.3 100.0,3.0 148.5,33.0 197.0,14.3\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">593.8</span><span class=\"eco-chg up\">▲1.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">BTC/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 35.3,7.9 67.7,5.2 100.0,11.5 132.3,10.5 164.7,21.5 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 35.3,7.9 67.7,5.2 100.0,11.5 132.3,10.5 164.7,21.5 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">68 615</span><span class=\"eco-chg down\">▼9.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ETH/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 35.3,14.3 67.7,13.3 100.0,21.2 132.3,20.7 164.7,24.5 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 35.3,14.3 67.7,13.3 100.0,21.2 132.3,20.7 164.7,24.5 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 930</span><span class=\"eco-chg down\">▼13.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">VIX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,8.7 100.0,33.0 148.5,18.1 197.0,4.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,8.7 100.0,33.0 148.5,18.1 197.0,4.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">19.84</span><span class=\"eco-chg down\">▼0.4%</span></div></div><p class=\"eco-src\"><em>Источник данных: Yahoo Finance. Динамика показана за доступный период (до 2 недель).</em></p>",
+     "<h3>Итоги недели</h3><p>Неделя запомнилась контрастом между спокойным индексом и резкими движениями отдельных бумаг. <b class=\"k\">Индекс PX потерял всего 0,2%</b> и завершил период на отметке 2651.6001, хотя внутри недели поднимался до 2675.54 и опускался до 2627.0. Понедельник и вторник прошли под знаком роста банков, затем рынок три сессии снижался. Главным источником давления стала CSG: её акции подешевели с 330.0 до 243.9 кроны, то есть на <b class=\"k\">26,09%</b>. Причины такого обвала в опубликованных новостях не раскрыты, поэтому связывать его с конкретным событием было бы спекуляцией.</p><table><thead><tr><th>Чешский рынок</th><th>Значение</th><th>За неделю</th></tr></thead><tbody><tr><td>Индекс PX</td><td>2651.6001</td><td><span class=\"down\">−0,2%</span></td></tr><tr><td>CSG</td><td>243.9 CZK</td><td><span class=\"down\">−26,09%</span></td></tr><tr><td>Colt CZ Group</td><td>804.0 CZK</td><td><span class=\"down\">−3,6%</span></td></tr><tr><td>Vienna Insurance Group</td><td>1885.0 CZK</td><td><span class=\"up\">+6,14%</span></td></tr><tr><td>Erste Group</td><td>2833.0 CZK</td><td><span class=\"up\">+0,89%</span></td></tr><tr><td>Komerční banka</td><td>1005.0 CZK</td><td><span class=\"down\">−1,18%</span></td></tr><tr><td>Moneta Money Bank</td><td>186.6 CZK</td><td><span class=\"up\">+0,16%</span></td></tr><tr><td>ČEZ</td><td>1340.0 CZK</td><td>0,0%</td></tr></tbody></table><p>Падение CSG не стало общим крахом пражского рынка: Vienna Insurance Group прибавила 6,14%, Erste - 0,89%, Moneta - 0,16%, а ČEZ завершил неделю без изменений. Это важное различие для частного инвестора: индекс выглядел устойчиво, но концентрация в одной оборонной бумаге принесла бы ощутимый убыток. Colt CZ потеряла 3,6%, Doosan Škoda Power - 1,01%, тогда как Kofola осталась на 498.0 кроны.</p><p>Валютная картина была более заметной, чем динамика PX. Евро подорожал до <b class=\"k\">24.4004 кроны</b>, прибавив 0,36%, а доллар - до 22.1202, с ростом на 1,42%. Официальный фиксинг ČNB на 13.11.2026 составил 24.425 за евро и 22.101 за доллар. Для поездок по еврозоне изменение небольшое, но покупки и переводы в долларах для владельца крон заметно подорожали. Одновременно нефть Brent после падения ниже 92 долларов развернулась вверх и закрылась на 95.77.</p><details class=\"eco-table\"><summary>Котировки: Чехия</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Индекс PX (Прага)</td><td>2 652 CZK</td><td><span class=\"down\">−0.20%</span></td><td>—</td></tr><tr><td>EUR/CZK</td><td>24.4 CZK</td><td><span class=\"up\">+0.36%</span></td><td>—</td></tr><tr><td>USD/CZK</td><td>22.12 CZK</td><td><span class=\"up\">+1.42%</span></td><td>—</td></tr><tr><td>ČEZ (энергетика)</td><td>1 340 CZK</td><td><span class=\"up\">+0.00%</span></td><td>—</td></tr><tr><td>Erste Group (банк)</td><td>2 833 CZK</td><td><span class=\"up\">+0.89%</span></td><td>—</td></tr><tr><td>Komerční banka (банк)</td><td>1 005 CZK</td><td><span class=\"down\">−1.18%</span></td><td>—</td></tr><tr><td>Moneta Money Bank (банк)</td><td>186.6 CZK</td><td><span class=\"up\">+0.16%</span></td><td>—</td></tr><tr><td>Vienna Insurance Group (страхование)</td><td>1 885 CZK</td><td><span class=\"up\">+6.14%</span></td><td>—</td></tr><tr><td>CSG — Czechoslovak Group (оборона)</td><td>243.9 CZK</td><td><span class=\"down\">−26.09%</span></td><td>—</td></tr><tr><td>Colt CZ Group (оборона)</td><td>804.0 CZK</td><td><span class=\"down\">−3.60%</span></td><td>—</td></tr><tr><td>Doosan Škoda Power (машиностроение)</td><td>393.5 CZK</td><td><span class=\"down\">−1.01%</span></td><td>—</td></tr><tr><td>Philip Morris ČR (табак)</td><td>17 060 CZK</td><td><span class=\"down\">−0.35%</span></td><td>—</td></tr><tr><td>Kofola ČeskoSlovensko (напитки)</td><td>498.0 CZK</td><td><span class=\"up\">+0.00%</span></td><td>—</td></tr><tr><td>Tatry Mountain Resorts (туризм)</td><td>366.0 CZK</td><td><span class=\"down\">−1.08%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Европа</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>EURO STOXX 50</td><td>6 387 EUR</td><td><span class=\"up\">+1.53%</span></td><td>—</td></tr><tr><td>DAX (Германия)</td><td>26 750 EUR</td><td><span class=\"up\">+1.84%</span></td><td>—</td></tr><tr><td>CAC 40 (Франция)</td><td>8 369 EUR</td><td><span class=\"up\">+1.65%</span></td><td>—</td></tr><tr><td>STOXX Europe 600</td><td>664.1 EUR</td><td><span class=\"up\">+1.16%</span></td><td>—</td></tr><tr><td>FTSE 100 (Британия)</td><td>10 903 GBP</td><td><span class=\"up\">+1.11%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Валюты</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>EUR/USD</td><td>1.103 USD</td><td><span class=\"down\">−1.01%</span></td><td>—</td></tr><tr><td>USD/CNY</td><td>6.661 CNY</td><td><span class=\"down\">−0.22%</span></td><td>—</td></tr><tr><td>Индекс доллара DXY</td><td>103.4 USD</td><td><span class=\"up\">+1.68%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Энергоносители</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Нефть Brent, $/барр.</td><td>95.77 USD</td><td><span class=\"up\">+3.46%</span></td><td>—</td></tr><tr><td>Нефть WTI, $/барр.</td><td>88.53 USD</td><td><span class=\"up\">+1.93%</span></td><td>—</td></tr><tr><td>Газ Henry Hub, $</td><td>3.237 USD</td><td><span class=\"up\">+0.59%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Чехия</h3><p>Макроэкономические данные остаются сильнее, чем можно было бы предположить по биржевой нервозности. ВВП в третьем квартале вырос на <b class=\"k\">1,6% год к году</b>, промышленное производство в сентябре - на 6,2%, розничные продажи - на 4,2%. Безработица составила 2,8%, а инфляция HICP в сентябре - 2,2%. Индекс экономических настроений ESI равен 98.7 при норме 100: экономика не выглядит перегретой, но сочетание роста производства, торговли и занятости пока не указывает на резкий спад.</p><p>Ценовая картина неоднородна. Продовольствие в сентябре подешевело на 3,9% год к году, однако цены производителей выросли на 3,7%. Трёхмесячный PRIBOR в октябре составлял 3.91%, доходность десятилетних гособлигаций - 5.37%. Это означает, что финансовые условия остаются жёстче, чем хотелось бы заёмщикам, несмотря на умеренную инфляцию. Низкая безработица поддерживает доходы, но свежих данных о средней зарплате в материалах недели нет, поэтому точно оценить изменение реальной зарплаты нельзя.</p><p>Бюджетная тема стала одной из главных. Центр публичных финансов Карлова университета предложил пакет из 20 мер, включая повышение НДС и отмену части пенсий, чтобы сократить дефицит на <b class=\"k\">204 млрд крон к 2028 году</b>. Это предложения экспертов, а не принятые решения. Одновременно обсуждались секторальные налоги для банков, НПЗ и производителей оружия. Палата депутатов уже ввела 50-процентный налог на маржу НПЗ выше уровня 2025 года; фактически он затрагивает Orlen Unipetrol, а Минфин ожидает около 5,5 млрд крон поступлений за 2026 год.</p><p>Энергетика показала, почему биржевые и домашние счета нельзя смешивать. В понедельник оптовая электроэнергия подорожала почти вполовину на фоне одобрения правительством механизма регулирования цен, во вторник прибавила ещё 7,5%, а в среду подешевела почти на 17%. При этом клиенты с помесячной фиксацией в ноябре платили более <b class=\"k\">6000 крон за МВт·ч без НДС</b> - на две-три тысячи дороже обычных долгосрочных тарифов. Innogy дополнительно объявила повышение цен на газ и электричество с января для договоров без фиксации; ранее сообщалось и о трёхкратном подорожании газа с начала года.</p><details class=\"eco-table\"><summary>Котировки: Ставки и облигации</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Доходность 10-летних US Treasuries, %</td><td>5.133 USD</td><td><span class=\"up\">+5.53%</span></td><td>—</td></tr><tr><td>Доходность 30-летних US Treasuries, %</td><td>5.469 USD</td><td><span class=\"up\">+4.05%</span></td><td>—</td></tr><tr><td>Доходность 5-летних US Treasuries, %</td><td>4.96 USD</td><td><span class=\"up\">+6.46%</span></td><td>—</td></tr><tr><td>Длинные гособлигации США (TLT)</td><td>79.47 USD</td><td><span class=\"down\">−3.04%</span></td><td>—</td></tr><tr><td>Высокодоходные корп. облигации (HYG)</td><td>76.97 USD</td><td><span class=\"down\">−0.70%</span></td><td>—</td></tr><tr><td>Инвест. корп. облигации (LQD)</td><td>102.9 USD</td><td><span class=\"down\">−1.67%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Продовольствие</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Пшеница (хлеб)</td><td>593.8 USX</td><td><span class=\"up\">+0.98%</span></td><td>—</td></tr><tr><td>Кукуруза (корма)</td><td>446.8 USX</td><td><span class=\"up\">+1.71%</span></td><td>—</td></tr><tr><td>Соя (масло, корма)</td><td>1 233 USX</td><td><span class=\"up\">+4.27%</span></td><td>—</td></tr><tr><td>Кофе</td><td>273.4 USX</td><td><span class=\"down\">−0.07%</span></td><td>—</td></tr><tr><td>Сахар</td><td>18.42 USX</td><td><span class=\"up\">+1.15%</span></td><td>—</td></tr><tr><td>Какао</td><td>5 261 USD</td><td><span class=\"up\">+5.14%</span></td><td>—</td></tr><tr><td>Хлопок (одежда)</td><td>79.02 USX</td><td><span class=\"up\">+0.30%</span></td><td>—</td></tr><tr><td>Пиломатериалы (стройка)</td><td>517.5 USD</td><td><span class=\"up\">+1.17%</span></td><td>—</td></tr><tr><td>Рис</td><td>18.44 USD</td><td><span class=\"up\">+3.83%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Европа</h3><p>Европейские акции выглядели заметно увереннее пражских и американских. <b class=\"k\">DAX вырос на 1,84%</b>, CAC 40 - на 1,65%, EURO STOXX 50 - на 1,53%, STOXX Europe 600 - на 1,16%, британский FTSE 100 - на 1,11%. Рост был широким и проходил без резкого повышения индекса страха VIX. Это говорит о готовности инвесторов покупать европейский риск даже на фоне дорогого долларового финансирования.</p><table><thead><tr><th>Европейский индекс</th><th>Значение</th><th>За неделю</th></tr></thead><tbody><tr><td>EURO STOXX 50</td><td>6386.8599</td><td><span class=\"up\">+1,53%</span></td></tr><tr><td>DAX</td><td>26749.9492</td><td><span class=\"up\">+1,84%</span></td></tr><tr><td>CAC 40</td><td>8368.9102</td><td><span class=\"up\">+1,65%</span></td></tr><tr><td>STOXX Europe 600</td><td>664.14</td><td><span class=\"up\">+1,16%</span></td></tr><tr><td>FTSE 100</td><td>10902.5596</td><td><span class=\"up\">+1,11%</span></td></tr></tbody></table><p>Макрофон еврозоны слабее чешского: ВВП в третьем квартале вырос на 1,3%, розничные продажи в сентябре - лишь на 0,4%, а промышленность в августе снизилась на 1,1%. Инфляция HICP в октябре достигла <b class=\"k\">4,0%</b>, цены производителей в сентябре выросли на 11,1%, продовольствие - на 1,1%. Ставка денежного рынка составляла 2.63468%, доходность десятилетних облигаций - 4.07711%. Такое сочетание ограничивает пространство для быстрого смягчения финансовых условий.</p><p>Евро ослаб к доллару на 1,01%, до 1.1034, тогда как индекс доллара DXY прибавил 1,68%. Для европейских экспортёров слабый евро может поддерживать выручку, но импорт энергии и сырья становится дороже. Из корпоративных новостей выделялись оценка энергетического холдинга EPH Даниэла Кршетинского в 561 млрд крон после почти 40-процентного роста за год и получение его EP Group 69,3% акций Fnac Darty. В Брюсселе Мальта заблокировала новую директиву по налогам на табак и никотиновые изделия, которую поддержали 26 из 27 стран.</p><details class=\"eco-table\"><summary>Котировки: США</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>S&amp;P 500</td><td>7 536 USD</td><td><span class=\"down\">−0.19%</span></td><td>—</td></tr><tr><td>Nasdaq Composite</td><td>25 050 USD</td><td><span class=\"down\">−0.80%</span></td><td>—</td></tr><tr><td>Dow Jones</td><td>52 222 USD</td><td><span class=\"down\">−0.32%</span></td><td>—</td></tr><tr><td>Apple</td><td>357.9 USD</td><td><span class=\"up\">+2.05%</span></td><td>—</td></tr><tr><td>Microsoft</td><td>523.9 USD</td><td><span class=\"down\">−3.90%</span></td><td>—</td></tr><tr><td>Nvidia</td><td>161.2 USD</td><td><span class=\"down\">−9.75%</span></td><td>—</td></tr><tr><td>Russell 2000 — малый бизнес США (IWM)</td><td>276.5 USD</td><td><span class=\"down\">−2.13%</span></td><td>—</td></tr><tr><td>Финансовый сектор США (XLF)</td><td>58.495 USD</td><td><span class=\"up\">+0.87%</span></td><td>—</td></tr><tr><td>Энергетический сектор США (XLE)</td><td>64.515 USD</td><td><span class=\"up\">+4.16%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Риск-аппетит (волатильность)</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>VIX — индекс страха</td><td>19.84 USD</td><td><span class=\"down\">−0.40%</span></td><td>—</td></tr><tr><td>Золото ETF (GLD)</td><td>355.7 USD</td><td><span class=\"down\">−6.28%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Мир: США и Китай</h3><p>Американский рынок завершил неделю умеренным снижением: S&P 500 потерял 0,19%, Dow Jones - 0,32%, Nasdaq - 0,8%. Внутри технологического сектора различия были резкими: Apple выросла на 2,05%, Microsoft упала на 3,9%, Nvidia - на <b class=\"k\">9,75%</b>. Сообщения о прогнозе Culper Research относительно проблем Nvidia и привлечении Oracle около 20 млрд долларов для гонки ИИ совпали по времени с распродажей, но не доказывают единственную причину. Энергетический сектор XLE прибавил 4,16%, финансовый XLF - 0,87%.</p><p>Главным мировым трендом стало подорожание заёмных денег. Доходность десятилетних Treasuries выросла с 4.864% до <b class=\"k\">5.133%</b>, пятилетних - до 4.96%, тридцатилетних - до 5.469%. Цены длинных облигаций TLT упали на 3,04%, инвестиционных корпоративных LQD - на 1,67%. Это механическая обратная связь: при росте доходности старые облигации дешевеют. Для компаний и домохозяйств такой тренд означает более дорогие новые кредиты и рефинансирование.</p><p>Китайский CSI 300 снизился на 0,98%, Shanghai Composite - на 0,14%. Shenzhen Component прибавил 0,47%. Гонконгский Hang Seng потерял 1,8%, Alibaba - 10,82%, Tencent - 4,68%, интернет-фонд KWEB - 5,99%. Японский Nikkei, напротив, вырос на 3,48%. Доллар к юаню немного ослаб до 6.6611. Общей паники не было: VIX снизился на 0,4%, до 19.84. Но падение криптовалют и китайского интернет-сектора показывало избирательный отказ от риска.</p><details class=\"eco-table\"><summary>Котировки: Китай и Азия</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>CSI 300 (крупнейшие КНР)</td><td>4 016 CNY</td><td><span class=\"down\">−0.98%</span></td><td>—</td></tr><tr><td>Alibaba</td><td>93.98 USD</td><td><span class=\"down\">−10.82%</span></td><td>—</td></tr><tr><td>Китайский интернет-сектор (KWEB)</td><td>22.855 USD</td><td><span class=\"down\">−5.99%</span></td><td>—</td></tr><tr><td>Развивающиеся рынки (EEM)</td><td>60.535 USD</td><td><span class=\"down\">−0.81%</span></td><td>—</td></tr><tr><td>Shanghai Composite</td><td>3 656 CNY</td><td><span class=\"down\">−0.14%</span></td><td>—</td></tr><tr><td>Shenzhen Component</td><td>11 198 CNY</td><td><span class=\"up\">+0.47%</span></td><td>—</td></tr><tr><td>Hang Seng (Гонконг)</td><td>24 009 HKD</td><td><span class=\"down\">−1.80%</span></td><td>—</td></tr><tr><td>Nikkei 225 (Япония)</td><td>60 819 JPY</td><td><span class=\"up\">+3.48%</span></td><td>—</td></tr><tr><td>Tencent</td><td>398.8 HKD</td><td><span class=\"down\">−4.68%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котировки: Криптовалюты</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Bitcoin</td><td>68 615 USD</td><td><span class=\"down\">−9.42%</span></td><td>—</td></tr><tr><td>Ethereum</td><td>1 930 USD</td><td><span class=\"down\">−13.70%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Цены и жизнь</h3><p>Чешская продуктовая статистика пока благоприятна: минус 3,9% год к году в сентябре. Однако мировые котировки предупреждают о возможном изменении отдельных затрат. Свиньи подорожали на <b class=\"k\">11,23%</b>, КРС - на 4,27%, соя - на 4,27%, рис - на 3,83%, какао - на 5,14%. Пшеница прибавила 0,98%, кукуруза - 1,71%, сахар - 1,15%. Кофе почти не изменился: минус 0,07%. Немедленного повышения ценников это не означает, но создаёт риски для мяса, кормов, масла и шоколада.</p><table><thead><tr><th>Сырьё и энергия</th><th>Значение</th><th>За неделю</th></tr></thead><tbody><tr><td>Нефть Brent</td><td>95.77 USD</td><td><span class=\"up\">+3,46%</span></td></tr><tr><td>Нефть WTI</td><td>88.53 USD</td><td><span class=\"up\">+1,93%</span></td></tr><tr><td>Пшеница</td><td>593.75 USX</td><td><span class=\"up\">+0,98%</span></td></tr><tr><td>Какао</td><td>5261.0 USD</td><td><span class=\"up\">+5,14%</span></td></tr><tr><td>Свиньи</td><td>62.15 USX</td><td><span class=\"up\">+11,23%</span></td></tr><tr><td>Кофе</td><td>273.4 USX</td><td><span class=\"down\">−0,07%</span></td></tr></tbody></table><p>Внутри Чехии дополнительным фактором стала засуха: сено подорожало в десять раз, а фермеры сообщали о дефиците кормов. Правительство утвердило 3,95 млрд крон поддержки сельского хозяйства и пищевой промышленности на следующий год. Пока это скорее риск будущих издержек, чем доказанный разворот общей продовольственной инфляции. Для семейного бюджета разумно отделять временные акции от устойчивого удешевления. И сравнивать цены за килограмм.</p><p>Автомобильные расходы могут ощутить разворот нефти: Brent выросла на 3,46%. А ослабление кроны к доллару делает импорт топлива менее выгодным. Конкретных розничных цен бензина и дизеля в данных нет, поэтому говорить о немедленном повышении на заправках преждевременно. Средняя цена подержанного автомобиля достигла <b class=\"k\">322 тысяч крон</b>. Водителям также следует учитывать планы автоматического контроля виньеток камерами и перевод переоформления автомобилей в онлайн.</p><p>Жильё остаётся главным структурным бременем. За десять лет соотношение цен на недвижимость и доходов выросло на 25,8%. Во втором квартале жильё подорожало на 8,6% год к году. В сентябре квартиры в Усти-над-Лабем прибавили 16,5%, в Праге 7,3%. Среднему пражскому пенсионеру на аренду квартиры 65 м² с коммунальными услугами не хватает 9346 крон в месяц. Застройщики на ближайшие пять лет планируют больше одно- и двухкомнатных квартир. Ориентир у них на инвесторов и одночленные домохозяйства.</p><p>Из обязательных платежей владельцам недвижимости нужно внести вторую часть налога до 30 ноября. В Праге годовой проездной весной подорожает с 3650 до <b class=\"k\">4750 крон</b>. В будущем стоимость хотят привязать к инфляции. Приятным исключением стало снижение цен IKEA на 815 товаров в среднем на 21,7%. Перед распродажами стоит сохранять скепсис: покупки планируют 73% чехов, но в реальность скидок верят лишь 36%.</p><details class=\"eco-table\"><summary>Котировки: Мясо</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>КРС (говядина)</td><td>225.4 USX</td><td><span class=\"up\">+4.27%</span></td><td>—</td></tr><tr><td>Свиньи (свинина)</td><td>62.15 USX</td><td><span class=\"up\">+11.23%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Финансы, кредиты, ипотека и крипта</h3><p>На рынке вкладов появился заметный стимул не держать свободные деньги на беспроцентном счёте. Creditas с 11 ноября повысила ставку по сберегательному счёту Top с 4,25% до <b class=\"k\">4,6% годовых</b> на суммы до 500 тысяч крон. При сентябрьской инфляции 2,2% такая ставка выглядит привлекательно. Но сравнивать предложения нужно с учётом ограничений по сумме, сроку и условиям снятия. Partners Banka получит от владельцев 3,27 млрд крон на расширение кредитного портфеля и зарубежную экспансию.</p><p>Ипотечная ситуация неоднозначна. Несмотря на повышение ключевой ставки ČNB, в банковском секторе, по сообщениям недели, сложились условия для снижения ипотечных ставок. Это возможность, а не гарантия: PRIBOR равен 3.91%, а десятилетние гособлигации дают 5.37%. Дешевле кредиты могут стать не у всех банков и не для всех заёмщиков. При приближении рефиксации важно запрашивать несколько предложений и считать полную стоимость, включая комиссии и страхование.</p><p>Заёмщикам напомнили о правах: пункты небанковских договоров, запрещающие обращаться к финансовому арбитру или в суд, ничтожны. Работникам пригодится другое напоминание. Первые 14 дней болезни компенсирует работодатель, с 15-го дня выплаты переходят к государству. После сбоя Microsoft, затронувшего министерства и пражский аэропорт, при простое по условиям публикации работникам полагалось 80% зарплаты. Иностранцы уже составляют 22% рынка труда. Представитель кадрового агентства оспорил утверждение, что они автоматически сбивают зарплаты чехам.</p><table><thead><tr><th>Сбережения и рисковые активы</th><th>Значение</th><th>За неделю</th></tr></thead><tbody><tr><td>Bitcoin</td><td>68615.0078 USD</td><td><span class=\"down\">−9,42%</span></td></tr><tr><td>Ethereum</td><td>1929.9 USD</td><td><span class=\"down\">−13,7%</span></td></tr><tr><td>Золото</td><td>3885.7 USD/унция</td><td><span class=\"down\">−5,56%</span></td></tr><tr><td>Серебро</td><td>49.065 USD/унция</td><td><span class=\"down\">−6,66%</span></td></tr><tr><td>Медь</td><td>6.0935 USD</td><td><span class=\"down\">−3,71%</span></td></tr></tbody></table><p>Криптовалюты подтвердили роль барометра риска: Bitcoin потерял 9,42%, Ethereum - <b class=\"k\">13,7%</b>. Одновременно золото подешевело на 5,56%, серебро - на 6,66%, медь - на 3,71%. Укрепление доллара и рост реальной привлекательности доходных облигаций совпали по времени с распродажей металлов и крипты. Рост акций VIG на 6,14% сам по себе ничего не говорит о будущих страховых премиях: котировки отражают ожидания инвесторов, а не автоматическое изменение полисов.</p><details class=\"eco-table\"><summary>Котировки: Металлы</summary><table><thead><tr><th>Инструмент</th><th>Значение</th><th>За день</th><th>За 3 дня</th></tr></thead><tbody><tr><td>Золото, $/унция</td><td>3 886 USD</td><td><span class=\"down\">−5.56%</span></td><td>—</td></tr><tr><td>Серебро, $/унция</td><td>49.065 USD</td><td><span class=\"down\">−6.66%</span></td><td>—</td></tr><tr><td>Медь, $ (спрос/стройка)</td><td>6.093 USD</td><td><span class=\"down\">−3.71%</span></td><td>—</td></tr><tr><td>Платина, $</td><td>1 492 USD</td><td><span class=\"down\">−4.44%</span></td><td>—</td></tr><tr><td>Палладий, $ (автопром)</td><td>1 008 USD</td><td><span class=\"down\">−1.07%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Данные: Yahoo Finance, по последнему закрытию.</em></p>",
+     "<h3>Динамика недели: что изменилось</h3><p>Главный разворот произошёл на пражском рынке. Банковский подъём начала недели не перерос в общий устойчивый тренд: Erste сохранила плюс, но Komerční banka потеряла 1,18%, а обвал CSG перекрыл поддержку остальных бумаг. При этом рост VIG на 6,14% выглядит самостоятельным сильным движением. Итоговый минус PX на 0,2% скрывает высокую внутреннюю волатильность и усиливает значение диверсификации.</p><p>Нефть продемонстрировала противоположную траекторию: за три ранние сессии Brent теряла 6,7% и опускалась ниже 92 долларов, но завершила неделю ростом на 3,46%. Поэтому дешёвая нефть начала периода оказалась не новым трендом, а временным провалом. Скачки оптовой электроэнергии также были разовыми по скорости, но не по последствиям: дорогие помесячные договоры и январское повышение innogy означают, что давление на коммунальный бюджет сохранится.</p><p>Наиболее устойчивым мировым движением стало укрепление доллара и рост доходностей. DXY повышался последовательно, десятилетняя доходность США прошла путь от 4.864% до 5.133%, а крона к доллару ослабла на 1,42%. Именно эта линия связала снижение облигаций, золота, криптовалют и давление на Nasdaq. Европейские индексы пока двигались против этого фона, что делает их дальнейшую устойчивость особенно важной.</p><p>В товарах видны два разных процесса. Металлы падали широко и синхронно. А рост мяса, сои, риса и какао затрагивал отдельные продовольственные цепочки. Для Чехии это значит, что общее годовое удешевление продуктов может сохраняться ещё какое-то время. Но отдельные категории способны дорожать уже из-за кормов, засухи и мировых котировок.</p>",
+     "<h3>Прогноз на следующую неделю</h3><p>Базовый сценарий предполагает относительно спокойный PX при продолжающейся высокой волатильности отдельных бумаг. Если продажи CSG прекратятся, банки и страховой сектор смогут стабилизировать индекс. Если давление на оборонные акции сохранится, восстановление будет слабым. Крона к евро, вероятно, останется менее чувствительной, чем к доллару. Главным ориентиром для USD/CZK останутся индекс DXY и доходность десятилетних Treasuries около 5.133%.</p><p>Для Европы базовым остаётся сценарий умеренно позитивных торгов, но без гарантии продолжения прошлого роста. Если доходности США перестанут повышаться, европейские индексы получат пространство для консолидации достигнутых плюсов. Если же DXY и ставки продолжат расти, давление усилится на золото, криптовалюту, длинные облигации и технологические компании. Альтернативный сценарий быстрого отскока рисковых активов возможен при заметном снижении доходностей и ослаблении доллара.</p><p>В Чехии стоит следить за деталями бюджетных и налоговых предложений, дальнейшими условиями поставщиков энергии, котировками CSG, нефтью и курсом кроны. Для продуктовой инфляции важны цены кормов и последствия засухи. Для жилья важны реальные ипотечные предложения банков, а не только решения ČNB. Отдельный риск: экспертные идеи о НДС и пенсиях могут превратиться в официальные законопроекты. Пока этого не произошло.</p><ul><li>Сравнить текущий энергетический договор с фиксированными предложениями: помесячная цена выше 6000 крон за МВт·ч без НДС требует особенно внимательного расчёта.</li><li>При ближайшей рефиксации ипотеки запросить несколько банковских предложений и сравнить полную стоимость кредита, а не только рекламную ставку.</li><li>Проверить процент по свободным сбережениям и лимиты: ставка Creditas 4,6% действует на суммы до 500 тысяч крон.</li><li>Заложить в ноябрьский бюджет вторую часть налога на недвижимость до 30 ноября, а пражским пассажирам - будущее подорожание проездного до 4750 крон.</li><li>Не гнаться за резким отскоком CSG, криптовалют или золота; покупки в долларах и переводы планировать с учётом ослабления кроны, а скидки Black Friday сверять с прежними ценами.</li></ul><p>Материал носит информационный характер и не является инвестиционной рекомендацией.</p>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "uk": {
+    "title": "Чехія та ринки: підсумки тижня 9-12 листопада 2026",
+    "lede": "Празький індекс майже не змінився, але за цим спокоєм ховалися обвал CSG на 26,09%, зростання страхових і різноспрямована динаміка банків. Європейські ринки зросли, тоді як зміцнення долара та доходностей облігацій США вдарило по золоту, криптовалютах і частині технологічного сектора.",
+    "meta_description": "Підсумки 9-12 листопада: CSG −26,09%, крона, ставки, іпотека, ціни на енергію та продукти, прогноз для Чехії та Європи.",
+    "paras": [
+     "<h3>Динаміка за тиждень</h3><div class=\"eco-charts\"><div class=\"eco-row\"><span class=\"eco-name\">Индекс PX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,14.5 51.5,3.0 100.0,21.6 148.5,33.0 197.0,17.8 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,14.5 51.5,3.0 100.0,21.6 148.5,33.0 197.0,17.8\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">2 652</span><span class=\"eco-chg down\">▼0.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,29.5 100.0,25.2 148.5,16.8 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,29.5 100.0,25.2 148.5,16.8 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">24.4</span><span class=\"eco-chg up\">▲0.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">USD/CZK</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,24.1 51.5,33.0 100.0,25.6 148.5,14.9 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,24.1 51.5,33.0 100.0,25.6 148.5,14.9 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">22.12</span><span class=\"eco-chg up\">▲1.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ČEZ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,3.0 100.0,16.6 148.5,33.0 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,3.0 100.0,16.6 148.5,33.0 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 340</span><span class=\"eco-chg up\">▲0.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Kom. banka</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,15.2 100.0,26.3 148.5,33.0 197.0,16.3 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,15.2 100.0,26.3 148.5,33.0 197.0,16.3\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 005</span><span class=\"eco-chg down\">▼1.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">STOXX 50</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,22.7 100.0,4.5 148.5,3.0 197.0,6.4 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,22.7 100.0,4.5 148.5,3.0 197.0,6.4\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6 387</span><span class=\"eco-chg up\">▲1.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">DAX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,28.2 100.0,9.5 148.5,3.0 197.0,4.3 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,28.2 100.0,9.5 148.5,3.0 197.0,4.3\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">26 750</span><span class=\"eco-chg up\">▲1.8%</span></div><div class=\"eco-row\"><span class=\"eco-name\">S&amp;P 500</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,24.2 51.5,33.0 100.0,3.0 148.5,11.2 197.0,28.5 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,24.2 51.5,33.0 100.0,3.0 148.5,11.2 197.0,28.5\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">7 536</span><span class=\"eco-chg down\">▼0.2%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Nasdaq</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,18.4 51.5,31.9 100.0,3.0 148.5,10.2 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,18.4 51.5,31.9 100.0,3.0 148.5,10.2 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">25 050</span><span class=\"eco-chg down\">▼0.8%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Shanghai</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,27.0 67.7,23.5 132.3,3.0 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,27.0 67.7,23.5 132.3,3.0 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3 656</span><span class=\"eco-chg down\">▼0.1%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Hang Seng</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,8.9 67.7,3.0 132.3,16.2 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,8.9 67.7,3.0 132.3,16.2 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">24 009</span><span class=\"eco-chg down\">▼1.8%</span></div><div class=\"eco-row\"><span class=\"eco-name\">EUR/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,15.0 51.5,3.0 100.0,11.5 148.5,23.3 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,15.0 51.5,3.0 100.0,11.5 148.5,23.3 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1.103</span><span class=\"eco-chg down\">▼1.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Индекс DXY</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,22.8 100.0,10.9 148.5,6.3 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,22.8 100.0,10.9 148.5,6.3 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">103.4</span><span class=\"eco-chg up\">▲1.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">10Y US, %</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,33.0 51.5,19.7 100.0,18.1 148.5,6.3 197.0,3.0 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,33.0 51.5,19.7 100.0,18.1 148.5,6.3 197.0,3.0\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">5.133</span><span class=\"eco-chg up\">▲5.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Нефть Brent</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,25.5 51.5,33.0 100.0,24.2 148.5,3.0 197.0,3.3 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,25.5 51.5,33.0 100.0,24.2 148.5,3.0 197.0,3.3\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">95.77</span><span class=\"eco-chg up\">▲3.5%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Газ</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,32.3 51.5,13.6 100.0,33.0 148.5,3.0 197.0,27.7 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,32.3 51.5,13.6 100.0,33.0 148.5,3.0 197.0,27.7\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3.237</span><span class=\"eco-chg up\">▲0.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Золото</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,14.0 100.0,17.9 148.5,33.0 197.0,32.9 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,14.0 100.0,17.9 148.5,33.0 197.0,32.9\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">3 886</span><span class=\"eco-chg down\">▼5.6%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Медь</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,16.9 100.0,9.9 148.5,21.6 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,16.9 100.0,9.9 148.5,21.6 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">6.093</span><span class=\"eco-chg down\">▼3.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">Пшеница</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,25.6 51.5,16.3 100.0,3.0 148.5,33.0 197.0,14.3 197,33\" fill=\"#16a34a\" opacity=\"0.10\"/><polyline points=\"3.0,25.6 51.5,16.3 100.0,3.0 148.5,33.0 197.0,14.3\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">593.8</span><span class=\"eco-chg up\">▲1.0%</span></div><div class=\"eco-row\"><span class=\"eco-name\">BTC/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 35.3,7.9 67.7,5.2 100.0,11.5 132.3,10.5 164.7,21.5 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 35.3,7.9 67.7,5.2 100.0,11.5 132.3,10.5 164.7,21.5 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">68 615</span><span class=\"eco-chg down\">▼9.4%</span></div><div class=\"eco-row\"><span class=\"eco-name\">ETH/USD</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 35.3,14.3 67.7,13.3 100.0,21.2 132.3,20.7 164.7,24.5 197.0,33.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 35.3,14.3 67.7,13.3 100.0,21.2 132.3,20.7 164.7,24.5 197.0,33.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">1 930</span><span class=\"eco-chg down\">▼13.7%</span></div><div class=\"eco-row\"><span class=\"eco-name\">VIX</span><svg class=\"eco-spark\" viewBox=\"0 0 200 36\" width=\"100%\" height=\"36\" preserveAspectRatio=\"none\" role=\"img\" aria-hidden=\"true\" focusable=\"false\"><polygon points=\"3,33 3.0,3.0 51.5,8.7 100.0,33.0 148.5,18.1 197.0,4.0 197,33\" fill=\"#dc2626\" opacity=\"0.10\"/><polyline points=\"3.0,3.0 51.5,8.7 100.0,33.0 148.5,18.1 197.0,4.0\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg><span class=\"eco-last\">19.84</span><span class=\"eco-chg down\">▼0.4%</span></div></div><p class=\"eco-src\"><em>Источник данных: Yahoo Finance. Динамика показана за доступный период (до 2 недель).</em></p>",
+     "<h3>Підсумки тижня</h3><p>Тиждень запам'ятався контрастом між спокійним індексом і різкими рухами окремих паперів. <b class=\"k\">Індекс PX втратив лише 0,2%</b> і завершив період на позначці 2651.6001, хоча всередині тижня піднімався до 2675.54 і опускався до 2627.0. Понеділок і вівторок пройшли під знаком зростання банків, потім ринок три сесії знижувався. Головним джерелом тиску стала CSG: її акції подешевшали з 330.0 до 243.9 крони, тобто на <b class=\"k\">26,09%</b>. Причини такого обвалу в опублікованих новинах не розкрито, тому пов'язувати його з конкретною подією було б спекуляцією.</p><table><thead><tr><th>Чеський ринок</th><th>Значення</th><th>За тиждень</th></tr></thead><tbody><tr><td>Індекс PX</td><td>2651.6001</td><td><span class=\"down\">−0,2%</span></td></tr><tr><td>CSG</td><td>243.9 CZK</td><td><span class=\"down\">−26,09%</span></td></tr><tr><td>Colt CZ Group</td><td>804.0 CZK</td><td><span class=\"down\">−3,6%</span></td></tr><tr><td>Vienna Insurance Group</td><td>1885.0 CZK</td><td><span class=\"up\">+6,14%</span></td></tr><tr><td>Erste Group</td><td>2833.0 CZK</td><td><span class=\"up\">+0,89%</span></td></tr><tr><td>Komerční banka</td><td>1005.0 CZK</td><td><span class=\"down\">−1,18%</span></td></tr><tr><td>Moneta Money Bank</td><td>186.6 CZK</td><td><span class=\"up\">+0,16%</span></td></tr><tr><td>ČEZ</td><td>1340.0 CZK</td><td>0,0%</td></tr></tbody></table><p>Падіння CSG не стало загальним крахом празького ринку: Vienna Insurance Group додала 6,14%, Erste - 0,89%, Moneta - 0,16%, а ČEZ завершив тиждень без змін. Це важлива відмінність для приватного інвестора: індекс виглядав стійко, але концентрація в одному оборонному папері принесла б відчутний збиток. Colt CZ втратила 3,6%, Doosan Škoda Power - 1,01%, тоді як Kofola залишилася на 498.0 крони.</p><p>Валютна картина була помітнішою, ніж динаміка PX. Євро подорожчало до <b class=\"k\">24.4004 крони</b>, додавши 0,36%, а долар - до 22.1202, зі зростанням на 1,42%. Офіційний фіксинг ČNB на 13.11.2026 становив 24.425 за євро і 22.101 за долар. Для поїздок єврозоною зміна невелика, але покупки та перекази в доларах для власника крон помітно подорожчали. Водночас нафта Brent після падіння нижче 92 доларів розвернулася вгору і закрилася на 95.77.</p><details class=\"eco-table\"><summary>Котирування: Чехія</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Индекс PX (Прага)</td><td>2 652 CZK</td><td><span class=\"down\">−0.20%</span></td><td>—</td></tr><tr><td>EUR/CZK</td><td>24.4 CZK</td><td><span class=\"up\">+0.36%</span></td><td>—</td></tr><tr><td>USD/CZK</td><td>22.12 CZK</td><td><span class=\"up\">+1.42%</span></td><td>—</td></tr><tr><td>ČEZ (энергетика)</td><td>1 340 CZK</td><td><span class=\"up\">+0.00%</span></td><td>—</td></tr><tr><td>Erste Group (банк)</td><td>2 833 CZK</td><td><span class=\"up\">+0.89%</span></td><td>—</td></tr><tr><td>Komerční banka (банк)</td><td>1 005 CZK</td><td><span class=\"down\">−1.18%</span></td><td>—</td></tr><tr><td>Moneta Money Bank (банк)</td><td>186.6 CZK</td><td><span class=\"up\">+0.16%</span></td><td>—</td></tr><tr><td>Vienna Insurance Group (страхование)</td><td>1 885 CZK</td><td><span class=\"up\">+6.14%</span></td><td>—</td></tr><tr><td>CSG — Czechoslovak Group (оборона)</td><td>243.9 CZK</td><td><span class=\"down\">−26.09%</span></td><td>—</td></tr><tr><td>Colt CZ Group (оборона)</td><td>804.0 CZK</td><td><span class=\"down\">−3.60%</span></td><td>—</td></tr><tr><td>Doosan Škoda Power (машиностроение)</td><td>393.5 CZK</td><td><span class=\"down\">−1.01%</span></td><td>—</td></tr><tr><td>Philip Morris ČR (табак)</td><td>17 060 CZK</td><td><span class=\"down\">−0.35%</span></td><td>—</td></tr><tr><td>Kofola ČeskoSlovensko (напитки)</td><td>498.0 CZK</td><td><span class=\"up\">+0.00%</span></td><td>—</td></tr><tr><td>Tatry Mountain Resorts (туризм)</td><td>366.0 CZK</td><td><span class=\"down\">−1.08%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Європа</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>EURO STOXX 50</td><td>6 387 EUR</td><td><span class=\"up\">+1.53%</span></td><td>—</td></tr><tr><td>DAX (Германия)</td><td>26 750 EUR</td><td><span class=\"up\">+1.84%</span></td><td>—</td></tr><tr><td>CAC 40 (Франция)</td><td>8 369 EUR</td><td><span class=\"up\">+1.65%</span></td><td>—</td></tr><tr><td>STOXX Europe 600</td><td>664.1 EUR</td><td><span class=\"up\">+1.16%</span></td><td>—</td></tr><tr><td>FTSE 100 (Британия)</td><td>10 903 GBP</td><td><span class=\"up\">+1.11%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Валюти</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>EUR/USD</td><td>1.103 USD</td><td><span class=\"down\">−1.01%</span></td><td>—</td></tr><tr><td>USD/CNY</td><td>6.661 CNY</td><td><span class=\"down\">−0.22%</span></td><td>—</td></tr><tr><td>Индекс доллара DXY</td><td>103.4 USD</td><td><span class=\"up\">+1.68%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Енергоносії</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Нефть Brent, $/барр.</td><td>95.77 USD</td><td><span class=\"up\">+3.46%</span></td><td>—</td></tr><tr><td>Нефть WTI, $/барр.</td><td>88.53 USD</td><td><span class=\"up\">+1.93%</span></td><td>—</td></tr><tr><td>Газ Henry Hub, $</td><td>3.237 USD</td><td><span class=\"up\">+0.59%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Чехія</h3><p>Макроекономічні дані залишаються сильнішими, ніж можна було б припустити з біржової нервозності. ВВП у третьому кварталі зріс на <b class=\"k\">1,6% рік до року</b>, промислове виробництво у вересні - на 6,2%, роздрібні продажі - на 4,2%. Безробіття становило 2,8%, а інфляція HICP у вересні - 2,2%. Індекс економічних настроїв ESI дорівнює 98.7 при нормі 100: економіка не виглядає перегрітою, але поєднання зростання виробництва, торгівлі та зайнятості поки не вказує на різкий спад.</p><p>Цінова картина неоднорідна. Продовольство у вересні подешевшало на 3,9% рік до року, однак ціни виробників зросли на 3,7%. Тримісячний PRIBOR у жовтні становив 3.91%, доходність десятирічних держоблігацій - 5.37%. Це означає, що фінансові умови залишаються жорсткішими, ніж хотілося б позичальникам, попри помірну інфляцію. Низьке безробіття підтримує доходи, але свіжих даних про середню зарплату в матеріалах тижня немає, тому точно оцінити зміну реальної зарплати не можна.</p><p>Бюджетна тема стала однією з головних. Центр публічних фінансів Карлового університету запропонував пакет із 20 заходів, включно з підвищенням ПДВ і скасуванням частини пенсій, щоб скоротити дефіцит на <b class=\"k\">204 млрд крон до 2028 року</b>. Це пропозиції експертів, а не ухвалені рішення. Водночас обговорювалися секторальні податки для банків, НПЗ і виробників зброї. Палата депутатів уже запровадила 50-відсотковий податок на маржу НПЗ вище рівня 2025 року; фактично він зачіпає Orlen Unipetrol, а Мінфін очікує близько 5,5 млрд крон надходжень за 2026 рік.</p><p>Енергетика показала, чому біржові та домашні рахунки не можна змішувати. У понеділок оптова електроенергія подорожчала майже вдвічі на тлі схвалення урядом механізму регулювання цін, у вівторок додала ще 7,5%, а в середу подешевшала майже на 17%. При цьому клієнти з помісячною фіксацією в листопаді платили понад <b class=\"k\">6000 крон за МВт·год без ПДВ</b> - на дві-три тисячі дорожче за звичайні довгострокові тарифи. Innogy додатково оголосила підвищення цін на газ і електрику з січня для договорів без фіксації; раніше повідомлялося і про триразове подорожчання газу з початку року.</p><details class=\"eco-table\"><summary>Котирування: Ставки й облігації</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Доходность 10-летних US Treasuries, %</td><td>5.133 USD</td><td><span class=\"up\">+5.53%</span></td><td>—</td></tr><tr><td>Доходность 30-летних US Treasuries, %</td><td>5.469 USD</td><td><span class=\"up\">+4.05%</span></td><td>—</td></tr><tr><td>Доходность 5-летних US Treasuries, %</td><td>4.96 USD</td><td><span class=\"up\">+6.46%</span></td><td>—</td></tr><tr><td>Длинные гособлигации США (TLT)</td><td>79.47 USD</td><td><span class=\"down\">−3.04%</span></td><td>—</td></tr><tr><td>Высокодоходные корп. облигации (HYG)</td><td>76.97 USD</td><td><span class=\"down\">−0.70%</span></td><td>—</td></tr><tr><td>Инвест. корп. облигации (LQD)</td><td>102.9 USD</td><td><span class=\"down\">−1.67%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Продовольство</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Пшеница (хлеб)</td><td>593.8 USX</td><td><span class=\"up\">+0.98%</span></td><td>—</td></tr><tr><td>Кукуруза (корма)</td><td>446.8 USX</td><td><span class=\"up\">+1.71%</span></td><td>—</td></tr><tr><td>Соя (масло, корма)</td><td>1 233 USX</td><td><span class=\"up\">+4.27%</span></td><td>—</td></tr><tr><td>Кофе</td><td>273.4 USX</td><td><span class=\"down\">−0.07%</span></td><td>—</td></tr><tr><td>Сахар</td><td>18.42 USX</td><td><span class=\"up\">+1.15%</span></td><td>—</td></tr><tr><td>Какао</td><td>5 261 USD</td><td><span class=\"up\">+5.14%</span></td><td>—</td></tr><tr><td>Хлопок (одежда)</td><td>79.02 USX</td><td><span class=\"up\">+0.30%</span></td><td>—</td></tr><tr><td>Пиломатериалы (стройка)</td><td>517.5 USD</td><td><span class=\"up\">+1.17%</span></td><td>—</td></tr><tr><td>Рис</td><td>18.44 USD</td><td><span class=\"up\">+3.83%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Європа</h3><p>Європейські акції виглядали помітно впевненіше за празькі та американські. <b class=\"k\">DAX зріс на 1,84%</b>, CAC 40 - на 1,65%, EURO STOXX 50 - на 1,53%, STOXX Europe 600 - на 1,16%, британський FTSE 100 - на 1,11%. Зростання було широким і проходило без різкого підвищення індексу страху VIX. Це говорить про готовність інвесторів купувати європейський ризик навіть на тлі дорогого доларового фінансування.</p><table><thead><tr><th>Європейський індекс</th><th>Значення</th><th>За тиждень</th></tr></thead><tbody><tr><td>EURO STOXX 50</td><td>6386.8599</td><td><span class=\"up\">+1,53%</span></td></tr><tr><td>DAX</td><td>26749.9492</td><td><span class=\"up\">+1,84%</span></td></tr><tr><td>CAC 40</td><td>8368.9102</td><td><span class=\"up\">+1,65%</span></td></tr><tr><td>STOXX Europe 600</td><td>664.14</td><td><span class=\"up\">+1,16%</span></td></tr><tr><td>FTSE 100</td><td>10902.5596</td><td><span class=\"up\">+1,11%</span></td></tr></tbody></table><p>Макрофон єврозони слабший за чеський: ВВП у третьому кварталі зріс на 1,3%, роздрібні продажі у вересні - лише на 0,4%, а промисловість у серпні знизилася на 1,1%. Інфляція HICP у жовтні досягла <b class=\"k\">4,0%</b>, ціни виробників у вересні зросли на 11,1%, продовольство - на 1,1%. Ставка грошового ринку становила 2.63468%, доходність десятирічних облігацій - 4.07711%. Таке поєднання обмежує простір для швидкого пом'якшення фінансових умов.</p><p>Євро ослабло до долара на 1,01%, до 1.1034, тоді як індекс долара DXY додав 1,68%. Для європейських експортерів слабке євро може підтримувати виручку, але імпорт енергії та сировини стає дорожчим. З корпоративних новин вирізнялися оцінка енергетичного холдингу EPH Даніела Кршетинського в 561 млрд крон після майже 40-відсоткового зростання за рік і отримання його EP Group 69,3% акцій Fnac Darty. У Брюсселі Мальта заблокувала нову директиву щодо податків на тютюн і нікотинові вироби, яку підтримали 26 із 27 країн.</p><details class=\"eco-table\"><summary>Котирування: США</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>S&amp;P 500</td><td>7 536 USD</td><td><span class=\"down\">−0.19%</span></td><td>—</td></tr><tr><td>Nasdaq Composite</td><td>25 050 USD</td><td><span class=\"down\">−0.80%</span></td><td>—</td></tr><tr><td>Dow Jones</td><td>52 222 USD</td><td><span class=\"down\">−0.32%</span></td><td>—</td></tr><tr><td>Apple</td><td>357.9 USD</td><td><span class=\"up\">+2.05%</span></td><td>—</td></tr><tr><td>Microsoft</td><td>523.9 USD</td><td><span class=\"down\">−3.90%</span></td><td>—</td></tr><tr><td>Nvidia</td><td>161.2 USD</td><td><span class=\"down\">−9.75%</span></td><td>—</td></tr><tr><td>Russell 2000 — малый бизнес США (IWM)</td><td>276.5 USD</td><td><span class=\"down\">−2.13%</span></td><td>—</td></tr><tr><td>Финансовый сектор США (XLF)</td><td>58.495 USD</td><td><span class=\"up\">+0.87%</span></td><td>—</td></tr><tr><td>Энергетический сектор США (XLE)</td><td>64.515 USD</td><td><span class=\"up\">+4.16%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Ризик-апетит (волатильність)</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>VIX — индекс страха</td><td>19.84 USD</td><td><span class=\"down\">−0.40%</span></td><td>—</td></tr><tr><td>Золото ETF (GLD)</td><td>355.7 USD</td><td><span class=\"down\">−6.28%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Світ: США і Китай</h3><p>Американський ринок завершив тиждень помірним зниженням: S&P 500 втратив 0,19%, Dow Jones - 0,32%, Nasdaq - 0,8%. Усередині технологічного сектора відмінності були різкими: Apple зросла на 2,05%, Microsoft впала на 3,9%, Nvidia - на <b class=\"k\">9,75%</b>. Повідомлення про прогноз Culper Research щодо проблем Nvidia і залучення Oracle близько 20 млрд доларів для гонки ШІ збіглися в часі з розпродажем, але не доводять єдину причину. Енергетичний сектор XLE додав 4,16%, фінансовий XLF - 0,87%.</p><p>Головним світовим трендом стало подорожчання позикових грошей. Доходність десятирічних Treasuries зросла з 4.864% до <b class=\"k\">5.133%</b>, п'ятирічних - до 4.96%, тридцятирічних - до 5.469%. Ціни довгих облігацій TLT впали на 3,04%, інвестиційних корпоративних LQD - на 1,67%. Це механічний зворотний зв'язок: при зростанні доходності старі облігації дешевшають. Для компаній і домогосподарств такий тренд означає дорожчі нові кредити та рефінансування.</p><p>Китайський CSI 300 знизився на 0,98%, Shanghai Composite - на 0,14%. Shenzhen Component додав 0,47%. Гонконгський Hang Seng втратив 1,8%, Alibaba - 10,82%, Tencent - 4,68%, інтернет-фонд KWEB - 5,99%. Японський Nikkei, навпаки, зріс на 3,48%. Долар до юаня трохи ослаб до 6.6611. Загальної паніки не було: VIX знизився на 0,4%, до 19.84. Але падіння криптовалют і китайського інтернет-сектора показувало вибіркову відмову від ризику.</p><details class=\"eco-table\"><summary>Котирування: Китай і Азія</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>CSI 300 (крупнейшие КНР)</td><td>4 016 CNY</td><td><span class=\"down\">−0.98%</span></td><td>—</td></tr><tr><td>Alibaba</td><td>93.98 USD</td><td><span class=\"down\">−10.82%</span></td><td>—</td></tr><tr><td>Китайский интернет-сектор (KWEB)</td><td>22.855 USD</td><td><span class=\"down\">−5.99%</span></td><td>—</td></tr><tr><td>Развивающиеся рынки (EEM)</td><td>60.535 USD</td><td><span class=\"down\">−0.81%</span></td><td>—</td></tr><tr><td>Shanghai Composite</td><td>3 656 CNY</td><td><span class=\"down\">−0.14%</span></td><td>—</td></tr><tr><td>Shenzhen Component</td><td>11 198 CNY</td><td><span class=\"up\">+0.47%</span></td><td>—</td></tr><tr><td>Hang Seng (Гонконг)</td><td>24 009 HKD</td><td><span class=\"down\">−1.80%</span></td><td>—</td></tr><tr><td>Nikkei 225 (Япония)</td><td>60 819 JPY</td><td><span class=\"up\">+3.48%</span></td><td>—</td></tr><tr><td>Tencent</td><td>398.8 HKD</td><td><span class=\"down\">−4.68%</span></td><td>—</td></tr></tbody></table></details><details class=\"eco-table\"><summary>Котирування: Криптовалюти</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Bitcoin</td><td>68 615 USD</td><td><span class=\"down\">−9.42%</span></td><td>—</td></tr><tr><td>Ethereum</td><td>1 930 USD</td><td><span class=\"down\">−13.70%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Ціни та життя</h3><p>Чеська продуктова статистика поки сприятлива: мінус 3,9% рік до року у вересні. Однак світові котирування попереджають про можливу зміну окремих витрат. Свині подорожчали на <b class=\"k\">11,23%</b>, ВРХ - на 4,27%, соя - на 4,27%, рис - на 3,83%, какао - на 5,14%. Пшениця додала 0,98%, кукурудза - 1,71%, цукор - 1,15%. Кава майже не змінилася: мінус 0,07%. Негайного підвищення цінників це не означає, але створює ризики для м'яса, кормів, олії та шоколаду.</p><table><thead><tr><th>Сировина та енергія</th><th>Значення</th><th>За тиждень</th></tr></thead><tbody><tr><td>Нафта Brent</td><td>95.77 USD</td><td><span class=\"up\">+3,46%</span></td></tr><tr><td>Нафта WTI</td><td>88.53 USD</td><td><span class=\"up\">+1,93%</span></td></tr><tr><td>Пшениця</td><td>593.75 USX</td><td><span class=\"up\">+0,98%</span></td></tr><tr><td>Какао</td><td>5261.0 USD</td><td><span class=\"up\">+5,14%</span></td></tr><tr><td>Свині</td><td>62.15 USX</td><td><span class=\"up\">+11,23%</span></td></tr><tr><td>Кава</td><td>273.4 USX</td><td><span class=\"down\">−0,07%</span></td></tr></tbody></table><p>Усередині Чехії додатковим фактором стала посуха: сіно подорожчало в десять разів, а фермери повідомляли про дефіцит кормів. Уряд затвердив 3,95 млрд крон підтримки сільського господарства і харчової промисловості на наступний рік. Поки це радше ризик майбутніх витрат, ніж доведений розворот загальної продовольчої інфляції. Для сімейного бюджету розумно відокремлювати тимчасові акції від стійкого здешевлення. І порівнювати ціни за кілограм.</p><p>Автомобільні витрати можуть відчути розворот нафти: Brent зросла на 3,46%. А ослаблення крони до долара робить імпорт пального менш вигідним. Конкретних роздрібних цін бензину й дизеля в даних немає, тому говорити про негайне підвищення на заправках передчасно. Середня ціна вживаного автомобіля досягла <b class=\"k\">322 тисяч крон</b>. Водіям також слід враховувати плани автоматичного контролю віньєток камерами і переведення переоформлення автомобілів в онлайн.</p><p>Житло залишається головним структурним тягарем. За десять років співвідношення цін на нерухомість і доходів зросло на 25,8%. У другому кварталі житло подорожчало на 8,6% рік до року. У вересні квартири в Усті-над-Лабем додали 16,5%, у Празі 7,3%. Середньому празькому пенсіонеру на оренду квартири 65 м² з комунальними послугами не вистачає 9346 крон на місяць. Забудовники на найближчі п'ять років планують більше одно- і двокімнатних квартир. Орієнтир у них на інвесторів і одноосібні домогосподарства.</p><p>З обов'язкових платежів власникам нерухомості потрібно внести другу частину податку до 30 листопада. У Празі річний проїзний навесні подорожчає з 3650 до <b class=\"k\">4750 крон</b>. У майбутньому вартість хочуть прив'язати до інфляції. Приємним винятком стало зниження цін IKEA на 815 товарів у середньому на 21,7%. Перед розпродажами варто зберігати скепсис: покупки планують 73% чехів, але в реальність знижок вірять лише 36%.</p><details class=\"eco-table\"><summary>Котирування: М'ясо</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>КРС (говядина)</td><td>225.4 USX</td><td><span class=\"up\">+4.27%</span></td><td>—</td></tr><tr><td>Свиньи (свинина)</td><td>62.15 USX</td><td><span class=\"up\">+11.23%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Фінанси, кредити, іпотека і крипта</h3><p>На ринку вкладів з'явився помітний стимул не тримати вільні гроші на безвідсотковому рахунку. Creditas з 11 листопада підвищила ставку за ощадним рахунком Top з 4,25% до <b class=\"k\">4,6% річних</b> на суми до 500 тисяч крон. При вересневій інфляції 2,2% така ставка виглядає привабливо. Але порівнювати пропозиції потрібно з урахуванням обмежень за сумою, строком і умовами зняття. Partners Banka отримає від власників 3,27 млрд крон на розширення кредитного портфеля і зарубіжну експансію.</p><p>Іпотечна ситуація неоднозначна. Попри підвищення ключової ставки ČNB, у банківському секторі, за повідомленнями тижня, склалися умови для зниження іпотечних ставок. Це можливість, а не гарантія: PRIBOR дорівнює 3.91%, а десятирічні держоблігації дають 5.37%. Дешевшими кредити можуть стати не в усіх банках і не для всіх позичальників. При наближенні рефіксації важливо запитувати кілька пропозицій і рахувати повну вартість, включно з комісіями та страхуванням.</p><p>Позичальникам нагадали про права: пункти небанківських договорів, що забороняють звертатися до фінансового арбітра або до суду, нікчемні. Працівникам стане в пригоді інше нагадування. Перші 14 днів хвороби компенсує роботодавець, з 15-го дня виплати переходять до держави. Після збою Microsoft, що зачепив міністерства і празький аеропорт, при простої за умовами публікації працівникам належало 80% зарплати. Іноземці вже становлять 22% ринку праці. Представник кадрового агентства оспорив твердження, що вони автоматично збивають зарплати чехам.</p><table><thead><tr><th>Заощадження та ризикові активи</th><th>Значення</th><th>За тиждень</th></tr></thead><tbody><tr><td>Bitcoin</td><td>68615.0078 USD</td><td><span class=\"down\">−9,42%</span></td></tr><tr><td>Ethereum</td><td>1929.9 USD</td><td><span class=\"down\">−13,7%</span></td></tr><tr><td>Золото</td><td>3885.7 USD/унція</td><td><span class=\"down\">−5,56%</span></td></tr><tr><td>Срібло</td><td>49.065 USD/унція</td><td><span class=\"down\">−6,66%</span></td></tr><tr><td>Мідь</td><td>6.0935 USD</td><td><span class=\"down\">−3,71%</span></td></tr></tbody></table><p>Криптовалюти підтвердили роль барометра ризику: Bitcoin втратив 9,42%, Ethereum - <b class=\"k\">13,7%</b>. Водночас золото подешевшало на 5,56%, срібло - на 6,66%, мідь - на 3,71%. Зміцнення долара і зростання реальної привабливості доходних облігацій збіглися в часі з розпродажем металів і крипти. Зростання акцій VIG на 6,14% саме по собі нічого не говорить про майбутні страхові премії: котирування відображають очікування інвесторів, а не автоматичну зміну полісів.</p><details class=\"eco-table\"><summary>Котирування: Метали</summary><table><thead><tr><th>Інструмент</th><th>Значення</th><th>За день</th><th>За 3 дні</th></tr></thead><tbody><tr><td>Золото, $/унция</td><td>3 886 USD</td><td><span class=\"down\">−5.56%</span></td><td>—</td></tr><tr><td>Серебро, $/унция</td><td>49.065 USD</td><td><span class=\"down\">−6.66%</span></td><td>—</td></tr><tr><td>Медь, $ (спрос/стройка)</td><td>6.093 USD</td><td><span class=\"down\">−3.71%</span></td><td>—</td></tr><tr><td>Платина, $</td><td>1 492 USD</td><td><span class=\"down\">−4.44%</span></td><td>—</td></tr><tr><td>Палладий, $ (автопром)</td><td>1 008 USD</td><td><span class=\"down\">−1.07%</span></td><td>—</td></tr></tbody></table></details><p class=\"eco-src\"><em>Дані: Yahoo Finance, за останнім закриттям.</em></p>",
+     "<h3>Динаміка тижня: що змінилося</h3><p>Головний розворот стався на празькому ринку. Банківське піднесення початку тижня не переросло в загальний стійкий тренд: Erste зберегла плюс, але Komerční banka втратила 1,18%, а обвал CSG перекрив підтримку решти паперів. При цьому зростання VIG на 6,14% виглядає самостійним сильним рухом. Підсумковий мінус PX на 0,2% приховує високу внутрішню волатильність і підсилює значення диверсифікації.</p><p>Нафта продемонструвала протилежну траєкторію: за три ранні сесії Brent втрачала 6,7% і опускалася нижче 92 доларів, але завершила тиждень зростанням на 3,46%. Тому дешева нафта початку періоду виявилася не новим трендом, а тимчасовим провалом. Стрибки оптової електроенергії також були разовими за швидкістю, але не за наслідками: дорогі помісячні договори і січневе підвищення innogy означають, що тиск на комунальний бюджет збережеться.</p><p>Найстійкішим світовим рухом стало зміцнення долара і зростання доходностей. DXY підвищувався послідовно, десятирічна доходність США пройшла шлях від 4.864% до 5.133%, а крона до долара ослабла на 1,42%. Саме ця лінія пов'язала зниження облігацій, золота, криптовалют і тиск на Nasdaq. Європейські індекси поки рухалися проти цього тла, що робить їхню подальшу стійкість особливо важливою.</p><p>У товарах видно два різні процеси. Метали падали широко і синхронно. А зростання м'яса, сої, рису і какао зачіпало окремі продовольчі ланцюги. Для Чехії це означає, що загальне річне здешевлення продуктів може зберігатися ще якийсь час. Але окремі категорії здатні дорожчати вже через корми, посуху і світові котирування.</p>",
+     "<h3>Прогноз на наступний тиждень</h3><p>Базовий сценарій передбачає відносно спокійний PX при тривалій високій волатильності окремих паперів. Якщо продажі CSG припиняться, банки і страховий сектор зможуть стабілізувати індекс. Якщо тиск на оборонні акції збережеться, відновлення буде слабким. Крона до євро, ймовірно, залишиться менш чутливою, ніж до долара. Головним орієнтиром для USD/CZK залишаться індекс DXY і доходність десятирічних Treasuries близько 5.133%.</p><p>Для Європи базовим залишається сценарій помірно позитивних торгів, але без гарантії продовження минулого зростання. Якщо доходності США перестануть підвищуватися, європейські індекси отримають простір для консолідації досягнутих плюсів. Якщо ж DXY і ставки продовжать зростати, тиск посилиться на золото, криптовалюту, довгі облігації і технологічні компанії. Альтернативний сценарій швидкого відскоку ризикових активів можливий при помітному зниженні доходностей і ослабленні долара.</p><p>У Чехії варто стежити за деталями бюджетних і податкових пропозицій, подальшими умовами постачальників енергії, котируваннями CSG, нафтою і курсом крони. Для продуктової інфляції важливі ціни кормів і наслідки посухи. Для житла важливі реальні іпотечні пропозиції банків, а не лише рішення ČNB. Окремий ризик: експертні ідеї про ПДВ і пенсії можуть перетворитися на офіційні законопроєкти. Поки цього не сталося.</p><ul><li>Порівняти поточний енергетичний договір із фіксованими пропозиціями: помісячна ціна понад 6000 крон за МВт·год без ПДВ вимагає особливо уважного розрахунку.</li><li>При найближчій рефіксації іпотеки запросити кілька банківських пропозицій і порівняти повну вартість кредиту, а не лише рекламну ставку.</li><li>Перевірити відсоток за вільними заощадженнями і ліміти: ставка Creditas 4,6% діє на суми до 500 тисяч крон.</li><li>Закласти в листопадовий бюджет другу частину податку на нерухомість до 30 листопада, а празьким пасажирам - майбутнє подорожчання проїзного до 4750 крон.</li><li>Не гнатися за різким відскоком CSG, криптовалют або золота; покупки в доларах і перекази планувати з урахуванням ослаблення крони, а знижки Black Friday звіряти з попередніми цінами.</li></ul><p>Матеріал має інформаційний характер і не є інвестиційною рекомендацією.</p>"
+    ],
+    "faq": [],
+    "impact": ""
+   },
+   "rank": 80.0
+  },
   {
    "id": "n8883",
    "slug": "na-namesti-iirzhigo-zom-podebradom-ustanoviat-346-pamiatnikov",
@@ -16,8 +72,8 @@
    ],
    "published_at": "2026-11-14T08:38:36.322568+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "14 ноября 2026, 08:38",
@@ -280,8 +336,8 @@
    ],
    "published_at": "2026-11-14T08:38:36.322568+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "14 ноября 2026, 08:38",
@@ -613,8 +669,8 @@
    ],
    "published_at": "2026-11-14T08:38:36.322568+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "14 ноября 2026, 08:38",
@@ -924,8 +980,8 @@
    ],
    "published_at": "2026-11-14T06:30:48.525855+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "14 ноября 2026, 06:30",
@@ -1279,7 +1335,7 @@
      ]
     }
    },
-   "rank": 122.0,
+   "rank": 121.042,
    "story": [
     {
      "slug": "bilety-na-voskresnye-poezda-i-avtobusy-v-pragu-raskupleny",
@@ -1318,8 +1374,8 @@
    ],
    "published_at": "2026-11-14T05:21:30.354828+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "14 ноября 2026, 05:21",
@@ -1597,7 +1653,7 @@
      "also": []
     }
    },
-   "rank": 111.539,
+   "rank": 109.252,
    "story": [
     {
      "slug": "mamograf-i-ai-smertnost-ot-raka-grudi-padaet-na-tret",
@@ -1633,8 +1689,8 @@
    ],
    "published_at": "2026-11-14T04:21:27.880390+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "14 ноября 2026, 04:21",
@@ -2028,7 +2084,7 @@
      ]
     }
    },
-   "rank": 117.771,
+   "rank": 115.321,
    "thread": {
     "slug": "zimnie-katki-i-lgoty-v-prage",
     "title": {
@@ -2102,8 +2158,8 @@
    ],
    "published_at": "2026-11-14T02:08:21.698667+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "14 ноября 2026, 02:08",
@@ -2438,7 +2494,7 @@
      ]
     }
    },
-   "rank": 84.495,
+   "rank": 82.678,
    "story": [
     {
      "slug": "kniha-brno-2026-raskryvaet-polnuiu-programmu-i-zvezdnykh-gostei",
@@ -2480,8 +2536,8 @@
    ],
    "published_at": "2026-11-14T02:08:21.698667+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "14 ноября 2026, 02:08",
@@ -2700,7 +2756,7 @@
      ]
     }
    },
-   "rank": 101.584,
+   "rank": 99.399,
    "sources": [
     {
      "domain": "press.news",
@@ -2768,8 +2824,8 @@
    ],
    "published_at": "2026-11-14T01:05:14.703848+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "14 ноября 2026, 01:05",
@@ -2939,7 +2995,7 @@
      "body_sha256": "52b1f03c8eb061d77e8d5d8c83e53f359e57d8f9f0c5aa202f8ffd78743cd08d"
     }
    },
-   "rank": 88.748,
+   "rank": 86.808,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskaia-kompaniia-alvao-dovela-oborot-do-115-mln-kron-bf596d0cc8886b47.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/cheshskaia-kompaniia-alvao-dovela-oborot-do-115-mln-kron-47f858b33368eaf8.webp"
@@ -2971,8 +3027,8 @@
    ],
    "published_at": "2026-11-14T01:05:14.703848+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "14 ноября 2026, 01:05",
@@ -3231,8 +3287,8 @@
    ],
    "published_at": "2026-11-14T01:05:14.703848+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "14 ноября 2026, 01:05",
@@ -3438,7 +3494,7 @@
      "also": []
     }
    },
-   "rank": 98.09,
+   "rank": 95.946,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -3494,8 +3550,8 @@
    ],
    "published_at": "2026-11-13T23:58:45.947034+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 23:58",
@@ -3759,7 +3815,7 @@
      "body_sha256": "270dd0bcffbeeb4c4363ae64ed869fcb7273d71bc2b20ff15a8e6c42013c0cf0"
     }
    },
-   "rank": 81.718,
+   "rank": 79.901,
    "sources": [
     {
      "domain": "media24.cz",
@@ -3793,8 +3849,8 @@
    ],
    "published_at": "2026-11-13T23:27:44.314616+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 23:27",
@@ -4072,7 +4128,7 @@
      ]
     }
    },
-   "rank": 104.732,
+   "rank": 102.384,
    "thread": {
     "slug": "globalnyi-sboi-servisov-microsoft",
     "title": {
@@ -4116,8 +4172,8 @@
    ],
    "published_at": "2026-11-13T21:18:03.679554+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 21:18",
@@ -4423,7 +4479,7 @@
      ]
     }
    },
-   "rank": 70.36,
+   "rank": 68.726,
    "thread": {
     "slug": "urozhai-v-chekhii-upal-iz-za-zasukhi",
     "title": {
@@ -4499,8 +4555,8 @@
    ],
    "published_at": "2026-11-13T21:01:21.008141+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 21:01",
@@ -4558,7 +4614,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 73.54
+   "rank": 71.824
   },
   {
    "id": "n8868",
@@ -4573,8 +4629,8 @@
    ],
    "published_at": "2026-11-13T20:42:35.827740+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 20:42",
@@ -4856,7 +4912,7 @@
      ]
     }
    },
-   "rank": 101.902,
+   "rank": 99.513,
    "sources": [
     {
      "domain": "collector.com.tr",
@@ -4883,8 +4939,8 @@
    ],
    "published_at": "2026-11-13T20:09:33.320469+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 20:09",
@@ -5106,7 +5162,7 @@
      "body_sha256": "18a39788292e35bad6fb8d13562281f770d0272ad296fc049d40aec9e29b24f4"
     }
    },
-   "rank": 84.143,
+   "rank": 82.152,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -5150,8 +5206,8 @@
    ],
    "published_at": "2026-11-13T19:36:28.916178+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 19:36",
@@ -5393,7 +5449,7 @@
      ]
     }
    },
-   "rank": 97.475,
+   "rank": 95.147,
    "sources": [
     {
      "domain": "prvnizpravy.cz",
@@ -5443,8 +5499,8 @@
    ],
    "published_at": "2026-11-13T19:08:35.060122+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 19:08",
@@ -5694,7 +5750,7 @@
      ]
     }
    },
-   "rank": 42.416,
+   "rank": 41.395,
    "thread": {
     "slug": "dom-ronalda-makdonalda-i-pizhamnyi-poezd-v-prage",
     "title": {
@@ -5738,8 +5794,8 @@
    ],
    "published_at": "2026-11-13T19:08:35.060122+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 19:08",
@@ -6139,7 +6195,7 @@
      ]
     }
    },
-   "rank": 84.832,
+   "rank": 82.791,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -6226,8 +6282,8 @@
    ],
    "published_at": "2026-11-13T18:35:24.796398+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 18:35",
@@ -6443,7 +6499,7 @@
      ]
     }
    },
-   "rank": 63.025,
+   "rank": 61.494,
    "sources": [
     {
      "domain": "vhu.cz",
@@ -6498,8 +6554,8 @@
    ],
    "published_at": "2026-11-13T18:35:24.796398+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 18:35",
@@ -6857,7 +6913,7 @@
      ]
     }
    },
-   "rank": 73.109,
+   "rank": 71.333,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -6951,8 +7007,8 @@
    ],
    "published_at": "2026-11-13T17:59:21.807824+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:59",
@@ -7177,7 +7233,7 @@
      ]
     }
    },
-   "rank": 114.769,
+   "rank": 111.951,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -7217,8 +7273,8 @@
    ],
    "published_at": "2026-11-13T17:27:58.635121+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:27",
@@ -7448,7 +7504,7 @@
      "body_sha256": "090cb41eea0f563ecc426d69ba699b0fe8cdca7351cf01226e142ce511209d8d"
     }
    },
-   "rank": 84.059,
+   "rank": 81.976,
    "sources": [
     {
      "domain": "energozrouti.cz",
@@ -7491,8 +7547,8 @@
    ],
    "published_at": "2026-11-13T17:02:38.542448+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:02",
@@ -7708,7 +7764,7 @@
      ]
     }
    },
-   "rank": 92.026,
+   "rank": 89.728,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -7744,8 +7800,8 @@
    ],
    "published_at": "2026-11-13T17:02:38.542448+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:02",
@@ -7965,7 +8021,7 @@
      ]
     }
    },
-   "rank": 73.62,
+   "rank": 71.783,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -8052,8 +8108,8 @@
    ],
    "published_at": "2026-11-13T17:02:38.542448+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:02",
@@ -8272,7 +8328,7 @@
      ]
     }
    },
-   "rank": 62.986,
+   "rank": 61.414,
    "sources": [
     {
      "domain": "totalfilm.cz",
@@ -8338,8 +8394,8 @@
    ],
    "published_at": "2026-11-13T17:02:38.542448+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:02",
@@ -8653,7 +8709,7 @@
      ]
     }
    },
-   "rank": 96.525,
+   "rank": 94.115,
    "thread": {
     "slug": "zasukha-i-obmelenie-vodokhranilishch-iuzhnoi-chekhii",
     "title": {
@@ -8723,8 +8779,8 @@
    ],
    "published_at": "2026-11-13T14:45:38.158123+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 14:45",
@@ -8926,7 +8982,7 @@
      "body_sha256": "1e475780da2867dfdd08e6821b4b69d3e74a1a0cb2b4c0bdd15d1cf910fa6207"
     }
    },
-   "rank": 76.147,
+   "rank": 74.167,
    "sources": [
     {
      "domain": "chaoszine.net",
@@ -8953,8 +9009,8 @@
    ],
    "published_at": "2026-11-13T13:39:54.443633+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 13:39",
@@ -9202,7 +9258,7 @@
      ]
     }
    },
-   "rank": 76.92,
+   "rank": 74.878,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-ostanetsia-v-ogp-no-perestanet-platit-25-tysiach-do-ddc7a9b14eb4c280.webp",
    "image_w": 620,
    "image_h": 349
@@ -9219,8 +9275,8 @@
    ],
    "published_at": "2026-11-13T13:09:28.497179+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 13:09",
@@ -9548,7 +9604,7 @@
      ]
     }
    },
-   "rank": 76.187,
+   "rank": 74.145,
    "thread": {
     "slug": "el-nino-i-poliarnyi-vikhr",
     "title": {
@@ -9654,8 +9710,8 @@
    ],
    "published_at": "2026-11-13T13:09:28.497179+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 13:09",
@@ -9896,7 +9952,7 @@
      ]
     }
    },
-   "rank": 102.091,
+   "rank": 99.355,
    "story": [
     {
      "slug": "novaia-koalitsiia-v-prage-gotovit-rost-tsen-dlia-gorozhan",
@@ -9939,8 +9995,8 @@
    ],
    "published_at": "2026-11-13T13:09:28.497179+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "13 ноября 2026, 13:09",
@@ -10138,7 +10194,7 @@
      ]
     }
    },
-   "rank": 49.522,
+   "rank": 48.194,
    "image_url": "https://img.24n.cz/p/2026/11/v-prage-na-ulitse-gnevkovskego-prorvalo-trubu-diametrom-200-297f92ec693c1b92.webp",
    "image_w": 1366,
    "image_h": 910
@@ -10155,8 +10211,8 @@
    ],
    "published_at": "2026-11-13T12:12:26.864783+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "13 ноября 2026, 12:12",
@@ -10408,7 +10464,7 @@
      ]
     }
    },
-   "rank": 80.219,
+   "rank": 79.418,
    "sources": [
     {
      "domain": "movixbox.cz",
@@ -10447,8 +10503,8 @@
    ],
    "published_at": "2026-11-13T12:12:26.864783+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "13 ноября 2026, 12:12",
@@ -10634,7 +10690,7 @@
      ]
     }
    },
-   "rank": 74.814,
+   "rank": 72.772,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10672,8 +10728,8 @@
    ],
    "published_at": "2026-11-13T12:12:26.864783+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "13 ноября 2026, 12:12",
@@ -10885,7 +10941,7 @@
      "body_sha256": "d893f01216e324a81d97d118e6ee432391d74f79a3c79b8ceda47fa97683e1f8"
     }
    },
-   "rank": 53.866,
+   "rank": 52.396,
    "sources": [
     {
      "domain": "eurozpravy.cz",
@@ -10933,8 +10989,8 @@
    ],
    "published_at": "2026-11-13T12:12:26.864783+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "13 ноября 2026, 12:12",
@@ -11312,7 +11368,7 @@
      ]
     }
    },
-   "rank": 89.777,
+   "rank": 87.327,
    "thread": {
     "slug": "globalnyi-sboi-servisov-microsoft",
     "title": {
@@ -11369,8 +11425,8 @@
    ],
    "published_at": "2026-11-13T12:12:26.864783+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "13 ноября 2026, 12:12",
@@ -11558,7 +11614,7 @@
      ]
     }
    },
-   "rank": 93.518,
+   "rank": 90.966,
    "sources": [
     {
      "domain": "feedit.cz",
@@ -11595,8 +11651,8 @@
    ],
    "published_at": "2026-11-13T12:12:26.864783+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "13 ноября 2026, 12:12",
@@ -11880,7 +11936,7 @@
      ]
     }
    },
-   "rank": 74.814,
+   "rank": 72.772,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -11915,8 +11971,8 @@
    ],
    "published_at": "2026-11-13T11:03:48.935475+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "13 ноября 2026, 11:03",
@@ -12147,7 +12203,7 @@
      ]
     }
    },
-   "rank": 65.846,
+   "rank": 64.008,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -12185,8 +12241,8 @@
    ],
    "published_at": "2026-11-13T11:00:41.293611+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "13 ноября 2026, 11:00",
@@ -12260,7 +12316,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 58.469,
+   "rank": 56.836,
    "leisure": true
   },
   {
@@ -12275,8 +12331,8 @@
    ],
    "published_at": "2026-11-13T10:32:22.454747+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "13 ноября 2026, 10:32",
@@ -12544,7 +12600,7 @@
      ]
     }
    },
-   "rank": 90.466,
+   "rank": 89.552,
    "thread": {
     "slug": "konflikt-vokrug-rukovodstva-krkonoshskogo-parka",
     "title": {
@@ -12644,8 +12700,8 @@
    ],
    "published_at": "2026-11-13T10:32:22.454747+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "13 ноября 2026, 10:32",
@@ -12876,7 +12932,7 @@
      ]
     }
    },
-   "rank": 76.025,
+   "rank": 73.881,
    "image_url": "https://img.24n.cz/p/2026/11/investor-khristiian-lamartso-predskazal-padenie-aktsii-nvidi-e6965412e5a8c98c.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/investor-khristiian-lamartso-predskazal-padenie-aktsii-nvidi-8dcde5aa19ffc122.webp"
@@ -12910,8 +12966,8 @@
    ],
    "published_at": "2026-11-13T10:32:22.454747+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "13 ноября 2026, 10:32",
@@ -13239,7 +13295,7 @@
      ]
     }
    },
-   "rank": 86.886,
+   "rank": 84.436,
    "thread": {
     "slug": "spory-o-naloge-na-neftepererabotku-v-chekhii",
     "title": {
@@ -13348,8 +13404,8 @@
    ],
    "published_at": "2026-11-13T09:54:02.023824+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 09:54",
@@ -13636,7 +13692,7 @@
      ]
     }
    },
-   "rank": 77.916,
+   "rank": 75.69,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -13670,8 +13726,8 @@
    ],
    "published_at": "2026-11-13T09:24:33.654183+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 09:24",
@@ -13926,7 +13982,7 @@
      ]
     }
    },
-   "rank": 58.034,
+   "rank": 56.359,
    "story": [
     {
      "slug": "piataia-chast-chekhov-zhaleet-o-padenii-kommunizma-v-1989-godu",
@@ -13991,8 +14047,8 @@
    ],
    "published_at": "2026-11-13T08:55:58.629375+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 08:55",
@@ -14224,7 +14280,7 @@
      ]
     }
    },
-   "rank": 63.076,
+   "rank": 61.238,
    "sources": [
     {
      "domain": "svitavsky.denik.cz",
@@ -14279,8 +14335,8 @@
    ],
    "published_at": "2026-11-13T08:55:58.629375+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 08:55",
@@ -14406,7 +14462,7 @@
      "body_sha256": "9fc318ec4b19e150337ec3fb8e68d4ef8a883686b71776ca77c74d469dcc48c4"
     }
    },
-   "rank": 38.546,
+   "rank": 37.423,
    "image_url": "https://img.24n.cz/p/2026/11/studenty-iz-plzeni-sniali-novyi-animirovannyi-klip-dlia-tri-68c23a3ebe7eec17.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/studenty-iz-plzeni-sniali-novyi-animirovannyi-klip-dlia-tri-f093cb5f5bb311df.webp"
@@ -14443,8 +14499,8 @@
    ],
    "published_at": "2026-11-13T08:55:58.629375+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 08:55",
@@ -14629,7 +14685,7 @@
      ]
     }
    },
-   "rank": 66.58,
+   "rank": 64.64,
    "sources": [
     {
      "domain": "apnews.com",
@@ -14699,8 +14755,8 @@
    ],
    "published_at": "2026-11-13T08:55:58.629375+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 08:55",
@@ -14891,7 +14947,7 @@
      ]
     }
    },
-   "rank": 64.478,
+   "rank": 62.599,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -14991,8 +15047,8 @@
    ],
    "published_at": "2026-11-13T08:55:58.629375+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "13 ноября 2026, 08:55",
@@ -15320,7 +15376,7 @@
      ]
     }
    },
-   "rank": 77.093,
+   "rank": 74.847,
    "thread": {
     "slug": "snizhenie-vozrasta-ugolovnoi-otvetstvennosti-v-chekhii",
     "title": {
@@ -15581,7 +15637,7 @@
      "body_sha256": "9c81971f585339bcc5613a97a95cda93d622c0f856619316765fa575d81e9d84"
     }
    },
-   "rank": 62.336,
+   "rank": 60.498,
    "image_url": "https://img.24n.cz/p/2026/11/sudy-v-chekhii-redko-vyseliaiut-dolzhnikov-po-novomu-prikazu-3ecd3b6001fb002c.webp",
    "image_w": 620,
    "image_h": 349
@@ -15789,7 +15845,7 @@
      ]
     }
    },
-   "rank": 75.495,
+   "rank": 73.27,
    "sources": [
     {
      "domain": "prazska.drbna.cz",
@@ -16009,7 +16065,7 @@
      "body_sha256": "ebb0e5025f7e98b1dacafd9ac2c989788ad68daf1564157995cd1854db8ac8af"
     }
    },
-   "rank": 65.643,
+   "rank": 63.662,
    "sources": [
     {
      "domain": "e15.cz",
@@ -16343,7 +16399,7 @@
      "also": []
     }
    },
-   "rank": 72.41,
+   "rank": 70.225,
    "thread": {
     "slug": "spory-o-naloge-na-neftepererabotku-v-chekhii",
     "title": {
@@ -16741,7 +16797,7 @@
      ]
     }
    },
-   "rank": 90.75,
+   "rank": 89.807,
    "thread": {
     "slug": "spory-o-naloge-na-neftepererabotku-v-chekhii",
     "title": {
@@ -17046,7 +17102,7 @@
      ]
     }
    },
-   "rank": 60.262
+   "rank": 58.424
   },
   {
    "id": "n8826",
@@ -17296,7 +17352,7 @@
      ]
     }
    },
-   "rank": 70.305,
+   "rank": 68.161,
    "story": [
     {
      "slug": "evropu-nakroet-moshchnyi-shtorm-veter-do-113-km-ch-i-volny-v-shest-met",
@@ -17591,7 +17647,7 @@
      ]
     }
    },
-   "rank": 60.262,
+   "rank": 58.424,
    "video": {
     "kind": "iframe",
     "url": "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F4563061883838854%2F&show_text=false&width=267&t=0"
@@ -17973,7 +18029,7 @@
      ]
     }
    },
-   "rank": 65.312,
+   "rank": 63.27,
    "image_url": "https://img.24n.cz/p/2026/11/kreditory-v-chekhii-zapreshchaiut-zaemshchikam-idti-k-arbitr-7c22bf4e00f239c3.webp",
    "image_w": 1200,
    "image_h": 660
@@ -18352,7 +18408,7 @@
      ]
     }
    },
-   "rank": 52.849,
+   "rank": 51.174,
    "thread": {
     "slug": "zasukha-na-slapskom-vodokhranilishche",
     "title": {
@@ -18590,7 +18646,7 @@
      "body_sha256": "3cbc727dee1c23302f0bb7e812b2d6bc0178d6649a572208a3884867b772770f"
     }
    },
-   "rank": 64.63,
+   "rank": 62.506,
    "sources": [
     {
      "domain": "zoopraha.cz",
@@ -19033,7 +19089,7 @@
      ]
     }
    },
-   "rank": 66.884,
+   "rank": 64.659,
    "thread": {
     "slug": "koalitsiia-v-prage-8-bez-ods-i-ano",
     "title": {
@@ -19422,7 +19478,7 @@
      ]
     }
    },
-   "rank": 53.976,
+   "rank": 52.159,
    "thread": {
     "slug": "akram-khan-stavit-pinokkio-v-cirk-la-putyka",
     "title": {
@@ -19655,7 +19711,7 @@
      "body_sha256": "c1ea30a5e222b8e69928f8cb7dcad66729942d5bd453615b2d169b27b5407b7e"
     }
    },
-   "rank": 81.874,
+   "rank": 79.117,
    "thread": {
     "slug": "globalnyi-sboi-servisov-microsoft",
     "title": {
@@ -19888,7 +19944,7 @@
      "also": []
     }
    },
-   "rank": 69.744,
+   "rank": 67.396,
    "official_url": "https://policie.gov.cz/karlovarsky-kraj/pozor-na-podvodna-jednani",
    "image_url": "https://img.24n.cz/p/2026/11/predprinimatel-v-olomoutsko-poterial-80-tysiach-kron-iz-za-d-86ee33e0ca4400fa.webp",
    "image_w": 1200,
@@ -20177,7 +20233,7 @@
      ]
     }
    },
-   "rank": 59.697,
+   "rank": 57.573,
    "thread": {
     "slug": "zakon-o-referendume-v-chekhii",
     "title": {
@@ -20535,7 +20591,7 @@
      ]
     }
    },
-   "rank": 46.398,
+   "rank": 44.724,
    "sources": [
     {
      "domain": "ntm.cz",
@@ -20771,7 +20827,7 @@
      ]
     }
    },
-   "rank": 50.925,
+   "rank": 49.087,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -21069,7 +21125,7 @@
      ]
     }
    },
-   "rank": 60.003,
+   "rank": 57.777,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -21416,7 +21472,7 @@
      ]
     }
    },
-   "rank": 67.159,
+   "rank": 64.668,
    "sources": [
     {
      "domain": "investicniweb.cz",
@@ -21903,7 +21959,7 @@
      ]
     }
    },
-   "rank": 59.656,
+   "rank": 57.41,
    "thread": {
     "slug": "registratsiia-avtomobilei-v-chekhii-perekhodit-v-onlain",
     "title": {
@@ -22018,7 +22074,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 44.419
+   "rank": 42.703
   },
   {
    "id": "n8810",
@@ -22252,7 +22308,7 @@
      "also": []
     }
    },
-   "rank": 42.212,
+   "rank": 40.579,
    "story": [
     {
      "slug": "kupanie-v-vodokhranilishche-dzhban-zapreshcheno-tam-rasplodilis-sine-z",
@@ -22641,7 +22697,7 @@
      ]
     }
    },
-   "rank": 30.695,
+   "rank": 29.47,
    "image_url": "https://img.24n.cz/p/2026/11/ukrainets-valentyn-zapustil-v-prage-servis-dostavki-tsvetov-97a9c1507afd5a99.webp",
    "image_w": 1600,
    "image_h": 902
@@ -23010,7 +23066,7 @@
      ]
     }
    },
-   "rank": 47.931
+   "rank": 45.991
   },
   {
    "id": "n8807",
@@ -23213,7 +23269,7 @@
      "body_sha256": "76ca4080482137e4b0abdd4a735fb09efe034c6779615819f712664c2637cfb2"
     }
    },
-   "rank": 65.59,
+   "rank": 62.935,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -23296,7 +23352,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 40.475,
+   "rank": 38.8,
    "forecast": true
   },
   {
@@ -23567,7 +23623,7 @@
      ]
     }
    },
-   "rank": 48.895,
+   "rank": 46.853,
    "sources": [
     {
      "domain": "kromerizsky.denik.cz",
@@ -23814,7 +23870,7 @@
      ]
     }
    },
-   "rank": 59.687,
+   "rank": 57.155,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -24108,7 +24164,7 @@
      ]
     }
    },
-   "rank": 93.934,
+   "rank": 92.85,
    "thread": {
     "slug": "spornye-zakonoproekty-v-polzu-babisha",
     "title": {
@@ -24409,7 +24465,7 @@
      ]
     }
    },
-   "rank": 42.69,
+   "rank": 40.751,
    "image_url": "https://img.24n.cz/p/2026/11/indrzhikh-skeldal-anonsiroval-chetvertye-brany-skedalu-4af398bd57bda4e2.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/indrzhikh-skeldal-anonsiroval-chetvertye-brany-skedalu-863c08054398f0e7.webp"
@@ -24717,7 +24773,7 @@
      "also": []
     }
    },
-   "rank": 53.475,
+   "rank": 51.045,
    "thread": {
     "slug": "chekhiia-i-vyshegradskaia-gruppa-protiv-emissionnykh-kvot",
     "title": {
@@ -25099,7 +25155,7 @@
      ]
     }
    },
-   "rank": 42.118,
+   "rank": 40.138,
    "thread": {
     "slug": "money-maker-2026-i-investitsii-v-anthropic",
     "title": {
@@ -25579,7 +25635,7 @@
      ]
     }
    },
-   "rank": 40.816,
+   "rank": 38.896,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -26032,7 +26088,7 @@
      ]
     }
    },
-   "rank": 49.5,
+   "rank": 47.172,
    "sources": [
     {
      "domain": "i117.cz",
@@ -26268,7 +26324,7 @@
      ]
     }
    },
-   "rank": 51.671,
+   "rank": 49.241,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -26558,7 +26614,7 @@
      "also": []
     }
    },
-   "rank": 29.821,
+   "rank": 28.391,
    "thread": {
     "slug": "akram-khan-stavit-pinokkio-v-cirk-la-putyka",
     "title": {
@@ -26944,7 +27000,7 @@
      ]
     }
    },
-   "rank": 51.121,
+   "rank": 48.671,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -27225,7 +27281,7 @@
      "also": []
     }
    },
-   "rank": 44.731,
+   "rank": 42.587,
    "story": [
     {
      "slug": "spor-pragi-6-i-srednecheshskogo-kraia-iz-za-ulitsy-na-krutci",
@@ -27499,7 +27555,7 @@
      ]
     }
    },
-   "rank": 46.703,
+   "rank": 44.416,
    "sources": [
     {
      "domain": "prerovsky.denik.cz",
@@ -27781,7 +27837,7 @@
      ]
     }
    },
-   "rank": 45.452,
+   "rank": 43.226,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -28028,7 +28084,7 @@
      "also": []
     }
    },
-   "rank": 52.768,
+   "rank": 50.134,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -28316,7 +28372,7 @@
      "body_sha256": "eb22d8b27dbb2d70701219a718525b0bc590b7b1094129fc0f8f56238e325811"
     }
    },
-   "rank": 41.761,
+   "rank": 39.638,
    "sources": [
     {
      "domain": "karlovarsky.denik.cz",
@@ -28579,7 +28635,7 @@
      ]
     }
    },
-   "rank": 30.116,
+   "rank": 28.585,
    "image_url": "https://img.24n.cz/p/2026/11/natsionalnyi-teatr-pokazhet-premeru-o-tiulpannom-puzyre-1637-f5fafce028501ffb.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/natsionalnyi-teatr-pokazhet-premeru-o-tiulpannom-puzyre-1637-4c3f22e391f61287.webp",
@@ -28964,7 +29020,7 @@
      "also": []
     }
    },
-   "rank": 50.194,
+   "rank": 47.641,
    "story": [
     {
      "slug": "pravitelstvo-andreia-babisha-napravilo-v-parlament-zakon-o-referendume",
@@ -29083,7 +29139,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 35.103
+   "rank": 33.307
   },
   {
    "id": "n8785",
@@ -29462,7 +29518,7 @@
      ]
     }
    },
-   "rank": 85.373
+   "rank": 84.336
   },
   {
    "id": "n8784",
@@ -29713,7 +29769,7 @@
      ]
     }
    },
-   "rank": 44.444,
+   "rank": 42.035,
    "official_url": "https://policie.gov.cz/hlavni-mesto-praha/patrame-po-muzi-ktery-pod-legendou-pomoci-synovi-pripravil-seniorku-o-osmdesat-tisic-korun"
   },
   {
@@ -29729,8 +29785,8 @@
    ],
    "published_at": "2026-11-12T09:58:21.761778+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 09:58",
@@ -29984,7 +30040,7 @@
      ]
     }
    },
-   "rank": 49.472,
+   "rank": 46.9,
    "story": [
     {
      "slug": "aeroport-pragi-za-polugodie-obsluzhil-8-22-mln-passazhirov",
@@ -30055,8 +30111,8 @@
    ],
    "published_at": "2026-11-12T09:25:56.513549+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 09:25",
@@ -30274,7 +30330,7 @@
      ]
     }
    },
-   "rank": 23.49,
+   "rank": 22.75,
    "sources": [
     {
      "domain": "magazin.aktualne.cz",
@@ -30329,8 +30385,8 @@
    ],
    "published_at": "2026-11-12T09:25:56.513549+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 09:25",
@@ -30652,7 +30708,7 @@
      ]
     }
    },
-   "rank": 39.753,
+   "rank": 38.5,
    "sources": [
     {
      "domain": "mesec.cz",
@@ -30689,8 +30745,8 @@
    ],
    "published_at": "2026-11-12T09:25:56.513549+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 09:25",
@@ -30831,7 +30887,7 @@
      ]
     }
    },
-   "rank": 39.753,
+   "rank": 38.5,
    "sources": [
     {
      "domain": "lupa.cz",
@@ -30870,8 +30926,8 @@
    ],
    "published_at": "2026-11-12T09:25:56.513549+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 09:25",
@@ -31067,7 +31123,7 @@
      ]
     }
    },
-   "rank": 40.476,
+   "rank": 39.2,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -31095,8 +31151,8 @@
    ],
    "published_at": "2026-11-12T08:50:10.878393+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 08:50",
@@ -31282,7 +31338,7 @@
      "body_sha256": "4d568dfcd1fcaf61374e976434da3cbba76a6254721447cb73cc9c826f8cae63"
     }
    },
-   "rank": 31.75,
+   "rank": 31.5,
    "image_url": "https://img.24n.cz/p/2026/11/romeo-i-dzhuletta-otkroet-30-i-sezon-festivalia-shekspira-7238199ab5596c6c.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/romeo-i-dzhuletta-otkroet-30-i-sezon-festivalia-shekspira-6fd673a6b3fcf874.webp",
@@ -31325,8 +31381,8 @@
    ],
    "published_at": "2026-11-12T08:50:10.878393+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 08:50",
@@ -31530,7 +31586,7 @@
      ]
     }
    },
-   "rank": 38.806,
+   "rank": 38.5,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -40767,7 +40823,7 @@
      "body_sha256": "18dc0e5d7223fdb5bb416b4a36ed273d435c5f0dd598fe8b3cca70346a99a879"
     }
    },
-   "rank": 35.811,
+   "rank": 35.321,
    "sources": [
     {
      "domain": "media24.cz",
@@ -50951,8 +51007,8 @@
    ],
    "published_at": "2026-11-11T09:30:26.173620+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "11 ноября 2026, 09:30",
@@ -69788,8 +69844,8 @@
    ],
    "published_at": "2026-11-10T09:54:21.105495+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 09:54",
@@ -70037,8 +70093,8 @@
    ],
    "published_at": "2026-11-10T09:54:21.105495+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 09:54",
@@ -70349,8 +70405,8 @@
    ],
    "published_at": "2026-11-10T09:54:21.105495+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 09:54",
@@ -70533,8 +70589,8 @@
    ],
    "published_at": "2026-11-10T09:22:29.396597+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 09:22",
@@ -70755,8 +70811,8 @@
    ],
    "published_at": "2026-11-10T09:22:29.396597+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 09:22",
@@ -70987,8 +71043,8 @@
    ],
    "published_at": "2026-11-10T08:53:44.705002+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 08:53",
@@ -71203,8 +71259,8 @@
    ],
    "published_at": "2026-11-10T08:53:44.705002+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 08:53",
@@ -71580,8 +71636,8 @@
    ],
    "published_at": "2026-11-10T08:53:44.705002+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 08:53",
@@ -71790,8 +71846,8 @@
    ],
    "published_at": "2026-11-10T08:53:44.705002+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "10 ноября 2026, 08:53",
@@ -89303,284 +89359,6 @@
    "image_url": "https://img.24n.cz/p/2026/11/raiffeisenbank-zaimet-16-000-m2-v-churchill-iii-za-2-9-mlrd-ac5feb38af8af071.webp",
    "image_w": 1366,
    "image_h": 910
-  },
-  {
-   "id": "n8582",
-   "slug": "olga-lunova-sygrala-na-gitare-v-vozdukhe-v-o2-universum",
-   "source": "vecerni-praha.cz",
-   "original_url": "https://www.vecerni-praha.cz/olga-lounova-opet-rozzarila-o2-universum-sraz-optimistu-2-spojil-hudbu-akrobacii-i-hvezdne-hosty/",
-   "top": false,
-   "tags": [
-    "zvezdy"
-   ],
-   "published_at": "2026-11-09T10:46:35.201837+01:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "9 ноября 2026, 10:46",
-    "uk": "9 листопада 2026, 10:46"
-   },
-   "ru": {
-    "title": "Ольга Лунова сыграла на гитаре в воздухе в O2 universum",
-    "lede": "5 ноября 2026 года Ольга Лунова выступила в O2 universum в Праге с концертом \"Сраз оптимистов\", где показала акробатические номера и премьеры новых песен.",
-    "meta_description": "Ольга Лунова провела концерт в O2 universum, где выступила с акробатическими номерами и представила новую песню к фильму \"Бригада\".",
-    "paras": [
-     "<p>5 ноября 2026 года в Праге в O2 universum Ольга Лунова дала второй концерт своего проекта \"Сраз оптимистов\". В этот вечер артистка совместила музыку, акробатику и выступления звездных гостей.</p>",
-     "<p>На сцене вместе с Ольгой выступили такие известные артисты, как Гелена Вондрачкова, Войтаано, Маркета Музикаржова и Элька. Концерт поразил зрителей акробатическими номерами, включая уникальное 4D выступление, в котором Ольга играла на гитаре, находясь в воздухе.</p>",
-     "<p>Кроме того, на концерте состоялась премьера новой песни \"Захо́дь маску\" из готовящейся к выходу комедии \"Бригада\", которая выйдет в прокат 8 июля 2027 года. Эта песня стала одним из центральных моментов вечера и привлекла внимание зрителей.</p>",
-     "<p>Одним из самых трогательных моментов концерта стало появление на сцене дочери Ольги, Вивиен, которой еще не исполнился год. Этот момент вызвал бурю эмоций у зрителей и стал символом семейных ценностей, которые Ольга подчеркивала в своем выступлении.</p>",
-     "<p>После напряженного года, полного работы и подготовки к концертам, Ольга Лунова сообщила, что планирует уделить больше внимания своей семье. \"Был это для меня неуви́димо интенсивный год. Столько работы, подготовок, эмоций, концертов и к тому же семья и рождение дочери. Я несказанно благодарна всем, кто со мной эту дорогу проходит. Теперь чувствую, что пришло время немного замедлиться, быть с семьей и набраться новой энергии,\" - отметила певица.</p>",
-     "<p>Концерт \"Сраз оптимистов\" стал продолжением успешного формата, ранее представленного в 2025 году, и вновь поднял важные темы, такие как самопринятие и смелость быть собой, несмотря на давление общества.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Когда состоялся концерт Ольги Луновой?",
-      "a": "Концерт состоялся 5 ноября 2023 года."
-     },
-     {
-      "q": "Кто выступал на концерте вместе с Ольгой Луновой?",
-      "a": "На концерте выступали Хелена Вондрачкова, Войтаано и другие артисты."
-     },
-     {
-      "q": "Когда выйдет фильм \"Бригада\"?",
-      "a": "Фильм \"Бригада\" выйдет в прокат 8 июля 2027 года."
-     },
-     {
-      "q": "Что за акробатическое выступление было на концерте?",
-      "a": "Ольга Лунова выступила в 4D акробатике, играя на гитаре в воздухе."
-     }
-    ],
-    "impact": "Концерт Ольги Луновой стал ярким событием для поклонников, и его успех подтверждает растущий интерес к артистам, которые совмещают музыкальные выступления с визуальными эффектами. Фильм \"Бригада\" с новой песней выйдет в прокат в 2027 году.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "5 ноября 2026 года Ольга Лунова дала в пражском O2 universum второй концерт проекта \"Сраз оптимистов\".",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "На концерте Ольга Лунова играла на гитаре, находясь в воздухе, в рамках 4D-выступления.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Премьера песни \"Захо́дь маску\" из комедии \"Бригада\" состоялась на концерте; фильм выйдет в прокат 8 июля 2027 года.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Лунова заявила, что после интенсивного года планирует уделить больше внимания семье.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Ольга Лунова",
-       "definition": "Ольга Лунова — чешская певица, композитор, актриса и автогонщица, выступающая с группой и в мюзиклах.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "O2 universum",
-       "definition": "O2 universum je moderní multifunkční kongresové a kulturní centrum v Praze, které slouží pro pořádání kongresů, konferencí, koncertů a společenských akcí.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Войтаано",
-       "definition": "Войтаано — чешский музыкант, певец, рэпер, актер и стендап-комик.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "1171f4ba0b54f720236c4f6ce0645967ff1b5fd7f737d079590011f84ce862ff"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorodu",
-       "title": "LP выступит в Праге 9 ноября и рассказала о любви к городу",
-       "desc": "Певица LP выступит 9 ноября в O2 universum в Праге. Её большое интервью телеканалу Óčko о Чехии выйдет 8 ноября с 12:00.",
-       "date": "5 ноября 2026, 18:13",
-       "img": "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-bec03b0ee4259aea.webp"
-      },
-      {
-       "slug": "ronan-keating-dast-kontsert-v-prazhskom-o2-universum-v-oktiabre-2027-g",
-       "title": "Ronan Keating даст концерт в пражском O2 universum в октябре 2027 года",
-       "desc": "Ronan Keating выступит в O2 universum в Праге в октябре 2027 года. Бывшему солисту Boyzone исполнится 50 лет, он готовит новый альбом и тур Just Getting…",
-       "date": "3 ноября 2026, 01:59",
-       "img": "https://img.24n.cz/p/2026/11/ronan-keating-dast-kontsert-v-prazhskom-o2-universum-v-oktia-b9592cefe44bfef0.webp"
-      }
-     ]
-    }
-   },
-   "uk": {
-    "title": "Ольга Лунова зіграла на гітарі в повітрі в O2 universum",
-    "lede": "5 листопада 2026 року Ольга Лунова виступила в O2 universum у Празі з концертом \"Сраз оптимістів\", де показала акробатичні номери та прем'єри нових пісень.",
-    "meta_description": "Ольга Лунова провела концерт в O2 universum, де виступила з акробатичними номерами та представила нову пісню до фільму \"Бригада\".",
-    "paras": [
-     "<p>5 листопада 2026 року в Празі в O2 universum Ольга Лунова дала другий концерт свого проєкту \"Сраз оптимістів\". Того вечора артистка поєднала музику, акробатику та виступи зіркових гостей.</p>",
-     "<p>На сцені разом з Ольгою виступили такі відомі артисти, як Гелена Вондрачкова, Войтаано, Маркета Музикаржова та Елька. Концерт вразив глядачів акробатичними номерами, зокрема унікальним 4D виступом, у якому Ольга грала на гітарі, перебуваючи в повітрі.</p>",
-     "<p>Крім того, на концерті відбулася прем'єра нової пісні \"Заходь маску\" з комедії \"Бригада\", яка готується до виходу і з'явиться в прокаті 8 липня 2027 року. Ця пісня стала одним із центральних моментів вечора і привернула увагу глядачів.</p>",
-     "<p>Одним із найзворушливіших моментів концерту стала поява на сцені доньки Ольги, Вівієн, якій ще не виповнився рік. Цей момент викликав бурю емоцій у глядачів і став символом сімейних цінностей, які Ольга підкреслювала у своєму виступі.</p>",
-     "<p>Після напруженого року, сповненого роботи та підготовки до концертів, Ольга Лунова повідомила, що планує приділити більше уваги своїй родині. \"Це був для мене неймовірно інтенсивний рік. Стільки роботи, підготовок, емоцій, концертів і до того ж родина та народження доньки. Я безмежно вдячна всім, хто проходить зі мною цю дорогу. Тепер відчуваю, що настав час трохи сповільнитися, бути з родиною і набратися нової енергії\", зазначила співачка.</p>",
-     "<p>Концерт \"Сраз оптимістів\" став продовженням успішного формату, раніше представленого у 2025 році, і знову порушив важливі теми, як-от самоприйняття та сміливість бути собою, попри тиск суспільства.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Коли відбувся концерт Ольги Лунової?",
-      "a": "Концерт відбувся 5 листопада 2023 року."
-     },
-     {
-      "q": "Хто виступав на концерті разом з Ольгою Луновою?",
-      "a": "На концерті виступали Хелена Вондрачкова, Войтаано та інші артисти."
-     },
-     {
-      "q": "Коли вийде фільм \"Бригада\"?",
-      "a": "Фільм \"Бригада\" вийде в прокат 8 липня 2027 року."
-     },
-     {
-      "q": "Що за акробатичний виступ був на концерті?",
-      "a": "Ольга Лунова виступила в 4D акробатиці, граючи на гітарі в повітрі."
-     }
-    ],
-    "impact": "Концерт Ольги Луновой стал ярким событием для поклонников, и его успех подтверждает растущий интерес к артистам, которые совмещают музыкальные выступления с визуальными эффектами. Фильм \"Бригада\" с новой песней выйдет в прокат в 2027 году.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "5 листопада 2026 року Ольга Лунова дала в O2 universum у Празі другий концерт проєкту \"Сраз оптимістів\".",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "На концерті Ольга виконала 4D-номер, граючи на гітарі в повітрі.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Прем'єрна пісня \"Заходь маску\" з комедії \"Бригада\" вийде в прокат 8 липня 2027 року.",
-       "target": {
-        "block": 3,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Співачка заявила, що після інтенсивного року планує приділити більше уваги родині.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": null,
-     "body_sha256": "dbdd2a28188385abbbc7c35986bfaab2991a0085efbdbbac832563624f7a211e"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorodu",
-       "title": "LP виступить у Празі 9 листопада і розповіла про любов до міста",
-       "desc": "Співачка LP виступить 9 листопада в O2 universum у Празі. Її велике інтерв'ю телеканалу Óčko про Чехію вийде 8 листопада з 12:00.",
-       "date": "5 листопада 2026, 18:13",
-       "img": "https://img.24n.cz/p/2026/11/lp-vystupit-v-prage-9-noiabria-i-rasskazala-o-liubvi-k-gorod-bec03b0ee4259aea.webp"
-      },
-      {
-       "slug": "ronan-keating-dast-kontsert-v-prazhskom-o2-universum-v-oktiabre-2027-g",
-       "title": "Ronan Keating дасть концерт у празькому O2 universum у жовтні 2027 року",
-       "desc": "Ronan Keating виступить в O2 universum у Празі в жовтні 2027 року. Колишньому солісту Boyzone виповниться 50 років, він готує новий альбом і тур Just…",
-       "date": "3 листопада 2026, 01:59",
-       "img": "https://img.24n.cz/p/2026/11/ronan-keating-dast-kontsert-v-prazhskom-o2-universum-v-oktia-b9592cefe44bfef0.webp"
-      }
-     ]
-    }
-   },
-   "rank": 38.5,
-   "sources": [
-    {
-     "domain": "prakultura.cz",
-     "official": false,
-     "url": "https://prakultura.cz/2026/11/07/olga-lounova-podruhe-ovladla-o2universum/",
-     "title": "Olga Lounová podruhé ovládla O2 universum"
-    },
-    {
-     "domain": "tojesenzace.cz",
-     "official": false,
-     "url": "https://tojesenzace.cz/2026/11/07/olga-lounova-po-roce-opet-rozzarila-o2-universum-sraz-optimistu-2-nabidl-hvezdne-hosty-akrobacii-i-dojemne-momenty/",
-     "title": "Olga Lounová po roce opět rozzářila O2 universum! Sraz optimistů 2 nabídl hvězdné hosty, akrobacii i dojemné momenty - Tojesenzace.cz"
-    },
-    {
-     "domain": "partyportal.sk",
-     "official": false,
-     "url": "https://partyportal.sk/olga-lounova-po-roce-opet-rozzarila-o2-universum/",
-     "title": "Olga Lounová po roce opět rozzářila O2 Universum! – PartyPortal.sk"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 3,
-   "image_url": "https://img.24n.cz/p/2026/11/olga-lunova-sygrala-na-gitare-v-vozdukhe-v-o2-universum-0371f2127c567285.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/11/olga-lunova-sygrala-na-gitare-v-vozdukhe-v-o2-universum-06bae3831af74457.webp",
-    "https://img.24n.cz/p/2026/11/olga-lunova-sygrala-na-gitare-v-vozdukhe-v-o2-universum-3774331369d1bc56.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/11/olga-lunova-sygrala-na-gitare-v-vozdukhe-v-o2-universum-06bae3831af74457.webp",
-     "after": 2,
-     "caption": "Ольга Лунова на сцене"
-    },
-    {
-     "url": "https://img.24n.cz/p/2026/11/olga-lunova-sygrala-na-gitare-v-vozdukhe-v-o2-universum-3774331369d1bc56.webp",
-     "after": 4,
-     "caption": "Ольга Лунова выступает в воздухе с гитарой"
-    }
-   ],
-   "image_w": 1200,
-   "image_h": 816,
-   "images_wh": [
-    [
-     1050,
-     1400
-    ],
-    [
-     1050,
-     1400
-    ]
-   ]
   }
  ],
  "stories": [
