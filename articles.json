@@ -1,8 +1,347 @@
 {
- "updated_at": "2026-11-16T13:10:38+00:00",
+ "updated_at": "2026-11-16T13:43:54+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n8963",
+   "slug": "praga-so-sredy-zakroet-sezd-s-diablitskoi-na-tsinovetsku",
+   "source": "prazsky.denik.cz",
+   "original_url": "https://prazsky.denik.cz/zpravy-region/tsk-v-praze-od-stredy-uzavre-pripojovaci-rampu-na-cinoveckou-z-dablicke-ulice/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zpravy-region",
+   "top": false,
+   "tags": [
+    "praha",
+    "cesko"
+   ],
+   "published_at": "2026-11-16T14:43:53.718738+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "16 ноября 2026, 14:43",
+    "uk": "16 листопада 2026, 14:43"
+   },
+   "ru": {
+    "title": "Прага со среды закроет съезд с Дяблицкой на Циновецку",
+    "lede": "В Праге со среды перекроют соединительный съезд на улицу Циновецка с улицы Дяблицки из-за масштабных ремонтных работ и образовавшихся пробок.",
+    "meta_description": "В Праге со среды закроют съезд на Cínoveckou с Ďáblické ulice. Ограничение движения Циновецка ввели для борьбы с пробками на D8.",
+    "paras": [
+     "<p>В Праге ограничивают движение на северном въезде в город. Транспортная обстановка там сложная, и организация TSK закрывает для автомобилистов соединительный съезд с улицы Дяблицки на магистраль Циновецка в сторону центра. Запрет начнёт действовать со среды.</p>",
+     "<p>Ремонт на улице Циновецке в направлении центра дорожные службы начали ещё в октябре. Покрытие на участке между ручьём Мратинским потоком и улицей Рохлицкой заменят полностью. В проект входят также ремонт защитных ограждений и бордюров и новая разметка на проезжей части.</p>",
+     "<h3>Почему решили закрыть съезд</h3>",
+     "<p>За последние дни обстановка на въезде в город резко осложнилась. По данным Лишковой, на автостраде Д8 скапливаются пробки длиной больше 10 километров.</p>",
+     "<p>Многие водители пытаются объехать этот многокилометровый затор через улицу Дяблицку. Когда они возвращаются обратно на главный поток в сторону центра, машины нарушают плавность движения, и на трассе Д8 становится ещё тяжелее.</p>",
+     "<blockquote><p>Слежение за движением прямо на месте показало, что множество водителей пытаются объехать затор через Дяблицку улицу, а при последующем возвращении обратно на главную трассу в сторону центра происходит сильное нарушение плавности движения, и ситуация на D8 продолжает ухудшаться.</p></blockquote>",
+     "<p>Так дорожную обстановку описала пресс-секретарь Барбора Лишкова. Проблемный съезд закрывают, чтобы поправить положение на въезде в мегаполис.</p>",
+     "<blockquote><p>Закрытие рампы должно улучшить ситуацию на въезде в Прагу.</p></blockquote>",
+     "<p>Об этом Лишкова сказала, комментируя предстоящие изменения в организации движения.</p>",
+     "<p>Новые правила касаются всего личного и коммерческого транспорта. Исключение сделали только для машин интегрированной системы экстренных служб.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Почему закрывают съезд на Cínoveckou с Ďáblické ulice?",
+      "a": "Съезд закрывают со среды, чтобы разгрузить въезд в Прагу по трассе D8, где из-за ремонтных работ водители объезжали пробки через Дяблицку улицу и создавали заторы при возвращении на главный поток."
+     },
+     {
+      "q": "Кому разрешен проезд по закрытому съезду?",
+      "a": "Проезд разрешен исключительно автомобилям интегрированной системы экстренных служб."
+     }
+    ],
+    "impact": "Водителям, въезжающим в Прагу по автостраде D8, придется заранее планировать маршрут в обход закрытого съезда с улицы Дяблицки. Ограничение не распространяется только на машины экстренных служб.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "В Праге со среды закрывают соединительный съезд с улицы Дяблицки на улицу Циновецка в сторону центра.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Ремонтные работы на улице Циновецке в направлении центра дорожные службы начали ещё в октябре.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На автостраде Д8 за последние дни образовались пробки длиной более 10 километров.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Новые ограничения распространяются на весь личный и коммерческий транспорт, кроме машин интегрированной системы экстренных служб.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "TSK",
+       "definition": "Организация, которая управляет и обслуживает коммуникации, следит за зеленью, управляет движением и строит велосипедные дорожки или парковочные места в Праге.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "8931f4a61b43a0d44c30d03d1824886cf057aab676d8618600bc64f597abd494"
+    },
+    "context": {
+     "v": 1,
+     "before": "В конце октября дорожные службы начали капитальный ремонт улицы Циновецки в сторону центра Праги: на участке длиной 4,3 километра полностью меняют покрытие, работы должны продлиться до декабря [1]. Из-за сужения движения на северном въезде в город образовались многокилометровые пробки, автобусы опаздывали на десятки минут [4]. На автостраде D8 заторы выросли больше чем на 10 километров, и водители начали объезжать их через улицу Дяблицку, а потом вливаться обратно в главный поток. По словам пресс-секретаря TSK Барборы Лишковой, это ещё сильнее сбивало движение, поэтому со среды съезд с Дяблицки на Циновецку закроют для всех машин, кроме экстренных служб.",
+     "assessment": "",
+     "refs": [
+      {
+       "slug": "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
+       "title": "Ремонт на Cínovecké в Праге: 4,3 км дороги закроют до декабря 2026 года",
+       "desc": "С 23 октября по 10 декабря 2026 года в Праге ремонтируют 4,3 км улицы Cínovecká. Движение ограничат, съезд с Kostelecké закроют.",
+       "date": "13 октября 2026, 18:27",
+       "img": "https://img.24n.cz/p/2026/10/remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabr-7b127ee71bede33b.webp"
+      },
+      {
+       "slug": "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
+       "title": "Дорожный коллапс в Праге: ремонт на Cínovecká и другие перекрытия",
+       "desc": "Водителей в Праге ждут серьезные пробки и ограничения движения. Ремонт на Cínovecká, Kbelská, Strakonická и у Nuselský most: где искать объезды.",
+       "date": "23 октября 2026, 00:24",
+       "img": "https://img.24n.cz/p/2026/10/dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perek-b2adb88a47a4a75a.webp"
+      },
+      {
+       "slug": "remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodlitsia-mesia",
+       "title": "Ремонт Хлумецкой в Праге 14 начнётся 7 ноября и продлится месяц",
+       "desc": "С 7 ноября по 8 декабря 2026 года на улице Chlumecká в Праге 14 пройдет завершающий этап реконструкции. Ограничения движения, схема 2+2 и запрет остановки.",
+       "date": "5 ноября 2026, 13:56",
+       "img": "https://img.24n.cz/p/2026/11/remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodli-3c03eafd8d52c2f8.webp"
+      },
+      {
+       "slug": "remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut",
+       "title": "Ремонт на севере Праги задерживает автобусы на 45 минут",
+       "desc": "Ремонт дорог север Прага пробки: масштабные работы на Cínovecká, Kbelská и Chlumecká парализовали движение транспорта и автобусов. Подробности и сроки.",
+       "date": "6 ноября 2026, 19:17",
+       "img": "https://img.24n.cz/p/2026/11/remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut-ff4493823822a7ec.webp"
+      }
+     ],
+     "links": [
+      {
+       "slug": "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
+       "title": "Ремонт на Cínovecké в Праге: 4,3 км дороги закроют до декабря 2026 года",
+       "desc": "С 23 октября по 10 декабря 2026 года в Праге ремонтируют 4,3 км улицы Cínovecká. Движение ограничат, съезд с Kostelecké закроют.",
+       "date": "13 октября 2026, 18:27",
+       "img": "https://img.24n.cz/p/2026/10/remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabr-7b127ee71bede33b.webp",
+       "block": 1,
+       "phrase": "Ремонт на улице Циновецке в направлении центра"
+      },
+      {
+       "slug": "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
+       "title": "Дорожный коллапс в Праге: ремонт на Cínovecká и другие перекрытия",
+       "desc": "Водителей в Праге ждут серьезные пробки и ограничения движения. Ремонт на Cínovecká, Kbelská, Strakonická и у Nuselský most: где искать объезды.",
+       "date": "23 октября 2026, 00:24",
+       "img": "https://img.24n.cz/p/2026/10/dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perek-b2adb88a47a4a75a.webp",
+       "block": 3,
+       "phrase": "на автостраде Д8 скапливаются пробки"
+      }
+     ],
+     "also": [
+      {
+       "slug": "remont-dorog-v-prage-noiabr-prineset-novye-zakrytiia-ulits",
+       "title": "Ремонт дорог в Праге: ноябрь принесет новые закрытия улиц",
+       "desc": "Масштабный ремонт дорог в Праге в ноябре 2026 года: полные перекрытия улиц Trabantská, Toužimská и Vosmíkových после реконструкции Kbelská.",
+       "date": "27 октября 2026, 07:36",
+       "img": "https://img.24n.cz/p/2026/10/remont-dorog-v-prage-noiabr-prineset-novye-zakrytiia-ulits-922d017ab7c42ed0.webp"
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Прага з середи закриє з'їзд з Дябліцької на Циновецьку",
+    "lede": "У Празі з середи перекриють сполучний з'їзд на вулицю Циновецька з вулиці Дябліцька через масштабні ремонтні роботи та затори, що утворилися.",
+    "meta_description": "У Празі з середи закриють з'їзд на Cínoveckou з Ďáblické ulice. Обмеження руху на Циновецькій запровадили для боротьби із заторами на D8.",
+    "paras": [
+     "<p>У Празі обмежують рух на північному в'їзді до міста. Транспортна ситуація там складна, і організація TSK закриває для автомобілістів сполучний з'їзд з вулиці Дябліцька на магістраль Циновецька в напрямку центру. Заборона почне діяти з середи.</p>",
+     "<p>Ремонт на вулиці Циновецькій у напрямку центру дорожні служби розпочали ще в жовтні. Покриття на ділянці між струмком Мратинським потоком і вулицею Роглицькою замінять повністю. До проєкту входять також ремонт захисних огорож і бордюрів та нова розмітка на проїжджій частині.</p>",
+     "<h3>Чому вирішили закрити з'їзд</h3>",
+     "<p>За останні дні ситуація на в'їзді до міста різко ускладнилася. За даними Лішкової, на автостраді D8 скупчуються затори довжиною понад 10 кілометрів.</p>",
+     "<p>Багато водіїв намагаються об'їхати цей багатокілометровий затор через вулицю Дябліцьку. Коли вони повертаються назад на головний потік у напрямку центру, машини порушують плавність руху, і на трасі D8 стає ще важче.</p>",
+     "<blockquote><p>Спостереження за рухом прямо на місці показало, що безліч водіїв намагаються об'їхати затор через Дябліцьку вулицю, а при подальшому поверненні назад на головну трасу в напрямку центру відбувається сильне порушення плавності руху, і ситуація на D8 продовжує погіршуватися.</p></blockquote>",
+     "<p>Так дорожню обстановку описала речниця Барбора Лішкова. Проблемний з'їзд закривають, щоб виправити становище на в'їзді до мегаполіса.</p>",
+     "<blockquote><p>Закриття рампи має покращити ситуацію на в'їзді до Праги.</p></blockquote>",
+     "<p>Про це Лішкова сказала, коментуючи майбутні зміни в організації руху.</p>",
+     "<p>Нові правила стосуються всього особистого та комерційного транспорту. Виняток зробили лише для машин інтегрованої системи екстрених служб.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Чому закривають з'їзд на Cínoveckou з Ďáblické ulice?",
+      "a": "З'їзд закривають із середи, щоб розвантажити в'їзд до Праги трасою D8, де через ремонтні роботи водії об'їжджали затори через Дябліцьку вулицю і створювали затори при поверненні на головний потік."
+     },
+     {
+      "q": "Кому дозволено проїзд закритим з'їздом?",
+      "a": "Проїзд дозволено виключно автомобілям інтегрованої системи екстрених служб."
+     }
+    ],
+    "impact": "Водителям, въезжающим в Прагу по автостраде D8, придется заранее планировать маршрут в обход закрытого съезда с улицы Дяблицки. Ограничение не распространяется только на машины экстренных служб.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У Празі з середи закривають сполучний з'їзд з вулиці Дябліцька на магістраль Циновецька в напрямку центру через складну транспортну ситуацію та затори.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Ремонтні роботи на вулиці Циновецькій у напрямку центру дорожні служби розпочали ще в жовтні.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "На автостраді D8 через затори довжиною понад 10 кілометрів водії намагаються об'їхати ділянку через вулицю Дябліцьку, що ускладнює рух на трасі.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Нові правила заборони руху поширюються на весь особистий і комерційний транспорт, окрім машин інтегрованої системи екстрених служб.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "f192dbb6c919f37c84adee7812abde400b3e6975b55beb8ddabd6bc9527dc796"
+    },
+    "context": {
+     "v": 1,
+     "before": "Наприкінці жовтня дорожні служби розпочали капітальний ремонт вулиці Ціновецкі в напрямку центру Праги: на ділянці завдовжки 4,3 кілометра повністю міняють покриття, роботи мають тривати до грудня [1]. Через звуження руху на північному в'їзді до міста утворилися багатокілометрові затори, автобуси запізнювалися на десятки хвилин [4]. На автостраді D8 затори виросли більш ніж на 10 кілометрів, і водії почали об'їжджати їх через вулицю Дябліцку, а потім вливатися назад у головний потік. За словами прессекретарки TSK Барбори Лішкової, це ще сильніше збивало рух, тому з середи з'їзд з Дябліцки на Ціновецку закриють для всіх машин, крім екстрених служб.",
+     "assessment": "",
+     "refs": [
+      {
+       "slug": "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
+       "title": "Ремонт на Cínovecké у Празі: 4,3 км дороги закриють до грудня 2026 року",
+       "desc": "З 23 жовтня по 10 грудня 2026 року в Празі ремонтують 4,3 км вулиці Cínovecká. Рух обмежать, з'їзд з Kostelecké закриють.",
+       "date": "13 жовтня 2026, 18:27",
+       "img": "https://img.24n.cz/p/2026/10/remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabr-7b127ee71bede33b.webp"
+      },
+      {
+       "slug": "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
+       "title": "Колапс на дорогах Праги: ремонт на Cínovecká та інші перекриття",
+       "desc": "Водіїв у Празі чекають серйозні затори та обмеження руху. Ремонт на Cínovecká, Kbelská, Strakonická та біля Nuselský most: де шукати об’їзди.",
+       "date": "23 жовтня 2026, 00:24",
+       "img": "https://img.24n.cz/p/2026/10/dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perek-b2adb88a47a4a75a.webp"
+      },
+      {
+       "slug": "remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodlitsia-mesia",
+       "title": "Ремонт Хлумецької у Празі 14 почнеться 7 листопада і триватиме місяць",
+       "desc": "З 7 листопада по 8 грудня 2026 року на вулиці Chlumecká у Празі 14 пройде завершальний етап реконструкції. Обмеження руху, схема 2+2 і заборона зупинки.",
+       "date": "5 листопада 2026, 13:56",
+       "img": "https://img.24n.cz/p/2026/11/remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodli-3c03eafd8d52c2f8.webp"
+      },
+      {
+       "slug": "remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut",
+       "title": "Ремонт на півночі Праги затримує автобуси на 45 хвилин",
+       "desc": "Ремонт доріг північ Прага затори: масштабні роботи на Cínovecká, Kbelská і Chlumecká паралізували рух транспорту й автобусів. Подробиці та терміни.",
+       "date": "6 листопада 2026, 19:17",
+       "img": "https://img.24n.cz/p/2026/11/remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut-ff4493823822a7ec.webp"
+      }
+     ],
+     "links": [
+      {
+       "slug": "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
+       "title": "Ремонт на Cínovecké у Празі: 4,3 км дороги закриють до грудня 2026 року",
+       "desc": "З 23 жовтня по 10 грудня 2026 року в Празі ремонтують 4,3 км вулиці Cínovecká. Рух обмежать, з'їзд з Kostelecké закриють.",
+       "date": "13 жовтня 2026, 18:27",
+       "img": "https://img.24n.cz/p/2026/10/remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabr-7b127ee71bede33b.webp",
+       "block": 1,
+       "phrase": "Ремонт на вулиці Циновецькій у напрямку центру"
+      },
+      {
+       "slug": "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
+       "title": "Колапс на дорогах Праги: ремонт на Cínovecká та інші перекриття",
+       "desc": "Водіїв у Празі чекають серйозні затори та обмеження руху. Ремонт на Cínovecká, Kbelská, Strakonická та біля Nuselský most: де шукати об’їзди.",
+       "date": "23 жовтня 2026, 00:24",
+       "img": "https://img.24n.cz/p/2026/10/dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perek-b2adb88a47a4a75a.webp",
+       "block": 3,
+       "phrase": "на автостраді D8 скупчуються затори"
+      }
+     ],
+     "also": [
+      {
+       "slug": "remont-dorog-v-prage-noiabr-prineset-novye-zakrytiia-ulits",
+       "title": "Ремонт доріг у Празі: листопад принесе нові закриття вулиць",
+       "desc": "Масштабний ремонт доріг у Празі в листопаді 2026 року: повні перекриття вулиць Trabantská, Toužimská та Vosmíkových після реконструкції Kbelská.",
+       "date": "27 жовтня 2026, 07:36",
+       "img": "https://img.24n.cz/p/2026/10/remont-dorog-v-prage-noiabr-prineset-novye-zakrytiia-ulits-922d017ab7c42ed0.webp"
+      }
+     ]
+    }
+   },
+   "rank": 105.0,
+   "thread": {
+    "slug": "remont-dorog-na-severe-pragi",
+    "title": {
+     "ru": "Ремонт дорог на севере Праги",
+     "uk": "Ремонт доріг на півночі Праги"
+    },
+    "count": 5
+   },
+   "story": [
+    {
+     "slug": "remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut",
+     "ru": "Ремонт на севере Праги задерживает автобусы на 45 минут",
+     "uk": "Ремонт на півночі Праги затримує автобуси на 45 хвилин",
+     "published_at": "2026-11-06T19:17:02.256010+01:00",
+     "date": {
+      "ru": "6 ноября 2026, 19:17",
+      "uk": "6 листопада 2026, 19:17"
+     }
+    },
+    {
+     "slug": "remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodlitsia-mesia",
+     "ru": "Ремонт Хлумецкой в Праге 14 начнётся 7 ноября и продлится месяц",
+     "uk": "Ремонт Хлумецької у Празі 14 почнеться 7 листопада і триватиме місяць",
+     "published_at": "2026-11-05T13:56:58.151319+01:00",
+     "date": {
+      "ru": "5 ноября 2026, 13:56",
+      "uk": "5 листопада 2026, 13:56"
+     }
+    },
+    {
+     "slug": "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
+     "ru": "Дорожный коллапс в Праге: ремонт на Cínovecká и другие перекрытия",
+     "uk": "Колапс на дорогах Праги: ремонт на Cínovecká та інші перекриття",
+     "published_at": "2026-10-23T00:24:12.749213+02:00",
+     "date": {
+      "ru": "23 октября 2026, 00:24",
+      "uk": "23 жовтня 2026, 00:24"
+     }
+    },
+    {
+     "slug": "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
+     "ru": "Ремонт на Cínovecké в Праге: 4,3 км дороги закроют до декабря 2026 года",
+     "uk": "Ремонт на Cínovecké у Празі: 4,3 км дороги закриють до грудня 2026 року",
+     "published_at": "2026-10-13T18:27:31.633358+02:00",
+     "date": {
+      "ru": "13 октября 2026, 18:27",
+      "uk": "13 жовтня 2026, 18:27"
+     }
+    }
+   ],
+   "image_url": "https://img.24n.cz/p/2026/11/praga-so-sredy-zakroet-sezd-s-diablitskoi-na-tsinovetsku-26d21e11a906622d.webp",
+   "image_w": 1366,
+   "image_h": 910
+  },
   {
    "id": "n8962",
    "slug": "v-prage-5-rasshiriat-detsad-slunichko-radi-detei-s-osobymi-nuzhdami",
@@ -15,8 +354,8 @@
    ],
    "published_at": "2026-11-16T14:10:37.265291+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "33 минуты назад",
+    "uk": "33 хвилини тому"
    },
    "date": {
     "ru": "16 ноября 2026, 14:10",
@@ -178,8 +517,8 @@
    ],
    "published_at": "2026-11-16T13:34:11.334745+01:00",
    "time": {
-    "ru": "36 минут назад",
-    "uk": "36 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "16 ноября 2026, 13:34",
@@ -689,8 +1028,8 @@
    ],
    "published_at": "2026-11-16T12:31:02.237369+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 12:31",
@@ -1112,8 +1451,8 @@
    ],
    "published_at": "2026-11-16T10:24:17.092336+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 10:24",
@@ -1367,7 +1706,7 @@
      ]
     }
    },
-   "rank": 105.806,
+   "rank": 104.949,
    "story": [
     {
      "slug": "miniust-chekhii-proveriaet-vozmozhnyi-nelegalnyi-lobbizm-u-ministra-iu",
@@ -1405,8 +1744,8 @@
    ],
    "published_at": "2026-11-16T10:24:17.092336+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 10:24",
@@ -1616,7 +1955,7 @@
      ]
     }
    },
-   "rank": 93.94,
+   "rank": 93.179,
    "official_url": "https://policie.gov.cz/kralovehradecky-kraj/kriminaliste-dopadli-serioveho-zlodeje"
   },
   {
@@ -1909,7 +2248,7 @@
      "also": []
     }
    },
-   "rank": 127.359,
+   "rank": 126.318,
    "story": [
     {
      "slug": "zapis-v-pervyi-klass-v-chekhii-v-2027-godu-sroki-pravila-i-dokumenty",
@@ -2163,7 +2502,7 @@
      ]
     }
    },
-   "rank": 96.989,
+   "rank": 96.196,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -2220,8 +2559,8 @@
    ],
    "published_at": "2026-11-16T09:10:47.624962+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 09:10",
@@ -2486,7 +2825,7 @@
      ]
     }
    },
-   "rank": 111.682,
+   "rank": 110.761,
    "thread": {
     "slug": "rekonstruktsiia-magistrali-u-glavnogo-vokzala",
     "title": {
@@ -2555,8 +2894,8 @@
    ],
    "published_at": "2026-11-16T07:30:39.308267+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 07:30",
@@ -2814,7 +3153,7 @@
      ]
     }
    },
-   "rank": 75.763,
+   "rank": 75.123,
    "official_url": "https://policie.gov.cz/pardubicky-kraj/v-kukle-a-se-zbrani-chtel-delat-ochranku-znamemu"
   },
   {
@@ -3158,7 +3497,7 @@
      ]
     }
    },
-   "rank": 97.883,
+   "rank": 97.05,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -3477,7 +3816,7 @@
      ]
     }
    },
-   "rank": 89.413,
+   "rank": 88.652,
    "image_url": "https://img.24n.cz/p/2026/11/notino-oproverglo-slukhi-o-prodazhe-i-ishchet-partnera-dlia-5f3555e06927da8f.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/notino-oproverglo-slukhi-o-prodazhe-i-ishchet-partnera-dlia-8d4a1b70e4daff00.webp",
@@ -3712,7 +4051,7 @@
      "body_sha256": "9adeb39df6c3260210fa4a57862dc0e86ec2f4207b9b646dccc135f871d1de38"
     }
    },
-   "rank": 47.059,
+   "rank": 46.659,
    "image_url": "https://img.24n.cz/p/2026/11/v-zhdiare-nad-sazavou-postavili-kamery-protiv-chernykh-svalo-6531ff54abce477c.webp",
    "image_w": 620,
    "image_h": 349
@@ -3963,7 +4302,7 @@
      ]
     }
    },
-   "rank": 89.413,
+   "rank": 88.652,
    "image_url": "https://img.24n.cz/p/2026/11/openai-kupila-startap-odessia-frantsisa-davidsona-134a271f11270e22.webp",
    "video": {
     "kind": "iframe",
@@ -4185,7 +4524,7 @@
      ]
     }
    },
-   "rank": 56.471,
+   "rank": 55.99,
    "image_url": "https://img.24n.cz/p/2026/11/derevnia-na-400-chelovek-oplatit-zamu-starosty-pochti-millio-e6489ea23e7d021a.webp",
    "image_w": 620,
    "image_h": 349
@@ -4656,7 +4995,7 @@
      "body_sha256": "b422856e4d4af2d6d962811d81e0aee00d12086b86db4ad86ba425ba5304ad7c"
     }
    },
-   "rank": 84.707,
+   "rank": 83.986,
    "image_url": "https://img.24n.cz/p/2026/11/mikrotik-pokazala-flagmanskii-router-na-servernom-chipe-ampe-0ff056da4dc3fcf5.webp",
    "image_w": 1551,
    "image_h": 1168
@@ -4673,8 +5012,8 @@
    ],
    "published_at": "2026-11-16T06:26:18.496237+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 06:26",
@@ -5541,7 +5880,7 @@
      "body_sha256": "efe1f9a7de3c1c929daa1195e613dda9f294cbf4a3932c786423079bb5f8c01c"
     }
    },
-   "rank": 73.844,
+   "rank": 73.203,
    "image_url": "https://img.24n.cz/p/2026/11/spotovyi-tarif-vygoden-tem-kto-perenosit-potreblenie-na-desh-068982c83201606d.webp",
    "image_w": 750,
    "image_h": 300
@@ -5559,8 +5898,8 @@
    ],
    "published_at": "2026-11-16T05:19:53.044961+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 05:19",
@@ -5952,7 +6291,7 @@
      ]
     }
    },
-   "rank": 91.556,
+   "rank": 90.755,
    "story": [
     {
      "slug": "dtest-predupredil-o-falshivykh-skidkakh-k-black-friday-27-noiabria",
@@ -5978,8 +6317,8 @@
    ],
    "published_at": "2026-11-16T05:19:53.044961+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 05:19",
@@ -6307,7 +6646,7 @@
      ]
     }
    },
-   "rank": 108.952,
+   "rank": 107.998,
    "thread": {
     "slug": "izmeneniia-pensionnykh-pravil-v-chekhii",
     "title": {
@@ -6386,8 +6725,8 @@
    ],
    "published_at": "2026-11-16T04:13:51.557926+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 04:13",
@@ -6583,7 +6922,7 @@
      ]
     }
    },
-   "rank": 107.96,
+   "rank": 106.999,
    "sources": [
     {
      "domain": "nedd.tiscali.cz",
@@ -6623,8 +6962,8 @@
    ],
    "published_at": "2026-11-16T04:13:51.557926+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 04:13",
@@ -6997,7 +7336,7 @@
      ]
     }
    },
-   "rank": 96.264,
+   "rank": 95.407,
    "sources": [
     {
      "domain": "cfotrends.cz",
@@ -7197,7 +7536,7 @@
      "body_sha256": "111f6a6183fa3a4152b0c0f363b138ba78df02624948a263abd5a733e9bfc7b2"
     }
    },
-   "rank": 78.007,
+   "rank": 77.286,
    "sources": [
     {
      "domain": "pisecky.denik.cz",
@@ -7236,8 +7575,8 @@
    ],
    "published_at": "2026-11-16T01:26:18.040291+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 01:26",
@@ -7430,7 +7769,7 @@
      ]
     }
    },
-   "rank": 51.56,
+   "rank": 51.079,
    "image_url": "https://img.24n.cz/p/2026/11/regbist-nitsolaas-uys-otkryl-v-prage-bistro-saffa-maso-3c310b62026bf190.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/regbist-nitsolaas-uys-otkryl-v-prage-bistro-saffa-maso-81cce9331c37120f.webp"
@@ -7594,7 +7933,7 @@
      "body_sha256": "20b210c000a1ea2ebf6fe90e4c0c814fd0d462792d9d6f85cbd1119bcecb9cfa"
     }
    },
-   "rank": 72.375
+   "rank": 71.694
   },
   {
    "id": "n8935",
@@ -7783,7 +8122,7 @@
      "body_sha256": "00aab2be6eb98eaf9d55bd2dbb9cea09936d635b64dad431b1a675e2aac5f6e9"
     }
    },
-   "rank": 97.919,
+   "rank": 96.997,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-investory-vlozhili-milliardy-v-nedvizhimost-doma-i-ad148f409ab60848.webp",
    "image_w": 1200,
    "image_h": 675
@@ -7942,7 +8281,7 @@
      "body_sha256": "f2dcc5495f1619954b1a8ebdbfc71c22011428e3adedd0fa049feb1b6ef4eafd"
     }
    },
-   "rank": 66.016,
+   "rank": 65.383,
    "sources": [
     {
      "domain": "fm.denik.cz",
@@ -8110,7 +8449,7 @@
      "body_sha256": "bc5182f50acb26db08b38f955d57121dcbd2191551a85aa5a0ecb9d1fad9c09c"
     }
    },
-   "rank": 102.671,
+   "rank": 101.67,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -8319,7 +8658,7 @@
      "body_sha256": "bf80b413e4ea8956ead6b43d79d5b76628fa6371f8657787825ea4deb11cc84d"
     }
    },
-   "rank": 69.816
+   "rank": 69.135
   },
   {
    "id": "n8930",
@@ -8334,8 +8673,8 @@
    ],
    "published_at": "2026-11-15T20:38:08.614864+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "15 ноября 2026, 20:38",
@@ -8490,7 +8829,7 @@
      "body_sha256": "8f56ce4987677f8319b4e2df33b4f8840823162526d0d5060110021bfecb0b93"
     }
    },
-   "rank": 71.096,
+   "rank": 70.375,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskii-natsbank-podnial-stavku-iz-za-ugrozy-dorozhaniia-s-1151958fb52e8b9c.webp",
    "image_w": 1200,
    "image_h": 630
@@ -8538,7 +8877,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 65.923
+   "rank": 65.235
   },
   {
    "id": "n8928",
@@ -8552,8 +8891,8 @@
    ],
    "published_at": "2026-11-15T18:30:10.057354+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "15 ноября 2026, 18:30",
@@ -8686,7 +9025,7 @@
      "body_sha256": "3e6a7b3addfb312b44ebcc2f3ba476c9ca4caa361251fe4e96675831086242c6"
     }
    },
-   "rank": 77.433,
+   "rank": 76.616,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -8711,8 +9050,8 @@
    ],
    "published_at": "2026-11-15T18:30:10.057354+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "15 ноября 2026, 18:30",
@@ -8914,7 +9253,7 @@
      "body_sha256": "fe4b492f92742bf66d90916edba050840ed71c3a4220adc48542a7bb9d1f33cd"
     }
    },
-   "rank": 87.302,
+   "rank": 86.381,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -8950,8 +9289,8 @@
    ],
    "published_at": "2026-11-15T17:25:32.291470+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "15 ноября 2026, 17:25",
@@ -9083,7 +9422,7 @@
      "body_sha256": "f22fba60ae2195612b57d3950f042230ae6153b0002fa30f8072acde98f69b9a"
     }
    },
-   "rank": 63.205,
+   "rank": 62.524,
    "sources": [
     {
      "domain": "media24.cz",
@@ -9143,8 +9482,8 @@
    ],
    "published_at": "2026-11-15T15:14:18.610171+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "15 ноября 2026, 15:14",
@@ -9332,7 +9671,7 @@
      "body_sha256": "e460acbd3fde7f66048688a99cb90074c44cc8fb5c98dd9bc999f9876e43e6f6"
     }
    },
-   "rank": 74.76
+   "rank": 73.919
   },
   {
    "id": "n8924",
@@ -9346,8 +9685,8 @@
    ],
    "published_at": "2026-11-15T15:14:18.610171+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "15 ноября 2026, 15:14",
@@ -9468,7 +9807,7 @@
      "body_sha256": "8afebc8ad97b885c781c85c9cf7edb3190e48cb93d2ab366bbd35fede39e0891"
     }
    },
-   "rank": 53.4,
+   "rank": 52.799,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -9670,7 +10009,7 @@
      "body_sha256": "f31b556c48c8f537ac727d8fc43b61de4b56995a5de56dc0d36a324a76003849"
     }
    },
-   "rank": 83.489,
+   "rank": 82.528,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -9843,7 +10182,7 @@
      "body_sha256": "68523c057aa340e457ecff0cb3c894f35597e62326b571e9ed1b6c2e28db178a"
     }
    },
-   "rank": 55.79,
+   "rank": 55.134,
    "sources": [
     {
      "domain": "prazske-noviny.cz",
@@ -10017,7 +10356,7 @@
      "body_sha256": "a262612780ceb667198982301b192ce74b129c38719574e6408ee09b14542c4a"
     }
    },
-   "rank": 78.243,
+   "rank": 77.321,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -10220,7 +10559,7 @@
      "body_sha256": "4a9dd77cd6565b9a3fbe04ba6958a68e78e281db357273f53f0d23e999525d1e"
     }
    },
-   "rank": 63.202,
+   "rank": 62.441,
    "official_url": "https://policie.gov.cz/vysocina-kraj/muz-se-na-internetovych-seznamkach-vydaval-za-zenu",
    "image_url": "https://img.24n.cz/p/2026/11/politsiia-pragi-zaderzhala-retsidivista-za-krazhi-v-sportzal-566f4953d28a01fd.webp",
    "image_w": 1366,
@@ -10345,7 +10684,7 @@
      "body_sha256": "4d9040eba405d5a6fb285c951dab38014246a6ff4d76dcfea9b5624b17bbe2d1"
     }
    },
-   "rank": 58.601,
+   "rank": 57.88,
    "image_url": "https://img.24n.cz/p/2026/11/obiavleny-pobediteli-konkursa-ditia-chekhii-2026-a415ebf0349c4548.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/obiavleny-pobediteli-konkursa-ditia-chekhii-2026-4bc319e9b8123053.webp",
@@ -10537,7 +10876,7 @@
      "body_sha256": "c67300b88f07dfaaad1dc5102e40617c98daf697ebf603df772f7ea7c03e47e6"
     }
    },
-   "rank": 87.901,
+   "rank": 86.819,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -10793,7 +11132,7 @@
      "body_sha256": "ce2dbb250cb382326b8a8df99b40b6c476405fdb051891f69ea5835afa24c4ef"
     }
    },
-   "rank": 47.692,
+   "rank": 47.091,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -11019,7 +11358,7 @@
      "body_sha256": "f03ccbb51db0b8b052ac2f3d91fa077ae9a7170392f1b977e11198e658a23908"
     }
    },
-   "rank": 34.974,
+   "rank": 34.533,
    "image_url": "https://img.24n.cz/p/2026/11/prazhskii-filarmonicheskii-khor-dast-kontserty-na-zhofine-18-21ad328754b2696d.webp",
    "image_w": 1200,
    "image_h": 799
@@ -11159,7 +11498,7 @@
      "body_sha256": "40482dca7afd96a275a1cba78501d4e1c185b20a2aea94903b3c37e325561ba1"
     }
    },
-   "rank": 34.974
+   "rank": 34.533
   },
   {
    "id": "n8914",
@@ -11305,7 +11644,7 @@
      "body_sha256": "0c1957336f32767f2b1dc859d164cb43918e13fa80799c4b2113b4e8721f127e"
     }
    },
-   "rank": 52.604
+   "rank": 51.923
   },
   {
    "id": "n8913",
@@ -11434,7 +11773,7 @@
     ],
     "impact": "Участники программы кооперативного жилья в Брно столкнулись с ростом цен до 108 900 крон за квадратный метр и ожиданием начала строительства, которое затянулось на восемь лет."
    },
-   "rank": 64.981
+   "rank": 64.14
   },
   {
    "id": "n8912",
@@ -11607,7 +11946,7 @@
      "body_sha256": "fe67673952f35a06cf1c41003a506872e741763adecf7269ed7e9d705609ed65"
     }
    },
-   "rank": 71.17,
+   "rank": 70.248,
    "sources": [
     {
      "domain": "mhd86.cz",
@@ -11786,7 +12125,7 @@
      "body_sha256": "bb01906ce30353c296cc2f2f3834747a89595150f3cf88b0bcc64d9ab5495752"
     }
    },
-   "rank": 42.222,
+   "rank": 41.661,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -11965,7 +12304,7 @@
      "body_sha256": "bc3623d613ee1aca6aa51241bbcefcb9e230dfbc7e09f0064b75d2c98d14fba5"
     }
    },
-   "rank": 58.507,
+   "rank": 57.73,
    "sources": [
     {
      "domain": "atlas.centrum.cz",
@@ -12126,7 +12465,7 @@
      "body_sha256": "fe9e5c92b322bf307ab70177068908feffc8a61fe505cda963c64be2d550d30c"
     }
    },
-   "rank": 63.333,
+   "rank": 62.492,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -12334,7 +12673,7 @@
      "body_sha256": "b8b472f0f94606a3ff2bb983c7ae6c0a5936a5e501924d679c4f3ce2cd2e711d"
     }
    },
-   "rank": 58.57,
+   "rank": 57.769,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -12563,7 +12902,7 @@
      "body_sha256": "d04810e169ddff990eedf683825f43e38de81f6a512aec5d946428bc3b219c34"
     }
    },
-   "rank": 62.686
+   "rank": 61.805
   },
   {
    "id": "n8906",
@@ -12770,7 +13109,7 @@
      "body_sha256": "7f01004e24411c6d95d2f3608f1b172afae50a96a5f6d54a9d40b09b5e7d04c3"
     }
    },
-   "rank": 33.263,
+   "rank": 32.783,
    "story": [
     {
      "slug": "miss-mira-kristina-pyshkova-sozdala-prilozhenie-o-finansakh",
@@ -13041,7 +13380,7 @@
      "also": []
     }
    },
-   "rank": 41.883,
+   "rank": 41.243,
    "thread": {
     "slug": "strelba-v-krakove-i-mery-bezopasnosti-v-chekhii",
     "title": {
@@ -13523,7 +13862,7 @@
      ]
     }
    },
-   "rank": 54.448,
+   "rank": 53.615,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -13816,7 +14155,7 @@
      "also": []
     }
    },
-   "rank": 54.448,
+   "rank": 53.615,
    "story": [
     {
      "slug": "moshennichestvo-s-investitsiiami-v-chomutovska-pensionerka-lishilas-36",
@@ -14187,7 +14526,7 @@
      "also": []
     }
    },
-   "rank": 65.967,
+   "rank": 64.926,
    "story": [
     {
      "slug": "chekhiia-uzhestochaet-kontrol-za-chto-vrachi-ne-imeiut-prava-brat-deng",
@@ -14489,7 +14828,7 @@
      ]
     }
    },
-   "rank": 65.967,
+   "rank": 64.926,
    "story": [
     {
      "slug": "spetssluzhby-zapodozrili-znakomuiu-ensena-guanga-v-shpionazhe-v-polzu",
@@ -14757,7 +15096,7 @@
      ]
     }
    },
-   "rank": 60.385,
+   "rank": 59.432,
    "story": [
     {
      "slug": "politsiia-shumperska-proveriaet-soobshcheniia-ob-otravlenii-sobak",
@@ -14999,7 +15338,7 @@
      "body_sha256": "bafcaac1eebe2549219d913190d306f2cfabfcb0d1cd04836f65e16ffbbcae41"
     }
    },
-   "rank": 48.229,
+   "rank": 47.388,
    "sources": [
     {
      "domain": "tojesenzace.cz",
@@ -15225,7 +15564,7 @@
      ]
     }
    },
-   "rank": 51.444,
+   "rank": 50.547,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -15310,7 +15649,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 37.708
+   "rank": 37.035
   },
   {
    "id": "n8896",
@@ -15555,7 +15894,7 @@
      ]
     }
    },
-   "rank": 35.559,
+   "rank": 34.918,
    "image_url": "https://img.24n.cz/p/2026/11/biuro-chybik-kristof-postroit-arenu-v-nitre-na-5-5-tysiachi-395c4e1cf4b6fe7e.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -15770,7 +16109,7 @@
      ]
     }
    },
-   "rank": 44.449,
+   "rank": 43.648,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -16119,7 +16458,7 @@
      ]
     }
    },
-   "rank": 41.673,
+   "rank": 40.832,
    "story": [
     {
      "slug": "chekhiia-soberet-pomoshch-v-3500-magazinakh-na-aktsii-14-noiabria",
@@ -16492,7 +16831,7 @@
      ]
     }
    },
-   "rank": 38.498,
+   "rank": 37.721,
    "sources": [
     {
      "domain": "moje.metro.cz",
@@ -16696,7 +17035,7 @@
      "body_sha256": "46a96eb605d5dd01c95ddf8945c862bd65aa2b4a4ff47ecd41f9ad2a3b34b4d0"
     }
    },
-   "rank": 37.833,
+   "rank": 37.0,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -22053,7 +22392,7 @@
      ]
     }
    },
-   "rank": 57.182,
+   "rank": 56.868,
    "story": [
     {
      "slug": "mirek-topolanek-soobshchil-o-metastazakh-v-legkikh-ostalsia-god-esli-n",
@@ -43613,8 +43952,8 @@
    ],
    "published_at": "2026-11-12T14:28:24.985848+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 14:28",
@@ -44038,8 +44377,8 @@
    ],
    "published_at": "2026-11-12T14:28:24.985848+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 14:28",
@@ -44515,8 +44854,8 @@
    ],
    "published_at": "2026-11-12T14:28:24.985848+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 14:28",
@@ -44898,8 +45237,8 @@
    ],
    "published_at": "2026-11-12T14:28:24.985848+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "12 ноября 2026, 14:28",
@@ -67232,8 +67571,8 @@
    ],
    "published_at": "2026-11-11T14:30:19.528616+01:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "11 ноября 2026, 14:30",
@@ -67385,8 +67724,8 @@
    ],
    "published_at": "2026-11-11T14:30:19.528616+01:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "11 ноября 2026, 14:30",
@@ -85172,374 +85511,28 @@
      354
     ]
    ]
-  },
-  {
-   "id": "n8661",
-   "slug": "starostoi-loun-stal-pavel-ianda-a-ano-ushla-v-oppozitsiiu",
-   "source": "novinky.cz",
-   "original_url": "https://www.novinky.cz/clanek/volby-ano-vyhralo-v-lounech-s-naskokem-ale-skoncilo-v-opozici-mesto-ma-starostu-z-top-09-40607849",
-   "top": false,
-   "tags": [
-    "cesko",
-    "zakon"
-   ],
-   "published_at": "2026-11-10T13:40:57.461212+01:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "10 ноября 2026, 13:40",
-    "uk": "10 листопада 2026, 13:40"
-   },
-   "ru": {
-    "title": "Старостой Лоун стал Павел Янда, а ANO ушла в оппозицию",
-    "lede": "В городе Лоунах прошло голосование за новое руководство, в результате которого победившее на выборах движение ANO оказалось в оппозиции. Кресло старосты вновь занял Павел Янда.",
-    "meta_description": "В городе Louny прошли выборы нового руководства. Победившее движение ANO ушло в оппозицию, а старостой снова стал Павел Янда.",
-    "paras": [
-     "<p>В 18-тысячном городе Лоунах завершилось формирование нового руководства после местных выборов. На этот раз движение ANO набрало 27 процентов голосов и получило девять мандатов, улучшив свой результат по сравнению с выборами 2022 года, когда у него было почти 25 процентов и восемь мест в ратуше. Второе место заняла кандидатка от объединения Про лепши Лоун, отставшая на шесть процентов и получившая семь мандатов.</p>",
-     "<p>Победа не дала правительственному движению премьер-министра Андрея Бабиша большинства. Четыре политических субъекта объединили усилия, и их коалиция получила 16 из 29 мандатов в городском собрании. Партнерами выступили Про лепши Лоун, коалиция Лоуны сполечне (в нее входят Пираты, «Зеленые» и беспартийные), объединение Визе про Лоуны и союз Уние про спорт а здрави. В местный парламент прошли все участвовавшие силы, кроме коммунистов. Явка избирателей составила 37,21 процента.</p>",
-     "<h3>Возвращение прежнего руководителя</h3>",
-     "<p>Новым старостой города депутаты в понедельник избрали Павел Янда. За него проголосовали 17 членов собрания. Янда уже возглавлял местную администрацию с 2018 по 2022 год. Потом его сменил представитель движения ANO Милан Рыхтаржик. Первым шагом его коалиции стало снятие украинского флага со здания ратуши.</p>",
-     "<blockquote>Верю, что мы поведем взаимно вежливую и честную дискуссию по всему составу собрания</blockquote>",
-     "<p>Так свое избрание прокомментировал Павел Янда.</p>",
-     "<p>На полную ставку заместителем старосты депутаты выбрали Штепанка Слезакова из гражданских демократов. Он шёл по списку объединения Визе про Лоун. Неосвобождённым заместителем стал Радован Шабата из организации Уние про спорт а здрави.</p>",
-     "<h3>Планы новой коалиции</h3>",
-     "<p>В седьмой состав городского совета вошли также Ивана Глуштикова, Ондржей Соукуп, Ян Черва и Михал Кучера. Новое руководство собирается провести полную ревизию городского хозяйства и подведомственных организаций. Проверят и расходы на персонал, и текущую деятельность.</p>",
-     "<p>Кроме финансового аудита, коалиция разработает мотивационную программу для привлечения в город новых врачей. Власти займутся стабилизацией работы детской и взрослой скорой помощи. Отдельно изучат, можно ли возобновить работу стоматологической службы неотложной помощи.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Кто стал новым старостой Loun?",
-      "a": "Старостой города снова избран Павел Янда, который уже возглавлял Louny в 2018-2022 годах."
-     },
-     {
-      "q": "Почему победившее движение ANO оказалось в оппозиции?",
-      "a": "Движение ANO не смогло сформировать большинство, так как четыре другие объединения создали коалицию из 16 депутатов."
-     },
-     {
-      "q": "Какая партия заняла второе место на выборах?",
-      "a": "Второе место заняла кандидатка от объединения Pro lepší Louny с семью мандатами."
-     }
-    ],
-    "impact": "Изменения затрагивают жителей города Louny. Новое руководство планирует провести аудит городского хозяйства, заняться привлечением врачей и стабилизировать работу скорой помощи и медицинских дежурств.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Движение ANO набрало 27 процентов голосов и получило девять мандатов, улучшив результат 2022 года.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Коалиция четырёх субъектов получила 16 из 29 мандатов, а ANO осталась в оппозиции.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Новым старостой депутаты избрали Павла Янду 17 голосами; он уже возглавлял администрацию с 2018 по 2022 год.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Новое руководство планирует полную ревизию городского хозяйства и подведомственных организаций, включая расходы на персонал.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "старостой",
-       "definition": "Глава городской администрации в Чехии; в Лоунах его избирают депутаты городского собрания.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Неосвобождённым",
-       "definition": "Так называют заместителя, который совмещает должность с другой работой и не освобождён от неё ради службы в городе.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Павел Янда",
-       "definition": "Павел Янда — староста города Лоуни, избранный на этот пост в ноябре 2026 года; ранее уже занимал должность старосты в 2018–2022 годах.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Про лепши Лоун",
-       "definition": "Про лепши Лоун — чешское политическое объединение, участвующее в выборах в городе Лоуни; его лидером является Павел Янда.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Визе про Лоуны",
-       "definition": "Визе про Лоуны — местное объединение в городе Лоуны, совместный проект отделений ODS и KDU-ČSL для участия в коммунальных выборах 2026 года.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Что учесть по итогам выборов",
-      "items": [
-       {
-        "text": "Сверить расклад мандатов: у ANO девять мест, у коалиции четырёх субъектов — 16 из 29.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Помнить, что старосту выбирают депутаты городского собрания, а не избиратели напрямую.",
-        "target": {
-         "block": 4,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Отслеживать объявленную ревизию городского хозяйства и подведомственных организаций, включая расходы на персонал.",
-        "target": {
-         "block": 9,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Следить за мотивационной программой для привлечения новых врачей.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Обратить внимание на планы по стабилизации детской и взрослой скорой помощи.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Уточнять, возможно ли возобновление неотложной стоматологической помощи.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "13a9e0080f7394157089be9614d90e679e2bcec5b2693f77e3c8c626910a7616"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "pobeditel-vyborov-vo-slany-ushel-v-glukhuiu-oppozitsiiu",
-       "title": "Победитель выборов во Slaný ушел в глухую оппозицию",
-       "desc": "Победитель выборов в городе Slaný ушел в оппозицию. Все остальные партии сформировали широкую коалицию из пяти субъектов.",
-       "date": "20 октября 2026, 10:11",
-       "img": "https://img.24n.cz/p/2026/10/pobeditel-vyborov-vo-slany-ushel-v-glukhuiu-oppozitsiiu-169093ae681109e8.webp"
-      },
-      {
-       "slug": "v-usti-nad-labem-smenilas-vlast-koalitsiia-jedno-usti-poluchila-bolshi",
-       "title": "В Усти-над-Лабем сменилась власть: коалиция Jedno Ústí получила большинство в совете",
-       "desc": "В Усти-над-Лабем после выборов к власти пришла коалиция Jedno Ústí. Новый приматор Tomáš Vohryzka обещает реформы, а движение ANO впервые за восемь лет…",
-       "date": "19 октября 2026, 09:07",
-       "img": "https://img.24n.cz/p/2026/10/v-usti-nad-labem-smenilas-vlast-koalitsiia-jedno-usti-poluch-f8e31e9e1d4619f5.webp"
-      }
-     ]
-    }
-   },
-   "uk": {
-    "title": "Старостою Лоун став Павел Янда, а ANO пішла в опозицію",
-    "lede": "У місті Лоуни відбулося голосування за нове керівництво, у результаті якого переможний на виборах рух ANO опинився в опозиції. Крісло старости знову обійняв Павел Янда.",
-    "meta_description": "У місті Louny пройшли вибори нового керівництва. Переможний рух ANO пішов в опозицію, а старостою знову став Павел Янда.",
-    "paras": [
-     "<p>У 18-тисячному місті Лоуни завершилося формування нового керівництва після місцевих виборів. Цього разу рух ANO набрав 27 відсотків голосів і отримав дев'ять мандатів, покращивши свій результат порівняно з виборами 2022 року, коли в нього було майже 25 відсотків і вісім місць у ратуші. Друге місце посіла кандидатка від об'єднання Pro lepší Louny, відставши на шість відсотків і отримавши сім мандатів.</p>",
-     "<p>Перемога не дала урядовому руху прем'єр-міністра Андрея Бабіша більшості. Чотири політичні суб'єкти об'єднали зусилля, і їхня коаліція отримала 16 із 29 мандатів у міських зборах. Партнерами виступили Pro lepší Louny, коаліція Louny společně (до неї входять Пірати, «Зелені» та безпартійні), об'єднання Vize pro Louny і союз Unie pro sport a zdraví. До місцевого парламенту пройшли всі сили, що брали участь, крім комуністів. Явка виборців становила 37,21 відсотка.</p>",
-     "<h3>Повернення попереднього керівника</h3>",
-     "<p>Новим старостою міста депутати в понеділок обрали Павела Янду. За нього проголосували 17 членів зборів. Янда вже очолював місцеву адміністрацію з 2018 по 2022 рік. Потім його змінив представник руху ANO Мілан Рихтаржик. Першим кроком його коаліції стало зняття українського прапора з будівлі ратуші.</p>",
-     "<blockquote>Вірю, що ми поведемо взаємно ввічливу й чесну дискусію щодо всього складу зборів</blockquote>",
-     "<p>Так своє обрання прокоментував Павел Янда.</p>",
-     "<p>На повну ставку заступником старости депутати обрали Штепанка Слезака з громадянських демократів. Він ішов за списком об'єднання Vize pro Louny. Неосвободженим заступником став Радован Шабата з організації Unie pro sport a zdraví.</p>",
-     "<h3>Плани нової коаліції</h3>",
-     "<p>До сьомого складу міської ради увійшли також Івана Глуштікова, Ондржей Соукуп, Ян Черва і Міхал Кучера. Нове керівництво збирається провести повну ревізію міського господарства і підвідомчих організацій. Перевірять і витрати на персонал, і поточну діяльність.</p>",
-     "<p>Крім фінансового аудиту, коаліція розробить мотиваційну програму для залучення в місто нових лікарів. Влада займеться стабілізацією роботи дитячої та дорослої швидкої допомоги. Окремо вивчать, чи можна відновити роботу стоматологічної служби невідкладної допомоги.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Хто став новим старостою Loun?",
-      "a": "Старостою міста знову обрано Павела Янду, який уже очолював Louny у 2018-2022 роках."
-     },
-     {
-      "q": "Чому переможний рух ANO опинився в опозиції?",
-      "a": "Рух ANO не зміг сформувати більшість, оскільки чотири інші об'єднання створили коаліцію з 16 депутатів."
-     },
-     {
-      "q": "Яка партія посіла друге місце на виборах?",
-      "a": "Друге місце посіла кандидатка від об'єднання Pro lepší Louny з сімома мандатами."
-     }
-    ],
-    "impact": "Изменения затрагивают жителей города Louny. Новое руководство планирует провести аудит городского хозяйства, заняться привлечением врачей и стабилизировать работу скорой помощи и медицинских дежурств.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Рух ANO набрав 27 відсотків голосів і отримав дев'ять мандатів, покращивши результат 2022 року.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Коаліція чотирьох суб'єктів отримала 16 із 29 мандатів, тоді як ANO залишилася в опозиції.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Старостою обрали Павела Янду 17 голосами; він уже очолював адміністрацію з 2018 по 2022 рік.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Нове керівництво планує повну ревізію міського господарства, підвідомчих організацій, витрат на персонал і поточної діяльності.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "старостою",
-       "definition": "Староста — голова міської адміністрації в Чехії; тут цю посаду обійняв Павел Янда.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Неосвободженим",
-       "definition": "Неосвободжений заступник — той, хто виконує посаду поряд зі своєю основною роботою, а не на постійній оплачуваній основі.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Що врахувати після виборів у Лоунах",
-      "items": [
-       {
-        "text": "Перевірити розподіл 29 мандатів: коаліція має 16, ANO — дев'ять.",
-        "target": {
-         "block": 2,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Звернути увагу на склад керівництва: староста Павел Янда, заступники Штепанка Слезак і Радован Шабата.",
-        "target": {
-         "block": 7,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Стежити за повною ревізією міського господарства та підвідомчих організацій.",
-        "target": {
-         "block": 9,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Відслідковувати мотиваційну програму для залучення нових лікарів.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Дізнатися, чи відновлять роботу стоматологічної служби невідкладної допомоги.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "471db15cf8feff2f0fc968656b4097b871ad7c9176097d6eabbd6be51efb45a3"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "pobeditel-vyborov-vo-slany-ushel-v-glukhuiu-oppozitsiiu",
-       "title": "Переможець виборів у Сланому опинився в глибокій опозиції",
-       "desc": "Переможець виборів у Сланому опинився в опозиції. Усі інші партії сформували широку коаліцію з п’яти суб’єктів.",
-       "date": "20 жовтня 2026, 10:11",
-       "img": "https://img.24n.cz/p/2026/10/pobeditel-vyborov-vo-slany-ushel-v-glukhuiu-oppozitsiiu-169093ae681109e8.webp"
-      },
-      {
-       "slug": "v-usti-nad-labem-smenilas-vlast-koalitsiia-jedno-usti-poluchila-bolshi",
-       "title": "В Усті-над-Лабем змінилася влада: коаліція Jedno Ústí отримала більшість у раді",
-       "desc": "В Усті-над-Лабем після виборів до влади прийшла коаліція Jedno Ústí. Новий приматор Tomáš Vohryzka обіцяє реформи, а рух ANO вперше за вісім років…",
-       "date": "19 жовтня 2026, 09:07",
-       "img": "https://img.24n.cz/p/2026/10/v-usti-nad-labem-smenilas-vlast-koalitsiia-jedno-usti-poluch-f8e31e9e1d4619f5.webp"
-      }
-     ]
-    }
-   },
-   "rank": 41.65,
-   "sources": [
-    {
-     "domain": "metro.cz",
-     "official": false,
-     "url": "https://www.metro.cz/kraje/ustecky-kraj/starostou-loun-se-po-ctyrlete-pauze-stal-opet-janda-z-hnuti-pro-lepsi-louny.A261109_193133_metro-usti-zpravy_air",
-     "title": "Starostou Loun se po čtyřleté pauze stal opět Janda z hnutí Pro lepší Louny - Metro.cz"
-    },
-    {
-     "domain": "top09.cz",
-     "official": false,
-     "url": "https://www.top09.cz/regiony/ustecky-kraj/krajska-organizace/starostou-loun-je-zvolen-pavel-janda-z-top-09-25102.html",
-     "title": "Starostou Loun je zvolen Pavel Janda z TOP 09 | TOP 09"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 2,
-   "image_url": "https://img.24n.cz/p/2026/11/starostoi-loun-stal-pavel-ianda-a-ano-ushla-v-oppozitsiiu-6ec6dbf789ff0d5b.webp",
-   "image_w": 1200,
-   "image_h": 675
   }
  ],
  "stories": [
+  {
+   "slug": "remont-dorog-na-severe-pragi",
+   "title": {
+    "ru": "Ремонт дорог на севере Праги",
+    "uk": "Ремонт доріг на півночі Праги"
+   },
+   "desc": {
+    "ru": "В Праге ремонтируют улицы Cínovecká и Хлумецки, из-за чего ограничено движение и автобусы задерживаются до 45 минут.",
+    "uk": "У Празі ремонтують вулиці Cínovecká та Хлумецьку, через що обмежено рух і автобуси затримуються до 45 хвилин."
+   },
+   "updated": "2026-11-16T13:43:53.718738+00:00",
+   "members": [
+    "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
+    "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
+    "remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodlitsia-mesia",
+    "remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut",
+    "praga-so-sredy-zakroet-sezd-s-diablitskoi-na-tsinovetsku"
+   ]
+  },
   {
    "slug": "rekonstruktsiia-magistrali-u-glavnogo-vokzala",
    "title": {
@@ -86569,24 +86562,6 @@
     "evrokomissiia-odobrila-450-mln-dlia-onsemi-v-chekhii-no-pravitelstvo-m",
     "investitsii-onsemi-v-roznov-pod-radhostem-pod-ugrozoi-44-mlrd-kron-i-o",
     "kompaniia-onsemi-otmenila-rasshirenie-zavoda-na-43-5-mlrd-kron"
-   ]
-  },
-  {
-   "slug": "remont-dorog-na-severe-pragi",
-   "title": {
-    "ru": "Ремонт дорог на севере Праги",
-    "uk": "Ремонт доріг на півночі Праги"
-   },
-   "desc": {
-    "ru": "В Праге ремонтируют улицы Cínovecká и Хлумецки, из-за чего ограничено движение и автобусы задерживаются до 45 минут.",
-    "uk": "У Празі ремонтують вулиці Cínovecká та Хлумецьку, через що обмежено рух і автобуси затримуються до 45 хвилин."
-   },
-   "updated": "2026-11-06T18:17:02.256010+00:00",
-   "members": [
-    "remont-na-cinovecke-v-prage-4-3-km-dorogi-zakroiut-do-dekabria-2026-go",
-    "dorozhnyi-kollaps-v-prage-remont-na-cinovecka-i-drugie-perekrytiia",
-    "remont-khlumetskoi-v-prage-14-nachnetsia-7-noiabria-i-prodlitsia-mesia",
-    "remont-na-severe-pragi-zaderzhivaet-avtobusy-na-45-minut"
    ]
   },
   {
