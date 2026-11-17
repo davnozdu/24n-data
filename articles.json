@@ -1,8 +1,287 @@
 {
- "updated_at": "2026-11-17T16:05:57+00:00",
+ "updated_at": "2026-11-17T16:35:30+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n9018",
+   "slug": "liberetskii-krai-poteriaet-do-70-millionov-iz-za-novogo-zakona-o-vode",
+   "source": "irozhlas.cz",
+   "original_url": "https://www.irozhlas.cz/zpravy-domov/liberecky-kraj-nesouhlasi-s-navrhem-zakona-kterym-prisel-o-vynosy-z-poplatku-za_2611171718_bod",
+   "top": false,
+   "tags": [
+    "zakon",
+    "cesko"
+   ],
+   "published_at": "2026-11-17T17:35:30.031881+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "17 ноября 2026, 17:35",
+    "uk": "17 листопада 2026, 17:35"
+   },
+   "ru": {
+    "title": "Либерецький край потеряет до 70 миллионов из-за нового закона о воде",
+    "lede": "Либерецький край выступает против законопроекта, который лишит регионы доходов от сборов за подземные воды. В то же время он не против повышения платы за эти ресурсы с 2 до 7 крон за кубометр.",
+    "meta_description": "Либерецький край против законопроекта, который лишит регионы доходов от подземных вод, несмотря на согласие на повышение платы.",
+    "paras": [
+     "<p>Либерецький край не против повышения платы за подземные воды с 2 до 7 крон за кубометр, однако выступает против законопроекта, который приведет к потере доходов от этих сборов. Как заявил Иржи Клапште, заместитель председателя края, такой законопроект лишит регион 19 миллионов крон, а после увеличения тарифа эта сумма может вырасти до 70 миллионов.</p>",
+     "<p>В настоящее время половина доходов от сборов за подземные воды идет в Статни фонд животниго простршеди ЧР (Государственный фонд охраны окружающей среды Чехии), а другая половина остается в крае. Согласно предложению депутата Карел Туречек из партии ANO, 6/7 доходов должны пойти в государственный бюджет, а только 1/7 - в фонд.</p>",
+     "<p>По словам Мартин Пута, губернатора Либерецького края, важно, чтобы изменения в законе обсуждались с регионами. Он подчеркнул, что для небольших общин строительство канализаций и очистных сооружений — значительная финансовая нагрузка.</p>",
+     "<p>По данным официальных источников, общий годовой доход краев от сборов за подземные воды составляет примерно 357 миллионов крон. Плата за подземные воды предназначена для финансирования водохозяйственной инфраструктуры в малых населенных пунктах.</p>",
+     "<p>Повышение тарифа на подземные воды затронет и водоснабжающие компании. Например, группа Veolia ожидает, что её расходы на подземные воды вырастут на 259 миллионов крон в год. Это приведет к росту цен на воду, что, по расчетам, увеличит средние расходы домохозяйства на 160 крон в год.</p>",
+     "<p>Водоснабжающие компании также подчеркивают, что подземная вода в Чехии остается значительно дешевле, чем поверхностная. За 1000 литров подземной воды по-прежнему придется платить 2 кроны, в то время как за поверхностную - от 5,20 до 9 крон за кубометр.</p>",
+     "<p>Из-за изменений в законодательстве Кофола Ческословенско ожидает влияния на потребительские цены в секторе напитков, а Маттони 1873 еще не решила, как увеличение платы отразится на ценах на их продукцию.</p>"
+    ],
+    "faq": [],
+    "impact": "Изменение законодательства может привести к значительным финансовым потерям для Либерецького края, что отразится на финансировании водохозяйственной инфраструктуры. Повышение тарифов также скажется на ценах на воду для домохозяйств.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Либерецький край потеряет 19 миллионов крон, а после увеличения тарифа сумма может вырасти до 70 миллионов.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Согласно предложению депутата, 6/7 доходов от сборов должны пойти в государственный бюджет, а 1/7 — в фонд.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Расходы группы Veolia на подземные воды могут вырасти на 259 миллионов крон в год.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Мартин Пута",
+       "definition": "Мартин Пута — губернатор Либерецкого края.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Карел Туречек",
+       "definition": "Чешский политик, депутат Палаты депутатов Парламента Чешской Республики от партии ANO.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Маттони 1873",
+       "definition": "Чешская компания, занимающаяся розливом и дистрибуцией минеральных вод и напитков.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": {
+      "title": "Влияние нового закона о воде",
+      "items": [
+       {
+        "text": "Учитывайте возможное повышение платы за подземные воды с 2 до 7 крон за кубометр.",
+        "target": {
+         "block": 1,
+         "paragraph": 1
+        }
+       },
+       {
+        "text": "Примите во внимание, что рост расходов водоснабжающих компаний может увеличить средние расходы домохозяйства на 160 крон в год.",
+        "target": {
+         "block": 5,
+         "paragraph": 1
+        }
+       }
+      ]
+     },
+     "body_sha256": "551e9546a4ab445331df7d1f3e2748f91ad1f5c8114e687185a8cc32ff76a6ad"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "deputaty-povyshaiut-platu-za-podzemnuiu-vodu-do-7-kron-s-aprelia-2027",
+       "title": "Депутаты повышают плату за подземную воду до 7 крон с апреля 2027 года",
+       "desc": "Коалиция предлагает повысить плату за подземную воду с 2-3 до 7 крон за кубометр с апреля 2026 года. Края потеряют сотни миллионов, домохозяйства…",
+       "date": "6 ноября 2026, 22:03",
+       "img": "https://img.24n.cz/p/2026/11/deputaty-povyshaiut-platu-za-podzemnuiu-vodu-do-7-kron-s-apr-94000e8516f1fff1.webp",
+       "block": 1,
+       "phrase": "6/7 доходов должны пойти в государственный бюджет"
+      }
+     ],
+     "also": [
+      {
+       "slug": "partiia-motoriste-popytaetsia-zablokirovat-rost-tsen-na-vodu",
+       "title": "Партия Motoristé попытается заблокировать рост цен на воду",
+       "desc": "Партия Motoristé намерена на коалиционном совете обсудить планы по росту платы за откачку подземных вод до 7 крон за кубометр.",
+       "date": "7 ноября 2026, 13:38",
+       "img": ""
+      },
+      {
+       "slug": "v-moravskom-krase-postroiat-kanalizatsiiu-i-novuiu-ochistnuiu-stantsii",
+       "title": "В Моравском красе построят канализацию и новую очистную станцию за 230 миллионов крон",
+       "desc": "В Křtinách и Habrůvke построят новую канализацию и очистную станцию за 230 млн крон. Проект решит проблему загрязнения подземных вод и позволит…",
+       "date": "27 октября 2026, 04:47",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Ліберецький край втратить до 70 мільйонів через новий закон про воду",
+    "lede": "Ліберецький край виступає проти законопроєкту, який позбавить регіони доходів від зборів за підземні води. Водночас він не проти підвищення плати за ці ресурси з 2 до 7 крон за кубометр.",
+    "meta_description": "Ліберецький край проти законопроєкту, який позбавить регіони доходів від підземних вод, попри згоду на підвищення плати.",
+    "paras": [
+     "<p>Ліберецький край не проти підвищення плати за підземні води з 2 до 7 крон за кубометр, однак виступає проти законопроєкту, який призведе до втрати доходів від цих зборів. Як заявив Їржі Клапште, заступник голови краю, такий законопроєкт позбавить регіон 19 мільйонів крон, а після збільшення тарифу ця сума може зрости до 70 мільйонів.</p>",
+     "<p>Наразі половина доходів від зборів за підземні води йде до Статні фонд животніго простршеді ЧР (Державний фонд охорони довкілля Чехії), а друга половина залишається в краї. Згідно з пропозицією депутата Карела Туречека з партії ANO, 6/7 доходів мають піти до державного бюджету, а лише 1/7 до фонду.</p>",
+     "<p>За словами Мартіна Пути, губернатора Ліберецького краю, важливо, щоб зміни в законі обговорювали з регіонами. Він наголосив, що для невеликих громад будівництво каналізацій і очисних споруд є значним фінансовим тягарем.</p>",
+     "<p>За даними офіційних джерел, загальний річний дохід країв від зборів за підземні води становить приблизно 357 мільйонів крон. Плата за підземні води призначена для фінансування водогосподарської інфраструктури в малих населених пунктах.</p>",
+     "<p>Підвищення тарифу на підземні води торкнеться й водопостачальних компаній. Наприклад, група Veolia очікує, що її витрати на підземні води зростуть на 259 мільйонів крон на рік. Це призведе до зростання цін на воду, що, за розрахунками, збільшить середні витрати домогосподарства на 160 крон на рік.</p>",
+     "<p>Водопостачальні компанії також наголошують, що підземна вода в Чехії залишається значно дешевшою, ніж поверхнева. За 1000 літрів підземної води, як і раніше, доведеться платити 2 крони, тоді як за поверхневу від 5,20 до 9 крон за кубометр.</p>",
+     "<p>Через зміни в законодавстві Кофола Ческословенско очікує впливу на споживчі ціни в секторі напоїв, а Маттоні 1873 ще не вирішила, як збільшення плати позначиться на цінах на їхню продукцію.</p>"
+    ],
+    "faq": [],
+    "impact": "Изменение законодательства может привести к значительным финансовым потерям для Либерецького края, что отразится на финансировании водохозяйственной инфраструктуры. Повышение тарифов также скажется на ценах на воду для домохозяйств.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Ліберецький край може втратити від 19 до 70 мільйонів крон через новий законопроєкт щодо зборів за підземні води.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Згідно з пропозицією депутата Карела Туречека, 6/7 доходів від зборів мають надходити до державного бюджетu, а 1/7 — до фонду.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Зростання тарифу на підземні води збільшить витрати групи Veolia на 259 мільйонів крон на рік та підвищить витрати домогосподарств на 160 крон на рік.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "9937c15d052879ba3cc1e6d75b111e807056f793200712751d9180adafea6eef"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "deputaty-povyshaiut-platu-za-podzemnuiu-vodu-do-7-kron-s-aprelia-2027",
+       "title": "Депутати підвищують плату за підземну воду до 7 крон з квітня 2027 року",
+       "desc": "Коаліція пропонує підвищити плату за підземну воду з 2-3 до 7 крон за кубометр з квітня 2026 року. Краї втратять сотні мільйонів, домогосподарства…",
+       "date": "6 листопада 2026, 22:03",
+       "img": "https://img.24n.cz/p/2026/11/deputaty-povyshaiut-platu-za-podzemnuiu-vodu-do-7-kron-s-apr-94000e8516f1fff1.webp",
+       "block": 1,
+       "phrase": "6/7 доходів мають піти до державного бюджету"
+      }
+     ],
+     "also": [
+      {
+       "slug": "partiia-motoriste-popytaetsia-zablokirovat-rost-tsen-na-vodu",
+       "title": "Партія Motoristé спробує заблокувати зростання цін на воду",
+       "desc": "Партія Motoristé має намір на коаліційній раді обговорити плани щодо зростання плати за відкачування підземних вод до 7 крон за кубометр.",
+       "date": "7 листопада 2026, 13:38",
+       "img": ""
+      },
+      {
+       "slug": "v-moravskom-krase-postroiat-kanalizatsiiu-i-novuiu-ochistnuiu-stantsii",
+       "title": "У Моравському красі збудують каналізацію та нову очисну станцію за 230 мільйонів крон",
+       "desc": "У Křtinách і Habrůvke збудують нову каналізацію та очисну станцію за 230 млн крон. Проєкт вирішить проблему забруднення підземних вод і дозволить…",
+       "date": "27 жовтня 2026, 04:47",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "rank": 82.0,
+   "thread": {
+    "slug": "povyshenie-platy-za-podzemnuiu-vodu",
+    "title": {
+     "ru": "Повышение платы за подземную воду",
+     "uk": "Підвищення плати за підземну воду"
+    },
+    "count": 3
+   },
+   "story": [
+    {
+     "slug": "partiia-motoriste-popytaetsia-zablokirovat-rost-tsen-na-vodu",
+     "ru": "Партия Motoristé попытается заблокировать рост цен на воду",
+     "uk": "Партія Motoristé спробує заблокувати зростання цін на воду",
+     "published_at": "2026-11-07T13:38:34.431989+01:00",
+     "date": {
+      "ru": "7 ноября 2026, 13:38",
+      "uk": "7 листопада 2026, 13:38"
+     }
+    },
+    {
+     "slug": "deputaty-povyshaiut-platu-za-podzemnuiu-vodu-do-7-kron-s-aprelia-2027",
+     "ru": "Депутаты повышают плату за подземную воду до 7 крон с апреля 2027 года",
+     "uk": "Депутати підвищують плату за підземну воду до 7 крон з квітня 2027 року",
+     "published_at": "2026-11-06T22:03:19.546523+01:00",
+     "date": {
+      "ru": "6 ноября 2026, 22:03",
+      "uk": "6 листопада 2026, 22:03"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "domain": "ekonomickydenik.cz",
+     "official": false,
+     "url": "https://ekonomickydenik.cz/drazsi-podzemni-voda-ceny",
+     "title": "Dražší podzemní voda může zvednout ceny nápojů i vodného. Kofola už varuje"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/11/liberetskii-krai-poteriaet-do-70-millionov-iz-za-novogo-zako-da7491d60691b429.webp",
+   "images": [
+    "https://img.24n.cz/p/2026/11/liberetskii-krai-poteriaet-do-70-millionov-iz-za-novogo-zako-01a7a06d24cba53e.webp"
+   ],
+   "photo_spots": [
+    {
+     "url": "https://img.24n.cz/p/2026/11/liberetskii-krai-poteriaet-do-70-millionov-iz-za-novogo-zako-01a7a06d24cba53e.webp",
+     "after": 4,
+     "caption": "водохранилище с водозаборной башней и мостками на закате"
+    }
+   ],
+   "image_w": 620,
+   "image_h": 349,
+   "images_wh": [
+    [
+     1600,
+     1200
+    ]
+   ]
+  },
   {
    "id": "n9017",
    "slug": "praga-vpervye-za-vek-vystavila-53-raboty-iaroslava-chermaka",
@@ -15,8 +294,8 @@
    ],
    "published_at": "2026-11-17T17:05:56.154576+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "29 минут назад",
+    "uk": "29 хвилин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 17:05",
@@ -317,8 +596,8 @@
    ],
    "published_at": "2026-11-17T17:05:56.154576+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "29 минут назад",
+    "uk": "29 хвилин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 17:05",
@@ -753,8 +1032,8 @@
    ],
    "published_at": "2026-11-17T15:30:14.784781+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "17 ноября 2026, 15:30",
@@ -1041,8 +1320,8 @@
    ],
    "published_at": "2026-11-17T15:30:14.784781+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "17 ноября 2026, 15:30",
@@ -2218,7 +2497,7 @@
      ]
     }
    },
-   "rank": 61.728,
+   "rank": 61.287,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -2580,7 +2859,7 @@
      ]
     }
    },
-   "rank": 96.575,
+   "rank": 95.884,
    "story": [
     {
      "slug": "moninets-otkroet-gornolyzhnyi-sezon-15-noiabria",
@@ -2634,8 +2913,8 @@
    ],
    "published_at": "2026-11-17T13:17:36.311206+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "17 ноября 2026, 13:17",
@@ -2842,7 +3121,7 @@
      ]
     }
    },
-   "rank": 56.337,
+   "rank": 55.931,
    "sources": [
     {
      "domain": "news.headliner.cz",
@@ -2901,8 +3180,8 @@
    ],
    "published_at": "2026-11-17T13:17:36.311206+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "17 ноября 2026, 13:17",
@@ -3104,7 +3383,7 @@
      ]
     }
    },
-   "rank": 127.499,
+   "rank": 126.581,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -3402,7 +3681,7 @@
      ]
     }
    },
-   "rank": 106.858,
+   "rank": 106.083,
    "sources": [
     {
      "domain": "spravazeleznic.cz",
@@ -3775,7 +4054,7 @@
      ]
     }
    },
-   "rank": 119.603,
+   "rank": 118.735,
    "thread": {
     "slug": "biudzhetnyi-defitsit-i-rost-gosdolga-chekhii",
     "title": {
@@ -3859,8 +4138,8 @@
    ],
    "published_at": "2026-11-17T12:11:05.938785+01:00",
    "time": {
-    "ru": "4 часа назад",
-    "uk": "4 години тому"
+    "ru": "5 часов назад",
+    "uk": "5 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 12:11",
@@ -4038,7 +4317,7 @@
      ]
     }
    },
-   "rank": 94.318,
+   "rank": 93.628,
    "sources": [
     {
      "domain": "refresher.cz",
@@ -4081,8 +4360,8 @@
    ],
    "published_at": "2026-11-17T11:09:29.371517+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 11:09",
@@ -4304,7 +4583,7 @@
      ]
     }
    },
-   "rank": 86.177,
+   "rank": 85.536,
    "image_url": "https://img.24n.cz/p/2026/11/bolnitsa-v-shumperke-vvela-elektronnuiu-ochered-i-triazh-per-007b4ef903e320a5.webp",
    "image_w": 620,
    "image_h": 349
@@ -4321,8 +4600,8 @@
    ],
    "published_at": "2026-11-17T11:09:29.371517+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 11:09",
@@ -4522,7 +4801,7 @@
      ]
     }
    },
-   "rank": 76.602,
+   "rank": 76.032,
    "image_url": "https://img.24n.cz/p/2026/11/praga-6-kupila-dve-pumptrack-dorogi-za-2-6-mln-kron-bez-konk-cc82f8cea7b52406.webp",
    "image_w": 1600,
    "image_h": 1067
@@ -4539,8 +4818,8 @@
    ],
    "published_at": "2026-11-17T11:09:29.371517+01:00",
    "time": {
-    "ru": "5 часов назад",
-    "uk": "5 годин тому"
+    "ru": "6 часов назад",
+    "uk": "6 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 11:09",
@@ -4894,7 +5173,7 @@
      ]
     }
    },
-   "rank": 124.478,
+   "rank": 123.552,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -5121,7 +5400,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 81.272
+   "rank": 80.667
   },
   {
    "id": "n9000",
@@ -5415,7 +5694,7 @@
      ]
     }
    },
-   "rank": 97.225,
+   "rank": 96.478,
    "thread": {
     "slug": "shpionskii-skandal-vokrug-nvidia",
     "title": {
@@ -5801,7 +6080,7 @@
      ]
     }
    },
-   "rank": 120.374,
+   "rank": 119.448,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -6113,7 +6392,7 @@
      "also": []
     }
    },
-   "rank": 117.596,
+   "rank": 116.692,
    "sources": [
     {
      "domain": "pozary.cz",
@@ -6141,8 +6420,8 @@
    ],
    "published_at": "2026-11-17T08:28:38.992692+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 08:28",
@@ -6359,7 +6638,7 @@
      ]
     }
    },
-   "rank": 85.448,
+   "rank": 84.786,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -6413,8 +6692,8 @@
    ],
    "published_at": "2026-11-17T08:28:38.992692+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 08:28",
@@ -6609,7 +6888,7 @@
      ]
     }
    },
-   "rank": 68.91,
+   "rank": 68.376,
    "image_url": "https://img.24n.cz/p/2026/11/vo-frydek-misteke-novye-svetofory-na-glavni-trshide-ukrotiat-d38c3663e7904f21.webp",
    "image_w": 620,
    "image_h": 349
@@ -6625,8 +6904,8 @@
    ],
    "published_at": "2026-11-17T06:19:44.932712+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 06:19",
@@ -7025,7 +7304,7 @@
      ]
     }
    },
-   "rank": 106.532,
+   "rank": 105.678,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -7140,8 +7419,8 @@
    ],
    "published_at": "2026-11-17T06:19:44.932712+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 06:19",
@@ -7299,7 +7578,7 @@
      "body_sha256": "77fedfa0e58ed08d6ed546e6dd96f2dfce28187bb7ab4e45356fc1eec41c9e5b"
     }
    },
-   "rank": 84.338,
+   "rank": 83.662,
    "sources": [
     {
      "domain": "psas.cz",
@@ -7648,7 +7927,7 @@
      ]
     }
    },
-   "rank": 86.993,
+   "rank": 86.288,
    "sources": [
     {
      "domain": "novina.cz",
@@ -8061,7 +8340,7 @@
      ]
     }
    },
-   "rank": 86.375,
+   "rank": 85.663,
    "thread": {
     "slug": "koalitsiia-v-zline-i-novyi-primator",
     "title": {
@@ -8442,7 +8721,7 @@
      ]
     }
    },
-   "rank": 96.74,
+   "rank": 95.943,
    "thread": {
     "slug": "skandal-vokrug-vyskazyvanii-matsinki-o-khokkee",
     "title": {
@@ -8738,7 +9017,7 @@
      ]
     }
    },
-   "rank": 42.055,
+   "rank": 41.685,
    "thread": {
     "slug": "usilenie-transporta-v-prage-iz-za-mitinga-na-letne",
     "title": {
@@ -9005,7 +9284,7 @@
      ]
     }
    },
-   "rank": 48.526,
+   "rank": 48.098,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -9047,8 +9326,8 @@
    ],
    "published_at": "2026-11-17T00:18:06.247378+01:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "17 ноября 2026, 00:18",
@@ -9282,7 +9561,7 @@
      "body_sha256": "c101c4d21918189ae5e54f008d39097cd54b41b5a3943594d3564f1565c85aa0"
     }
    },
-   "rank": 68.06
+   "rank": 67.455
   },
   {
    "id": "n8987",
@@ -9556,7 +9835,7 @@
      ]
     }
    },
-   "rank": 66.045,
+   "rank": 65.44,
    "image_url": "https://img.24n.cz/p/2026/11/professor-putna-ushel-iz-priamogo-efira-ct-nazvav-peredachu-c755efbbf0f99da3.webp",
    "image_w": 630,
    "image_h": 350
@@ -9573,8 +9852,8 @@
    ],
    "published_at": "2026-11-16T22:07:50.219847+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "16 ноября 2026, 22:07",
@@ -9945,7 +10224,7 @@
      ]
     }
    },
-   "rank": 92.321,
+   "rank": 91.467,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -10295,7 +10574,7 @@
      ]
     }
    },
-   "rank": 66.29,
+   "rank": 65.671,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -10491,7 +10770,7 @@
      "body_sha256": "c778e80957c357cdbebe1b8d3456628a50d422103e385985c03c30328fa18178"
     }
    },
-   "rank": 45.217,
+   "rank": 44.79,
    "image_url": "https://img.24n.cz/p/2026/11/zhenshchiny-zaniali-do-treti-mest-v-sovetakh-pardubitskogo-k-f276646413dd3642.webp",
    "image_w": 620,
    "image_h": 349
@@ -10544,7 +10823,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 63.281
+   "rank": 62.683
   },
   {
    "id": "n8982",
@@ -10558,8 +10837,8 @@
    ],
    "published_at": "2026-11-16T20:27:27.949608+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "16 ноября 2026, 20:27",
@@ -10805,7 +11084,7 @@
      ]
     }
    },
-   "rank": 70.792,
+   "rank": 70.116,
    "thread": {
     "slug": "reforma-zarplat-gossluzhashchikh-v-chekhii",
     "title": {
@@ -10849,8 +11128,8 @@
    ],
    "published_at": "2026-11-16T19:30:47.557075+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 19:30",
@@ -11141,7 +11420,7 @@
      ]
     }
    },
-   "rank": 76.811,
+   "rank": 76.064,
    "thread": {
     "slug": "vykhod-politikov-iz-dvizheniia-ano",
     "title": {
@@ -11208,8 +11487,8 @@
    ],
    "published_at": "2026-11-16T19:30:47.557075+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 19:30",
@@ -11413,7 +11692,7 @@
      ]
     }
    },
-   "rank": 76.811,
+   "rank": 76.064,
    "image_url": "https://img.24n.cz/p/2026/11/ministr-inostrannykh-del-petr-matsinka-oskorbil-khokkeistok-96c0aa4ca03a459b.webp",
    "image_w": 1200,
    "image_h": 674
@@ -11430,8 +11709,8 @@
    ],
    "published_at": "2026-11-16T19:30:47.557075+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 19:30",
@@ -11641,7 +11920,7 @@
      ]
     }
    },
-   "rank": 87.784,
+   "rank": 86.93,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -11916,7 +12195,7 @@
      ]
     }
    },
-   "rank": 55.659,
+   "rank": 55.111,
    "sources": [
     {
      "domain": "mmkv.cz",
@@ -12206,7 +12485,7 @@
      ]
     }
    },
-   "rank": 77.345,
+   "rank": 76.583,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -12229,8 +12508,8 @@
    ],
    "published_at": "2026-11-16T18:34:04.737245+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 18:34",
@@ -12274,7 +12553,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 58.866,
+   "rank": 58.283,
    "forecast": true
   },
   {
@@ -12288,8 +12567,8 @@
    ],
    "published_at": "2026-11-16T18:27:57.025454+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "16 ноября 2026, 18:27",
@@ -12542,7 +12821,7 @@
      ]
     }
    },
-   "rank": 82.387,
+   "rank": 81.568,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -12864,7 +13143,7 @@
      "also": []
     }
    },
-   "rank": 63.754
+   "rank": 63.114
   },
   {
    "id": "n8973",
@@ -13104,7 +13383,7 @@
      "also": []
     }
    },
-   "rank": 70.838,
+   "rank": 70.127,
    "story": [
     {
      "slug": "kallum-terner-proshel-kinoproby-na-dzheimsa-bonda-v-bray-studios",
@@ -13170,8 +13449,8 @@
    ],
    "published_at": "2026-11-16T17:25:06.419909+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "16 ноября 2026, 17:25",
@@ -13363,7 +13642,7 @@
      ]
     }
    },
-   "rank": 62.414,
+   "rank": 61.78,
    "sources": [
     {
      "domain": "knihkupec.net",
@@ -13393,8 +13672,8 @@
    ],
    "published_at": "2026-11-16T17:25:06.419909+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "16 ноября 2026, 17:25",
@@ -13613,7 +13892,7 @@
      ]
     }
    },
-   "rank": 70.128,
+   "rank": 69.416,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -13651,8 +13930,8 @@
    ],
    "published_at": "2026-11-16T17:25:06.419909+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "16 ноября 2026, 17:25",
@@ -13890,7 +14169,7 @@
      ]
     }
    },
-   "rank": 70.128,
+   "rank": 69.416,
    "image_url": "https://img.24n.cz/p/2026/11/politsiia-zaderzhala-dvukh-podozrevaemykh-v-krazhe-v-vesttse-94c1cf52c74ae04d.webp",
    "image_w": 1148,
    "image_h": 674
@@ -14102,7 +14381,7 @@
      "body_sha256": "0ffea19fc90f6a1db9018fb55791cb0c749ed11d8ad9a086a6288258b8174e9e"
     }
    },
-   "rank": 62.473,
+   "rank": 61.832,
    "image_url": "https://img.24n.cz/p/2026/11/egipet-nachal-stroit-gorod-alam-al-roum-za-650-mlrd-kron-737a25c4e53eaefd.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/egipet-nachal-stroit-gorod-alam-al-roum-za-650-mlrd-kron-e0144137b030f161.webp"
@@ -14293,7 +14572,7 @@
      "body_sha256": "04d6ab2df9c7aabf86e43f938dbcd13c1964e3eaf420cb3c757c082c22e348da"
     }
    },
-   "rank": 76.356,
+   "rank": 75.573,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -14539,7 +14818,7 @@
      ]
     }
    },
-   "rank": 69.414,
+   "rank": 68.702,
    "story": [
     {
      "slug": "moshenniki-rassylaiut-feikovye-sms-ot-csob-kak-ne-poteriat-dengi",
@@ -14792,7 +15071,7 @@
      ]
     }
    },
-   "rank": 54.757,
+   "rank": 54.188,
    "image_url": "https://img.24n.cz/p/2026/11/ostrava-khochet-peredat-gorbolnitsu-gosudarstvu-iz-za-6-mlrd-bb0119290dc78ebb.webp",
    "image_w": 620,
    "image_h": 349
@@ -14993,7 +15272,7 @@
      ]
     }
    },
-   "rank": 40.686,
+   "rank": 40.259,
    "image_url": "https://img.24n.cz/p/2026/11/prepodavatel-iz-ssha-vozglavil-kafedru-v-prazhskom-vuze-127ba7e859327554.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/prepodavatel-iz-ssha-vozglavil-kafedru-v-prazhskom-vuze-c9467258ed60b79a.webp",
@@ -15212,7 +15491,7 @@
      "body_sha256": "75924c7a5555458b61965f944f3d4faaf352bef8d8fe6a681e475a52f8c3791a"
     }
    },
-   "rank": 70.358,
+   "rank": 69.611,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -15523,7 +15802,7 @@
      ]
     }
    },
-   "rank": 69.559,
+   "rank": 68.812,
    "thread": {
     "slug": "remont-dorog-na-severe-pragi",
     "title": {
@@ -15739,7 +16018,7 @@
      "body_sha256": "afe094888425d321a3f73bfe4a65c565cebcff3834e13ce30cc93b4ebc2c9401"
     }
    },
-   "rank": 65.446
+   "rank": 64.734
   },
   {
    "id": "n8961",
@@ -15951,7 +16230,7 @@
      ]
     }
    },
-   "rank": 70.38,
+   "rank": 69.604,
    "sources": [
     {
      "domain": "centrum.cz",
@@ -16234,7 +16513,7 @@
      ]
     }
    },
-   "rank": 76.608,
+   "rank": 75.754,
    "story": [
     {
      "slug": "200-milliardov-kron-pragi-sberezheniia-ili-upushchennye-investitsii",
@@ -16467,7 +16746,7 @@
      "body_sha256": "c7ab6dc352e159cfc9ad766695ffad749bea9d15ef82a3d88c2213a863e1d76b"
     }
    },
-   "rank": 50.439
+   "rank": 49.869
   },
   {
    "id": "n8958",
@@ -16652,7 +16931,7 @@
      ]
     }
    },
-   "rank": 59.12,
+   "rank": 58.444,
    "sources": [
     {
      "domain": "mostecky.denik.cz",
@@ -16942,7 +17221,7 @@
      ]
     }
    },
-   "rank": 64.197,
+   "rank": 63.435,
    "story": [
     {
      "slug": "miniust-chekhii-proveriaet-vozmozhnyi-nelegalnyi-lobbizm-u-ministra-iu",
@@ -17191,7 +17470,7 @@
      ]
     }
    },
-   "rank": 56.997,
+   "rank": 56.321,
    "official_url": "https://policie.gov.cz/kralovehradecky-kraj/kriminaliste-dopadli-serioveho-zlodeje"
   },
   {
@@ -17484,7 +17763,7 @@
      "also": []
     }
    },
-   "rank": 76.806,
+   "rank": 75.881,
    "story": [
     {
      "slug": "zapis-v-pervyi-klass-v-chekhii-v-2027-godu-sroki-pravila-i-dokumenty",
@@ -17738,7 +18017,7 @@
      ]
     }
    },
-   "rank": 58.491,
+   "rank": 57.786,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -18061,7 +18340,7 @@
      ]
     }
    },
-   "rank": 66.962,
+   "rank": 66.143,
    "thread": {
     "slug": "rekonstruktsiia-magistrali-u-glavnogo-vokzala",
     "title": {
@@ -18389,7 +18668,7 @@
      ]
     }
    },
-   "rank": 44.654,
+   "rank": 44.084,
    "official_url": "https://policie.gov.cz/pardubicky-kraj/v-kukle-a-se-zbrani-chtel-delat-ochranku-znamemu"
   },
   {
@@ -18733,7 +19012,7 @@
      ]
     }
    },
-   "rank": 57.441,
+   "rank": 56.7,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -19052,7 +19331,7 @@
      ]
     }
    },
-   "rank": 52.47,
+   "rank": 51.794,
    "image_url": "https://img.24n.cz/p/2026/11/notino-oproverglo-slukhi-o-prodazhe-i-ishchet-partnera-dlia-5f3555e06927da8f.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/notino-oproverglo-slukhi-o-prodazhe-i-ishchet-partnera-dlia-8d4a1b70e4daff00.webp",
@@ -19287,7 +19566,7 @@
      "body_sha256": "9adeb39df6c3260210fa4a57862dc0e86ec2f4207b9b646dccc135f871d1de38"
     }
    },
-   "rank": 27.616,
+   "rank": 27.26,
    "image_url": "https://img.24n.cz/p/2026/11/v-zhdiare-nad-sazavou-postavili-kamery-protiv-chernykh-svalo-6531ff54abce477c.webp",
    "image_w": 620,
    "image_h": 349
@@ -19538,7 +19817,7 @@
      ]
     }
    },
-   "rank": 52.47,
+   "rank": 51.794,
    "image_url": "https://img.24n.cz/p/2026/11/openai-kupila-startap-odessia-frantsisa-davidsona-134a271f11270e22.webp",
    "video": {
     "kind": "iframe",
@@ -19760,7 +20039,7 @@
      ]
     }
    },
-   "rank": 33.139,
+   "rank": 32.712,
    "image_url": "https://img.24n.cz/p/2026/11/derevnia-na-400-chelovek-oplatit-zamu-starosty-pochti-millio-e6489ea23e7d021a.webp",
    "image_w": 620,
    "image_h": 349
@@ -19976,7 +20255,7 @@
      "body_sha256": "d499b9883462e0643f0b12c8204c1e2ec7d89d57dcdbe8aba2c8ead337d2e945"
     }
    },
-   "rank": 61.443,
+   "rank": 61.207,
    "sources": [
     {
      "domain": "tojesenzace.cz",
@@ -20231,7 +20510,7 @@
      "body_sha256": "b422856e4d4af2d6d962811d81e0aee00d12086b86db4ad86ba425ba5304ad7c"
     }
    },
-   "rank": 49.708,
+   "rank": 49.068,
    "image_url": "https://img.24n.cz/p/2026/11/mikrotik-pokazala-flagmanskii-router-na-servernom-chipe-ampe-0ff056da4dc3fcf5.webp",
    "image_w": 1551,
    "image_h": 1168
@@ -20670,7 +20949,7 @@
      ]
     }
    },
-   "rank": 106.116,
+   "rank": 105.706,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -21116,7 +21395,7 @@
      "body_sha256": "efe1f9a7de3c1c929daa1195e613dda9f294cbf4a3932c786423079bb5f8c01c"
     }
    },
-   "rank": 42.734,
+   "rank": 42.165,
    "image_url": "https://img.24n.cz/p/2026/11/spotovyi-tarif-vygoden-tem-kto-perenosit-potreblenie-na-desh-068982c83201606d.webp",
    "image_w": 750,
    "image_h": 300
@@ -21527,7 +21806,7 @@
      ]
     }
    },
-   "rank": 52.669,
+   "rank": 51.957,
    "story": [
     {
      "slug": "dtest-predupredil-o-falshivykh-skidkakh-k-black-friday-27-noiabria",
@@ -21882,7 +22161,7 @@
      ]
     }
    },
-   "rank": 62.676,
+   "rank": 61.829,
    "thread": {
     "slug": "izmeneniia-pensionnykh-pravil-v-chekhii",
     "title": {
@@ -22158,7 +22437,7 @@
      ]
     }
    },
-   "rank": 61.295,
+   "rank": 60.441,
    "sources": [
     {
      "domain": "nedd.tiscali.cz",
@@ -22572,7 +22851,7 @@
      ]
     }
    },
-   "rank": 54.655,
+   "rank": 53.893,
    "sources": [
     {
      "domain": "cfotrends.cz",
@@ -22772,7 +23051,7 @@
      "body_sha256": "111f6a6183fa3a4152b0c0f363b138ba78df02624948a263abd5a733e9bfc7b2"
     }
    },
-   "rank": 43.009,
+   "rank": 42.368,
    "sources": [
     {
      "domain": "pisecky.denik.cz",
@@ -23005,7 +23284,7 @@
      ]
     }
    },
-   "rank": 28.227,
+   "rank": 27.8,
    "image_url": "https://img.24n.cz/p/2026/11/regbist-nitsolaas-uys-otkryl-v-prage-bistro-saffa-maso-3c310b62026bf190.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/regbist-nitsolaas-uys-otkryl-v-prage-bistro-saffa-maso-81cce9331c37120f.webp"
@@ -23169,7 +23448,7 @@
      "body_sha256": "20b210c000a1ea2ebf6fe90e4c0c814fd0d462792d9d6f85cbd1119bcecb9cfa"
     }
    },
-   "rank": 39.321
+   "rank": 38.716
   },
   {
    "id": "n8935",
@@ -23358,7 +23637,7 @@
      "body_sha256": "00aab2be6eb98eaf9d55bd2dbb9cea09936d635b64dad431b1a675e2aac5f6e9"
     }
    },
-   "rank": 53.198,
+   "rank": 52.38,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-investory-vlozhili-milliardy-v-nedvizhimost-doma-i-ad148f409ab60848.webp",
    "image_w": 1200,
    "image_h": 675
@@ -23517,7 +23796,7 @@
      "body_sha256": "f2dcc5495f1619954b1a8ebdbfc71c22011428e3adedd0fa049feb1b6ef4eafd"
     }
    },
-   "rank": 35.295,
+   "rank": 34.733,
    "sources": [
     {
      "domain": "fm.denik.cz",
@@ -23685,7 +23964,7 @@
      "body_sha256": "bc5182f50acb26db08b38f955d57121dcbd2191551a85aa5a0ecb9d1fad9c09c"
     }
    },
-   "rank": 54.062,
+   "rank": 53.172,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -23894,7 +24173,7 @@
      "body_sha256": "bf80b413e4ea8956ead6b43d79d5b76628fa6371f8657787825ea4deb11cc84d"
     }
    },
-   "rank": 36.762
+   "rank": 36.157
   },
   {
    "id": "n8930",
@@ -24065,7 +24344,7 @@
      "body_sha256": "8f56ce4987677f8319b4e2df33b4f8840823162526d0d5060110021bfecb0b93"
     }
    },
-   "rank": 36.098,
+   "rank": 35.457,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskii-natsbank-podnial-stavku-iz-za-ugrozy-dorozhaniia-s-1151958fb52e8b9c.webp",
    "image_w": 1200,
    "image_h": 630
@@ -24113,7 +24392,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 32.48
+   "rank": 31.868
   },
   {
    "id": "n8928",
@@ -24261,7 +24540,7 @@
      "body_sha256": "3e6a7b3addfb312b44ebcc2f3ba476c9ca4caa361251fe4e96675831086242c6"
     }
    },
-   "rank": 37.768,
+   "rank": 37.042,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -24489,7 +24768,7 @@
      "body_sha256": "fe4b492f92742bf66d90916edba050840ed71c3a4220adc48542a7bb9d1f33cd"
     }
    },
-   "rank": 42.582,
+   "rank": 41.763,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -24525,8 +24804,8 @@
    ],
    "published_at": "2026-11-15T17:25:32.291470+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "15 ноября 2026, 17:25",
@@ -24658,7 +24937,7 @@
      "body_sha256": "f22fba60ae2195612b57d3950f042230ae6153b0002fa30f8072acde98f69b9a"
     }
    },
-   "rank": 30.151,
+   "rank": 29.75,
    "sources": [
     {
      "domain": "media24.cz",
@@ -31420,8 +31699,8 @@
    ],
    "published_at": "2026-11-14T17:25:23.913189+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "14 ноября 2026, 17:25",
@@ -31783,8 +32062,8 @@
    ],
    "published_at": "2026-11-14T17:25:23.913189+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "14 ноября 2026, 17:25",
@@ -41686,8 +41965,8 @@
    ],
    "published_at": "2026-11-13T17:27:58.635121+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "13 ноября 2026, 17:27",
@@ -58304,8 +58583,8 @@
    ],
    "published_at": "2026-11-12T17:09:56.828504+01:00",
    "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
+    "ru": "5 дней назад",
+    "uk": "5 днів тому"
    },
    "date": {
     "ru": "12 ноября 2026, 17:09",
@@ -84648,302 +84927,26 @@
      354
     ]
    ]
-  },
-  {
-   "id": "n8716",
-   "slug": "gruppa-fall-out-boy-nachnet-mirovoi-tur-17-maia-v-prage",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/kultura/hudba/soumrak-punkeru-fall-out-boy-v-praze-odstartuji-sve-dosud-nejvetsi-turne.A261110_115839_hudba_jgo#utm_source=rss&utm_medium=feed&utm_campaign=kultura&utm_content=main",
-   "top": false,
-   "tags": [
-    "dosug",
-    "cesko",
-    "praha"
-   ],
-   "published_at": "2026-11-11T10:39:38.686606+01:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "11 ноября 2026, 10:39",
-    "uk": "11 листопада 2026, 10:39"
-   },
-   "ru": {
-    "title": "Группа Fall Out Boy начнет мировой тур 17 мая в Праге",
-    "lede": "Знаменитая американская группа Fall Out Boy выступит 17 мая в пражской O2 арене, где даст старт своему новому масштабному туру Twilight of the Punks. Билеты на концерт поступят в продажу по цене от 1 400 крон.",
-    "meta_description": "Fall Out Boy выступят в пражской O2 арене 17 мая в рамках тура Twilight of the Punks. Старт продаж билетов 12 ноября.",
-    "paras": [
-     "<p>Американская поп-панк-группа <b>Fall Out Boy</b> объявила о старте своего крупнейшего концертного тура под названием <b>Twilight of the Punks</b>. Первое шоу масштабного турне пройдет в Праге <b>17 мая</b> О2 арены, где музыканты также представят свой совершенно новый сингл Aces.</p>",
-     "<p>Грядущее турне станет самым масштабным в истории коллектива и охватит стадионы и арены сразу в трех регионах. Всего в график вошло <b>36 концертов</b> в Европе, Великобритании и Северной Америке. Европейская и британская часть программы включает 15 выступлений в 11 государствах, после чего в июле музыканты отправятся за океан для серии из 21 стадионного шоу в США и Канаде.</p>",
-     "<h3>Празднование юбилея и новая музыка</h3>",
-     "<p>В текущем году группа отмечает <b>25-летие</b> на сцене. Новую творческую главу коллектив открывает синглом Aces, над которым работал давний соратник музыкантов <b>Neil Avron</b>, выступивший продюсером и звукорежиссером трека. Сингл возвращает слушателям характерную энергию и мелодизм ранних записей команды.</p>",
-     "<p>Одновременно с релизом песни вышел официальный видеоклип, режиссером которого стал фотограф <b>Brendan Walter</b>. Ранее он работал с такими известными артистами, как Green Day, Weezer, Sia, Lorde и Kesha.</p>",
-     "<h3>Состав и творческий путь</h3>",
-     "<p>Коллектив сформировался в Чикаго. Сейчас это одна из самых коммерчески успешных рок-групп современности. В составе: вокалист и гитарист <b>Patrick Stump</b>, бас-гитарист <b>Pete Wentz</b>, гитарист <b>Joe Trohman</b> и ударник <b>Andy Hurley</b>.</p>",
-     "<p>Предыдущая пластинка группы, <b>So Much (For) Stardust</b>, вышла в марте 2023 года и сразу заняла первое место в рок-чарте. Сингл Love From The Other Side стал для команды первой в истории композицией, возглавившей американский чарт альтернативного радио. А в 2021 году группа уже выступала на стадионах вместе с Green Day и Weezer, в рамках большого тура The Hella Mega Tour. На те концерты пришли больше миллиона человек.</p>",
-     "<h3>Билеты и гости концерта</h3>",
-     "<p>Специальными гостями на всех европейских концертах Twilight of the Punks станут группы <b>A Day To Remember</b> и <b>Neck Deep</b>. Билеты на пражское выступление поступят в продажу <b>12 ноября в 12:00</b>. Минимальная стоимость составит <b>1 400 крон</b>.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Когда Fall Out Boy выступят в Праге?",
-      "a": "Концерт состоится 17 мая в пражской O2 арене."
-     },
-     {
-      "q": "Сколько стоят билеты на концерт?",
-      "a": "Стоимость билетов начинается от 1 400 крон, а продажи стартуют 12 ноября в 12:00."
-     },
-     {
-      "q": "Кто выступит на разогреве в Праге?",
-      "a": "Специальными гостями на всех европейских концертах тура станут группы A Day To Remember и Neck Deep."
-     },
-     {
-      "q": "Какой новый сингл выпустила группа?",
-      "a": "Музыканты выпустили сингл Aces, спродюсированный Neil Avron, с клипом от режиссера Brendan Walter."
-     }
-    ],
-    "impact": "Концерт Fall Out Boy пройдет в пражской O2 арене 17 мая. Билеты можно купить с 12 ноября по цене от 1 400 крон.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Первое шоу тура Twilight of the Punks пройдёт в Праге 17 мая в O2 арене, где группа представит сингл Aces.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Турне станет самым масштабным в истории группы: 36 концертов в Европе, Великобритании и Северной Америке.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Билеты на пражский концерт поступят в продажу 12 ноября в 12:00 по минимальной цене 1 400 крон.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "На всех европейских концертах тура специальными гостями будут группы A Day To Remember и Neck Deep.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "О2 арены",
-       "definition": "O2 арена — многофункциональный комплекс в Праге вместимостью до 20 тысяч человек, где проходят спортивные и культурные мероприятия; открыта в 2004 году.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Neil Avron",
-       "definition": "Нил Эврон — американский музыкальный продюсер, звукорежиссёр и музыкант, лауреат премии «Грэмми», работающий преимущественно в рок-музыке.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Brendan Walter",
-       "definition": "Американский режиссёр, фотограф и музыкант, снимавший видеоклипы для Green Day, Weezer, Sia, Lorde и Kesha.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Перед покупкой билета",
-      "items": [
-       {
-        "text": "Учтите дату и место: концерт в Праге на O2 арене 17 мая.",
-        "target": {
-         "block": 1,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Запланируйте покупку на 12 ноября, 12:00 — тогда билеты поступят в продажу.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Ориентируйтесь на минимальную цену билета — 1 400 крон.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Проверьте, что в этот вечер также выступят A Day To Remember и Neck Deep.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "b71982c8cc6bb67e3dd9ec7f2cfc15cbc5a9970c23a8991dc0e7eeadc630e52b"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "thirty-seconds-to-mars-dadut-kontsert-v-prage-v-mae-2027-goda",
-       "title": "Thirty Seconds to Mars дадут концерт в Праге в мае 2027 года",
-       "desc": "Thirty Seconds to Mars выступят в Праге 18 мая 2027 года. Концерт в O2 arena посвящён альбомам «A Beautiful Lie» и «This Is War».",
-       "date": "27 октября 2026, 07:36",
-       "img": "https://img.24n.cz/p/2026/10/thirty-seconds-to-mars-dadut-kontsert-v-prage-v-mae-2027-god-4c4ebb079cb6907e.webp"
-      }
-     ]
-    }
-   },
-   "uk": {
-    "title": "Гурт Fall Out Boy розпочне світовий тур 17 травня у Празі",
-    "lede": "Відомий американський гурт Fall Out Boy виступить 17 травня на празькій O2 арені, де дасть старт своєму новому масштабному туру Twilight of the Punks. Квитки на концерт надійдуть у продаж за ціною від 1 400 крон.",
-    "meta_description": "Fall Out Boy виступлять на празькій O2 арені 17 травня в рамках туру Twilight of the Punks. Старт продажу квитків 12 листопада.",
-    "paras": [
-     "<p>Американський поп-панк-гурт <b>Fall Out Boy</b> оголосив про старт свого найбільшого концертного туру під назвою <b>Twilight of the Punks</b>. Перше шоу масштабного турне пройде у Празі <b>17 травня</b> на O2 арені, де музиканти також представлять свій цілком новий сингл Aces.</p>",
-     "<p>Прийдешнє турне стане наймасштабнішим в історії колективу і охопить стадіони та арени одразу в трьох регіонах. Загалом до графіка увійшло <b>36 концертів</b> у Європі, Великій Британії та Північній Америці. Європейська та британська частина програми включає 15 виступів у 11 державах, після чого в липні музиканти вирушать за океан на серію з 21 стадіонного шоу в США та Канаді.</p>",
-     "<h3>Святкування ювілею та нова музика</h3>",
-     "<p>Цього року гурт відзначає <b>25-річчя</b> на сцені. Нову творчу главу колектив відкриває синглом Aces, над яким працював давній соратник музикантів <b>Neil Avron</b>, що виступив продюсером і звукорежисером треку. Сингл повертає слухачам характерну енергію та мелодійність ранніх записів команди.</p>",
-     "<p>Одночасно з релізом пісні вийшов офіційний відеокліп, режисером якого став фотограф <b>Brendan Walter</b>. Раніше він працював з такими відомими артистами, як Green Day, Weezer, Sia, Lorde і Kesha.</p>",
-     "<h3>Склад і творчий шлях</h3>",
-     "<p>Колектив сформувався в Чикаго. Зараз це один із найбільш комерційно успішних рок-гуртів сучасності. У складі: вокаліст і гітарист <b>Patrick Stump</b>, бас-гітарист <b>Pete Wentz</b>, гітарист <b>Joe Trohman</b> і барабанщик <b>Andy Hurley</b>.</p>",
-     "<p>Попередній альбом гурту, <b>So Much (For) Stardust</b>, вийшов у березні 2023 року і одразу посів перше місце в рок-чарті. Сингл Love From The Other Side став для команди першою в історії композицією, що очолила американський чарт альтернативного радіо. А в 2021 році гурт уже виступав на стадіонах разом із Green Day і Weezer у рамках великого туру The Hella Mega Tour. На ті концерти прийшли понад мільйон людей.</p>",
-     "<h3>Квитки та гості концерту</h3>",
-     "<p>Спеціальними гостями на всіх європейських концертах Twilight of the Punks стануть гурти <b>A Day To Remember</b> і <b>Neck Deep</b>. Квитки на празький виступ надійдуть у продаж <b>12 листопада о 12:00</b>. Мінімальна вартість становитиме <b>1 400 крон</b>.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Коли Fall Out Boy виступлять у Празі?",
-      "a": "Концерт відбудеться 17 травня на празькій O2 арені."
-     },
-     {
-      "q": "Скільки коштують квитки на концерт?",
-      "a": "Вартість квитків починається від 1 400 крон, а продаж стартує 12 листопада о 12:00."
-     },
-     {
-      "q": "Хто виступить на розігріві у Празі?",
-      "a": "Спеціальними гостями на всіх європейських концертах туру стануть гурти A Day To Remember і Neck Deep."
-     },
-     {
-      "q": "Який новий сингл випустив гурт?",
-      "a": "Музиканти випустили сингл Aces, спродюсований Neil Avron, з кліпом від режисера Brendan Walter."
-     }
-    ],
-    "impact": "Концерт Fall Out Boy пройдет в пражской O2 арене 17 мая. Билеты можно купить с 12 ноября по цене от 1 400 крон.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Перший концерт туру Twilight of the Punks відбудеться 17 травня у Празі на O2 арені, де гурт представить сингл Aces.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Турне стане найбільшим в історії гурту: 36 концертів у Європі, Великій Британії та Північній Америці.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Квитки на празький виступ надійдуть у продаж 12 листопада о 12:00, мінімальна ціна — 1 400 крон.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "На всіх європейських концертах туру спеціальними гостями будуть A Day To Remember і Neck Deep.",
-       "target": {
-        "block": 10,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Підготовка до концерту в Празі",
-      "items": [
-       {
-        "text": "Заплануйте купівлю квитка на 12 листопада, продаж стартує о 12:00.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Орієнтуйтеся на мінімальну ціну квитка — 1 400 крон.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Врахуйте, що на європейських концертах туру виступатимуть спеціальні гості A Day To Remember і Neck Deep.",
-        "target": {
-         "block": 10,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "176d3bef76b6ae4b9f383129353691c8b1026a12337dd51664f330d564655ab8"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "thirty-seconds-to-mars-dadut-kontsert-v-prage-v-mae-2027-goda",
-       "title": "Thirty Seconds to Mars дадуть концерт у Празі в травні 2027 року",
-       "desc": "Thirty Seconds to Mars виступлять у Празі 18 травня 2027 року. Концерт в O2 arena присвячений альбомам «A Beautiful Lie» і «This Is War».",
-       "date": "27 жовтня 2026, 07:36",
-       "img": "https://img.24n.cz/p/2026/10/thirty-seconds-to-mars-dadut-kontsert-v-prage-v-mae-2027-god-4c4ebb079cb6907e.webp"
-      }
-     ]
-    }
-   },
-   "rank": 28.7,
-   "sources": [
-    {
-     "domain": "denikzruc.cz",
-     "official": false,
-     "url": "https://denikzruc.cz/soumrak-punkeru-fall-out-boy-v-praze-odstartuji-sve-dosud-nejvetsi-turne/",
-     "title": "Soumrak punkerů? Fall Out Boy v Praze odstartují své dosud největší turné - Deník Zruč n. Sázavou"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 1,
-   "image_url": "https://img.24n.cz/p/2026/11/gruppa-fall-out-boy-nachnet-mirovoi-tur-17-maia-v-prage-8b5ef7f66cb0a386.webp",
-   "image_w": 630,
-   "image_h": 350
   }
  ],
  "stories": [
+  {
+   "slug": "povyshenie-platy-za-podzemnuiu-vodu",
+   "title": {
+    "ru": "Повышение платы за подземную воду",
+    "uk": "Підвищення плати за підземну воду"
+   },
+   "desc": {
+    "ru": "Правительственная коалиция предлагает с апреля 2027 года повысить плату за подземную воду до 7 крон за кубометр. Партия Motoristé пытается заблокировать рост, а Либерецкий край потеряет до 70 миллионов из-за нового закона.",
+    "uk": "Урядова коаліція пропонує з квітня 2027 року підвищити плату за підземну воду до 7 крон за кубометр. Партія Motoristé намагається заблокувати зростання, а Ліберецький край втратить до 70 мільйонів через новий закон."
+   },
+   "updated": "2026-11-17T16:35:30.031881+00:00",
+   "members": [
+    "deputaty-povyshaiut-platu-za-podzemnuiu-vodu-do-7-kron-s-aprelia-2027",
+    "partiia-motoriste-popytaetsia-zablokirovat-rost-tsen-na-vodu",
+    "liberetskii-krai-poteriaet-do-70-millionov-iz-za-novogo-zakona-o-vode"
+   ]
+  },
   {
    "slug": "zimnie-katki-i-lgoty-v-prage",
    "title": {
