@@ -1,8 +1,255 @@
 {
- "updated_at": "2026-11-19T11:00:21+00:00",
+ "updated_at": "2026-11-19T11:02:45+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n9133",
+   "slug": "politsiia-otsepila-shkolu-v-tsentre-pragi-iz-za-lozhnoi-trevogi",
+   "source": "eurozpravy.cz",
+   "original_url": "https://eurozpravy.cz/krimi/poplach-na-skole-v-centru-prahy-zaci-se-zabarikadovali-nikomu-se-nic-nestalo.tf0u65s2",
+   "top": false,
+   "tags": [
+    "kriminal",
+    "cesko",
+    "praha"
+   ],
+   "published_at": "2026-11-19T12:02:44.468308+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "19 ноября 2026, 12:02",
+    "uk": "19 листопада 2026, 12:02"
+   },
+   "ru": {
+    "title": "Полиция оцепила школу в центре Праги из-за ложной тревоги",
+    "lede": "Утром в одной из школ в центре Праги развернулась масштабная полицейская операция из-за сообщения о криках о помощи. Тревога оказалась ложной, никто не пострадал, но испуганные дети заперлись в классах.",
+    "meta_description": "Полиция Праги проверила начальную школу из-за сообщения о помощи. Тревога оказалась ложной, никто не пострадал, ученики забаррикадировались.",
+    "paras": [
+     "<p>Драматичное утро пережила начальная школа в самом центре Праги, куда стянулись все свободные патрули после сообщения о возможном нападении или угрозе. Поводом для масштабной тревоги стал звонок о якобы прозвучавшем крике о помощи, раздавшемся из стен учебного заведения на площади Угельного трга.</p>",
+     "<p>Первые данные о происшествии появились в официальном аккаунте полиции в социальной сети X вскоре после половины одиннадцатого утра. Стражи порядка перекрыли подходы к зданию в исторической части города и приступили к проверке информации. Окрестности школы были оцеплены, а на место прибыли все доступные на тот момент наряды.</p>",
+     "<h3>Забаррикадированные классы</h3>",
+     "<p>Пока полиция устанавливала обстоятельства происшествия, обстановка внутри здания оставалась напряженной. Как отмечают чешские СМИ, дети и педагоги заперлись в помещениях, опасаясь реальной опасности.</p>",
+     "<blockquote>Поскольку ученики забаррикадировались в классах, их будут открывать постепенно. На место превентивно направляются также кризисные психологи на случай, если кому-то понадобится их помощь.</blockquote>",
+     "<p>Так описала ситуацию полиция, подчеркнув, что стражам порядка пришлось открывать каждый кабинет по отдельности, чтобы успокоить находящихся внутри школьников и учителей.</p>",
+     "<h3>Официальное опровержение</h3>",
+     "<p>Уже после одиннадцати часов дня стражи порядка официально подтвердили, что угрозы нет. По данным портала denikn.cz и других изданий, причиной переполоха стало обычное недоразумение, а инцидент обошелся без пострадавших.</p>",
+     "<blockquote>Речь шла о ложной тревоге, вернее о недоразумении, и никто не пострадал.</blockquote>",
+     "<p>Заявили представители полиции после завершения основной проверки всех помещений школы. Позднее министр внутренних дел Лубомир Метнар уточнил, что в кармане одного из учащихся случайно сработало мобильное приложение Захранка, однако все обстоятельства произошедшего еще проверяются профильными специалистами.</p>",
+     "<p>Несмотря на снятие угрозы, полицейские продолжили работу на месте, а к школе превентивно направили кризисных интервентов для оказания психологической помощи тем, кому она могла потребоваться.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Что произошло в школе на Uhelný trh в Праге?",
+      "a": "Полиция проверяла сообщение о якобы прозвучавшем крике о помощи, но тревога оказалась ложной, никто не пострадал."
+     },
+     {
+      "q": "Почему ученики забаррикадировались в классах?",
+      "a": "Ученики заперлись в помещениях из-за опасений за безопасность, после чего полицейские постепенно открывали каждый класс."
+     },
+     {
+      "q": "Кто сообщил о ложной тревоге?",
+      "a": "Полиция Праги после 11:00 официально объявила, что произошедшее было лишь недоразумением."
+     },
+     {
+      "q": "Что сказал министр внутренних дел Lubomír Metnar?",
+      "a": "Глава МВД сообщил, что в кармане одного из учеников случайно включилось мобильное приложение помощи, и подтвердил отсутствие пострадавших."
+     }
+    ],
+    "impact": "Родители учащихся и жители Праги столкнулись с временным перекрытием улиц в центре города. Инцидент не привел к реальной угрозе или изменениям в работе учебных заведений.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Полиция оцепила начальную школу в центре Праги из-за сообщения о криках о помощи.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Дети и педагоги заперлись в классах, опасаясь реальной опасности, а полицейским пришлось открывать каждый кабинет.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Причиной переполоха оказалось случайное срабатывание мобильного приложения в кармане одного из учащихся.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "Угельного трга",
+       "definition": "Площадь треугольной формы в Праге на Старом Месте.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Захранка",
+       "definition": "Официальное мобильное приложение службы спасения.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Лубомир Метнар",
+       "definition": "Чешский политик и бывший полицейский, бывший министр внутренних дел и министр обороны Чехии, а также депутат Палаты депутатов.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "fba28cd7f7792d11f978c564437b501ac0a06faf04f64d232c193e0c011c695c"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [],
+     "also": [
+      {
+       "slug": "politsiia-v-karlovykh-varakh-obezoruzhila-zhenshchinu-grozivshuiu-zast",
+       "title": "Полиция в Карловых Варах обезоружила женщину, грозившую застрелиться",
+       "desc": "В Карловых Варах полиция вела переговоры с женщиной, которая угрожала самоубийством с оружием в руках. Никто не пострадал.",
+       "date": "4 ноября 2026, 10:25",
+       "img": "https://img.24n.cz/p/2026/11/politsiia-v-karlovykh-varakh-obezoruzhila-zhenshchinu-groziv-c57258fdc067e8ea.webp"
+      },
+      {
+       "slug": "politsiia-pragi-rassleduet-ugrozy-shkolnika-v-sotssetiakh-zaderzhan-ne",
+       "title": "Полиция Праги расследует угрозы школьника в соцсетях: задержан несовершеннолетний иностранец",
+       "desc": "Полиция Праги расследует угрозы несовершеннолетнего ученика Základní školy Pošepného в соцсетях. Задержан подросток-иностранец, опасность для других…",
+       "date": "21 октября 2026, 14:27",
+       "img": "https://img.24n.cz/p/2026/10/politsiia-pragi-rassleduet-ugrozy-shkolnika-v-sotssetiakh-za-9274f70804570cb9.jpeg"
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Поліція оточила школу в центрі Праги через хибну тривогу",
+    "lede": "Вранці в одній зі шкіл у центрі Праги розгорнулася масштабна поліцейська операція через повідомлення про крики про допомогу. Тривога виявилася хибною, ніхто не постраждав, але перелякані діти забарикадувалися в класах.",
+    "meta_description": "Поліція Праги перевірила початкову школу через повідомлення про допомогу. Тривога виявилася хибною, ніхто не постраждав, учні забарикадувалися.",
+    "paras": [
+     "<p>Драматичний ранок пережила початкова школа в самому центрі Праги, куди з'їхалися всі вільні патрулі після повідомлення про можливий напад або загрозу. Приводом для масштабної тривоги став дзвінок про нібито крик про допомогу, що пролунав зі стін навчального закладу на площі Uhelný trh.</p>",
+     "<p>Перші дані про подію з'явилися в офіційному акаунті поліції в соціальній мережі X незабаром після пів на одинадцяту ранку. Правоохоронці перекрили підходи до будівлі в історичній частині міста і почали перевіряти інформацію. Околиці школи були оточені, а на місце прибули всі доступні на той момент наряди.</p>",
+     "<h3>Забарикадовані класи</h3>",
+     "<p>Поки поліція з'ясовувала обставини події, обстановка всередині будівлі залишалася напруженою. Як зазначають чеські ЗМІ, діти та педагоги зачинилися в приміщеннях, побоюючись реальної небезпеки.</p>",
+     "<blockquote>Оскільки учні забарикадувалися в класах, їх відкриватимуть поступово. На місце превентивно направляються також кризові психологи на випадок, якщо комусь знадобиться їхня допомога.</blockquote>",
+     "<p>Так описала ситуацію поліція, наголосивши, що правоохоронцям довелося відчиняти кожен кабінет окремо, щоб заспокоїти школярів і вчителів, які перебували всередині.</p>",
+     "<h3>Офіційне спростування</h3>",
+     "<p>Вже після одинадцятої години дня правоохоронці офіційно підтвердили, що загрози немає. За даними порталу denikn.cz та інших видань, причиною переполоху стало звичайне непорозуміння, а інцидент обійшовся без постраждалих.</p>",
+     "<blockquote>Йшлося про хибну тривогу, точніше про непорозуміння, і ніхто не постраждав.</blockquote>",
+     "<p>Заявили представники поліції після завершення основної перевірки всіх приміщень школи. Пізніше міністр внутрішніх справ Lubomír Metnar уточнив, що в кишені одного з учнів випадково спрацював мобільний застосунок Záchranka, однак усі обставини події ще перевіряють фахівці.</p>",
+     "<p>Попри зняття загрози, поліцейські продовжили роботу на місці, а до школи превентивно направили кризових інтервентів для надання психологічної допомоги тим, кому вона могла знадобитися.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Що сталося в школі на Uhelný trh у Празі?",
+      "a": "Поліція перевіряла повідомлення про нібито крик про допомогу, але тривога виявилася хибною, ніхто не постраждав."
+     },
+     {
+      "q": "Чому учні забарикадувалися в класах?",
+      "a": "Учні зачинилися в приміщеннях через побоювання за безпеку, після чого поліцейські поступово відчиняли кожен клас."
+     },
+     {
+      "q": "Хто повідомив про хибну тривогу?",
+      "a": "Поліція Праги після 11:00 офіційно оголосила, що подія була лише непорозумінням."
+     },
+     {
+      "q": "Що сказав міністр внутрішніх справ Lubomír Metnar?",
+      "a": "Голова МВС повідомив, що в кишені одного з учнів випадково увімкнувся мобільний застосунок допомоги, і підтвердив відсутність постраждалих."
+     }
+    ],
+    "impact": "Родители учащихся и жители Праги столкнулись с временным перекрытием улиц в центре города. Инцидент не привел к реальной угрозе или изменениям в работе учебных заведений.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Приводом для масштабної тривоги в початковій школі в центрі Праги став дзвінок про нібито крик про допомогу.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Правоохоронці офіційно підтвердили відсутність загрози після одинадцятої години дня, обійшлося без постраждалих.",
+       "target": {
+        "block": 8,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Міністр внутрішніх справ уточнив, що в кишені одного з учнів випадково спрацював мобільний застосунок Záchranka.",
+       "target": {
+        "block": 10,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [],
+     "checklist": null,
+     "body_sha256": "b73250ca47c7cf2d65334367f827782ffce58bbc23b80aa42cf0db8addffc6b5"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [],
+     "also": [
+      {
+       "slug": "politsiia-v-karlovykh-varakh-obezoruzhila-zhenshchinu-grozivshuiu-zast",
+       "title": "Поліція в Карлових Варах роззброїла жінку, яка погрожувала застрелитися",
+       "desc": "У Карлових Варах поліція вела переговори з жінкою, яка погрожувала самогубством зі зброєю в руках. Ніхто не постраждав.",
+       "date": "4 листопада 2026, 10:25",
+       "img": "https://img.24n.cz/p/2026/11/politsiia-v-karlovykh-varakh-obezoruzhila-zhenshchinu-groziv-c57258fdc067e8ea.webp"
+      },
+      {
+       "slug": "politsiia-pragi-rassleduet-ugrozy-shkolnika-v-sotssetiakh-zaderzhan-ne",
+       "title": "Поліція Праги розслідує погрози школяра в соцмережах: затримано неповнолітнього іноземця",
+       "desc": "Поліція Праги розслідує погрози неповнолітнього учня Základní školy Pošepného в соцмережах. Затримано підлітка-іноземця, небезпека для інших…",
+       "date": "21 жовтня 2026, 14:27",
+       "img": "https://img.24n.cz/p/2026/10/politsiia-pragi-rassleduet-ugrozy-shkolnika-v-sotssetiakh-za-9274f70804570cb9.jpeg"
+      }
+     ]
+    }
+   },
+   "rank": 105.0,
+   "sources": [
+    {
+     "domain": "denikn.cz",
+     "official": false,
+     "url": "https://denikn.cz/minuta/2263187",
+     "title": "Aktualizace: Při zásahu policie na Uhelném trhu v Praze se jednalo o planý poplach, respektive o nedorozumění, a nikomu se nic nestalo"
+    },
+    {
+     "domain": "prazsky.denik.cz",
+     "official": false,
+     "url": "https://prazsky.denik.cz/krimi/policie-zasahovala-v-zakladni-skole-v-centru-prahy-duvodem-bylo-volani-o-pomoc",
+     "title": "Policie zasahovala v základní škole v centru Prahy, důvodem bylo volání o pomoc – Pražský deník"
+    },
+    {
+     "domain": "globe24.cz",
+     "official": false,
+     "url": "https://globe24.cz/domov/drama-na-skole-v-centru-prahy-deti-se-zabarikadovaly-zasahovala-policie.26shdynk",
+     "title": "Drama na škole v centru Prahy. Děti se zabarikádovaly, zasahovala policie | Globe24.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 3
+  },
   {
    "id": "n9132",
    "slug": "novye-pravila-tseny-i-tarify-v-chekhii-noiabrskii-obzor",
@@ -14,8 +261,8 @@
    ],
    "published_at": "2026-11-19T12:00:20.677845+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "2 минуты назад",
+    "uk": "2 хвилини тому"
    },
    "date": {
     "ru": "19 ноября 2026, 12:00",
@@ -101,8 +348,8 @@
    ],
    "published_at": "2026-11-19T11:31:43.585765+01:00",
    "time": {
-    "ru": "28 минут назад",
-    "uk": "28 хвилин тому"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "19 ноября 2026, 11:31",
@@ -400,8 +647,8 @@
    ],
    "published_at": "2026-11-19T11:31:43.585765+01:00",
    "time": {
-    "ru": "28 минут назад",
-    "uk": "28 хвилин тому"
+    "ru": "31 минуту назад",
+    "uk": "31 хвилину тому"
    },
    "date": {
     "ru": "19 ноября 2026, 11:31",
@@ -3457,7 +3704,7 @@
      ]
     }
    },
-   "rank": 93.986,
+   "rank": 93.931,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -3708,7 +3955,7 @@
      ]
     }
    },
-   "rank": 113.772,
+   "rank": 113.706,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -3979,7 +4226,7 @@
      ]
     }
    },
-   "rank": 89.039,
+   "rank": 88.987,
    "image_url": "https://img.24n.cz/p/2026/11/sud-v-litomerzhitse-nachal-protsess-o-vziatke-za-uvolnenie-7af9e62744824d55.webp",
    "image_w": 620,
    "image_h": 349
@@ -4368,7 +4615,7 @@
      ]
     }
    },
-   "rank": 84.093,
+   "rank": 84.043,
    "image_url": "https://img.24n.cz/p/2026/11/bolt-food-razygraet-konsoli-ps5-i-kopii-gta-vi-v-prage-c141db982ba39603.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/bolt-food-razygraet-konsoli-ps5-i-kopii-gta-vi-v-prage-7ebac3795f8aca23.webp",
@@ -4727,7 +4974,7 @@
      ]
     }
    },
-   "rank": 83.429,
+   "rank": 83.38,
    "thread": {
     "slug": "rozhdestvenskie-iarmarki-v-prage-2026",
     "title": {
@@ -4964,7 +5211,7 @@
      "body_sha256": "30edba375599d2836d9b611c527b8ac471a05841e5bd41b9a35b0c23eebef210"
     }
    },
-   "rank": 117.782,
+   "rank": 117.712,
    "sources": [
     {
      "domain": "radiozurnal.rozhlas.cz",
@@ -5314,7 +5561,7 @@
      ]
     }
    },
-   "rank": 71.945,
+   "rank": 71.902,
    "sources": [
     {
      "domain": "bydlet.cz",
@@ -5521,7 +5768,7 @@
      "body_sha256": "20cc5f0973dec055b25d8ca9918f457147d4bfaa09b16d8aef9ffaf1f09d390b"
     }
    },
-   "rank": 101.311,
+   "rank": 101.25,
    "sources": [
     {
      "domain": "theguardian.com",
@@ -5781,7 +6028,7 @@
      ]
     }
    },
-   "rank": 101.311
+   "rank": 101.25
   },
   {
    "id": "n9112",
@@ -6172,7 +6419,7 @@
      ]
     }
    },
-   "rank": 92.785,
+   "rank": 92.729,
    "story": [
     {
      "slug": "cez-s-1-ianvaria-izmenit-tseny-na-elektrichestvo-i-gaz-komu-i-na-skolk",
@@ -6470,7 +6717,7 @@
      ]
     }
    },
-   "rank": 89.19,
+   "rank": 89.136,
    "story": [
     {
      "slug": "deusmedia-vossozdast-uzory-cheskoi-lipy-rukami-invalidov",
@@ -6820,7 +7067,7 @@
      ]
     }
    },
-   "rank": 85.395,
+   "rank": 85.343,
    "thread": {
     "slug": "assistenty-pedagogov-v-pervykh-klassakh-chekhii",
     "title": {
@@ -7265,7 +7512,7 @@
      ]
     }
    },
-   "rank": 88.241
+   "rank": 88.187
   },
   {
    "id": "n9108",
@@ -7503,7 +7750,7 @@
      ]
     }
    },
-   "rank": 88.576,
+   "rank": 88.521,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskii-vozdukh-stal-chishche-no-pm2-5-vse-eshche-v-2-6-ra-291f4f7097fb4d73.webp",
    "image_w": 1366,
    "image_h": 910
@@ -7770,7 +8017,7 @@
      ]
     }
    },
-   "rank": 81.877,
+   "rank": 81.825,
    "story": [
     {
      "slug": "kate-coin-csob-rozsireni-vernostni-program-ma-partnery",
@@ -8042,7 +8289,7 @@
      ]
     }
    },
-   "rank": 85.516,
+   "rank": 85.462,
    "sources": [
     {
      "domain": "prerovsky.denik.cz",
@@ -8319,7 +8566,7 @@
      ]
     }
    },
-   "rank": 105.554,
+   "rank": 105.487,
    "story": [
     {
      "slug": "gta-vi-otsenili-na-99-iz-100-i-v-chekhii-prodaiut-za-2-499-kron",
@@ -8630,7 +8877,7 @@
      ]
     }
    },
-   "rank": 87.511,
+   "rank": 87.455,
    "thread": {
     "slug": "politseiskie-spasaiut-zhizni-s-defibrilliatorom",
     "title": {
@@ -8867,7 +9114,7 @@
      ]
     }
    },
-   "rank": 120.891,
+   "rank": 120.814,
    "story": [
     {
      "slug": "gta-vi-otsenili-na-99-iz-100-i-v-chekhii-prodaiut-za-2-499-kron",
@@ -9126,7 +9373,7 @@
      "body_sha256": "305ee1e8597fd65fbf9fc097b3fc0cb18dc84e2d85f5f97ad8b862621455da19"
     }
    },
-   "rank": 86.674,
+   "rank": 86.618,
    "sources": [
     {
      "domain": "vyskovsky.denik.cz",
@@ -9344,7 +9591,7 @@
      "body_sha256": "d58a61a155d232fb673d5e3c2e99ad2a554a564eccd96299ffd50890c36fddff"
     }
    },
-   "rank": 80.419
+   "rank": 80.367
   },
   {
    "id": "n9100",
@@ -9714,7 +9961,7 @@
      ]
     }
    },
-   "rank": 94.799,
+   "rank": 94.737,
    "thread": {
     "slug": "izmeneniia-pensionnykh-pravil-v-chekhii",
     "title": {
@@ -10016,7 +10263,7 @@
      ]
     }
    },
-   "rank": 86.095,
+   "rank": 86.037,
    "image_url": "https://img.24n.cz/p/2026/11/svobodnye-iskliuchili-davida-shtafla-posle-rassledovaniia-o-8e2d46cd641a47c1.webp",
    "image_w": 1200,
    "image_h": 674
@@ -10278,7 +10525,7 @@
      ]
     }
    },
-   "rank": 76.01,
+   "rank": 75.959,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -10597,7 +10844,7 @@
      ]
     }
    },
-   "rank": 76.14
+   "rank": 76.088
   },
   {
    "id": "n9096",
@@ -10836,7 +11083,7 @@
      ]
     }
    },
-   "rank": 87.985,
+   "rank": 87.924,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -11107,7 +11354,7 @@
      "also": []
     }
    },
-   "rank": 73.602,
+   "rank": 73.552,
    "sources": [
     {
      "domain": "metro.cz",
@@ -11322,7 +11569,7 @@
      "body_sha256": "b117fbc0171d7a34785fb569af419388b72f0e8754bf62d5b4508c2504eb61a3"
     }
    },
-   "rank": 95.422,
+   "rank": 95.355,
    "image_url": "https://img.24n.cz/p/2026/11/verkhovnyi-sud-zapretil-urezat-kompensatsiiu-zhertvam-nasili-79fc064b5c811c4c.webp",
    "image_w": 1200,
    "image_h": 675
@@ -11338,8 +11585,8 @@
    ],
    "published_at": "2026-11-18T21:01:01.262994+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "18 ноября 2026, 21:01",
@@ -11397,7 +11644,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 69.454
+   "rank": 69.405
   },
   {
    "id": "n9092",
@@ -11739,7 +11986,7 @@
      "also": []
     }
    },
-   "rank": 75.693,
+   "rank": 75.64,
    "thread": {
     "slug": "sokrashchenie-detskoi-medpomoshchi-v-valashske-mezirzhichi",
     "title": {
@@ -12105,7 +12352,7 @@
      ]
     }
    },
-   "rank": 68.145,
+   "rank": 68.096,
    "thread": {
     "slug": "infliatsiia-v-chekhii-v-2026-godu",
     "title": {
@@ -12354,7 +12601,7 @@
      "body_sha256": "3b61d81f8347b845c6301f68ea648c12d5f49231421c6510d0d58c94aa9028d3"
     }
    },
-   "rank": 95.968,
+   "rank": 95.899,
    "sources": [
     {
      "domain": "inews.sk",
@@ -12608,7 +12855,7 @@
      "also": []
     }
    },
-   "rank": 83.855,
+   "rank": 83.794,
    "image_url": "https://img.24n.cz/p/2026/11/pozhilaia-voditelnitsa-pogibla-v-lobovom-dtp-v-pardubitskom-8e53deeffe20ba4b.webp",
    "image_w": 1200,
    "image_h": 675
@@ -12669,7 +12916,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 64.91,
+   "rank": 64.863,
    "forecast": true
   },
   {
@@ -12893,7 +13140,7 @@
      ]
     }
    },
-   "rank": 83.11,
+   "rank": 83.049,
    "image_url": "https://img.24n.cz/p/2026/11/uchenyi-iz-brno-poshel-pod-sud-za-moshennichestvo-s-grantami-3db5ec66c953664c.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13141,7 +13388,7 @@
      ]
     }
    },
-   "rank": 89.199,
+   "rank": 89.132,
    "thread": {
     "slug": "pomoshch-detiam-pri-domashnem-nasilii",
     "title": {
@@ -13415,7 +13662,7 @@
      ]
     }
    },
-   "rank": 77.564,
+   "rank": 77.506,
    "image_url": "https://img.24n.cz/p/2026/11/gls-i-dpd-sozdadut-sovmestnoe-predpriiatie-s-oborotom-4-1-ml-ba4b23f1692607df.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/gls-i-dpd-sozdadut-sovmestnoe-predpriiatie-s-oborotom-4-1-ml-af350d01a6009026.webp"
@@ -13709,7 +13956,7 @@
      ]
     }
    },
-   "rank": 79.81,
+   "rank": 79.75,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -14034,7 +14281,7 @@
      ]
     }
    },
-   "rank": 64.556,
+   "rank": 64.506,
    "thread": {
     "slug": "money-maker-2026-i-investitsii-v-anthropic",
     "title": {
@@ -14281,7 +14528,7 @@
      ]
     }
    },
-   "rank": 75.252
+   "rank": 75.194
   },
   {
    "id": "n9081",
@@ -14505,7 +14752,7 @@
      ]
     }
    },
-   "rank": 78.181,
+   "rank": 78.121,
    "story": [
     {
      "slug": "uborka-ulits-v-prage-daet-bezdomnym-shans-na-novuiu-zhizn",
@@ -14879,7 +15126,7 @@
      ]
     }
    },
-   "rank": 100.519,
+   "rank": 100.441,
    "thread": {
     "slug": "peresmotr-vyborov-v-senat-na-zhdiarsko",
     "title": {
@@ -15244,7 +15491,7 @@
      ]
     }
    },
-   "rank": 88.558,
+   "rank": 88.488,
    "story": [
     {
      "slug": "chekhiia-meniaet-pravila-postupleniia-v-shkoly-chto-zhdet-uchenikov",
@@ -15485,7 +15732,7 @@
      ]
     }
    },
-   "rank": 73.798,
+   "rank": 73.74,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -15744,7 +15991,7 @@
      ]
     }
    },
-   "rank": 78.964,
+   "rank": 78.902,
    "sources": [
     {
      "domain": "brnenska.drbna.cz",
@@ -16166,7 +16413,7 @@
      ]
     }
    },
-   "rank": 80.44,
+   "rank": 80.377,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -16498,7 +16745,7 @@
      "also": []
     }
    },
-   "rank": 69.323,
+   "rank": 69.268,
    "story": [
     {
      "slug": "sud-v-brno-dal-uslovnye-sroki-za-knigi-otritsaiushchie-kholokost",
@@ -16844,7 +17091,7 @@
      ]
     }
    },
-   "rank": 85.377,
+   "rank": 85.309,
    "thread": {
     "slug": "otzyv-dopuska-u-glavy-uohs-i-konkurs-na-ego-post",
     "title": {
@@ -17098,7 +17345,7 @@
      ]
     }
    },
-   "rank": 41.594,
+   "rank": 41.561,
    "sources": [
     {
      "domain": "kladensky.denik.cz",
@@ -17295,7 +17542,7 @@
      ]
     }
    },
-   "rank": 87.566,
+   "rank": 87.496,
    "sources": [
     {
      "domain": "praha3.cz",
@@ -17526,7 +17773,7 @@
      ]
     }
    },
-   "rank": 78.511,
+   "rank": 78.448,
    "sources": [
     {
      "domain": "media24.cz",
@@ -17800,7 +18047,7 @@
      ]
     }
    },
-   "rank": 116.362,
+   "rank": 116.329,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -18084,7 +18331,7 @@
      ]
     }
    },
-   "rank": 82.112,
+   "rank": 82.046,
    "sources": [
     {
      "domain": "newstream.cz",
@@ -18524,7 +18771,7 @@
      ]
     }
    },
-   "rank": 90.035,
+   "rank": 89.963,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -18649,8 +18896,8 @@
    ],
    "published_at": "2026-11-18T13:00:31.850274+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "18 ноября 2026, 13:00",
@@ -18822,7 +19069,7 @@
      ]
     }
    },
-   "rank": 78.227,
+   "rank": 78.163,
    "image_url": "https://img.24n.cz/p/2026/11/gta-vi-otsenili-na-99-iz-100-i-v-chekhii-prodaiut-za-2-499-k-86e922bce40fa5f6.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/gta-vi-otsenili-na-99-iz-100-i-v-chekhii-prodaiut-za-2-499-k-e7e887176afbb687.webp"
@@ -19127,7 +19374,7 @@
      ]
     }
    },
-   "rank": 45.674,
+   "rank": 45.636,
    "sources": [
     {
      "domain": "brnensky.denik.cz",
@@ -19469,7 +19716,7 @@
      "body_sha256": "e3ff5fa5ad88ca43f8446ead0db6360e219c286c5fcbbfb95acf5288068041e5"
     }
    },
-   "rank": 70.267,
+   "rank": 70.209,
    "image_url": "https://img.24n.cz/p/2026/11/avarii-na-elektrosamokatakh-v-chekhii-stalo-na-tret-bolshe-84a0ab9fbcf5152f.webp",
    "image_w": 1366,
    "image_h": 910
@@ -19676,7 +19923,7 @@
      ]
     }
    },
-   "rank": 77.859,
+   "rank": 77.794,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -19946,7 +20193,7 @@
      ]
     }
    },
-   "rank": 79.945,
+   "rank": 79.878,
    "story": [
     {
      "slug": "voditeli-proedut-po-iuzhnocheshskoi-d3-do-granitsy-s-avstriei",
@@ -20189,7 +20436,7 @@
      ]
     }
    },
-   "rank": 68.822,
+   "rank": 68.764,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -20456,7 +20703,7 @@
      ]
     }
    },
-   "rank": 66.041,
+   "rank": 65.986,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -20853,7 +21100,7 @@
      ]
     }
    },
-   "rank": 66.577,
+   "rank": 66.52,
    "story": [
     {
      "slug": "zabolevaemost-orvi-v-prage-snizilas-na-24-protsenta-za-nedeliu",
@@ -21098,7 +21345,7 @@
      "body_sha256": "6181b0381e0749f709687c6d7f2c2939317c92e24c5552c70e977474323423cb"
     }
    },
-   "rank": 73.929,
+   "rank": 73.866,
    "sources": [
     {
      "domain": "pragueexaminer.com",
@@ -21332,7 +21579,7 @@
      ]
     }
    },
-   "rank": 60.333,
+   "rank": 60.28,
    "image_url": "https://img.24n.cz/p/2026/11/v-chekhii-zapustili-prilozhenie-helplii-dlia-poiska-masterov-259cc0e4c78f47bd.webp",
    "image_w": 1600,
    "image_h": 901
@@ -21570,7 +21817,7 @@
      "body_sha256": "0d3d1d495c7cc98995f2119d1018c867d2c781cd3e272081ca7ba089d47eeab4"
     }
    },
-   "rank": 60.333,
+   "rank": 60.28,
    "image_url": "https://img.24n.cz/p/2026/11/suprugi-vitek-prevratili-odin-ekskavator-v-millionnyi-biznes-5eea8b585c5a0505.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/suprugi-vitek-prevratili-odin-ekskavator-v-millionnyi-biznes-617738dc1c676dee.webp",
@@ -21848,7 +22095,7 @@
      ]
     }
    },
-   "rank": 75.081,
+   "rank": 75.016,
    "sources": [
     {
      "domain": "bizinet.cz",
@@ -22053,7 +22300,7 @@
      "body_sha256": "0aa52e020784552ad3959217515e7fcd444c439d850ebb03442bafea1966be24"
     }
    },
-   "rank": 76.139,
+   "rank": 76.073,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -22312,7 +22559,7 @@
      ]
     }
    },
-   "rank": 61.525,
+   "rank": 61.47,
    "sources": [
     {
      "domain": "taborsky.denik.cz",
@@ -22525,7 +22772,7 @@
      "body_sha256": "e0d1ae987dc57661a7ac8dcb62035ebeea9f7561c9aefee785bd79107d5d6301"
     }
    },
-   "rank": 44.709,
+   "rank": 44.669,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -22850,7 +23097,7 @@
      ]
     }
    },
-   "rank": 62.32,
+   "rank": 62.262,
    "story": [
     {
      "slug": "novye-pravila-ipoteki-v-chekhii-kak-pokupat-nedvizhimost",
@@ -23057,7 +23304,7 @@
      ]
     }
    },
-   "rank": 56.088,
+   "rank": 56.036,
    "sources": [
     {
      "domain": "cc.cz",
@@ -23431,7 +23678,7 @@
      ]
     }
    },
-   "rank": 67.624,
+   "rank": 67.56,
    "story": [
     {
      "slug": "ppf-banka-vvela-mgnovennye-sepa-platezhi-v-evro",
@@ -23719,7 +23966,7 @@
      ]
     }
    },
-   "rank": 45.554,
+   "rank": 45.51,
    "image_url": "https://img.24n.cz/p/2026/11/aktualne-cz-zapustil-kalkuliator-zarplat-po-334-professiiam-544b70259b8a55a3.webp",
    "image_w": 1200,
    "image_h": 630
@@ -24043,7 +24290,7 @@
      "body_sha256": "ab9536757cab1e4c87f8d96b33ee48b8d159064843880f42845f9d53fb7141f8"
     }
    },
-   "rank": 64.214,
+   "rank": 64.152,
    "sources": [
     {
      "domain": "mesec.cz",
@@ -24287,7 +24534,7 @@
      ]
     }
    },
-   "rank": 59.276,
+   "rank": 59.218,
    "sources": [
     {
      "domain": "cedarnews.net",
@@ -24719,7 +24966,7 @@
      ]
     }
    },
-   "rank": 77.973,
+   "rank": 77.895,
    "thread": {
     "slug": "money-maker-2026-i-investitsii-v-anthropic",
     "title": {
@@ -25035,7 +25282,7 @@
      "body_sha256": "064fca26c9e15e30773dfca2ea3df0cc90772c1f0e9e87d3a3b216886b75c722"
     }
    },
-   "rank": 39.299,
+   "rank": 39.258,
    "sources": [
     {
      "domain": "pestrytyden.cz",
@@ -25470,7 +25717,7 @@
      ]
     }
    },
-   "rank": 38.766,
+   "rank": 38.726,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -25833,7 +26080,7 @@
      ]
     }
    },
-   "rank": 48.458,
+   "rank": 48.407,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -26138,7 +26385,7 @@
      ]
     }
    },
-   "rank": 46.429,
+   "rank": 46.38,
    "sources": [
     {
      "domain": "prazsky.denik.cz",
@@ -26393,7 +26640,7 @@
      ]
     }
    },
-   "rank": 40.967,
+   "rank": 40.924,
    "image_url": "https://img.24n.cz/p/2026/11/zhiteli-zlina-otmetili-den-borby-za-svobodu-pokhodom-5a2df680bdd366d5.webp",
    "image_w": 1200,
    "image_h": 675
@@ -26658,7 +26905,7 @@
      ]
     }
    },
-   "rank": 40.485
+   "rank": 40.441
   },
   {
    "id": "n9039",
@@ -26949,7 +27196,7 @@
      ]
     }
    },
-   "rank": 37.786,
+   "rank": 37.745,
    "story": [
     {
      "slug": "v-prage-2-otkroiut-memorial-vlasty-khramostovoi-i-stanislava-miloty",
@@ -27351,7 +27598,7 @@
      ]
     }
    },
-   "rank": 61.073,
+   "rank": 61.006,
    "sources": [
     {
      "domain": "investicniweb.cz",
@@ -27548,7 +27795,7 @@
      "body_sha256": "92f6e0ff181eed3333d974815017ca8b1ad609be9c5160c1e710645b67ac3768"
     }
    },
-   "rank": 49.721,
+   "rank": 49.666,
    "sources": [
     {
      "domain": "apiagentura.gov.cz",
@@ -27763,7 +28010,7 @@
      ]
     }
    },
-   "rank": 74.762,
+   "rank": 74.738,
    "sources": [
     {
      "domain": "media24.cz",
@@ -28072,7 +28319,7 @@
      ]
     }
    },
-   "rank": 41.163,
+   "rank": 41.117,
    "sources": [
     {
      "domain": "guidle.cz",
@@ -28341,7 +28588,7 @@
      ]
     }
    },
-   "rank": 57.348,
+   "rank": 57.281,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -28581,7 +28828,7 @@
      ]
     }
    },
-   "rank": 46.005,
+   "rank": 45.95,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -28879,7 +29126,7 @@
      ]
     }
    },
-   "rank": 45.521,
+   "rank": 45.466,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -29185,7 +29432,7 @@
      ]
     }
    },
-   "rank": 61.971,
+   "rank": 61.896,
    "sources": [
     {
      "domain": "zpravy.aktualne.cz",
@@ -29605,7 +29852,7 @@
      ]
     }
    },
-   "rank": 54.821,
+   "rank": 54.754,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -29968,7 +30215,7 @@
      ]
     }
    },
-   "rank": 37.565,
+   "rank": 37.518,
    "image_url": "https://img.24n.cz/p/2026/11/v-cheshskikh-kinoteatrakh-vyshla-komediia-drevorubets-0d0f5301c83b64e9.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/v-cheshskikh-kinoteatrakh-vyshla-komediia-drevorubets-b9506d5bb69c84ad.webp",
@@ -30333,7 +30580,7 @@
      ]
     }
    },
-   "rank": 44.608,
+   "rank": 44.553,
    "image_url": "https://img.24n.cz/p/2026/11/v-prage-18-noiabria-provedut-besplatnuiu-proverku-legkikh-v-8ea9959f7dd5053f.webp",
    "image_w": 1366,
    "image_h": 910
@@ -30549,7 +30796,7 @@
      ]
     }
    },
-   "rank": 43.199,
+   "rank": 43.146,
    "sources": [
     {
      "domain": "fotbalportal.cz",
@@ -30865,7 +31112,7 @@
      ]
     }
    },
-   "rank": 64.894,
+   "rank": 64.873,
    "sources": [
     {
      "domain": "media24.cz",
@@ -31088,7 +31335,7 @@
      "body_sha256": "7a87e34255a7e125df4fa8ff14cb2139a1919181172c5ec710ed1ff9415da88e"
     }
    },
-   "rank": 31.294,
+   "rank": 31.253,
    "image_url": "https://img.24n.cz/p/2026/11/pop-ap-furiant-s-cheshskimi-sladostiami-otkroetsia-v-prage-2-fb259c6ea91042d3.webp",
    "image_w": 1600,
    "image_h": 901
@@ -31352,7 +31599,7 @@
      ]
     }
    },
-   "rank": 45.6,
+   "rank": 45.54,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -31708,7 +31955,7 @@
      ]
     }
    },
-   "rank": 58.117,
+   "rank": 58.042,
    "thread": {
     "slug": "shpionskii-skandal-vokrug-nvidia",
     "title": {
@@ -31831,7 +32078,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 36.455,
+   "rank": 36.408,
    "forecast": true
   },
   {
@@ -32091,7 +32338,7 @@
      ]
     }
    },
-   "rank": 49.199,
+   "rank": 49.134,
    "sources": [
     {
      "domain": "blesk.cz",
@@ -32372,7 +32619,7 @@
      "also": []
     }
    },
-   "rank": 37.339,
+   "rank": 37.289,
    "story": [
     {
      "slug": "inostrannykh-turistov-v-praha-stalo-menshe-1-75-mln-za-kvartal",
@@ -32627,7 +32874,7 @@
      ]
     }
    },
-   "rank": 35.316,
+   "rank": 35.269,
    "thread": {
     "slug": "povyshenie-platy-za-podzemnuiu-vodu",
     "title": {
@@ -32935,7 +33182,7 @@
      ]
     }
    },
-   "rank": 52.946,
+   "rank": 52.874,
    "story": [
     {
      "slug": "galereia-v-prage-pokazhet-raboty-khudozhnika-iaroslava-chermaka",
@@ -33176,7 +33423,7 @@
      ]
     }
    },
-   "rank": 40.239,
+   "rank": 40.184,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -33424,7 +33671,7 @@
      ]
     }
    },
-   "rank": 30.505
+   "rank": 30.462
   },
   {
    "id": "n9014",
@@ -33667,7 +33914,7 @@
      "also": []
     }
    },
-   "rank": 46.061,
+   "rank": 45.995,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -34152,7 +34399,7 @@
      ]
     }
    },
-   "rank": 56.074,
+   "rank": 55.993,
    "thread": {
     "slug": "zimnie-katki-i-lgoty-v-prage",
     "title": {
@@ -34483,7 +34730,7 @@
      ]
     }
    },
-   "rank": 47.794,
+   "rank": 47.723,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -34903,7 +35150,7 @@
      ]
     }
    },
-   "rank": 23.303,
+   "rank": 23.267,
    "thread": {
     "slug": "finansirovanie-aktsii-17-noiabria-i-poezdka-babisha",
     "title": {
@@ -35265,7 +35512,7 @@
      ]
     }
    },
-   "rank": 36.458,
+   "rank": 36.402,
    "story": [
     {
      "slug": "moninets-otkroet-gornolyzhnyi-sezon-15-noiabria",
@@ -35527,7 +35774,7 @@
      ]
     }
    },
-   "rank": 21.01,
+   "rank": 20.977,
    "sources": [
     {
      "domain": "news.headliner.cz",
@@ -35789,7 +36036,7 @@
      ]
     }
    },
-   "rank": 47.549,
+   "rank": 47.475,
    "sources": [
     {
      "domain": "cnn.iprima.cz",
@@ -36087,7 +36334,7 @@
      ]
     }
    },
-   "rank": 39.304,
+   "rank": 39.241,
    "sources": [
     {
      "domain": "spravazeleznic.cz",
@@ -36460,7 +36707,7 @@
      ]
     }
    },
-   "rank": 43.992,
+   "rank": 43.921,
    "thread": {
     "slug": "biudzhetnyi-defitsit-i-rost-gosdolga-chekhii",
     "title": {
@@ -36723,7 +36970,7 @@
      ]
     }
    },
-   "rank": 34.201,
+   "rank": 34.145,
    "sources": [
     {
      "domain": "refresher.cz",
@@ -62118,399 +62365,6 @@
    "image_url": "https://img.24n.cz/p/2026/11/pensioner-iz-khomutovska-poterial-polmilliona-na-investitsii-ae70a32a5a9977d5.webp",
    "image_w": 1200,
    "image_h": 900
-  },
-  {
-   "id": "n8902",
-   "slug": "minzdrav-chekhii-zapretil-vracham-brat-dengi-za-registratsiiu",
-   "source": "denik.cz",
-   "original_url": "https://www.denik.cz/zdravotnictvi/lekari-ordinace-vybirani-penez-poplatky-ministerstvo-zdravotnictvi-pravidla/?utm_source=rss&utm_medium=feed-vse&utm_campaign=prazsky.denik.cz&utm_content=zdravotnictvi",
-   "top": false,
-   "tags": [
-    "zakon",
-    "cesko",
-    "zdorovie"
-   ],
-   "published_at": "2026-11-15T01:04:36.247507+01:00",
-   "time": {
-    "ru": "4 дня назад",
-    "uk": "4 дні тому"
-   },
-   "date": {
-    "ru": "15 ноября 2026, 01:04",
-    "uk": "15 листопада 2026, 01:04"
-   },
-   "ru": {
-    "title": "Минздрав Чехии запретил врачам брать деньги за регистрацию",
-    "lede": "Министерство здравоохранения Чехии представило подробную методику, которая устанавливает жесткие границы для платных услуг и запрещает незаконные поборы с пациентов в медицинских учреждениях.",
-    "meta_description": "Министерство здравоохранения Чехии выпустило методику по борьбе с незаконными поборами у врачей. Читайте о правилах оплаты услуг и штрафах.",
-    "paras": [
-     "<p>С начала 2026 года в Чехии ужесточили правила приема пациентов. Поправка к закону о медицинских услугах превратила регистрационные сборы в правонарушение. Врачам и владельцам кабинетов за это грозит штраф до 300 тысяч крон. Если же с пациентов требуют деньги за помощь, которую полностью оплачивают страховые компании, сумма может вырасти до одного миллиона крон.</p>",
-     "<p>Алена Фикейзова из министерства здравоохранения пояснила, что новый документ уравнивает правила для ведомств.</p>",
-     "<blockquote>Методическое stanovisko (разъяснение) призвано сделать толкование правил единым и дать контрольным органам четкие ориентиры для оценки конкретных ситуаций. Одновременно это способствует большей правовой уверенности пациентов и поставщиков медуслуг, а также может служить гражданам вспомогательным источником информации об их правах.</blockquote>",
-     "<p>Так Алена Фикейзова прокомментировала появление документа, который предназначен прежде всего для краевых ведомств и пражского магистрата, которые проводят проверки и разбирают нарушения.</p>",
-     "<h3>За какие услуги врачи не имеют права брать деньги</h3>",
-     "<p>Руководство описывает реальные жизненные ситуации. Договорной врач не может требовать деньги за прием в виде регистрационного или административного сбора. Ускорить обследование или операцию за доплату тоже запрещено. Платная запись разрешена, но рядом обязательно должна быть бесплатная альтернатива с сопоставимыми сроками в пределах часов или нескольких дней.</p>",
-     "<p>Идентификатор eRecept выдают пациентам бесплатно. Это правило работает даже при отправке документа по SMS или электронной почте. Стоматологи со страховкой не могут требовать платную гигиену зубов ради лечения. Исключение действует только тогда, когда процедура технически необходима для помощи.</p>",
-     "<p>Что касается посещений клиник, то ургентный прием пациентов в тяжелом состоянии проводится бесплатно. Дежурство у терапевта или стоматолога стоит 90 крон, а процедура триажа, при которой медработники распределяют пациентов по степени срочности, денег не требует. При госпитализации или родах за само присутствие близкого человека плата не взимается. Если же сопровождающий остается в больнице с ночевкой и питанием, с него могут потребовать умеренную плату за расходные материалы или индивидуальное обучение, но ее размер должен строго соответствовать фактическим затратам.</p>",
-     "<p>Штраф за прогул возможен. Закон требует письменное согласие человека. Таблички в приемной, смс или посты на сайтах не имеют силы.</p>",
-     "<h3>Реакция врачей и данные статистики</h3>",
-     "<p>Адам Войтех указал, что пациенты часто не понимают природу регулярных медицинских сборов.</p>",
-     "<blockquote>В медицине постоянно возникают разные сборы, и пациентам бывает непросто понять, какие из них законны. Мы хотим, чтобы в этом была ясность.</blockquote>",
-     "<p>Так объяснил необходимость появления методики Адама Войтеха. Однако Чешская врачебная комната раскритиковала документ за отсутствие предварительных консультаций с профессиональным сообществом.</p>",
-     "<blockquote>Материал с нами не консультировали, и нам даже не дали возможности подготовить к нему замечания. Речь идет хоть и о простой методике, но это важный документ, поскольку можно ожидать, что им будут руководствоваться административные органы.</blockquote>",
-     "<p>Такое мнение высказал президент ČLK Милан Кубек. Организация уже опубликовала собственные рекомендации для медиков, подготовленные директором юридического канцелярского отдела Яна Маха. В них врачам советуют использовать термин «согласованная плата» вместо слова «сбор» и обязательно брать с пациентов письменные согласия на любые дополнительные коммерческие услуги или пакеты сервисов.</p>",
-     "<p>Поводом для наведения порядка стали многочисленные жалобы, особенно в сферах гинекологии, стоматологии и физиотерапии. Проведенный ранее опрос Национальной ассоциации пациентских организаций показал, что 46% респондентов сталкивались с требованиями оплачивать услуги, которые покрывает страховка, а 15% из них упоминали именно регистрационные поборы.</p>",
-     "<p> Эдита Мюллерова, вице-председатель пациентской организации, поддержала министерскую инициативу.</p>",
-     "<blockquote>Мы приветствуем документ. Нам претит не отказ от платных услуг, а защита пациента от ситуации, когда его фактически принуждают к оплате. Доступ к медицинской помощи из общественного страхования нельзя обуславливать дополнительными неправомерными платежами.</blockquote>",
-     "<p>Как подчеркнула Эдиты Мюллеровой, наряду с четкими правилами критически важен эффективный контроль за их соблюдением.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Имеет ли право врач брать плату за регистрацию нового пациента?",
-      "a": "Нет, регистрационные, административные или аналогичные сборы при приеме в уход незаконны."
-     },
-     {
-      "q": "Может ли стоматолог требовать обязательное прохождение платной зубной гигиены перед лечением?",
-      "a": "Как правило, нет. Договорной стоматолог не может обуславливать регистрацию или лечение прохождением платной гигиены, если она не является медицинской необходимостью для конкретной процедуры."
-     },
-     {
-      "q": "Нужно ли платить за отправку eRecept через SMS?",
-      "a": "Нет, идентификатор eRecept пациент должен получать бесплатно, даже если он отправлен по SMS или email по его выбору."
-     },
-     {
-      "q": "Может ли врач оштрафовать за пропущенный визит?",
-      "a": "Только в том случае, если пациент заранее и в письменной форме явно выразил согласие с таким штрафом."
-     }
-    ],
-    "impact": "Пациенты в Чехии освобождены от незаконных регистрационных сборов у врачей и платы за рецепты. За нарушение правил медицинским учреждениям грозят штрафы до одного миллиона крон.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "С начала 2026 года в Чехии поправка к закону о медицинских услугах сделала регистрационные сборы правонарушением, за которое врачам грозит штраф до 300 тысяч крон.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Договорной врач не может требовать деньги за прием в виде регистрационного или административного сбора, а также ускорять обследование или операцию за доплату.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Идентификатор eRecept выдают пациентам бесплатно, в том числе при отправке документа по SMS или электронной почте.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Опрос Национальной ассоциации пациентских организаций показал, что 46% респондентов сталкивались с требованиями оплачивать услуги, которые покрывает страховка.",
-       "target": {
-        "block": 16,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "eRecept",
-       "definition": "Идентификатор электронного рецепта, который выдают пациентам бесплатно.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "триажа",
-       "definition": "Процедура, при которой медработники распределяют пациентов по степени срочности.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Чешская врачебная комната",
-       "definition": "Самоуправляемая сословная организация, объединяющая всех врачей на территории Чешской Республики.",
-       "target": {
-        "block": 13,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Милан Кубек",
-       "definition": "Президент Чешской врачебной палаты и врач.",
-       "target": {
-        "block": 15,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Адам Войтех",
-       "definition": "Адам Войтех — чешский политик и юрист, министр здравоохранения Чехии в третьем правительстве Андрея Бабиша с декабря 2025 года.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "bf0ac44f5271b40c044af284ce0673e15fb4974ea6264c45ddabcd6c52a69bbe"
-    },
-    "context": {
-     "v": 1,
-     "before": "С начала 2026 года в Чехии ужесточили правила приема пациентов: поправка к закону о медицинских услугах превратила регистрационные сборы в правонарушение, за которое врачам грозит штраф до 300 тысяч крон, а за требование денег за помощь, которую полностью оплачивают страховые компании, до одного миллиона крон. Поводом для наведения порядка стали многочисленные жалобы, особенно в сферах гинекологии, стоматологии и физиотерапии. Опрос Национальной ассоциации пациентских организаций показал, что 46% респондентов сталкивались с требованиями оплачивать услуги, которые покрывает страховка, а 15% упоминали именно регистрационные поборы. Теперь министерство здравоохранения представило подробную методику, которая устанавливает жесткие границы для платных услуг и запрещает незаконные поборы [1].",
-     "assessment": "Методика министерства уже готова и предназначена прежде всего для краевых ведомств и пражского магистрата, которые проводят проверки и разбирают нарушения. По словам Алены Фикейзовой из министерства, документ уравнивает правила для ведомств и дает пациентам больше правовой уверенности. При этом Чешская врачебная комната раскритиковала методику за отсутствие предварительных консультаций с профессиональным сообществом, заявил ее президент Милан Кубек, и организация уже опубликовала собственные рекомендации для медиков. Пациентская организация в лице вице-председателя Эдиты Мюллеровой инициативу поддержала, но подчеркнула, что наряду с четкими правилами критически важен эффективный контроль за их соблюдением. Коснется это всех пациентов и врачей: теперь четко прописано, что договорной врач не может требовать деньги за прием в виде регистрационного сбора, нельзя ускорить обследование или операцию за доплату, а идентификатор eRecept выдают бесплатно.",
-     "refs": [
-      {
-       "slug": "chekhiia-uzhestochaet-kontrol-za-chto-vrachi-ne-imeiut-prava-brat-deng",
-       "title": "Чехия ужесточает контроль: за что врачи не имеют права брать деньги",
-       "desc": "Министерство здравоохранения Чехии разъяснило, за какие услуги врачи не имеют права требовать плату. Штраф за нарушения - до 1 миллиона крон.",
-       "date": "2 ноября 2026, 05:51",
-       "img": ""
-      }
-     ],
-     "links": [
-      {
-       "slug": "chekhiia-uzhestochaet-kontrol-za-chto-vrachi-ne-imeiut-prava-brat-deng",
-       "title": "Чехия ужесточает контроль: за что врачи не имеют права брать деньги",
-       "desc": "Министерство здравоохранения Чехии разъяснило, за какие услуги врачи не имеют права требовать плату. Штраф за нарушения - до 1 миллиона крон.",
-       "date": "2 ноября 2026, 05:51",
-       "img": "",
-       "block": 2,
-       "phrase": "Методическое stanovisko"
-      }
-     ],
-     "also": []
-    }
-   },
-   "uk": {
-    "title": "МОЗ Чехії заборонило лікарям брати гроші за реєстрацію",
-    "lede": "Міністерство охорони здоров'я Чехії представило детальну методику, яка встановлює жорсткі межі для платних послуг і забороняє незаконні побори з пацієнтів у медичних закладах.",
-    "meta_description": "Міністерство охорони здоров'я Чехії випустило методику щодо боротьби з незаконними поборами у лікарів. Читайте про правила оплати послуг та штрафи.",
-    "paras": [
-     "<p>З початку 2026 року в Чехії посилили правила прийому пацієнтів. Поправка до закону про медичні послуги перетворила реєстраційні збори на правопорушення. Лікарям та власникам кабінетів за це загрожує штраф до 300 тисяч крон. Якщо ж із пацієнтів вимагають гроші за допомогу, яку повністю оплачують страхові компанії, сума може зрости до одного мільйона крон.</p>",
-     "<p>Алена Фікейзова з міністерства охорони здоров'я пояснила, що новий документ урівнює правила для відомств.</p>",
-     "<blockquote>Методичне stanovisko (роз'яснення) покликане зробити тлумачення правил єдиним і дати контрольним органам чіткі орієнтири для оцінки конкретних ситуацій. Водночас це сприяє більшій правовій впевненості пацієнтів і постачальників медпослуг, а також може слугувати громадянам допоміжним джерелом інформації про їхні права.</blockquote>",
-     "<p>Так Алена Фікейзова прокоментувала появу документа, який призначений пересам перед для крайових відомств і празького магістрату, які проводять перевірки та розбирають порушення.</p>",
-     "<h3>За які послуги лікарі не мають права брати гроші</h3>",
-     "<p>Керівництво описує реальні життєві ситуації. Договірний лікар не може вимагати гроші за прийом у вигляді реєстраційного чи адміністративного збору. Прискорити обстеження чи операцію за доплату теж заборонено. Платна запис дозволена, але поруч обов'язково повинна бути безкоштовна альтернатива зі співставимими строками в межах годин або кількох днів.</p>",
-     "<p>Ідентифікатор eRecept видають пацієнтам безкоштовно. Це правило працює навіть при надсиланні документа через SMS або електронну пошту. Стоматологи зі страховкою не можуть вимагати платну гігієну зубів заради лікування. Виняток діє лише тоді, коли процедура технічно необхідна для допомоги.</p>",
-     "<p>Щодо відвідувань клінік, то ургентний прийом пацієнтів у важкому стані проводиться безкоштовно. Чергування у терапевта чи стоматолога коштує 90 крон, а процедура тріажу, під час якої медпрацівники розподіляють пацієнтів за ступенем терміновості, грошей не вимагає. При госпіталізації чи пологах за саму присутність близької людини плата не стягується. Якщо ж супроводжуючий залишається в лікарні з ночівлею та харчуванням, з нього можуть вимагати помірну плату за витратні матеріали чи індивідуальне навчання, але її розмір має суворо відповідати фактичним витратам.</p>",
-     "<p>Штраф за прогул можливий. Закон вимагає письмову згоду людини. Таблички в приймальні, смс чи пости на сайтах не мають сили.</p>",
-     "<h3>Реакція лікарів та дані статистики</h3>",
-     "<p>Адам Войтех вказав, що пацієнти часто не розуміють природу регулярних медичних зборів.</p>",
-     "<blockquote>У медицині постійно виникають різні збори, і пацієнтам буває непросто зрозуміти, які з них законні. Ми хочемо, щоб у цьому була яясність.</blockquote>",
-     "<p>Так пояснив необхідність появи методики Адама Войтеха. Однак Чеська лікарська палата розкритикувала документ за відсутність попередніх консультацій із професійною спільнотою.</p>",
-     "<blockquote>Матеріал з нами не консультували, і нам навіть не дали можливості підготувати до нього зауваження. Йдеться хоч і про просту методику, але це важливий документ, оскільки можна очікувати, що ним керуватимуться адміністративні органи.</blockquote>",
-     "<p>Таку думку висловив президент ČLK Мілан Кубек. Організація вже опублікувала власні рекомендації для медиків, підготовлені директором юридичного канцелярського відділу Яна Маха. У них радять використовувати термін «узгоджена плата» замість слова «збір» і обов'язково брати з пацієнтів письмові згоди на будь-які додаткові комерційні послуги чи пакети сервісів.</p>",
-     "<p>Приводом для наведення порядку стали численні скарги, особливо у сферах гінекології, стоматології та фізіотерапії. Проведене раніше опитування Національної асоціації пацієнтських організацій показало, що 46% респондентів стикалися з вимогами оплачувати послуги, які покриває страховка, а 15% із них згадували саме реєстраційні побори.</p>",
-     "<p>Едіта Мюллерова, віце-председателька пацієнтської організації, підтримала міністерську ініціативу.</p>",
-     "<blockquote>Ми вітаємо документ. Нам огидна не відмова від платних послуг, а захист пацієнта від ситуації, коли його фактично примушують до оплати. Доступ до медичної допомоги з громадського страхування не можна зумовлювати додатковими неправомірними платежами.</blockquote>",
-     "<p>Як підкреслила Едіта Мюллерова, поряд із чіткими правилами критично важливий ефективний контроль за їх дотриманням.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Чи має право лікар брати плату за реєстрацію нового пацієнта?",
-      "a": "Ні, реєстраційні, адміністративні чи аналогічні збори при прийомі під нагляд є незаконними."
-     },
-     {
-      "q": "Чи може стоматолог вимагати обов'язкове проходження платної зубної гігієни перед лікуванням?",
-      "a": "Як правило, ні. Договірний стоматолог не може зумовлювати реєстрацію чи лікування проходженням платної гігієни, якщо вона не є медичною необхідністю для конкретної процедури."
-     },
-     {
-      "q": "Чи потрібно платити за надсилання eRecept через SMS?",
-      "a": "Ні, ідентифікатор eRecept пацієнт повинен отримувати безкоштовно, навіть якщо його надіслано через SMS або email за його вибором."
-     },
-     {
-      "q": "Чи може лікар оштрафувати за пропущений візит?",
-      "a": "Лише в тому випадку, якщо пацієнт заздалегідь і в письмовій формі явно висловив згоду з таким штрафом."
-     }
-    ],
-    "impact": "Пациенты в Чехии освобождены от незаконных регистрационных сборов у врачей и платы за рецепты. За нарушение правил медицинским учреждениям грозят штрафы до одного миллиона крон.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "З початку 2026 року реєстраційні збори в Чехії стали правопорушенням зі штрафом до 300 тисяч крон, а за вимагання грошей за послуги, які покриває страховка, — до мільйона крон.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Платний запис до лікаря дозволений лише за наявності безкоштовної альтернативи зі співставними строками в межах годин або кількох днів.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Ургентний прийом у важкому стані безкоштовний, чергування у терапевта чи стоматолога коштує 90 крон, а тріаж грошей не вимагає.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Штраф за прогул можливий лише за письмовою згодою пацієнта; таблички в приймальні, смс чи пости на сайтах не мають сили.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "тріажу",
-       "definition": "Процедура, під час якої медпрацівники розподіляють пацієнтів за ступенем терміновості.",
-       "target": {
-        "block": 8,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "eRecept",
-       "definition": "Ідентифікатор електронного рецепта, який пацієнтам видають безкоштовно, навіть при надсиланні через SMS або електронну пошту.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Що варто знати пацієнту",
-      "items": [
-       {
-        "text": "Не платіть реєстраційний чи адміністративний збір договірному лікарю — це правопорушення.",
-        "target": {
-         "block": 6,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Якщо пропонують платний запис, перевірте, чи є безкоштовна альтернатива зі співставними строками.",
-        "target": {
-         "block": 6,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Пам'ятайте, що ідентифікатор eRecept видають безкоштовно, зокрема через SMS чи електронну пошту.",
-        "target": {
-         "block": 7,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Уточніть, що платна гігієна зубів у стоматолога зі страховкою можлива лише тоді, коли вона технічно необхідна для лікування.",
-        "target": {
-         "block": 7,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Плату за ночівлю й харчування супроводжуючого можуть вимагати лише в розмірі фактичних витрат.",
-        "target": {
-         "block": 8,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "На будь-які додаткові комерційні послуги вимагайте письмової згоди — усні чи оголошення не мають сили.",
-        "target": {
-         "block": 9,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "29d742aabccae53b7ff11833f3786c95e053735e5a7954c12470e747cbe5894c"
-    },
-    "context": {
-     "v": 1,
-     "before": "З початку 2026 року в Чехії посилили правила приймання пацієнтів: поправка до закону про медичні послуги перетворила реєстраційні збори на правопорушення, за яке лікарям загрожує штраф до 300 тисяч крон, а за вимогу грошей за допомогу, яку повністю оплачують страхові компанії, до одного мільйона крон. Приводом для наведення ладу стали численні скарги, особливо у сферах гінекології, стоматології та фізіотерапії. Опитування Національної асоціації пацієнтських організацій показало, що 46% респондентів стикалися з вимогами оплачувати послуги, які покриває страховка, а 15% згадували саме реєстраційні побори. Тепер міністерство охорони здоров'я представило докладну методику, яка встановлює жорсткі межі для платних послуг і забороняє незаконні побори [1].",
-     "assessment": "Методика міністерства вже готова і призначена насамперед для крайових відомств та празького магістрату, які проводять перевірки й розбирають порушення. За словами Алени Фікейзової з міністерства, документ вирівнює правила для відомств і дає пацієнтам більше правової впевненості. Водночас Чеська лікарська палата розкритикувала методику за відсутність попередніх консультацій із професійною спільнотою, заявив її президент Мілан Кубек, і організація вже опублікувала власні рекомендації для медиків. Пацієнтська організація в особі віце-голови Едіти Мюллерової ініціативу підтримала, але наголосила, що поряд із чіткими правилами критично важливий ефективний контроль за їх дотриманням. Це стосуватиметься всіх пацієнтів і лікарів: тепер чітко прописано, що договірний лікар не може вимагати гроші за прийом у вигляді реєстраційного збору, не можна прискорити обстеження чи операцію за доплату, а ідентифікатор eRecept видають безкоштовно.",
-     "refs": [
-      {
-       "slug": "chekhiia-uzhestochaet-kontrol-za-chto-vrachi-ne-imeiut-prava-brat-deng",
-       "title": "Чехія посилює контроль: за що лікарі не мають права брати гроші",
-       "desc": "Міністерство охорони здоров'я Чехії роз'яснило, за які послуги лікарі не мають права вимагати плату. Штраф за порушення до 1 мільйона крон.",
-       "date": "2 листопада 2026, 05:51",
-       "img": ""
-      }
-     ],
-     "links": [
-      {
-       "slug": "chekhiia-uzhestochaet-kontrol-za-chto-vrachi-ne-imeiut-prava-brat-deng",
-       "title": "Чехія посилює контроль: за що лікарі не мають права брати гроші",
-       "desc": "Міністерство охорони здоров'я Чехії роз'яснило, за які послуги лікарі не мають права вимагати плату. Штраф за порушення до 1 мільйона крон.",
-       "date": "2 листопада 2026, 05:51",
-       "img": "",
-       "block": 2,
-       "phrase": "Методичне stanovisko"
-      }
-     ],
-     "also": []
-    }
-   },
-   "rank": 45.5,
-   "story": [
-    {
-     "slug": "chekhiia-uzhestochaet-kontrol-za-chto-vrachi-ne-imeiut-prava-brat-deng",
-     "ru": "Чехия ужесточает контроль: за что врачи не имеют права брать деньги",
-     "uk": "Чехія посилює контроль: за що лікарі не мають права брати гроші",
-     "published_at": "2026-11-02T05:51:28.822376+01:00",
-     "date": {
-      "ru": "2 ноября 2026, 05:51",
-      "uk": "2 листопада 2026, 05:51"
-     }
-    }
-   ],
-   "sources": [
-    {
-     "domain": "zdravotnickydenik.cz",
-     "official": false,
-     "url": "https://www.zdravotnickydenik.cz/2026/10/poplatky-lekari-pacienti/",
-     "title": "Za co si lékaři mohou účtovat poplatky? Ministerstvo vydalo návod pro pacienty i ordinace"
-    },
-    {
-     "domain": "theintelligent.cz",
-     "official": false,
-     "url": "https://theintelligent.cz/zdravi/2026/ministerstvo-zdravotnictvi-upresnilo-pravidla-pro-poplatky-u-poskytovatelu-zdravotni",
-     "title": "Ministerstvo zdravotnictví upřesnilo pravidla pro poplatky u poskytovatelů zdravotní péče"
-    },
-    {
-     "domain": "penize.cz",
-     "official": false,
-     "url": "https://www.penize.cz/zdravotnictvi/499035-manual-pacienta-za-tohle-u-lekare-rozhodne-neplatte",
-     "title": "Manuál pacienta: Za tohle u lékaře rozhodně neplaťte | Peníze.cz"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 3,
-   "image_url": "https://img.24n.cz/p/2026/11/minzdrav-chekhii-zapretil-vracham-brat-dengi-za-registratsii-99d43269f1166647.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/11/minzdrav-chekhii-zapretil-vracham-brat-dengi-za-registratsii-6e6a4e6a89c36c77.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/11/minzdrav-chekhii-zapretil-vracham-brat-dengi-za-registratsii-6e6a4e6a89c36c77.webp",
-     "after": 4,
-     "caption": "Договорной врач не может требовать деньги за прием в виде регистрационного или административного сбора."
-    }
-   ],
-   "image_w": 1366,
-   "image_h": 910,
-   "images_wh": [
-    [
-     1200,
-     500
-    ]
-   ]
   },
   {
    "id": "n8901",
