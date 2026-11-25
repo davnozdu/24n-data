@@ -1,8 +1,291 @@
 {
- "updated_at": "2026-11-25T21:10:47+00:00",
+ "updated_at": "2026-11-25T21:37:06+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n9433",
+   "slug": "politsiia-ostanovila-bmw-letevshii-pod-trshebichem-169-km-ch",
+   "source": "tydenikpolicie.cz",
+   "original_url": "https://tydenikpolicie.cz/ridici-bmw-namerili-policiste-na-sedmdesatce-rychlost-temer-170-km-hod/",
+   "top": false,
+   "tags": [
+    "kriminal",
+    "cesko"
+   ],
+   "published_at": "2026-11-25T22:37:05.695223+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "25 ноября 2026, 22:37",
+    "uk": "25 листопада 2026, 22:37"
+   },
+   "ru": {
+    "title": "Полиция остановила BMW, летевший под Тршебичем 169 км/ч",
+    "lede": "Водитель BMW был остановлен полицией в районе Тршебича за превышение скорости почти в два с половиной раза. Он ехал со скоростью 169 км/ч на участке с ограничением 70 км/ч.",
+    "meta_description": "Водитель BMW превысил скорость на 93 км/ч в районе Тршебича, ему назначили залог и запретили дальнейшее движение.",
+    "paras": [
+     "<p>Во вторник, 24 ноября, днём полицейские из транспортной инспекции Тршебиче проверяли движение на дороге I/23 у перекрёстка с дорогой II/399, в кадастре общины Виценице-у-Намеште-над-Ославоу. Скорость здесь ограничена до 70 км/ч. Легковой BMW ехал в сторону от Йиглавы со скоростью 169 км/ч.</p>",
+     "<p>После вычета законной погрешности вышло 163 км/ч, то есть превышение на 93 км/ч. Машину остановили. За рулём оказался иностранец, водительские права он предъявить не смог.</p>",
+     "<p>Нарушитель мог избежать ответственности и уклониться от штрафа, и полицейские назначили ему залог 13 тысяч крон. Дальше ехать ему запретили на месте, а дело передали в административный орган.</p>",
+     "<p>Спикер полиции Клара Калинова пояснила: «По вычету законной нормы, скорость составила 163 км/ч - лимит был превышен на 93 км/ч. Мы остановили машину и выяснили, что за рулём сидит иностранец без водительских прав.»</p>",
+     "<p>Поправка к закону о дорожном движении позволяет полиции изъять права на месте, если водитель превысил максимально допустимую скорость на 40 км/ч в населённом пункте или на 50 км/ч вне его. Здесь нарушителю может грозить штраф до 25 тысяч крон, запрет на вождение сроком от 6 до 18 месяцев и 6 штрафных баллов.</p>"
+    ],
+    "faq": [
+     {
+      "q": "С какой скоростью ехал водитель BMW?",
+      "a": "Радар зафиксировал 169 км/ч на участке с ограничением 70 км/ч; после вычета погрешности - 163 км/ч, превышение на 93 км/ч."
+     },
+     {
+      "q": "Что грозит нарушителю?",
+      "a": "Дело передано в административное производство: штраф до 25 тысяч крон, запрет на вождение от 6 до 18 месяцев и 6 штрафных баллов."
+     },
+     {
+      "q": "Почему у водителя взяли залог?",
+      "a": "Полицейские опасались, что иностранец будет уклоняться от производства и взыскание штрафа окажется сложным; залог составил 13 тысяч крон."
+     },
+     {
+      "q": "Когда полиция может изъять права на месте?",
+      "a": "При превышении скорости в населённом пункте на 40 км/ч и более, а вне населённого пункта - на 50 км/ч и более."
+     }
+    ],
+    "impact": "Нарушителю грозит административное производство с возможным штрафом до 25 тысяч крон и запретом на вождение на срок от 6 до 18 месяцев. Его дело передано в административный орган для дальнейшего рассмотрения.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "24 ноября днём на дороге I/23 у Виценице-у-Намеште-над-Ославоу BMW ехал со скоростью 169 км/ч при ограничении 70 км/ч.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "После вычета законной погрешности скорость составила 163 км/ч, превышение — 93 км/ч.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "За рулём был иностранец, который не смог предъявить водительские права.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Нарушителю назначили залог 13 тысяч крон, ехать дальше запретили на месте, дело передали в административный орган.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "залог",
+       "definition": "Денежная сумма, которую полиция назначила нарушителю, чтобы он не смог уклониться от штрафа.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "административный орган",
+       "definition": "Орган, куда передали дело нарушителя для дальнейшего рассмотрения.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Виценице-у-Намеште-над-Ославоу",
+       "definition": "Виценице-у-Намеште-над-Ославоу — община в районе Тршебич в крае Высочина, с населением около 420 жителей.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Клара Калинова",
+       "definition": "Клара Калинова — спикер полиции Чешской Республики, публикующая сообщения о происшествиях в крае Высочина.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "21f46e7ca4c73562298a9054b3d0ad71736fe36d7a2835ca61bdffb7be92da1e"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "politsiia-v-liberetskom-krae-poimala-49-voditelei-za-prevyshenie-skoro",
+       "title": "Полиция в Либерецком крае поймала 49 водителей за превышение скорости",
+       "desc": "Специальная проверка скоростных лимитов в Либерецком крае 4 ноября 2025 года выявила 49 нарушителей. Полиция подвела итоги.",
+       "date": "10 ноября 2026, 18:35",
+       "img": "https://img.24n.cz/p/2026/11/politsiia-v-liberetskom-krae-poimala-49-voditelei-za-prevysh-48553067c8dc9cd8.webp",
+       "block": 1,
+       "phrase": "превышение на 93 км/ч"
+      }
+     ],
+     "also": [
+      {
+       "slug": "v-kladno-ostanovili-samokatchika-so-skorostiu-85-km-ch-bez-prav",
+       "title": "В Кладно остановили самокатчика со скоростью 85 км/ч без прав",
+       "desc": "Мужчина на электросамокате разогнался до 85 км/ч в Кладно. Полиция фиксирует массовые нарушения среди водителей самокатов.",
+       "date": "20 ноября 2026, 14:10",
+       "img": "https://img.24n.cz/p/2026/11/v-kladno-ostanovili-samokatchika-so-skorostiu-85-km-ch-bez-p-165ae2e7f04c9714.webp"
+      },
+      {
+       "slug": "dtp-pod-pragoi-pianyi-bespravnik-vrezalsia-v-derevo-i-szheg-avto",
+       "title": "ДТП под Прагой: пьяный бесправник врезался в дерево и сжег авто",
+       "desc": "Под Прагой 18-летний водитель врезался в дерево и устроил пожар в машине. Оказалось, он был пьян и лишен прав.",
+       "date": "28 октября 2026, 12:38",
+       "img": "https://img.24n.cz/p/2026/10/dtp-pod-pragoi-pianyi-bespravnik-vrezalsia-v-derevo-i-szheg-4de9f26ecb3fa589.webp"
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Поліція зупинила BMW, що летів під Тршебічем зі швидкістю 169 км/год",
+    "lede": "Водія BMW зупинила поліція в районі Тршебіча за перевищення швидкості майже у два з половиною рази. Він їхав зі швидкістю 169 км/год на ділянці з обмеженням 70 км/год.",
+    "meta_description": "Водій BMW перевищив швидкість на 93 км/год у районі Тршебіча, йому призначили заставу і заборонили подальший рух.",
+    "paras": [
+     "<p>У вівторок, 24 листопада, вдень поліцейські з транспортної інспекції у Тршебічі перевіряли рух на дорозі I/23 біля перехрестя з дорогою II/399, у кадастрі громади Віценице-у-Намештє-над-Ославоу. Швидкість тут обмежена до 70 км/год. Легковий BMW їхав у напрямку від Їглави зі швидкістю 169 км/год.</p>",
+     "<p>Після вирахування законної похибки вийшло 163 км/год, тобто перевищення на 93 км/год. Машину зупинили. За кермом виявився іноземець, водійські права він пред'явити не зміг.</p>",
+     "<p>Порушник міг уникнути відповідальності й ухилитися від штрафу, тож поліцейські призначили йому заставу 13 тисяч крон. Далі їхати йому заборонили на місці, а справу передали до адміністративного органу.</p>",
+     "<p>Речниця поліції Клара Калінова пояснила: «Після вирахування законної норми швидкість становила 163 км/год, ліміт було перевищено на 93 км/год. Ми зупинили машину і з'ясували, що за кермом сидить іноземець без водійських прав.»</p>",
+     "<p>Поправка до закону про дорожній рух дозволяє поліції вилучити права на місці, якщо водій перевищив максимально дозволену швидкість на 40 км/год у населеному пункті або на 50 км/год поза ним. Тут порушнику може загрожувати штраф до 25 тисяч крон, заборона на керування строком від 6 до 18 місяців і 6 штрафних балів.</p>"
+    ],
+    "faq": [
+     {
+      "q": "З якою швидкістю їхав водій BMW?",
+      "a": "Радар зафіксував 169 км/год на ділянці з обмеженням 70 км/год; після вирахування похибки 163 км/год, перевищення на 93 км/год."
+     },
+     {
+      "q": "Що загрожує порушнику?",
+      "a": "Справу передано до адміністративного провадження: штраф до 25 тисяч крон, заборона на керування від 6 до 18 місяців і 6 штрафних балів."
+     },
+     {
+      "q": "Чому у водія взяли заставу?",
+      "a": "Поліцейські побоювалися, що іноземець ухилятиметься від провадження і стягнення штрафу буде складним; застава становила 13 тисяч крон."
+     },
+     {
+      "q": "Коли поліція може вилучити права на місці?",
+      "a": "При перевищенні швидкості в населеному пункті на 40 км/год і більше, а поза населеним пунктом на 50 км/год і більше."
+     }
+    ],
+    "impact": "Нарушителю грозит административное производство с возможным штрафом до 25 тысяч крон и запретом на вождение на срок от 6 до 18 месяцев. Его дело передано в административный орган для дальнейшего рассмотрения.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "У вівторок, 24 листопада, поліція зафіксувала BMW, що їхав зі швидкістю 169 км/год на ділянці з обмеженням 70 км/год.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Після вирахування законної похибки швидкість становила 163 км/год, тобто перевищення на 93 км/год.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Водієм виявився іноземець, який не зміг пред'явити водійські права.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Порушнику призначили заставу 13 тисяч крон, заборонили їхати далі на місці, а справу передали до адміністративного органу.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "заставу",
+       "definition": "Грошова сума, яку поліція призначила порушнику, щоб він не уникнув відповідальності й штрафу.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "5c95189bd7426d438065b4d251778dae1fe44536a68974dd808df22ca45063bf"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [
+      {
+       "slug": "politsiia-v-liberetskom-krae-poimala-49-voditelei-za-prevyshenie-skoro",
+       "title": "Поліція в Ліберецькому краї спіймала 49 водіїв за перевищення швидкості",
+       "desc": "Спеціальна перевірка швидкісних лімітів у Ліберецькому краї 4 листопада 2025 року виявила 49 порушників. Поліція підбила підсумки.",
+       "date": "10 листопада 2026, 18:35",
+       "img": "https://img.24n.cz/p/2026/11/politsiia-v-liberetskom-krae-poimala-49-voditelei-za-prevysh-48553067c8dc9cd8.webp",
+       "block": 1,
+       "phrase": "перевищення на 93 км/год"
+      }
+     ],
+     "also": [
+      {
+       "slug": "v-kladno-ostanovili-samokatchika-so-skorostiu-85-km-ch-bez-prav",
+       "title": "У Кладно зупинили самокатника зі швидкістю 85 км/год без прав",
+       "desc": "Чоловік на електросамокаті розігнався до 85 км/год у Кладно. Поліція фіксує масові порушення серед водіїв самокатів.",
+       "date": "20 листопада 2026, 14:10",
+       "img": "https://img.24n.cz/p/2026/11/v-kladno-ostanovili-samokatchika-so-skorostiu-85-km-ch-bez-p-165ae2e7f04c9714.webp"
+      },
+      {
+       "slug": "dtp-pod-pragoi-pianyi-bespravnik-vrezalsia-v-derevo-i-szheg-avto",
+       "title": "ДТП під Прагою: п'яний безправник врізався в дерево і спалив авто",
+       "desc": "Під Прагою 18-річний водій врізався в дерево і влаштував пожежу в машині. Виявилося, він був п'яний і позбавлений прав.",
+       "date": "28 жовтня 2026, 12:38",
+       "img": "https://img.24n.cz/p/2026/10/dtp-pod-pragoi-pianyi-bespravnik-vrezalsia-v-derevo-i-szheg-4de9f26ecb3fa589.webp"
+      }
+     ]
+    }
+   },
+   "rank": 114.0,
+   "sources": [
+    {
+     "domain": "policie.gov.cz",
+     "official": true,
+     "url": "https://policie.gov.cz/clanek/dalnicni-hlidka-zastavila-letajici-bmw.aspx",
+     "title": "Dálniční hlídka zastavila „létající“ BMW - Policie České republiky"
+    },
+    {
+     "domain": "vysocina-news.cz",
+     "official": false,
+     "url": "https://vysocina-news.cz/ridic-na-trebicsku-presahl-na-sedmdesatce-rychlost-temer-o-sto-kilometru/",
+     "title": "Řidič na Třebíčsku přesáhl na sedmdesátce rychlost téměř o sto kilometrů | Vysočina-news.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 2,
+   "official_url": "https://policie.gov.cz/clanek/dalnicni-hlidka-zastavila-letajici-bmw.aspx",
+   "image_url": "https://img.24n.cz/p/2026/11/politsiia-ostanovila-bmw-letevshii-pod-trshebichem-169-km-ch-f7ae0dc1b240a6a9.webp",
+   "image_w": 687,
+   "image_h": 358
+  },
   {
    "id": "n9432",
    "slug": "senat-karlova-universiteta-proverit-kontrakty-i-podriadchikov-vuza",
@@ -15,8 +298,8 @@
    ],
    "published_at": "2026-11-25T22:10:46.632541+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "26 минут назад",
+    "uk": "26 хвилин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 22:10",
@@ -296,8 +579,8 @@
    ],
    "published_at": "2026-11-25T22:10:46.632541+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "26 минут назад",
+    "uk": "26 хвилин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 22:10",
@@ -757,8 +1040,8 @@
    ],
    "published_at": "2026-11-25T22:10:46.632541+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "26 минут назад",
+    "uk": "26 хвилин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 22:10",
@@ -1022,8 +1305,8 @@
    ],
    "published_at": "2026-11-25T22:10:46.632541+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "26 минут назад",
+    "uk": "26 хвилин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 22:10",
@@ -1328,8 +1611,8 @@
    ],
    "published_at": "2026-11-25T21:33:32.267264+01:00",
    "time": {
-    "ru": "37 минут назад",
-    "uk": "37 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 21:33",
@@ -1728,8 +2011,8 @@
    ],
    "published_at": "2026-11-25T21:33:32.267264+01:00",
    "time": {
-    "ru": "37 минут назад",
-    "uk": "37 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 21:33",
@@ -2202,8 +2485,8 @@
    ],
    "published_at": "2026-11-25T21:33:32.267264+01:00",
    "time": {
-    "ru": "37 минут назад",
-    "uk": "37 хвилин тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 21:33",
@@ -2853,8 +3136,8 @@
    ],
    "published_at": "2026-11-25T19:23:29.372886+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 19:23",
@@ -3090,7 +3373,7 @@
      ]
     }
    },
-   "rank": 105.0,
+   "rank": 104.656,
    "image_url": "https://img.24n.cz/p/2026/11/sud-v-olomoutse-ostavil-pedofilu-8-let-tiurmy-4aec9ed6104f914a.webp",
    "image_w": 1200,
    "image_h": 675
@@ -3106,8 +3389,8 @@
    ],
    "published_at": "2026-11-25T18:32:56.037841+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 18:32",
@@ -3151,7 +3434,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 81.253,
+   "rank": 80.733,
    "forecast": true
   },
   {
@@ -3372,7 +3655,7 @@
      ]
     }
    },
-   "rank": 94.995,
+   "rank": 94.381,
    "story": [
     {
      "slug": "dve-banki-v-chekhii-otkliuchat-servisy-klientam-sovetuiut-ne-tianut-s",
@@ -3758,7 +4041,7 @@
      ]
     }
    },
-   "rank": 97.933,
+   "rank": 97.3,
    "sources": [
     {
      "domain": "e15.cz",
@@ -4136,7 +4419,7 @@
      "also": []
     }
    },
-   "rank": 99.02,
+   "rank": 98.373,
    "thread": {
     "slug": "mgnovennye-sepa-perevody-v-cheshskikh-bankakh",
     "title": {
@@ -4573,7 +4856,7 @@
      ]
     }
    },
-   "rank": 86.736,
+   "rank": 86.166,
    "story": [
     {
      "slug": "61-chekhov-postoianno-nervnichaiut-na-rabote-no-76-ne-berut-bolnichnyi",
@@ -4849,7 +5132,7 @@
      ]
     }
    },
-   "rank": 110.83,
+   "rank": 110.101,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -5125,7 +5408,7 @@
      ]
     }
    },
-   "rank": 78.334,
+   "rank": 77.814,
    "sources": [
     {
      "domain": "info.cz",
@@ -5152,8 +5435,8 @@
    ],
    "published_at": "2026-11-25T15:30:58.156776+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 15:30",
@@ -5441,7 +5724,7 @@
      "also": []
     }
    },
-   "rank": 123.12,
+   "rank": 122.297,
    "thread": {
     "slug": "novye-pravila-ipoteki-v-chekhii",
     "title": {
@@ -5507,8 +5790,8 @@
    ],
    "published_at": "2026-11-25T14:27:52.209047+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 14:27",
@@ -5932,8 +6215,8 @@
    ],
    "published_at": "2026-11-25T14:27:52.209047+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 14:27",
@@ -6134,7 +6417,7 @@
      "also": []
     }
    },
-   "rank": 106.235,
+   "rank": 105.513,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -6481,7 +6764,7 @@
      ]
     }
    },
-   "rank": 120.051,
+   "rank": 119.228,
    "thread": {
     "slug": "povyshenie-platy-za-podzemnuiu-vodu",
     "title": {
@@ -6560,8 +6843,8 @@
    ],
    "published_at": "2026-11-25T13:20:03.871524+01:00",
    "time": {
-    "ru": "8 часов назад",
-    "uk": "8 годин тому"
+    "ru": "9 часов назад",
+    "uk": "9 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 13:20",
@@ -6805,7 +7088,7 @@
      ]
     }
    },
-   "rank": 118.108,
+   "rank": 117.291,
    "sources": [
     {
      "domain": "stisk.online",
@@ -7012,7 +7295,7 @@
      "body_sha256": "7f3f4867314fb1675d2759b6d2645c434b4baa514ee409aaaa386c73d8451da5"
     }
    },
-   "rank": 95.392,
+   "rank": 94.727,
    "image_url": "https://img.24n.cz/p/2026/11/pochti-70-cheshskikh-kompanii-podnimut-zarplaty-v-sleduiushc-6239eb3a081fd894.webp",
    "image_w": 1200,
    "image_h": 675
@@ -7028,8 +7311,8 @@
    ],
    "published_at": "2026-11-25T12:15:25.878208+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 12:15",
@@ -7181,7 +7464,7 @@
      ]
     }
    },
-   "rank": 90.001,
+   "rank": 89.367,
    "sources": [
     {
      "domain": "e15.cz",
@@ -7220,8 +7503,8 @@
    ],
    "published_at": "2026-11-25T12:15:25.878208+01:00",
    "time": {
-    "ru": "9 часов назад",
-    "uk": "9 годин тому"
+    "ru": "10 часов назад",
+    "uk": "10 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 12:15",
@@ -7557,7 +7840,7 @@
      ]
     }
    },
-   "rank": 67.5,
+   "rank": 67.025,
    "story": [
     {
      "slug": "cheshskie-lenty-pobedili-v-zritelskikh-kategoriiakh-na-boo-2026",
@@ -7799,7 +8082,7 @@
      ]
     }
    },
-   "rank": 71.35,
+   "rank": 70.843,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -8106,7 +8389,7 @@
      ]
     }
    },
-   "rank": 102.566,
+   "rank": 101.837,
    "image_url": "https://img.24n.cz/p/2026/11/ministr-adam-voitekh-vnedrit-iskusstvennyi-intellekt-v-rentg-59411e0ae1a5f28e.webp",
    "image_w": 1200,
    "image_h": 675
@@ -8122,8 +8405,8 @@
    ],
    "published_at": "2026-11-25T11:12:07.904058+01:00",
    "time": {
-    "ru": "10 часов назад",
-    "uk": "10 годин тому"
+    "ru": "11 часов назад",
+    "uk": "11 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 11:12",
@@ -8325,7 +8608,7 @@
      "body_sha256": "dbab070ec73727d79cc81c4e3a0109ba27db5f558dfc19b03eb60da930f53cba"
     }
    },
-   "rank": 100.863,
+   "rank": 100.141,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -8526,7 +8809,7 @@
      "body_sha256": "314f8f43abe0b2ffc16dcb7e34c056872377f954fdfc41b2db43e76eaa571046"
     }
    },
-   "rank": 96.491,
+   "rank": 95.795,
    "image_url": "https://img.24n.cz/p/2026/11/sudia-magr-rasskazal-v-plzene-o-semiletnem-presledovanii-ert-948e21dc901dbe69.webp",
    "image_w": 1200,
    "image_h": 675
@@ -8784,7 +9067,7 @@
      ]
     }
    },
-   "rank": 53.902,
+   "rank": 53.51,
    "sources": [
     {
      "domain": "polyharmonie.cz",
@@ -9015,7 +9298,7 @@
      ]
     }
    },
-   "rank": 83.624,
+   "rank": 83.009,
    "sources": [
     {
      "domain": "housemagazinerecords.com",
@@ -9417,7 +9700,7 @@
      ]
     }
    },
-   "rank": 78.539,
+   "rank": 77.956,
    "sources": [
     {
      "domain": "zpravy.kurzy.cz",
@@ -9734,7 +10017,7 @@
      ]
     }
    },
-   "rank": 104.149,
+   "rank": 103.376,
    "thread": {
     "slug": "sinteticheskaia-marikhuana-v-cheshskikh-avtomatakh",
     "title": {
@@ -9821,8 +10104,8 @@
    ],
    "published_at": "2026-11-25T08:30:38.596370+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 08:30",
@@ -10076,7 +10359,7 @@
      ]
     }
    },
-   "rank": 93.048,
+   "rank": 92.351,
    "story": [
     {
      "slug": "arenda-v-chekhii-dorozhaet-studenty-shturmuiut-rynok-zhilia-pered-seme",
@@ -10390,7 +10673,7 @@
      ]
     }
    },
-   "rank": 54.485,
+   "rank": 54.073,
    "thread": {
     "slug": "poisk-rozhdestvenskoi-elki-dlia-staromestskoi-ploshchadi",
     "title": {
@@ -10448,8 +10731,8 @@
    ],
    "published_at": "2026-11-25T07:26:14.079515+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 07:26",
@@ -10642,7 +10925,7 @@
      ]
     }
    },
-   "rank": 73.904,
+   "rank": 73.34,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -11147,7 +11430,7 @@
      ]
     }
    },
-   "rank": 86.405,
+   "rank": 85.74,
    "thread": {
     "slug": "infliatsiia-v-chekhii-v-2026-godu",
     "title": {
@@ -11555,7 +11838,7 @@
      ]
     }
    },
-   "rank": 74.062
+   "rank": 73.491
   },
   {
    "id": "n9393",
@@ -11569,8 +11852,8 @@
    ],
    "published_at": "2026-11-25T06:23:51.592564+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 06:23",
@@ -11857,7 +12140,7 @@
      ]
     }
    },
-   "rank": 79.091,
+   "rank": 78.476,
    "thread": {
     "slug": "tsentry-vozvrata-migrantov-za-predelami-es",
     "title": {
@@ -11913,8 +12196,8 @@
    ],
    "published_at": "2026-11-25T06:23:51.592564+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 06:23",
@@ -12283,7 +12566,7 @@
      ]
     }
    },
-   "rank": 66.86,
+   "rank": 66.341,
    "sources": [
     {
      "domain": "kvalifikace-kurzy.cz",
@@ -12308,8 +12591,8 @@
    ],
    "published_at": "2026-11-25T06:23:51.592564+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 06:23",
@@ -12655,7 +12938,7 @@
      ]
     }
    },
-   "rank": 73.383
+   "rank": 72.813
   },
   {
    "id": "n9390",
@@ -13050,7 +13333,7 @@
      ]
     }
    },
-   "rank": 88.78,
+   "rank": 88.083,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-kreditnye-kompanii-vydaiut-zaimy-dolzhnikam-pod-48-8e2cbb1fee9e8d23.webp",
    "image_w": 1200,
    "image_h": 675
@@ -13066,8 +13349,8 @@
    ],
    "published_at": "2026-11-25T05:17:14.256359+01:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 05:17",
@@ -13273,7 +13556,7 @@
      ]
     }
    },
-   "rank": 59.95,
+   "rank": 59.475,
    "thread": {
     "slug": "sparta-bez-trenera-pered-matchem-s-alkmaarom",
     "title": {
@@ -13557,7 +13840,7 @@
      "body_sha256": "5eff1587e5f3500371d9c53ce5e7b58939701300b4b4792dfc46a32114d0f836"
     }
    },
-   "rank": 70.683,
+   "rank": 70.1,
    "sources": [
     {
      "domain": "media24.cz",
@@ -13825,7 +14108,7 @@
      ]
     }
    },
-   "rank": 70.008,
+   "rank": 69.425,
    "sources": [
     {
      "domain": "media24.cz",
@@ -13853,8 +14136,8 @@
    ],
    "published_at": "2026-11-25T01:34:22.644329+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 01:34",
@@ -14143,7 +14426,7 @@
      ]
     }
    },
-   "rank": 83.893,
+   "rank": 83.633,
    "sources": [
     {
      "domain": "seznam.cz",
@@ -14176,8 +14459,8 @@
    ],
    "published_at": "2026-11-25T01:34:22.644329+01:00",
    "time": {
-    "ru": "20 часов назад",
-    "uk": "20 годин тому"
+    "ru": "21 час назад",
+    "uk": "21 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 01:34",
@@ -14475,7 +14758,7 @@
      ]
     }
    },
-   "rank": 76.059,
+   "rank": 75.413,
    "thread": {
     "slug": "spor-iz-za-ulitsy-na-krutci",
     "title": {
@@ -14529,8 +14812,8 @@
    ],
    "published_at": "2026-11-25T00:26:38.910858+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 00:26",
@@ -14896,7 +15179,7 @@
      ]
     }
    },
-   "rank": 54.703,
+   "rank": 54.228,
    "image_url": "https://img.24n.cz/p/2026/11/ekspert-nazvala-glavnuiu-oshibku-nachinaiushchikh-investorov-8a0a9aac0f17c64a.webp",
    "image_w": 1200,
    "image_h": 660
@@ -15208,7 +15491,7 @@
      ]
     }
    },
-   "rank": 82.768,
+   "rank": 82.007,
    "story": [
     {
      "slug": "chekhiia-i-ssha-sygrali-vnichiu-v-kubke-devisa-legechka-spas-komandu",
@@ -15526,7 +15809,7 @@
      ]
     }
    },
-   "rank": 66.904,
+   "rank": 66.289,
    "thread": {
     "slug": "khrustalnaia-lupa-2026",
     "title": {
@@ -15794,7 +16077,7 @@
      ]
     }
    },
-   "rank": 40.942,
+   "rank": 40.562,
    "image_url": "https://img.24n.cz/p/2026/11/student-famu-sozdal-khorror-o-ferme-s-govoriashchimi-ogurtsa-0d262ef4a68028ae.webp",
    "video": {
     "kind": "iframe",
@@ -15879,7 +16162,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 57.112
+   "rank": 56.58
   },
   {
    "id": "n9379",
@@ -16304,7 +16587,7 @@
      ]
     }
    },
-   "rank": 70.825,
+   "rank": 70.16,
    "story": [
     {
      "slug": "politsiia-predupredila-o-moshennikakh-v-predrozhdestvenskikh-rasprodaz",
@@ -16688,7 +16971,7 @@
      ]
     }
    },
-   "rank": 50.018,
+   "rank": 49.543,
    "image_url": "https://img.24n.cz/p/2026/11/v-brno-nachali-lechit-rak-zheludka-immunoterapiei-durvalumab-d2102b93c7a91c8b.webp",
    "image_w": 1280,
    "image_h": 719
@@ -16749,7 +17032,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 52.825,
+   "rank": 52.305,
    "forecast": true
   },
   {
@@ -16922,7 +17205,7 @@
      "body_sha256": "ed5dd553a9a8ede7c357d4b56ff567ea25d6aee9ff59f5d9398dc83e6eeaff0f"
     }
    },
-   "rank": 45.03,
+   "rank": 44.587,
    "image_url": "https://img.24n.cz/p/2026/11/na-ostanovke-pankrat-ustanovili-nizkuiu-lavochku-dlia-passaz-a1bb728d459207a0.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/na-ostanovke-pankrat-ustanovili-nizkuiu-lavochku-dlia-passaz-d6c32a87b9d5a78c.webp",
@@ -17346,7 +17629,7 @@
      ]
     }
    },
-   "rank": 63.484,
+   "rank": 62.851,
    "thread": {
     "slug": "toksichnye-otkhody-na-shumave",
     "title": {
@@ -17737,7 +18020,7 @@
      ]
     }
    },
-   "rank": 79.355,
+   "rank": 78.563,
    "sources": [
     {
      "domain": "hrad.cz",
@@ -18156,7 +18439,7 @@
      ]
     }
    },
-   "rank": 83.529,
+   "rank": 83.254,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -18663,7 +18946,7 @@
      ]
     }
    },
-   "rank": 59.721,
+   "rank": 59.119,
    "image_url": "https://img.24n.cz/p/2026/11/brnenskii-robot-scout-ishchet-vreditelei-v-gollandskikh-tepl-e6f58df5bbebe13c.webp",
    "video": {
     "kind": "iframe",
@@ -18862,7 +19145,7 @@
      ]
     }
    },
-   "rank": 66.007,
+   "rank": 65.342,
    "image_url": "https://img.24n.cz/p/2026/11/afi-postroit-v-vysochanakh-289-kvartir-za-950-millionov-kron-c2add7792b8ba1d1.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/afi-postroit-v-vysochanakh-289-kvartir-za-950-millionov-kron-e9c901c55be13876.webp"
@@ -19238,7 +19521,7 @@
      ]
     }
    },
-   "rank": 55.769,
+   "rank": 55.199,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -19549,7 +19832,7 @@
      ]
     }
    },
-   "rank": 29.124,
+   "rank": 28.826,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -19800,7 +20083,7 @@
      ]
     }
    },
-   "rank": 48.975,
+   "rank": 48.468,
    "image_url": "https://img.24n.cz/p/2026/11/brno-oboshlo-pragu-po-angliiskomu-v-reitinge-ef-epi-b3a11b58515b6295.webp",
    "image_w": 1435,
    "image_h": 809
@@ -20122,7 +20405,7 @@
      ]
     }
    },
-   "rank": 58.158,
+   "rank": 57.556,
    "story": [
     {
      "slug": "vystavka-skhola-pragensis-nazovet-daty-dnei-otkrytykh-dverei",
@@ -20356,7 +20639,7 @@
      ]
     }
    },
-   "rank": 57.443,
+   "rank": 56.841,
    "sources": [
     {
      "domain": "csob.cz",
@@ -20639,7 +20922,7 @@
      ]
     }
    },
-   "rank": 63.489,
+   "rank": 62.824,
    "image_url": "https://img.24n.cz/p/2026/11/khakery-perenapravliali-sait-coi-na-magazin-poddelok-6be73490825a1b2e.webp",
    "image_w": 768,
    "image_h": 432
@@ -20854,7 +21137,7 @@
      ]
     }
    },
-   "rank": 59.713,
+   "rank": 59.08,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -21363,7 +21646,7 @@
      ]
     }
    },
-   "rank": 66.048,
+   "rank": 65.338,
    "thread": {
     "slug": "izmeneniia-v-sisteme-posobii-po-bezrabotitse-v-chekhii",
     "title": {
@@ -21627,7 +21910,7 @@
      ]
     }
    },
-   "rank": 61.92,
+   "rank": 61.255,
    "thread": {
     "slug": "izmeneniia-v-sisteme-posobii-po-bezrabotitse-v-chekhii",
     "title": {
@@ -21902,7 +22185,7 @@
      ]
     }
    },
-   "rank": 59.324,
+   "rank": 58.677,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -22171,7 +22454,7 @@
      ]
     }
    },
-   "rank": 54.492,
+   "rank": 53.891,
    "image_url": "https://img.24n.cz/p/2026/11/miloslava-20-let-borolas-s-psikhozom-i-napisala-knigu-3a8ee36a62bbcf78.webp",
    "image_w": 1200,
    "image_h": 674
@@ -22370,7 +22653,7 @@
      ]
     }
    },
-   "rank": 69.98,
+   "rank": 69.207,
    "sources": [
     {
      "domain": "olomoucky.denik.cz",
@@ -22592,7 +22875,7 @@
      "body_sha256": "74cec6bc4f713cd0d4d5a8192c7ec5cf24b846b878a91bf197ceda1a0b536028"
     }
    },
-   "rank": 53.059,
+   "rank": 52.457,
    "image_url": "https://img.24n.cz/p/2026/11/sud-sokratil-srok-pianomu-voditeliu-do-3-5-goda-fab9d39f7892df98.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/sud-sokratil-srok-pianomu-voditeliu-do-3-5-goda-7819cac8f0e7e923.webp",
@@ -22816,7 +23099,7 @@
      "body_sha256": "ece3767e82ddffddde7960acccbdd7e17aabb076674e129e8213035007311334"
     }
    },
-   "rank": 58.644
+   "rank": 57.979
   },
   {
    "id": "n9356",
@@ -23100,7 +23383,7 @@
      ]
     }
    },
-   "rank": 44.681,
+   "rank": 44.174,
    "image_url": "https://img.24n.cz/p/2026/11/mat-iz-pragi-8-prosit-pomoch-synu-autistu-posle-vosmi-let-su-48ccd9e163aa4621.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/mat-iz-pragi-8-prosit-pomoch-synu-autistu-posle-vosmi-let-su-e427f23fc4a3d84d.webp"
@@ -23476,7 +23759,7 @@
      "also": []
     }
    },
-   "rank": 57.766,
+   "rank": 57.101,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-s-2027-goda-nachnet-skrining-raka-podzheludochnoi-u-15cfad3f87ebeaca.webp",
    "image_w": 1366,
    "image_h": 910
@@ -23803,7 +24086,7 @@
      "also": []
     }
    },
-   "rank": 49.514,
+   "rank": 48.944,
    "image_url": "https://img.24n.cz/p/2026/11/vosem-iz-desiati-chekhov-khotiat-platit-kartoi-no-malyi-bizn-a613c56d46911fa4.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -24091,7 +24374,7 @@
      ]
     }
    },
-   "rank": 59.696,
+   "rank": 58.999,
    "image_url": "https://img.24n.cz/p/2026/11/iozef-pobedil-rak-pishchevoda-posle-dvukh-let-lecheniia-a3db0d93cd367356.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/veronike-s-rakom-4-i-stadii-ispolnili-mechtu-o-loshadiakh-i-46426ac4480f79b4.webp",
@@ -24408,7 +24691,7 @@
      "also": []
     }
    },
-   "rank": 56.983,
+   "rank": 56.318,
    "thread": {
     "slug": "izmeneniia-v-sisteme-posobii-po-bezrabotitse-v-chekhii",
     "title": {
@@ -24536,7 +24819,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 45.52
+   "rank": 44.982
   },
   {
    "id": "n9350",
@@ -24749,7 +25032,7 @@
      "body_sha256": "19e5693e849ed9dbe050f3c19e4c351bbae54607bdfcea2ce0a7216dde10341b"
     }
    },
-   "rank": 42.249,
+   "rank": 41.748,
    "sources": [
     {
      "domain": "praha2.cz",
@@ -24996,7 +25279,7 @@
      ]
     }
    },
-   "rank": 34.291,
+   "rank": 33.879,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -25300,7 +25583,7 @@
      ]
     }
    },
-   "rank": 51.172,
+   "rank": 50.558,
    "sources": [
     {
      "domain": "cesko.digital",
@@ -25470,7 +25753,7 @@
      "body_sha256": "cc32302ef8959a51c1b145e505db7d83d6bc2d640e96e72d19bb7737877e6283"
     }
    },
-   "rank": 61.776,
+   "rank": 61.022,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -25789,7 +26072,7 @@
      ]
     }
    },
-   "rank": 44.126,
+   "rank": 43.587,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-meniaet-pravila-goszakupok-radi-rosta-konkurentsii-3f282c4f226fb914.webp",
    "image_w": 670,
    "image_h": 377
@@ -26163,7 +26446,7 @@
      ]
     }
    },
-   "rank": 63.923,
+   "rank": 63.132,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -26523,7 +26806,7 @@
      "body_sha256": "07ff170d932b8885de49a23a2bd780754d39c92333dc56eaa157593bdda1b9f1"
     }
    },
-   "rank": 52.929,
+   "rank": 52.264,
    "sources": [
     {
      "domain": "divadlokalich.cz",
@@ -26865,7 +27148,7 @@
      ]
     }
    },
-   "rank": 62.507,
+   "rank": 61.721,
    "thread": {
     "slug": "korruptsiia-v-magistrate-pardubitse",
     "title": {
@@ -27316,7 +27599,7 @@
      ]
     }
    },
-   "rank": 50.409
+   "rank": 49.775
   },
   {
    "id": "n9341",
@@ -27561,7 +27844,7 @@
      ]
     }
    },
-   "rank": 55.447,
+   "rank": 54.738,
    "sources": [
     {
      "domain": "europesays.com",
@@ -28015,7 +28298,7 @@
      ]
     }
    },
-   "rank": 43.913,
+   "rank": 43.343,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -28465,7 +28748,7 @@
      ]
     }
    },
-   "rank": 38.425,
+   "rank": 37.918,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -28932,7 +29215,7 @@
      ]
     }
    },
-   "rank": 35.403,
+   "rank": 34.928,
    "thread": {
     "slug": "money-maker-2026-i-investitsii-v-anthropic",
     "title": {
@@ -29233,7 +29516,7 @@
      ]
     }
    },
-   "rank": 43.427,
+   "rank": 42.844,
    "sources": [
     {
      "domain": "media24.cz",
@@ -29458,7 +29741,7 @@
      ]
     }
    },
-   "rank": 48.731,
+   "rank": 48.066,
    "image_url": "https://img.24n.cz/p/2026/11/tabletki-dlia-pokhudeniia-poiaviatsia-v-chekhii-v-nachale-sl-ce4073a2a606cce4.webp",
    "image_w": 1200,
    "image_h": 674
@@ -29741,7 +30024,7 @@
      ]
     }
    },
-   "rank": 54.741,
+   "rank": 53.981,
    "thread": {
     "slug": "rost-tsen-na-energiiu-v-chekhii",
     "title": {
@@ -30191,7 +30474,7 @@
      ]
     }
    },
-   "rank": 44.07,
+   "rank": 43.436,
    "image_url": "https://img.24n.cz/p/2026/11/pravitelstvo-podnimet-tarify-na-sotsuslugi-s-2027-goda-na-7-8af8e9bb83c098fc.webp",
    "image_w": 1366,
    "image_h": 910
@@ -30547,7 +30830,7 @@
      ]
     }
    },
-   "rank": 32.859,
+   "rank": 32.368,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -31001,7 +31284,7 @@
      ]
     }
    },
-   "rank": 38.373,
+   "rank": 37.79,
    "story": [
     {
      "slug": "babish-nazval-proekt-biudzheta-es-nepriemlemym-dlia-chekhii",
@@ -31444,7 +31727,7 @@
      ]
     }
    },
-   "rank": 36.814,
+   "rank": 36.244,
    "thread": {
     "slug": "rozhdestvenskie-iarmarki-v-prage-2026",
     "title": {
@@ -31685,7 +31968,7 @@
      "body_sha256": "54484f396f843bd282be0f632001a73e6bc6f153bf0dcc4e4924497e097a57ca"
     }
    },
-   "rank": 32.724,
+   "rank": 32.217,
    "sources": [
     {
      "domain": "pestrytyden.cz",
@@ -32056,7 +32339,7 @@
      ]
     }
    },
-   "rank": 40.111,
+   "rank": 39.478,
    "thread": {
     "slug": "rozhdestvenskie-iarmarki-v-prage-2026",
     "title": {
@@ -32275,7 +32558,7 @@
      "body_sha256": "a7a80c96cc630b93aca6a7fb06842816aa289d55f8854507abb7dff6489b9e84"
     }
    },
-   "rank": 40.974,
+   "rank": 40.315,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -32511,7 +32794,7 @@
      ]
     }
    },
-   "rank": 32.183,
+   "rank": 31.644,
    "story": [
     {
      "slug": "nachalas-rekonstruktsiia-stadiona-dolicek-novaia-tribuna-i-vmestimost",
@@ -32812,7 +33095,7 @@
      ]
     }
    },
-   "rank": 43.591,
+   "rank": 42.831,
    "thread": {
     "slug": "usilenie-transporta-v-prage-iz-za-mitinga-na-letne",
     "title": {
@@ -33684,7 +33967,7 @@
      ]
     }
    },
-   "rank": 74.753,
+   "rank": 74.461,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -42110,7 +42393,7 @@
      ]
     }
    },
-   "rank": 78.639,
+   "rank": 78.297,
    "sources": [
     {
      "domain": "freebull.cz",
@@ -53428,8 +53711,8 @@
    ],
    "published_at": "2026-11-21T22:35:27.183562+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "21 ноября 2026, 22:35",
@@ -77573,8 +77856,8 @@
    ],
    "published_at": "2026-11-19T22:32:40.695375+01:00",
    "time": {
-    "ru": "5 дней назад",
-    "uk": "5 днів тому"
+    "ru": "6 дней назад",
+    "uk": "6 днів тому"
    },
    "date": {
     "ru": "19 ноября 2026, 22:32",
@@ -87036,270 +87319,6 @@
    ],
    "show_sources": true,
    "corroboration": 1
-  },
-  {
-   "id": "n9129",
-   "slug": "v-prage-avtomobil-nasmert-sbil-pensionerku-na-perekhode",
-   "source": "tydenikpolicie.cz",
-   "original_url": "https://tydenikpolicie.cz/pri-stretu-se-skodovkou-v-prazskych-stodulkach-zemrela-starsi-chodkyne/",
-   "top": false,
-   "tags": [
-    "kriminal",
-    "praha"
-   ],
-   "published_at": "2026-11-19T10:27:43.485083+01:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "19 ноября 2026, 10:27",
-    "uk": "19 листопада 2026, 10:27"
-   },
-   "ru": {
-    "title": "В Праге автомобиль насмерть сбил пенсионерку на переходе",
-    "lede": "В Праге произошла смертельная авария на пешеходном переходе, в результате которой погибла пожилая женщина.",
-    "meta_description": "В Праге на пешеходном переходе автомобиль сбил пожилую женщину. Она скончалась на месте от полученных травм, полиция расследует причины.",
-    "paras": [
-     "Вечером в среду на пешеходном переходе на улице Еремияшовы в пражском районе Стодульки, возле остановки общественного транспорта Лыскова, случилась трагическая смертельная авария на пешеходном переходе. Легковой автомобиль марки Škoda, ехавший со стороны Розвадовской спойки в направлении улицы Понцаровы, сбил пожилую женщину.",
-     "Очевидцы аварии сразу бросились на помощь пострадавшей и начали делать массаж сердца до прибытия скорой. На место происшествия оперативно выехали бригады скорой помощи, включая реанимобили и инспектора службы спасения столицы, а также несколько полицейских патрулей и сотрудники отдела по делам иностранцев. По тревоге подняли и расчет пожарных из столичной части Смихов.",
-     "<blockquote>К сожалению, несмотря на все усилия свидетелей и спасателей, женщина скончалась на месте</blockquote>",
-     "Так прокомментировал трагедию официальный представитель полиции Рихард Грдина.",
-     "Из-за ДТП движение транспорта в районе происшествия оказалось серьезно ограничено. Машины могли проехать в обоих направлениях только по одной полосе, а пожарные установили на месте специальную мобильную ширму. Дорожные инспекторы задокументировали все обстоятельства происшествия, после чего расследованием занялись криминалисты из отдела по расследованию дорожно-транспортных происшествий. Проведенная на месте проверка показала, что водитель автомобиля был трезв.",
-     "Статистика показывает, что аварии на пешеходных переходах остаются серьезной проблемой. В 2022 году на столичных переходах зафиксировали 316 дорожных происшествий, в которых погибли четыре человека. За первые три месяца следующего года на зебрах в городе погибли еще два пешехода."
-    ],
-    "faq": [
-     {
-      "q": "Что произошло на пешеходном переходе в Праге?",
-      "a": "На пешеходном переходе в пражском районе Стодулки автомобиль сбил пожилую женщину, которая от полученных травм скончалась на месте."
-     },
-     {
-      "q": "Каковы причины аварии на пешеходном переходе?",
-      "a": "Причины дорожного происшествия в настоящее время выясняют полиция и криминалисты."
-     },
-     {
-      "q": "Сколько человек погибло на переходах в Праге ранее?",
-      "a": "В 2022 году на пешеходных переходах в чешской столице погибли четыре человека при 316 ДТП, а в первом квартале следующего года - еще два человека."
-     }
-    ],
-    "impact": "Трагедия напоминает о повышенной опасности на дорогах в темное время суток. Водителям и пешеходам следует проявлять предельную осторожность на нерегулируемых переходах.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Автомобиль Škoda сбил пожилую женщину на переходе на улице Еремияшовы в районе Стодульки.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Очевидцы делали пострадавшей массаж сердца до приезда скорой.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Проверка на месте показала, что водитель был трезв.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "В 2022 году на столичных переходах произошло 316 ДТП, погибли четыре человека.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "реанимобили",
-       "definition": "Машины скорой помощи, оснащённые для реанимации тяжело пострадавших.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "зебрах",
-       "definition": "Пешеходных переходах, размеченных полосами на дороге.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Стодульки",
-       "definition": "Стодульки — городская часть и кадастровая территория на западе Праги, включающая историческую деревню и новые районы.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Рихард Грдина",
-       "definition": "Рихард Грдина — пресс-секретарь полиции Чешской Республики.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "5e35b07c06259ef59651a447258dd29e53a87a5251183d02ee0e0e810b60daab"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "sereznoe-dtp-v-chrastany-u-prahy-mashina-sbila-dvukh-peshekhodov",
-       "title": "Серьезное ДТП: в Chrášťany u Prahy машина сбила двух пешеходов",
-       "desc": "Серьезная авария произошла в Chrášťany u Prahy на улице Plzeňská, где машина сбила двух пешеходов. Пострадавшие госпитализированы, полиция выясняет…",
-       "date": "28 октября 2026, 21:43",
-       "img": "https://img.24n.cz/p/2026/10/sereznoe-dtp-v-chrastany-u-prahy-mashina-sbila-dvukh-peshekh-2a68f1b57a31d0ac.webp"
-      },
-      {
-       "slug": "v-krnove-na-peshekhodnom-perekhode-sbili-cheloveka-politsiia-ishchet-s",
-       "title": "В Крнове на пешеходном переходе сбили человека: полиция ищет свидетелей",
-       "desc": "В Крнове на улице Říční okruh автомобиль Citroën сбил пешехода. Полиция ищет свидетелей и записи с видеорегистраторов для выяснения обстоятельств ДТП.",
-       "date": "22 октября 2026, 00:40",
-       "img": "https://img.24n.cz/p/2026/10/v-krnove-na-peshekhodnom-perekhode-sbili-cheloveka-politsiia-13a0c850e97683b8.webp"
-      }
-     ]
-    }
-   },
-   "uk": {
-    "title": "У Празі авто на смерть збило пенсіонерку на переході",
-    "lede": "У Празі сталася смертельна аварія на пішохідному переході, внаслідок якої загинула літня жінка.",
-    "meta_description": "У Празі на пішохідному переході автомобіль збив літню жінку. Вона померла на місці від отриманих травм, поліція розслідує причини.",
-    "paras": [
-     "Увечері в середу на пішохідному переході на вулиці Єреміяшовій у празькому районі Стодулки, біля зупинки громадського транспорту Лискова, сталася трагічна смертельна аварія на пішохідному переході. Легковий автомобіль марки Škoda, що їхав від Розвадовської спойки в напрямку вулиці Понцарової, збив літню жінку.",
-     "Очевидці аварії одразу кинулися на допомогу постраждалій і почали робити масаж серця до прибуття швидкої. На місце події оперативно виїхали бригади швидкої допомоги, зокрема реанімобілі та інспектор служби порятунку столиці, а також кілька поліцейських патрулів і співробітники відділу у справах іноземців. По тривозі підняли й розрахунок пожежників зі столичної частини Сміхов.",
-     "<blockquote>На жаль, попри всі зусилля свідків і рятувальників, жінка померла на місці</blockquote>",
-     "Так прокоментував трагедію офіційний представник поліції Ріхард Грдіна.",
-     "Через ДТП рух транспорту в районі події виявився серйозно обмеженим. Машини могли проїхати в обох напрямках лише однією смугою, а пожежники встановили на місці спеціальну мобільну ширму. Дорожні інспектори задокументували всі обставини події, після чого розслідуванням зайнялися криміналісти з відділу з розслідування дорожньо-транспортних пригод. Проведена на місці перевірка показала, що водій автомобіля був тверезий.",
-     "Статистика показує, що аварії на пішохідних переходах залишаються серйозною проблемою. У 2022 році на столичних переходах зафіксували 316 дорожніх пригод, у яких загинули чотири людини. За перші три місяці наступного року на зебрах у місті загинули ще два пішоходи."
-    ],
-    "faq": [
-     {
-      "q": "Що сталося на пішохідному переході в Празі?",
-      "a": "На пішохідному переході в празькому районі Стодулки автомобіль збив літню жінку, яка від отриманих травм померла на місці."
-     },
-     {
-      "q": "Які причини аварії на пішохідному переході?",
-      "a": "Причини дорожньої пригоди наразі з'ясовують поліція і криміналісти."
-     },
-     {
-      "q": "Скільки людей загинуло на переходах у Празі раніше?",
-      "a": "У 2022 році на пішохідних переходах у чеській столиці загинули чотири людини при 316 ДТП, а в першому кварталі наступного року ще дві людини."
-     }
-    ],
-    "impact": "Трагедия напоминает о повышенной опасности на дорогах в темное время суток. Водителям и пешеходам следует проявлять предельную осторожность на нерегулируемых переходах.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Легковик Škoda збив літню жінку на переході на вулиці Єреміяшовій у Стодулках.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Очевидці робили постраждалій масаж серця до прибуття швидкої.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Через аварію рух у районі події обмежили до однієї смуги в обох напрямках.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Перевірка на місці показала, що водій був тверезий.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "реанімобілі",
-       "definition": "Машини швидкої допомоги, призначені для реанімації тяжко постраждалих.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "зебрах",
-       "definition": "Пішохідні переходи, позначені на дорозі білими смугами.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "f8c8e3c16b19e199701735a61fbb21434e87436f34d163ebb841dff632396944"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "sereznoe-dtp-v-chrastany-u-prahy-mashina-sbila-dvukh-peshekhodov",
-       "title": "Серйозна ДТП: у Chrášťany u Prahy авто збило двох пішоходів",
-       "desc": "Серйозна аварія сталася в Chrášťany u Prahy на вулиці Plzeňská, де машина збила двох пішоходів. Постраждалих госпіталізували, поліція з'ясовує…",
-       "date": "28 жовтня 2026, 21:43",
-       "img": "https://img.24n.cz/p/2026/10/sereznoe-dtp-v-chrastany-u-prahy-mashina-sbila-dvukh-peshekh-2a68f1b57a31d0ac.webp"
-      },
-      {
-       "slug": "v-krnove-na-peshekhodnom-perekhode-sbili-cheloveka-politsiia-ishchet-s",
-       "title": "У Крнові на пішохідному переході збили людину: поліція шукає свідків",
-       "desc": "У Крнові на вулиці Říční okruh автомобіль Citroën збив пішохода. Поліція шукає свідків та записи з відеореєстраторів для з’ясування обставин ДТП.",
-       "date": "22 жовтня 2026, 00:40",
-       "img": "https://img.24n.cz/p/2026/10/v-krnove-na-peshekhodnom-perekhode-sbili-cheloveka-politsiia-13a0c850e97683b8.webp"
-      }
-     ]
-    }
-   },
-   "rank": 36.4,
-   "sources": [
-    {
-     "domain": "ct24.ceskatelevize.cz",
-     "official": false,
-     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/auto-na-prechodu-srazilo-zenu-na-miste-zemrela-189040",
-     "title": "Auto na přechodu srazilo ženu, na místě zemřela — ČT24 — Česká televize"
-    },
-    {
-     "domain": "prazsky.denik.cz",
-     "official": false,
-     "url": "https://prazsky.denik.cz/nehody/auto-srazilo-zenu-na-prechodu-zranenim20091001/",
-     "title": "Auto srazilo ženu na přechodu. Zraněním na místě podlehla – Pražský deník"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 2,
-   "image_url": "https://img.24n.cz/p/2026/11/v-prage-avtomobil-nasmert-sbil-pensionerku-na-perekhode-1a4483c641944496.webp",
-   "image_w": 1200,
-   "image_h": 800
   }
  ],
  "stories": [
