@@ -1,8 +1,276 @@
 {
- "updated_at": "2026-11-25T08:37:59+00:00",
+ "updated_at": "2026-11-25T09:08:16+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n9403",
+   "slug": "rozhdestvenskie-kontserty-v-lobkovitskom-palatse-startuiut-28-noiabria",
+   "source": "vecerni-praha.cz",
+   "original_url": "https://www.vecerni-praha.cz/adventni-soboty-v-lobkowiczkem-palaci-nabidnou-hudbu-bacha-vivaldiho-i-vanocni-melodie/",
+   "top": false,
+   "tags": [
+    "dosug",
+    "praha"
+   ],
+   "published_at": "2026-11-25T10:08:15.923652+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "25 ноября 2026, 10:08",
+    "uk": "25 листопада 2026, 10:08"
+   },
+   "ru": {
+    "title": "Рождественские концерты в Лобковицком палаце стартуют 28 ноября",
+    "lede": "В Лобковицзком палаце в Праге пройдёт четыре рождественских концерта по субботам адвента. Начиная с 28 ноября 2026 года в 16:00 трио флейты, альта и фортепиано исполнит Баха, Вивальди, Моцарта, Дворжака и рождественские мелодии.",
+    "meta_description": "Рождественские концерты в Лобковицком дворце Праги пройдут 28 ноября, 5, 12 и 19 декабря 2026 года в 16:00.",
+    "paras": [
+     "<p>В Лобковицзком палаце в Праге стартует серия рождественских концертов. Каждую из четырёх суббот адвента, начиная с 28 ноября 2026 года, в 16:00 в Концертном зале выступит камерное трио в составе флейты, альта и фортепиано.</p>",
+     "<p>Концерты состоятся 28 ноября, 5, 12 и 19 декабря. Музыканты представят произведения Баха, Вивальди, Моцарта и Дворжаки, а также любимые рождественские мелодии. Атмосферу дополнят запах глинтвейна и один из лучших видов на Прагу.</p>",
+     "<p>Билет на концерт можно совместить с посещением музейной части дворца. Там хранятся рукописи Людвига ван Бетховена с авторскими пометками, включая Третью, Четвёртую и Пятую симфонии, а также аранжировку Моцарта «Мессии» Генделя.</p>",
+     "<p>«Музыка имеет в Лобковицком дворце настоящую ценность», заявил представитель дворца. Потолок Концертного зала украшен оригинальными фресками Фабияны Шебастияны Вацлавы Гаровники середины XVII века.</p>",
+     "<p>Ежедневно в зале проходят концерты классической музыки с 13:00. В часовую программу входят произведения от барокко до романтизма: Вивальди, Моцарт, Бетховен, Дворжак и Сметаны, а также сюита до мажор Пгилиппы Гиацинтги Лобковицзе.</p>",
+     "<p>Весь Advent дворец будет в праздничном убранстве, а к оформлению добавится аромат глинтвейна из винодельни Замека Лобковицза Роуднице. Билеты продаются на сайте lobkowicz.cz.</p>",
+     "<p>Кроме концертов в самом дворце, 5 и 6 декабря в замке Нелагозевесе пройдут рождественские торжества с рождественскими ярмарками, колядками, творческими мастерскими и семейной игрой. А 6 декабря в 17:00 в замковой часовне в Роуднице-над-Лабем выступят Иван Женатый и Малстранский камерный оркестр под управлением дирижёра Йоганы Штваны.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Когда пройдут концерты в Лобковицком дворце?",
+      "a": "28 ноября, 5, 12 и 19 декабря 2026 года, начало в 16:00."
+     },
+     {
+      "q": "Что будут исполнять музыканты?",
+      "a": "Произведения Баха, Вивальди, Моцарта, Дворжака и рождественские мелодии."
+     },
+     {
+      "q": "Можно ли попасть в музей дворца?",
+      "a": "Да, билет на концерт позволяет посетить музейную часть Лобковицкого дворца."
+     },
+     {
+      "q": "Где купить билеты?",
+      "a": "На сайте lobkowicz.cz."
+     }
+    ],
+    "impact": "Жители и гости Праги могут посетить четыре рождественских концерта в Лобковицком дворце по субботам адвента в 16:00. Билет даёт право осмотреть музейную экспозицию с рукописями Бетховена. Билеты продаются на сайте lobkowicz.cz.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Концерты пройдут в четыре субботы адвента: 28 ноября, 5, 12 и 19 декабря, начало в 16:00.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Билет на концерт можно совместить с посещением музейной части дворца.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Ежедневно в Концертном зале проходят часовые концерты классической музыки с 13:00.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Билеты продаются на сайте lobkowicz.cz.",
+       "target": {
+        "block": 6,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "адвента",
+       "definition": "Период из четырёх недель перед Рождеством; концерты назначены на каждую из четырёх суббот этого периода.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Лобковицзком палаце",
+       "definition": "Лобковицкий дворец — историческое здание XVI века в Праге, в котором находятся музей с художественными коллекциями рода Лобковичей и концертный зал.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Фабияны Шебастияны Вацлавы Гаровники",
+       "definition": "Фабиан Вацлав Гаровник из Сферину — чешский художник-фрескист, специализировавшийся на декоративной росписи дворцовых интерьеров, в том числе потолков Лобковицкого дворца в Праге.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "замке Нелагозевесе",
+       "definition": "Нелагозевес — село в Среднечешском крае в районе Мельник, примерно в 22 км к северу от Праги, известное как родина композитора Антонина Дворжака.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "c61079b3a99b7ed6436293cba1a8957e2b73c5f735466fd352b11b7c782531b8"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [],
+     "also": [
+      {
+       "slug": "v-prage-s-9-noiabria-otkrylis-katki-i-startovali-muzykalnye-festivali",
+       "title": "В Праге с 9 ноября открылись катки и стартовали музыкальные фестивали",
+       "desc": "Обзор культурных и спортивных событий в Праге на ноябрь и декабрь 2026 года: катки, концерты и фестивали.",
+       "date": "14 ноября 2026, 04:21",
+       "img": ""
+      },
+      {
+       "slug": "praga-provedet-iarmarki-i-kontserty-na-deviati-ploshchadkakh",
+       "title": "Прага проведет ярмарки и концерты на девяти площадках",
+       "desc": "С 26 ноября по 5 декабря в Праге пройдет рождественская программа с музыкой и праздничным настроением.",
+       "date": "24 ноября 2026, 02:16",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Різдвяні концерти в Лобковицькому палаці стартують 28 листопада",
+    "lede": "У Лобковицькому палаці в Празі відбудуться чотири різдвяні концерти по суботах адвенту. Починаючи з 28 листопада 2026 року о 16:00 тріо флейти, альта і фортепіано виконає Баха, Вівальді, Моцарта, Дворжака та різдвяні мелодії.",
+    "meta_description": "Різдвяні концерти в Лобковицькому палаці Праги пройдуть 28 листопада, 5, 12 і 19 грудня 2026 року о 16:00.",
+    "paras": [
+     "<p>У Лобковицькому палаці в Празі стартує серія різдвяних концертів. Кожної з чотирьох субот адвенту, починаючи з 28 листопада 2026 року, о 16:00 в Концертному залі виступить камерне тріо у складі флейти, альта і фортепіано.</p>",
+     "<p>Концерти відбудуться 28 листопада, 5, 12 і 19 грудня. Музиканти представлять твори Баха, Вівальді, Моцарта і Дворжака, а також улюблені різдвяні мелодії. Атмосферу доповнять запах глінтвейну та один із найкращих видів на Прагу.</p>",
+     "<p>Квиток на концерт можна поєднати з відвідуванням музейної частини палацу. Там зберігаються рукописи Людвіга ван Бетховена з авторськими позначками, включно з Третьою, Четвертою і П'ятою симфоніями, а також аранжування Моцарта «Месії» Генделя.</p>",
+     "<p>«Музика має в Лобковицькому палаці справжню цінність», заявив представник палацу. Стелю Концертного залу прикрашають оригінальні фрески Фабіани Себастіани Вацлави Гаровніки середини XVII століття.</p>",
+     "<p>Щодня в залі проходять концерти класичної музики з 13:00. До годинної програми входять твори від бароко до романтизму: Вівальді, Моцарт, Бетховен, Дворжак і Сметана, а також сюїта до мажор Філіпа Гіацинта Лобковицького.</p>",
+     "<p>Увесь адвент палац буде у святковому оздобленні, а до оформлення додасться аромат глінтвейну з виноробні Замку Лобковиць у Роудниці. Квитки продаються на сайті lobkowicz.cz.</p>",
+     "<p>Крім концертів у самому палаці, 5 і 6 грудня в замку Нелагозевесі пройдуть різдвяні урочистості з різдвяними ярмарками, колядками, творчими майстернями та сімейною грою. А 6 грудня о 17:00 в замковій каплиці в Роудниці-над-Лабем виступлять Іван Женатий і Малстранський камерний оркестр під керуванням диригента Йогани Штвани.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Коли пройдуть концерти в Лобковицькому палаці?",
+      "a": "28 листопада, 5, 12 і 19 грудня 2026 року, початок о 16:00."
+     },
+     {
+      "q": "Що виконуватимуть музиканти?",
+      "a": "Твори Баха, Вівальді, Моцарта, Дворжака та різдвяні мелодії."
+     },
+     {
+      "q": "Чи можна потрапити до музею палацу?",
+      "a": "Так, квиток на концерт дозволяє відвідати музейну частину Лобковицького палацу."
+     },
+     {
+      "q": "Де купити квитки?",
+      "a": "На сайті lobkowicz.cz."
+     }
+    ],
+    "impact": "Жители и гости Праги могут посетить четыре рождественских концерта в Лобковицком дворце по субботам адвента в 16:00. Билет даёт право осмотреть музейную экспозицию с рукописями Бетховена. Билеты продаются на сайте lobkowicz.cz.",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Різдвяні концерти в Лобковицькому палаці відбудуться 28 листопада, 5, 12 і 19 грудня 2026 року о 16:00.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Квиток на концерт можна поєднати з відвідуванням музейної частини палацу.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Щодня в Концертному залі проходять концерти класичної музики з 13:00.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "5 і 6 грудня в замку Нелагозевесі пройдуть різдвяні урочистості з ярмарками, колядками, майстернями та сімейною грою.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "адвенту",
+       "definition": "Період із чотирьох тижнів перед Різдвом, у який відбуваються ці концерти.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "камерне тріо",
+       "definition": "Невеликий ансамбль із трьох музикантів; тут — флейта, альт і фортепіано.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "a11c9f3e440c81b3488fdf309207f583c5f1c0387daac6cb7d3c12a249001273"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [],
+     "also": [
+      {
+       "slug": "v-prage-s-9-noiabria-otkrylis-katki-i-startovali-muzykalnye-festivali",
+       "title": "У Празі з 9 листопада відкрилися ковзанки і стартували музичні фестивалі",
+       "desc": "Огляд культурних і спортивних подій у Празі на листопад і грудень 2026 року: ковзанки, концерти та фестивалі.",
+       "date": "14 листопада 2026, 04:21",
+       "img": ""
+      },
+      {
+       "slug": "praga-provedet-iarmarki-i-kontserty-na-deviati-ploshchadkakh",
+       "title": "Прага проведе ярмарки та концерти на дев'яти майданчиках",
+       "desc": "З 26 листопада по 5 грудня у Празі пройде різдвяна програма з музикою та святковим настроєм.",
+       "date": "24 листопада 2026, 02:16",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "rank": 62.0,
+   "sources": [
+    {
+     "domain": "polyharmonie.cz",
+     "official": false,
+     "url": "https://www.polyharmonie.cz/advent-u-lobkowiczu/",
+     "title": "Advent u Lobkowiczů – Polyharmonie"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/11/rozhdestvenskie-kontserty-v-lobkovitskom-palatse-startuiut-2-2b82df753419042f.webp",
+   "image_w": 1600,
+   "image_h": 1067
+  },
   {
    "id": "n9402",
    "slug": "festival-votvirak-vernetsia-31-iiulia-2027-goda-v-mikulove",
@@ -14,8 +282,8 @@
    ],
    "published_at": "2026-11-25T09:37:58.546136+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "30 минут назад",
+    "uk": "30 хвилин тому"
    },
    "date": {
     "ru": "25 ноября 2026, 09:37",
@@ -246,8 +514,8 @@
    ],
    "published_at": "2026-11-25T09:03:00.218062+01:00",
    "time": {
-    "ru": "34 минуты назад",
-    "uk": "34 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 09:03",
@@ -645,8 +913,8 @@
    ],
    "published_at": "2026-11-25T09:03:00.218062+01:00",
    "time": {
-    "ru": "34 минуты назад",
-    "uk": "34 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "25 ноября 2026, 09:03",
@@ -1306,8 +1574,8 @@
    ],
    "published_at": "2026-11-25T07:58:50.004538+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 07:58",
@@ -1531,8 +1799,8 @@
    ],
    "published_at": "2026-11-25T07:58:50.004538+01:00",
    "time": {
-    "ru": "1 час назад",
-    "uk": "1 годину тому"
+    "ru": "2 часа назад",
+    "uk": "2 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 07:58",
@@ -2190,8 +2458,8 @@
    ],
    "published_at": "2026-11-25T06:55:10.287678+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 06:55",
@@ -2576,7 +2844,7 @@
      ]
     }
    },
-   "rank": 105.0,
+   "rank": 104.669,
    "thread": {
     "slug": "infliatsiia-v-chekhii-v-2026-godu",
     "title": {
@@ -2667,8 +2935,8 @@
    ],
    "published_at": "2026-11-25T06:55:10.287678+01:00",
    "time": {
-    "ru": "2 часа назад",
-    "uk": "2 години тому"
+    "ru": "3 часа назад",
+    "uk": "3 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 06:55",
@@ -2984,7 +3252,7 @@
      ]
     }
    },
-   "rank": 90.0
+   "rank": 89.716
   },
   {
    "id": "n9393",
@@ -3286,7 +3554,7 @@
      ]
     }
    },
-   "rank": 96.67,
+   "rank": 95.963,
    "thread": {
     "slug": "tsentry-vozvrata-migrantov-za-predelami-es",
     "title": {
@@ -3712,7 +3980,7 @@
      ]
     }
    },
-   "rank": 81.721,
+   "rank": 81.123,
    "sources": [
     {
      "domain": "kvalifikace-kurzy.cz",
@@ -4084,7 +4352,7 @@
      ]
     }
    },
-   "rank": 89.694
+   "rank": 89.038
   },
   {
    "id": "n9390",
@@ -4098,8 +4366,8 @@
    ],
    "published_at": "2026-11-25T05:49:28.228148+01:00",
    "time": {
-    "ru": "3 часа назад",
-    "uk": "3 години тому"
+    "ru": "4 часа назад",
+    "uk": "4 години тому"
    },
    "date": {
     "ru": "25 ноября 2026, 05:49",
@@ -4479,7 +4747,7 @@
      ]
     }
    },
-   "rank": 108.715,
+   "rank": 107.913,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-kreditnye-kompanii-vydaiut-zaimy-dolzhnikam-pod-48-8e2cbb1fee9e8d23.webp",
    "image_w": 1200,
    "image_h": 675
@@ -4702,7 +4970,7 @@
      ]
     }
    },
-   "rank": 73.542,
+   "rank": 72.995,
    "thread": {
     "slug": "sparta-bez-trenera-pered-matchem-s-alkmaarom",
     "title": {
@@ -4986,7 +5254,7 @@
      "body_sha256": "5eff1587e5f3500371d9c53ce5e7b58939701300b4b4792dfc46a32114d0f836"
     }
    },
-   "rank": 87.356,
+   "rank": 86.686,
    "sources": [
     {
      "domain": "media24.cz",
@@ -5254,7 +5522,7 @@
      ]
     }
    },
-   "rank": 86.681,
+   "rank": 86.01,
    "sources": [
     {
      "domain": "media24.cz",
@@ -5904,7 +6172,7 @@
      ]
     }
    },
-   "rank": 94.545,
+   "rank": 93.801,
    "thread": {
     "slug": "spor-iz-za-ulitsy-na-krutci",
     "title": {
@@ -6325,7 +6593,7 @@
      ]
     }
    },
-   "rank": 68.295,
+   "rank": 67.748,
    "image_url": "https://img.24n.cz/p/2026/11/ekspert-nazvala-glavnuiu-oshibku-nachinaiushchikh-investorov-8a0a9aac0f17c64a.webp",
    "image_w": 1200,
    "image_h": 660
@@ -6342,8 +6610,8 @@
    ],
    "published_at": "2026-11-24T21:41:58.642855+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 21:41",
@@ -6637,7 +6905,7 @@
      ]
     }
    },
-   "rank": 104.515,
+   "rank": 103.64,
    "story": [
     {
      "slug": "chekhiia-i-ssha-sygrali-vnichiu-v-kubke-devisa-legechka-spas-komandu",
@@ -6688,8 +6956,8 @@
    ],
    "published_at": "2026-11-24T21:41:58.642855+01:00",
    "time": {
-    "ru": "11 часов назад",
-    "uk": "11 годин тому"
+    "ru": "12 часов назад",
+    "uk": "12 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 21:41",
@@ -6955,7 +7223,7 @@
      ]
     }
    },
-   "rank": 84.483,
+   "rank": 83.776,
    "thread": {
     "slug": "khrustalnaia-lupa-2026",
     "title": {
@@ -7223,7 +7491,7 @@
      ]
     }
    },
-   "rank": 51.816,
+   "rank": 51.378,
    "image_url": "https://img.24n.cz/p/2026/11/student-famu-sozdal-khorror-o-ferme-s-govoriashchimi-ogurtsa-0d262ef4a68028ae.webp",
    "video": {
     "kind": "iframe",
@@ -7243,8 +7511,8 @@
    ],
    "published_at": "2026-11-24T21:01:11.041051+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 21:01",
@@ -7308,7 +7576,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 72.336
+   "rank": 71.723
   },
   {
    "id": "n9379",
@@ -7322,8 +7590,8 @@
    ],
    "published_at": "2026-11-24T20:38:49.494146+01:00",
    "time": {
-    "ru": "12 часов назад",
-    "uk": "12 годин тому"
+    "ru": "13 часов назад",
+    "uk": "13 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 20:38",
@@ -7733,7 +8001,7 @@
      ]
     }
    },
-   "rank": 89.855,
+   "rank": 89.089,
    "story": [
     {
      "slug": "politsiia-predupredila-o-moshennikakh-v-predrozhdestvenskikh-rasprodaz",
@@ -7761,8 +8029,8 @@
    ],
    "published_at": "2026-11-24T20:07:09.167364+01:00",
    "time": {
-    "ru": "13 часов назад",
-    "uk": "13 годин тому"
+    "ru": "14 часов назад",
+    "uk": "14 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 20:07",
@@ -8117,7 +8385,7 @@
      ]
     }
    },
-   "rank": 63.61,
+   "rank": 63.063,
    "image_url": "https://img.24n.cz/p/2026/11/v-brno-nachali-lechit-rak-zheludka-immunoterapiei-durvalumab-d2102b93c7a91c8b.webp",
    "image_w": 1280,
    "image_h": 719
@@ -8178,7 +8446,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 67.686,
+   "rank": 67.088,
    "forecast": true
   },
   {
@@ -8351,7 +8619,7 @@
      "body_sha256": "ed5dd553a9a8ede7c357d4b56ff567ea25d6aee9ff59f5d9398dc83e6eeaff0f"
     }
    },
-   "rank": 57.716,
+   "rank": 57.206,
    "image_url": "https://img.24n.cz/p/2026/11/na-ostanovke-pankrat-ustanovili-nizkuiu-lavochku-dlia-passaz-a1bb728d459207a0.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/na-ostanovke-pankrat-ustanovili-nizkuiu-lavochku-dlia-passaz-d6c32a87b9d5a78c.webp",
@@ -8394,8 +8662,8 @@
    ],
    "published_at": "2026-11-24T17:53:58.681650+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 17:53",
@@ -8775,7 +9043,7 @@
      ]
     }
    },
-   "rank": 81.607,
+   "rank": 80.878,
    "thread": {
     "slug": "toksichnye-otkhody-na-shumave",
     "title": {
@@ -8862,8 +9130,8 @@
    ],
    "published_at": "2026-11-24T17:53:58.681650+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 17:53",
@@ -9166,7 +9434,7 @@
      ]
     }
    },
-   "rank": 102.009,
+   "rank": 101.097,
    "sources": [
     {
      "domain": "hrad.cz",
@@ -9585,7 +9853,7 @@
      ]
     }
    },
-   "rank": 91.391,
+   "rank": 91.075,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -10092,7 +10360,7 @@
      ]
     }
    },
-   "rank": 76.938,
+   "rank": 76.245,
    "image_url": "https://img.24n.cz/p/2026/11/brnenskii-robot-scout-ishchet-vreditelei-v-gollandskikh-tepl-e6f58df5bbebe13c.webp",
    "video": {
     "kind": "iframe",
@@ -10291,7 +10559,7 @@
      ]
     }
    },
-   "rank": 85.037,
+   "rank": 84.271,
    "image_url": "https://img.24n.cz/p/2026/11/afi-postroit-v-vysochanakh-289-kvartir-za-950-millionov-kron-c2add7792b8ba1d1.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/afi-postroit-v-vysochanakh-289-kvartir-za-950-millionov-kron-e9c901c55be13876.webp"
@@ -10324,8 +10592,8 @@
    ],
    "published_at": "2026-11-24T16:50:54.458795+01:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 16:50",
@@ -10667,7 +10935,7 @@
      ]
     }
    },
-   "rank": 72.08,
+   "rank": 71.424,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -10750,8 +11018,8 @@
    ],
    "published_at": "2026-11-24T16:50:54.458795+01:00",
    "time": {
-    "ru": "16 часов назад",
-    "uk": "16 годин тому"
+    "ru": "17 часов назад",
+    "uk": "17 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 16:50",
@@ -10978,7 +11246,7 @@
      ]
     }
    },
-   "rank": 37.642,
+   "rank": 37.299,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -11229,7 +11497,7 @@
      ]
     }
    },
-   "rank": 63.473,
+   "rank": 62.89,
    "image_url": "https://img.24n.cz/p/2026/11/brno-oboshlo-pragu-po-angliiskomu-v-reitinge-ef-epi-b3a11b58515b6295.webp",
    "image_w": 1435,
    "image_h": 809
@@ -11551,7 +11819,7 @@
      ]
     }
    },
-   "rank": 75.375,
+   "rank": 74.682,
    "story": [
     {
      "slug": "vystavka-skhola-pragensis-nazovet-daty-dnei-otkrytykh-dverei",
@@ -11579,8 +11847,8 @@
    ],
    "published_at": "2026-11-24T15:48:36.288229+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 15:48",
@@ -11785,7 +12053,7 @@
      ]
     }
    },
-   "rank": 74.66,
+   "rank": 73.967,
    "sources": [
     {
      "domain": "csob.cz",
@@ -11843,8 +12111,8 @@
    ],
    "published_at": "2026-11-24T15:48:36.288229+01:00",
    "time": {
-    "ru": "17 часов назад",
-    "uk": "17 годин тому"
+    "ru": "18 часов назад",
+    "uk": "18 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 15:48",
@@ -12068,7 +12336,7 @@
      ]
     }
    },
-   "rank": 82.518,
+   "rank": 81.753,
    "image_url": "https://img.24n.cz/p/2026/11/khakery-perenapravliali-sait-coi-na-magazin-poddelok-6be73490825a1b2e.webp",
    "image_w": 768,
    "image_h": 432
@@ -12283,7 +12551,7 @@
      ]
     }
    },
-   "rank": 77.836,
+   "rank": 77.107,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -12338,8 +12606,8 @@
    ],
    "published_at": "2026-11-24T14:46:31.377810+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 14:46",
@@ -12792,7 +13060,7 @@
      ]
     }
    },
-   "rank": 86.346,
+   "rank": 85.529,
    "thread": {
     "slug": "izmeneniia-v-sisteme-posobii-po-bezrabotitse-v-chekhii",
     "title": {
@@ -12866,8 +13134,8 @@
    ],
    "published_at": "2026-11-24T14:46:31.377810+01:00",
    "time": {
-    "ru": "18 часов назад",
-    "uk": "18 годин тому"
+    "ru": "19 часов назад",
+    "uk": "19 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 14:46",
@@ -13056,7 +13324,7 @@
      ]
     }
    },
-   "rank": 80.949,
+   "rank": 80.183,
    "thread": {
     "slug": "izmeneniia-v-sisteme-posobii-po-bezrabotitse-v-chekhii",
     "title": {
@@ -13331,7 +13599,7 @@
      ]
     }
    },
-   "rank": 77.809,
+   "rank": 77.065,
    "sources": [
     {
      "domain": "nasregion.cz",
@@ -13357,8 +13625,8 @@
    ],
    "published_at": "2026-11-24T13:39:36.696581+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 13:39",
@@ -13600,7 +13868,7 @@
      ]
     }
    },
-   "rank": 71.709,
+   "rank": 71.017,
    "image_url": "https://img.24n.cz/p/2026/11/miloslava-20-let-borolas-s-psikhozom-i-napisala-knigu-3a8ee36a62bbcf78.webp",
    "image_w": 1200,
    "image_h": 674
@@ -13616,8 +13884,8 @@
    ],
    "published_at": "2026-11-24T13:39:36.696581+01:00",
    "time": {
-    "ru": "19 часов назад",
-    "uk": "19 годин тому"
+    "ru": "20 часов назад",
+    "uk": "20 годин тому"
    },
    "date": {
     "ru": "24 ноября 2026, 13:39",
@@ -13799,7 +14067,7 @@
      ]
     }
    },
-   "rank": 92.09,
+   "rank": 91.2,
    "sources": [
     {
      "domain": "olomoucky.denik.cz",
@@ -14021,7 +14289,7 @@
      "body_sha256": "74cec6bc4f713cd0d4d5a8192c7ec5cf24b846b878a91bf197ceda1a0b536028"
     }
    },
-   "rank": 70.276,
+   "rank": 69.583,
    "image_url": "https://img.24n.cz/p/2026/11/sud-sokratil-srok-pianomu-voditeliu-do-3-5-goda-fab9d39f7892df98.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/sud-sokratil-srok-pianomu-voditeliu-do-3-5-goda-7819cac8f0e7e923.webp",
@@ -14245,7 +14513,7 @@
      "body_sha256": "ece3767e82ddffddde7960acccbdd7e17aabb076674e129e8213035007311334"
     }
    },
-   "rank": 77.673
+   "rank": 76.907
   },
   {
    "id": "n9356",
@@ -14529,7 +14797,7 @@
      ]
     }
    },
-   "rank": 59.18,
+   "rank": 58.596,
    "image_url": "https://img.24n.cz/p/2026/11/mat-iz-pragi-8-prosit-pomoch-synu-autistu-posle-vosmi-let-su-48ccd9e163aa4621.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/mat-iz-pragi-8-prosit-pomoch-synu-autistu-posle-vosmi-let-su-e427f23fc4a3d84d.webp"
@@ -14562,8 +14830,8 @@
    ],
    "published_at": "2026-11-24T12:02:11.696693+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "24 ноября 2026, 12:02",
@@ -14905,7 +15173,7 @@
      "also": []
     }
    },
-   "rank": 76.795,
+   "rank": 76.03,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-s-2027-goda-nachnet-skrining-raka-podzheludochnoi-u-15cfad3f87ebeaca.webp",
    "image_w": 1366,
    "image_h": 910
@@ -14923,8 +15191,8 @@
    ],
    "published_at": "2026-11-24T12:02:11.696693+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "24 ноября 2026, 12:02",
@@ -15232,7 +15500,7 @@
      "also": []
     }
    },
-   "rank": 65.825,
+   "rank": 65.168,
    "image_url": "https://img.24n.cz/p/2026/11/vosem-iz-desiati-chekhov-khotiat-platit-kartoi-no-malyi-bizn-a613c56d46911fa4.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -15520,7 +15788,7 @@
      ]
     }
    },
-   "rank": 79.632,
+   "rank": 78.829,
    "image_url": "https://img.24n.cz/p/2026/11/iozef-pobedil-rak-pishchevoda-posle-dvukh-let-lecheniia-a3db0d93cd367356.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/veronike-s-rakom-4-i-stadii-ispolnili-mechtu-o-loshadiakh-i-46426ac4480f79b4.webp",
@@ -15837,7 +16105,7 @@
      "also": []
     }
    },
-   "rank": 76.012,
+   "rank": 75.246,
    "thread": {
     "slug": "izmeneniia-v-sisteme-posobii-po-bezrabotitse-v-chekhii",
     "title": {
@@ -15890,8 +16158,8 @@
    ],
    "published_at": "2026-11-24T11:01:28.214626+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "24 ноября 2026, 11:01",
@@ -15965,7 +16233,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 60.925
+   "rank": 60.305
   },
   {
    "id": "n9350",
@@ -15979,8 +16247,8 @@
    ],
    "published_at": "2026-11-24T10:58:23.821073+01:00",
    "time": {
-    "ru": "22 часа назад",
-    "uk": "22 години тому"
+    "ru": "23 часа назад",
+    "uk": "23 години тому"
    },
    "date": {
     "ru": "24 ноября 2026, 10:58",
@@ -16178,7 +16446,7 @@
      "body_sha256": "19e5693e849ed9dbe050f3c19e4c351bbae54607bdfcea2ce0a7216dde10341b"
     }
    },
-   "rank": 56.566,
+   "rank": 55.99,
    "sources": [
     {
      "domain": "praha2.cz",
@@ -16425,7 +16693,7 @@
      ]
     }
    },
-   "rank": 46.071,
+   "rank": 45.597,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -16729,7 +16997,7 @@
      ]
     }
    },
-   "rank": 68.752,
+   "rank": 68.044,
    "sources": [
     {
      "domain": "cesko.digital",
@@ -16756,8 +17024,8 @@
    ],
    "published_at": "2026-11-24T09:53:19.236936+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "24 ноября 2026, 09:53",
@@ -16899,7 +17167,7 @@
      "body_sha256": "cc32302ef8959a51c1b145e505db7d83d6bc2d640e96e72d19bb7737877e6283"
     }
    },
-   "rank": 83.343,
+   "rank": 82.475,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -16932,8 +17200,8 @@
    ],
    "published_at": "2026-11-24T09:53:19.236936+01:00",
    "time": {
-    "ru": "23 часа назад",
-    "uk": "23 години тому"
+    "ru": "1 день назад",
+    "uk": "1 день тому"
    },
    "date": {
     "ru": "24 ноября 2026, 09:53",
@@ -17218,7 +17486,7 @@
      ]
     }
    },
-   "rank": 59.53,
+   "rank": 58.911,
    "image_url": "https://img.24n.cz/p/2026/11/chekhiia-meniaet-pravila-goszakupok-radi-rosta-konkurentsii-3f282c4f226fb914.webp",
    "image_w": 670,
    "image_h": 377
@@ -17592,7 +17860,7 @@
      ]
     }
    },
-   "rank": 86.577,
+   "rank": 85.666,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -17952,7 +18220,7 @@
      "body_sha256": "07ff170d932b8885de49a23a2bd780754d39c92333dc56eaa157593bdda1b9f1"
     }
    },
-   "rank": 71.959,
+   "rank": 71.193,
    "sources": [
     {
      "domain": "divadlokalich.cz",
@@ -18294,7 +18562,7 @@
      ]
     }
    },
-   "rank": 84.98,
+   "rank": 84.075,
    "thread": {
     "slug": "korruptsiia-v-magistrate-pardubitse",
     "title": {
@@ -18745,7 +19013,7 @@
      ]
     }
    },
-   "rank": 68.532
+   "rank": 67.803
   },
   {
    "id": "n9341",
@@ -18990,7 +19258,7 @@
      ]
     }
    },
-   "rank": 75.745,
+   "rank": 74.928,
    "sources": [
     {
      "domain": "europesays.com",
@@ -19444,7 +19712,7 @@
      ]
     }
    },
-   "rank": 60.224,
+   "rank": 59.567,
    "thread": {
     "slug": "oboronnyi-biudzhet-i-novaia-kontseptsiia-armii-chekhii",
     "title": {
@@ -19894,7 +20162,7 @@
      ]
     }
    },
-   "rank": 52.924,
+   "rank": 52.34,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -20361,7 +20629,7 @@
      ]
     }
    },
-   "rank": 48.995,
+   "rank": 48.448,
    "thread": {
     "slug": "money-maker-2026-i-investitsii-v-anthropic",
     "title": {
@@ -20662,7 +20930,7 @@
      ]
     }
    },
-   "rank": 60.101,
+   "rank": 59.43,
    "sources": [
     {
      "domain": "media24.cz",
@@ -20887,7 +21155,7 @@
      ]
     }
    },
-   "rank": 67.761,
+   "rank": 66.995,
    "image_url": "https://img.24n.cz/p/2026/11/tabletki-dlia-pokhudeniia-poiaviatsia-v-chekhii-v-nachale-sl-ce4073a2a606cce4.webp",
    "image_w": 1200,
    "image_h": 674
@@ -21170,7 +21438,7 @@
      ]
     }
    },
-   "rank": 76.489,
+   "rank": 75.614,
    "thread": {
     "slug": "rost-tsen-na-energiiu-v-chekhii",
     "title": {
@@ -21620,7 +21888,7 @@
      ]
     }
    },
-   "rank": 62.193,
+   "rank": 61.463,
    "image_url": "https://img.24n.cz/p/2026/11/pravitelstvo-podnimet-tarify-na-sotsuslugi-s-2027-goda-na-7-8af8e9bb83c098fc.webp",
    "image_w": 1366,
    "image_h": 910
@@ -21976,7 +22244,7 @@
      ]
     }
    },
-   "rank": 46.904,
+   "rank": 46.339,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -22430,7 +22698,7 @@
      ]
     }
    },
-   "rank": 55.046,
+   "rank": 54.375,
    "story": [
     {
      "slug": "babish-nazval-proekt-biudzheta-es-nepriemlemym-dlia-chekhii",
@@ -22873,7 +23141,7 @@
      ]
     }
    },
-   "rank": 53.125,
+   "rank": 52.469,
    "thread": {
     "slug": "rozhdestvenskie-iarmarki-v-prage-2026",
     "title": {
@@ -23114,7 +23382,7 @@
      "body_sha256": "54484f396f843bd282be0f632001a73e6bc6f153bf0dcc4e4924497e097a57ca"
     }
    },
-   "rank": 47.222,
+   "rank": 46.639,
    "sources": [
     {
      "domain": "pestrytyden.cz",
@@ -23485,7 +23753,7 @@
      ]
     }
    },
-   "rank": 58.234,
+   "rank": 57.505,
    "thread": {
     "slug": "rozhdestvenskie-iarmarki-v-prage-2026",
     "title": {
@@ -23704,7 +23972,7 @@
      "body_sha256": "a7a80c96cc630b93aca6a7fb06842816aa289d55f8854507abb7dff6489b9e84"
     }
    },
-   "rank": 59.822,
+   "rank": 59.064,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -23940,7 +24208,7 @@
      ]
     }
    },
-   "rank": 47.588,
+   "rank": 46.968,
    "story": [
     {
      "slug": "nachalas-rekonstruktsiia-stadiona-dolicek-novaia-tribuna-i-vmestimost",
@@ -24241,7 +24509,7 @@
      ]
     }
    },
-   "rank": 65.339,
+   "rank": 64.464,
    "thread": {
     "slug": "usilenie-transporta-v-prage-iz-za-mitinga-na-letne",
     "title": {
@@ -24506,7 +24774,7 @@
      "body_sha256": "33825371cf6dcd2fc384e9e1a39f48869d2a7d2440056e612aab54a9fd7cf751"
     }
    },
-   "rank": 60.76,
+   "rank": 59.921,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-kardiologi-pervymi-v-mire-postavili-serdtsu-vechny-0c91e76e1756c7ed.webp",
    "image_w": 940,
    "image_h": 528
@@ -24563,7 +24831,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 43.214
+   "rank": 42.602
   },
   {
    "id": "n9323",
@@ -24800,7 +25068,7 @@
      ]
     }
    },
-   "rank": 48.665
+   "rank": 47.972
   },
   {
    "id": "n9322",
@@ -25113,7 +25381,7 @@
      ]
     }
    },
-   "rank": 83.118,
+   "rank": 82.781,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -25547,7 +25815,7 @@
      ]
     }
    },
-   "rank": 57.02,
+   "rank": 56.181,
    "thread": {
     "slug": "otmena-obiazatelnykh-norm-shkolnogo-pitaniia",
     "title": {
@@ -25805,7 +26073,7 @@
      "also": []
     }
    },
-   "rank": 50.44,
+   "rank": 49.674,
    "thread": {
     "slug": "sparta-bez-trenera-pered-matchem-s-alkmaarom",
     "title": {
@@ -26143,7 +26411,7 @@
      ]
     }
    },
-   "rank": 45.636,
+   "rank": 44.943,
    "thread": {
     "slug": "borba-za-liderstvo-v-ods",
     "title": {
@@ -26241,7 +26509,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 39.263,
+   "rank": 38.665,
    "forecast": true
   },
   {
@@ -26437,7 +26705,7 @@
      ]
     }
    },
-   "rank": 51.472,
+   "rank": 50.678,
    "sources": [
     {
      "domain": "leoexpress.com",
@@ -26745,7 +27013,7 @@
      "also": []
     }
    },
-   "rank": 53.496,
+   "rank": 52.658,
    "story": [
     {
      "slug": "izvestnyi-cheshskii-psikhiatr-poluchil-realnyi-srok-za-napadeniia",
@@ -27029,7 +27297,7 @@
      ]
     }
    },
-   "rank": 40.684,
+   "rank": 40.035,
    "thread": {
     "slug": "khedlainery-colours-of-ostrava-2026",
     "title": {
@@ -27477,7 +27745,7 @@
      ]
     }
    },
-   "rank": 50.284,
+   "rank": 49.482,
    "thread": {
     "slug": "rozhdestvenskie-iarmarki-v-prage-2026",
     "title": {
@@ -27900,7 +28168,7 @@
      ]
     }
    },
-   "rank": 52.667,
+   "rank": 51.799,
    "thread": {
     "slug": "ano-pobezhdaet-na-vyborakh-no-teriaet-vlast",
     "title": {
@@ -28186,7 +28454,7 @@
      ]
     }
    },
-   "rank": 42.045,
+   "rank": 41.352,
    "image_url": "https://img.24n.cz/p/2026/11/cheshskie-pervoklassniki-s-2027-goda-budut-bez-otsenok-985eb9ea78a618ea.webp",
    "images": [
     "https://www.denik.cz/images/api/image/640x640/fee/fee9318b-bba3-4d9a-8428-43daa753e449.webp"
@@ -28396,7 +28664,7 @@
      ]
     }
    },
-   "rank": 37.619,
+   "rank": 36.999,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -28663,7 +28931,7 @@
      ]
     }
    },
-   "rank": 45.523
+   "rank": 44.757
   },
   {
    "id": "n9309",
@@ -28902,7 +29170,7 @@
      "also": []
     }
    },
-   "rank": 41.187,
+   "rank": 40.494,
    "image_url": "https://img.24n.cz/p/2026/11/muzhchina-prigrozil-ubit-sotrudnits-birzhi-truda-v-kladno-za-fc7c26ec4f1d1098.webp",
    "image_w": 1200,
    "image_h": 900
@@ -29140,7 +29408,7 @@
      ]
     }
    },
-   "rank": 43.396,
+   "rank": 42.652,
    "sources": [
     {
      "domain": "aroundprague.cz",
@@ -29445,7 +29713,7 @@
      ]
     }
    },
-   "rank": 44.669,
+   "rank": 43.889,
    "thread": {
     "slug": "poshliny-na-posylki-iz-za-predelov-es",
     "title": {
@@ -29750,7 +30018,7 @@
      ]
     }
    },
-   "rank": 28.295,
+   "rank": 27.792,
    "sources": [
     {
      "domain": "musicserver.cz",
@@ -29945,7 +30213,7 @@
      "body_sha256": "98669c49da860683dabe182816f728eef52d8e4590ea84c3c4c31d0f69f831dc"
     }
    },
-   "rank": 38.956
+   "rank": 38.264
   },
   {
    "id": "n9304",
@@ -30276,7 +30544,7 @@
      ]
     }
    },
-   "rank": 45.088,
+   "rank": 44.271,
    "thread": {
     "slug": "rozhdaemost-v-chekhii-na-istoricheskom-minimume",
     "title": {
@@ -30590,7 +30858,7 @@
      "also": []
     }
    },
-   "rank": 43.46,
+   "rank": 42.658,
    "story": [
     {
      "slug": "prazhskaia-politsiia-peredala-v-sud-delo-lzhepsikhoterapevta-o-nasilii",
@@ -30905,7 +31173,7 @@
      ]
     }
    },
-   "rank": 32.928,
+   "rank": 32.308,
    "image_url": "https://img.24n.cz/p/2026/11/prilozhenie-muj-vlak-nauchilos-uznavat-o-zaderzhke-stykovok-c6bd578d1840f6c6.webp",
    "image_w": 1200,
    "image_h": 660
@@ -31068,7 +31336,7 @@
      ]
     }
    },
-   "rank": 27.117,
+   "rank": 26.607,
    "image_url": "https://img.24n.cz/p/2026/11/muzei-v-prage-pokazhet-redkie-sorta-iablok-i-grush-s-26-noia-97d58513f87ad1ac.webp",
    "image_w": 820,
    "image_h": 590
@@ -31339,7 +31607,7 @@
      ]
     }
    },
-   "rank": 42.612,
+   "rank": 41.81,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -31613,7 +31881,7 @@
      ]
     }
    },
-   "rank": 38.717,
+   "rank": 37.973,
    "sources": [
     {
      "domain": "pvk.cz",
@@ -31836,7 +32104,7 @@
      ]
     }
    },
-   "rank": 50.306,
+   "rank": 49.322,
    "sources": [
     {
      "domain": "mmr.gov.cz",
@@ -32246,7 +32514,7 @@
      ]
     }
    },
-   "rank": 47.325,
+   "rank": 46.399,
    "thread": {
     "slug": "peregovory-o-prazhskoi-koalitsii",
     "title": {
@@ -32559,7 +32827,7 @@
      ]
     }
    },
-   "rank": 37.883,
+   "rank": 37.124,
    "story": [
     {
      "slug": "sud-v-chekhii-vernul-delo-o-restitutsii-walderode-obratno-v-se",
@@ -33539,7 +33807,7 @@
      ]
     }
    },
-   "rank": 88.426,
+   "rank": 88.032,
    "sources": [
     {
      "domain": "freebull.cz",
@@ -38705,7 +38973,7 @@
      ]
     }
    },
-   "rank": 60.525,
+   "rank": 60.209,
    "sources": [
     {
      "domain": "stream.cz",
@@ -38922,7 +39190,7 @@
      "also": []
     }
    },
-   "rank": 65.676,
+   "rank": 65.333,
    "sources": [
     {
      "domain": "collector.com.tr",
@@ -41064,7 +41332,7 @@
      ]
     }
    },
-   "rank": 47.015,
+   "rank": 46.754,
    "image_url": "https://img.24n.cz/p/2026/11/v-prazhskom-raione-stodulki-nachala-rabotu-novaia-neoklinika-43b6e38a2bfc4bd2.webp",
    "image_w": 630,
    "image_h": 350
@@ -53362,8 +53630,8 @@
    ],
    "published_at": "2026-11-21T09:49:05.027437+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "21 ноября 2026, 09:49",
@@ -53753,8 +54021,8 @@
    ],
    "published_at": "2026-11-21T09:49:05.027437+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "21 ноября 2026, 09:49",
@@ -54235,8 +54503,8 @@
    ],
    "published_at": "2026-11-21T09:49:05.027437+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "21 ноября 2026, 09:49",
@@ -54541,8 +54809,8 @@
    ],
    "published_at": "2026-11-21T09:49:05.027437+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "21 ноября 2026, 09:49",
@@ -87238,294 +87506,6 @@
     }
    },
    "rank": 31.5
-  },
-  {
-   "id": "n9096",
-   "slug": "deutsche-bank-zakryla-schet-syna-premera-slovakii",
-   "source": "idnes.cz",
-   "original_url": "https://www.idnes.cz/zpravy/zahranicni/nemecka-banka-zrusila-ficovu-synovi-ucet-a-udala-ho-pro-podezreni-z-prani-penez.A261118_133340_zahranicni_kha#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-   "top": false,
-   "tags": [
-    "cesko",
-    "zakon"
-   ],
-   "published_at": "2026-11-18T22:20:40.443588+01:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "18 ноября 2026, 22:20",
-    "uk": "18 листопада 2026, 22:20"
-   },
-   "ru": {
-    "title": "Deutsche Bank закрыла счёт сына премьера Словакии",
-    "lede": "Немецкий банк в 2016 году закрыл студенческий счёт 33-летнего Михала Фицо, сына премьер-министра Словакии Роберта Фицо, заподозрив его в отмывании денег. Премьер всё отрицает, называет обвинения выдумкой и грозит журналистам судами.",
-    "meta_description": "Deutsche Bank в 2016 году закрыла счёт Михала Фицо, сына премьера Словакии, за подозрение в отмывании денег.",
-    "paras": [
-     "<p>Михал Фицо, которому тогда было 33 года, открыл студенческий счёт в Deutsche Bank 1 сентября 2015 года. Сын премьер-министра Словакии Роберта Фицо собирался год учиться в Мюнхене, в Munich Business School. Во время плановой проверки в 2016 году банк решил, что движение средств выглядит странно, а сам счёт используют не для студенческих нужд.</p>",
-     "<p>Как следует из внутренних документов банка, утёкших на портал Investigace.cz и оказавшихся в распоряжении журналистов из пятидесяти стран мира, на счёт регулярно поступали деньги всего от двух людей: от Яна Гринко из Словакии и Наташи Чурильловой из Nataši. При этом средства никогда не тратились на типичные студенческие нужды вроде аренды жилья, оплаты обучения или покупок.</p>",
-     "<blockquote>«Счёт существует с 1 сентября 2015 года, то есть уже чуть больше года. Активность на счёте неправдоподобна. Вклады якобы поступают от родителей и друзей. На самом деле видны регулярные поступления от Яна Хринко из Словакии и Наташи Чурилловой из Nataši, которые никогда не использовались на обычные студенческие цели, например на покупки, аренду, оплату обучения и тому подобное», описал ситуацию неназванный сотрудник Deutsche Bank.</blockquote>",
-     "<p>Банк не только поставил под сомнение легитимность операций, но и принял решение разорвать отношения с клиентом. «Из-за недостаточной прозрачности этих отношений и связанного с ними риска» банк закрыл счёт и подал властям заявление о подозрении в отмывании денег. Всё это произошло в 2016 году, когда Роберт Фицо уже в третий раз занимал пост премьер-министра.</p>",
-     "<h3>Кто переводил деньги</h3>",
-     "<p>Они учились вместе в Братиславе, в Экономическом университете. Позже отец получателя взял Яна Гринко на работу в аппарат правительства, а теперь тот занимает пост госсекретаря в министерстве образования. Причины переводов не раскрываются.</p>",
-     "<p>Второй отправитель, Наташа Чурильлова, сегодня жена Михала Фицо. Её отец Милослав Чурильла возглавляет правление словацких бумажных комбинатов Mondi, которыми совладеет чешская фирма ECO-INVESTMENT, связанная с предпринимателем Миланом Фиľ. Именно в 2016 году, когда комбинаты Mondi оказались в финансовых трудностях, правительство Фицо выделило им крупные налоговые льготы, которые их спасли. Позже Михал Фицо женился на Наташе Чурилловой.</p>",
-     "<h3>Бизнес сына премьера</h3>",
-     "<p>Сегодня Михал Фицо — единственный директор фирмы Agentúra Smer, принадлежащей партии «Смер-СД». По данным СМИ, в виде вознаграждений он получил от компании десятки тысяч евро. Ранее он работал в чешской компании ČEZ, а также числится совладельцем нескольких фирм. В Братиславе ему принадлежат две роскошные квартиры, купленные без ипотеки.</p>",
-     "<h3>Реакция Роберта Фицо</h3>",
-     "<p>Премьер-министр Словакии категорически отверг все обвинения. На Facebook он опубликовал видео с заголовком «Ложь от А до Я», назвав публикацию сфабрикованной кампанией против себя и партии «Смер».</p>",
-     "<blockquote>«Через сына я отмывал грязные деньги. Как обычно, всё совсем не так. Это утверждение имеет ту же ценность, что и заявление экс-премьера Игора Матовича о том, что у меня есть счёт на Белизе с 800 миллионами долларов. Вот как будет выглядеть кампания против меня и «Смера», заявил Роберт Фицо, назвав материал «сплошной выдуманной грязью».</blockquote>",
-     "<p>Фицо объяснил, что Чуриллова жила вместе с его сыном в Мюнхене и переводила ему деньги только на аренду жилья, а его однокурсник Хринко лишь рассчитывался с ним по общим счетам.</p>",
-     "<blockquote>«Мы говорим здесь о сотнях евро в месяц. Как премьер-министр, в 2015 году я действительно зависел от того, чтобы сын отмывал для меня сотни евро ежемесячно», сказал Фицо с иронией.</blockquote>",
-     "<p>Он также заявил, что счёт его сына в 2016 году на самом деле не закрывали. По его словам, в 2020 году на нём находилось немногим более 590 евро (590,20 евро). На пресс-конференции премьер обнародовал аудиозапись телефонного разговора сына с сотрудником Deutsche Bank, в котором тот якобы подтвердил, что счёт по-прежнему активен и на нём находится 157,80 евро.</p>",
-     "<p>О фирме Agentúra Smer Фицо заявил, что компания не получает государственных денег: «Там не найдёте ни зерна ошибки. Всё чисто как око Божие». Его близкий соратник, министр обороны Роберт Калиняк, добавил, что речь идёт о партийных деньгах, пусть и происходящих изначально от государства: «Это уже средства партии «Смер», происходит их трансформация».</p>",
-     "<p>Премьер пригрозил СМИ судебными исками, если те не извинятся за опубликованную информацию. При этом неизвестно, расследовали ли немецкие власти это дело и с каким результатом. Сам Deutsche Bank от комментариев по конкретным клиентским отношениям отказывается.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Кто такой Михал Фицо?",
-      "a": "Сын премьер-министра Словакии Роберта Фицо, 33-летний предприниматель и единственный директор фирмы Agentúra Smer, принадлежащей партии «Смер-СД»."
-     },
-     {
-      "q": "Почему Deutsche Bank закрыла счёт Михала Фицо?",
-      "a": "Банк счёл движение средств на счёте неправдоподобным: деньги поступали от двух лиц и не использовались на студенческие расходы. Из-за недостаточной прозрачности и риска отмывания денег банк закрыл счёт и подал заявление властям."
-     },
-     {
-      "q": "Как отреагировал Роберт Фицо?",
-      "a": "Он отверг обвинения, назвал их выдуманной кампанией, заявил, что речь шла об оплате аренды и расчётах между однокурсниками, а также обнародовал запись, якобы подтверждающую, что счёт до сих пор активен."
-     },
-     {
-      "q": "Какие суммы поступали на счёт?",
-      "a": "По документам банка, ежемесячно поступало около 500 евро от Яна Хринко и Наташи Чурилловой. Единственный платёж со счёта составил 352 евро, также были два снятия наличных в Братиславе по 1000 евро каждое."
-     }
-    ],
-    "impact": "Дело касается словацкого премьера, однако в материале фигурируют чешские компании ČEZ и ECO-INVESTMENT, совладеющая словацкими комбинатами Mondi, получившими налоговые льготы. Для читателей в Чехии это сигнал о том, какие связи существуют между словацкой властью и бизнесом с участием чешского капитала.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "В 2016 году Deutsche Bank закрыл студенческий счёт Михала Фицо и подал властям заявление о подозрении в отмывании денег.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Роберт Фицо отверг обвинения, назвав публикацию выдумкой и кампанией против себя и партии, а также пригрозил журналистам судами.",
-       "target": {
-        "block": 11,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Яна Гринко",
-       "definition": "Ян Гринко — государственный секретарь по вопросам исследований, разработок, молодёжи и инклюзии Министерства образования, науки, исследований и молодёжи Словацкой Республики.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Милослав Чурильла",
-       "definition": "Председатель правления словацкого целлюлозно-бумажного комбината Mondi SCP в Ружомбероке и президент ZCPP SR.",
-       "target": {
-        "block": 7,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "Agentúra Smer",
-       "definition": "Торговая компания Agentúra SMER, s.r.o. со штаб-квартирой в Братиславе, принадлежащая партии «Смер-СД»; её единственный директор — Михал Фицо.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "599253a6ca5fd1d3e0fa27d4425e7851bb7a2f20ae7261f6e45ddbe74b9dfcd7"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "zhitel-khomutova-dal-moshennikam-dostup-k-banku-radi-vyigrysha",
-       "title": "Житель Хомутова дал мошенникам доступ к банку ради выигрыша",
-       "desc": "Жителя Хомутова обвинили в легализации доходов от преступлений по неосторожности после того, как он пустил мошенников в свой интернет-банк ради выигрышей.",
-       "date": "20 октября 2026, 05:46",
-       "img": ""
-      }
-     ]
-    }
-   },
-   "uk": {
-    "title": "Deutsche Bank закрив рахунок сина прем'єра Словаччини",
-    "lede": "Німецький банк у 2016 році закрив студентський рахунок 33-річного Міхала Фіцо, сина прем'єр-міністра Словаччини Роберта Фіцо, запідозривши його у відмиванні грошей. Прем'єр усе заперечує, називає звинувачення вигадкою і погрожує журналістам судами.",
-    "meta_description": "Deutsche Bank у 2016 році закрив рахунок Міхала Фіцо, сина прем'єра Словаччини, через підозру у відмиванні грошей.",
-    "paras": [
-     "<p>Міхал Фіцо, якому тоді було 33 роки, відкрив студентський рахунок у Deutsche Bank 1 вересня 2015 року. Син прем'єр-міністра Словаччини Роберта Фіцо збирався рік навчатися в Мюнхені, в Munich Business School. Під час планової перевірки у 2016 році банк вирішив, що рух коштів виглядає дивно, а сам рахунок використовують не для студентських потреб.</p>",
-     "<p>Як випливає з внутрішніх документів банку, що потрапили на портал Investigace.cz і опинилися в розпорядженні журналістів із п'ятдесяти країн світу, на рахунок регулярно надходили гроші лише від двох людей: від Яна Гринка зі Словаччини та Наташі Чуриллової з Nataši. При цьому кошти ніколи не витрачалися на типові студентські потреби, як-от оренда житла, оплата навчання чи покупки.</p>",
-     "<blockquote>«Рахунок існує з 1 вересня 2015 року, тобто вже трохи більше року. Активність на рахунку неправдоподібна. Внески нібито надходять від батьків і друзів. Насправді видно регулярні надходження від Яна Хринка зі Словаччини та Наташі Чуриллової з Nataši, які ніколи не використовувалися на звичайні студентські цілі, наприклад на покупки, оренду, оплату навчання тощо», описав ситуацію неназваний співробітник Deutsche Bank.</blockquote>",
-     "<p>Банк не лише поставив під сумнів законність операцій, а й вирішив розірвати стосунки з клієнтом. «Через недостатню прозорість цих стосунків і пов'язаний із ними ризик» банк закрив рахунок і подав владі заяву про підозру у відмиванні грошей. Усе це сталося у 2016 році, коли Роберт Фіцо вже втретє обіймав посаду прем'єр-міністра.</p>",
-     "<h3>Хто переказував гроші</h3>",
-     "<p>Вони разом навчалися в Братиславі, в Економічному університеті. Пізніше батько отримувача взяв Яна Гринка на роботу в апарат уряду, а тепер той обіймає посаду держсекретаря в міністерстві освіти. Причини переказів не розкриваються.</p>",
-     "<p>Друга відправниця, Наташа Чуриллова, сьогодні дружина Міхала Фіцо. Її батько Мілослав Чурилла очолює правління словацьких паперових комбінатів Mondi, якими співволодіє чеська фірма ECO-INVESTMENT, пов'язана з підприємцем Міланом Фіľ. Саме у 2016 році, коли комбінати Mondi опинилися у фінансових труднощах, уряд Фіцо виділив їм великі податкові пільги, які їх врятували. Пізніше Міхал Фіцо одружився з Наташею Чурилловою.</p>",
-     "<h3>Бізнес сина прем'єра</h3>",
-     "<p>Сьогодні Міхал Фіцо єдиний директор фірми Agentúra Smer, що належить партії «Смер-СД». За даними ЗМІ, у вигляді винагород він отримав від компанії десятки тисяч євро. Раніше він працював у чеській компанії ČEZ, а також значиться співвласником кількох фірм. У Братиславі йому належать дві розкішні квартири, куплені без іпотеки.</p>",
-     "<h3>Реакція Роберта Фіцо</h3>",
-     "<p>Прем'єр-міністр Словаччини категорично відкинув усі звинувачення. На Facebook він опублікував відео із заголовком «Брехня від А до Я», назвавши публікацію сфабрикованою кампанією проти себе і партії «Смер».</p>",
-     "<blockquote>«Через сина я відмивав брудні гроші. Як завжди, усе зовсім не так. Це твердження має ту саму цінність, що й заява експрем'єра Ігора Матовича про те, що в мене є рахунок у Белізі з 800 мільйонами доларів. Ось як виглядатиме кампанія проти мене і «Смера», заявив Роберт Фіцо, назвавши матеріал «суцільною вигаданою гидотю».</blockquote>",
-     "<p>Фіцо пояснив, що Чуриллова жила разом із його сином у Мюнхені й переказувала йому гроші лише на оренду житла, а його однокурсник Хринко лише розраховувався з ним за спільні рахунки.</p>",
-     "<blockquote>«Ми говоримо тут про сотні євро на місяць. Як прем'єр-міністр, у 2015 році я справді залежав від того, щоб син відмивав для мене сотні євро щомісяця», сказав Фіцо з іронією.</blockquote>",
-     "<p>Він також заявив, що рахунок його сина у 2016 році насправді не закривали. За його словами, у 2020 році на ньому було трохи більше 590 євро (590,20 євро). На пресконференції прем'єр оприлюднив аудіозапис телефонної розмови сина зі співробітником Deutsche Bank, у якій той нібито підтвердив, що рахунок досі активний і на ньому є 157,80 євро.</p>",
-     "<p>Про фірму Agentúra Smer Фіцо заявив, що компанія не отримує державних грошей: «Там не знайдете й зерна помилки. Усе чисто як око Боже». Його близький соратник, міністр оборони Роберт Калиняк, додав, що йдеться про партійні гроші, хай і такі, що початково походять від держави: «Це вже кошти партії «Смер», відбувається їхня трансформація».</p>",
-     "<p>Прем'єр пригрозив ЗМІ судовими позовами, якщо ті не вибачаться за опубліковану інформацію. При цьому невідомо, чи розслідувала німецька влада цю справу і з яким результатом. Сам Deutsche Bank від коментарів щодо конкретних клієнтських стосунків відмовляється.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Хто такий Міхал Фіцо?",
-      "a": "Син прем'єр-міністра Словаччини Роберта Фіцо, 33-річний підприємець і єдиний директор фірми Agentúra Smer, що належить партії «Смер-СД»."
-     },
-     {
-      "q": "Чому Deutsche Bank закрив рахунок Міхала Фіцо?",
-      "a": "Банк визнав рух коштів на рахунку неправдоподібним: гроші надходили від двох осіб і не використовувалися на студентські витрати. Через недостатню прозорість і ризик відмивання грошей банк закрив рахунок і подав заяву владі."
-     },
-     {
-      "q": "Як відреагував Роберт Фіцо?",
-      "a": "Він відкинув звинувачення, назвав їх вигаданою кампанією, заявив, що йшлося про оплату оренди та розрахунки між однокурсниками, а також оприлюднив запис, який нібито підтверджує, що рахунок досі активний."
-     },
-     {
-      "q": "Які суми надходили на рахунок?",
-      "a": "За документами банку, щомісяця надходило близько 500 євро від Яна Хринка і Наташі Чуриллової. Єдиний платіж із рахунку становив 352 євро, також були два зняття готівки в Братиславі по 1000 євро кожне."
-     }
-    ],
-    "impact": "Дело касается словацкого премьера, однако в материале фигурируют чешские компании ČEZ и ECO-INVESTMENT, совладеющая словацкими комбинатами Mondi, получившими налоговые льготы. Для читателей в Чехии это сигнал о том, какие связи существуют между словацкой властью и бизнесом с участием чешского капитала.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Deutsche Bank закрив студентський рахунок Міхала Фіцо у 2016 році, подавши владі заяву про підозру у відмиванні грошей.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "На рахунок надходили гроші лише від Яна Гринка та Наташі Чуриллової, і кошти не витрачалися на типові студентські потреби.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Роберт Фіцо назвав публікацію сфабрикованою кампанією і заявив, що рахунок сина насправді не закривали.",
-       "target": {
-        "block": 15,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Прем'єр пригрозив ЗМІ судовими позовами, а Deutsche Bank від коментарів щодо конкретних клієнтів відмовляється.",
-       "target": {
-        "block": 17,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "відмиванні грошей",
-       "definition": "Легалізація коштів, отриманих незаконним шляхом, через банківські операції. Саме таку підозру банк передав владі щодо операцій на рахунку.",
-       "target": {
-        "block": 4,
-        "paragraph": 1
-       }
-      },
-      {
-       "term": "іпотеки",
-       "definition": "Кредит під заставу нерухомості. У тексті зазначено, що квартири в Братиславі куплені без такого кредиту.",
-       "target": {
-        "block": 9,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": null,
-     "body_sha256": "540e34e6859cd528a1d5386990c44824e3009c0ce5d2f980b2e2f88be1f6d641"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "zhitel-khomutova-dal-moshennikam-dostup-k-banku-radi-vyigrysha",
-       "title": "Житель Хомутова дав шахраям доступ до банку заради виграшу",
-       "desc": "Жителя Хомутова обвинувачують у легалізації доходів від злочинів через необережність після того, як він пустив шахраїв у свій інтернет-банк заради…",
-       "date": "20 жовтня 2026, 05:46",
-       "img": ""
-      }
-     ]
-    }
-   },
-   "rank": 36.4,
-   "sources": [
-    {
-     "domain": "irozhlas.cz",
-     "official": false,
-     "url": "https://www.irozhlas.cz/zpravy-svet/deutsche-bank-podle-uniklych-dokumentu-zrusila-ucet-ficova-syna-kvuli-podezrelym_2611181622_ntu",
-     "title": "Deutsche Bank zrušila účet Ficova syna  |  iROZHLAS - spolehlivé zprávy"
-    },
-    {
-     "domain": "denikn.cz",
-     "official": false,
-     "url": "https://denikn.cz/2261475/banka-zrusila-studentsky-ucet-michala-fica-kvuli-podezreni-z-prani-penez/",
-     "title": "Banka zrušila studentský účet Michala Fica kvůli podezření z praní peněz — Deník N"
-    }
-   ],
-   "show_sources": true,
-   "corroboration": 2,
-   "image_url": "https://img.24n.cz/p/2026/11/deutsche-bank-zakryla-schet-syna-premera-slovakii-4435670a4bc8333c.webp",
-   "images": [
-    "https://img.24n.cz/p/2026/11/deutsche-bank-zakryla-schet-syna-premera-slovakii-e9ad58d1eaec4b75.webp",
-    "https://img.24n.cz/p/2026/11/deutsche-bank-zakryla-schet-syna-premera-slovakii-b408780213af4d51.webp"
-   ],
-   "photo_spots": [
-    {
-     "url": "https://img.24n.cz/p/2026/11/deutsche-bank-zakryla-schet-syna-premera-slovakii-e9ad58d1eaec4b75.webp",
-     "after": 6,
-     "caption": "Мужчина в костюме говорит в микрофоны, рядом молодой человек"
-    },
-    {
-     "url": "https://img.24n.cz/p/2026/11/deutsche-bank-zakryla-schet-syna-premera-slovakii-b408780213af4d51.webp",
-     "after": 8,
-     "caption": "Роберт Фицо говорит у микрофона в окружении мужчин, флаги"
-    }
-   ],
-   "video": {
-    "kind": "file",
-    "url": "https://vod.idnes.cz/2611/18/VF261118_151027_flv_high_anka.mp4"
-   },
-   "image_w": 630,
-   "image_h": 350,
-   "images_wh": [
-    [
-     630,
-     354
-    ],
-    [
-     630,
-     354
-    ]
-   ]
   }
  ],
  "stories": [
