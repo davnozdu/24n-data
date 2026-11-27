@@ -1,8 +1,274 @@
 {
- "updated_at": "2026-11-27T17:32:45+00:00",
+ "updated_at": "2026-11-27T17:42:48+00:00",
  "count": 300,
  "generated_by": "autopost",
  "articles": [
+  {
+   "id": "n9547",
+   "slug": "politsiia-rassleduet-dtp-na-d1-iz-za-rezkogo-tormozheniia-volvo",
+   "source": "novinky.cz",
+   "original_url": "https://www.novinky.cz/clanek/krimi-silena-situace-na-dalnici-d1-ridic-suv-vybrzdil-kamion-ten-do-nej-pak-narazil-policiste-ukazali-video-40610958",
+   "top": false,
+   "tags": [
+    "cesko",
+    "kriminal"
+   ],
+   "published_at": "2026-11-27T18:42:47.338330+01:00",
+   "time": {
+    "ru": "только что",
+    "uk": "щойно"
+   },
+   "date": {
+    "ru": "27 ноября 2026, 18:42",
+    "uk": "27 листопада 2026, 18:42"
+   },
+   "ru": {
+    "title": "Полиция расследует ДТП на D1 из-за резкого торможения Volvo",
+    "lede": "На dálnice D1 произошло ДТП между легковым автомобилем Volvo XC40 и грузовиком Mercedes. Полиция начала расследование по делу о «общественной опасности».",
+    "meta_description": "На dálnice D1 легковушка Volvo XC40 столкнулась с грузовиком Mercedes. Полиция расследует инцидент как «общественную опасность».",
+    "paras": [
+     "<p>Авария случилась в пятницу около половины восьмого утра. На 126-м километре dálnice D1 в направлении на Прагу столкнулись легковой <b>Volvo XC40</b> и грузовик <b>Mercedes</b> с прицепом. Никто не пострадал. Полиция всё же начала расследование по подозрению в преступлении «общественная опасность».</p>",
+     "<p>Как считает полиция, водитель грузовика хотел уступить место другой фуре. При этом он неверно оценил скорость и расстояние до <b>Volvo</b>, которое ехало за ним. Перестраиваясь в левый ряд, он ограничил движение легкового автомобиля. Водитель <b>Volvo</b> резко сманеврировал и выехал на центральную разделительную полосу.</p>",
+     "<p>Потом водитель <b>Volvo</b> обогнал грузовик, встал перед ним в левом ряду и внезапно затормозил. Грузовик врезался в заднюю часть легкового автомобиля.</p>",
+     "<p>Спикер полиции <b>Дана Чирткова</b> отметила, что «водитель <b>Volvo</b> сделал что-то совершенно непонятное, когда внезапно резко затормозил перед грузовиком». В результате этого столкновения грузовик врезался в машину, но оба водителя прошли тест на алкоголь с отрицательным результатом.</p>",
+     "<p>Запись с кабины грузовика полиция изучила и только после этого начала расследование. <b>Дана Чирткова</b> подтвердила: водитель легковушки подозревается в преступлении. Но и водитель грузовика не останется без наказания, он совершил административное правонарушение.</p>",
+     "<p>Когда видео с места ДТП опубликовали, водитель <b>Volvo</b> связался с редакцией. По его словам, грузовик вынудил его съехать с дороги, а запись не отражает весь ход событий. След вне дороги, утверждает он, составляет <b>68,5 метра</b>. Виновника ДТП, по его мнению, определить нельзя.</p>",
+     "<p>Полиция ищет свидетелей, которые проезжали мимо 126-го километра dálnice D1 в указанное время. Записи с видеорегистраторов можно прислать на линию <b>158</b> или сообщить в дежурную службу dálničního oddělení <b>Velký Beranov</b> по телефону <b>974 262 751</b>.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Где произошло ДТП на dálnice D1?",
+      "a": "На 126-м километре (126,4 км) в направлении на Praha, в регионе Vysočina."
+     },
+     {
+      "q": "Кто пострадал в аварии?",
+      "a": "По данным полиции, никто не пострадал, ущерб только на автомобилях; оба водителя прошли тест на алкоголь с отрицательным результатом."
+     },
+     {
+      "q": "В чём подозревают водителя Volvo?",
+      "a": "В совершении преступления «общественная опасность» (obecné ohrožení) - он резко затормозил перед грузовиком, что привело к столкновению."
+     },
+     {
+      "q": "Куда обращаться свидетелям?",
+      "a": "На линию 158 или в дежурную службу дорожного отделения Велького Беранова по телефону 974 262 751."
+     }
+    ],
+    "impact": "",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "На 126-м километре D1 в направлении Праги столкнулись Volvo XC40 и грузовик Mercedes с прицепом, никто не пострадал.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "По версии полиции, водитель грузовика при перестроении в левый ряд ограничил движение Volvo, и тот выехал на разделительную полосу.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Затем водитель Volvo обогнал грузовик, встал перед ним и внезапно затормозил, после чего грузовик врезался в него.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Полиция начала расследование только после изучения записи с кабины грузовика; водитель Volvo подозревается в преступлении, а водитель грузовика совершил административное правонарушение.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "dálnice",
+       "definition": "Автомагистраль, скоростная дорога для междугороднего движения.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "дежурную службу",
+       "definition": "Подразделение, куда можно обратиться с сообщением или позвонить по указанному телефону.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Дана Чирткова",
+       "definition": "Дана Чирткова — пресс-секретарь полиции Чешской Республики в крае Высочина.",
+       "target": {
+        "block": 4,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "Velký Beranov",
+       "definition": "Velký Beranov — деревня в районе Йиглава в крае Высочина, где проживает около 1300 жителей.",
+       "target": {
+        "block": 7,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "dálnice D1",
+       "definition": "Dálnice D1 — самая длинная автомагистраль в Чехии, соединяющая Прагу, Брно и Остраву и ведущая к чешско-польской границе.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "231887a20dce912192283a7aa3419817be05183d608498a100e68125c5cbb07d"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [],
+     "also": [
+      {
+       "slug": "voditel-s-d6-chetyre-goda-nazad-mog-ugrozhat-seme-s-detmi",
+       "title": "Водитель с D6 четыре года назад мог угрожать семье с детьми",
+       "desc": "В Чехии возобновили расследование инцидента на трассе D6 от 2022 года. Водитель Volkswagen Transporter преследовал машину с детьми.",
+       "date": "30 октября 2026, 15:02",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "uk": {
+    "title": "Поліція розслідує ДТП на D1 через різке гальмування Volvo",
+    "lede": "На dálnice D1 сталася ДТП між легковим автомобілем Volvo XC40 і вантажівкою Mercedes. Поліція почала розслідування у справі про «суспільну небезпеку».",
+    "meta_description": "На dálnice D1 легковик Volvo XC40 зіткнувся з вантажівкою Mercedes. Поліція розслідує інцидент як «суспільну небезпеку».",
+    "paras": [
+     "<p>Аварія сталася в п'ятницю близько пів на восьму ранку. На 126-му кілометрі dálnice D1 у напрямку на Прагу зіткнулися легковий <b>Volvo XC40</b> і вантажівка <b>Mercedes</b> з причепом. Ніхто не постраждав. Поліція все ж почала розслідування за підозрою у злочині «суспільна небезпека».</p>",
+     "<p>Як вважає поліція, водій вантажівки хотів поступитися місцем іншій фурі. При цьому він неправильно оцінив швидкість і відстань до <b>Volvo</b>, яке їхало за ним. Перестроюючись у ліву смугу, він обмежив рух легкового автомобіля. Водій <b>Volvo</b> різко зманеврував і виїхав на центральну розділювальну смугу.</p>",
+     "<p>Потім водій <b>Volvo</b> обігнав вантажівку, став перед нею в лівій смузі і раптово загальмував. Вантажівка врізалася в задню частину легкового автомобіля.</p>",
+     "<p>Речниця поліції <b>Дана Чирткова</b> зазначила, що «водій <b>Volvo</b> зробив щось цілком незрозуміле, коли раптово різко загальмував перед вантажівкою». Внаслідок цього зіткнення вантажівка врізалася в машину, але обидва водії пройшли тест на алкоголь з негативним результатом.</p>",
+     "<p>Запис з кабіни вантажівки поліція вивчила і лише після цього почала розслідування. <b>Дана Чирткова</b> підтвердила: водій легковика підозрюється у злочині. Але й водій вантажівки не залишиться без покарання, він скоїв адміністративне правопорушення.</p>",
+     "<p>Коли відео з місця ДТП опублікували, водій <b>Volvo</b> зв'язався з редакцією. За його словами, вантажівка змусила його з'їхати з дороги, а запис не відображає всього ходу подій. Слід поза дорогою, стверджує він, становить <b>68,5 метра</b>. Винуватця ДТП, на його думку, визначити неможливо.</p>",
+     "<p>Поліція шукає свідків, які проїжджали повз 126-й кілометр dálnice D1 у вказаний час. Записи з відеореєстраторів можна надіслати на лінію <b>158</b> або повідомити в чергову службу dálničního oddělení <b>Velký Beranov</b> за телефоном <b>974 262 751</b>.</p>"
+    ],
+    "faq": [
+     {
+      "q": "Де сталася ДТП на dálnice D1?",
+      "a": "На 126-му кілометрі (126,4 км) у напрямку на Praha, у регіоні Vysočina."
+     },
+     {
+      "q": "Хто постраждав в аварії?",
+      "a": "За даними поліції, ніхто не постраждав, збитки лише на автомобілях; обидва водії пройшли тест на алкоголь з негативним результатом."
+     },
+     {
+      "q": "У чому підозрюють водія Volvo?",
+      "a": "У скоєнні злочину «суспільна небезпека» (obecné ohrožení) - він різко загальмував перед вантажівкою, що призвело до зіткнення."
+     },
+     {
+      "q": "Куди звертатися свідкам?",
+      "a": "На лінію 158 або в чергову службу дорожнього відділення Velký Beranov за телефоном 974 262 751."
+     }
+    ],
+    "impact": "",
+    "reading": {
+     "schema_version": 2,
+     "key_points": [
+      {
+       "text": "Аварія сталася в п'ятницю близько пів на восьму ранку на 126-му кілометрі dálnice D1 у напрямку на Прагу, ніхто не постраждав.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "За версією поліції, водій вантажівки неправильно оцінив швидкість і відстань до Volvo, перестроюючись у ліву смугу.",
+       "target": {
+        "block": 2,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Водій Volvo обігнав вантажівку, став перед нею в лівій смузі і раптово загальмував, після чого вантажівка врізалася в нього.",
+       "target": {
+        "block": 3,
+        "paragraph": 1
+       }
+      },
+      {
+       "text": "Поліція почала розслідування лише після вивчення запису з кабіни вантажівки; водій Volvo підозрюється у злочині, а водій вантажівки скоїв адміністративне правопорушення.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "glossary": [
+      {
+       "term": "dálnice",
+       "definition": "Автомагістраль — швидкісна дорога для транзитного руху.",
+       "target": {
+        "block": 1,
+        "paragraph": 1
+       }
+      },
+      {
+       "term": "адміністративне правопорушення",
+       "definition": "Порушення, за яке поліція притягує до відповідальності окремо від кримінального розслідування.",
+       "target": {
+        "block": 5,
+        "paragraph": 1
+       }
+      }
+     ],
+     "checklist": null,
+     "body_sha256": "5c742bf0ebb8b503329c0f0da90b619abbc23725f9a47a90309818095eb7a7ca"
+    },
+    "context": {
+     "v": 1,
+     "before": "",
+     "assessment": "",
+     "refs": [],
+     "links": [],
+     "also": [
+      {
+       "slug": "voditel-s-d6-chetyre-goda-nazad-mog-ugrozhat-seme-s-detmi",
+       "title": "Водій на D6 чотири роки тому міг погрожувати родині з дітьми",
+       "desc": "У Чехії відновили розслідування інциденту на трасі D6 від 2022 року. Водій Volkswagen Transporter переслідував машину з дітьми.",
+       "date": "30 жовтня 2026, 15:02",
+       "img": ""
+      }
+     ]
+    }
+   },
+   "rank": 102.0,
+   "sources": [
+    {
+     "domain": "idnes.cz",
+     "official": false,
+     "url": "https://www.idnes.cz/jihlava/zpravy/osobni-auto-kamion-vybrzdeni-dalnice-policie-svedci-d1.A261127_162312_jihlava-zpravy_evs",
+     "title": "Osobní auto na D1 vybrzdilo kamion - iDNES.cz"
+    }
+   ],
+   "show_sources": true,
+   "corroboration": 1,
+   "image_url": "https://img.24n.cz/p/2026/11/politsiia-rassleduet-dtp-na-d1-iz-za-rezkogo-tormozheniia-vo-05bea4bab6074424.webp",
+   "video": {
+    "kind": "file",
+    "url": "https://vod.idnes.cz/2611/27/VF261127_160747_flv_high_tjz.mp4"
+   },
+   "image_w": 848,
+   "image_h": 477
+  },
   {
    "id": "n9546",
    "slug": "finansovyi-den-27-noiabria-2026-neft-vniz-metally-vverkh",
@@ -14,8 +280,8 @@
    ],
    "published_at": "2026-11-27T18:32:45.331361+01:00",
    "time": {
-    "ru": "только что",
-    "uk": "щойно"
+    "ru": "10 минут назад",
+    "uk": "10 хвилин тому"
    },
    "date": {
     "ru": "27 ноября 2026, 18:32",
@@ -74,8 +340,8 @@
    ],
    "published_at": "2026-11-27T18:08:13.628642+01:00",
    "time": {
-    "ru": "24 минуты назад",
-    "uk": "24 хвилини тому"
+    "ru": "34 минуты назад",
+    "uk": "34 хвилини тому"
    },
    "date": {
     "ru": "27 ноября 2026, 18:08",
@@ -369,8 +635,8 @@
    ],
    "published_at": "2026-11-27T17:39:36.902919+01:00",
    "time": {
-    "ru": "53 минуты назад",
-    "uk": "53 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "27 ноября 2026, 17:39",
@@ -834,8 +1100,8 @@
    ],
    "published_at": "2026-11-27T17:39:36.902919+01:00",
    "time": {
-    "ru": "53 минуты назад",
-    "uk": "53 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "27 ноября 2026, 17:39",
@@ -1093,8 +1359,8 @@
    ],
    "published_at": "2026-11-27T17:39:36.902919+01:00",
    "time": {
-    "ru": "53 минуты назад",
-    "uk": "53 хвилини тому"
+    "ru": "1 час назад",
+    "uk": "1 годину тому"
    },
    "date": {
     "ru": "27 ноября 2026, 17:39",
@@ -2224,7 +2490,7 @@
      ]
     }
    },
-   "rank": 102.292,
+   "rank": 102.038,
    "image_url": "https://img.24n.cz/p/2026/08/sud-reshit-mozhet-li-kandidat-ballotirovatsia-srazu-v-trekh-5b20568905ccc0ad.webp",
    "image_w": 1200,
    "image_h": 675
@@ -2533,7 +2799,7 @@
      ]
     }
    },
-   "rank": 116.169,
+   "rank": 115.879,
    "sources": [
     {
      "domain": "praha1.cz",
@@ -2827,7 +3093,7 @@
      ]
     }
    },
-   "rank": 111.329,
+   "rank": 111.051,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -3097,7 +3363,7 @@
      ]
     }
    },
-   "rank": 127.786,
+   "rank": 127.467,
    "sources": [
     {
      "domain": "orlicky.net",
@@ -3470,7 +3736,7 @@
      ]
     }
    },
-   "rank": 91.967,
+   "rank": 91.737,
    "thread": {
     "slug": "pervyi-sneg-v-prage-i-zimniaia-podgotovka",
     "title": {
@@ -3760,7 +4026,7 @@
      ]
     }
    },
-   "rank": 114.165,
+   "rank": 113.878,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -4195,7 +4461,7 @@
      ]
     }
    },
-   "rank": 95.126,
+   "rank": 94.884,
    "story": [
     {
      "slug": "praga-vypustit-na-ulitsy-svetiashchiesia-musorovozy-i-tramvai",
@@ -4252,8 +4518,8 @@
    ],
    "published_at": "2026-11-27T11:36:16.678793+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "27 ноября 2026, 11:36",
@@ -4486,7 +4752,7 @@
      ]
     }
    },
-   "rank": 96.193,
+   "rank": 95.947,
    "sources": [
     {
      "domain": "media24.cz",
@@ -4513,8 +4779,8 @@
    ],
    "published_at": "2026-11-27T11:36:16.678793+01:00",
    "time": {
-    "ru": "6 часов назад",
-    "uk": "6 годин тому"
+    "ru": "7 часов назад",
+    "uk": "7 годин тому"
    },
    "date": {
     "ru": "27 ноября 2026, 11:36",
@@ -4818,7 +5084,7 @@
      ]
     }
    },
-   "rank": 89.592
+   "rank": 89.362
   },
   {
    "id": "n9530",
@@ -5090,7 +5356,7 @@
      ]
     }
    },
-   "rank": 117.043,
+   "rank": 116.741,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -5495,7 +5761,7 @@
      ]
     }
    },
-   "rank": 98.316,
+   "rank": 98.063,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -5799,7 +6065,7 @@
      ]
     }
    },
-   "rank": 100.189,
+   "rank": 99.931,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -6066,7 +6332,7 @@
      "body_sha256": "be66474c14afb90f77e9a876fae9d714fdbb93423b8c39881ff56bb060c5a7d2"
     }
    },
-   "rank": 104.871,
+   "rank": 104.6,
    "sources": [
     {
      "domain": "ceskedrahy.cz",
@@ -6402,7 +6668,7 @@
      ]
     }
    },
-   "rank": 102.998,
+   "rank": 102.732,
    "story": [
     {
      "slug": "glava-prazhskogo-aeroporta-ushel-v-otstavku-posle-trekh-mesiatsev-rabo",
@@ -6504,7 +6770,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 74.77,
+   "rank": 74.577,
    "leisure": true
   },
   {
@@ -6519,8 +6785,8 @@
    ],
    "published_at": "2026-11-27T10:33:38.080349+01:00",
    "time": {
-    "ru": "7 часов назад",
-    "uk": "7 годин тому"
+    "ru": "8 часов назад",
+    "uk": "8 годин тому"
    },
    "date": {
     "ru": "27 ноября 2026, 10:33",
@@ -6730,7 +6996,7 @@
      "body_sha256": "78bd766c13d965468f581805813375b7a8494f5f4d54b3a17fc68a55f09af5e9"
     }
    },
-   "rank": 91.871,
+   "rank": 91.632,
    "sources": [
     {
      "domain": "feedit.cz",
@@ -6947,7 +7213,7 @@
      ]
     }
    },
-   "rank": 66.229,
+   "rank": 66.055,
    "sources": [
     {
      "domain": "tvprogram.idnes.cz",
@@ -7292,7 +7558,7 @@
      ]
     }
    },
-   "rank": 124.18,
+   "rank": 123.853,
    "thread": {
     "slug": "rekonstruktsiia-parka-kampa-v-prage",
     "title": {
@@ -7639,7 +7905,7 @@
      ]
     }
    },
-   "rank": 109.496,
+   "rank": 109.206,
    "story": [
     {
      "slug": "tselitel-iz-klatovska-na-sude-v-devushke-byl-demon-ego-obviniaiut-v-iz",
@@ -7873,7 +8139,7 @@
      ]
     }
    },
-   "rank": 103.28,
+   "rank": 103.005,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -8268,7 +8534,7 @@
      ]
     }
    },
-   "rank": 90.597,
+   "rank": 90.355,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -8632,7 +8898,7 @@
      "also": []
     }
    },
-   "rank": 96.939,
+   "rank": 96.68,
    "story": [
     {
      "slug": "otkrytie-novogo-zala-vinogradskogo-teatra-otkladyvaetsia-na-neopredele",
@@ -8930,7 +9196,7 @@
      ]
     }
    },
-   "rank": 70.622,
+   "rank": 70.429,
    "image_url": "https://img.24n.cz/p/2026/11/teplo-v-prage-podorozhalo-na-7-6-s-1-noiabria-17797d4c4cd1c6d5.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/teplo-v-prage-podorozhalo-na-7-6-s-1-noiabria-9a1ddf7380106557.webp"
@@ -9278,7 +9544,7 @@
      ]
     }
    },
-   "rank": 88.278,
+   "rank": 88.036,
    "thread": {
     "slug": "banki-chekhii-zapuskaiut-kripto-i-brokerskie-servisy",
     "title": {
@@ -9667,7 +9933,7 @@
      ]
     }
    },
-   "rank": 90.043,
+   "rank": 89.797,
    "thread": {
     "slug": "sud-po-dotatsii-na-tostovyi-khleb-penam",
     "title": {
@@ -9936,7 +10202,7 @@
      ]
     }
    },
-   "rank": 83.076,
+   "rank": 82.847,
    "image_url": "https://img.24n.cz/p/2026/11/litovskii-startap-pulsetto-vyros-na-20-679-i-pokoril-120-str-f546756f46c07477.webp",
    "video": {
     "kind": "iframe",
@@ -10293,7 +10559,7 @@
      ]
     }
    },
-   "rank": 74.332
+   "rank": 74.126
   },
   {
    "id": "n9511",
@@ -10452,7 +10718,7 @@
      "body_sha256": "bff35d683c7eeabd098de739aaf6f19a440beda8615125cea83c19df2ac6d85b"
     }
    },
-   "rank": 69.959,
+   "rank": 69.766,
    "video": {
     "kind": "iframe",
     "url": "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F29574423875522139%2F&show_text=false&width=267&t=0"
@@ -10706,7 +10972,7 @@
      ]
     }
    },
-   "rank": 60.7,
+   "rank": 60.531,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -11139,7 +11405,7 @@
      ]
     }
    },
-   "rank": 105.792,
+   "rank": 105.497,
    "thread": {
     "slug": "snegopady-i-gololed-v-chekhii",
     "title": {
@@ -11431,7 +11697,7 @@
      ]
     }
    },
-   "rank": 82.379,
+   "rank": 82.149,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -11806,7 +12072,7 @@
      ]
     }
    },
-   "rank": 60.153,
+   "rank": 59.984,
    "story": [
     {
      "slug": "lamparshchik-zazhzhet-gazovye-fonari-na-karluve-moste-s-29-noiabria",
@@ -12093,7 +12359,7 @@
      ]
     }
    },
-   "rank": 72.493,
+   "rank": 72.288,
    "video": {
     "kind": "iframe",
     "url": "https://www.youtube-nocookie.com/embed/_QL-wacPRnU"
@@ -12460,7 +12726,7 @@
      ]
     }
    },
-   "rank": 51.172,
+   "rank": 51.027,
    "thread": {
     "slug": "edinoe-sotsialnoe-posobie-v-chekhii",
     "title": {
@@ -12865,7 +13131,7 @@
      "also": []
     }
    },
-   "rank": 109.13,
+   "rank": 109.007,
    "thread": {
     "slug": "korruptsionnyi-skandal-v-bolnitse-motol",
     "title": {
@@ -13194,7 +13460,7 @@
      ]
     }
    },
-   "rank": 66.835,
+   "rank": 66.642,
    "image_url": "https://img.24n.cz/p/2026/11/moravskosilezskii-krai-pereidet-s-uglia-na-novye-tekhnologii-559725e79cb8518b.webp",
    "images": [
     "https://img.24n.cz/p/2026/11/moravskosilezskii-krai-pereidet-s-uglia-na-novye-tekhnologii-fcb97905057d3bb4.webp",
@@ -13257,8 +13523,8 @@
    ],
    "published_at": "2026-11-27T03:37:28.922795+01:00",
    "time": {
-    "ru": "14 часов назад",
-    "uk": "14 годин тому"
+    "ru": "15 часов назад",
+    "uk": "15 годин тому"
    },
    "date": {
     "ru": "27 ноября 2026, 03:37",
@@ -13566,7 +13832,7 @@
      ]
     }
    },
-   "rank": 76.158,
+   "rank": 75.936,
    "thread": {
     "slug": "cesky-slavik-2026-i-bratia-nedvedy",
     "title": {
@@ -13866,7 +14132,7 @@
      "body_sha256": "3ff0d3b3c24dba67d3d68687941042876ad3ee35ab86d4f2c5470afe7bd6eaaf"
     }
    },
-   "rank": 60.711,
+   "rank": 60.532,
    "sources": [
     {
      "domain": "novinky.cz",
@@ -14165,7 +14431,7 @@
      ]
     }
    },
-   "rank": 73.017,
+   "rank": 72.802,
    "sources": [
     {
      "domain": "forum24.cz",
@@ -14238,8 +14504,8 @@
    ],
    "published_at": "2026-11-27T02:33:51.042021+01:00",
    "time": {
-    "ru": "15 часов назад",
-    "uk": "15 годин тому"
+    "ru": "16 часов назад",
+    "uk": "16 годин тому"
    },
    "date": {
     "ru": "27 ноября 2026, 02:33",
@@ -14613,7 +14879,7 @@
      ]
     }
    },
-   "rank": 89.558,
+   "rank": 89.455,
    "thread": {
     "slug": "krizis-vokrug-otmeny-media-sborov-v-chekhii",
     "title": {
@@ -14991,7 +15257,7 @@
      ]
     }
    },
-   "rank": 95.778,
+   "rank": 95.49,
    "thread": {
     "slug": "krizis-vokrug-novykh-blokov-aes-dukovany",
     "title": {
@@ -15336,7 +15602,7 @@
      ]
     }
    },
-   "rank": 86.929,
+   "rank": 86.666,
    "thread": {
     "slug": "reforma-stroitelnogo-zakona-v-chekhii",
     "title": {
@@ -15839,7 +16105,7 @@
      "also": []
     }
    },
-   "rank": 100.299,
+   "rank": 99.992,
    "thread": {
     "slug": "spor-o-biudzhete-es-na-2028-2034-gody",
     "title": {
@@ -16167,7 +16433,7 @@
      ]
     }
    },
-   "rank": 89.036,
+   "rank": 88.758,
    "sources": [
     {
      "domain": "ctk.cz",
@@ -16592,7 +16858,7 @@
      ]
     }
    },
-   "rank": 81.293,
+   "rank": 81.04,
    "thread": {
     "slug": "vspyshka-salmonelleza-v-prazhskoi-shkole",
     "title": {
@@ -16917,7 +17183,7 @@
      ]
     }
    },
-   "rank": 73.551,
+   "rank": 73.322,
    "sources": [
     {
      "domain": "seznamzpravy.cz",
@@ -17178,7 +17444,7 @@
      ]
     }
    },
-   "rank": 84.241,
+   "rank": 83.975,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -17469,7 +17735,7 @@
      ]
     }
    },
-   "rank": 91.725,
+   "rank": 91.423,
    "story": [
     {
      "slug": "difteriia-v-chekhii-2024-16-sluchaev-i-dve-smerti-za-polgoda",
@@ -17937,7 +18203,7 @@
      ]
     }
    },
-   "rank": 89.524,
+   "rank": 89.229,
    "thread": {
     "slug": "snegopady-i-gololed-v-chekhii",
     "title": {
@@ -18049,7 +18315,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 61.519
+   "rank": 61.316
   },
   {
    "id": "n9488",
@@ -18063,8 +18329,8 @@
    ],
    "published_at": "2026-11-26T20:36:40.533747+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "26 ноября 2026, 20:36",
@@ -18356,7 +18622,7 @@
      ]
     }
    },
-   "rank": 61.752
+   "rank": 61.547
   },
   {
    "id": "n9487",
@@ -18370,8 +18636,8 @@
    ],
    "published_at": "2026-11-26T20:36:40.533747+01:00",
    "time": {
-    "ru": "21 час назад",
-    "uk": "21 годину тому"
+    "ru": "22 часа назад",
+    "uk": "22 години тому"
    },
    "date": {
     "ru": "26 ноября 2026, 20:36",
@@ -18607,7 +18873,7 @@
      ]
     }
    },
-   "rank": 79.188,
+   "rank": 78.925,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -18858,7 +19124,7 @@
      ]
     }
    },
-   "rank": 46.696,
+   "rank": 46.539,
    "image_url": "https://img.24n.cz/p/2026/11/pelgrzhimov-s-ianvaria-2027-goda-otmenit-platu-za-proezd-v-a-af025d0649c653e7.webp",
    "image_w": 620,
    "image_h": 349
@@ -19158,7 +19424,7 @@
      ]
     }
    },
-   "rank": 77.362,
+   "rank": 77.096,
    "story": [
     {
      "slug": "praga-12-sozdala-koalitsiiu-s-ano-vopreki-ultimatumu-tsentra",
@@ -19452,7 +19718,7 @@
      ]
     }
    },
-   "rank": 52.043,
+   "rank": 51.864,
    "sources": [
     {
      "domain": "regionbrno.cz",
@@ -19526,7 +19792,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 57.108,
+   "rank": 56.909,
    "forecast": true
   },
   {
@@ -19753,7 +20019,7 @@
      ]
     }
    },
-   "rank": 76.604,
+   "rank": 76.338,
    "sources": [
     {
      "domain": "ceskenoviny.cz",
@@ -20092,7 +20358,7 @@
      ]
     }
    },
-   "rank": 76.604,
+   "rank": 76.338,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -20342,7 +20608,7 @@
      ]
     }
    },
-   "rank": 96.361,
+   "rank": 96.023,
    "sources": [
     {
      "domain": "idnes.cz",
@@ -20712,7 +20978,7 @@
      ]
     }
    },
-   "rank": 79.154
+   "rank": 78.876
   },
   {
    "id": "n9478",
@@ -20984,7 +21250,7 @@
      ]
     }
    },
-   "rank": 61.28,
+   "rank": 61.063,
    "image_url": "https://img.24n.cz/p/2026/11/na-smikhove-postroiat-dom-s-saunoi-i-kovorkingom-za-1-3-mlrd-e60c566915b32252.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -21301,7 +21567,7 @@
      ]
     }
    },
-   "rank": 71.494,
+   "rank": 71.24,
    "thread": {
     "slug": "antinarkoticheskaia-politika-perekhodit-v-minzdrav",
     "title": {
@@ -21660,7 +21926,7 @@
      ]
     }
    },
-   "rank": 74.898,
+   "rank": 74.632,
    "sources": [
     {
      "domain": "e15.cz",
@@ -21922,7 +22188,7 @@
      ]
     }
    },
-   "rank": 66.047,
+   "rank": 65.812,
    "sources": [
     {
      "domain": "collector.com.tr",
@@ -22139,7 +22405,7 @@
      "also": []
     }
    },
-   "rank": 62.642,
+   "rank": 62.42,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -22398,7 +22664,7 @@
      ]
     }
    },
-   "rank": 65.832,
+   "rank": 65.593,
    "story": [
     {
      "slug": "miniust-chekhii-uprazdnit-27-raionnykh-sudov-i-sekonomit-100-mln-kron",
@@ -22647,7 +22913,7 @@
      ]
     }
    },
-   "rank": 89.106,
+   "rank": 88.783,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -23055,7 +23321,7 @@
      ]
     }
    },
-   "rank": 73.622,
+   "rank": 73.352,
    "story": [
     {
      "slug": "katok-v-geroldovakh-sadakh-otkroetsia-29-noiabria",
@@ -23281,7 +23547,7 @@
      ]
     }
    },
-   "rank": 72.308,
+   "rank": 72.042,
    "image_url": "https://img.24n.cz/p/2026/11/zhertva-iznasilovaniia-obvinila-politsiiu-vo-vmeshatelstve-v-d9d872f628401ddc.webp",
    "image_w": 768,
    "image_h": 432
@@ -23546,7 +23812,7 @@
      ]
     }
    },
-   "rank": 68.284,
+   "rank": 68.03,
    "thread": {
     "slug": "sudy-po-iskam-hnuti-duha-k-tureku-i-matsinke",
     "title": {
@@ -24005,7 +24271,7 @@
      "also": []
     }
    },
-   "rank": 51.437,
+   "rank": 51.243,
    "thread": {
     "slug": "otmena-obiazatelnykh-norm-shkolnogo-pitaniia",
     "title": {
@@ -24302,7 +24568,7 @@
      ]
     }
    },
-   "rank": 80.37,
+   "rank": 80.068,
    "sources": [
     {
      "domain": "ct24.ceskatelevize.cz",
@@ -24707,7 +24973,7 @@
      ]
     }
    },
-   "rank": 41.792,
+   "rank": 41.635,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -25015,7 +25281,7 @@
      "body_sha256": "e48323d18e653aac31ad8cc28d34ad6c6c2a0e6a4ae7843c79e7ea502603cd0f"
     }
    },
-   "rank": 79.331,
+   "rank": 79.029,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -25350,7 +25616,7 @@
      ]
     }
    },
-   "rank": 72.315,
+   "rank": 72.032,
    "thread": {
     "slug": "vakansiia-sovetnika-po-natsbezopasnosti-chekhii",
     "title": {
@@ -25620,7 +25886,7 @@
      "also": []
     }
    },
-   "rank": 67.37,
+   "rank": 67.107,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -25950,7 +26216,7 @@
      ]
     }
    },
-   "rank": 67.178,
+   "rank": 66.912,
    "thread": {
     "slug": "remont-dorog-na-severe-pragi",
     "title": {
@@ -26190,7 +26456,7 @@
      "body_sha256": "126c872c73469dc64a9eb84371ed678ef84e57b122d5c0dd9b915465ef05e15d"
     }
    },
-   "rank": 51.91,
+   "rank": 51.705,
    "image_url": "https://img.24n.cz/p/2026/11/sud-otlozhil-delo-voditelia-avtobusa-vilimovskogo-do-kontsa-4e71e30815008ae0.webp",
    "image_w": 1200,
    "image_h": 675
@@ -26233,7 +26499,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 52.993
+   "rank": 52.781
   },
   {
    "id": "n9459",
@@ -26461,7 +26727,7 @@
      ]
     }
    },
-   "rank": 47.739,
+   "rank": 47.545,
    "image_url": "https://img.24n.cz/p/2026/11/creditas-i-j-t-kupiat-polovinu-khorvatskogo-banka-d6058d5ffa6bb3fe.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -26758,7 +27024,7 @@
      ]
     }
    },
-   "rank": 72.801,
+   "rank": 72.506,
    "story": [
     {
      "slug": "senat-chekhii-obsudit-oboronu-i-podderzhku-voisk-nato-s-prezidentom",
@@ -27013,7 +27279,7 @@
      "also": []
     }
    },
-   "rank": 44.755,
+   "rank": 44.574,
    "sources": [
     {
      "domain": "praha7.cz",
@@ -27360,7 +27626,7 @@
      "also": []
     }
    },
-   "rank": 65.044,
+   "rank": 64.78,
    "sources": [
     {
      "domain": "tn.nova.cz",
@@ -27651,7 +27917,7 @@
      ]
     }
    },
-   "rank": 60.867,
+   "rank": 60.62,
    "sources": [
     {
      "domain": "frekvence1.cz",
@@ -27981,7 +28247,7 @@
      ]
     }
    },
-   "rank": 67.758,
+   "rank": 67.479,
    "thread": {
     "slug": "spory-vokrug-novogo-opredeleniia-zavisimoi-raboty",
     "title": {
@@ -28408,7 +28674,7 @@
      "also": []
     }
    },
-   "rank": 70.114,
+   "rank": 69.827,
    "sources": [
     {
      "domain": "pragueexaminer.com",
@@ -28656,7 +28922,7 @@
      ]
     }
    },
-   "rank": 55.974,
+   "rank": 55.744,
    "image_url": "https://img.24n.cz/p/2026/11/iz-volera-v-ostrave-ukrali-beluiu-sovu-sovika-7ca28e02007fe2ef.webp",
    "image_w": 968,
    "image_h": 550
@@ -29033,7 +29299,7 @@
      ]
     }
    },
-   "rank": 61.866,
+   "rank": 61.612,
    "story": [
     {
      "slug": "chekhi-ignoriruiut-privivki-ot-grippa-tolko-8-naseleniia-vaktsiniroval",
@@ -29407,7 +29673,7 @@
      ]
     }
    },
-   "rank": 73.643,
+   "rank": 73.336,
    "thread": {
     "slug": "prazhskii-proekt-uborki-ulits-dlia-bezdomnykh",
     "title": {
@@ -29764,7 +30030,7 @@
      ]
     }
    },
-   "rank": 55.087,
+   "rank": 54.858,
    "image_url": "https://img.24n.cz/p/2026/11/zhitelnitsa-ugerske-gradishte-otdala-moshennikam-900-tysiach-3244c0cc4631593a.webp",
    "image_w": 1200,
    "image_h": 675
@@ -29917,7 +30183,7 @@
      "body_sha256": "24d988cffa9f2aecff6edee827149f11399e279ca3f06a424981684ac6e1d1d5"
     }
    },
-   "rank": 28.608,
+   "rank": 28.487,
    "image_url": "https://img.24n.cz/p/2026/11/sluzhebnyi-pes-v-kladno-nashel-vora-pod-stolom-v-magazine-2787143162c293dd.webp",
    "image_w": 1113,
    "image_h": 835
@@ -30200,7 +30466,7 @@
      ]
     }
    },
-   "rank": 57.215,
+   "rank": 56.974,
    "story": [
     {
      "slug": "sinoptiki-obiavili-vysokii-uroven-opasnosti-iz-za-gololeditsy",
@@ -30465,7 +30731,7 @@
      ]
     }
    },
-   "rank": 50.02
+   "rank": 49.803
   },
   {
    "id": "n9445",
@@ -30624,7 +30890,7 @@
      "body_sha256": "f9d477a3973d693bb58c5e1768270e0fe1617a48ca1842c797caf2ec86493fd4"
     }
    },
-   "rank": 52.799,
+   "rank": 52.57,
    "image_url": "https://img.24n.cz/p/2026/11/praga-ne-obiazana-ubirat-svalku-v-velkoi-khukhle-za-svoi-sch-51c66967e18ec220.webp",
    "image_w": 1366,
    "image_h": 910
@@ -30863,7 +31129,7 @@
      ]
     }
    },
-   "rank": 52.08,
+   "rank": 51.85,
    "image_url": "https://img.24n.cz/p/2026/11/amerikanskii-milliarder-larri-konnor-tratit-tysiachi-na-vrac-edc2918fe7857cb0.webp",
    "image_w": 1600,
    "image_h": 1000
@@ -31081,7 +31347,7 @@
      ]
     }
    },
-   "rank": 47.694,
+   "rank": 47.484,
    "sources": [
     {
      "domain": "ihonem.cz",
@@ -31430,7 +31696,7 @@
      ]
     }
    },
-   "rank": 56.765,
+   "rank": 56.511,
    "thread": {
     "slug": "snegopady-i-gololed-v-chekhii",
     "title": {
@@ -31726,7 +31992,7 @@
      ]
     }
    },
-   "rank": 45.006,
+   "rank": 44.796,
    "sources": [
     {
      "domain": "domacipolitika.cz",
@@ -32049,7 +32315,7 @@
      ]
     }
    },
-   "rank": 55.352,
+   "rank": 55.093,
    "story": [
     {
      "slug": "distantsionnye-schetchiki-tepla-i-vody-srok-do-1-ianvaria-2027",
@@ -32541,7 +32807,7 @@
      ]
     }
    },
-   "rank": 58.472,
+   "rank": 58.194,
    "thread": {
     "slug": "biudzhetnyi-defitsit-i-rost-gosdolga-chekhii",
     "title": {
@@ -32874,7 +33140,7 @@
      "also": []
     }
    },
-   "rank": 60.076,
+   "rank": 59.786,
    "thread": {
     "slug": "sudy-po-iskam-hnuti-duha-k-tureku-i-matsinke",
     "title": {
@@ -33223,7 +33489,7 @@
      ]
     }
    },
-   "rank": 48.602,
+   "rank": 48.36,
    "sources": [
     {
      "domain": "ceskobudejovicky.denik.cz",
@@ -33537,7 +33803,7 @@
      ]
     }
    },
-   "rank": 29.054,
+   "rank": 28.897,
    "story": [
     {
      "slug": "praga-10-otmetit-den-sviatogo-martina-vinom-i-folkom",
@@ -33813,7 +34079,7 @@
      ]
     }
    },
-   "rank": 52.287,
+   "rank": 51.999,
    "sources": [
     {
      "domain": "senat.cz",
@@ -34083,7 +34349,7 @@
      ]
     }
    },
-   "rank": 47.014,
+   "rank": 46.756,
    "sources": [
     {
      "domain": "regionpraha.cz",
@@ -34359,7 +34625,7 @@
      ]
     }
    },
-   "rank": 46.606,
+   "rank": 46.33,
    "sources": [
     {
      "domain": "policie.gov.cz",
@@ -34647,7 +34913,7 @@
      ]
     }
    },
-   "rank": 41.054,
+   "rank": 40.807,
    "sources": [
     {
      "domain": "denikn.cz",
@@ -35035,7 +35301,7 @@
      ]
     }
    },
-   "rank": 49.908,
+   "rank": 49.609,
    "thread": {
     "slug": "zabastovka-sotrudnikov-ct-i-cro",
     "title": {
@@ -35370,7 +35636,7 @@
      ]
     }
    },
-   "rank": 47.896,
+   "rank": 47.608,
    "sources": [
     {
      "domain": "phocuswire.com",
@@ -35661,7 +35927,7 @@
      ]
     }
    },
-   "rank": 39.846,
+   "rank": 39.607,
    "story": [
     {
      "slug": "sluzhba-okhrany-chekhii-pokazala-tiurmy-iznutri-pochti-4000-posetitele",
@@ -36029,7 +36295,7 @@
      ]
     }
    },
-   "rank": 40.139,
+   "rank": 39.893,
    "thread": {
     "slug": "tseny-na-toplivo-v-chekhii",
     "title": {
@@ -36455,7 +36721,7 @@
      ]
     }
    },
-   "rank": 47.223,
+   "rank": 46.932,
    "thread": {
     "slug": "spory-o-finansirovanii-cheshskogo-zdravookhraneniia",
     "title": {
@@ -36837,7 +37103,7 @@
      ]
     }
    },
-   "rank": 51.158,
+   "rank": 50.843,
    "sources": [
     {
      "domain": "irozhlas.cz",
@@ -37142,7 +37408,7 @@
      ]
     }
    },
-   "rank": 36.67,
+   "rank": 36.44,
    "image_url": "https://img.24n.cz/p/2026/11/igrok-i-studentka-zapustili-serdtse-zritelia-na-matche-v-plz-9b0abffb5e09f19b.webp",
    "image_w": 1200,
    "image_h": 674
@@ -37217,7 +37483,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 32.416
+   "rank": 32.213
   },
   {
    "id": "n9423",
@@ -37468,7 +37734,7 @@
      ]
     }
    },
-   "rank": 38.032,
+   "rank": 37.779,
    "image_url": "https://img.24n.cz/p/2026/11/sud-v-olomoutse-ostavil-pedofilu-8-let-tiurmy-4aec9ed6104f914a.webp",
    "image_w": 1200,
    "image_h": 675
@@ -37484,8 +37750,8 @@
    ],
    "published_at": "2026-11-25T18:32:56.037841+01:00",
    "time": {
-    "ru": "1 день назад",
-    "uk": "1 день тому"
+    "ru": "2 дня назад",
+    "uk": "2 дні тому"
    },
    "date": {
     "ru": "25 ноября 2026, 18:32",
@@ -37529,7 +37795,7 @@
     "faq": [],
     "impact": ""
    },
-   "rank": 28.703,
+   "rank": 28.7,
    "forecast": true
   },
   {
@@ -40231,7 +40497,7 @@
      ]
     }
    },
-   "rank": 43.235,
+   "rank": 43.169,
    "sources": [
     {
      "domain": "ttg.cz",
@@ -48521,7 +48787,7 @@
      ]
     }
    },
-   "rank": 57.569,
+   "rank": 57.47,
    "sources": [
     {
      "domain": "seznam.cz",
@@ -51082,8 +51348,8 @@
    ],
    "published_at": "2026-11-24T18:32:51.747757+01:00",
    "time": {
-    "ru": "2 дня назад",
-    "uk": "2 дні тому"
+    "ru": "3 дня назад",
+    "uk": "3 дні тому"
    },
    "date": {
     "ru": "24 ноября 2026, 18:32",
@@ -68173,8 +68439,8 @@
    ],
    "published_at": "2026-11-23T18:39:34.299944+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "23 ноября 2026, 18:39",
@@ -68411,8 +68677,8 @@
    ],
    "published_at": "2026-11-23T18:39:34.299944+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "23 ноября 2026, 18:39",
@@ -68765,8 +69031,8 @@
    ],
    "published_at": "2026-11-23T18:33:05.230677+01:00",
    "time": {
-    "ru": "3 дня назад",
-    "uk": "3 дні тому"
+    "ru": "4 дня назад",
+    "uk": "4 дні тому"
    },
    "date": {
     "ru": "23 ноября 2026, 18:33",
@@ -89058,249 +89324,6 @@
    ],
    "show_sources": true,
    "corroboration": 2
-  },
-  {
-   "id": "n9243",
-   "slug": "shkola-vela-otkryla-filial-v-prazhskoi-dedine-dlia-1-9-klassov",
-   "source": "prazskypatriot.cz",
-   "original_url": "https://www.prazskypatriot.cz/skola-kde-se-deti-uci-ridit-vlastni-vzdelavani-otevrela-pobocku-na-dedine/",
-   "top": false,
-   "tags": [
-    "praha",
-    "zdorovie"
-   ],
-   "published_at": "2026-11-21T18:24:40.533181+01:00",
-   "time": {
-    "ru": "6 дней назад",
-    "uk": "6 днів тому"
-   },
-   "date": {
-    "ru": "21 ноября 2026, 18:24",
-    "uk": "21 листопада 2026, 18:24"
-   },
-   "ru": {
-    "title": "Школа Vela открыла филиал в пражской Дедине для 1-9 классов",
-    "lede": "Инновационная школа Vela, где ученики самостоятельно управляют своим обучением, открыла филиал в жилом массиве Дедине в Праге. Учреждение принимает детей с первого по девятый классы.",
-    "meta_description": "Альтернативная школа Vela открыла филиал на Дедине в Праге. Ученики сами планируют учебу, учатся в разновозрастных группах и обходятся без оценок.",
-    "paras": [
-     "<p>Альтернативная школа <b>Vela</b> открыла новое отделение в пражском микрорайоне Дедине. Концепция заведения строится на том, что главные навыки для личной и профессиональной жизни не должны быть факультативом, а составляют основу работы всей школы.</p>",
-     "<p>Каждый ученик вместе с педагогом регулярно составляет собственный план и расписание. Дети учатся брать ответственность за свое образование, а все успехи и образовательный путь фиксируются в специальном мобильном приложении, которое школа разработала самостоятельно.</p>",
-     "<h3>Как устроен учебный день</h3>",
-     "<p>Уроки проходят не в одном привычном классе. Дети занимаются в разновозрастных группах, используя не только обычные кабинеты, но и лабораторию, художественную студию, мастерскую, а также 3D-принтеры и другое оборудование. Школьники регулярно выезжают на учебу на природу и отправляются на экскурсии.</p>",
-     "<p>Вместо оценок ученики получают регулярную обратную связь и словесную оценку своих успехов. На правила школы и ее повседневную жизнь дети влияют наравне со взрослыми.</p>",
-     "<p>Результаты такой образовательной системы подтверждаются на практике. Как отмечают в учебном заведении, девятиклассники школы за последние четыре года сдавали единые вступительные экзамены по чешскому языку и математике в среднем лучше примерно двух третей поступающих по всей Чехии.</p>",
-     "<h3>Пространство и концепция</h3>",
-     "<p>Интерьеры нового филиала по проекту школы разработал архитектор Иржи Юнек, который ранее работал над пространством в районе Глоубетине. Вместо привычных парт и рядов стульев здесь оборудованы классы с разными вариантами посадки, большие лестницы для чтения и отдыха, игровая комната для продленки, библиотека и уютные тихие уголки для уединения.</p>",
-     "<blockquote>Хотим, чтобы дети проводили время в школе с пользой, уходили из нее с желанием продолжать учиться и с уверенностью, что для прогресса у них есть все необходимое. На Дедине мы теперь можем предложить это и семьям из шестого городского округа и окрестностей.</blockquote>",
-     "<p>Так охарактеризовала открытие филиала соосновательница учебного заведения Эва Диттрих.</p>",
-     "<h3>Условия приема и график</h3>",
-     "<p>Школа работает с 7:30 до 17:30, в расписание входят дневная продленка и трехразовое питание. Учреждение предлагает скидки для братьев и сестер, а также учебные стипендии. Филиал принимает ребят с первого по девятый класс.</p>",
-     "<p>Познакомиться со школой родители смогут во время дня открытых дверей, который пройдет 7 декабря 2026 года. Регистрация и подробные сведения опубликованы на сайте школы skolavela.cz.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Где открылся новый филиал школы Vela?",
-      "a": "Новое отделение школы открылось на Дедине в Праге."
-     },
-     {
-      "q": "С какого по какой класс принимает детей новая филиальная точка?",
-      "a": "Филиал принимает учеников с первого по девятый классы."
-     },
-     {
-      "q": "Как родители могут посетить школу перед поступлением?",
-      "a": "День открытых дверей пройдет 7 декабря 2026 года, регистрация доступна на официальном сайте школы."
-     }
-    ],
-    "impact": "Филиал альтернативной школы на Дедине предлагает родителям из Праги 6 и окрестностей обучение с первого по девятый классы с продленкой до 17:30, питанием, стипендиями и скидками для сиблингов.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Альтернативная школа Vela открыла новое отделение в пражском микрорайоне Дедине.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Девятиклассники школы за последние четыре года сдавали единые вступительные экзамены по чешскому языку и математике лучше примерно двух третей поступающих по всей Чехии.",
-       "target": {
-        "block": 6,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Филиал работает с 7:30 до 17:30, предлагает трехразовое питание, дневную продленку, скидки для братьев и сестер, а также учебные стипендии.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "День открытых дверей школы пройдет 7 декабря 2026 года.",
-       "target": {
-        "block": 13,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [
-      {
-       "term": "Vela",
-       "definition": "Школа Vela — это школа открытий, которая предлагает образование для детей с первого по девятый класс в Праге.",
-       "target": {
-        "block": 1,
-        "paragraph": 1
-       }
-      }
-     ],
-     "checklist": {
-      "title": "Как познакомиться со школой",
-      "items": [
-       {
-        "text": "Посетить день открытых дверей 7 декабря 2026 года.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Пройти регистрацию и ознакомиться с подробными сведениями на сайте школы skolavela.cz.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "bd01fdcdc8f32ac71d4a020280e43769ca47f0f4c7869f7c499cef6601739d3d"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "posle-30-let-ozhidaniia-shkola-na-zhizhkove-poluchila-dolgozhdannyi-dv",
-       "title": "После 30 лет ожидания: школа на Жижкове получила долгожданный двор",
-       "desc": "В Праге 3 завершили реконструкцию школьного двора на улице Lupáčova. Теперь ученики могут заниматься спортом, отдыхать и учиться на свежем воздухе.",
-       "date": "23 октября 2026, 04:08",
-       "img": "https://img.24n.cz/p/2026/10/posle-30-let-ozhidaniia-shkola-na-zhizhkove-poluchila-dolgoz-0294ba945f16e2a0.webp"
-      }
-     ]
-    }
-   },
-   "uk": {
-    "title": "Школа Vela відкрила філію в празькій Дєдіні для 1-9 класів",
-    "lede": "Інноваційна школа Vela, де учні самостійно керують своїм навчанням, відкрила філію в житловому масиві Дєдін у Празі. Заклад приймає дітей з першого по дев'ятий класи.",
-    "meta_description": "Альтернативна школа Vela відкрила філію на Дєдіні в Празі. Учні самі планують навчання, вчаться в різновікових групах і обходяться без оцінок.",
-    "paras": [
-     "<p>Альтернативна школа <b>Vela</b> відкрила нове відділення в празькому мікрорайоні Дєдін. Концепція закладу будується на тому, що головні навички для особистого й професійного життя не повинні бути факультативом, а становлять основу роботи всієї школи.</p>",
-     "<p>Кожен учень разом з педагогом регулярно складає власний план і розклад. Діти вчаться брати відповідальність за свою освіту, а всі успіхи й освітній шлях фіксуються в спеціальному мобільному застосунку, який школа розробила самостійно.</p>",
-     "<h3>Як влаштований навчальний день</h3>",
-     "<p>Уроки проходять не в одному звичному класі. Діти займаються в різновікових групах, використовуючи не лише звичайні кабінети, а й лабораторію, художню студію, майстерню, а також 3D-принтери та інше обладнання. Школярі регулярно виїжджають на навчання на природу й вирушають на екскурсії.</p>",
-     "<p>Замість оцінок учні отримують регулярний зворотний зв'язок і словесну оцінку своїх успіхів. На правила школи та її повсякденне життя діти впливають нарівні з дорослими.</p>",
-     "<p>Результати такої освітньої системи підтверджуються на практиці. Як зазначають у навчальному закладі, дев'ятикласники школи за останні чотири роки складали єдині вступні іспити з чеської мови та математики в середньому краще за приблизно дві третини вступників по всій Чехії.</p>",
-     "<h3>Простір і концепція</h3>",
-     "<p>Інтер'єри нової філії за проєктом школи розробив архітектор Іржи Юнек, який раніше працював над простором у районі Глоубетін. Замість звичних парт і рядів стільців тут обладнані класи з різними варіантами посадки, великі сходи для читання й відпочинку, ігрова кімната для продовженого дня, бібліотека та затишні тихі куточки для усамітнення.</p>",
-     "<blockquote>Хочемо, щоб діти проводили час у школі з користю, виходили з неї з бажанням продовжувати вчитися і з упевненістю, що для прогресу в них є все необхідне. На Дєдіні ми тепер можемо запропонувати це й родинам із шостого міського округу та околиць.</blockquote>",
-     "<p>Так охарактеризувала відкриття філії співзасновниця навчального закладу Ева Діттріх.</p>",
-     "<h3>Умови прийому та графік</h3>",
-     "<p>Школа працює з 7:30 до 17:30, до розкладу входять денний продовжений день і триразове харчування. Заклад пропонує знижки для братів і сестер, а також навчальні стипендії. Філія приймає дітей з першого по дев'ятий клас.</p>",
-     "<p>Познайомитися зі школою батьки зможуть під час дня відкритих дверей, який відбудеться 7 грудня 2026 року. Реєстрація та докладні відомості опубліковані на сайті школи skolavela.cz.</p>"
-    ],
-    "faq": [
-     {
-      "q": "Де відкрилася нова філія школи Vela?",
-      "a": "Нове відділення школи відкрилося на Дєдіні в Празі."
-     },
-     {
-      "q": "З якого по який клас приймає дітей нова філія?",
-      "a": "Філія приймає учнів з першого по дев'ятий класи."
-     },
-     {
-      "q": "Як батьки можуть відвідати школу перед вступом?",
-      "a": "День відкритих дверей відбудеться 7 грудня 2026 року, реєстрація доступна на офіційному сайті школи."
-     }
-    ],
-    "impact": "Филиал альтернативной школы на Дедине предлагает родителям из Праги 6 и окрестностей обучение с первого по девятый классы с продленкой до 17:30, питанием, стипендиями и скидками для сиблингов.",
-    "reading": {
-     "schema_version": 2,
-     "key_points": [
-      {
-       "text": "Школа Vela відкрила нову філію в житловому масиві Дєдін у Празі для учнів з першого по дев'ятий класи.",
-       "target": {
-        "block": 12,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Учні разом з педагогом регулярно складають власний план і розклад, а їхні успіхи фіксуються в спеціальному мобільному застосунку.",
-       "target": {
-        "block": 2,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "Замість оцінок школярі отримують регулярний зворотний зв'язок і словесну оцінку своїх успіхів.",
-       "target": {
-        "block": 5,
-        "paragraph": 1
-       }
-      },
-      {
-       "text": "День відкритих дверей у школі відбудеться 7 грудня 2026 року.",
-       "target": {
-        "block": 13,
-        "paragraph": 1
-       }
-      }
-     ],
-     "glossary": [],
-     "checklist": {
-      "title": "Як познайомитися зі школом Vela",
-      "items": [
-       {
-        "text": "Зареєструйтеся на день відкритих дверей, який пройде 7 грудня 2026 року.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       },
-       {
-        "text": "Знайдіть докладні відомості на сайті школи skolavela.cz.",
-        "target": {
-         "block": 13,
-         "paragraph": 1
-        }
-       }
-      ]
-     },
-     "body_sha256": "3d1be7bf0259556819dbeab7013fb9ecd7268e7f505f76af347f74a0a7485cde"
-    },
-    "context": {
-     "v": 1,
-     "before": "",
-     "assessment": "",
-     "refs": [],
-     "links": [],
-     "also": [
-      {
-       "slug": "posle-30-let-ozhidaniia-shkola-na-zhizhkove-poluchila-dolgozhdannyi-dv",
-       "title": "Після 30 років очікування: школа на Жижкові отримала довгоочікуване подвір'я",
-       "desc": "У Празі 3 завершили реконструкцію шкільного подвір'я на вулиці Lupáčova. Тепер учні можуть займатися спортом, відпочивати та вчитися на свіжому повітрі.",
-       "date": "23 жовтня 2026, 04:08",
-       "img": "https://img.24n.cz/p/2026/10/posle-30-let-ozhidaniia-shkola-na-zhizhkove-poluchila-dolgoz-0294ba945f16e2a0.webp"
-      }
-     ]
-    }
-   },
-   "rank": 26.25,
-   "image_url": "https://img.24n.cz/p/2026/11/shkola-vela-otkryla-filial-v-prazhskoi-dedine-dlia-1-9-klass-330232a238ee2c4b.webp",
-   "image_w": 750,
-   "image_h": 300
   }
  ],
  "stories": [
